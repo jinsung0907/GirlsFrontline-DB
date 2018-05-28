@@ -1,0 +1,117 @@
+<?php
+	define("GF_HEADER", "aaaaa");
+	$dolls = json_decode(file_get_contents("data/doll.json"));
+	
+	$t = $_GET['t'];
+	$q = $_GET['q'];
+
+	$title;
+	
+	if($t === "1") {
+		$div = explode("-", $q);
+		foreach($dolls as $doll) {
+			if($doll->id == $div[0]) {
+				$title = $doll->krName . " 인형의 추억";
+			}
+		}
+		$file = json_decode(file_get_contents("story_json/memoir/".$div[0]."_".$div[1].".txt"));
+	}
+	
+	if($t === "2") {
+		$file = json_decode(file_get_contents("story_json/skin/$q.txt"));
+	}
+
+	
+	
+	if(!sizeof($file)) {
+		exit("badinput");
+	}
+	
+	$header_desc .= ", $title";
+	$header_title = "$title | 소전DB";
+	require_once("header.php");
+?>
+     <main role="main" class="container">
+		<div class="col-12 my-3 p-3 bg-white rounded box-shadow">
+		<input type="checkbox" id="storyimg_btn"><label for="storyimg_btn">텍스트만 보기</label>
+        <h6 class="border-bottom border-gray pb-2 mb-0"><?=$title?></h6>
+        <div class="text-muted pt-3">
+		<?php	foreach($file as $line) { 
+				if(isset($line->bg)) {
+					$bg = $line->bg;
+				}
+					if($bg != "0" && $bg != "9" && $bg != "10") {
+						echo "<div class=\"storyimg\" style=\"position: relative;overflow: hidden;\">";
+						echo "<img style=\"width:100%;position:relative;z-index:\"  src='img/story_background/$bg.png'>";
+						
+						$totnum = sizeof($line->character);
+						$i = 0;
+						$strcount = '';
+						switch($totnum) {
+							case 1: $strnum = 'one'; break;
+							case 2: $strnum = 'two'; break;
+							case 3: $strnum = 'three'; break;
+						}
+						foreach($line->character as $char) {
+							$strcount = '';
+							switch($i) {
+								case 0: $strcount .= 'first'; break;
+								case 1: $strcount .= 'second'; break;
+								case 2: $strcount .= 'third'; break;
+							}
+							$imgdir = getcharimgdir($char, $line->character_emotion[$i]);
+							if($i == $line->speaker) {
+								$strcount .= ' saying';
+							}
+							echo "<img class=\"storydoll $strnum $strcount\" src='img/$imgdir.png'>";
+							$i++;
+						}
+						echo "</div>";
+					}
+				//} ?>
+			<p class="pb-3 mb-0 small lh-125">
+				<strong class="d-block text-dark"><a class="doll_link" href="doll.php?id=<?=$line->speaker_name?>"><?=$line->speaker_name?></a></strong>
+				<?=nl2br($line->text)?>
+				<br>
+				<br>
+			</p>
+			<?php } ?>
+        </div>
+      </div>
+	  <div class="my-3 p-3 bg-white rounded box-shadow">
+		<!-- 라이브리 시티 설치 코드 -->
+		<div id="lv-container" data-id="city" data-uid="MTAyMC8zNjIyNy8xMjc2Mg==">
+			<script type="text/javascript">
+			window.livereOptions = { refer: '<?=$_SERVER['HTTP_HOST']?><?=$_SERVER['REQUEST_URI']?>' };
+		   (function(d, s) {
+			   var j, e = d.getElementsByTagName(s)[0];
+
+			   if (typeof LivereTower === 'function') { return; }
+
+			   j = d.createElement(s);
+			   j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+			   j.async = true;
+
+			   e.parentNode.insertBefore(j, e);
+		   })(document, 'script');
+			</script>
+		<noscript> 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
+		</div>
+		<!-- 시티 설치 코드 끝 -->
+	</div>
+    </main>
+<?php
+	require_once("footer.php");
+?>
+	<script>
+		$("#storyimg_btn").on('click', function() {
+			if($(this).prop("checked") === true) {
+				$(".container").find("img").hide();
+			}
+			else if($(this).prop('checked') === false) {
+				$(".container").find("img").show();
+			}
+		});
+	</script>
+	</body>
+</html>

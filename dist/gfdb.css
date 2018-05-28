@@ -1,0 +1,361 @@
+.skillview {
+	width: 9vh;
+	height: 9vh;
+}
+
+.skillview tr {
+	height: 3vh;
+	background-color: #6b696b;
+}
+
+.skillview td {
+	border: 2px solid black;
+	width: 3vh;
+}
+
+.skillview.tile {
+	width: 27%;
+	height: 27%;
+	top:0;
+	right: 0;
+	position: absolute;
+}
+
+.skillview.tile tr {
+	height: 9%;
+	background-color: #6b696b;
+}
+
+.skillview.tile td {
+	border: 1px solid black;
+	width: 9%;
+}
+
+.skillview .center {
+	background-color: #ffffff;
+}
+
+.skillview .affected {
+	background-color: #00ffde;
+}
+
+.skillimg {
+	width: 3vh;
+}
+
+@media (max-width: 767px) {
+	.storyimg {
+		width: 100%;
+	}
+	.storydoll {
+		width: 60%;
+		filter: brightness(50%);
+		position: absolute;
+		bottom: -20%;
+		z-index: 1;
+	}
+	.storydoll.saying {
+		filter: brightness(100%);
+		z-index: 100;
+	}
+	.storydoll.one {
+		left: 20%;
+	}
+	.storydoll.two.first {
+		left: 5%;
+	}
+	.storydoll.two.second {
+		left: 35%;
+	}
+	.storydoll.three.first {
+		left: -10%;
+	}
+	.storydoll.three.second {
+		left: 20%;
+	}
+	.storydoll.three.third {
+		left: 50%;
+	}
+	
+	.storyfairy {
+		width: 35%;
+		filter: brightness(50%);
+		position: absolute;
+		bottom: 10%;
+		z-index: 1;
+	}
+	.storyfairy.saying {
+		filter: brightness(100%);
+		z-index: 100;
+	}
+	.storyfairy.one {
+		left: 30%;
+	}
+	.storyfairy.two.first {
+		left: 10%;
+	}
+	.storyfairy.two.second {
+		left: 55%;
+	}
+	.storyfairy.three.first {
+		left: 3%;
+	}
+	.storyfairy.three.second {
+		left: 33%;
+	}
+	.storyfairy.three.third {
+		left: 63%;
+	}
+}
+@media (min-width: 768px) {
+	.storyimg {
+		width: 700px;
+	}
+	.storydoll {
+		width: 500px;
+		filter: brightness(50%);
+		position: absolute;
+		bottom: -30%;
+		z-index: 1;
+	}	
+	.storydoll.saying {
+		filter: brightness(100%);
+		z-index: 100;
+	}
+	.storydoll.one {
+		left: 15%;
+	}
+	.storydoll.two.first {
+		left: -5%;
+	}
+	.storydoll.two.second {
+		left: 35%;
+	}
+	.storydoll.three.first {
+		left: -10%;
+	}
+	.storydoll.three.second {
+		left: 15%;
+	}
+	.storydoll.three.third {
+		left: 45%;
+	}
+	
+	.storyfairy {
+		width: 300px;
+		filter: brightness(50%);
+		position: absolute;
+		bottom: 10%;
+		z-index: 1;
+	}
+	.storyfairy.saying {
+		filter: brightness(100%);
+		z-index: 100;
+	}
+	.storyfairy.one {
+		left: 30%;
+	}
+	.storyfairy.two.first {
+		left: 10%;
+	}
+	.storyfairy.two.second {
+		left: 55%;
+	}
+	.storyfairy.three.first {
+		left: 0%;
+	}
+	.storyfairy.three.second {
+		left: 30%;
+	}
+	.storyfairy.three.third {
+		left: 60%;
+	}
+}
+
+.doll_link {
+	color: black;
+}
+
+.txthighlight {
+	font-weight: bold;
+	background-color: #ffc000;
+}
+
+.fairyindex.row {
+	//display: inline;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+.fairyindex .item {
+	//background-color:#FFFFFF;
+	width: 30vh;
+	height: 33vh;
+	display: flex;
+	flex-flow: column;
+	margin: auto;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+	
+	position: relative;
+	border-radius: 3px;
+	
+	border: 2px solid #000000;
+}
+
+.fairyindex .item:hover {
+	-webkit-filter: brightness(1.2);
+	filter: brightness(1.2);
+}
+
+.fairyindex .item .rankbar {
+	position:absolute; 
+	background-color:#555555; 
+	height:1.8vh; 
+	width:100%; 
+	top:0; 
+	left: 0;
+	z-index: 1;
+}
+
+.fairyindex .item .typeicon {
+	width: 40%;
+	vertical-align: top;
+}
+
+.dollindex.row {
+	//display: inline;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+.dollindex .item {
+	//background-color:#FFFFFF;
+	width: 15vh;
+	height: 31.2vh;
+	display: flex;
+	flex-flow: column;
+	margin: auto;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+	
+	position: relative;
+	border-radius: 3px;
+	
+}
+
+.dollindex .item:hover {
+	//-webkit-filter: brightness(1.2);
+	//filter: brightness(1.2);
+}
+
+.dollindex .item .rankbar {
+	background-size: 1.8vh;
+	background-repeat: no-repeat;
+	/* position:absolute; */
+	background-color:#555555;
+	height:1.8vh;
+	width:100%;
+	top:0;
+	left: 0;
+	z-index: 1;
+}
+
+.dollindex .item .starrank {
+	position: absolute;
+	//background-size: 1.8vh;
+	//background-repeat: no-repeat;
+	z-index: 2;
+}
+
+
+.dollindex .item.rank1 {
+	border: 2px solid #d5a3fd;
+}
+
+.dollindex .item.rank1 .rankbar {
+	background-image: url('/img/rank.png'), url('/img/rank.png'), url('/img/rank.png'), url('/img/rank.png'), url('/img/rank.png');
+	background-position: 100% 5%, 90% 5%, 80% 5%, 70% 5%, 60% 5%;
+}
+
+.dollindex .item.rank2 {
+	border: 2px solid #bcbcbc;
+}
+.dollindex .item.rank2 .rankbar {
+	background-image: url('/img/rank.png'), url('/img/rank.png');
+	background-position: 100% 5%, 90% 5%;
+}
+
+.dollindex .item.rank3 {
+	border: 2px solid #5dd9c3;
+}
+.dollindex.item.rank3 .rankbar {
+	background-image: url('/img/rank.png'), url('/img/rank.png'), url('/img/rank.png');
+	background-position: 100% 5%, 90% 5%, 80% 5%;
+}
+
+.dollindex .item.rank4 {
+	border: 2px solid #d6e35a;
+}
+.dollindex .item.rank4 .rankbar {
+	background-image: url('/img/rank.png'), url('/img/rank.png'), url('/img/rank.png'), url('/img/rank.png');
+	background-position: 100% 5%, 90% 5%, 80% 5%, 70% 5%;
+}
+
+.dollindex .item.rank5 {
+	border: 2px solid #fda809;
+}
+.dollindex .item.rank5 .rankbar {
+	background-image: url('/img/rank.png'), url('/img/rank.png'), url('/img/rank.png'), url('/img/rank.png'), url('/img/rank.png');
+	background-position: 100% 5%, 90% 5%, 80% 5%, 70% 5%, 60% 5%;
+}
+
+.dollindex .item .typeicon {
+	width: 40%;
+	vertical-align: top;
+}
+
+.portrait {
+	width: 100%;
+	height: 100%;
+	//
+	background-color: #FF5733;
+	background-position: 0% 0%;
+	background-size: 30vh;
+	background-repeat: no-repeat;
+}
+.portrait.damaged {
+	background-position: 98% 0%;
+}
+.portrait_name {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	//height: 30%;
+	opacity: 0.8;
+	background-color: #000000; 
+	font-weight: 500;
+	color: white; 
+	font-size: 2vh; 
+	text-align: center;
+	white-space: nowrap; 
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.carousel-control-next:hover {
+	background-color: #AAAAAA;
+}
+.carousel-control-prev:hover {
+	background-color: #AAAAAA;
+}
+.carousel-item img {
+	cursor: pointer;
+}
+
+.second_round.first {
+}
+.second_round.second {
+	display: none;
+	background-color: #fffff8 !important;
+}
