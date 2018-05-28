@@ -127,6 +127,9 @@
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3>히스토리</h3>
+			1.2.2 v (5/28)<br>
+			 - MG 사속 계산이 잘못된 점 수정<br>
+			<br>
 			1.2.1 v (5/28)<br>
 			 - 사속 자가 버프(ex. 고속사격)가 적용되지 않던 버그 수정<br>
 			 <br>
@@ -399,7 +402,7 @@
 			updata.stats = dollstats;
 			
 			$.ajax({
-				url: "testcalc.php",
+				url: "simulator_calc.php",
 				method: "POST",
 				data: updata,
 				beforeSend: function( xhr ) {

@@ -290,7 +290,7 @@
 			}
 			
 			
-			//인형 스킬 화력 스탯 계산
+			//인형 스킬 스탯 계산
 			//사속 구하기
 			if(!isset($grid[$key][$doll->type]['rate'])|| $grid[$key][$doll->type]['rate'] == 0) {
 				$grid_rate = 1;
@@ -368,7 +368,10 @@
 			}
 					
 			//다음 사속 구하기
-			$frame = rate_to_frame($rate);
+			//mg는 사속 고정이니 rate값을 프레임으로 변환하지 않고 그대로감
+			if($doll->type != 'mg') {
+				$frame = rate_to_frame($rate);
+			}
 			
 			$beforeFrame = $curframe;
 			$curframe += $frame;
