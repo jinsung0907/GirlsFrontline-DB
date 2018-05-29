@@ -150,6 +150,27 @@
 			 - 첫 생성 <a href="http://gall.dcinside.com/mgallery/board/view/?id=micateam&no=183975"> 링크</a>
 			 <br><br>
 		</div>
+		<div class="my-3 p-3 bg-white rounded box-shadow">
+			<!-- 라이브리 시티 설치 코드 -->
+			<div id="lv-container" data-id="city" data-uid="MTAyMC8zNjIyNy8xMjc2Mg==">
+				<script type="text/javascript">
+				window.livereOptions = { refer: '<?=$_SERVER['HTTP_HOST']?><?=$_SERVER['REQUEST_URI']?>' };
+			   (function(d, s) {
+				   var j, e = d.getElementsByTagName(s)[0];
+
+				   if (typeof LivereTower === 'function') { return; }
+
+				   j = d.createElement(s);
+				   j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+				   j.async = true;
+
+				   e.parentNode.insertBefore(j, e);
+			   })(document, 'script');
+				</script>
+			<noscript> 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
+			</div>
+			<!-- 시티 설치 코드 끝 -->
+		</div>
     </main>
 <?php
 	require_once("footer.php");

@@ -402,11 +402,11 @@
 			}
 		}
 		
-		$resultvalue['timeline'][$key] = $dps_timeline;
+		//$resultvalue['timeline'][$key] = $dps_timeline;
 		$resultvalue['timeline_sec'][$key] = $dps_timeline_sec;
 		$resultvalue['dps'][$key] = $dps_timeline[450][1] / 15;
 	}
-	$resultvalue['skill_timeline'] = $skill_timeline;
+	//$resultvalue['skill_timeline'] = $skill_timeline;
 	
 	echo json_encode($resultvalue);
 	
