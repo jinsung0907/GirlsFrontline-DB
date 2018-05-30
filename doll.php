@@ -46,7 +46,7 @@
 	}
 	
 	//대사집 불러오기 및 파싱
-	$voice = '';
+	$voice = [];
 	$voices = explode(PHP_EOL, file_get_contents("data/charactervoice.txt"));
 	foreach($voices as $data) {
 		if(substr($data, 0, strlen($doll->name . "|")) === $doll->name . "|") {
@@ -54,34 +54,34 @@
 			$tmp[2] = str_replace('<>', '', $tmp[2]);
 			
 			switch($tmp[1]) {
-				case "DIALOGUE1": $voice .= '대화1 : '.$tmp[2].'<br>'; break;
-				case "DIALOGUE2": $voice .= '대화2 : '.$tmp[2].'<br>'; break;
-				case "DIALOGUE3": $voice .= '대화3 : '.$tmp[2].'<br>'; break;
-				case "SOULCONTRACT": $voice .= '서약 : '.$tmp[2].'<br>'; break;
+				case "DIALOGUE1": array_push($voice, ['대화1', $tmp[2]]); break;
+				case "DIALOGUE2": array_push($voice, ['대화2', $tmp[2]]); break;
+				case "DIALOGUE3": array_push($voice, ['대화3', $tmp[2]]); break;
+				case "SOULCONTRACT": array_push($voice, ['서약', $tmp[2]]); break;
 				case "Introduce": $introduce = $tmp[2]; break;
-				case "ALLHALLOWS": $voice .= '할로윈 : '.$tmp[2].'<br>'; break;
-				case "DIALOGUEWEDDING": $voice .= '서약후 대화 : '.$tmp[2].'<br>'; break;
-				case "CHRISTMAS": $voice .= '크리스마스 : '.$tmp[2].'<br>'; break;
-				case "HELLO": $voice .= '로그인 : '.$tmp[2].'<br>'; break;
-				case "SKILL2": $voice .= '스킬2 : '.$tmp[2].'<br>'; break;
-				case "SKILL3": $voice .= '스킬3 : '.$tmp[2].'<br>'; break;
-				case "GOATTACK": $voice .= '출격 : '.$tmp[2].'<br>'; break;
-				case "BREAK": $voice .= '중상 : '.$tmp[2].'<br>'; break;
-				case "RETREAT": $voice .= '퇴각 : '.$tmp[2].'<br>'; break;
-				case "FIX": $voice .= '수복 : '.$tmp[2].'<br>'; break;
-				case "LOWMOOD": $voice .= '탄식 : '.$tmp[2].'<br>'; break;
-				case "MOOD2": $voice .= '놀람 : '.$tmp[2].'<br>'; break;
-				case "NEWYEAR": $voice .= '신년 : '.$tmp[2].'<br>'; break;
-				case "BLACKACTION": $voice .= '자율작전 : '.$tmp[2].'<br>'; break;
-				case "VALENTINE": $voice .= '발렌타인 : '.$tmp[2].'<br>'; break;
-				case "ATTACK": $voice .= '공격 : '.$tmp[2].'<br>'; break;
-				case "MOOD1": $voice .= '웃음 : '.$tmp[2].'<br>'; break;
-				case "AGREE": $voice .= '동의 : '.$tmp[2].'<br>'; break;
-				case "ACCEPT": $voice .= '수락 : '.$tmp[2].'<br>'; break;
-				case "FEED": $voice .= '강화 : '.$tmp[2].'<br>'; break;
-				case "DEFENSE": $voice .= '방어 : '.$tmp[2].'<br>'; break;
-				case "OPERATIONOVER": $voice .= '작전종료 : '.$tmp[2].'<br>'; break;
-				case "COMBINE": $voice .= 'COMBINE : '.$tmp[2].'<br>'; break;
+				case "ALLHALLOWS": array_push($voice, ['할로윈', $tmp[2]]); break;
+				case "DIALOGUEWEDDING": array_push($voice, ['서약대화', $tmp[2]]); break;
+				case "CHRISTMAS": array_push($voice, ['크리스마스', $tmp[2]]); break;
+				case "HELLO": array_push($voice, ['로그인', $tmp[2]]); break;
+				case "SKILL2": array_push($voice, ['스킬2', $tmp[2]]); break;
+				case "SKILL3": array_push($voice, ['스킬3', $tmp[2]]); break;
+				case "GOATTACK": array_push($voice, ['출격', $tmp[2]]); break;
+				case "BREAK": array_push($voice, ['중상', $tmp[2]]); break;
+				case "RETREAT": array_push($voice, ['퇴각', $tmp[2]]); break;
+				case "FIX": array_push($voice, ['수복', $tmp[2]]); break;
+				case "LOWMOOD": array_push($voice, ['탄식', $tmp[2]]); break;
+				case "MOOD2": array_push($voice, ['놀람', $tmp[2]]); break;
+				case "NEWYEAR": array_push($voice, ['신년', $tmp[2]]); break;
+				case "BLACKACTION": array_push($voice, ['자율작전', $tmp[2]]); break;
+				case "VALENTINE": array_push($voice, ['발렌타인', $tmp[2]]); break;
+				case "ATTACK": array_push($voice, ['공격', $tmp[2]]); break;
+				case "MOOD1": array_push($voice, ['웃음', $tmp[2]]); break;
+				case "AGREE": array_push($voice, ['동의', $tmp[2]]); break;
+				case "ACCEPT": array_push($voice, ['수락', $tmp[2]]); break;
+				case "FEED": array_push($voice, ['강화', $tmp[2]]); break;
+				case "DEFENSE": array_push($voice, ['방어', $tmp[2]]); break;
+				case "OPERATIONOVER": array_push($voice, ['작전종료', $tmp[2]]); break;
+				case "COMBINE": array_push($voice, ['편제확대', $tmp[2]]); break;
 			}
 		}
 	}
@@ -569,8 +569,23 @@
 			<div class="card card-body bg-light mt-3 p-2">
 				소개말 : <br><?=str_replace("\\n", "<br>" ,$introduce)?>
 			</div>
-			<div class="card card-body bg-light mt-3 p-2">
-				<?=$voice?>
+			<div class="card card-body bg-light mt-3 p-0">
+				<table class="table">
+					<thead>
+						<tr style="text-align:center; vertical-align:middle">
+							<th style="width: 15%">상황</th>
+							<th>대사</th>
+						</tr>
+					</thead>
+					<tbody>
+					<?php foreach($voice as $dat) { ?>
+						<tr>
+							<td class="p-1" style="text-align:center; vertical-align:middle"><?=$dat[0]?></td>
+							<td class="p-1"  style="vertical-align:middle"><?=$dat[1]?></td>
+						</tr>
+					<?php } ?>
+					</tbody>
+				</table>
 			</div>
 		</div>	
 		<div class="my-3 p-3 bg-white rounded box-shadow">
