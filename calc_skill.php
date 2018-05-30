@@ -68,36 +68,5 @@ switch($doll->skill->id) {
 	//나머지는 그냥 스킵
 	default:
 		$i = 451;
-	/*
-	//고속사격 (사속 자가버프)
-	case 4:
-		$duration = $doll->skill->dataPool->DR[$skilllevel-1] * 30;
-		$to = $i + $duration;
-		for($i; $i <= $to ; $i++) {
-			if($i > 450) {
-				break;
-			}
-			$skill_timeline[$key][$i][] = [$skillid, $doll->id, $skilllevel];
-		}
-		$i += $doll->skill->dataPool->CD[$skilllevel-1] * 30 - $duration;
-		break;
-		
-		
-	//진압신호 (사속 아군전체)
-	case 5: 
-		$duration = $doll->skill->dataPool->DR[$skilllevel-1] * 30;
-		$to = $i + $duration;
-		for($i; $i <= $to ; $i++) {
-			if($i > 450) {
-				break;
-			}
-			for($j = 1 ; $j <= 9 ; $j++) {
-				$skill_timeline[$j][$i][] = [$skillid, $doll->id, $skilllevel];
-			}
-		}
-		$i += $doll->skill->dataPool->CD[$skilllevel-1] * 30 - $duration;
-		break;
-		
-	*/
 }
 ?>
