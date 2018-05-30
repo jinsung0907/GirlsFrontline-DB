@@ -1,5 +1,7 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	$header_title = "소전DB 요정리스트 | 소전DB";
+	$header_desc = "소녀전선 요정 목록, 소녀전선 요정 리스트, 소녀전선 추천요정";
 	require_once("header.php");
 	$fairies = json_decode(file_get_contents("data/fairy.json"));
 ?>

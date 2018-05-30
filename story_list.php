@@ -1,5 +1,7 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	$header_title = "소녀전선 메인스토리 | 소전DB";
+	$header_desc = "소녀전선 스토리, 소전 스토리, 소녀전선 스토리 정리, 소녀전선 스토리 순서, 소녀전선 메인 스토리 순서"; 
 	require_once("header.php");
 	$storys = json_decode(file_get_contents("story_json/story.txt"));
 ?>

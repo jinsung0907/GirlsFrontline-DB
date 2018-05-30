@@ -1,7 +1,7 @@
 <?php
 	define("GF_HEADER", "aaaaa");
-	$header_desc = "디스크 계산기, 작전 보고서 계산기, 작보 계산기";
-	$header_title = "작전 보고서 계산기";
+	$header_desc = "디스크 계산기, 작전 보고서 계산기, 작보 계산기, 소녀전선 경험치 계산기";
+	$header_title = "작전 보고서 계산기 | 소전DB";
 	require_once("header.php");
 ?>
     <main role="main" class="container">
