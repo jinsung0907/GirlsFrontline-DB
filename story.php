@@ -71,7 +71,7 @@
 		<input type="checkbox" id="storyimg_btn"><label for="storyimg_btn">텍스트만 보기</label>&nbsp;
 		<?php 
 			foreach($second_round as $val) {
-				if(strpos($val[0], $_GET['q']) !== false) { ?>
+				if(strpos($val[0], $_GET['q']) === 0) { ?>
 					<input type="checkbox" id="second_round_btn"><label for="second_round_btn">2회차 스토리 보기</label>
 		<?php break;
 				}
