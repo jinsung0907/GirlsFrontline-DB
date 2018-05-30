@@ -1,6 +1,5 @@
 <?php
 	define("GF_HEADER", "aaaaa");
-	$dolls = json_decode(file_get_contents("data/doll.json"));
 	
 	$t = $_GET['t'];
 	$q = $_GET['q'];
@@ -9,6 +8,7 @@
 	
 	if($t === "1") {
 		$div = explode("-", $q);
+		$dolls = json_decode(file_get_contents("data/doll.json"));
 		foreach($dolls as $doll) {
 			if($doll->id == $div[0]) {
 				$title = $doll->krName . " 인형의 추억";
@@ -18,6 +18,26 @@
 	}
 	
 	if($t === "2") {
+		$storys = json_decode(file_get_contents("data/substory.json"));
+		$num = floor($q / 100);
+		switch($num) {
+			case 0: $lists = $storys->skin[0]->list; break;
+			case 15: $lists = $storys->skin[1]->list; break;
+			case 3: $lists = $storys->skin[2]->list; break;
+			case 18: $lists = $storys->skin[3]->list; break;
+			case 19: $lists = $storys->skin[4]->list; break;
+			case 8: $lists = $storys->skin[5]->list; break;
+		}
+		
+		if(isset($lists)) {
+			foreach($lists as $list) {
+				if($q == $list->num) 
+					$title = $list->name;
+			}
+		} else {
+			$title = '스킨 스토리';
+		}
+		
 		$file = json_decode(file_get_contents("story_json/skin/$q.txt"));
 	}
 
@@ -31,11 +51,14 @@
 	$header_title = "$title | 소전DB";
 	require_once("header.php");
 ?>
-     <main role="main" class="container">
-		<div class="col-12 my-3 p-3 bg-white rounded box-shadow">
+<main role="main" class="container">
+	<div class="col-12 my-3 p-3 bg-white rounded box-shadow">
 		<input type="checkbox" id="storyimg_btn"><label for="storyimg_btn">텍스트만 보기</label>
-        <h6 class="border-bottom border-gray pb-2 mb-0"><?=$title?></h6>
-        <div class="text-muted pt-3">
+	</div>
+		
+	<div class="col-12 my-3 p-3 bg-white rounded box-shadow">
+		<h6 class="border-bottom border-gray pb-2 mb-0"><b><?=$title?></b></h6>
+		<div class="text-muted pt-3">
 		<?php	foreach($file as $line) { 
 				if(isset($line->bg)) {
 					$bg = $line->bg;
