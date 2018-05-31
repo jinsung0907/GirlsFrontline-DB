@@ -90,7 +90,7 @@
 			$comment = $story->comment . "<br><br>";
 		?>
 		<div class="my-3 p-3 bg-white rounded box-shadow"> 
-			<h2 style="display: inline;margin-right:10px"><?=$story->name?></h2>
+			<h2 style="display: inline;margin-right:10px"><?=$story->name?></h2><i><?=$story->desc?></i>
 			<h6 class="border-bottom border-gray pb-2 mb-0"></h6>
 			<div class="media text-muted pt-3">
 				<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
