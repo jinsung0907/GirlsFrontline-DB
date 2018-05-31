@@ -49,7 +49,7 @@
 			<h2 class="pb-3 border-bottom border-gray">소전DB 제대편성&DPS시뮬레이터</h2>
 			현재 특정스킬만 지원(맨 아래 확인), 공격력 랜덤조정 미적용, 치명상 랜덤이 아닌 평균값으로 계산<br>
 			링크는 해당 레벨에서 가능한 최대치로 설정됨(ex 71lv -> 4링), 야간 스킬 적용안됨, 스킬레벨 10으로 고정 <br>
-			DPS계산버튼 누를시 콘솔에 원시데이터 나오니 문제있으면 제보바람<br>
+			계산에 문제있으면 제보바람<br>
 			
 			<div id="scapture">
 			<span id="watermark"></span>

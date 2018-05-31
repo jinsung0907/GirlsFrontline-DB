@@ -151,8 +151,10 @@ function getcharimgdir($str, $emo) {
 					case 3: $result = "dolls/" . $result . "_2_D"; break;
 					case 4: $result = "dolls/" . $result . "_1"; break;
 					case 5: $result = "dolls/" . $result . "_1_D"; break;
-					case 6: $result = "dolls/" . $result . "_3"; break;
-					case 7: $result = "dolls/" . $result . "_3_D"; break;
+					case 6: $result = "dolls/" . $result . "_2"; break;
+					case 7: $result = "dolls/" . $result . "_2_D"; break;
+					case 8: $result = "dolls/" . $result . "_3"; break;
+					case 9: $result = "dolls/" . $result . "_3_D"; break;
 				}
 			}
 			else if($str == "HK416") {
