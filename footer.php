@@ -1,5 +1,6 @@
 <?php if(GF_HEADER != "aaaaa") exit; ?>
     <script src="dist/jquery-3.3.1.min.js"></script>
+    <script src="dist/jquery.lazy.min.js"></script>
     <script src="dist/popper.min.js"></script>
     <script src="dist/bootstrap.min.js"></script>
 	<script>
