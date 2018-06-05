@@ -566,6 +566,12 @@
 					<hr class="mt-1 mb-1">
 				</div>
 			</div>
+			<hr class="mt-1 mb-1">
+			<div style="position:relative">
+				<a id="desc_gitlink" target="_blank" class="btn btn-link m-0 p-0" style="position:absolute; right:0; top:0" href="https://github.com/jinsung0907/GFDB-character-description/blob/master/dolls/<?=$doll->id?>.txt"><i class="fab fa-github fa-fw"></i> 수정하기</a>
+				<span id="doll_desc">불러오는중..</span>
+			</div>
+			<hr class="mt-1 mb-1">
 			<div class="card card-body bg-light mt-3 p-2">
 				소개말 : <br><?=str_replace("\\n", "<br>" ,$introduce)?>
 			</div>
@@ -773,6 +779,31 @@
 		});
 		
 		var skinlist = <?=json_encode($skin, JSON_UNESCAPED_UNICODE);?>
+		
+		$.ajax({
+			url: 'https://gfdb.github.io/GFDB-character-description/dolls/<?=$doll->id?>.txt',
+			success: function(data) {
+				if(data == '') {
+					$('#doll_desc').text("정보없음");
+					return;
+				}
+				else {
+					console.log(data);
+					var txt = data.replace(/\n/g, "<br>");
+					$('#doll_desc').html(txt);
+					return;
+				}
+			},
+			error: function(e) {
+				if(e.status == 404) {
+					$('#doll_desc').text("정보없음");
+					$('#desc_gitlink').attr('href', 'https://github.com/GFDB/GFDB-character-description/tree/master/dolls').html('<i class="fab fa-github fa-fw"></i> 추가하기');
+					return;
+				}
+				$('#doll_desc').text("에러발생");
+				return;
+			}
+		});
 	</script>
 
 	<!-- Live2D Library -->

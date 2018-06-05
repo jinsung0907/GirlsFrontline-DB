@@ -41,7 +41,7 @@ body, h1, h2, h3, h4, h5, h6, li, p { font-family:"Nanum Gothic", sans-serif !im
 					<div class="starrank">
 						<img src="img/type/<?=strtoupper($doll->type)?><?=$doll->rank?>.png" class="typeicon">
 					</div>
-					<i class="portrait" data-src='img/dolls/portraits/<?=$imgsrc?>.png' ></i>
+					<i class="portrait" style="background-image: url('img/dolls/portraits/<?=$imgsrc?>.png'" ></i>
 					<div class="portrait_name pt-2 pb-2"><?=$doll->krName?$doll->krName:$doll->name?></div>
 				</a><?php } ?>
 			</div>
@@ -51,18 +51,6 @@ body, h1, h2, h3, h4, h5, h6, li, p { font-family:"Nanum Gothic", sans-serif !im
 	require_once("footer.php");
 ?>
 	<script>
-		$(".portrait").lazy({
-			effect: 'fadeIn',
-			//placeholder: "img/load.gif",
-			beforeLoad: function(e) {
-				e.append('<img>', {
-					src: "img/load.gif"
-				});
-			},
-			afterLoad: function(e) {
-				e.empty();
-			}
-		});
 		$("a.dollindex.item").on("mouseover", function() {
 			if($('#damaged').prop("checked") === true) {
 				$(this).find("i.portrait").removeClass("damaged");
