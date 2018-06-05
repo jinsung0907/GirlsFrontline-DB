@@ -16,7 +16,6 @@
 	
 	
 	$dolls = json_decode(file_get_contents("data/doll.json"));
-	$dolls_2 = json_decode(file_get_contents("data/doll_2.json"));
 	$skills = json_decode(file_get_contents("data/skill.json"));
 	
 	$guntype = ['ar', 'sg', 'rf', 'hg', 'mg', 'smg'];
@@ -169,7 +168,7 @@
 		$ammocnt = 9999; //현재 장탄수, 기본은 무한대로 9999넣음
 		$firecount = 0; //발사 수. 추후 발사수 기반 스킬에 사용하기 위해 넣음
 		if($doll->type == 'mg' || $doll->type == 'sg') { //탄 개수가 있는 총기일경우 
-			$ammocnt = getAmmoCnt($doll->id); //빼고 더할때 쓰는 변수
+			$ammocnt = $doll->stats->bullet; //빼고 더할때 쓰는 변수
 			$doll_ammocnt = $ammocnt; //원래 총알 개수 저장
 		}
 		
@@ -521,17 +520,6 @@
 			case 120: return 12; break;
 		}
 		return 450;
-	}
-	
-	function getAmmoCnt($id) {
-		global $dolls_2;
-		
-		foreach($dolls_2 as $data) {
-			if($data->id == $id) {
-				return $data->ammoCount;
-				break;
-			}
-		}
 	}
 	
 	function getDollById($id) {

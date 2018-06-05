@@ -35,6 +35,9 @@
 	if(empty($doll)) exit('<main role="main" class="container"><div class="my-3 p-3 bg-white rounded box-shadow">데이터 없음<br><br>NPC, BOSS는 데이터가 존재하지 않습니다.<br> 인형의 경우는 데이터가 안맞는것으로 게시판에 알려주심됩니다.</div></main>');
 	
 	$maxlevel = 100;
+	if($doll->id > 20000) {
+		$maxlevel = 120;
+	}
 	
 	//스킬데이터 불러오기
 	$skills = json_decode(file_get_contents("data/skill.json"));
@@ -262,44 +265,6 @@
 		return $result;
 	}
 	
-	
-	//인형 스탯
-	$tmp = json_decode(file_get_contents("data/doll_2.json"));
-	foreach($tmp as $data) {
-		if($data->id == $doll->id) {
-			$dollstat = $data;
-			if($doll->type == 'ar') {
-				$dollstat->speed = 10;
-			}
-			if($doll->type == 'rf') {
-				$dollstat->speed = 7;
-			}
-			if($doll->type == 'smg') {
-				$dollstat->speed = 12;
-			}
-			if($doll->type == 'sg') {
-				$dollstat->speed = 6;
-			}
-			if($doll->type == 'hg') {
-				$dollstat->speed = 15;
-			}
-			if($doll->type == 'mg') {
-				$dollstat->speed = 4;
-			}
-			
-			if($doll->id > 20000) {
-				$dollstat->hp[1] = $dollstat->hp[2];
-				$dollstat->dmg[1] = $dollstat->dmg[2];
-				$dollstat->hit[1] = $dollstat->hit[2];
-				$dollstat->dodge[1] = $dollstat->dodge[2];
-				$dollstat->FoR[1] = $dollstat->FoR[2];
-				$maxlevel = 120;
-			}
-			break;
-		}	
-	}
-	
-	
 	//sd스킨 불러오기
 	$tmp = file_get_contents("data/skin.txt");
 	
@@ -458,7 +423,7 @@
 								</tr>
 								<tr>
 									<td>장갑 : <span id="dollstats_armor">-</span></td>
-									<td>장탄 : <?=$dollstat->ammoCount ? $dollstat->ammoCount : '- '?>발</td>
+									<td>장탄 : <?=$doll->stats->bullet ? $doll->stats->bullet : '- '?>발</td>
 									<td colspan=2>
 										<select id="statlevel"><?php for($i = 1 ; $i <= $maxlevel ; $i++) {?>
 											<option <?=($i == 100)?'selected' : ''?> value="<?=$i?>"><?=$i?>레벨</option> <?php } ?>
