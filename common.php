@@ -50,7 +50,7 @@ function getcharimgdir($str, $emo) {
 	if($str == "RO") { $str = "RO635"; $emo = "0"; }
 	
 	
-	
+	//dolls.json에 있는것들
 	foreach($dolls as $doll) {
 		if($emo == "") return "invisible";
 		
@@ -262,7 +262,21 @@ function getcharimgdir($str, $emo) {
 					case 6: $result = "dolls/" . $result . "_3"; break;
 					case 7: $result = "dolls/" . $result . "_3_D"; break;
 					case 8: $result = "dolls/" . $result . "_4"; break;
-					case 9: $result = "dolls/" . $result . "_4_D"; break;				}
+					case 9: $result = "dolls/" . $result . "_4_D"; break;				
+				}
+			}
+			else if($str == "BB_Noel") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "dolls/" . $result . ""; break;
+					case 3: $result = "dolls/" . $result . "D"; break;
+					case 4: $result = "dolls/" . $result . "_1"; break;
+					case 5: $result = "dolls/" . $result . "_1_D"; break;
+					case 6: $result = "dolls/" . $result . "_3"; break;
+					case 7: $result = "dolls/" . $result . "_3_D"; break;
+					case 8: $result = "dolls/" . $result . "_4"; break;
+					case 9: $result = "dolls/" . $result . "_4_D"; break;				
+				}
 			}
 			else {
 				switch($emo) {
@@ -281,6 +295,8 @@ function getcharimgdir($str, $emo) {
 			return $result;
 		}
 	}
+	
+	//dolls.json에 없는것들
 	if($str == "M16") {
 		switch($emo) {
 			case 0: $result = "dolls/54"; break;
@@ -315,6 +331,24 @@ function getcharimgdir($str, $emo) {
 			case 1: $result = "story_character/UMP45-Young_angry"; break;
 			case 2: $result = "story_character/UMP45-Young_sad"; break;
 			case 3: $result = "story_character/UMP45-Young_serious"; break;
+		}
+	}
+	else if($str == "BB_Noel_503") {
+		switch($emo) {
+			case 0: $result = "dolls/1001_1"; break;
+			case 1: $result = "dolls/1001_1_D"; break;
+		}
+	}
+	else if($str == "GG_elfeldt_504") {
+		switch($emo) {
+			case 0: $result = "dolls/1002_1"; break;
+			case 1: $result = "dolls/1002_1_D"; break;
+		}
+	}
+	else if($str == "GG_elfeldt_505") {
+		switch($emo) {
+			case 0: $result = "dolls/1002_2"; break;
+			case 1: $result = "dolls/1002_2_D"; break;
 		}
 	}
 	else if($str == "NPC-Kalin") {
