@@ -48,6 +48,30 @@
 		}
 	}
 	
+	//인형 보이스 불러오기
+	$audio = [];
+	if(file_exists("audio/doll/" . $doll->name) && is_dir("audio/doll/" . $doll->name)) {
+		$dir = scandir("audio/doll/" . $doll->name);
+		array_shift($dir); array_shift($dir);
+		
+		$ext = 'opus';
+		if(stripos($_SERVER['HTTP_USER_AGENT'], 'Safari') !== false && stripos($_SERVER['HTTP_USER_AGENT'], 'Chrome') == false) {
+		   $ext = 'mp3';
+		}
+
+		foreach($dir as $filename) {
+			$matches;
+			preg_match ('/.*.acb_000000(.*).opus/', $filename, $matches);
+			$num = $matches[1];
+			if(count($dir) == 80) {
+				$audio[audiohex_to_str($num, 0)] = "audio/doll/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
+			}
+			else if(count($dir) == 82) {
+				$audio[audiohex_to_str($num, 1)] = "audio/doll/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
+			}
+		}
+	}
+	
 	//대사집 불러오기 및 파싱
 	$voice = [];
 	$voices = explode(PHP_EOL, file_get_contents("data/charactervoice.txt"));
@@ -56,35 +80,18 @@
 			$tmp = explode('|', $data);
 			$tmp[2] = str_replace('<>', '', $tmp[2]);
 			
-			switch($tmp[1]) {
-				case "DIALOGUE1": array_push($voice, ['대화1', $tmp[2]]); break;
-				case "DIALOGUE2": array_push($voice, ['대화2', $tmp[2]]); break;
-				case "DIALOGUE3": array_push($voice, ['대화3', $tmp[2]]); break;
-				case "SOULCONTRACT": array_push($voice, ['서약', $tmp[2]]); break;
-				case "Introduce": $introduce = $tmp[2]; break;
-				case "ALLHALLOWS": array_push($voice, ['할로윈', $tmp[2]]); break;
-				case "DIALOGUEWEDDING": array_push($voice, ['서약대화', $tmp[2]]); break;
-				case "CHRISTMAS": array_push($voice, ['크리스마스', $tmp[2]]); break;
-				case "HELLO": array_push($voice, ['로그인', $tmp[2]]); break;
-				case "SKILL2": array_push($voice, ['스킬2', $tmp[2]]); break;
-				case "SKILL3": array_push($voice, ['스킬3', $tmp[2]]); break;
-				case "GOATTACK": array_push($voice, ['출격', $tmp[2]]); break;
-				case "BREAK": array_push($voice, ['중상', $tmp[2]]); break;
-				case "RETREAT": array_push($voice, ['퇴각', $tmp[2]]); break;
-				case "FIX": array_push($voice, ['수복', $tmp[2]]); break;
-				case "LOWMOOD": array_push($voice, ['탄식', $tmp[2]]); break;
-				case "MOOD2": array_push($voice, ['놀람', $tmp[2]]); break;
-				case "NEWYEAR": array_push($voice, ['신년', $tmp[2]]); break;
-				case "BLACKACTION": array_push($voice, ['자율작전', $tmp[2]]); break;
-				case "VALENTINE": array_push($voice, ['발렌타인', $tmp[2]]); break;
-				case "ATTACK": array_push($voice, ['공격', $tmp[2]]); break;
-				case "MOOD1": array_push($voice, ['웃음', $tmp[2]]); break;
-				case "AGREE": array_push($voice, ['동의', $tmp[2]]); break;
-				case "ACCEPT": array_push($voice, ['수락', $tmp[2]]); break;
-				case "FEED": array_push($voice, ['강화', $tmp[2]]); break;
-				case "DEFENSE": array_push($voice, ['방어', $tmp[2]]); break;
-				case "OPERATIONOVER": array_push($voice, ['작전종료', $tmp[2]]); break;
-				case "COMBINE": array_push($voice, ['편제확대', $tmp[2]]); break;
+			if($tmp[1] == 'Introduce') {
+				$introduce = $tmp[2];
+				continue;
+			}
+			
+			$krcode = audiocode_to_kr($tmp[1]);
+			if(isset($audio[$tmp[1]])) {
+				$tmp[2] .= ' <button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'. $audio[$tmp[1]] .'"></audio>';
+				array_push($voice, [$krcode, $tmp[2]]);
+			}
+			else {
+				array_push($voice, [$krcode, $tmp[2]]);
 			}
 		}
 	}
@@ -768,6 +775,11 @@
 				$('#doll_desc').text("에러발생");
 				return;
 			}
+		});
+		
+		
+		$("button[name=playvoice]").on('click', function(e) {
+			$(this).next().get(0).play();
 		});
 	</script>
 
