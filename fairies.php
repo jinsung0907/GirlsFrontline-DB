@@ -19,7 +19,7 @@
 					$imgsrc = $fairy->name . "_3"; 
 					?>
 				<a href="fairy.php?id=<?=$fairy->id?>" class="fairyindex item" data-name='<?=$fairy->krName?>' data-buildtime='<?=gmdate("Gi", $fairy->buildTime)?>'>
-					<i class="portrait" style="background-image: url('img/fairy/<?=$imgsrc?>.png');" ></i>
+					<i class="portrait fairy" style="background-image: url('img/fairy/<?=$imgsrc?>.png');" ></i>
 					<div class="portrait_name pt-2 pb-2"><?=$fairy->krName?$fairy->krName:$fairy->name?></div>
 				</a><?php } ?>
 			</div>

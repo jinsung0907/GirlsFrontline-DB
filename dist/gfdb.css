@@ -328,6 +328,9 @@
 	background-size: 30vh;
 	background-repeat: no-repeat;
 }
+.portrait.fairy {
+	background-color: #FFFFFF;
+}
 .portrait.damaged {
 	background-position: 98% 0%;
 }
