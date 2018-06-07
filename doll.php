@@ -61,13 +61,14 @@
 
 		foreach($dir as $filename) {
 			$matches;
-			preg_match ('/.*.acb_000000(.*).opus/', $filename, $matches);
-			$num = $matches[1];
-			if(count($dir) == 80) {
-				$audio[audiohex_to_str($num, 0)] = "audio/doll/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
-			}
-			else if(count($dir) == 82) {
-				$audio[audiohex_to_str($num, 1)] = "audio/doll/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
+			if(preg_match ('/.*.acb_000000(.*).opus/', $filename, $matches)) {
+				$num = $matches[1];
+				if(count($dir) == 80) {
+					$audio[audiohex_to_str($num, 0)] = "audio/doll/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
+				}
+				else if(count($dir) == 82) {
+					$audio[audiohex_to_str($num, 1)] = "audio/doll/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
+				}
 			}
 		}
 	}
@@ -88,6 +89,7 @@
 			$krcode = audiocode_to_kr($tmp[1]);
 			if(isset($audio[$tmp[1]])) {
 				$tmp[2] .= ' <button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'. $audio[$tmp[1]] .'"></audio>';
+				unset($audio[$tmp[1]]);
 				array_push($voice, [$krcode, $tmp[2]]);
 			}
 			else {
@@ -95,6 +97,13 @@
 			}
 		}
 	}
+	
+	foreach($audio as $key => $val) {
+		$str = '<button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'.$val.'"></audio>';
+		$krcode = audiocode_to_kr($key);
+		array_push($voice, [$krcode, $str]);
+	}
+	
 	
 	//스킬 파싱
 	$replace = [];
@@ -408,6 +417,7 @@
 				<div class="col-md">
 					<b>레어도</b> : <?=gunrank_to_img($doll->rank)?><hr class="mt-1 mb-1">
 					<b>종류</b> : <?=guntype_to_str($doll->type)?>(<?=strtoupper($doll->type)?>)<hr class="mt-1 mb-1">
+					<b>성우</b> : <?=$doll->voice?><hr class="mt-1 mb-1">
 					<b>제조시간</b> : <?=$doll->buildTime?gmdate("H시간 i분", $doll->buildTime): "제조 불가"?><hr class="mt-1 mb-1">
 					<b>스킨</b> : <?=$skinstr?><hr class="mt-1 mb-1">
 					<div class="row">
