@@ -115,7 +115,7 @@
 							</form>
 							<br>
 							<button id="delete">지우기</button>
-							<button id="submitbtn">DPS계산</button>
+							<button style="display:none" id="submitbtn">DPS계산</button>
 							<button onclick="ScreenCapture()">스크린샷</button>
 							<br>
 						</div>
@@ -127,26 +127,29 @@
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3>히스토리</h3>
-			1.2.2 v (5/28)<br>
+			1.2.3 v (18/6/8)<br>
+			 - DPS계산 버튼 삭제, 인형 배치하면 자동으로 수정되도록 변경함<br>
+			<br>
+			1.2.2 v (18/5/28)<br>
 			 - MG 사속 계산이 잘못된 점 수정<br>
 			<br>
-			1.2.1 v (5/28)<br>
+			1.2.1 v (18/5/28)<br>
 			 - 사속 자가 버프(ex. 고속사격)가 적용되지 않던 버그 수정<br>
 			 <br>
-			1.2 v (5/28)<br>
+			1.2 v (18/5/28)<br>
 			 - 스크린샷 기능 추가<br>
 			 - 인형 링크(더미) 구현, 링크는 해당 레벨에서 가능한 최대치로 설정됨(71lv -> 4링)<br>
 			 - 이제 그래프 하단 DPS도 그래프와 동일한 계산식 사용<br>
 			<br>
-			1.1.1 v (5/27)<br>
+			1.1.1 v (18/5/27)<br>
 			 - G11 스킬 "호크아이" 구현<br>
 			<br>
-			1.1 v (5/26)<br>
+			1.1 v (18/5/26)<br>
 			 - 표준 버프형 스킬 구현 (화력전개, 고속사격, 강행돌파, 기습공격, 신속처분, 집중사격, 저격지원, 민첩사격, 일제사격, 진압신호, 돌격개시, 사냥신호, 기습작전, 소멸지시)<br>
 			 - 리베롤 스킬 "선혈의 파도" 구현<br>
 			 - 그래프 단위 1초에서 0.5초로 변경<br>
 			<br>
-			1.0 v (5/24)<br>
+			1.0 v (18/5/24)<br>
 			 - 첫 생성 <a href="http://gall.dcinside.com/mgallery/board/view/?id=micateam&no=183975"> 링크</a>
 			 <br><br>
 		</div>
@@ -380,16 +383,20 @@
 			}));
 			
 			updateTable();
+			
+			$("#submitbtn").trigger('click');
 		});
 		
 		$("#sel_level, #sel_favor").on('change', function(e) {
 			if($(this).attr('id') == 'sel_level') {
 				dollpos[selected_item].level = Number($(this).val());
 				console.log("insert level : " + dollpos[selected_item].level);
+				$("#submitbtn").trigger('click');
 			}
 			else {
 				dollpos[selected_item].favor = Number($(this).val());
 				console.log("insert favor : " + dollpos[selected_item].favor);
+				$("#submitbtn").trigger('click');
 			}
 		});
 
