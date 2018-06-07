@@ -31,7 +31,7 @@
 			<div class="accordion" id="accordion4koma">
 			<a href="https://twitter.com/crazycken">MADCORE</a>님의 소녀전선 공식 웹툰 "그리폰 일상만화"입니다. <a href="http://www.girlsfrontline.co.kr">소녀전선 공식홈페이지</a>에서 볼 수 있습니다.
 			<?php
-			for($i = 1 ; $i<= 18 ; $i++) { ?>
+			for($i = 1 ; $i<= 23 ; $i++) { ?>
 				<div class="card">
 					<div class="card-header" id="heading<?=$i?>">
 						<h5 class="mb-0">
