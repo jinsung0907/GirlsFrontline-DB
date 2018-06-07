@@ -41,7 +41,7 @@
 					<div class="starrank">
 						<img src="img/type/<?=strtoupper($doll->type)?><?=$doll->rank?>.png" class="typeicon">
 					</div>
-					<i class="portrait" style="background-image: url('img/dolls/portraits/<?=$imgsrc?>.png'" ></i>
+					<i class="portrait" data-src='img/dolls/portraits/<?=$imgsrc?>.png' ></i>
 					<div class="portrait_name pt-2 pb-2"><?=$doll->krName?$doll->krName:$doll->name?></div>
 				</a><?php } ?>
 			</div>
@@ -51,6 +51,17 @@
 	require_once("footer.php");
 ?>
 	<script>
+		$(".portrait").lazy({
+            effect: 'fadeIn',
+            beforeLoad: function(e) {
+				console.log('a');
+                e[0].append($('<img>', { src: 'img/load.gif', class: 'loader' })[0]);
+            },
+            afterLoad: function(e) {
+                e.empty();
+            }
+        });
+
 		$("a.dollindex.item").on("mouseover", function() {
 			if($('#damaged').prop("checked") === true) {
 				$(this).find("i.portrait").removeClass("damaged");
@@ -85,6 +96,16 @@
 		
 		$('input:checkbox[name="rank"],input:checkbox[name="type"]').on('click', function() {
 			apply_filter();
+			$(".portrait:visible").lazy({
+				effect: 'fadeIn',
+				beforeLoad: function(e) {
+					console.log('a');
+					e[0].append($('<img>', { src: 'img/load.gif', class: 'loader' })[0]);
+				},
+				afterLoad: function(e) {
+					e.empty();
+				}
+			});
 		});
 		
 		function apply_filter() {
@@ -151,12 +172,32 @@
 			$("a.dollindex.item").hide();
 			var val = $("#dollname").val();
 			$("a.dollindex.item>.portrait_name:containsIN("+val+")").parent().show();
+			$(".portrait:visible").lazy({
+				effect: 'fadeIn',
+				beforeLoad: function(e) {
+					console.log('a');
+					e[0].append($('<img>', { src: 'img/load.gif', class: 'loader' })[0]);
+				},
+				afterLoad: function(e) {
+					e.empty();
+				}
+			});
 		});
 		
 		$('#buildtime').on('input',function(){
 			$("a.dollindex.item").hide();
 			var val = $("#buildtime").val();
 			$("a.dollindex.item[data-buildtime*='"+val+"']").show();
+			$(".portrait:visible").lazy({
+				effect: 'fadeIn',
+				beforeLoad: function(e) {
+					console.log('a');
+					e[0].append($('<img>', { src: 'img/load.gif', class: 'loader' })[0]);
+				},
+				afterLoad: function(e) {
+					e.empty();
+				}
+			});
 		});
 	</script>
 	</body>

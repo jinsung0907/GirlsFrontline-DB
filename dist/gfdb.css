@@ -323,8 +323,7 @@
 .portrait {
 	width: 100%;
 	height: 100%;
-	//
-	background-color: #FF5733;
+	background-color: #7d7d7d;
 	background-position: 0% 0%;
 	background-size: 30vh;
 	background-repeat: no-repeat;
@@ -363,4 +362,13 @@
 .second_round.second {
 	display: none;
 	background-color: #fffff8 !important;
+}
+
+
+.loader {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50%;
+    min-height: 50%;
 }
