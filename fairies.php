@@ -6,8 +6,8 @@
 	$fairies = json_decode(file_get_contents("data/fairy.json"));
 ?>
 	<style>
-		@import url("//fonts.googleapis.com/earlyaccess/nanumgothic.css" ) ;
-body, h1, h2, h3, h4, h5, h6, li, p { font-family:"Nanum Gothic", sans-serif !important; }
+		@import url("//fonts.googleapis.com/earlyaccess/nanumgothic.css");
+		.portrait_name { font-family:"Nanum Gothic", sans-serif !important; }
 	</style>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
