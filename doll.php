@@ -372,7 +372,8 @@
 ?>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
-			<h2 style="display: inline" class="mr-2">#<?=$doll->id?> <?=$doll->krName?$doll->krName:$doll->name?></h2><br><hr class="mt-1 mb-1">
+			<h2 style="display: inline" class="mr-2">#<?=$doll->id?> <?=$doll->krName?$doll->krName:$doll->name?></h2><i><span class="text-muted"><?=$doll->name?></span></i><br>
+			<hr class="mt-1 mb-1">
 			<div class="row">
 				<div class="col-md">
 					<div id="dollcarousel" class="carousel slide" data-ride="carousel">
@@ -481,8 +482,8 @@
 							<?=$skillcolldown?>
 						</div>
 					</div>
+					<hr class="mt-1 mb-1">
 				<?php } ?>
-				<hr class="mt-1 mb-1">
 				<?php if(isset($skill->night)) { ?>
 					<div class="row">
 						<div class="col-md-auto align-self-center">
@@ -507,8 +508,8 @@
 							<?=$n_skillcolldown?>
 						</div>
 					</div>
+					<hr class="mt-1 mb-1">
 				<?php } ?>
-				<hr class="mt-1 mb-1">
 				<?php if(isset($skill2)) { ?>
 					<div class="row">
 						<div class="col-md-auto align-self-center">
@@ -519,8 +520,8 @@
 							<?=$mod3_skillcolldown?>
 						</div>
 					</div>
-				<?php } ?>
 					<hr class="mt-1 mb-1">
+				<?php } ?>
 					<div class="row align-items-center">
 						<div class="col-md-auto">
 							<table class="skillview">

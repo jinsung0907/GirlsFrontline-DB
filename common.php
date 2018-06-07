@@ -38,7 +38,7 @@ function audiocode_to_kr($code) {
 		case "LOADING":					return '로딩'; break;
 		case "MEET":							return '전투개시'; break;
 		case "OPERATIONBEGIN":			return '지원출발'; break;
-		case "PHRASE":						return 'PHRASE'; break;
+		case "PHRASE":						return '말버릇(어구)'; break;
 		case "TANABATA":					return '칠석'; break;
 		case "TIP":							return 'TIP'; break;
 		case "TITLECALL":					return '소녀전선'; break;
