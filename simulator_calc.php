@@ -395,8 +395,8 @@
 						}
 					}
 					
-					//저격개시 스킬 구현
-					if($f_skill_id == 32) {
+					//저격개시 스킬 구현 (저격개시, 정밀저격, 목표제거, 확인사살, 이중사격)
+					if($f_skill_id == 32 || $f_skill_id == 33 || $f_skill_id == 34 || $f_skill_id == 35 || $f_skill_id == 43) {
 						//해당스킬 데이터 파싱
 						foreach($l_skill->data as $f_data) {
 							//화력증가

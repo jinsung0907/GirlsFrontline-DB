@@ -20,9 +20,8 @@ switch($doll->skill->id) {
 		$duration = $doll->skill->dataPool->DR[$skilllevel-1] * 30;
 		$to = $i + $duration;
 		for($i; $i <= $to ; $i++) {
-			if($i > 450) {
-				break;
-			}
+			if($i > 450) break;
+			
 			$skill_timeline[$key][$i][] = [$skillid, $doll->id, $skilllevel];
 		}
 		$i += $doll->skill->dataPool->CD[$skilllevel-1] * 30 - $duration;
@@ -33,10 +32,21 @@ switch($doll->skill->id) {
 	case 34: //목표제거
 	case 35: //확인사살
 		$to = $i + 45; //1.5초 뒤에 쏴야함
-		if($to > 450) {
-			break;
-		}
+		if($to > 450) break;
+		
 		$skill_timeline[$key][$to][] = [$skillid, $doll->id, $skilllevel];
+		
+		$i += $doll->skill->dataPool->CD[$skilllevel-1] * 30;
+		break;
+		
+	case 43: //이중저격
+		$to = $i + 30; //1초 뒤에 쏴야함
+		if($to > 450) break;
+		
+		$skill_timeline[$key][$to][] = [$skillid, $doll->id, $skilllevel];
+		
+		//1초 뒤에 한번 더 쏨
+		$skill_timeline[$key][$to+30][] = [$skillid, $doll->id, $skilllevel];
 		
 		$i += $doll->skill->dataPool->CD[$skilllevel-1] * 30;
 		break;
@@ -51,9 +61,7 @@ switch($doll->skill->id) {
 		$duration = $doll->skill->dataPool->DR[$skilllevel-1] * 30;
 		$to = $i + $duration;
 		for($i; $i <= $to ; $i++) {
-			if($i > 450) {
-				break;
-			}
+			if($i > 450) break;
 			for($j = 1 ; $j <= 9 ; $j++) {
 				$skill_timeline[$j][$i][] = [$skillid, $doll->id, $skilllevel];
 			}
