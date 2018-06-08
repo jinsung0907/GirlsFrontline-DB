@@ -285,7 +285,13 @@
 						}
 						//사속증가
 						if($f_data->key == "AR") {
-							$dollskill['rate'] *= 1 + getDollById($f_skill_dollid)->skill->dataPool->AR[$f_skill_level-1] / 100;
+							//육참골단 (사속감소)
+							if($f_skill_id == 48) {
+								$dollskill['rate'] *= 1 - getDollById($f_skill_dollid)->skill->dataPool->AR[$f_skill_level-1] / 100;
+							} 
+							else {
+								$dollskill['rate'] *= 1 + getDollById($f_skill_dollid)->skill->dataPool->AR[$f_skill_level-1] / 100;
+							}
 						}
 					}
 				}

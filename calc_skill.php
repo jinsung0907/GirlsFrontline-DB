@@ -15,6 +15,8 @@ switch($doll->skill->id) {
 	case 60: //민첩사격
 	
 	case 46: //호크아이
+	
+	case 48: //육참골단
 		$duration = $doll->skill->dataPool->DR[$skilllevel-1] * 30;
 		$to = $i + $duration;
 		for($i; $i <= $to ; $i++) {
@@ -31,11 +33,9 @@ switch($doll->skill->id) {
 	case 34: //목표제거
 	case 35: //확인사살
 		$to = $i + 45; //1.5초 뒤에 쏴야함
-		
 		if($to > 450) {
 			break;
 		}
-
 		$skill_timeline[$key][$to][] = [$skillid, $doll->id, $skilllevel];
 		
 		$i += $doll->skill->dataPool->CD[$skilllevel-1] * 30;
