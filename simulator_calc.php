@@ -13,7 +13,7 @@
 	}
 	$_SESSION['time'] = $time;
 	
-	
+	$time_start = microtime(true); 
 	
 	$dolls = json_decode(file_get_contents("data/doll.json"));
 	$skills = json_decode(file_get_contents("data/skill.json"));
@@ -164,6 +164,7 @@
 		
 		//15초 계산 (450프레임) 편의상 1초는 30프레임으로 함
 		$curframe = 0; //현재프레임
+		$fireframe = 0; //평타 발사프레임
 		$beforeFrame = 0; //이전 프레임 저장용
 		$ammocnt = 9999; //현재 장탄수, 기본은 무한대로 9999넣음
 		$firecount = 0; //발사 수. 추후 발사수 기반 스킬에 사용하기 위해 넣음
@@ -208,26 +209,29 @@
 			}
 		}
 		
-		//첫 한번은 직접 프레임 추가
-		$curframe += $frame;
-		while($curframe < 450) {
+		//첫 한번은 직접 프레임 추가 및 채워줌
+		$fireframe += $frame;	
+		for($curframe = 0 ; $curframe <= 450 ; $curframe++) {
 			//재장전시간 계산 (장탄수가 0일경우)
 			if($ammocnt == 0) {
-				
 				if($doll->type == 'mg') {
-					$curframe += ceil((4+(200/$rate))*30);
+					$fireframe += ceil((4+(200/$rate))*30);
 				}
 				else if($doll->type == 'sg') {
-					$curframe += ceil((1.5 + (0.5*$doll_ammocnt))*30);
+					$fireframe += ceil((1.5 + (0.5*$doll_ammocnt))*30);
 				}
 				$ammocnt = $doll_ammocnt;
-			}
+				continue;
+			}		
 
+			/*
 			//15초 넘어갔을시 멈춤
 			if($curframe > 450) {
 				break;
 			}
+			*/
 			
+			/*
 			//사이에 빈 공간을 전부 채움
 			for($i = $beforeFrame ; $i < $curframe ; $i++) {
 				//첫번째 사이클일경우 ($i가 1일경우)
@@ -248,8 +252,7 @@
 				$dps_timeline[$i][0] = 0;
 				$dps_timeline[$i][1] = $val;
 			}
-			
-			
+			*/
 			
 			//스탯 계산식에 들어갈 버프 인형스킬 계산
 			//일단 해당 자리에 어느 버프가 있는지 체크
@@ -288,7 +291,6 @@
 				}
 			}
 			
-			
 			//인형 스킬 스탯 계산
 			//사속 구하기
 			if(!isset($grid[$key][$doll->type]['rate'])|| $grid[$key][$doll->type]['rate'] == 0) {
@@ -325,60 +327,99 @@
 			//치명률은 퍼센트이므로 마지막에 퍼센트 가공을 해줌.
 			$crit = 1 + (floor(ceil((ceil($stat['crit']) + $gear) * $fairybuff) * $grid_crit * $dollskill['crit'] * $fairyskill * $fairyattr)) / 100;
 			
+			/*
 			//초당공격수
 			$atkpersec = 30/(ceil(1500/$rate)-1);
+			*/
 			
+			/*
 			//기초DPS (명중률, 치명타등 제외)
 			$dps = $pow * $atkpersec * $link;
+			*/
 			
-			//치명률, 치명상 적용 공식
-			$dps_timeline[$curframe][0] = ($pow*(1-$crit) + $pow*$critDmg*$crit)*$link;
-			$dps_timeline[$curframe][1] = $dps_timeline[$beforeFrame][1] + $dps_timeline[$curframe][0];
+			//발사하는 프레임일경우 데미지 계산
+			if($curframe == $fireframe) {
+				//치명률, 치명상 적용 공식
+				//해당 프레임 데미지
+				$dps_timeline[$curframe][0] += ($pow*(1-$crit) + $pow*$critDmg*$crit)*$link;
+				//총 데미지
+				$dps_timeline[$curframe][1] = $dps_timeline[$curframe-1][1] + $dps_timeline[$curframe][0];
+			} 
+			
+			//발사프레임이 아닐경우 0 넣어줌
+			else {
+				//첫번째 사이클일경우
+				if($curframe == 0) {
+					$dps_timeline[0][0] = 0;
+					$dps_timeline[0][1] = 0;
+				}
+				else {
+					$dps_timeline[$curframe][0] = 0;
+					$dps_timeline[$curframe][1] = $dps_timeline[$curframe-1][1];
+				}
+			}
 			
 			//
-			//호크아이 스킬 구현
+			//후스킬 구현
 			//
 			if(isset($skill_timeline[$key][$curframe])) {
 				foreach($skill_timeline[$key][$curframe] as $f_skill) {
 					$f_skill_id = $f_skill[0];
 					$f_skill_dollid = $f_skill[1];
 					$f_skill_level = $f_skill[2];
-					
-					if($f_skill_id == 46) {
-						$l_skill;
-						foreach($skills as $tmp) {
-							if($tmp->id == $f_skill_id) {
-								$l_skill = $tmp;
-							}
+
+					$l_skill;
+					foreach($skills as $tmp) {
+						if($tmp->id == $f_skill_id) {
+							$l_skill = $tmp;
 						}
-						
+					}
+					
+					//호크아이 스킬 구현
+					if($f_skill_id == 46 && $curframe == $fireframe) {
 						//해당스킬 데이터 파싱
 						foreach($l_skill->data as $f_data) {
 							//화력증가
 							if($f_data->key == "AC") {
 								$repeat = getDollById($f_skill_dollid)->skill->dataPool->AC[$f_skill_level-1];
 								$tmp = $dps_timeline[$curframe][0];
-								$dps_timeline[$curframe][0] *= $repeat;
-								$dps_timeline[$curframe][1] += $tmp * ($repeat - 1);
+								$dps_timeline[$curframe][0] += $tmp * ($repeat-1);
+								$dps_timeline[$curframe][1] += $tmp * ($repeat-1);
+							}
+						}
+					}
+					
+					//저격개시 스킬 구현
+					if($f_skill_id == 32) {
+						//해당스킬 데이터 파싱
+						foreach($l_skill->data as $f_data) {
+							//화력증가
+							if($f_data->key == "DM") {
+								$amp = getDollById($f_skill_dollid)->skill->dataPool->DM[$f_skill_level-1] / 100;
+								$dps_timeline[$curframe][0] += $pow * $link * $amp;
+								$dps_timeline[$curframe][1] += $pow * $link * $amp;
 							}
 						}
 					}
 				}
 			}
-					
-			//다음 사속 구하기
-			//mg는 사속 고정이니 rate값을 프레임으로 변환하지 않고 그대로감
+			
+			//다음 발사시점 구하기
+			//mg는 발사시점 고정이니 rate값을 프레임으로 변환하지 않고 그대로감
 			if($doll->type != 'mg') {
 				$frame = rate_to_frame($rate);
 			}
 			
-			$beforeFrame = $curframe;
-			$curframe += $frame;
-			$ammocnt--;
-			$firecount++;
+			//발사 프레임이였을경우 다음 프레임 계산 및 탄약계산
+			if($curframe == $fireframe) {
+				$beforeFrame = $curframe;
+				$fireframe += $frame;
+				$ammocnt--;
+				$firecount++;
+			}
 		}
 		
-		
+		/*
 		//끝나고 한번더 15초까지의 빈 공간을 전부 채움
 		for($i = $beforeFrame + 1 ; $i <= 450 ; $i++) {
 			if(isset($dps_timeline[$beforeFrame][1])) {
@@ -390,6 +431,7 @@
 			$dps_timeline[$i][0] = 0;
 			$dps_timeline[$i][1] = $val;
 		}
+		*/
 		
 		//print_r($dps_timeline);
 		
@@ -401,9 +443,15 @@
 			}
 		}
 		
+		
+		$time_end = microtime(true);
+		$time = $time_end - $time_start;
+		
+		//print_r($dps_timeline);
 		//$resultvalue['timeline'][$key] = $dps_timeline;
 		$resultvalue['timeline_sec'][$key] = $dps_timeline_sec;
-		$resultvalue['dps'][$key] = $dps_timeline[450][1] / 15;
+		$resultvalue['dps'][$key] = $dps_timeline[449][1] / 15;
+		$resultvalue['time'] = $time;
 	}
 	//$resultvalue['skill_timeline'] = $skill_timeline;
 	

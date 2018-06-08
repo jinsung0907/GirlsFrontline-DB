@@ -127,6 +127,9 @@
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3>히스토리</h3>
+			1.3 v (18/6/8)<br>
+			 - 표준 저격 스킬 구현(저격개시, 정밀저격, 목표제거, 확인사살)<br>
+			<br>
 			1.2.3 v (18/6/8)<br>
 			 - DPS계산 버튼 삭제, 인형 배치하면 자동으로 수정되도록 변경함<br>
 			<br>
@@ -412,6 +415,7 @@
 			dollpos[selected_item] = undefined;
 			$("#grid" + selected_item + " .content").empty();
 			updateTable();
+			$("#submitbtn").trigger('click');
 		});
 		
 		$("#submitbtn").on('click', function() {

@@ -25,7 +25,21 @@ switch($doll->skill->id) {
 		}
 		$i += $doll->skill->dataPool->CD[$skilllevel-1] * 30 - $duration;
 		break;
+	
+	case 32: //저격개시
+	case 33: //정밀저격
+	case 34: //목표제거
+	case 35: //확인사살
+		$to = $i + 45; //1.5초 뒤에 쏴야함
 		
+		if($to > 450) {
+			break;
+		}
+
+		$skill_timeline[$key][$to][] = [$skillid, $doll->id, $skilllevel];
+		
+		$i += $doll->skill->dataPool->CD[$skilllevel-1] * 30;
+		break;
 		
 	//아군전체 버프
 	case 3: //일제사격
