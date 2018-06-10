@@ -21,7 +21,7 @@
     "6-1E",
     "8-1E"
   ],
-  "skins": ["별똥별의 소원"],
+  "skins": ["별똥별의 소원", "기적의 여왕"],
   "nick": ["콜라"],
   "stats": {
     "hp": 120,
@@ -881,7 +881,7 @@
     "8-3e"
   ],
   "skins": [],
-  "nick": [],
+  "nick": ["맥텐"],
   "stats": {
     "hp": 100,
     "pow": 105,
@@ -1330,7 +1330,7 @@
     "8-3e"
   ],
   "skins": ["붉은 은하수"],
-  "nick": ["사소리"],
+  "nick": ["사소리", "전갈"],
   "stats": {
     "hp": 90,
     "pow": 85,
@@ -1463,7 +1463,7 @@
     "8-4e"
   ],
   "skins": ["마음의 대답"],
-  "nick": ["비빗쟈"],
+  "nick": ["비빗쟈", "스뎅"],
   "stats": {
     "hp": 105,
     "pow": 90,
@@ -1711,7 +1711,7 @@
     "8-4e"
   ],
   "skins": ["해변의 공주"],
-  "nick": [],
+  "nick": ["개담떨"],
   "stats": {
     "hp": 100,
     "pow": 120,
@@ -1792,7 +1792,7 @@
     "등불 아래의 여왕",
     "잠에서 깬 인어"
   ],
-  "nick": ["춘전"],
+  "nick": ["춘전", "3코어"],
   "stats": {
     "hp": 95,
     "pow": 115,
@@ -2577,7 +2577,7 @@
   "buildTime": 0,
   "drop": ["4-6"],
   "skins": [],
-  "nick": ["우리형"],
+  "nick": ["우리형", "느그형"],
   "stats": {
     "hp": 110,
     "pow": 110,
@@ -2614,7 +2614,7 @@
   "buildTime": 0,
   "drop": ["2-6"],
   "skins": [],
-  "nick": [],
+  "nick": ["엠포", "혐포", "시나몬"],
   "stats": {
     "hp": 100,
     "pow": 105,
@@ -2977,7 +2977,7 @@
   "buildTime": 14700,
   "drop": ["9-4e"],
   "skins": [],
-  "nick": ["댕댕이"],
+  "nick": ["댕댕이", "호메떼"],
   "stats": {
     "hp": 115,
     "pow": 110,
@@ -3207,7 +3207,7 @@
   "buildTime": 12600,
   "drop": ["0-1", "4-5", "5-5", "5-4e", "6-2", "6-3e", "7-1", "8-3"],
   "skins": [],
-  "nick": [],
+  "nick": ["파마스"],
   "stats": {
     "hp": 110,
     "pow": 105,
@@ -3378,7 +3378,7 @@
   "buildTime": 12600,
   "drop": ["0-4", "5-5", "5-6"],
   "skins": ["야간 주점"],
-  "nick": ["타보르"],
+  "nick": ["타보르", "타르"],
   "stats": {
     "hp": 95,
     "pow": 110,
@@ -3429,14 +3429,14 @@
     "effectPos": [2, 3, 6, 8, 9],
     "gridEffect": {"pow": 12, "hit": 20}
   },
-   "skill": {
+  "skill": {
     "id": 97,
     "dataPool": {
-	  "HT": [30, 27, 23, 20, 17, 13, 10, 7, 3, 0],
-	  "DR": [3, 3.4, 3.9, 4.3, 4.8, 5.2, 5.7, 6.1, 6.6, 7],
-	  "CD": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
-	  "IC": 4
-	}
+      "HT": [30, 27, 23, 20, 17, 13, 10, 7, 3, 0],
+      "DR": [3, 3.4, 3.9, 4.3, 4.8, 5.2, 5.7, 6.1, 6.6, 7],
+      "CD": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+      "IC": 4
+    }
   }
 }, {
   "id": 74,
@@ -3486,7 +3486,7 @@
   "buildTime": 23100,
   "drop": ["0-1", "6-6", "7-3", "8-3"],
   "skins": ["바니 걸", "준비된 세레나데", "꿈꿔왔던 크리스마스"],
-  "nick": [],
+  "nick": ["바쟝"],
   "stats": {
     "hp": 95,
     "pow": 115,
@@ -3710,7 +3710,7 @@
     "8-4e"
   ],
   "skins": ["카밀라", "파티의 연인"],
-  "nick": [],
+  "nick": ["이치뀨"],
   "stats": {
     "hp": 110,
     "pow": 125,
@@ -3773,7 +3773,7 @@
     "8-3e"
   ],
   "skins": ["센토레아"],
-  "nick": ["람쥐"],
+  "nick": ["람지", "람쥐"],
   "stats": {
     "hp": 105,
     "pow": 135,
@@ -4183,7 +4183,7 @@
   "buildTime": 1500,
   "drop": ["1-5 부터 모든지역"],
   "skins": ["고집 센 악동", "해바라기"],
-  "nick": [],
+  "nick": ["바이킹"],
   "stats": {
     "hp": 100,
     "pow": 105,
@@ -4258,7 +4258,7 @@
   "voice": "Ito Asuka",
   "buildTime": 4200,
   "drop": ["1-6,1-2e부터 모든 지역"],
-  "skins": [],
+  "skins": ["상자 속 고양이"],
   "nick": ["아이디따블류다냐", "아디따"],
   "stats": {
     "hp": 85,
@@ -4421,7 +4421,7 @@
   "voice": "Ayaka Itatani",
   "buildTime": 4200,
   "drop": [],
-  "skins": ["주말 경비원", "변신! 테디베어!"],
+  "skins": ["주말 경비원", "변신! 테디베어!", "별이 빛나는 밤의 무도회"],
   "nick": ["곰"],
   "stats": {
     "hp": 130,
@@ -4632,7 +4632,7 @@
     "8-1e",
     "8-3e"
   ],
-  "skins": ["내가 좀 늦었지?"],
+  "skins": ["내가 좀 늦었지?", "세계의 노래"],
   "nick": ["움뀨"],
   "stats": {
     "hp": 100,
@@ -4709,7 +4709,7 @@
   "voice": "Tomomi Mineuchi",
   "buildTime": 8100,
   "drop": ["6-6", "6-3E"],
-  "skins": ["이번만이야"],
+  "skins": ["이번만이야", "다이아몬드의 꽃"],
   "nick": ["움사오", "4577"],
   "stats": {
     "hp": 105,
@@ -4826,7 +4826,7 @@
   "buildTime": 13500,
   "drop": [],
   "skins": ["겨울 보급작전", "최고로 중요한 날"],
-  "nick": ["족제비"],
+  "nick": ["팔", "족제비"],
   "stats": {
     "hp": 120,
     "pow": 130,
@@ -4942,7 +4942,7 @@
   "buildTime": 24300,
   "drop": ["7-4e"],
   "skins": ["새빨간 야간경비원", "황야의 사냥꾼"],
-  "nick": ["망가오"],
+  "nick": ["망오", "망가오"],
   "stats": {
     "hp": 120,
     "pow": 110,
@@ -5174,7 +5174,7 @@
   "voice": "Asami Imai",
   "buildTime": 3600,
   "drop": [],
-  "skins": ["영국 연인", "그림자의 왕"],
+  "skins": ["영국 연인", "그림자의 왕", "해 질 무렵의 위기"],
   "nick": ["박하나", "장군님"],
   "stats": {
     "hp": 120,
@@ -5370,7 +5370,7 @@
   "buildTime": 0,
   "drop": ["딥다이브 1-2", "딥다이브 3-1"],
   "skins": ["흩날리는 벚꽃눈"],
-  "nick": ["야전여왕"],
+  "nick": ["그로자", "야전여왕"],
   "stats": {
     "hp": 100,
     "pow": 105,
@@ -5450,7 +5450,7 @@
   "buildTime": 22800,
   "drop": [],
   "skins": [],
-  "nick": [],
+  "nick": ["광년이"],
   "stats": {
     "hp": 105,
     "pow": 125,
@@ -5680,7 +5680,7 @@
   "buildTime": 9300,
   "drop": [],
   "skins": ["구미호"],
-  "nick": ["질구식"],
+  "nick": ["칠구식", "질구식"],
   "stats": {
     "hp": 110,
     "pow": 130,
@@ -5717,7 +5717,7 @@
   "buildTime": 17700,
   "drop": [],
   "skins": ["시클라멘", "토끼반"],
-  "nick": ["뀨뀨"],
+  "nick": ["뀨뀨", "엠뀨"],
   "stats": {
     "hp": 100,
     "pow": 135,
@@ -5754,7 +5754,7 @@
   "buildTime": 13800,
   "drop": [],
   "skins": ["영롱한 옥", "여름의 풍류"],
-  "nick": [],
+  "nick": ["키시요"],
   "stats": {
     "hp": 105,
     "pow": 120,
@@ -5832,8 +5832,8 @@
   "voice": "Nozomi Yamamoto",
   "buildTime": 0,
   "drop": ["저체온증 1-2", "저체온증 1-4", "저체온증 3-4"],
-  "skins": [],
-  "nick": [],
+  "skins": ["백야의 별 이야기"],
+  "nick": ["에보"],
   "stats": {
     "hp": 110,
     "pow": 90,
@@ -5933,7 +5933,7 @@
     "8-2",
     "8-4"
   ],
-  "skins": [],
+  "skins": ["현황의 봉황"],
   "nick": [],
   "stats": {
     "hp": 90,
@@ -6048,8 +6048,8 @@
   "voice": "Serizawa Yuu",
   "buildTime": 0,
   "drop": ["특별구출작전G 4-6", "특별구출작전G 4-4E"],
-  "skins": [],
-  "nick": [],
+  "skins": ["개구리 공주"],
+  "nick": ["비존"],
   "stats": {
     "hp": 100,
     "pow": 95,
@@ -6082,7 +6082,7 @@
   "rank": 4,
   "type": "smg",
   "illust": "熊猫印象",
-  "voice": "",
+  "voice": "Ayaka fujii",
   "buildTime": 8280,
   "drop": [],
   "skins": [],
@@ -6278,7 +6278,7 @@
   "voice": "Akane Fujita",
   "buildTime": 0,
   "drop": [],
-  "skins": ["크루즈의 여왕님", "꿈꿔왔던 미소"],
+  "skins": ["크루즈의 여왕님", "꿈꿔왔던 미소", "행복한 세상의 담비"],
   "nick": ["HOXY", "파세"],
   "stats": {
     "hp": 95,
@@ -6318,7 +6318,7 @@
   "buildTime": 0,
   "drop": ["7-6"],
   "skins": [],
-  "nick": [],
+  "nick": ["로"],
   "stats": {
     "hp": 110,
     "pow": 105,
@@ -6465,7 +6465,7 @@
   "rank": 3,
   "type": "rf",
   "illust": "拿铁",
-  "voice": "",
+  "voice": "Karin Nanami",
   "buildTime": 0,
   "drop": ["딥다이브 1-1", "딥다이브 1-3"],
   "skins": [],
@@ -6503,7 +6503,7 @@
   "rank": 5,
   "type": "rf",
   "illust": "十月十日奏",
-  "voice": "",
+  "voice": "Asami Seto",
   "buildTime": 17520,
   "drop": [],
   "skins": ["일곱 번째 봉인자"],
@@ -6542,11 +6542,11 @@
   "rank": 4,
   "type": "mg",
   "illust": "RAN",
-  "voice": "",
+  "voice": "Minami Tsuda",
   "buildTime": 22800,
   "drop": [],
   "skins": ["광란의 질주"],
-  "nick": ["비둘기"],
+  "nick": ["비둘기", "엑뀨"],
   "stats": {
     "hp": 100,
     "pow": 115,
@@ -6583,7 +6583,7 @@
   "rank": 4,
   "type": "smg",
   "illust": "八云玖",
-  "voice": "",
+  "voice": "Kanae Itou",
   "buildTime": 8280,
   "drop": [],
   "skins": [],
@@ -6661,7 +6661,7 @@
   "rank": 3,
   "type": "sg",
   "illust": "小迪",
-  "voice": "",
+  "voice": "Makoto Koichi",
   "buildTime": 27000,
   "drop": [],
   "skins": [],
@@ -6821,11 +6821,11 @@
   "rank": 4,
   "type": "sg",
   "illust": "废人",
-  "voice": "",
+  "voice": "Ami Nanase",
   "buildTime": 28200,
   "drop": [],
   "skins": ["타향의 갈림길에서"],
-  "nick": ["슈쇼", "존짧"],
+  "nick": ["슈퍼쇼티", "존짧"],
   "stats": {
     "hp": 110,
     "armor": 110,
@@ -6983,11 +6983,11 @@
   "rank": 5,
   "type": "sg",
   "illust": "防弹乳牛",
-  "voice": "",
+  "voice": "Hisako Kanemoto",
   "buildTime": 29100,
   "drop": [],
   "skins": [],
-  "nick": [],
+  "nick": ["사이가"],
   "stats": {
     "hp": 120,
     "armor": 125,
@@ -7064,11 +7064,11 @@
   "rank": 4,
   "type": "sg",
   "illust": "陆生の洲川",
-  "voice": "",
+  "voice": "Miyuki Kobori",
   "buildTime": 27600,
   "drop": [],
   "skins": [],
-  "nick": ["갤주님"],
+  "nick": ["갤주님", "스파스"],
   "stats": {
     "hp": 125,
     "armor": 115,
@@ -7104,11 +7104,11 @@
   "rank": 5,
   "type": "hg",
   "illust": "音符",
-  "voice": "",
+  "voice": "Shiho Kokido",
   "buildTime": 0,
   "drop": ["특별구호작전X 6-6", "특별구호작전X 6-4e"],
   "skins": ["겨울의 탐험가"],
-  "nick": ["HOXY", "콩지"],
+  "nick": ["콩지"],
   "stats": {
     "hp": 100,
     "pow": 120,
@@ -7141,7 +7141,7 @@
   "rank": 3,
   "type": "hg",
   "illust": "雪樱樱",
-  "voice": "",
+  "voice": "Ayaka fujii",
   "buildTime": 0,
   "drop": ["딥다이브 1-2"],
   "skins": [],
@@ -7180,7 +7180,7 @@
   "rank": 4,
   "type": "hg",
   "illust": "Skade",
-  "voice": "",
+  "voice": "Ryouko Maekawa",
   "buildTime": 3120,
   "drop": [],
   "skins": ["마지막 앨리스"],
@@ -7218,7 +7218,7 @@
   "rank": 3,
   "type": "smg",
   "illust": "幻象黑兔",
-  "voice": "",
+  "voice": "Arisa Ida",
   "buildTime": 0,
   "drop": ["8-6", "8-4"],
   "skins": [],
@@ -7257,7 +7257,7 @@
   "rank": 3,
   "type": "ar",
   "illust": "仙女V",
-  "voice": "",
+  "voice": "Riiko Tazawa",
   "buildTime": 0,
   "drop": ["딥다이브 1-1", "딥다이브 1-4"],
   "skins": [],
@@ -7298,7 +7298,7 @@
   "rank": 4,
   "type": "ar",
   "illust": "rei",
-  "voice": "",
+  "voice": "Rina Hidaka",
   "buildTime": 13200,
   "drop": [],
   "skins": [],
@@ -7338,7 +7338,7 @@
   "rank": 5,
   "type": "ar",
   "illust": "Anmi",
-  "voice": "",
+  "voice": "Kanae Itou",
   "buildTime": 14280,
   "drop": [],
   "skins": ["크리스마스를 훔친 RFB"],
@@ -7377,7 +7377,7 @@
   "rank": 5,
   "type": "mg",
   "illust": "虎三",
-  "voice": "",
+  "voice": "Minami Tsuda",
   "buildTime": 24600,
   "drop": [],
   "skins": ["꽃과 물", "걸 프롬 UNCLE"],
@@ -7411,7 +7411,7 @@
   "rank": 3,
   "type": "rf",
   "illust": "八才",
-  "voice": "",
+  "voice": "Yuka Saito",
   "buildTime": 0,
   "drop": ["딥다이브 1-3", "딥다이브 1-4"],
   "skins": ["백산차"],
@@ -7452,11 +7452,11 @@
   "rank": 5,
   "type": "ar",
   "illust": "Saru",
-  "voice": "",
+  "voice": "Rina Hidaka",
   "buildTime": 0,
   "drop": [],
   "skins": [],
-  "nick": [],
+  "nick": ["예술이", "아트"],
   "stats": {
     "hp": 105,
     "pow": 110,
@@ -7491,7 +7491,7 @@
   "rank": 3,
   "type": "smg",
   "illust": "废人",
-  "voice": "",
+  "voice": "Kibune Sachiho",
   "buildTime": 0,
   "drop": [],
   "skins": [],
@@ -7529,11 +7529,11 @@
   "rank": 4,
   "type": "smg",
   "illust": "水熊",
-  "voice": "",
+  "voice": "Miyuki Kobori",
   "buildTime": 0,
   "drop": ["딥다이브 1-4"],
-  "skins": ["세 마리의 까마귀"],
-  "nick": [],
+  "skins": ["세 마리의 까마귀", "추운 겨울을 넘어"],
+  "nick": ["클린"],
   "stats": {
     "hp": 108,
     "pow": 100,
@@ -7568,7 +7568,7 @@
   "rank": 3,
   "type": "smg",
   "illust": "Ki桑",
-  "voice": "",
+  "voice": "Makoto Koichi",
   "buildTime": 6600,
   "drop": ["딥다이브 1-2", "딥다이브 1-3", "딥다이브 3-3"],
   "skins": [],
@@ -7607,10 +7607,10 @@
   "rank": 5,
   "type": "rf",
   "illust": "liduke",
-  "voice": "",
+  "voice": "Yuka Saito",
   "buildTime": 0,
   "drop": ["딥다이브 2-4"],
-  "skins": ["비목단"],
+  "skins": ["비목단", "베스트 오퍼"],
   "nick": ["도시락"],
   "stats": {
     "hp": 93,
@@ -7645,7 +7645,7 @@
   "rank": 4,
   "type": "rf",
   "illust": "nineo",
-  "voice": "",
+  "voice": "Hisako Kanemoto",
   "buildTime": 16200,
   "drop": ["딥다이브 1-4"],
   "skins": ["열혈 라이더"],
@@ -7683,11 +7683,11 @@
   "rank": 5,
   "type": "ar",
   "illust": "Krenz",
-  "voice": "",
+  "voice": "Shiho Kokido",
   "buildTime": 13680,
   "drop": [],
   "skins": [],
-  "nick": [],
+  "nick": ["과탑"],
   "stats": {
     "hp": 112,
     "pow": 115,
@@ -7726,7 +7726,7 @@
   "rank": 3,
   "type": "rf",
   "illust": "zui",
-  "voice": "",
+  "voice": "Kotomi Aihara",
   "buildTime": 0,
   "drop": [],
   "skins": [],
@@ -7764,7 +7764,7 @@
   "rank": 5,
   "type": "hg",
   "illust": "細重ソウジ",
-  "voice": "",
+  "voice": "Asami Seto",
   "buildTime": 3720,
   "drop": [],
   "skins": ["오페라의 유령"],
@@ -7803,7 +7803,7 @@
   "rank": 4,
   "type": "rf",
   "illust": "92M",
-  "voice": "",
+  "voice": "Yukiyo Fujii",
   "buildTime": 15000,
   "drop": [],
   "skins": [],
@@ -7842,7 +7842,7 @@
   "rank": 4,
   "type": "mg",
   "illust": "水熊",
-  "voice": "",
+  "voice": "Chiyo Ousaki",
   "buildTime": 23100,
   "drop": [],
   "skins": ["선물은 성탄절 트리"],
@@ -7884,7 +7884,7 @@
   "rank": 3,
   "type": "hg",
   "illust": "PHI",
-  "voice": "",
+  "voice": "Ryouko Maekawa",
   "buildTime": 0,
   "drop": [],
   "skins": [],
@@ -7922,7 +7922,7 @@
   "rank": 4,
   "type": "ar",
   "illust": "百足",
-  "voice": "",
+  "voice": "Ami Nanase",
   "buildTime": 0,
   "drop": ["9-6", "9-4e"],
   "skins": [],
@@ -7960,7 +7960,7 @@
   "rank": 5,
   "type": "sg",
   "illust": "NIN",
-  "voice": "",
+  "voice": "Azumi Asakura",
   "buildTime": 29400,
   "drop": [],
   "skins": ["매화 도장"],
@@ -8000,7 +8000,7 @@
   "rank": 4,
   "type": "sg",
   "illust": "麻将",
-  "voice": "",
+  "voice": "Kotomi Aihara",
   "buildTime": 28500,
   "drop": [],
   "skins": [],
@@ -8041,7 +8041,7 @@
   "rank": 3,
   "type": "sg",
   "illust": "HIKARI",
-  "voice": "",
+  "voice": "Karin Nanami",
   "buildTime": 26100,
   "drop": [],
   "skins": [],
@@ -8120,7 +8120,7 @@
   "rank": 5,
   "type": "rf",
   "illust": "音符",
-  "voice": "",
+  "voice": "Satomi Satou",
   "buildTime": 0,
   "drop": [],
   "skins": ["제피란테스"],
@@ -8158,11 +8158,11 @@
   "rank": 3,
   "type": "ar",
   "illust": "PHI",
-  "voice": "",
+  "voice": "Arisa Ida",
   "buildTime": 0,
   "drop": [],
   "skins": [],
-  "nick": [],
+  "nick": ["개미핥기"],
   "stats": {
     "hp": 112,
     "pow": 120,
@@ -8201,11 +8201,11 @@
   "rank": 5,
   "type": "ar",
   "illust": "Anmi",
-  "voice": "",
+  "voice": "Yukiyo Fujii",
   "buildTime": 13920,
   "drop": [],
-  "skins": [],
-  "nick": ["셋째돼지"],
+  "skins": ["동방의 공주"],
+  "nick": ["셋째돼지", "케이투", "케투", "게이둘"],
   "stats": {
     "hp": 115,
     "pow": 115,
@@ -8244,7 +8244,7 @@
   "rank": 3,
   "type": "mg",
   "illust": "Rain Lan",
-  "voice": "",
+  "voice": "Satomi Satou",
   "buildTime": 0,
   "drop": [],
   "skins": [],
@@ -8284,10 +8284,10 @@
   "rank": 5,
   "type": "ar",
   "illust": "nineo",
-  "voice": "",
+  "voice": "Azumi Asakura",
   "buildTime": 14700,
   "drop": [],
-  "skins": ["총성을 울리는 설녀"],
+  "skins": ["총성을 울리는 설녀", "화이트 퀸"],
   "nick": ["자스"],
   "stats": {
     "hp": 110,
@@ -8325,10 +8325,10 @@
   "rank": 5,
   "type": "rf",
   "illust": "細重ソウジ",
-  "voice": "",
+  "voice": "Reina Ueda",
   "buildTime": 16680,
   "drop": [],
-  "skins": [],
+  "skins": ["용감한 재봉사"],
   "nick": ["딸기카노"],
   "stats": {
     "hp": 90,
@@ -8366,10 +8366,10 @@
   "rank": 5,
   "type": "rf",
   "illust": "細重ソウジ",
-  "voice": "",
+  "voice": "Reina Ueda",
   "buildTime": 16920,
   "drop": [],
-  "skins": [],
+  "skins": ["세노키오"],
   "nick": ["포도카노"],
   "stats": {
     "hp": 82,
@@ -8407,7 +8407,7 @@
   "rank": 4,
   "type": "mg",
   "illust": "兔爷",
-  "voice": "",
+  "voice": "Riiko Tazawa",
   "buildTime": 22500,
   "drop": [],
   "skins": [],
@@ -8528,7 +8528,7 @@
   "voice": "",
   "buildTime": 0,
   "drop": [],
-  "skins": [],
+  "skins": ["레이븐 네버모어"],
   "nick": [],
   "stats": {
     "hp": 130,
@@ -8920,7 +8920,7 @@
   "voice": "",
   "buildTime": 3180,
   "drop": [],
-  "skins": [],
+  "skins": ["둥근 달빛"],
   "nick": ["케파"],
   "stats": {
     "hp": 100,
@@ -8960,7 +8960,7 @@
   "voice": "",
   "buildTime": 8880,
   "drop": [],
-  "skins": [],
+  "skins": ["거위의 신비한 여행"],
   "nick": ["츤쨩"],
   "stats": {
     "hp": 105,
@@ -9167,6 +9167,68 @@
     "effectCenter": 5,
     "effectPos": [2, 3, 6, 8, 9],
     "gridEffect": {"pow": 10, "dodge": 10}
+  }
+}, {
+  "id": 221,
+  "name": "GSH18",
+  "type": "hg",
+  "rank": 3,
+  "stats": {
+    "hp": 105,
+    "pow": 130,
+    "hit": 108,
+    "dodge": 130,
+    "speed": 100,
+    "rate": 100,
+    "armorPiercing": 10,
+    "crit": 20
+  },
+  "grow": 105,
+  "krName": "GSh-18",
+  "skill": {
+    "id": 98,
+    "dataPool": {
+      "DR": [3, 3.3, 3.5, 3.7, 4.3, 4.7, 5, 5.3, 5.7, 6],
+      "CD": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
+      "IC": 6
+    }
+  },
+  "effect": {
+    "effectType": "all",
+    "effectCenter": 5,
+    "effectPos": [1, 2, 4, 7, 8],
+    "gridEffect": {"pow": 12, "hit": 20}
+  }
+}, {
+  "id": 222,
+  "name": "TAC50",
+  "type": "rf",
+  "rank": 5,
+  "stats": {
+    "hp": 98,
+    "pow": 135,
+    "hit": 115,
+    "dodge": 85,
+    "speed": 100,
+    "rate": 90,
+    "armorPiercing": 10,
+    "crit": 40
+  },
+  "grow": 132,
+  "krName": "TAC-50",
+  "skill": {
+    "id": 99,
+    "dataPool": {
+      "DM": [0, 0, 0, 0, 0, 0, 0, 0, 0, 450],
+      "CD": [0, 0, 0, 0, 0, 0, 0, 0, 0, 16],
+      "IC": 10
+    }
+  },
+  "effect": {
+    "effectType": "hg",
+    "effectCenter": 5,
+    "effectPos": [3, 6],
+    "gridEffect": {"cooldown": 18}
   }
 }, {
   "id": 1001,
@@ -9490,8 +9552,8 @@
   "voice": "",
   "buildTime": 0,
   "drop": ["DJMAX RESPECT 콜라보레이션 이벤트"],
-  "skins": [],
-  "nick": [],
+  "skins": ["포터블 여왕 2세"],
+  "nick": ["흥이"],
   "stats": {
     "hp": 100,
     "pow": 100,
@@ -9530,8 +9592,8 @@
   "voice": "",
   "buildTime": 0,
   "drop": ["DJMAX RESPECT 콜라보레이션 이벤트"],
-  "skins": [],
-  "nick": [],
+  "skins": ["포터블 여왕 3세"],
+  "nick": ["망이"],
   "stats": {
     "hp": 100,
     "pow": 100,
