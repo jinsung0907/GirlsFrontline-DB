@@ -30,7 +30,7 @@
 	}
 	
 	$header_title =  "" . $doll->name . ", " . $doll->krName . " | 소전 DB";
-	$header_desc = "소녀전선 SD보기, 소녀전선 스킨 보기, 소녀전선 검열" . $doll->krName . ", ". $doll->name . ", " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
+	$header_desc = "소녀전선 검열, {$doll->krName}, {$doll->krName} 보이스, {$doll->krName} SD, {$doll->krName} 스킨, {$doll->name}, " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
 	require_once("header.php");	
 	if(empty($doll)) exit('<main role="main" class="container"><div class="my-3 p-3 bg-white rounded box-shadow">데이터 없음<br><br>NPC, BOSS는 데이터가 존재하지 않습니다.<br> 인형의 경우는 데이터가 안맞는것으로 게시판에 알려주심됩니다.</div></main>');
 	
