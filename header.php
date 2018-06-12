@@ -31,7 +31,7 @@ require_once("common.php");?>
   </head>
 
   <body class="bg-secondary">
-    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #F0A900;">
+    <nav class="navbar navbar-expand-md navbar-dark" style="background-color: #F0A900;">
       <div class="container">
         <a class="navbar-brand" href="/">소전DB</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsEx" aria-controls="navbarsEx" aria-expanded="false" aria-label="Toggle navigation">
