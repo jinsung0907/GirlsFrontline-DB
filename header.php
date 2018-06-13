@@ -27,7 +27,7 @@ require_once("common.php");?>
 
     <link rel="stylesheet" href="dist/bootstrap.min.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    <link rel="stylesheet" href="dist/gfdb.css?v=3">
+    <link rel="stylesheet" href="dist/gfdb.css?v=4">
   </head>
 
   <body class="bg-secondary">

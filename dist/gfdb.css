@@ -367,11 +367,18 @@
 	background-color: #fffff8 !important;
 }
 
-
 .loader {
 	display: block;
     margin-left: auto;
     margin-right: auto;
     padding-top: 50%;
     min-height: 50%;
+}
+
+.doll_img img {
+	width: 100%;
+}
+
+.doll_img img.damaged {
+	display: none;
 }

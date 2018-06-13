@@ -6,12 +6,14 @@ window.onerror = function(msg, url, line, col, error) {
     l2dError(errmsg);
 }
 
-function startLive2D()
+function startLive2D(no)
 {
     this.platform = window.navigator.platform.toLowerCase();
     
     this.live2DMgr = new LAppLive2DManager();
-
+	if(typeof no !== 'undefined' && no !== '') {
+		this.live2DMgr.count = no;
+	}
     this.isDrawStart = false;
     
     this.gl = null;
@@ -34,7 +36,34 @@ function startLive2D()
     initL2dCanvas("glcanvas");
     
     // モデル用マトリクスの初期化と描画の開始
-    init();
+    init(no);
+}
+
+function releaseLive2D()
+{
+	this.live2DMgr.releaseModel(0, this.gl);
+	$("#glcanvas").empty();
+	
+	this.platform = null;
+    
+    this.live2DMgr = null;
+    this.isDrawStart = null;
+    
+    this.gl = null;
+    this.canvas = null;
+    
+    this.dragMgr = null; /*new L2DTargetPoint();*/ // ドラッグによるアニメーションの管理
+    this.viewMatrix = null; /*new L2DViewMatrix();*/
+    this.projMatrix = null; /*new L2DMatrix44()*/
+    this.deviceToScreen = null; /*new L2DMatrix44();*/
+    
+    this.drag = null;
+    this.oldLen = null;
+    
+    this.lastMouseX = null;
+    this.lastMouseY = null;
+    
+    this.isModelShown = null;
 }
 
 
@@ -42,7 +71,11 @@ function initL2dCanvas(canvasId)
 {
     // canvasオブジェクトを取得
     this.canvas = document.getElementById(canvasId);
-    
+    var canvas_div = this.canvas.parentElement;
+	
+	this.canvas.width = canvas_div.offsetWidth;
+	this.canvas.height = canvas_div.offsetWidth*1.5;
+	
     // イベントの登録
     if(this.canvas.addEventListener) {
         this.canvas.addEventListener("mousewheel", mouseEvent, false);
@@ -74,7 +107,7 @@ function initL2dCanvas(canvasId)
 }
 
 
-function init()
+function init(no)
 {    
     // 3Dバッファの初期化
     var width = this.canvas.width;
@@ -124,7 +157,7 @@ function init()
     // 描画エリアを白でクリア
     this.gl.clearColor(0.0, 0.0, 0.0, 0.0);
 
-    changeModel();
+    changeModel(no);
     
     startDraw();
 }
@@ -192,7 +225,7 @@ function draw()
 }
 
 
-function changeModel()
+function changeModel(no)
 {
     /*var btnChange = document.getElementById("btnChange");
     btnChange.setAttribute("disabled","disabled");
@@ -202,7 +235,11 @@ function changeModel()
     this.isModelShown = false;
     
     this.live2DMgr.reloadFlg = true;
-    this.live2DMgr.count++;
+	if(typeof no !== 'undefined' && no !== '') 
+		this.live2DMgr.count = no;
+	else 
+		this.live2DMgr.count++;
+	
 
     this.live2DMgr.changeModel(this.gl);
 }

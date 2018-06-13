@@ -694,23 +694,23 @@ var jspine = {
 		jspine.canvas.html(jspine.renderer.view);
 		
 	},
-	load : function(SDname, skin) {
-		if(typeof skin === 'undefined' || skin == 0) {
-			skin = '';
+	load : function(SDname, skinnum) {
+		if(typeof skinnum === 'undefined' || skin == 0) {
+			skinnum = '';
 		}
 		var name = SDname;
 		var baseName = SDname;
-		if(skin !== '') {
-			var skelpath = SDname + "/" + SDname + "_" + skin + ".skel.txt";
-			var atlaspath = SDname + "/" + SDname + "_" + skin + ".atlas.txt";
-			var pngpath = SDname + "/" + SDname + "_" + skin + ".png";
+		if(skinnum !== '') {
+			var skelpath = SDname + "_" + skinnum + "/spine/" + SDname + "_" + skinnum + ".skel";
+			var atlaspath = SDname + "_" + skinnum + "/spine/" + SDname + "_" + skinnum + ".atlas";
+			var pngpath = SDname + "_" + skinnum + "/spine/" + SDname + "_" + skinnum + ".png";
 		} else {
-			var skelpath = SDname + "/" + SDname + ".skel.txt";
-			var atlaspath = SDname + "/" + SDname  + ".atlas.txt";
-			var pngpath = SDname + "/" + SDname + ".png";
+			var skelpath = SDname + "/spine/" + SDname + ".skel";
+			var atlaspath = SDname + "/spine/" + SDname  + ".atlas";
+			var pngpath = SDname + "/spine/" + SDname + ".png";
 		}
 		var skin = "default";
-		var basePath = "img/dolls/spine";
+		var basePath = "img/characters/";
 
 		
 

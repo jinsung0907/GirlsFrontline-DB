@@ -281,14 +281,14 @@
 		return $result;
 	}
 	
-	//sd스킨 불러오기
+	//스킨 불러오기
 	$tmp = file_get_contents("data/skin.txt");
 	
-	$skin = [];
+	$skins = [];
 	$tmpobj = new stdClass;
 	$tmpobj->id = 0;
 	$tmpobj->name = '기본';
-	array_push($skin, $tmpobj);
+	array_push($skins, $tmpobj);
 	$tmps = explode(PHP_EOL, $tmp);
 	foreach($tmps as $line) {
 		if(preg_match("/.*([0-9]{8}),(.*) - ([^-]*)/", $line, $match)) {
@@ -308,15 +308,17 @@
 				$tmpobj->id = $match[1] % 10000000;
 				$tmpobj->name = $match[3];
 				if($tmpobj->name !== '오리지널')
-					array_push($skin, $tmpobj);
+					array_push($skins, $tmpobj);
 			}
 		}
 	}
 	
 	//스킨 리스트 만들기
 	$tmpskin = [];
-	for($i = 1 ; $i <= sizeof($skin)-1 ; $i++) {
-		array_push($tmpskin, $skin[$i]->name);
+
+	for($i = 1 ; $i <= sizeof($skins)-1 ; $i++) {
+		array_push($tmpskin, $skins[$i]->name);
+		
 	}
 	$skinstr = implode(', ', $tmpskin);
 	if($skinstr == '') $skinstr = 'X';
@@ -324,50 +326,36 @@
 	
 	//이미지 불러오기
 	$imglist = [];
-	$path = dirname(__FILE__) . '\\img\\dolls\\';
-	if($doll->id > 20000) {
-		$id = $doll->id-20000;
-		array_push($imglist, $id."_U");
-		array_push($imglist, $id."_U_D");
-		$i = 0;
-		while(true) {
-			$i++;
-			if(file_exists($path . $id."_{$i}_U.png"))
-				array_push($imglist, $id."_{$i}_U");
-			else break;
-			if(file_exists($path . $id."_{$i}_U_D.png"))
-				array_push($imglist, $id."_{$i}_U_D");
-			else break;
+	$skinlist = [];
+	$path = 'img/characters/';
+	
+	foreach($skins as $skin) {
+		if($skin->id == 0) {
+			array_push($imglist, "$path{$doll->name}/pic/pic_{$doll->name}.png");
+			array_push($imglist, "$path{$doll->name}/pic/pic_{$doll->name}_d.png");
+			array_push($skinlist, ["기본스킨", 0]);
 		}
-	}
-	else {
-		array_push($imglist, $doll->id);
-		array_push($imglist, $doll->id."_D");
-		$i = 0;
-		while(true) {
-			$i++;
-			if(file_exists($path . $doll->id."_{$i}.png"))
-				array_push($imglist, $doll->id."_$i");
-			else break;
-			if(file_exists($path . $doll->id."_{$i}_D.png"))
-				array_push($imglist, $doll->id."_{$i}_D");
-			else break;
+		else {
+			array_push($imglist, "$path{$doll->name}_{$skin->id}/pic/pic_{$doll->name}_{$skin->id}.png");
+			array_push($imglist, "$path{$doll->name}_{$skin->id}/pic/pic_{$doll->name}_{$skin->id}_d.png");
+			array_push($skinlist, [$skin->name, $skin->id]);
 		}
 	}
 	
 	//live2d 리스트
-	switch($doll->id) {
-		case 16: $live2d_name = "m1928a1_1501"; break;
-		case 20: $live2d_name = "vector_1901"; break;
-		case 50: $live2d_name = "mlemk1_604"; break;
-		case 65: $live2d_name = "hk416_805"; break;
-		case 95: $live2d_name = "88type_1809"; break;
-		case 104: $live2d_name = "g36c_1202"; break;
-		case 114: $live2d_name = "welrod_1401"; break;
-		case 115: $live2d_name = "kp31_310"; break;
-		case 129: $live2d_name = "95type_405"; break;
-		case 172: $live2d_name = "rfb_1601"; break;
-		case 179: $live2d_name = "dsr50_1801"; break;
+	$live2dlist = [];
+	foreach(array_slice(scandir("img/live2d"), 2) as $dir) {
+		foreach(array_slice($skinlist, 1) as $skin_t) {
+			if(strtoupper($dir) == $doll->name . '_' . $skin_t[1]) {
+				array_push($live2dlist, $skin_t[1]);
+			}
+		}
+	}
+	if(sizeof($live2dlist) >= 1) {
+		$live2d_list = json_encode($live2dlist);
+	}
+	else {
+		$live2d_list = '';
 	}
 ?>
     <main role="main" class="container">
@@ -375,47 +363,40 @@
 			<h2 style="display: inline" class="mr-2">#<?=$doll->id?> <?=$doll->krName?$doll->krName:$doll->name?></h2><i><span class="text-muted"><?=$doll->name?></span></i><br>
 			<hr class="mt-1 mb-1">
 			<div class="row">
-				<div class="col-md">
-					<div id="dollcarousel" class="carousel slide" data-ride="carousel">
-						<div class="carousel-inner">
-					<?php $first = true; 
-						foreach($imglist as $img) {
-							if($first) { $active = "active"; $first = false; } else $active = ""; ?>
-							<div class="carousel-item <?=$active?>">
-								<img class="d-block w-100" src="img/dolls/<?=$img?>.png">
-							</div>
-						<?php } ?>
+				<div class="col-lg">
+					<div style="display: flex">
+						<div style="width:20%;"><input id="damaged_btn" type="checkbox"><label for="damaged_btn">중상보기</label></div>
+						<div style="width:80%;">
+							<select style="width:100%;" id="skinselector" autocomplete='off'>
+							<?php foreach($skinlist as $skin) { ?>
+								<option value="<?=$skin[1]?>"><?=$skin[0]?></option>
+							<?php } ?>
+							</select>
 						</div>
-						<a class="carousel-control-prev" href="#dollcarousel" role="button" data-slide="prev">
-							<span style="font-weight:bold; color:black"><</span>
-							<span class="sr-only">Previous</span>
-						</a>
-						<a class="carousel-control-next" href="#dollcarousel" role="button" data-slide="next">
-							<span style="font-weight:bold; color:black">></span>
-							<span class="sr-only">Next</span>
-						</a>
 					</div>
-					<br>
-					<div id="sd_div">
-						<div class="canvasclick row align-items-center justify-content-center">
-							<div class="preCanvas" style="width: 100%; height: 200px"></div>
-						</div>
-						<button id="chg_sdskin">스킨변경</button> <span id="skinname">기본</span>
-					</div>
-					<?php if(isset($live2d_name)) { ?>
-						<button id="load_live2d">Live 2d 로딩</button>
+					<div class="doll_img">
+						<img skin-id="0" class="normal" src="img/characters/<?=$doll->name?>/pic/pic_<?=$doll->name?>.png">
+						<img skin-id="0" class="damaged" src="img/characters/<?=$doll->name?>/pic/pic_<?=$doll->name?>_d.png">
+					<?php foreach(array_slice($skinlist, 1) as $skin) { ?>
+						<img skin-id="<?=$skin[1]?>" style="display:none" class="normal" src="img/characters/<?=$doll->name?>_<?=$skin[1]?>/pic/pic_<?=$doll->name?>_<?=$skin[1]?>.png">
+						<img skin-id="<?=$skin[1]?>" style="display:none" class="damaged" src="img/characters/<?=$doll->name?>_<?=$skin[1]?>/pic/pic_<?=$doll->name?>_<?=$skin[1]?>_d.png">
 					<?php } ?>
+					</div>
 					<div id="live2d_div" style="display:none">
-						<canvas class="d-block" id="glcanvas" height="500px" style="margin: auto;"></canvas>
+						<canvas class="d-block" id="glcanvas" style="margin: auto;"></canvas>
 						<i data-toggle="tooltip" data-placement="top" title="스크롤(모바일은 터치)로 크기 조정 가능" class="fas fa-info-circle"></i>
 						<select id="l2d_motion_sel">
 							<option>---모션선택---</option>
 						</select>
-						<button id="l2d_toggleModel">일반/중상</button>
 					</div>
-					<br><br>
+					<span style="display:none"><input type="checkbox" id="load_live2d"><label for="load_live2d">Live 2d 로딩</label></span>
 				</div>
-				<div class="col-md">
+				<div class="col-lg">
+					<div id="sd_div">
+						<div class="canvasclick row align-items-center justify-content-center">
+							<div class="preCanvas" style="width: 100%; height: 200px"></div>
+						</div>
+					</div>
 					<b>레어도</b> : <?=gunrank_to_img($doll->rank)?><hr class="mt-1 mb-1">
 					<b>종류</b> : <?=guntype_to_str($doll->type)?>(<?=strtoupper($doll->type)?>)<hr class="mt-1 mb-1">
 					<b>성우</b> : <?=$doll->voice?><hr class="mt-1 mb-1">
@@ -603,11 +584,12 @@
 	require_once("footer.php");
 ?>
 	</body>
-	<script src="dist/pixi.min.js" integrity="sha256-SHd/r6RKF17vv9979pxDKSRnyI3OLevL+XNsx0Y+ksQ=" crossorigin="anonymous"></script>
+	<script src="dist/pixi.min.js"></script>
 	<script src="dist/pixi-spine.js"></script>
-	<script src="dist/jsSpine.js"></script>
+	<script src="dist/jsSpine.js?v=1"></script>
 	
 	<script>
+		var dollname = "<?=$doll->name?>";
 		var skilldata = <?=json_encode($skilldata)?>;
 		var dollgrow = {"after100":{"basic":{"armor":[13.979,0.04],"hp":[96.283,0.138]},"grow":{"dodge":[0.075,22.572],"hit":[0.075,22.572],"pow":[0.06,18.018],"rate":[0.022,15.741]}},"normal":{"basic":{"armor":[2,0.161],"dodge":[5],"hit":[5],"hp":[55,0.555],"pow":[16],"rate":[45],"speed":[10]},"grow":{"dodge":[0.303,0],"hit":[0.303,0],"pow":[0.242,0],"rate":[0.181,0]}}};
 		var dollattr = {"hg":{"hp":0.6,"pow":0.6,"rate":0.8,"speed":1.5,"hit":1.2,"dodge":1.8},"smg":{"hp":1.6,"pow":0.6,"rate":1.2,"speed":1.2,"hit":0.3,"dodge":1.6},"rf":{"hp":0.8,"pow":2.4,"rate":0.5,"speed":0.7,"hit":1.6,"dodge":0.8},"ar":{"hp":1,"pow":1,"rate":1,"speed":1,"hit":1,"dodge":1},"mg":{"hp":1.5,"pow":1.8,"rate":1.6,"speed":0.4,"hit":0.6,"dodge":0.6},"sg":{"hp":2.0,"pow":0.7,"rate":0.4,"speed":0.6,"hit":0.3,"dodge":0.3,"armor":1}};
@@ -688,25 +670,7 @@
 		
 		
 		
-		jspine.init('<?=$doll->name?>', 0);
-		var skin = 0;
-		$('#chg_sdskin').on('click', function(e) {
-			if(typeof skin === 'undefined') {
-				skin = 0;
-				$("#skinname").text(skinlist[0].name);
-				jspine.load('<?=$doll->name?>', skinlist[0].id);
-			} else {
-				if(typeof skinlist[skin+1] === 'undefined') {
-					skin = 0;
-					jspine.load('<?=$doll->name?>', skinlist[0].id);
-					$("#skinname").text(skinlist[0].name);
-				} else {
-					skin++;
-					jspine.load('<?=$doll->name?>', skinlist[skin].id);
-					$("#skinname").text(skinlist[skin].name);
-				}
-			}
-		});
+		jspine.init(dollname, 0);
 		
 		$('.preCanvas').on('click touchend', function(e) {
 			var animations = jspine.spine.spineData.animations;
@@ -761,7 +725,7 @@
 			}
 		});
 		
-		var skinlist = <?=json_encode($skin, JSON_UNESCAPED_UNICODE);?>
+		var skinlist = <?=json_encode($skins, JSON_UNESCAPED_UNICODE);?>
 		
 		$.ajax({
 			url: 'https://gfdb.github.io/GFDB-character-description/dolls/<?=$doll->id?>.txt',
@@ -792,6 +756,49 @@
 		$("button[name=playvoice]").on('click', function(e) {
 			$(this).next().get(0).play();
 		});
+		
+		
+		$("#skinselector").on('change', function(e) {
+			$(".doll_img img").hide();
+			$("#damaged_btn").prop("checked", false)
+
+			$(".doll_img img[skin-id=" + $(this).val() + "].normal").show();
+			if(is_live2d(Number($(this).val())))
+				$("#load_live2d").parent().show();
+			else 
+				$("#load_live2d").parent().hide();
+			releaseLive2D();
+			
+			$("#live2d_div").hide();
+			$(".doll_img").show();
+			$("#load_live2d").prop("checked", false)
+			
+			jspine.load(dollname, $(this).val());
+		});
+		
+		$("#damaged_btn").change(function() {
+			if($(this).prop("checked")) {
+				$(".doll_img img[skin-id=" + $("#skinselector").val() + "].normal").hide();
+				$(".doll_img img[skin-id=" + $("#skinselector").val() + "].damaged").show();
+				changeModel(1);
+			}
+			else {
+				$(".doll_img img[skin-id=" + $("#skinselector").val() + "].normal").show();
+				$(".doll_img img[skin-id=" + $("#skinselector").val() + "].damaged").hide();
+				changeModel(0);
+			}
+		});
+		
+		var live2d_list = <?=$live2d_list?>;
+		function is_live2d(no) {
+			for(var i = 0 ; i < live2d_list.length ; i++) {
+				if(live2d_list[i] == no) {
+					console.log('a');
+					return true;
+				}
+			}
+			return false;
+		}
 	</script>
 
 	<!-- Live2D Library -->
@@ -805,25 +812,34 @@
 	<script src="/dist/l2d/LAppDefine.js?v=1"></script>
 	<script src="/dist/l2d/LAppModel.js?v=1"></script>
 	<script src="/dist/l2d/LAppLive2DManager.js?v=1"></script>
-	<script src="/dist/l2d/gfdb_l2d.js?v=1"></script>
+	<script src="/dist/l2d/gfdb_l2d.js?v=2"></script>
 	<script>
-		var jsonpath = "<?=isset($live2d_name)?$live2d_name:''?>";
+		var jsonpath = "";
 		
-		$("#l2d_toggleModel").on('click', function(e) {
-			changeModel();
-		});
-		
-		$("#load_live2d").on('click', function(e) {
-			jspine.stage.removeChildren();
-			jspine = null;
-			
-			$("#load_live2d").text("로딩...");
+		$("#load_live2d").change(function(e) {
+			if($(this).prop("checked")) {
+				//jspine.stage.removeChildren();
+				//jspine = null;
+				jsonpath = dollname + '_' + $("#skinselector").val();
+				
+				//$("#load_live2d").text("로딩...");
 
-			$("#sd_div").remove();
-			$("#load_live2d").remove();
-			
-			$("#live2d_div").show();
-			startLive2D();
+				//$("#sd_div").remove();
+				//$("#load_live2d").remove();
+				$(".doll_img").hide();
+				$("#live2d_div").show();
+				
+				if($("#damaged_btn").prop("checked")) 
+					var dam_s = 1;
+				else 
+					var dam_s = 0;
+				startLive2D(dam_s);
+			}
+			else {
+				releaseLive2D();
+				$("#live2d_div").hide();
+				$(".doll_img").show();
+			}
 		});
 	</script>
 </html>
