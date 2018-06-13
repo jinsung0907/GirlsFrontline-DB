@@ -74,7 +74,7 @@ function initL2dCanvas(canvasId)
     var canvas_div = this.canvas.parentElement;
 	
 	this.canvas.width = canvas_div.offsetWidth;
-	this.canvas.height = canvas_div.offsetWidth*1.5;
+	this.canvas.height = canvas_div.offsetWidth*1.2;
 	
     // イベントの登録
     if(this.canvas.addEventListener) {
