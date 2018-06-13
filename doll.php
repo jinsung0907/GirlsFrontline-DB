@@ -355,7 +355,7 @@
 		$live2d_list = json_encode($live2dlist);
 	}
 	else {
-		$live2d_list = '';
+		$live2d_list = '\'\'';
 	}
 ?>
     <main role="main" class="container">
@@ -767,13 +767,16 @@
 				$("#load_live2d").parent().show();
 			else 
 				$("#load_live2d").parent().hide();
-			releaseLive2D();
+			
+			jspine.load(dollname, $(this).val());
+			
+			
 			
 			$("#live2d_div").hide();
 			$(".doll_img").show();
-			$("#load_live2d").prop("checked", false)
+			$("#load_live2d").prop("checked", false);
 			
-			jspine.load(dollname, $(this).val());
+			releaseLive2D();
 		});
 		
 		$("#damaged_btn").change(function() {
