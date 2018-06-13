@@ -346,7 +346,7 @@
 	$live2dlist = [];
 	foreach(array_slice(scandir("img/live2d"), 2) as $dir) {
 		foreach(array_slice($skinlist, 1) as $skin_t) {
-			if(strtoupper($dir) == $doll->name . '_' . $skin_t[1]) {
+			if(strtoupper($dir) == strtoupper($doll->name . '_' . $skin_t[1])) {
 				array_push($live2dlist, $skin_t[1]);
 			}
 		}
@@ -759,18 +759,18 @@
 		
 		
 		$("#skinselector").on('change', function(e) {
+			var value = $(this).val();
 			$(".doll_img img").hide();
-			$("#damaged_btn").prop("checked", false)
+			$("#damaged_btn").prop("checked", false);
 
-			$(".doll_img img[skin-id=" + $(this).val() + "].normal").show();
-			if(is_live2d(Number($(this).val())))
+			$(".doll_img img[skin-id=" + value + "].normal").show();
+			if(is_live2d(Number(value)))
 				$("#load_live2d").parent().show();
 			else 
 				$("#load_live2d").parent().hide();
 			
-			jspine.load(dollname, $(this).val());
-			
-			
+			if(value == 0) value = '';
+			jspine.load(dollname, value);
 			
 			$("#live2d_div").hide();
 			$(".doll_img").show();
