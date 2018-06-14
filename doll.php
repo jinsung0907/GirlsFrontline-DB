@@ -392,6 +392,13 @@
 					<span style="display:none"><input type="checkbox" id="load_live2d"><label for="load_live2d">Live 2d 로딩</label></span>
 				</div>
 				<div class="col-lg">
+					<div style="display: flex">
+						<div style="width:20%;"><input id="sdDorm" type="checkbox"><label for="sdDorm">숙소모델</label></div>
+						<div style="width:80%;">
+							<select style="width:100%;" id="sdAniSelector" autocomplete='off'>
+							</select>
+						</div>
+					</div>
 					<div id="sd_div">
 						<div class="canvasclick row align-items-center justify-content-center">
 							<div class="preCanvas" style="width: 100%; height: 200px"></div>
@@ -586,7 +593,7 @@
 	</body>
 	<script src="dist/pixi.min.js"></script>
 	<script src="dist/pixi-spine.js"></script>
-	<script src="dist/jsSpine.js?v=1"></script>
+	<script src="dist/jsSpine.js?v=2"></script>
 	
 	<script>
 		var dollname = "<?=$doll->name?>";
@@ -679,23 +686,31 @@
 				if(animations[jspine.curAniIndex+1].name == 'animation' && animations[jspine.curAniIndex+1].duration == 0) {
 					if(typeof animations[jspine.curAniIndex+2] !== 'undefined') {
 						jspine.changeAnimation(jspine.curAniIndex+2);
+						$("#sdAniSelector").val(jspine.curAniIndex+1);
 					}
 					else {
 						if(animations[0].name == 'animation' && animations[0].duration == 0) {
 							jspine.changeAnimation(1);
+							$("#sdAniSelector").val(0);
 						}
-						else 
+						else {
 							jspine.changeAnimation(0);
+							$("#sdAniSelector").val(0);
+						}
 					}
 				}
 				jspine.changeAnimation(jspine.curAniIndex+1);
+				$("#sdAniSelector").val(jspine.curAniIndex);
 			}
 			else {
 				if(animations[0].name == 'animation' && animations[0].duration == 0) {
 					jspine.changeAnimation(1);
+					$("#sdAniSelector").val(0);
 				}
-				else 
+				else {
 					jspine.changeAnimation(0);
+					$("#sdAniSelector").val(0);
+				}
 			}
 		});
 		
@@ -770,7 +785,11 @@
 				$("#load_live2d").parent().hide();
 			
 			if(value == 0) value = '';
-			jspine.load(dollname, value);
+			
+			if($("#sdDorm").prop('checked'))
+				jspine.load(dollname, value, true);
+			else 
+				jspine.load(dollname, value);
 			
 			$("#live2d_div").hide();
 			$(".doll_img").show();
@@ -779,6 +798,21 @@
 			releaseLive2D();
 		});
 		
+		$("#sdAniSelector").on('change', function(e) {
+			jspine.changeAnimation($(this).val());
+		});
+		$("#sdDorm").change(function() {
+			var value = $("#skinselector").val();
+			if(value == 0) value = '';
+			
+			if($(this).prop("checked")) {
+				jspine.load(dollname, value, true);
+			}
+			else {
+				jspine.load(dollname, value);
+			}
+		});
+			
 		$("#damaged_btn").change(function() {
 			if($(this).prop("checked")) {
 				$(".doll_img img[skin-id=" + $("#skinselector").val() + "].normal").hide();

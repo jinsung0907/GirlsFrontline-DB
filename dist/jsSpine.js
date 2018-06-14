@@ -694,20 +694,24 @@ var jspine = {
 		jspine.canvas.html(jspine.renderer.view);
 		
 	},
-	load : function(SDname, skinnum) {
+	load : function(SDname, skinnum, is_r) {
 		if(typeof skinnum === 'undefined' || skin == 0) {
 			skinnum = '';
 		}
 		var name = SDname;
 		var baseName = SDname;
+		
+		var dorm = '';
+		if(typeof is_r !== 'undefined' && is_r === true)
+			dorm = 'r';
 		if(skinnum !== '') {
-			var skelpath = SDname + "_" + skinnum + "/spine/" + SDname + "_" + skinnum + ".skel";
-			var atlaspath = SDname + "_" + skinnum + "/spine/" + SDname + "_" + skinnum + ".atlas";
-			var pngpath = SDname + "_" + skinnum + "/spine/" + SDname + "_" + skinnum + ".png";
+			var skelpath = SDname + "_" + skinnum + "/spine/" + dorm + SDname + "_" + skinnum + ".skel";
+			var atlaspath = SDname + "_" + skinnum + "/spine/" + dorm + SDname + "_" + skinnum + ".atlas";
+			var pngpath = SDname + "_" + skinnum + "/spine/" + dorm + SDname + "_" + skinnum + ".png";
 		} else {
-			var skelpath = SDname + "/spine/" + SDname + ".skel";
-			var atlaspath = SDname + "/spine/" + SDname  + ".atlas";
-			var pngpath = SDname + "/spine/" + SDname + ".png";
+			var skelpath = SDname + "/spine/" + dorm + SDname + ".skel";
+			var atlaspath = SDname + "/spine/" + dorm + SDname  + ".atlas";
+			var pngpath = SDname + "/spine/" + dorm + SDname + ".png";
 		}
 		var skin = "default";
 		var basePath = "img/characters/";
@@ -764,12 +768,20 @@ var jspine = {
 		jspine.spine.y = jspine.selectY;
 		jspine.spine.scale.x = jspine.selectScale;
 		jspine.spine.scale.y = jspine.selectScale;
+		
 		var animations = jspine.spine.spineData.animations;
+		$("#sdAniSelector").empty();
 		for(var i = 0 ; i <= animations.length-1 ; i++) {
+			$("#sdAniSelector").append($('<option>', {
+				value: i,
+				text: animations[i].name
+			}));
 			if(animations[i].name == 'wait') {
 				jspine.curAniIndex = i;
 			}
 		}
+		$("#sdAniSelector").val(jspine.curAniIndex);
+		
 		jspine.changeAnimation(jspine.curAniIndex);
 		jspine.spine.skeleton.setToSetupPose();
 		jspine.spine.update(0);
@@ -777,13 +789,19 @@ var jspine = {
 		jspine.stage.addChild(jspine.spine);
 		
 		jspine.spine.state.onComplete = function(trackIndex) { 
-			if(jspine.spine.spineData.animations[jspine.curAniIndex].name == "victory")
+			if(jspine.spine.spineData.animations[jspine.curAniIndex].name == "victory") {
+				var cnt = 0;
 				for(var i = 0 ; i <= animations.length-1 ; i++) {
 					if(animations[i].name == 'victoryloop') {
 						jspine.changeAnimation(i);
+						cnt++;
 					}
 				}
+				if(cnt == 0) 
+					jspine.changeAnimation(jspine.curAniIndex);
+			}
 		}
+		
 	},
 	
 	loadToStage : function(defaultStageData, spineData){
