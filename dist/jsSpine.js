@@ -777,7 +777,7 @@ var jspine = {
 		var animations = jspine.spine.spineData.animations;
 		$("#sdAniSelector").empty();
 		for(var i = 0 ; i <= animations.length-1 ; i++) {
-			if(animations[i].name !== 'victoryloop') {
+			if(animations[i].name !== 'victoryloop' && animations[i].name !== 'animation') {
 				$("#sdAniSelector").append($('<option>', {
 					value: i,
 					text: animations[i].name

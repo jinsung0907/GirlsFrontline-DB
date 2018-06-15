@@ -608,7 +608,7 @@
 	</body>
 	<script src="dist/pixi.min.js"></script>
 	<script src="dist/pixi-spine.js"></script>
-	<script src="dist/jsSpine.js?v=4"></script>
+	<script src="dist/jsSpine.js?v=5"></script>
 	
 	<script>
 		var dollname = "<?=$doll->name?>";
@@ -706,7 +706,7 @@
 					else {
 						if(animations[0].name == 'animation' && animations[0].duration == 0) {
 							jspine.changeAnimation(1);
-							$("#sdAniSelector").val(0);
+							$("#sdAniSelector").val(1);
 						}
 						else {
 							jspine.changeAnimation(0);
@@ -720,7 +720,7 @@
 			else {
 				if(animations[0].name == 'animation' && animations[0].duration == 0) {
 					jspine.changeAnimation(1);
-					$("#sdAniSelector").val(0);
+					$("#sdAniSelector").val(1);
 				}
 				else {
 					jspine.changeAnimation(0);
