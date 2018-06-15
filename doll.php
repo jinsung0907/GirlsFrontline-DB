@@ -608,7 +608,7 @@
 	</body>
 	<script src="dist/pixi.min.js"></script>
 	<script src="dist/pixi-spine.js"></script>
-	<script src="dist/jsSpine.js?v=3"></script>
+	<script src="dist/jsSpine.js?v=4"></script>
 	
 	<script>
 		var dollname = "<?=$doll->name?>";
