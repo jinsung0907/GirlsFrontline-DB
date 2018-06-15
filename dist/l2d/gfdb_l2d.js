@@ -41,6 +41,9 @@ function startLive2D(no)
 
 function releaseLive2D()
 {
+	if(typeof this.live2DMgr == 'undefined') {
+		return;
+	}
 	this.live2DMgr.releaseModel(0, this.gl);
 	$("#glcanvas").empty();
 	

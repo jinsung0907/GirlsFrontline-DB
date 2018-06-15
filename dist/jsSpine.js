@@ -772,10 +772,12 @@ var jspine = {
 		var animations = jspine.spine.spineData.animations;
 		$("#sdAniSelector").empty();
 		for(var i = 0 ; i <= animations.length-1 ; i++) {
-			$("#sdAniSelector").append($('<option>', {
-				value: i,
-				text: animations[i].name
-			}));
+			if(animations[i].name !== 'victoryloop') {
+				$("#sdAniSelector").append($('<option>', {
+					value: i,
+					text: animations[i].name
+				}));
+			}
 			if(animations[i].name == 'wait') {
 				jspine.curAniIndex = i;
 			}

@@ -593,7 +593,7 @@
 	</body>
 	<script src="dist/pixi.min.js"></script>
 	<script src="dist/pixi-spine.js"></script>
-	<script src="dist/jsSpine.js?v=2"></script>
+	<script src="dist/jsSpine.js?v=3"></script>
 	
 	<script>
 		var dollname = "<?=$doll->name?>";
@@ -849,7 +849,7 @@
 	<script src="/dist/l2d/LAppDefine.js?v=1"></script>
 	<script src="/dist/l2d/LAppModel.js?v=1"></script>
 	<script src="/dist/l2d/LAppLive2DManager.js?v=1"></script>
-	<script src="/dist/l2d/gfdb_l2d.js?v=2"></script>
+	<script src="/dist/l2d/gfdb_l2d.js?v=3"></script>
 	<script>
 		var jsonpath = "";
 		
