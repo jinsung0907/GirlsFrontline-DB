@@ -327,6 +327,7 @@
 	//이미지 불러오기
 	$imglist = [];
 	$skinlist = [];
+	$sdStatus = [];
 	$path = 'img/characters/';
 	
 	foreach($skins as $skin) {
@@ -334,11 +335,25 @@
 			array_push($imglist, "$path{$doll->name}/pic/pic_{$doll->name}.png");
 			array_push($imglist, "$path{$doll->name}/pic/pic_{$doll->name}_d.png");
 			array_push($skinlist, ["기본스킨", 0]);
+			
+			if(file_exists("$path{$doll->name}/spine/r{$doll->name}.atlas")) $sdStatus[0][0] = 1;
+			else $sdStatus[0][0] = 0;
+			if(file_exists("$path{$doll->name}/spine/r{$doll->name}.png")) $sdStatus[0][1] = 1;
+			else $sdStatus[0][1] = 0;
+			if(file_exists("$path{$doll->name}/spine/r{$doll->name}.skel")) $sdStatus[0][2] = 1;
+			else $sdStatus[0][2] = 0;
 		}
 		else {
 			array_push($imglist, "$path{$doll->name}_{$skin->id}/pic/pic_{$doll->name}_{$skin->id}.png");
 			array_push($imglist, "$path{$doll->name}_{$skin->id}/pic/pic_{$doll->name}_{$skin->id}_d.png");
 			array_push($skinlist, [$skin->name, $skin->id]);
+			
+			if(file_exists("$path{$doll->name}_{$skin->id}/spine/r{$doll->name}_{$skin->id}.atlas")) $sdStatus[$skin->id][0] = 1;
+			else $sdStatus[$skin->id][0] = 0;
+			if(file_exists("$path{$doll->name}_{$skin->id}/spine/r{$doll->name}_{$skin->id}.png")) $sdStatus[$skin->id][1] = 1;
+			else $sdStatus[$skin->id][1] = 0;
+			if(file_exists("$path{$doll->name}_{$skin->id}/spine/r{$doll->name}_{$skin->id}.skel")) $sdStatus[$skin->id][2] = 1;
+			else $sdStatus[$skin->id][2] = 0;
 		}
 	}
 	
@@ -750,7 +765,6 @@
 					return;
 				}
 				else {
-					console.log(data);
 					var txt = data.replace(/\n/g, "<br>");
 					$('#doll_desc').html(txt);
 					return;
@@ -772,9 +786,11 @@
 			$(this).next().get(0).play();
 		});
 		
-		
+		var skinstatus = <?=json_encode($sdStatus)?>;
 		$("#skinselector").on('change', function(e) {
 			var value = $(this).val();
+			var skinnum = value;
+			
 			$(".doll_img img").hide();
 			$("#damaged_btn").prop("checked", false);
 
@@ -787,10 +803,10 @@
 			if(value == 0) value = '';
 			
 			if($("#sdDorm").prop('checked'))
-				jspine.load(dollname, value, true);
+				jspine.load(dollname, value, skinstatus[skinnum]);
 			else 
 				jspine.load(dollname, value);
-			
+
 			$("#live2d_div").hide();
 			$(".doll_img").show();
 			$("#load_live2d").prop("checked", false);
@@ -803,10 +819,12 @@
 		});
 		$("#sdDorm").change(function() {
 			var value = $("#skinselector").val();
+			var skinnum = value;
 			if(value == 0) value = '';
 			
 			if($(this).prop("checked")) {
-				jspine.load(dollname, value, true);
+				jspine.load(dollname, value, skinstatus[skinnum]);
+				console.log(skinstatus[value]);
 			}
 			else {
 				jspine.load(dollname, value);
