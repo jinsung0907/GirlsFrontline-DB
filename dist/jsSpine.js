@@ -702,15 +702,20 @@ var jspine = {
 		var baseName = SDname;
 		
 		var dorm = '';
-		if(typeof is_r !== 'undefined' && is_r === true)
-			dorm = 'r';
+		console.log(is_r);
 		if(skinnum !== '') {
+			if(typeof is_r !== 'undefined' && is_r[2]) dorm = "r"; else dorm = "";
 			var skelpath = SDname + "_" + skinnum + "/spine/" + dorm + SDname + "_" + skinnum + ".skel";
+			if(typeof is_r !== 'undefined' && is_r[0]) dorm = "r"; else dorm = "";
 			var atlaspath = SDname + "_" + skinnum + "/spine/" + dorm + SDname + "_" + skinnum + ".atlas";
+			if(typeof is_r !== 'undefined' && is_r[0]) dorm = "r"; else dorm = "";
 			var pngpath = SDname + "_" + skinnum + "/spine/" + dorm + SDname + "_" + skinnum + ".png";
 		} else {
+			if(typeof is_r !== 'undefined' && is_r[2]) dorm = "r"; else dorm = "";
 			var skelpath = SDname + "/spine/" + dorm + SDname + ".skel";
+			if(typeof is_r !== 'undefined' && is_r[0]) dorm = "r"; else dorm = "";
 			var atlaspath = SDname + "/spine/" + dorm + SDname  + ".atlas";
+			if(typeof is_r !== 'undefined' && is_r[0]) dorm = "r"; else dorm = "";
 			var pngpath = SDname + "/spine/" + dorm + SDname + ".png";
 		}
 		var skin = "default";
