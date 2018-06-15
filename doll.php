@@ -836,6 +836,11 @@
 			}
 			return false;
 		}
+		
+		$("#skinselector > option").each(function() {
+			if(is_live2d(this.value)) 
+				this.text += "(Live2D)";
+		});
 	</script>
 
 	<!-- Live2D Library -->
