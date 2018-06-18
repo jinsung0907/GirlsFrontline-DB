@@ -168,8 +168,20 @@ function getcharimgdir($str, $emo) {
 			if($emo == 0) {
 				$result = "dolls/" . $result;
 			}
-			
-			if($str == "G11") {
+			if($str == "Grizzly") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "dolls/" . $result . "_3"; break;
+					case 3: $result = "dolls/" . $result . "_3_D"; break;
+					case 4: $result = "dolls/" . $result . "_2"; break;
+					case 5: $result = "dolls/" . $result . "_2_D"; break;
+					case 6: $result = "dolls/" . $result . "_1"; break;
+					case 7: $result = "dolls/" . $result . "_1_D"; break;
+					case 8: $result = "dolls/" . $result . "_4"; break;
+					case 9: $result = "dolls/" . $result . "_4_D"; break;
+				}
+			}
+			else if($str == "G11") {
 				switch($emo) {
 					case 1: $result = "dolls/" . $result . "_D"; break;
 					case 2: $result = "story_character/pic_G11_1"; break;
@@ -293,10 +305,10 @@ function getcharimgdir($str, $emo) {
 					case 2: $result = "story_character/pic_UMP9_1"; break;
 					case 3: $result = "story_character/pic_UMP9_2"; break;
 					case 4: $result = "story_character/pic_UMP9_3"; break;
-					case 5: $result = "dolls/" . $result . "_1"; break;
-					case 6: $result = "dolls/" . $result . "_1_D"; break;
-					case 7: $result = "dolls/" . $result . "_2"; break;
-					case 8: $result = "dolls/" . $result . "_2_D"; break;
+					case 5: $result = "dolls/" . $result . "_2"; break;
+					case 6: $result = "dolls/" . $result . "_2_D"; break;
+					case 7: $result = "dolls/" . $result . "_1"; break;
+					case 8: $result = "dolls/" . $result . "_1_D"; break;
 					case 9: $result = "dolls/" . $result . "_3"; break;
 					case 10: $result = "dolls/" . $result . "_3_D"; break;
 				}
@@ -321,10 +333,10 @@ function getcharimgdir($str, $emo) {
 					case 1: $result = "dolls/" . $result . "_D"; break;
 					case 2: $result = "story_character/pic_UMP45_1"; break;
 					case 3: $result = "story_character/pic_UMP45_2"; break;
-					case 4: $result = "dolls/" . $result . "_1"; break;
-					case 5: $result = "dolls/" . $result . "_1_D"; break;
-					case 6: $result = "dolls/" . $result . "_2"; break;
-					case 7: $result = "dolls/" . $result . "_2_D"; break;
+					case 4: $result = "dolls/" . $result . "_2"; break;
+					case 5: $result = "dolls/" . $result . "_2_D"; break;
+					case 6: $result = "dolls/" . $result . "_1"; break;
+					case 7: $result = "dolls/" . $result . "_1_D"; break;
 					case 8: $result = "dolls/" . $result . "_3"; break;
 					case 9: $result = "dolls/" . $result . "_3_D"; break;
 				}

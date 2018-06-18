@@ -27,6 +27,7 @@
 			case 18: $lists = $storys->skin[3]->list; break;
 			case 19: $lists = $storys->skin[4]->list; break;
 			case 8: $lists = $storys->skin[5]->list; break;
+			case 21: $lists = $storys->skin[6]->list; break;
 		}
 		
 		if(isset($lists)) {
