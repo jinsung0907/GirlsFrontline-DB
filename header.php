@@ -47,6 +47,7 @@ require_once("common.php");?>
 			  <div class="dropdown-menu" aria-labelledby="dbDropdown">
 			   <a class="dropdown-item" href="/dolls.php">인형 목록</a>
 			   <a class="dropdown-item" href="/fairies.php">요정 목록</a>
+			   <a class="dropdown-item" href="/timetable.php">제조시간표</a>
 			  </div>
 			</li>
 			<li class="nav-item">
