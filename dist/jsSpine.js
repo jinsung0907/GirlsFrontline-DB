@@ -702,7 +702,7 @@ var jspine = {
 		var baseName = SDname;
 		
 		var dorm = '';
-		console.log(is_r);
+
 		if(skinnum !== '') {
 			if(typeof is_r !== 'undefined' && is_r[2]) dorm = "r"; else dorm = "";
 			var skelpath = SDname + "_" + skinnum + "/spine/" + dorm + SDname + "_" + skinnum + ".skel";
