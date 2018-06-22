@@ -7100,6 +7100,99 @@
   "krName": "SPAS-12",
   "grow": 90
 }, {
+  "id": 163,
+  "name": "AA12",
+  "rank": 5,
+  "type": "sg",
+  "illust": "Silverwing",
+  "voice": "",
+  "buildTime": 29520,
+  "drop": [],
+  "skins": [],
+  "nick": [],
+  "stats": {
+    "hp": 0,
+    "armor": 0,
+    "pow": 0,
+    "hit": 0,
+    "dodge": 0,
+    "speed": 100,
+    "rate": 0,
+    "armorPiercing": 10,
+    "crit": 40,
+    "bullet": 0
+  },
+  "effect": {
+    "effectType": "mg",
+    "effectCenter": 6,
+    "effectPos": [4, 7],
+    "gridEffect": {"pow": 22}
+  },
+  "krName": "AA-12",
+  "grow": 95
+}, {
+  "id": 164,
+  "name": "FP6",
+  "rank": 5,
+  "type": "sg",
+  "illust": "nineo",
+  "voice": "",
+  "buildTime": 29160,
+  "drop": [],
+  "skins": [],
+  "nick": [],
+  "stats": {
+    "hp": 0,
+    "armor": 0,
+    "pow": 0,
+    "hit": 0,
+    "dodge": 0,
+    "speed": 100,
+    "rate": 0,
+    "armorPiercing": 10,
+    "crit": 40,
+    "bullet": 0
+  },
+  "effect": {
+    "effectType": "mg",
+    "effectCenter": 9,
+    "effectPos": [1, 4, 7],
+    "gridEffect": {"pow": 12, "hit": 15}
+  },
+  "krName": "FP-6",
+  "grow": 95
+}, {
+  "id": 165,
+  "name": "M1014",
+  "rank": 5,
+  "type": "sg",
+  "illust": "DDAL",
+  "voice": "",
+  "buildTime": 26040,
+  "drop": [],
+  "skins": [],
+  "nick": [],
+  "stats": {
+    "hp": 0,
+    "armor": 0,
+    "pow": 0,
+    "hit": 0,
+    "dodge": 0,
+    "speed": 100,
+    "rate": 0,
+    "armorPiercing": 10,
+    "crit": 40,
+    "bullet": 0
+  },
+  "effect": {
+    "effectType": "mg",
+    "effectCenter": 3,
+    "effectPos": [1, 4, 7],
+    "gridEffect": {"pow": 20}
+  },
+  "krName": "M1014",
+  "grow": 95
+}, {
   "id": 166,
   "name": "CZ75",
   "rank": 5,
