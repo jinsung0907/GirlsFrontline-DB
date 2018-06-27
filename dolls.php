@@ -29,19 +29,15 @@
 			<div class="dollindex row">
 			<?php
 				foreach($dolls as $doll) {
-					
 					$imgsrc = $doll->id; 
-					if($doll->id > 1000 && $doll->id < 2000) {
-						$doll->rank = 1;
-						$imgsrc = $doll->id; 
-					}
+					$imgsrc = $doll->name . "/pic/pic_" . $doll->name . "_n";
 					?>
 				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=$doll->name?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>'>
 					<i class="rankbar"></i>
 					<div class="starrank">
 						<img src="img/type/<?=strtoupper($doll->type)?><?=$doll->rank?>.png" class="typeicon">
 					</div>
-					<i class="portrait" data-src='img/dolls/portraits/<?=$imgsrc?>.png' ></i>
+					<i class="portrait" data-src='img/characters/<?=$imgsrc?>.png' ></i>
 					<div class="portrait_name pt-2 pb-2"><?=$doll->krName?$doll->krName:$doll->name?></div>
 				</a><?php } ?>
 			</div>
