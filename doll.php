@@ -714,6 +714,23 @@
 						}
 					}
 				}
+				else if(animations[jspine.curAniIndex+1].name == 'victoryloop') {
+					if(typeof animations[jspine.curAniIndex+2] !== 'undefined') {
+						jspine.changeAnimation(jspine.curAniIndex+2);
+						$("#sdAniSelector").val(jspine.curAniIndex);
+					}
+					else {
+						if(animations[0].name == 'animation' && animations[0].duration == 0) {
+							jspine.changeAnimation(1);
+							$("#sdAniSelector").val(1);
+						}
+						else {
+							jspine.changeAnimation(0);
+							$("#sdAniSelector").val(0);
+						}
+					}
+				}
+				
 				jspine.changeAnimation(jspine.curAniIndex+1);
 				$("#sdAniSelector").val(jspine.curAniIndex);
 			}
