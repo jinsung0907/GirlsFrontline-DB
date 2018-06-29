@@ -1,5 +1,7 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	$header_desc = "소녀전선 시간표, 소전 시간표, 소녀전선 제조시간표, 소전 제조시간표";
+	$header_title = "소녀전선 시간표	 | 소전DB";
 	require_once("header.php");
 	$dolls = json_decode(file_get_contents("data/doll.json"));
 	$fairies = json_decode(file_get_contents("data/fairy.json"));
@@ -53,6 +55,7 @@
 					<a class="nav-link" id="equip-tab" data-toggle="tab" href="#equip" role="tab" aria-controls="equip" aria-selected="false">장비시간표</a>
 				</li>
 			</ul>
+			
 			<div class="tab-content" id="myTabContent">
 				<div class="tab-pane fade show active" id="doll" role="tabpanel" aria-labelledby="doll-tab">
 					<table id="timetable">
