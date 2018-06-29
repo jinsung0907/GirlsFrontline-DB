@@ -253,7 +253,7 @@
   },
   {
     "path": "powDebuff",
-    "desc": "적군 전체 화력을 {PW}% 하락시킨다.",
+    "desc": "적군 전체 화력을 {PW}% 감소시킨다.",
     "data": [
       {
         "type": "enemy_pow",
