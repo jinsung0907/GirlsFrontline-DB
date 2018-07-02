@@ -390,12 +390,7 @@
 						</div>
 					</div>
 					<div class="doll_img">
-						<img skin-id="0" class="normal" src="img/characters/<?=$doll->name?>/pic/pic_<?=$doll->name?>.png">
-						<img skin-id="0" class="damaged" src="img/characters/<?=$doll->name?>/pic/pic_<?=$doll->name?>_d.png">
-					<?php foreach(array_slice($skinlist, 1) as $skin) { ?>
-						<img skin-id="<?=$skin[1]?>" style="display:none" class="normal" src="img/characters/<?=$doll->name?>_<?=$skin[1]?>/pic/pic_<?=$doll->name?>_<?=$skin[1]?>.png">
-						<img skin-id="<?=$skin[1]?>" style="display:none" class="damaged" src="img/characters/<?=$doll->name?>_<?=$skin[1]?>/pic/pic_<?=$doll->name?>_<?=$skin[1]?>_d.png">
-					<?php } ?>
+						<img skin-id="0" src="img/characters/<?=$doll->name?>/pic/pic_<?=$doll->name?>.png">
 					</div>
 					<div id="live2d_div" style="display:none">
 						<canvas class="d-block" id="glcanvas" style="margin: auto;"></canvas>
@@ -690,8 +685,6 @@
 			}
 		});
 		
-		
-		
 		jspine.init(dollname, 0);
 		
 		$('.preCanvas').on('click touchend', function(e) {
@@ -808,10 +801,15 @@
 			var value = $(this).val();
 			var skinnum = value;
 			
-			$(".doll_img img").hide();
+			if(value == 0)
+				var imgsrc = "img/characters/" + dollname + "/pic/pic_" + dollname;
+			else 
+				var imgsrc = "img/characters/" + dollname + "_" + value + "/pic/pic_" + dollname + "_" + value;
+		
+			
 			$("#damaged_btn").prop("checked", false);
 
-			$(".doll_img img[skin-id=" + value + "].normal").show();
+			$(".doll_img img").attr('src', imgsrc + '.png').hide().after("<img style='width:100px' src='img/load.gif'>");
 			if(is_live2d(Number(value)))
 				$("#load_live2d").parent().show();
 			else 
@@ -849,14 +847,18 @@
 		});
 			
 		$("#damaged_btn").change(function() {
+			var value = $("#skinselector").val();
+			if(value == 0)
+				var imgsrc = "img/characters/" + dollname + "/pic/pic_" + dollname;
+			else 
+				var imgsrc = "img/characters/" + dollname + "_" + value + "/pic/pic_" + dollname + "_" + value;
+			
 			if($(this).prop("checked")) {
-				$(".doll_img img[skin-id=" + $("#skinselector").val() + "].normal").hide();
-				$(".doll_img img[skin-id=" + $("#skinselector").val() + "].damaged").show();
+				$(".doll_img img").attr('src', imgsrc + '_d.png').hide().after("<img style='width:100px'  src='img/load.gif'>");
 				changeModel(1);
 			}
 			else {
-				$(".doll_img img[skin-id=" + $("#skinselector").val() + "].normal").show();
-				$(".doll_img img[skin-id=" + $("#skinselector").val() + "].damaged").hide();
+				$(".doll_img img").attr('src', imgsrc + '.png').hide().after("<img style='width:100px' src='img/load.gif'>");
 				changeModel(0);
 			}
 		});
@@ -875,6 +877,10 @@
 		$("#skinselector > option").each(function() {
 			if(is_live2d(this.value)) 
 				this.text += "(Live2D)";
+		});
+		
+		$(".doll_img img").on('load', function() {
+			$(this).show().next().remove();
 		});
 	</script>
 

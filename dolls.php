@@ -37,7 +37,7 @@
 					<div class="starrank">
 						<img src="img/type/<?=strtoupper($doll->type)?><?=$doll->rank?>.png" class="typeicon">
 					</div>
-					<i class="portrait" data-src='img/characters/<?=$imgsrc?>.png' ></i>
+					<i class="portrait" data-src='img/characters/<?=$imgsrc?>.jpg' ></i>
 					<div class="portrait_name pt-2 pb-2"><?=$doll->krName?$doll->krName:$doll->name?></div>
 				</a><?php } ?>
 			</div>
@@ -187,7 +187,6 @@
 			$(".portrait:visible").lazy({
 				effect: 'fadeIn',
 				beforeLoad: function(e) {
-					console.log('a');
 					e[0].append($('<img>', { src: 'img/load.gif', class: 'loader' })[0]);
 				},
 				afterLoad: function(e) {
