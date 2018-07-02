@@ -373,12 +373,12 @@
 		$live2d_list = '\'\'';
 	}
 ?>
-    <main role="main" class="container">
-		<div class="my-3 p-3 bg-white rounded box-shadow">
+    <main role="main" class="container-fluid">
+		<div class="my-1 p-3 bg-white rounded box-shadow">
 			<h2 style="display: inline" class="mr-2">#<?=$doll->id?> <?=$doll->krName?$doll->krName:$doll->name?></h2><i><span class="text-muted"><?=$doll->name?></span></i><br>
 			<hr class="mt-1 mb-1">
 			<div class="row">
-				<div class="col-lg">
+				<div class="col-lg-7">
 					<div style="display: flex">
 						<div style="width:20%;"><input id="damaged_btn" type="checkbox"><label for="damaged_btn">중상보기</label></div>
 						<div style="width:80%;">
@@ -406,7 +406,7 @@
 					</div>
 					<span style="display:none"><input type="checkbox" id="load_live2d"><label for="load_live2d">Live 2d 로딩</label></span>
 				</div>
-				<div class="col-lg">
+				<div class="col-lg-5">
 					<div style="display: flex">
 						<div style="width:20%;"><input id="sdDorm" type="checkbox"><label for="sdDorm">숙소모델</label></div>
 						<div style="width:80%;">

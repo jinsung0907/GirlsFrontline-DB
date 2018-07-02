@@ -49,6 +49,9 @@
 }
 
 @media (max-width: 767px) {
+	.container-fluid {
+		padding: 0px;
+	}
 	.storyimg {
 		width: 100%;
 	}
