@@ -1,0 +1,1 @@
+[{"character":["PM"],"character_emotion":["0"],"speaker":0,"speaker_name":"Makarov","bg":"10","text":"Commander, our next move is key.\nWe've confirmed Tovarishch Nagant's whereabouts, and must rescue her immediately.\nOur target is in a warehouse abandoned by Sangvis Ferri, as you probably remember.\nLet's go. Tovarishch Nagant is waiting for us."}]

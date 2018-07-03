@@ -1,0 +1,1 @@
+[{"character":["PPSh41"],"character_emotion":["0"],"speaker":0,"speaker_name":"PPSh-41","text":"Phew...\nPapasha here is safe. What about you, Skorpion?\n...Skorpion? Skorpion VZ61 of Squad S61, please respond!"}]

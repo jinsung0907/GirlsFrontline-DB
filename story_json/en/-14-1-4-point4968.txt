@@ -1,0 +1,1 @@
+[{"character":[],"character_emotion":[""],"speaker":0,"speaker_name":"","bg":"10","text":"no text data avaliable(no en, ko data)"}]

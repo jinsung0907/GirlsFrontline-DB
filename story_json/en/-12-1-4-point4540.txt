@@ -1,0 +1,1 @@
+[{"character":["HK416"],"character_emotion":["0"],"speaker":0,"speaker_name":"HK416","bg":"10","text":"숨겨져 있던 마인드맵 파편인가...\n이 파일들이 45의 과거라는 거군...\n지금은 이런 걸 보고 있을 때가 아니지, 일단 먼저 회수부터 해놔야겠어. 분명 더 많은 파편이 숨겨져 있을 거야.(no english text data)"}]

@@ -1,0 +1,1291 @@
+Grizzly|DIALOGUE1|You can't just sit all day, Commander. Fancy a drive with me?
+Grizzly|DIALOGUE2|Don't get the wrong idea, okay?
+Grizzly|DIALOGUE3|Don't rely on me too much, Commander. You can do perfectly fine on your own...
+Grizzly|Wedding|Oh? Do you want something from me, Commander?<>Huh? Are you kidding?! I think of you as a friend, but you...you wanna...<>Not that I hate it, but at least give me...some time to prepare...
+Grizzly|Introduce|Oh? Why if it isn't the Commander. Grizzly MkV, I'll be tagging along from now on.
+Grizzly|ALLHALLOWS|What's the plan tonight, Commander? ...Oh? Whose apple cider is this? I'm helping myself!
+Grizzly|DIALOGUEWEDDING|Wanna drive me home after work, Commander? Your driving sure did impress me last time. Show me more tonight.
+APS|DIALOGUE1|Peaceful days...are the best.
+APS|DIALOGUE2|What is it, Commander? Quite forward today, aren't you?
+APS|DIALOGUE3|Hey, you! Don't touch me in funny places, or I'll charge you!
+APS|Wedding|You're sure about choosing me?<>Then from now on// what's yours is mine, what's mine is still mine!
+APS|Introduce|Automatic pistol, Stechkin, present!
+APS|ALLHALLOWS|It's that time of the year to masquerade! Apart from putting on glamorous costumes, be sure to nail your facial expressions and movements, too!
+APS|DIALOGUEWEDDING|Huh? What? Nothing's missing at home! ...My, we're family anyway! Just sponsor my dreams a little, heheh...
+M9|DIALOGUE1|M1911 seems to hate me. I really wanna get along with her.
+M9|DIALOGUE2|My rank climbed again in the popularity poll! I'm so happy!
+M9|DIALOGUE3|Uh... So sleepy... Let me take a nap...
+M9|Wedding|Commander... So you do think I'm the most glittery and charming?<>No? Really? Ah, I get it now! Let's shine together then!
+M9|Introduce|M9 here! I'm super popular!
+M9|ALLHALLOWS|Halloween is the best! I can get so much candy!
+M9|DIALOGUEWEDDING|You're all glittery today, Commander. It is, of course, all thanks to me. Praise me!
+C96|DIALOGUE1|My clothes. Are they cute?
+C96|DIALOGUE2|You see my belly button? Heheh...
+C96|DIALOGUE3|Uh... It's so stuffy. Guess I'll take it off...
+C96|Wedding|Huhhhh? Whyyyyyy?<>Is it 'cause I'm smart? Cute? Unusual? Or is it because I have a long history? Or...or... Fine...<>I'll just keep guessing right here by your side.
+C96|Introduce|You're my Commander, aren't you?
+C96|ALLHALLOWS|What should I dress as for the masquerade tonight? Heheheh. How about an apron with a pumpkin mask? Huh? What do you mean 'tasteless', Commander?
+C96|DIALOGUEWEDDING|Am I too noisy, Commander? Am I bothering you? ...Okay, I'll be quiet as a mouse till you get off work!
+92type|DIALOGUE1|Please leave it to me to take stock of our resources, Commander.
+92type|DIALOGUE2|Is that a new order? Apologies, I didn't hear you just now.
+92type|DIALOGUE3|Be careful with your hands. We don't want any accidental discharge, do we?
+92type|Wedding|What do you see in me, Commander? Hmm, so can I keep being frugal?<>Then I'll be managing our family budget from now on.
+92type|Introduce|Type 92, reporting in! Which squad am I being assigned to?
+92type|ALLHALLOWS|It's tonight... Preparing candy is too much trouble. I'll just get them from someone... Hmm, her it is.
+92type|DIALOGUEWEDDING|You still haven't gone over budget, Commander. Well done for this month. I'll look the other way about your little coffer.
+357|DIALOGUE1|I'm hungry...
+357|DIALOGUE2|Dessert sounds good, but some meat would be great.
+357|DIALOGUE3|Why do girls have bigger breasts than boys?
+357|Wedding|Huh? Bringing that up so suddenly, Commander... You mean it?<>Yes! Of course I will! Today is my happy day!<>Can I give you a hug?
+357|Introduce|I'll be in your care from now on!
+357|ALLHALLOWS|What should I do, Commander... I just ate FF FNC's snacks by accident and now she's crying... *Sobs* I'm sorry...
+357|DIALOGUEWEDDING|You didn't finish your story last time, Commander. Come to my room some time and tell me the rest!
+Glock17|DIALOGUE1|Your eyes are glinting. Please stay away for now.
+Glock17|DIALOGUE2|Please stop gaping. You look stupid.
+Glock17|DIALOGUE3|Special skill: Observing humans. Target: The Boss! You can't get away this time!
+Glock17|Wedding|You have an odd look on your face, Boss... What? Hold on a second! Why me? Well...I'm just a little bit pleased. Heheh, I'll be by your side, observing you from now on.
+Glock17|Introduce|G17, reporting! Hey...at least smile a little huh?
+Glock17|ALLHALLOWS|Halloween, eh? Let me tell you, Boss...who only wants to dress up, and who actually wants to scare you out of your skin.
+Glock17|DIALOGUEWEDDING|Commander, I've learned a new hypnosis trick. Wanna see? You'll really fall asleep, you know? And it'll get dangerous afterwards...
+FNP9|DIALOGUE1|What's there to do today apart from lessons, Commander?
+FNP9|DIALOGUE2|I have many different uniforms. This one looks pretty cute too.
+FNP9|DIALOGUE3|I know I'm terribly charming, Commander, but please stop staring at me. It's embarrassing.
+FNP9|Wedding|You sure about choosing me, Commander? It's because of my smile, isn't it? I do have an incomparable smile, I know. I'll keep working hard with a smile from now on. Heheh... I'm so happy...
+FNP9|Introduce|It's time for FF FNP9's...gorgeous...debut! Commander...please give me...your support from now on...
+FNP9|ALLHALLOWS|Woohoo! Then I'll be leading this year's trick-or-treating! Huh? Has everyone set off already?!
+FNP9|DIALOGUEWEDDING|Heheh, I'm buoyant as ever today, and people keep thinking better and better of me! It's all thanks to your pointers! I'll keep working hard!
+FMG9|DIALOGUE1|Please check the newest intelligence collected today, Boss.
+FMG9|DIALOGUE2|I wish...people would know me better.
+FMG9|DIALOGUE3|My disguise isn't a form of cosplaying. It's not for show, okay?
+FMG9|Wedding|I'd thought nobody really understood me... From now on, Boss, I'll be your exclusive informant! I'm so happy to have met you.
+FMG9|Introduce|FMG-9 is under your command now, boss. There's no cause for alarm, I'm not in my firing mode at the moment.
+FMG9|ALLHALLOWS|The festivities tonight aren't challenging in the slightest for a master of disguise like me. But I did enjoy myself.
+FMG9|DIALOGUEWEDDING|Boss, they've invited me to a weekend meet-up. What should I wear? ...Get real. This is serious...
+M3|DIALOGUE1|G-Grease Gun?! You can't be talking about me, right?
+M3|DIALOGUE2|My firing velocity isn't good enough? Can't be helped because of the production cost...
+M3|DIALOGUE3|Still...no paycheck, Commander? Things are gonna get tough this month...
+M3|Wedding|What is it, Commander? Is this another prank?<>Huh? What's...this? C-Can I really have this?<>Really...? I'm...so glad...
+M3|Introduce|He-hello, I'm...M3...p-pleased to make your acquaintance.
+M3|ALLHALLOWS|W-Will the monster with a pumpkin head actually appear?! Don't scare me, Commander!
+M3|DIALOGUEWEDDING|Sorry, am I disturbing you? Guess I'll stay away...or not. We made a vow, so I will never ever leave you.
+m45|DIALOGUE1|Ah, Commander, some dessert?
+m45|DIALOGUE2|Smells nice, doesn't it? It's almost ready.
+m45|DIALOGUE3|Come on, Commander! I told you to wait!
+m45|Wedding|Co-Commander! This is...for me?<>I never dreamed that...this day would come... No! I will never let anyone take victory or you away from me!
+m45|Introduce|Commander, thank you for taking me in. I'll do my best to bake you tasty bread!
+m45|ALLHALLOWS|When it comes to Halloween, I'm very good at making snacks. Huh? Cosplay? I'll pass, ahahaha...
+m45|DIALOGUEWEDDING|Any ideas for the next tea party, Commander? You will get your share, of course... (Whispers) As always, it'll be my secret recipe.
+IDW|DIALOGUE1|You like cats, Commeownder? So you like me?
+IDW|DIALOGUE2|Huh? My age? I was born the day I met you, Commeownder!
+IDW|DIALOGUE3|Up a bit! Yes, yes, right there! Thanks Commeownder!
+IDW|Wedding|What? Really?<>All I wanted...was a home. I never thought about having you all to meowself!<>But if that's what you want, Commeownder... I'm helping meowself!
+IDW|Introduce|IDW meow! Could you please take me in and adopt me, Commeownder? Eh, you will!? I'm so happy!
+IDW|ALLHALLOWS|Ugh... It's pretty chilly tonight... I-I'm not very good with this because there are too meowny creepy stories where I'm from!
+IDW|DIALOGUEWEDDING|How's the weather outside, Commeownder? Let's go sunbathing! It's this time of the day that I always look forward to!
+64type|DIALOGUE1|Go outside? I'd rather stay here.
+64type|DIALOGUE2|Since you're in, Commander, shall I brew more tea?
+64type|DIALOGUE3|Please refrain from making too much noise, Commander. Silence is golden.
+64type|Wedding|Me...? Is this really a good idea, Commander?<>There are better choices... No, I'm happy!<>I'll brew tea for you for the rest of our lives.
+64type|Introduce|Type64 reporting. Commander, I'm honored to be able to learn from you.
+64type|ALLHALLOWS|Oh, who's outside the door? It's Halloween...? The candy isn't ready yet... Will green tea ice cream do?
+64type|DIALOGUEWEDDING|How's the tea, Commander? And I recommend this book - it goes very well with this tea. This is my secret way of relaxing.
+98K|DIALOGUE1|You can come visit me in my room every now and then if you want, heheh...
+98K|DIALOGUE2|Don't do such outrageous things, Commander. You'll upset the other girls...
+98K|DIALOGUE3|I'm studying battle tactics right now. Have you been taking care of your duties, too, Commander?
+98K|Wedding|Oh? Are you ready to serve me forever and ever?<>Then give me your hand. This contract shall be branded on my body for all eternity...<>Now I'll be in your care, heheh.
+98K|Introduce|I, Mauser Kar98k, will do my best for your sake. Please allow me to sweep aside the obstacles in your path.
+98K|ALLHALLOWS|Halloween, eh? Heh, trick or treat, Commander!
+98K|DIALOGUEWEDDING|Don't work all the time. Spend some time chatting with me...about whatever. Perhaps your whereabouts in the last few days, heheh...
+M1|DIALOGUE1|Aren't you greedy, Commander? Heheh...
+M1|DIALOGUE2|Thank you for taking such good care of me, Commander.
+M1|DIALOGUE3|Seriously... Your work isn't finished for today. Don't play with the other girls yet.
+M1|Wedding|I'm simply too tired today, Commander. I'd really put in all I've got, but somehow I just wasn't very efficient... I'm so sorry!<>Hmm? What did you say... Me? ...Why?
+M1|Introduce|M1 Garand. I will fight under your command from now on, Commander.
+M1|ALLHALLOWS|I'm not a child anymore, but I guess I'll still keep the candy.
+M1|DIALOGUEWEDDING|Tell me if you need anything, Commander. I'm always ready. You can't do without me by your side.
+M14|DIALOGUE1|You...touched me just now, didn't you? You totally did!
+M14|DIALOGUE2|Victory. This word just has a nice ring to it, right?♪
+M14|DIALOGUE3|C'mon! Be prepared, and victory shall be ours!
+M14|Wedding|This day is finally here, Commander.<>I've always been wondering when you'd notice me...<>This is the happiest of my entire life!
+M14|Introduce|Commander, I will not let you down!
+M14|ALLHALLOWS|It's a Trick for you~ Heheh! ...You'd have been fine if you had given me candy.
+M14|DIALOGUEWEDDING|Commander, Commander! Wanna hear a joke? It's a bit embarrassing, but...you're used to it, right? Heheh...
+M14|CHRISTMAS|Merry Christmas! Santa Claus is coming, right? RIGHT?
+M21|DIALOGUE1|What is it, Commander? Want me...to tell a joke?
+M21|DIALOGUE2|I, for one...like things lively.
+M21|DIALOGUE3|What a killjoy. Not even an eyebrow raised...? But I suppose that's what makes you a Commander.
+M21|Wedding|Now, of all times...I can't come up with any puns. Funny isn't it?<>In the end, one can't picture the future if they keep clinging to the past, right?<>But thank you very much, Commander.
+M21|Introduce|Hello! It's M21! Just because I'm a sniper rifle, doesn't mean I have to have a gloomy personality, right?!
+M21|ALLHALLOWS|Halloween? It's...not really my forte. After all, pranks are quite different from my usual jokes, right?
+M21|DIALOGUEWEDDING|So...that's the end. What do you think of this story, Commander? Will they like it? I only trust your taste.
+M21|CHRISTMAS|Merry Christmas, Commander! I was invited to the Santa Claus hunt, but I've decided to stay cozy here at home after all!
+88type|HELLO|Ah, Master, welcome back!
+88type|SKILL2|I can't just give you my number!
+88type|SKILL3|What a boorish customer. You'd better make yourself scarce!
+88type|DIALOGUE1|Will it be hot these few days? But it's not a big deal for me.
+88type|DIALOGUE2|Don't miss the news about this year's ComiAi. Here's a poster, please treasure it.
+88type|DIALOGUE3|Non~ Non~ Like I've said, this isn't cosplay! Being a maid is also a proper job!
+88type|Wedding|So what would you like this time, Master?<>Huhhh? Me...? A-Alright. But make sure you take good care of me...<>Umm... So this time, I'm yours.
+88type|Introduce|Welcome to the CA club! Hanyang Type 88, it's a pleasure to be of service to you, master.
+88type|ALLHALLOWS|It's Halloween! Be sure to visit the shop, Master. There will be more cosplay events for the guests.
+88type|DIALOGUEWEDDING|What would you like today, Master? A bath? Some dinner? Or perhaps...Yours Truly?
+G43|DIALOGUE1|Are the tactical preparations ready?
+G43|DIALOGUE2|Ah, it's nothing... Heheh...
+G43|DIALOGUE3|Commander, it's not like you can't touch me, but don't pull any sneak attacks!
+G43|Wedding|Will you still choose me no matter how I look, Commander? ...Danke schön. Then let me stay by your side from now on. I shall enjoy the music of your voice and keep growing.
+G43|Introduce|Guten tag! I am G43, please allow me to display my elegance in battle from this day forward.
+G43|ALLHALLOWS|Süßes oder Saure! It's all good as long as the kids have fun!
+G43|DIALOGUEWEDDING|Busy recently? Let me know if you're feeling tired, Commander. If you go down, who's gonna have my back?
+FN49|DIALOGUE1|Don't touch me in funny places.
+FN49|DIALOGUE2|P-Please don't tease me.
+FN49|DIALOGUE3|Hey! Even I'll get mad...
+FN49|Wedding|Eh?! What's this that you have given me! Can I really? However, since I'm the one Commander has chosen, I won't let it go to any other! Please allow me to stay by your side, ever growing stronger!
+FN49|Introduce|P-p-p-p-pleased to to meet you...
+FN49|ALLHALLOWS|Y-You're giving my candy? Thank you...
+FN49|DIALOGUEWEDDING|Commander, how did I do today? I know there's not much that I can do for now, but I'll keep working hard until you're satisfied!
+BM59|DIALOGUE1|How do I look today, Commander? Pretty as ever?
+BM59|DIALOGUE2|I want to look...even more radiant...
+BM59|DIALOGUE3|Yeah, I know. Inner beauty matters too.
+BM59|Wedding|I've always wanted to remain true to myself, and for you to notice me. My wish has finally come true.<>Please keep being my Commander from here on out, okay?
+BM59|Introduce|VM59, reporting in. Having been through numerous upgrades, Commander, I will definitely not let you down.
+BM59|ALLHALLOWS|Only in an evening like this can I think about nothing and just doll myself up. Care to pick a dress for me, Commander?
+BM59|DIALOGUEWEDDING|You like my accessories today, Commander? Training goes without saying, but I can't slack off in grooming either...since what I do reflect on you.
+G41|DIALOGUE1|Is there anything you'd like to do, Master?
+G41|DIALOGUE2|Master, I want to hear more of your stories!
+G41|DIALOGUE3|Could you pat me on the head? That makes me happy!
+G41|Wedding|I was worried that you might hate me...<>But that concern was unncessary.<>I, Gr G41, will be forever by your side, Master!
+G41|Introduce|Gr G41. Master, please take me home!
+G41|ALLHALLOWS|Trick or Treat! Tee-hee, I won't actually trick you since you're busy. But I'll still take the treat.
+G41|DIALOGUEWEDDING|Master, many interesting things happened today! Listen in, and give me treats if you like the story!
+HK416|DIALOGUE1|Commander, I am all you need.
+HK416|DIALOGUE2|HKM4? I have no need for such a name anymore!
+HK416|DIALOGUE3|Be careful with the inspection. Don't let any problem pass, no matter how trivial.
+HK416|Wedding|Be it you or achievements in combat, everything is mine.<>You don't have to raise a finger, Commander. I'll settle everything for you.
+HK416|Introduce|416...Please remember this name, Commander.
+HK416|ALLHALLOWS|Ghosts? I wouldn't codename an operation 'Ghost' if I were afraid of such things, would I?
+HK416|DIALOGUEWEDDING|How have you been doing these days, Commander? If you're feeling down, I'll make you smile by any means necessary... You got a better idea? Let's hear it.
+HK416|BREAK|Just...what am I missing?! I should’ve done everything perfectly! 
+HK416|FIX|Ugh... I really hope...they’ll never see me like this...
+HK416|RETREAT|I hate this... I should be fit to fight in any terrain.
+HK416|HELLO|Good morning, Commander. Today I won't lose to anyone either.
+HK416|GAIN|Are you the commander? 416...Please remember this name. This name that is one of a kind.
+FNFAL|DIALOGUE1|Did you forget anything? ...Just don't forget about me.
+FNFAL|DIALOGUE2|The tea today is not bad. Then, what about today's chocolate?
+FNFAL|DIALOGUE3|Gosh, Commander! Someone like you should be more serious!
+FNFAL|Wedding|Today is a big day, but no need to be so nervous.<>Relax. Just do what you have to do, now and always. <>That's what it is to be the Commander, right? There's no way I can be wrong about this.
+FNFAL|Introduce|Well then, you're the Commander, huh? Well, make sure you don't let me down.
+FNFAL|DIALOGUEWEDDING|Your clothes are all mussed again. You're not alone anymore, so please be more aware of your own responsibilities. Here, let me fix you up.
+FNFAL|CHRISTMAS|Happy Christmas, Commander... Please end the ball soon. It feels a bit chilly...wearing this gown all night...
+FNFAL|VALENTINE|Tonight, we shall have flowers, sports cars and a noble feast. I will make FF FN49 green with envy.
+M16A1|DIALOGUE1|What's my thing? Jack Daniels, for sure.
+M16A1|DIALOGUE2|I don't mind you messing with me, Commander, but don't touch my sister.
+M16A1|DIALOGUE3|One eye is more than enough. I'm a crack shot, after all.
+M16A1|Wedding|Oh? So you finally notice my merits, Commander?<>But...uh...you're getting too close. This needs some getting used to.<>In any case, should I tell M4 about this?
+M16A1|Introduce|Yo. It's me, M16A1. Leave the mission to me.
+M16A1|ALLHALLOWS|Oh, so that's what Halloween started off as. Bit of a shame that it isn't a festival for drinking.
+M16A1|DIALOGUEWEDDING|Let's have a drink after working, Commander. But, don't tell M4 this time, or it's me who gets the tongue lashing.
+M4A1|DIALOGUE1|Yes, Commander...
+M4A1|DIALOGUE2|That...tickles a bit...
+M4A1|DIALOGUE3|...
+M4A1|Wedding|Commander... It is an honor to fight for your sake.<>Umm...do you understand what I am getting at? Please allow me to stay by your side from now on...
+M4A1|Introduce|Commander, I'll be...in your care.
+M4A1|ALLHALLOWS|M1 Garand is surrounded by quite a crowd tonight. I wonder what is going on... I had better go have a look.
+M4A1|DIALOGUEWEDDING|Here is the operation plan for today, Commander. As always, I have complete faith in your judgment. Let us lead everyone to victory.
+M4 SOPMOD II|DIALOGUE1|Commander, what are we gonna play this time?
+M4 SOPMOD II|DIALOGUE2|What is it? Let me take a look too!
+M4 SOPMOD II|DIALOGUE3|You can do anything you like, but if you touch me in weird places, I might just flip a switch or something...
+M4 SOPMOD II|Wedding|Heheheh... I've been waiting for a long time. Now that you've finally said it, you're a comrade-in-arms for real! So...give me a hug?
+M4 SOPMOD II|Introduce|M4 SOPMOD II. I've finally found you, Commander!
+M4 SOPMOD II|ALLHALLOWS|Treat or Trick, Commander! I'm dressing as Leatherface tonight! Honey, if you don't give me candies, then...heheheh...
+M4 SOPMOD II|DIALOGUEWEDDING|Commander, what do you think of my new masterpiece? It was hard work collecting and assembling the parts, we had lots of fun! Tee-hee...
+AR15|DIALOGUE1|I wonder when it will be my turn...
+AR15|DIALOGUE2|What you are looking at, Commander? N-Not the trademark, right?
+AR15|DIALOGUE3|If you think you can do this to me just because I'm a commercial model... Please stop it before I get angry for real.
+AR15|Wedding|Commander, is this a dream?<>Please let me stay by your side... I don't want to wake up.
+AR15|Introduce|ST AR-15. Please allow me to formally join this honorable squad and watch me as I bring you victory.
+AR15|ALLHALLOWS|Hmm... If I may, I'd like to give out candies. Would you like the hard or chewy ones, Commander?
+AR15|DIALOGUEWEDDING|How was my performance today, Commander? We're another step closer to reaching our own goals, and some day, we'll get there.
+ASVAL|DIALOGUE1|Huh? Me?
+ASVAL|DIALOGUE2|Please leave me alone.
+ASVAL|DIALOGUE3|This little one is fast asleep. Please keep your voice down.
+ASVAL|Wedding|Huh? You...me...? My bear... Uh, no... Nothing!<>In any case, thank you so much for your acknowledgement! I'll try my best to live up to your expectations, Commander!
+ASVAL|Introduce|Hello, I...eh? Nevermind...
+ASVAL|ALLHALLOWS|Halloween...isn't really my thing...
+ASVAL|DIALOGUEWEDDING|May I bring my friend with us the next time we have a holiday, Commander? We all had fun last time, don't you think?
+G36|DIALOGUE1|Feel free to let me know if there is any problem.
+G36|DIALOGUE2|How about a second helping, Master? There are freshly fried sausages.
+G36|DIALOGUE3|It is my duty to answer my master's needs.
+G36|Wedding|I have only been able to give my all because you need me, Master.<>From now on, please let me stay by your side as your bespoke maid.
+G36|Introduce|Guten tag. I will exclusively serve as your maid from now on, master.
+G36|ALLHALLOWS|Commander, you shouldn't be spoiling everyone so much. You've given out too much candies tonight. They might not be able to go into battle if they get cavities.
+G36|DIALOGUEWEDDING|It's going to be another busy day today, yet you're the only one that knows how hardworking I am... So, is there anything you'd like me to get for you? I'll continue to keep this a secret from everyone.
+56-1type|DIALOGUE1|Just give me meat-filled rice dumplings for my field rations. They're fantastic even if they're cold!
+56-1type|DIALOGUE2|Give candy to FF FNC and she'll stick to you; she's such a nice kid. I've been having snacks with her lately.
+56-1type|DIALOGUE3|I'm not just a glutton, I take training seriously too. Besides, snacks taste even better after training, hehe.
+56-1type|Wedding|Commander, what are your instructions?<>Huh? You're serious? Did you fall in love with my culinary skills?<>Anyways, it's too late to regret it now, ahaha! I'm not going to let you go!
+56-1type|Introduce|Nihao Commander, I'm the Type56-1 assault rifle. I will annihilate all the enemies in your way!
+56-1type|ALLHALLOWS|What do you celebrate on Halloween? I don't really get it.
+56-1type|NEWYEAR|Happy new year~ Commander!
+56-1type|DIALOGUEWEDDING|Commander, as the saying goes, "you can't fight on an empty stomach". Come, I grabbed us an extra lunch box. Let's eat it during our break.
+FAMAS|DIALOGUE1|Commander, do you have any orders?
+FAMAS|DIALOGUE2|Stop it Commander. I'm working right now.
+FAMAS|DIALOGUE3|Commander, don't touch me in strange places...
+FAMAS|Wedding|This one is finished... That one is also finished... The next one is...<>Eeeh?! Springing this on me, is it really for me Commander?<>This task is going to take a lifetime to complete. Are you sure about this?
+FAMAS|Introduce|Commander, should you choose to have me reinforce the frontline, I will show you my worth is that of a hundred soldiers.
+FAMAS|ALLHALLOWS|I don't care much for Halloween...but having candy to eat is not too bad!
+FAMAS|DIALOGUEWEDDING|Your desk is all messy again even though I've told you many times to clean up after yourself... Forget it, I'll always take care of it if it's for you, Commander.
+AK47|DIALOGUE1|What are you doing all of a sudden?!
+AK47|DIALOGUE2|Eek! Don't touch me in strange places!
+AK47|DIALOGUE3|Haha, you want to touch me that badly huh?
+AK47|Wedding|Oh? Boss, you're not picking someone else for this kind of thing?<>Well, I suppose we're similar in some ways.<>How about it then, you and me?
+AK47|Introduce|Hahaha, my turn at last, huh? I'll be sure to show you what I can do on the world stage!
+AK47|ALLHALLOWS|Haha~ there's even a holiday for scaring anybody you want. What costume should I wear? Huh? A bear? That's going too far...
+AK47|DIALOGUEWEDDING|Ah...yes, I drank a little bit. But it's okay since you're here, because you can carry me back later!
+FNFNC|DIALOGUE1|Commander, hurry up and give me some desserts! Gimme! Gimme! Gimme~!
+FNFNC|DIALOGUE2|I heard Japanese desserts are very tasty. Things like daifuku and raw yatsuhashi...I want to try them!
+FNFNC|DIALOGUE3|Will I get fat if I keep eating? ...I'll be alright. Eating is a part of my nature afterall!
+FNFNC|Wedding|You're inviting me out to a feast again? Don't mind if I do!<>Eh? Before that, I have to do what...?<>What?! You're too sly, Commander! How can I refuse if we're discussing this sort of thing over a meal!
+FNFNC|Introduce|Pleased to meet you, Commander. Want some chocolate?
+FNFNC|ALLHALLOWS|Trick or treat! Trick or treat! Trick or treat!
+FNFNC|DIALOGUEWEDDING|Commander, let me help too! The faster we finish up work, the faster we can have cake! Remember to save me the strawberries!
+CZ805|DIALOGUE1|What's the matter, Commander? I'm right here.
+CZ805|DIALOGUE2|Experience? It's not necessary for someone with so many strengths.
+CZ805|DIALOGUE3|You can tell I'm really strong just from how I look, right? Then I'll let you look for a little longer. Hehe♪
+CZ805|Wedding|You chose me out of all the amazing weapons here... Okay! I'll be doing my best from now on!
+CZ805|Introduce|Yoohoo! The brand new and outstanding CZ-805A1 is at your service from now on! Look forward to my performance!
+CZ805|ALLHALLOWS|It's really lively tonight. I guess kids will be kids. ...Huh? That cloaked fellow over there hanging from a tree, I think I've seen him before.
+CZ805|DIALOGUEWEDDING|Yes, that's it, use this chance now before we attack to admire me! Don't forget to record my heroicness in battle this time.
+G3|DIALOGUE1|I guess you can say I have no self-confidence... Anyways, I don't know how to explain it...
+G3|DIALOGUE2|Ah, no, it's nothing...
+G3|DIALOGUE3|Eek! Please don't suddenly touch me like that!
+G3|Wedding|Commander, will you accept me regardless of how I look?<>Is that so...? Then please let me stay by your side and grow from your guidance.
+G3|Introduce|How are you, Commander? Please call me Gr G3 from now on.
+G3|ALLHALLOWS|Trick or treat, which do you prefer, Commander?
+G3|DIALOGUEWEDDING|Commander, is there anything else that I can do for you? I can't repay your trust and kindness with how little I'm doing for you...
+L85A1|DIALOGUE1|I just took a bath with my glasses on...
+L85A1|DIALOGUE2|You need to turn the safety off before you fire.
+L85A1|DIALOGUE3|It would be fantastic if tomorrow is a sunny day as well.
+L85A1|Wedding|Huh? Is this a prank, Commander?<>I'm clearly nowhere near the mark yet you've picked me... How do I repay you?<>Well, let's find the answer together!
+L85A1|Introduce|Hello, I am L85A1. Care for a cup of tea, Commander?
+L85A1|ALLHALLOWS|The children are playing~ It's great they're having so much fun!
+L85A1|DIALOGUEWEDDING|Commander, I made you red tea with my secret recipe. Be sure to savor it!
+AR|DIALOGUE1|Hey, where do you think you're touching!?
+AR|DIALOGUE2|My weight? Heheh, what are you talking about.
+AR|DIALOGUE3|Ahahaha, that's super funny!
+AR|Wedding|Why...did you pick me?<>Isn't someone klutzy like me the complete opposite of you, Commander?<>But if you're willing to accept me, then I will make sure you won't regret it!
+AR|Introduce|Heya! I'll be counting on you from now on, my Commander.
+AR|ALLHALLOWS|I love candy! ...But if I eat too much, I'll get fat. You're messing with me, right?! Com~man~der!~
+AR|DIALOGUEWEDDING|Commander, don't eat while we're working! You know I'm on a diet... Darn it, give me a little bit too!
+F2000|DIALOGUE1|Do you need advice on anything, Commander?
+F2000|DIALOGUE2|Are you hungry, Commander? I have snacks.
+F2000|DIALOGUE3|UUUhhhiiii!! You better keep my secret to yourself, Commander. Otherwise...you know what's going to happen to you right?
+F2000|Wedding|Commander, I'm truly happy today.<>You knew all along right? That I was putting on an act?<>I'll share with you my true feelings from now on. Thank you for accepting me.
+F2000|Introduce|Fresh out of the factory, FF F2000, reporting! Ufufu, Commander, don't be shy and let's get along from now on!
+F2000|ALLHALLOWS|Halloween huh? I don't hate horror movies, but you have to watch them with me, Commander.
+F2000|DIALOGUEWEDDING|This? This is the popcorn for tonight, of course. Didn't you say you wanted to watch a movie together? I'm very excited for tonight.
+M60|DIALOGUE1|The power of a weapon relies not on its performance, but rather, its user!
+M60|DIALOGUE2|What's the matter? Spit it out.
+M60|DIALOGUE3|We will never lose if we train every day!
+M60|Wedding|This... Is this for real, Commander?<>This sort of thing...I've never trained for this before...is it okay?<>I suppose it's okay to occasionally experience some new things.
+M60|Introduce|M60 reporting! Your orders, sir!
+M60|ALLHALLOWS|It's Halloween! I-I hope you don't hate candy...
+M60|DIALOGUEWEDDING|Don't think you can slack off just because we're close now, and don't think I didn't see you slacking off earlier. Don't tell me you've forgotten already.
+M2HB|DIALOGUE1|Ahhh~ I'm so tired. Hey, can you massage my shoulders?
+M2HB|DIALOGUE2|Where are you looking at?
+M2HB|DIALOGUE3|Ahhh~ so annoying.
+M2HB|Wedding|Commander, where are we going?<>Eh? R-really? Haha, then does that mean I get to ride in your car everyday, Commander?
+M2HB|Introduce|Hey there~ Commander, are you ready to rain a hail of lead onto the enemy? I know I am~
+M2HB|ALLHALLOWS|Ugh this is seriously annoying. Hurry up and bring out the candy!
+M2HB|DIALOGUEWEDDING|I don't want to do anything today...but I guess I have to since I'm everybody's role model, haha...
+BrenMK|DIALOGUE1|Is there a problem? Make it short.
+BrenMK|DIALOGUE2|Come on. How about you quit spacing out and go do some training?
+BrenMK|DIALOGUE3|W-what are you trying to do?!
+BrenMK|Wedding|Commander, you've chosen me, which means...my dedication has finally been answered.<>I'm very sorry for all the inconveniences I've caused you, but please, let me continue to improve myself for you!
+BrenMK|Introduce|Bren light machine gun. I can handle whatever mission you throw at me.
+BrenMK|ALLHALLOWS|Pumpkins are edible. Don't you think it's a waste to wear them on your head?
+BrenMK|DIALOGUEWEDDING|Am I pressing too hard? Sorry, I've rarely given massages before... I'm satisfied as long as you're comfortable.
+LWMMG|DIALOGUE1|Commander, do we have enough ammo reserves?
+LWMMG|DIALOGUE2|Don't worry, I can do it myself. Ah...thank you...
+LWMMG|DIALOGUE3|Huh? Does anybody need help? I'm free.
+LWMMG|Wedding|Is this...prepared for me? Isn't this a bit too extravagant?<>...But I'll let you have your way this time.<>I've occasionally fantasized about this scenario before, but I've never thought it would become a reality...<>I'm grateful from the bottom of my heart, Commander...
+LWMMG|Introduce|Pleased to meet you, Commander. There is...no need to introduce me to the others, I'm fine working alone after all...
+LWMMG|ALLHALLOWS|I didn't expect Halloween to be this busy. Everyone! You better not throw out the packaging for the candies! You can reuse them for many other purposes!
+LWMMG|DIALOGUEWEDDING|Commander, I booked us dinner at a good restuarant this weekend. You've worked hard this week, so I'll splurge a little on you.
+DP28|DIALOGUE1|Perfume? Huhu, it's actually just my natural scent...
+DP28|DIALOGUE2|Do you like older women?
+DP28|DIALOGUE3|Hm? What's wrong, young man~?
+DP28|Wedding|Oh my~, Commander, so this day has finally come.<>It's too late if you want to back out now...<>But I'll make sure you won't regret it, fufu♪. Just watch, I'll show you exactly what I mean~
+DP28|Introduce|A pleasure to meet you, young man. Feel free to let me know...if you're ever troubled.
+DP28|ALLHALLOWS|It sure is festive tonight. How does the candy taste, Commander?
+DP28|DIALOGUEWEDDING|Want to come over and have some fun at my place this weekend? You're not too busy right? It's not like this is the first time...fufu♪
+FG42|DIALOGUE1|Rest assured, Commander, everyone is practicing diligently.
+FG42|DIALOGUE2|Don't slack off, the battle may start at any time.
+FG42|DIALOGUE3|Commander, please work in accordance with the rules and regulations! ...Uh, is this one...allowed?
+FG42|Wedding|Since I was chosen by you, that means the path that I chose was the correct one.<>I once had various worries, but now that you are by my side, I will no longer be lost.<>Thank you, Commander!
+FG42|Introduce|FG42, reporting for duty. It is my humble wish to hone myself further under the Commander.
+FG42|ALLHALLOWS|Even if this is a festival for fun, please avoid wearing overly exposed clothing! Although...some people's usual clothings are pretty exposed already...
+FG42|DIALOGUEWEDDING|Commander, how did today's snacks taste? ...It was better, wasn't it! I didn't strictly follow the recipe this time, but I seem to have gotten an unexpectedly good result!
+AAT52|DIALOGUE1|Wanna play together, Commander?
+AAT52|DIALOGUE2|Learning new tactics? Anytime is fine with me.
+AAT52|DIALOGUE3|Stop shaking it, Commander. I'm going to fall if you keep shaking it!
+AAT52|Wedding|Commander, have I finally become someone special to you?<>All this time, I've been learning through falling down and getting up, again and again... Perhaps...it was all for this day.<>Commander, I love you!
+AAT52|Introduce|Bonjour, Commander! AAT-52, reporting for duty!
+AAT52|ALLHALLOWS|For the sake of eating more candies tonight, no matter what demons or monsters lie ahead, I will defeat them all!
+AAT52|DIALOGUEWEDDING|Commander, I'm going to practice on the balance beam! Just like before, I'll leave breaking my fall to you, hehe.
+M950A|DIALOGUE1|What is it? I have no interest in meaningless chitchat.
+M950A|DIALOGUE2|I'm still busy, so I can only spare you a minute...only one minute, okay?
+M950A|DIALOGUE3|Go bother someone else if you don't have work to do. But, don't leave me for too long...
+M950A|Wedding|Heh, in the end you still needed me.<>I don't even remember when was it that you became interested in me, but it doesn't matter now...<>Let's become closer. You're...mine now...
+M950A|Introduce|M950A reporting. I'll be taking your orders from now on, Commander.
+M950A|ALLHALLOWS|Geez, it can't possibly get noisier than this, can it? Ahh, it seems like someone is at the door again.
+M950A|DIALOGUEWEDDING|Don't even think about procrastinating, Commander. My eyes will not leave you for even a single moment. ...Wh-what is it? Did I say something odd?
+M1873|DIALOGUE1|You want to know my age? ...Let's not talk about my age, Commander.
+M1873|DIALOGUE2|Hey, isn't my skin smooth? It's all thanks to cola!
+M1873|DIALOGUE3|Huuh? I'm drunk on cola? ...It's your imagination, you're just imagining things!
+M1873|Wedding|Eh? The cola bottle looks a little different today. What are we celebrating today?<>Huh? Commander and I? ...Really?<>Then, prepare yourself! We'll be drinking cola together forever from now on!
+M1873|Introduce|You called for me Commander? Do you have cola? Hey~ you have cola right?
+M1873|ALLHALLOWS|Hand over the candy! Otherwise I'll trick you!
+M1873|DIALOGUEWEDDING|Commander, take this! Cola ray! Are you sober now? Clean up and continue working hard, I'll stay beside you!
+M1873|CHRISTMAS|Merry Christmas! Our Christmas tree is so beautiful!
+SPP1|DIALOGUE1|Oh? Commander, are you starting work?
+SPP1|DIALOGUE2|Please come and watch my diving training when you get a chance next time.
+SPP1|DIALOGUE3|Stop it, Commander! Don't make jokes when I'm practicing my breath-holding! Seriously!
+SPP1|Wedding|Commander, give me a second, I just got out of the water...<>Eh? What?! Wait! Why are you suddenly bringing this up?<>Seriously, I'm still wet all over, if you hug me now...<>Well, if you don't mind, then okay...
+SPP1|Introduce|SPP-1 Underwater Pistol, reporting! I can work on land, but I'll show you what I can really do when we're underwater!
+SPP1|ALLHALLOWS|Commander, what are you preparing? Even if it is Halloween tonight, you're not allowed to go and scare children as you wish.
+SPP1|DIALOGUEWEDDING|Commander, how's your breath-holding training going? We're tackling deeper waters next time. If you're lacking in training, I can train you myself.
+Mk23|DIALOGUE1|Are you calling for me, Darling?
+Mk23|DIALOGUE2|What do you wanna do? I'll accompany you.
+Mk23|DIALOGUE3|If you're not going to behave yourself even during working hours, then I'm gonna fight back! Take this!
+Mk23|Wedding|I was worried that you would get annoyed if I kept pestering you, but I couldn't help myself.<>Perhaps...it was decided since the very beginning...<>But it doesn't matter now. You've given me a new purpose, so let me call you one more time, Darling...
+Mk23|Introduce|Hello~ Commander. We'll be together from now on!
+Mk23|ALLHALLOWS|There will be many brats dressing up nicely tonight, but you...must keep your eyes on me.
+Mk23|DIALOGUEWEDDING|Darling, what would you like to have for tomorrow's breakfast? I've already prepared a snack for tonight, hehe. Choose wisely~
+P7|DIALOGUE1|No matter how much I prank you, you never get angry. You're really the best, Commander!
+P7|DIALOGUE2|Commander, who do you want to see get pranked next? It'll be my pleasure.
+P7|DIALOGUE3|Stop wasting time, Commander, come and help me think up a plan. ...A plan for what? For pranking people of course!
+P7|Wedding|Ahah, you still fell into the palm of my hand in the end.<>Relax, Commander, I'm being serious about this as well. After all, we've known each other for so many years...<>It hasn't been that long? Don't worry, it will be in the future, hehe...
+P7|Introduce|The long-awaited P7 is finally reporting for duty! Everyone, let's all be friends!
+P7|ALLHALLOWS|Trick or treat! Hehe, I've received so many candies tonight. Do you know why? It's obviously because I'm adorable!
+P7|DIALOGUEWEDDING|Commander, the trap at the door is all set, please enjoy! ...But before that, let's make one thing clear. You're mine! Don't even think about being a hero and rescuing the damsel in distress!
+P7|VALENTINE|You received that many chocolates? Hmm...I gave you some as well. Did you notice?
+TT33|DIALOGUE1|Commander, can I speak to you for a second? If you are a so-called gentleman then you can't go around touching people like that.
+TT33|DIALOGUE2|Commander, you're such a lecher...
+TT33|DIALOGUE3|Commander, focus on your WORK!
+TT33|Wedding|Huh, Commander, what are you doing here?<>I can handle it here by myself...<>Huh? Pardon? “Business" between two people? I don't really get what you mean, but you'll show me right?
+TT33|Introduce|Ah, Commander? I'm pleased to meet you.
+TT33|ALLHALLOWS|It's not like I'm afraid of ghosts and monsters or anything...but it's okay if I stay with you, right, Commander?
+TT33|DIALOGUEWEDDING|I'm not leaving until you go to bed. I'm going to make sure that I take good care of you, because after all, we made vows to each other.
+TT33|VALENTINE|Commander, today is... Please take this! It's nothing fancy but...I hope you'll accept it. Haaah, thank goodness! I'm so happy!
+PM|DIALOGUE1|Hm? What's the matter?
+PM|DIALOGUE2|Hi, how's it going?
+PM|DIALOGUE3|Hey, lets go out and play together.
+PM|Wedding|Commander, being able to get your approval and stand by your side means everything to me.<>I will never forget this moment. Please let it last forever...
+PM|Introduce|Rather than the Commander giving orders, working together is the better plan. Under me that is~
+PM|ALLHALLOWS|Where's everyone hiding?~ Get ready to be pranked~
+PM|DIALOGUEWEDDING|Everyone's in great shape today. These outstanding results…it's all because of our close partnership, isn't it?
+P08|DIALOGUE1|How will we proceed with today's tactics exercise?
+P08|DIALOGUE2|Efficiency is the number one priority. What do you think, Commander?
+P08|DIALOGUE3|Commander, you still haven't finished the reports from yesterday yet? What is the meaning of this?
+P08|Wedding|Commander, from when did you start noticing me?<>Will you seek more glory together with me?<>Yes, I will become your strength and forever fight for you!
+P08|Introduce|P08 pistol. I may not be the best at everything, but I look forward to working under you!
+P08|ALLHALLOWS|Today is Halloween isn't it, Commander? I'm not a child anymore, so I don't want any candies.
+P08|DIALOGUEWEDDING|Commander, I will believe in you as usual for today's battle. Please grant me your blessings, so that I may bring you more glory.
+M1911|DIALOGUE1|Are you bored?
+M1911|DIALOGUE2|It's embarrassing to be looked at by everyone like this...
+M1911|DIALOGUE3|I-I don't mind...if it's Darling...
+M1911|Wedding|Commander, my feelings...have they finally been answered?<>Heheh♪ Your decision was so sudden, I don't know how to respond...<>From today onward, I'm going to love you so much that you won't know what to do!
+M1911|Introduce|What a fateful encounter! Never in my imagination would I have expected to meet you here, Commander.
+M1911|ALLHALLOWS|Trick or treat! Let's play together~
+M1911|DIALOGUEWEDDING|Darling, do you still need anything? We're this close already, you don't need to be shy about it.
+M1895|DIALOGUE1|Does my height bother you that much? Stop asking me this kind of question.
+M1895|DIALOGUE2|Don't pat my head! How dare you treat me like a child!
+M1895|DIALOGUE3|Will I really grow taller if I drink milk...? You'd better not be lying to me!
+M1895|Wedding|Oh? Commander, I didn't expect you to have such tastes...I wonder if this is really ok?~<>Anyways, I have no objections... Well...good, let's...examine this relationship together.
+M1895|Introduce|You're quite the odd one for having tastes in someone as old as I, aren't you?
+M1895|ALLHALLOWS|These girls, they're so childish. Aren't these sweets meant for children? I don't want to eat them at all!
+M1895|DIALOGUEWEDDING|Commander! Commander! Look at what I found today! Doesn't it look pretty? This is a special gift for you, so keep it safe!
+P38|DIALOGUE1|How can I get more fans?
+P38|DIALOGUE2|Time to sing! LaLaLa~♪
+P38|DIALOGUE3|Please watch me dance!
+P38|Wedding|Eh? It's not like you to tease the center of the team like this, Commander!<>What was that? Really?<>This...this is a little too sudden... Can I really stay by your side?
+P38|Introduce|This is...the fated encounter!
+P38|ALLHALLOWS|Tadaa~ I transformed into a witch today~ Am I cute?
+P38|DIALOGUEWEDDING|I'll dedicate my secret melodies to you tonight! Please look forward to my performance!
+PPK|DIALOGUE1|What, are you thinking of something bad?
+PPK|DIALOGUE2|Who gave you permission to touch me?
+PPK|DIALOGUE3|Endure it until I grant you permission.
+PPK|Wedding|If I refuse in this situation, wouldn't it be more interesting?<>Fine, I'll be more serious this time. Then, you'll have to take responsibiity for anything that happens, understand?
+PPK|Introduce|Hehe♪ Commander, being able to meet you here, I am thoroughly delighted.
+PPK|ALLHALLOWS|Commander~ Give me candies, otherwise...I'll have to punish you~
+PPK|DIALOGUEWEDDING|What is it that you expect from staring at me like that all the time? ...Fine, since you've been obedient today, let me reward you.
+MP446|DIALOGUE1|Commander, want to go out and play with me?
+MP446|DIALOGUE2|Just call me "Viking"!
+MP446|DIALOGUE3|Locked on to Commander...fire! ...Just kidding!
+MP446|Wedding|Commander, why didn't you call everyone over today?<>Ah?! W-w-w-what?!<>U-um, though I'm a bit embarrassed, I'll never let go of your hand again!
+MP446|Introduce|Finally found me, huh? I'm MP-446, but please call me Viking!
+MP446|ALLHALLOWS|Oh! Today is my favorite day, Halloween! Let's get excited together, everyone! ...Eh, no one wants to join me?
+MP446|NEWYEAR|Happy New Year, Commander! There will be more new friends to play with in the new year, right?
+MP446|DIALOGUEWEDDING|Commander, is there anything fun to do lately? I want to write down all of them! Don't worry, what's yours is mine, so I want to hear all of it!
+M1928A1|DIALOGUE1|Boss! Who said you could touch people like that!
+M1928A1|DIALOGUE2|A world without police? That's great, I can do as I like now!
+M1928A1|DIALOGUE3|Just being together with my comrades is enough for me.
+M1928A1|Wedding|Yo, Commander. Calling me to a place like this, are we gonna have a street fight?<>What?! Oh, you?...Well, I mean, it's not like I dislike you...<>Let's fight for our future together.
+M1928A1|Introduce|You're the new boss eh? Chicago Typewriter, I'll be in your care.
+M1928A1|ALLHALLOWS|Boss, since it's Halloween, we should give candies to the children!
+M1928A1|DIALOGUEWEDDING|Boss, need some music during your break? Same as usual, huh... So, the tune from that night?
+Vector|DIALOGUE1|Advice? Will you even listen to it?
+Vector|DIALOGUE2|It's okay... Don't worry about it.
+Vector|DIALOGUE3|My origins, my prototype, these are all meaningless. After all, I'm just a tool that follows orders...
+Vector|Wedding|I'd never expected a result like this.<>Since I've always been difficult with you, I'll take it as my loss this time.<>But, don't think that it's going to end like this.
+Vector|Introduce|Oh? A new Commander? Well...let's all get along.
+Vector|ALLHALLOWS|I love these kinds of things. I wouldn't mind if this sort of atmosphere could continue on forever~
+Vector|DIALOGUEWEDDING|How much longer can you continue with this act? If you can't pretend any longer then say so. I don't want to believe that all of this is real...
+MP5|DIALOGUE1|Commander, what's your favorite color? Mine's black!
+MP5|DIALOGUE2|I'll drink milk every day!
+MP5|DIALOGUE3|I might not be very suitable for combat...
+MP5|Wedding|Ah, Commander? Is this...really for me?!<>For me who is insignificant in everything, can I really stay by your side? ......Yes, I will!
+MP5|Introduce|Gr MP5, reporting for duty! Um...d-don't underestimate me just because I'm a little short!
+MP5|ALLHALLOWS|Commander, today is my favorite day of the entire year! Everyone gives me so much sweets, ehehe~
+MP5|DIALOGUEWEDDING|Let me help you with some of the work, Commander... Heheh, don't treat me like a little kid anymore, ok?
+UMP9|DIALOGUE1|Commander! ...Hehe♪ It's nothing!
+UMP9|DIALOGUE2|45, are you here? Oh, it's the Commander!
+UMP9|DIALOGUE3|What are you doing, Commander! I'm not in that kind of relationship with you yet...
+UMP9|Wedding|This warm feeling...<>Is this the feeling of "love"?<>With this, we can finally become a real family...
+UMP9|Introduce|UMP9 has come home! Everybody, we're family now!
+UMP9|VALENTINE|Commander, haven't you received quite a lot of chocolates today? ...Then it's ok to accept one more, right? Hehe♪
+UMP9|ALLHALLOWS|Trick or treat!
+UMP9|DIALOGUEWEDDING|Commander, are you heading out? As your family, should I be giving you a "goodbye kiss"? You were looking forward to it, right?! I saw in your eyes!
+MAC10|DIALOGUE1|Commander, please watch your step. You nearly stepped on an ant...
+MAC10|DIALOGUE2|Friends? I'm not interested in such a thing...
+MAC10|DIALOGUE3|To be liked by everyone...not once have I ever thought of wanting such a thing. The strong...are lonely.
+MAC10|Wedding|Commander, you would accept even a person like me?<>Alright, I understand, Commander. Let us look for fun things to do together.
+MAC10|Introduce|If it's the Commander's orders...then I, Ingram MAC-10...would be delighted to serve.
+MAC10|ALLHALLOWS|Since it's Halloween, want to have a "test of bravery"? Ahahaha, I'm so excited for it...!
+MAC10|DIALOGUEWEDDING|Commander, when are we going out again? The journey's only fun when you're around, hehe...
+PPS43|DIALOGUE1|What are you looking at?
+PPS43|DIALOGUE2|I'm fine as long as big sis is here.
+PPS43|DIALOGUE3|Late people should all be executed! Any complaints?
+PPS43|Wedding|Commander, is this for big sis 41?<>W-w-what?! For me? Really? ...And here I was wishing to grow up, I'm such an idiot, haha♪
+PPS43|Introduce|Comrade, it is my greatest honor to meet you. I may be a lightweight, but I have my merits.
+PPS43|ALLHALLOWS|I hope I won't be a bother to big sis for this year's Halloween! Time to look for a new target~
+PPS43|DIALOGUEWEDDING|Commander, what are you doing? Let me help! I need to be more proactive from now on since I've been chosen by you.
+VZ61|DIALOGUE1|Commander, if you keep on touching me, I'll shoot you until you look like a beehive.
+VZ61|DIALOGUE2|Don't underestimate me, my entire family has been used by many different organizations.
+VZ61|DIALOGUE3|Skorpion is such a cool name, right?!
+VZ61|Wedding|Commander, to make such a decision, do you really understand me? <7.5>Is that so? Then, I have nothing more to say. The past is the past, and the future...<8.5>let us face it together!<2>
+VZ61|Introduce|I'm VZ61 Skorpion~ Nice to meet you~ Even though I'm a scorpion I'm totally poisonless.
+VZ61|ALLHALLOWS|Commander~ Give me candy~
+VZ61|DIALOGUEWEDDING|Commander, come and look at this! It's my new painting of you! ...Looks like you, doesn't it? See, I can perform meticulous tasks too!
+StenMK2|DIALOGUE1|I'm on a diet right now...I don't feel like eating anything today.
+StenMK2|DIALOGUE2|I also want to become like the Commander!
+StenMK2|DIALOGUE3|Do you have a lover?
+StenMK2|Wedding|Eh? My feelings...are answered?<>For someone like me without any strong points, I thought that this day would never come.<>It's the first time I've felt so happy.
+StenMK2|Introduce|You are the rumored Commander, right? Nice to meet you.
+StenMK2|ALLHALLOWS|I want to have fun like a little kid! Isn't today the perfect day to do so?
+StenMK2|DIALOGUEWEDDING|Commander, don't go to the cafeteria after work today. I've prepared some desserts for you... Hehe, I have to show off my skills once in a while!
+StenMK2|VALENTINE|I won't give you any "honmei choco" this time!~ Happy Valentine's Day, Commander.
+MicroUZI|DIALOGUE1|You're staring again...I've said that it's embarassing, didn't I?
+MicroUZI|DIALOGUE2|I'm... I'm... It's nothing!
+MicroUZI|DIALOGUE3|H-How can I say such a thing!
+MicroUZI|Wedding|Why did you suddenly give me something like this! Idiot, don't make me shoot you!<>I... This sort of thing...<>Alright, I don't particularly dislike you, so I'll look after you...
+MicroUZI|Introduce|Just where are you looking at!? It's e-embarrassing, so stop it!
+MicroUZI|ALLHALLOWS|Hey hey~ If you don't want to be tricked, then hand over the candies quickly!
+MicroUZI|DIALOGUEWEDDING|Trying to run away from work again? Alright...since you've been working so hard, I'll pretend I didn't see you this time.
+PPsh41|DIALOGUE1|Eh? Oh...you scared me.
+PPsh41|DIALOGUE2|Erm...is something the matter?
+PPsh41|DIALOGUE3|I'm fine being on the sidelines...
+PPsh41|Wedding|Commander, being able to bond with you through this sacred contract is the happiest moment of my life.<>From now on, I will bring more and more glory to you!
+PPsh41|Introduce|Pleased to meet you, Commander! Eh? I'm not heavy at all!
+PPsh41|ALLHALLOWS|Is it already Halloween? Commander, please be careful of my sister PPS-43...
+PPsh41|DIALOGUEWEDDING|Commander, how was my performance last time? If you want, I can choose a better song to dedicate to you next time.
+PPsh41|VALENTINE|Commander, please accept this. There's no special meaning to it, really...
+PP2000|DIALOGUE1|Yes, what's the matter?
+PP2000|DIALOGUE2|Is there something troubling you?
+PP2000|DIALOGUE3|The weather is nice today.
+PP2000|Wedding|Asking me to come here...did I make a mistake somewhere, Commander?<>...Eh? Such a thing?! I-Is is really ok? Have I...finally been recognized by you, Commander?...
+PP2000|Introduce|PP-2000 submachine gun. I will be staying by your side from now on, hehe~
+PP2000|ALLHALLOWS|My reaction was a little bit extreme during today's test of courage...I ended up scaring the ghost instead...
+PP2000|DIALOGUEWEDDING|Commander, my performance today was very steady, right? I need to become more confident since you're relying on me after all.
+MP40|DIALOGUE1|Ah! You scared me!
+MP40|DIALOGUE2|I-I didn't gain weight! Speaking of which, Commander, don't just go around touching people!
+MP40|DIALOGUE3|The concept of "component standardization" in manufacturing only came into existence because of me.
+MP40|Wedding|What are the plans for today, Commander?<>Eh? This--... To bestow such an honor upon me, I never would've expected this.<>I'm extremely happy! Thank you very much, Commander!
+MP40|Introduce|Commander, I will do my best for you!
+MP40|ALLHALLOWS|The kids will play tricks on you if you don't give them candy… What a weird custom… I'm not really used to it...
+MP40|DIALOGUEWEDDING|Commander, how was my piano perfomance last? Expressing my feelings through the prim and orderly music score was something that I learn from you while at your side... Were you able to notice it?
+MAB38|DIALOGUE1|Eh? Oh, don't worry, I'm doing fine.
+MAB38|DIALOGUE2|I'm sure putting in hard work will pay off some day.
+MAB38|DIALOGUE3|One of my strengths? I'd say it would be my concentration.
+MAB38|Wedding|Commander, calling me out here, are you trying to sell me off...<>Eh?! This can't be...my...my hard work...it shouldn't have been a match for your expections...<>Nevertheless, I'll stay by your side, and continue to work harder!
+MAB38|Introduce|M38, let's get along from now on, Commander.
+MAB38|ALLHALLOWS|It's Halloween! Can I go play with the kids?
+MAB38|DIALOGUEWEDDING|Commander, I'm studying hard on battlefield tactics right now. If I'm gonna be by your side forever, it is only fair that I become a capable assistant too!
+SpectreM4|DIALOGUE1|Commander, when's it gonna be my turn?
+SpectreM4|DIALOGUE2|Peace isn't that bad, but...it feels a little too comfortable...
+SpectreM4|DIALOGUE3|Commander, I was being treated unexpectedly well today, you'd think they mistook me for someone else! ...What? Seriously?
+SpectreM4|Wedding|Commander, Commander, why'd you pick me!<>Ah, it must be because of my immense popularity! ...Ahaha, I know, that's a lie.<>Well, it doesn't matter, because you still chose me in the end, right? Right?
+SpectreM4|Introduce|Spectre M4, formally joining your ranks, sir! Um... Commander? Is there no welcoming party?
+SpectreM4|ALLHALLOWS|Oh! It's Halloween? Well then, let me join too! ...What's that? Take the kids trick-or-treating? Sounds good!
+SpectreM4|DIALOGUEWEDDING|Commander, I was also very active in front of everyone today. With your support, nothing's impossible for me!
+WA2000|DIALOGUE1|Idiot...if I really hated you then I wouldn't be talking to you.
+WA2000|DIALOGUE2|Listen carefully! Don't casually call my name and don't touch my gun with your filthy hands!
+WA2000|DIALOGUE3|Eh? My face is red? It's because...it's a bit hot today! D-Don't get the wrong idea!
+WA2000|Wedding|I'm a tool created solely for the purpose of killing, and I've never thought about anything else besides that.<>Commander, are you sure you want me by your side?<>Hmm...with this, perhaps I'll become even more perfect.
+WA2000|Introduce|My name is WA2000. Commander, stand aside and don't get in my way.
+WA2000|ALLHALLOWS|Eek! I wasn't scared or anything! Ah! Don't bring that jack-o'-lantern any closer!
+WA2000|DIALOGUEWEDDING|Is there anything else left to do? Letting someone so valuable like myself be busy the entire day, you'd better reward me well after work, okay?
+WA2000|CHRISTMAS|Since you look like you're free, and you look so pitiful being alone, I will accompany you for a bit...
+MLEMK1|DIALOGUE1|Just give the order...
+MLEMK1|DIALOGUE2|I feel reassured if it is you, Commander.
+MLEMK1|DIALOGUE3|This uniform…I"ll treasure it deeply.
+MLEMK1|Wedding|Thank you for your care all this time, Commander, but am I truly the one you seek?<>No, in fact, I'm extremely elated!<>From now onwards, please let me guard you forever. It would be an honor of a lifetime!
+MLEMK1|Introduce|I, Lee Enfield, will be assigned to you from now on.
+MLEMK1|ALLHALLOWS|I heard that there will be a masquerade ball tonight. Worry not, I have already prepared my costume!
+MLEMK1|DIALOGUEWEDDING|Commander, have you finished reading the book that I recommended? ...Coincidentally, I've just re-read it. I want to hear your thoughts about it.
+MLEMK1|VALENTINE|Valentine's… Well, it's not that special of a day. Please focus on your work instead!
+MLEMK1|MOOD1|(Smiles)
+MLEMK1|BREAK|Oh! My uniform ripped…
+MLEMK1|RETREAT|I couldn't display my strength.
+MLEMK1|FORMATION|Yes！Sir！
+MLEMK1|FIX|Commander…I will reclaim my honor on the next battlefield…
+MLEMK1|GAIN|I, Lee Enfield, will be your subordinate, forever under your command from this day forward."
+MLEMK1_0|DIALOGUE1|Just give the order...
+MLEMK1_0|DIALOGUE2|I feel reassured if it is you, Commander.
+MLEMK1_0|DIALOGUE3|This uniform…I"ll treasure it deeply.
+MLEMK1_0|Wedding|Thank you for your care all this time, Commander, but am I truly the one you seek?<>No, in fact, I'm extremely elated!<>From now onwards, please let me guard you forever. It would be an honor of a lifetime!
+MLEMK1_0|Introduce|I, Lee Enfield, will be assigned to you from now on.
+MLEMK1_0|ALLHALLOWS|I heard that there will be a masquerade ball tonight. Worry not, I have already prepared my costume!
+MLEMK1_0|DIALOGUEWEDDING|Commander, have you finished reading the book that I recommended? ...Coincidentally, I've just re-read it. I want to hear your thoughts about it.
+MLEMK1_0|VALENTINE||Valentine's… Well, it's not that special of a day. Please focus on your work instead!
+NTW20|DIALOGUE1|Could you not stand behind me?
+NTW20|DIALOGUE2|Who's there? ....Oh, it's just you, Commander. If you so much as touch me, you'll get hurt.
+NTW20|DIALOGUE3|Just leave the sniping missions to me. Even if it's a cheetah sprinting in the prairie, I'll tag it in one shot.
+NTW20|Wedding|Ever since the beginning, I have always obtained my strength from you, and I have always remembered it.<>In this very moment, I've finally found a chance to repay you. Thank you, Commander.
+NTW20|Introduce|Commander, I am the anti-materiel rifle NTW-20. Fortified steel wall or not, I will show you I can pierce through it all.
+NTW20|ALLHALLOWS|Speaking of Halloween, are you going to host a costume party? I would look forward to it.
+NTW20|DIALOGUEWEDDING|Commander, let's go hunting again on our next vacation! Don't worry, I'll give you a head start, hehe!
+NTW20|CHRISTMAS|Will it snow on Christmas? I've never seen snow before...I really look forward to it.
+M1903|DIALOGUE1|I made some muffins. Let's eat them together.
+M1903|DIALOGUE2|You have some bread crumbs on your mouth, ufufu~. Stay still please, I will get it for you.
+M1903|DIALOGUE3|Good work as always, Commander. If you would like, have some coffee.
+M1903|Wedding|Commander, how did you come to notice me?<>A gentle person like you will become my other half from now on...<>Then, let me become your most reliable strength!
+M1903|Introduce|Commander, if there is anything I can do for you then please, give the order.
+M1903|ALLHALLOWS|Ufufu~, it's Halloween, isn't it? M14 is having so much fun.
+M1903|DIALOGUEWEDDING|Commander, I will be heading out soon. You'll be fine here, right? When you miss me, just say my name out loud. I will surely hear it.
+M1903|CHRISTMAS|Ufufu~, since it is Christmas, I am going to cook with my best efforts today.
+M1891|DIALOGUE1|Oh my, what's the matter?
+M1891|DIALOGUE2|I'm hungry. Is there anything to eat?
+M1891|DIALOGUE3|Hehe, interested in me?
+M1891|Wedding|You've been helping me along all this time, but now I wish you'll put some faith in me. <>I will forever be by your side. This is the happiest moment of my life.
+M1891|Introduce|Comrade, хорошо!
+M1891|ALLHALLOWS|Nagant M1895 ran off to somewhere again. I don't want to take off my hat even if it is Halloween... How troublesome.
+M1891|DIALOGUEWEDDING|Commander, you seem to be tired from work. Want to go for a walk? There are many things I want to share with you today.
+PTRD|DIALOGUE1|Ahh... Don't you think war is such a drag?
+PTRD|DIALOGUE2|Hey... If you want to touch me, at least do it seriously.
+PTRD|DIALOGUE3|Are your preparations complete?
+PTRD|Wedding|Oh? Being so straightforward about it, that's not like you.<>Still, I don't dislike it, and it's saved a lot of effort.<>May I offer a gesture of gratitude?
+PTRD|Introduce|Worry not, Commander, there is nothing that can escape from my bullet.
+PTRD|VALENTINE|Today is Valentine's Day, Commander. Please accept my feelings. Otherwise...
+PTRD|ALLHALLOWS|I did prepare a costume for the masquerade, but putting it on is too much work, so I gave it way to another kid.
+PTRD|DIALOGUEWEDDING|You've worked hard today, Commander. I learned some massage techniques recently. Want to give them a try after work?
+SV98|DIALOGUE1|What's our next target?
+SV98|DIALOGUE2|I'm not suited for close quarters combat, but you can leave long-range sniping to me.
+SV98|DIALOGUE3|I'll shoot you right through the heart! Bang~! ...Ahh! Commander! Did you hear me?
+SV98|Wedding|Umm... This kind of thing is well beyond my expectation...<>But I don't need to make any notes, right? After all, it's a once-in-a-lifetime thing.<>Commander, I will always remember this moment.
+SV98|Introduce|SV-98, reporting in, what are your orders?
+SV98|ALLHALLOWS|As I thought, I'm no good at Halloween... Both my costume and my tricks are a bit underwhelming...
+SV98|DIALOGUEWEDDING|Today's workload is a bit more than I expected...but no matter, I'll stay beside you regardless of how late it gets!
+SVT38|DIALOGUE1|Ah, my apologies. I accidentally fell asleep.
+SVT38|DIALOGUE2|The word "defeat" is not in my vocabulary.
+SVT38|DIALOGUE3|What is it? Do you need me for something?
+SVT38|Wedding|W-What's that all of a sudden, Commander?!<>I-Is this also a kind of victory? Or... No, nevermind. It doesn't hurt to enjoy things once in a while.<>After all, moments like this are precious.
+SVT38|Introduce|SVT-38 reporting. Commander, your orders?
+SVT38|ALLHALLOWS|I wanted to dress up as a ghost to scare people, but it seems that I'm more scary as my usual self... I see...
+SVT38|DIALOGUEWEDDING|Today's arrangements seem to be sound as always... Goodness, after being with you for some time, I've become quite lazy...
+SKS|DIALOGUE1|Don't think, feel it! Haaaaa!
+SKS|DIALOGUE2|My, my. Guys seem to be swarming around me these days.
+SKS|DIALOGUE3|It tickles!
+SKS|Wedding|Ufufu, Commander, have you finally realized my value as an ace?<>Eh? No? I see...but I'm satisfied enough, just being able to stay by your side, really!
+SKS|Introduce|Hello, Commander. A trump card like me is worth a hundred soldiers. Take good care of me!
+SKS|ALLHALLOWS|Halloween... Everyone is fooling around huh?... By the way, I like gummy candies, hehe...
+SKS|DIALOGUEWEDDING|Commander, was I able to help you today? Am I becoming more like an elite? Please help me to discover more of my talent!
+TAR21|DIALOGUE1|Ah, right on time. I have some questions for you.
+TAR21|DIALOGUE2|I may not look like it, but I'm actually very ordinary.
+TAR21|DIALOGUE3|My usual training? There's tea ceremony, flower arrangement, kendo, and ballet as well.
+TAR21|Wedding|It's only natural that I, who was born in a new era, managed to catch your eye.<>I guess it can't be helped. I will keep updating myself in order to live up to your expectations.<>I will show you an even better me!
+TAR21|Introduce|TAR-21, reporting for duty. Please take extra good care of me.
+TAR21|ALLHALLOWS|Since today is a special day, will you please give me some sweets, Commander?
+TAR21|DIALOGUEWEDDING|Want some words of advice, Commander? Firstly, please believe in yourself. After all, the fact that you have chosen me shows that you have outstanding judgment, huhu~
+STG44|DIALOGUE1|Can you please stop staring at me like that?
+STG44|DIALOGUE2|Hey! Please don't touch me!
+STG44|DIALOGUE3|Recently, I've started using a new shampoo.
+STG44|Wedding|Eh! Commander, why are you so close?<>Uh, I don't dislike you, but...what...?! Really?! I've always been bothering you so much...<>Then...can I scoot a little closer to you?
+STG44|Introduce|Pleased to make your acquaintance. A-ah, there's no need for a handshake or anything.
+STG44|ALLHALLOWS|I'm not used to being around little children... My clothes might get dirty... But, Happy Halloween, Commander.
+STG44|DIALOGUEWEDDING|Commander, even if you have a lot of work, don't slack on your appearance! Come, let me fix you up.
+OTs12|DIALOGUE1|Um...what do you think of my recent performance?
+OTs12|DIALOGUE2|Commander, are there any tasks for me?
+OTs12|DIALOGUE3|Stop messing around, Commander. Isn't this a covert mission?
+OTs12|Wedding|Commander, is this...for me?<>No, please don't apologize, I've always been aware of my own value.<>But, I will keep this in my heart as the most treasured secret. Thank you, Commander...
+OTs12|Introduce|Secret weapon OTs-12 "Yew Tree", reporting. Commander, is any further explanation required?
+OTs12|ALLHALLOWS|Tonight's atmosphere isn't very suitable for a secret operation, though it'll probably be easier to hide in the midst of all these oddly-dressed people.
+OTs12|DIALOGUEWEDDING|I've been making appearances more often lately, maybe it's because you value me too much... No matter, such a happy thing doesn't need to be kept secret.
+SIG510|DIALOGUE1|Can I...really make some friends...?
+SIG510|DIALOGUE2|Commander, you really are ruled by your desires. It'll get in the way of work, you know.
+SIG510|DIALOGUE3|Ahh... Having dessert right after training is truly the best motivation. I'm in bliss~
+SIG510|Wedding|So I'm no longer alone?<>It's a bit of a sudden, but I'll eventually get used to it...<>I will do my best for you, so that one day I will become your favorite.
+SIG510|Introduce|I'm SIG-510. A pleasure to meet you. I'll support you every step of the way.
+SIG510|ALLHALLOWS|Frolicking about just because it's Halloween...they're just like little kids. By the way, where is my share of the sweets?
+SIG510|DIALOGUEWEDDING|Commander, please help me pick out some clothes after work... I want to try changing my image...
+MG5|DIALOGUE1|Commander, your orders? I'm ready to deploy anytime.
+MG5|DIALOGUE2|My strength is yours to command, Commander.
+MG5|DIALOGUE3|If you want to understand me better, then please allow me to demonstrate my prowess in battle.
+MG5|Wedding|If is this your decision, Commander...<>No, it is also what I wished for.<>From now on, everything I have will be dedicated to you.
+MG5|Introduce|Surprised, Commander? Gr MG5, I'll be yours to command from now on.
+MG5|ALLHALLOWS|Halloween? Ah, I am familiar with it. A festival for children, is it not? ...Surprised that I know about it? Well, I do like fairytales.
+MG5|DIALOGUEWEDDING|Don't worry, Commander, I'll keep myself safe during this operation. After all, I promised you long ago that I won't ever have you worry about me anymore.
+MG5|CHRISTMAS|Merry Christmas, Commander. I'll clean the windows. You don't need to exert yourself today.
+NEGEV|DIALOGUE1|What do you want to know?
+NEGEV|DIALOGUE2|Having a specialist like me is more than enough!
+NEGEV|DIALOGUE3|What are you so eager to know... Huh?! L-Like I'd tell you!
+NEGEV|Wedding|What would you like me to teach you today?<>Wh-What?! I can't help you with that kind of thing!<>Huh?! You'll teach me?! B-But I, I...<>Fine, just this once!
+NEGEV|Introduce|Combat Specialist "Negev." I'll be the resident specialist from now on so don't be afraid to rely on me.
+NEGEV|ALLHALLOWS|Halloween, huh... Isn't it a children's holiday? W-Whoa! Don't surprise me like that! That was scary!
+NEGEV|DIALOGUEWEDDING|Commander, are you tired? Thirsty? Or are you hungry? Just imagine a world without me... Impossible, right? That's why we are forever inseparable.
+M1918|DIALOGUE1|Don't call me Auntie BAR! I'm not that old!
+M1918|DIALOGUE2|If there's no mission today, then how about we go shopping?
+M1918|DIALOGUE3|Please don't touch my hair. It'll get damaged...
+M1918|Wedding|Are you sure you have given proper thought to this, Commander?<>This is no joking mat... I see. In consideration of your honest feelings, I'll also be more serious from now on. Just for you though.
+M1918|Introduce|Browning M1918... Uwa! You were already here Commander? Please don't try to surpise me when I'm rehearsing!~
+M1918|ALLHALLOWS|Jack-o'-lanterns...are a bit scary. Please don't bring them any closer...
+M1918|DIALOGUEWEDDING|Would you like me to help you with the work you have on hand? Don't worry, I won't treat it carelessly. I'm doing it for you, after all.
+PK|DIALOGUE1|What is it?
+PK|DIALOGUE2|I'm not ignoring you.
+PK|DIALOGUE3|Take your hand off of me.
+PK|Wedding|Oh? Is that so? To be recognized by such an excellent leader, it seems that my abilities have finally come to light. Let's pave the path together from now on.
+PK|Introduce|Commander, I will wipe out all the enemies for you. In return, could you please not stand so close to me?
+PK|ALLHALLOWS|I will not participate in such an indulgent holiday!
+PK|DIALOGUEWEDDING|You didn't spread the word about the restaurant we went to the other day, did you? It is a secret kept among loners. Please take it to your grave...
+PK|VALENTINE|Hmm... A day to affirm the existence of each other? Sounds nice... Then I'll give this to you, Commander.
+MG3|DIALOGUE1|W-Where are you touching? What if they get even bigger than they already are?!
+MG3|DIALOGUE2|This chest of mine keeps getting in the way and I can't do anything about it!
+MG3|DIALOGUE3|Alright, it's time we get something to eat!
+MG3|Wedding|Commander, why are you so interested in me? It must be because of that... Huh? That's not it? Alright! Then, from now on...let's train lots together and become stronger!
+MG3|Introduce|So this is where I've been assigned to, huh? MG3 reporting in! Let's give the enemy a taste of true firepower!
+MG3|ALLHALLOWS|Seriously, give me a break! Why do I have to give candy to brats...
+MG3|DIALOGUEWEDDING|Put more effort into it, Commander, I know you have the potential! Don't give up so easily!
+M249SAW|DIALOGUE1|Eh? What did you say? I didn't hear you just now.
+M249SAW|DIALOGUE2|I really want a fluffy body pillow...
+M249SAW|DIALOGUE3|You seem to be pretty busy, Commander. Please don't hesitate to give me work to do.
+M249SAW|Wedding|Commander, did I hear you right? Since when have you come to like me? Then I suppose I'll be a bit more serious for your sake. You'd better be thankful for that.
+M249SAW|Introduce|Commander? Don't expect too much from me okay~?
+M249SAW|ALLHALLOWS|What a troublesome festival. Putting on costumes and parading all over... Hmm? I never said I wouldn't join in.
+M249SAW|DIALOGUEWEDDING|Eh? I did well today? I had no choice as you'd been staring at me the entire time, and since I didn't want to disappoint you, I had to get serious...
+M1919A4|DIALOGUE1|I'm not a shorty!
+M1919A4|DIALOGUE2|I've always wanted a change of pace.
+M1919A4|DIALOGUE3|Wanna play with me?
+M1919A4|Wedding|Ah, so you finally understand me, Commander?<>Today is the happiest day of my life! I don't have to box up my feelings anymore! I love you so much, Commander!
+M1919A4|Introduce|M1919A4 at your service! Let's mow 'em down!
+M1919A4|ALLHALLOWS|Are you giving me candy? I'm so happy! You're the best, Commander!
+M1919A4|DIALOGUEWEDDING|Have we stocked up enough food, Commander? ...I'm not trying to sneak a bite! You trust me so much, of course I would never do such a thing.
+RPD|DIALOGUE1|It's my honor!
+RPD|DIALOGUE2|Sorry, Commander. Did I disturb you? ...Ah, I didn't? Then...that's a relief.
+RPD|DIALOGUE3|Commander, what do you mean by "inspection"?
+RPD|Wedding|Commander! I don't...deserve something like this...<>Surely, there are more deserving girls than me.<>I see... I never thought that I would ever be this loved. Then just this once...I'll accept it! Hehe♪
+RPD|Introduce|RPD reporting in, Commander. It is an honor to fight alongside you.
+RPD|ALLHALLOWS|I prepared a lot of candies tonight! Though I wonder if anyone will knock on the door...
+RPD|DIALOGUEWEDDING|Are you tired, Commander? Do you want grab a drink somewhere? "You can't carry the weight of the world on your shoulders", that's what you taught me, right?
+MG42|DIALOGUE1|It would be bad if you misfire, Commander.
+MG42|DIALOGUE2|I've been watching big sis 34 doing gun maintenance, so I can handle it just fine!
+MG42|DIALOGUE3|Commander, what kind of mission is this?
+MG42|Wedding|Eh? You chose...me, Commander?<>Then, have a hug!<>Let's call big sis 34 so all three of us can celebrate! Sounds good, right? Right?
+MG42|Introduce|Pleased to meet you, Commander. Would you like to hear the sound of a buzz saw?
+MG42|ALLHALLOWS|Woohoo! It's Halloween! Commander, trick or treat~
+MG42|DIALOGUEWEDDING|Commander, do you want me to sing a song for you? Special treatment like this is reserved for only you and big sis 34.
+MG34|DIALOGUE1|Commander, don't bully me please.
+MG34|DIALOGUE2|I think my sister just went out to play again... I'm a little envious...
+MG34|DIALOGUE3|Please don't scare me like that! Leaving guns out like this is dangerous.
+MG34|Wedding|Commander...you chose me?<>I'm so happy! I'm going to tell 42 immediately!<>By the way, you cannot lay your hands on that girl!
+MG34|Introduce|So you're the Commander, huh? I'm MG42's older sister, MG34! Let's get to know each other!
+MG34|ALLHALLOWS|Children are really desperate when it comes to sweets, huh? Oh, MG42 is together with a bunch of children. She's really like a little kid... Hehe.
+MG34|DIALOGUEWEDDING|Seeing as how you are so stressed out, I'll get you a nice cup of hot tea. This a special service for you, so don't tell 42.
+SPS|DIALOGUE1|Commander, please be at ease. I'll protect this place and keep it safe.
+SPS|DIALOGUE2|Crow? That's a codename of mine from the past. I've got a lot of them, which one do you like?
+SPS|DIALOGUE3|Eh? Doing this sort of thing is in violation of the contract. Please sign a new contract if you wish to remove this clause.
+SPS|Wedding|Huh? Commander, you're looking for long-term coorperation?<>Thank you very much for putting your trust in me. I will definitely improve the quality of my service...<>Ah! If there's any mistake, please make sure to include it in my contract. Ahaha...
+SPS|Introduce|Good day, Serdyukov SPS reporting. I'll be responsible for your safety from now on. I look forward to working with you.
+SPS|DIALOGUEWEDDING|Commander, what did you think of my service today? Make sure to let me know if there's anything that you want, okay?
+KP31|DIALOGUE1|Ah! Seriously, don't scare me like that!
+KP31|DIALOGUE2|Commander, are you tired? Would you like me to put on some music?
+KP31|DIALOGUE3|It's not that I dislike you, Commander, I'm...just not that used to being so close to you...
+KP31|Wedding|Has this day finally come at last?<>Thank you for always being by my side, Commander. My mission is finally complete...<>Ah, Let me put on some music to celebrate!<>Eh? No need?
+KP31|Introduce|Suomi KP-31, reporting. I'll follow the Commander's every order until the mission is accomplished!
+KP31|ALLHALLOWS|I'm going to perform on stage tonight, so come and have a taste of the most avant-garde music of our people!
+KP31|DIALOGUEWEDDING|Commander, the concert from the other day was pretty good, wasn't it? I had a good time as well. Let's go again together some other time, just the two of us!
+KP31|CHRISTMAS|Merry Christmas, Commander... What do you think of my clothes tonight? As the first person to greet Santa Claus, I must look my best.
+Mk48|DIALOGUE1|I like easygoing people like you, Commander.
+Mk48|DIALOGUE2|Are you trying to impress me by working so hard? I'm looking forward to what you can do.
+Mk48|DIALOGUE3|Hmm? Have you been staring at me the entire time? It would be a shame if that's all you're gonna do, hehe ❤
+Mk48|Wedding|Ahh... Yes, this feeling of complete and utter victory!<>Of course, I have you to thank as well, Commander. I'll make sure to show you my appreciation, hehe...
+Mk48|Introduce|Oh my, so you're the Commander? The name's Mk48. Let's have plenty of fun here. ♥
+Mk48|DIALOGUEWEDDING|How about another shoulder massage, Commander? Don't worry, didn't I tell you that what happened last time was an accident? Hehe...
+UMP45|DIALOGUE1|I've been waiting for you, Commander.
+UMP45|DIALOGUE2|You don't need anything from me with "9" here, right?
+UMP45|DIALOGUE3|Play nice, Commander~!
+UMP45|Wedding|Despite knowing my true nature, you'd still accept me?<>...Hehe, worry more about your own future, Commander~
+UMP45|Introduce|UMP45 has arrived. Commander, let's get along from now on~
+UMP45|VALENTINE|Commander, I made this chocolate for you. Of course, I also prepared enough for everyone else... It's not bad, right?
+UMP45|ALLHALLOWS|It's Halloween, isn't it! Do you like this festival, Commnader? ...Me? I don't hate it, it's lively after all.
+UMP45|DIALOGUEWEDDING|Was I really out for that long? Missed me? You don't look like you did though... That's more like it. There's the dopey face that's so reassuring, hehe...
+Welrod|DIALOGUE1|What is it? Please send an encrypted message if it is an order.
+Welrod|DIALOGUE2|I'm getting another cup of tea. Would you like one as well?
+Welrod|DIALOGUE3|Tired already? Please leave the rest of the paperwork to me. I do have some experience with it.
+Welrod|Wedding|Huh?! What is this?<>...Eh? For me? Doing this in front of all these people, you're pulling my leg, aren't you?<>Ah...alright, just this once!
+Welrod|Introduce|Welrod Mark II, reporting for duty. There's no need for a welcoming party nor flowers and celebrations for someone that operates in the shadows.
+Welrod|VALENTINE|Here is some chocolate for you. I've confirmed that it has not been poisoned. Please enjoy it, Commander.
+Welrod|DIALOGUEWEDDING|I'm looking at pictures from when we went to the museum together. You were standing way too close, Commander...but...I'm fine with that.
+9A91|DIALOGUE1|I wonder what AS VAL and 74 are doing?
+9A91|DIALOGUE2|Commander, please be sure to let me know before leaving my sight.
+9A91|DIALOGUE3|If you don't approve of me... then I will...
+9A91|Wedding|Commander, this isn't a dream right...?<>I just wanted you to pay more attention to me...<>You'll be forever by my side from now on, right? It's a promise.
+9A91|Introduce|So you are the Commander? My name is 9A-91. Make sure you remember it well, okay?
+9A91|ALLHALLOWS|Trick or treat~! No, it's actually trick AND treat, Commander. May I stay with you tonight?
+9A91|DIALOGUEWEDDING|Commander, with so many comrades, how do you remember them all? I'll learn from your example. From now on, I'll keep every single friend in a special place within my heart.
+56typeR|DIALOGUE1|Good work, Commander!
+56typeR|DIALOGUE2|You bought a new toy again? People nowadays really do live luxuriously.
+56typeR|DIALOGUE3|Wh-What are you doing, Commander?! Don't think I don't understand what you're doing! This is definitely sexual harassment!
+56typeR|Wedding|What is it, Commander?<>Eh? What is this? Please hold on until later, as I need to prepare some food first...<>Eh? This can't wait? What is it even...<>Eh? ...Seriously?!
+56typeR|Introduce|Type 56-Semi, officially reporting in! Commander, comrades, it's nice to meet you!
+56typeR|ALLHALLOWS|What are we doing tonight? ...Dancing? That is something I'm excellent at!
+56typeR|DIALOGUEWEDDING|Commander, here's some water! I've added some flavoring this time. Can you guess what it is? ...Hehe, there's a reward if you get it right.
+OTs14|DIALOGUE1|What do you have planned today? Let's hear it.
+OTs14|DIALOGUE2|Let me guess... Judging from your expression, you're not here to talk about work.
+OTs14|DIALOGUE3|What a nice atmosphere. Shall we play some fitting music to go alongside it?
+OTs14|Wedding|This is...for me? I already knew that this would happen.<>All of what you've suffered and endured so far, I've seen it with my own two eyes.<>Commander, you are the one that I have deemed worthy enough to put my trust and beliefs into, so let us stay side-by-side together forever.
+OTs14|Introduce|OTs-14 "Lightning" reporting. So, you're my new Commander? So be it. Let us get along well.
+OTs14|DIALOGUEWEDDING|What do you want to eat tonight? How does letting me cook again tonight sound? It's no trouble at all, and we did have fun the past several times.
+G11|DIALOGUE1|Commander, what did you say?
+G11|DIALOGUE2|Please clean your room, otherwise I'll have to sleep on the floor.
+G11|DIALOGUE3|Urgh... don't hit me... I know, I'll get up now....
+G11|Wedding|Commander, what did you wake me up so late for?<>Eh? Could this be...that so-called "confession"? Seeing that wholehearted expression on your face, I wouldn't be able to sleep properly if I didn't accept your feelings.<>Alright...just this once.
+G11|Introduce|G11... Commander, you got a bed around here?
+G11|ALLHALLOWS|If it's just a festival for giving me candy, taking part in it won't be bad... Huh? There's more to it than that? Never mind then.
+G11|DIALOGUEWEDDING|Ah... Commander, where's the body pillow that I wanted? ...You don't have it? ...Then, are you busy right now?
+PSG1|DIALOGUE1|Commander, please leave the next mission to me as well.
+PSG1|DIALOGUE2|Should I tidy up my room now...? Nah, I'll do it next time.
+PSG1|DIALOGUE3|Commander, my weapon is extremely intricate, so please don't touch it, okay?
+PSG1|Wedding|Thank you very much for looking after me all this time, as I've always inconvenienced you in battle and in daily life.<>Yet, regardless of all the trouble I've caused you, you were always there to encourage me...<>Thank you, Commander, the time to repay you is drawing near.
+PSG1|Introduce|Nice to meet you, I am PSG-1. Thank you for placing your trust in me, I'll be sure to make the most out of this opportunity you've given me.
+PSG1|DIALOGUEWEDDING|Commander, will you come visit my room tonight? I tidied it up properly, so it won't be all messy like last time...
+ARX160|DIALOGUE1|All these different types of magazines... Commander, which one do you think is better?
+ARX160|DIALOGUE2|A good weapon has to be ergonomic...
+ARX160|DIALOGUE3|Hey...why are you hiding so far away? I won't hurt you, Commander... Maybe.
+ARX160|Wedding|Commander, you really...want to be together with me?<>No, it's nothing... I will become much more hardworking until I will never let you down, so please look forward to it.
+ARX160|Introduce|Ciao! I'm ARX-160, a next generation weapon! ...Eh, I don't seem like it? Well... I'm close enough, right?
+ARX160|ALLHALLOWS|Oh, it's Halloween! How should I prank the Commander this time? ...Ah! I got it!
+ARX160|DIALOGUEWEDDING|Commander, was it a tiring day today? It's okay, let's lie down and be lazy together...
+Z62|DIALOGUE1|Yes, I'm here. Please give me your instructions.
+Z62|DIALOGUE2|Commander, can you teach me how to solve this problem?
+Z62|DIALOGUE3|Commander, read a book if you have this much spare time.
+Z62|Wedding|Commander, thank you for choosing me. In order to meet your expectations, I will devote my mind and soul to doing the best that I can!
+Z62|Introduce|Star Z-62. Commander, I'm grateful for you taking me in and letting me join the team.
+Z62|ALLHALLOWS|Tonight will definitely be very rowdy. I'd better stay in my room to read.
+Z62|DIALOGUEWEDDING|Commander, the books you've recommended recently are full of flair. We really are becoming more and more in sync, so I'll be counting on you from now on.
+SuperSASS|DIALOGUE1|Commander, you've worked hard! Want anything to drink?
+SuperSASS|DIALOGUE2|Even though I'm not that reliable, you can talk with me anytime about any of your worries!
+SuperSASS|DIALOGUE3|Commander, if you already have someone that you really like, then your current behavior is very dangerous...
+SuperSASS|Wedding|Commander, is there something special about today's get-together?<>Hm? Prepared for me? This is too much! Doesn't this mean I have to work even harder?<>Heheh, though this will be a piece of cake for me.
+SuperSASS|Introduce|Super SASS reporting in! Nice to meet you! I'll be counting on you from now!
+SuperSASS|DIALOGUEWEDDING|Commander, what do you plan on doing today? The same as last time? Do you still remember what we did? Hehe...I remember all of it.
+MG4|DIALOGUE1|Me? ...No need to worry about me. Giving me your orders is enough.
+MG4|DIALOGUE2|Slacking off again? ...You can do whatever you want. However, don't drag me into it.
+MG4|DIALOGUE3|Um...please stop. Don't we still have a job to do?
+MG4|Wedding|Commander, what business do you have here this late at night?<>Eh? Wait a second...<>I swear, you just want to see me embarrassed!<>There won't be a next time... There won't be a next time, right? Promise me...
+MG4|Introduce|Gr MG4. I will be doing my best from now on. *sigh* If there's any room for me that is...
+MG4|DIALOGUEWEDDING|Commander, can I sit over here? This way, I can be a little closer to you. It's fine right? There's no one around right now...
+SVD|DIALOGUE1|What are the plans for today?
+SVD|DIALOGUE2|Is your work going well? Don't make me worry about you.
+SVD|DIALOGUE3|That's right. Just like this. Rely on me more!
+SVD|Wedding|How about it? Still couldn't refuse me in the end, can you?<>You knew this moment would come when you first met me.<>Alright, that's enough nonsense, don't be too nervous during the ceremony...<>Me? I-It's definitely not a problem for me!
+SVD|Introduce|Sniper rifle SVD. Let's see, let's see...just who is the lucky person that's going to receive me?
+SVD|DIALOGUEWEDDING|What? Can't find your stuff again? Don't always make an elite like me look for it. Luckily I know where you usually lose it. See?
+SVD|CHRISTMAS|What do you think of my Christmas costume? Obviously it looks perfect on me, right? ...How about you appreciate it since I rarely get this chance to dress up...
+P99|DIALOGUE1|Where do you want me to give you pointers?
+P99|DIALOGUE2|Even someone like me still has a lot of learning to do.
+P99|DIALOGUE3|You already can't sit still anymore, Commander? You can't learn anything without patience like this.
+P99|Wedding|Commander, I know where I stand in your heart, so rest assured that I will never cause trouble for you.<>After all, there's a mutual understanding between us.
+P99|Introduce|Walther P99. I'll be sure to do a prim and proper job, so please allow me to join.
+P99|ALLHALLOWS|Relaxing for a bit on a night like this is pretty nice. But please don't let everyone run around without supervision.
+P99|DIALOGUEWEDDING|Boss, everyone has invited me to participate in the get-together this weekend. What do you think I should wear? ...Be serious! We're discussing an important matter here...
+G36C|DIALOGUE1|Commander, is there something bothering you? If you don't mind, I can listen.
+G36C|DIALOGUE2|How about resting for a little bit? It's not good to overwork yourself.
+G36C|DIALOGUE3|Big sis G36, do you need any help? ...Oh, Commander? Sorry, please excuse me...
+G36C|Wedding|Eh? Commander, what is this for?<>I've always felt very embarrassed for you to constantly look after me.<>It seems that I must become a bit more reliable to meet your expectations.
+G36C|Introduce|Greetings, I'm Gr G36c, it's a pleasure to meet you. Also...pardon me but...is my sister, Gr G36, here as well?
+G36C|DIALOGUEWEDDING|Commander, how was my performance today? If there's anything that I can improve on... This? Do you really mean this?
+G36C|BREAK|Aaaah! There's been an unexpected situation...
+G36C|RETREAT| I'm sorry, Commander. I will accept the punishment...
+95type|DIALOGUE1|It's time to head out. You've already rested quite well, didn't you?
+95type|DIALOGUE2|Really...can you not sit still, 97? Oh, so it was actually you, Commander.
+95type|DIALOGUE3|Commander, did you mix me up with 97? It was definitely on purpose, right?
+95type|Wedding|Commander, it's all thanks to your trust that 97 and I are able to make it to this day.<>Now, I finally have the chance to repay you.<>Please allow me to follow in your footsteps from now and head toward the future together.
+95type|Introduce|Good day, Commander. I'm Type95. Starting from today, I will be putting forth my best effort under your guidance.
+95type|ALLHALLOWS|Really... Where did 97 run off to again? All these strange disguises outside// exactly which one is she behind?
+95type|NEWYEAR|Happy new year, Commander. Many comrades are participating this year, so many red packets have to be prepared. 97 already received hers last night, so you don't need to worry about her.
+95type|DIALOGUEWEDDING|Commander, 97 hasn't caused you any trouble these past few days, has she? You really are an outstanding role model...and as a partner as well.
+97type|DIALOGUE1|Commander, let's head out together! The outside world is amazing!
+97type|DIALOGUE2|Ah!! It's not my sister, right?! ...Commander you big dummy! Don't scare me like that!
+97type|DIALOGUE3|Big sis always nags at me at home whenever she sees me. That's the reason why I want to go outside.
+97type|Wedding|What is it, Commander? I-I didn't do anything this time!<>What? Really?! You're kidding! ...How do I explain this to big sis...<>Commander, you tell her!
+97type|Introduce|Chinese Type97 assault rifle has arrived! So you're my Commander? Is perhaps...my elder sister, Type95, here as well?
+97type|ALLHALLOWS|Hooray! I've been looking forward to this day for an entire year! Halloween is such a fun festival!
+97type|NEWYEAR|Happy New Year, Commander! Look, big sis gave me a red packet! Oh, how good would it be if she only appeared once a year on this day...
+97type|DIALOGUEWEDDING|Commander! The place we went to last time was so much fun! As expected of the Commander! Seeing as how big sis 95 also had so much fun, the three of us should go out together again next time!
+NZ75|DIALOGUE1|What? Don't even think of being lazy under my supervision.
+NZ75|DIALOGUE2|Commander, dawdling around won't bear any results. Let's get going.
+NZ75|DIALOGUE3|Stop! Do you understand what you're doing? I-I'll get angry!
+NZ75|Wedding|What did you bring me here for, Commander? I'm not sneaking out with you if that's what you wanted to do.<>Huh? What is this? Could it be...<>I thought you've been acting strange lately... So this is what has been on your mind!<>It would be pretty nice if things keep going like this... so I'll accept it...
+NZ75|Introduce|NZ75. You have my gratitude for summoning me here. Now, let us accomplish the mission.
+NZ75|NEWYEAR|Huh? New Year's show? I-I didn't prepare for it! ...Fine, j-just this once! Don't you dare laugh!
+NZ75|DIALOGUEWEDDING|Commander, are you free next weekend? Want help me pick out some new clothes? I have been with you for so long, it's about time I change my image a bit for you.
+79type|DIALOGUE1|Type 79 on standby! I'm ready for your orders at any time, Commander!
+79type|DIALOGUE2|What's the problem? Do you need my help?
+79type|DIALOGUE3|Commander, please be serious when you're at work! Although...I'm happy to be praised by you...
+79type|Wedding|Eh? Me? ...Really?! W-why...<>Although I have made small efforts before, I never had such expectations, nor dared to wish for this kind of thing. But right now...<>I'm really... I'm really incredibly happy! Thank you very much, Commander!
+79type|Introduce|Commander, Type 79 reporting for duty. Your orders please!
+79type|DIALOGUEWEDDING|Commander, what do you think of my outfit today? Can you spot any differences? Heh heh, take another closer look~
+M99|DIALOGUE1|Commander, do you any assignments for me today? M99 is ready for your orders any time.
+M99|DIALOGUE2|I learned something new again, but I don't know if they're of any use, haha...
+M99|DIALOGUE3|Commander! W-w-w-what are you doing?! I'm going to call the police!
+M99|Wedding|Commander, are you really willing to accept the person that I am right now...?<>I originally thought that I still had a long way to go...to meet your expectations...<>However, I won't be complacent! In order to repay your trust, I must work even harder!
+M99|Introduce|Salute! Nice to meet you, I'm M99! Commander, please keep up the good work!
+M99|NEWYEAR|Commander, Happy New Year! I've made great improvements this year thanks to your care. I'll be working hard this year so please look forward to it!
+M99|DIALOGUEWEDDING|Teach me some new things again tonight, Commander, but don't tease me this time. Last time was too embarrassing!
+EVO3|DIALOGUE1|Are you still modifying the battle plan? I'm going to need it to carry out the mission.
+EVO3|DIALOGUE2|Apologies, did I bother you? I'll get VZ61 to quiet down immediately.
+EVO3|DIALOGUE3|Commander, any stress that you have can be let out through words. Suddenly touching me like this...isn't a very good idea.
+EVO3|Wedding|Oh? Commander, is this for me? This is a little unexpected... I thought that based on my performance, I would've had no chance...<>No, I'm very happy. This is the biggest honor of my life!<>Let me tell VZ61 right now. She will also definitely be very happy!
+EVO3|Introduce|Hello, Commander~ Scorpion EVO 3, officially part of the team as of today. Please look after me~
+EVO3|DIALOGUEWEDDING|Have you rested well, Commander? Why don't you enjoy it a bit longer since you rarely get the chance to have a break? I'll take care of the things here for you.
+59type|DIALOGUE1|What is it, Commander?
+59type|DIALOGUE2|I didn't steal any food! R-Really!
+59type|DIALOGUE3|Makarov isn't here. If you want to play then 59 will play with you, Commander!
+59type|Wedding|Commander, don't give me that look... 59 is working really hard, so...<>Eh? We're not talking about that? 59 is doing fine?<>59 loves you to death, Commander!
+59type|Introduce|So you must be my Commander. I'm T59! Please take care of me from now on!
+59type|ALLHALLOWS|Having delicious sweets to eat is pretty good even if it's a foreign holiday...! Eh? these candies are to be given away?
+59type|NEWYEAR|Happy New Year, Happy New Year! There are too many people looking to receive red packets from me! Commander, help me!
+59type|DIALOGUEWEDDING|Commander, Commander! Where should we go next time? The outside world is really awesome! I still want to see and experience many many more places!
+63type|DIALOGUE1|Commander, any missions available? Please give me the instructions!
+63type|DIALOGUE2|Hm... This place can be adjusted a bit.
+63type|DIALOGUE3|Commander, I received another new improvement plan! Please help me take a look!
+63type|Wedding|Commander, did I make a mistake somewhere again?<>...Eh? That's not it? ...Suddenly bringing this up... I haven't even brushed my teeth yet! Hahaha...<>Of course! Of course I'll accept it, Commander!
+63type|Introduce|Type 63, reporting in! Commander, thank you so much for giving me another chance to learn from you.
+63type|ALLHALLOWS|Tonight's plans? The higher ups have once instructed us before to not believe in these kinds of things. Of course, I'm not talking about the candies.
+63type|DIALOGUEWEDDING|Commander, I've finished preparing plan for today! Now that I have your encouragement, I won't so easily mess up those trivial matters again!
+M1A1|DIALOGUE1|Commander, have you seen Garand?
+M1A1|DIALOGUE2|What are your instructions today?
+M1A1|DIALOGUE3|Ah! Sorry, I thought you were Garand!
+M1A1|Wedding|Commander, why did you choose me and not Garand...<>Eh? Garand, why are you here?<>......Mhm, I will work hard for the sake of Garand too. Commander, please watch me.
+M1A1|Introduce|M1A1, reporting in. Let's overcome these trials together.
+M1A1|ALLHALLOWS|Garand is being surrounded by many people tonight. I have no idea what they're doing... I think I'm going to take a look.
+M1A1|DIALOGUEWEDDING|Commander, today's goal will also be successfully achieved, right? No matter the outcome, I will no longer be scared again as long as you're here.
+AR70|DIALOGUE1|Are you satisfied with my work today, Commander?
+AR70|DIALOGUE2|Are you tired from work? If there is anything you need, feel free to ask. I'll always be here.
+AR70|DIALOGUE3|Commander, you really do care about me, don't you? Perhaps...you'll be giving me a promotion?
+AR70|Wedding|Commander, am I...being promoted?<>You've given me your best treatment all of a sudden... My heart isn't ready yet...<>However, you'll still wait for me, right? Until the day I can completely satisfy you...
+AR70|Introduce|Greetings, distinguished Commander, I'm AR70. I look forward to our time together. I'm sure it'll be wonderful.
+AR70|DIALOGUEWEDDING|Are you satisfied with the sweets today? I've learned quite a lot of new tricks recently. I'll definitely make you happy every day♪
+PP19|DIALOGUE1|Commander, is there any other work to do?
+PP19|DIALOGUE2|It's really hot. Is there no air conditioner here?
+PP19|DIALOGUE3|Commander, don't think that you can bully me just because I'm petite. How about it? Want to give it a go?
+PP19|Wedding|What is with that face, Commander?<>...Huh? What are you...? No, no. I'm saying that why are you suddenly saying something like this! Don't look at me like that, I will also—<>I'm also... fine with it...
+PP19|Introduce|PP-19, reporting in! So you're the Commander eh? Well then, you better remember me!
+PP19|DIALOGUEWEDDING|Commander, you woke up late again today! I'll have to take matters into my own hands if you keep dawdling around like this!
+PP90|DIALOGUE1|Am I deploying today? I'm looking forward to it.
+PP90|DIALOGUE2|Commander, please relax a little bit when you're working, otherwise you make me anxious too.
+PP90|DIALOGUE3|Ouch! Stop pulling my hair! It's real and they're not drills!
+PP90|Wedding|What is it, Commander? ...Is this for me? No wonder you've been so nice to me recently.<>Well, of course I'm happy. This is the happiest moment of my life!<>Since you yourself has trusted me this much, I have to gather up my courage to face myself properly in the future as well.
+PP90|Introduce|I'm PP-90, nice to meet you. I'm waiting for your first order, Commander.
+PP90|DIALOGUEWEDDING|Commander, will you continue to teach me how to cook tonight? Don't worry, I'm in a super good mood right now, so I definitely won't explode again!
+SR3MP|DIALOGUE1|What? Do you want to hear my thoughts?
+SR3MP|DIALOGUE2|Make sure you take good care of me! I'll repay you one day!
+SR3MP|DIALOGUE3|Ahh! What are you doing! I'll call for someone to help me!
+SR3MP|Wedding|Heheh, you couldn't wait any longer, could you, Commander?<>Come on, let me hear your feelings! Louder so everyone can hear it!<>...That's right, just like that! Louder! Even louder!
+SR3MP|Introduce|SR-3MP "Whirlwind", at your service! I've heard rumors about your capabilities and I'd like to take a good look for myself. Be sure to show me what you're made of.
+SR3MP|DIALOGUEWEDDING|Huh? Did you call for me? Call out louder next time so that everyone hears it, heheh. There's no need to be shy. You should be more proud about it.
+6P62|DIALOGUE1|Are you sortieing, Commander? I'm always ready to go.
+6P62|DIALOGUE2|Before deploying, please make sure to correctly calculate the resources that we need so we can complete our objectives in one go.
+6P62|DIALOGUE3|Commander, please refrain from touching the balancer on my back. I'll fall over! ...N-Not the front either!
+6P62|Wedding|Eh? Commander...is this for me?<>Ah... you didn't trade for it with the resources that I've saved for you, right?<>Haha, just joking. Commander, thank you for never giving up on me and giving me a place where I can finally be useful...<>Please let me repay for your guidance with my utmost sincerity.
+6P62|Introduce|Greetings, I'm 6P62. It's fine if you don't recognize me now, as you'll recognize my strengths soon enough!
+6P62|DIALOGUEWEDDING|Commander, we've completed more than the required amount of work again today! It's good to take a break. That's what you've taught me before.
+BrenTen|DIALOGUE1|Commander, did you call for me? I'm right here!
+BrenTen|DIALOGUE2|How long can our funds last? Should we go on more logistical support missions?
+BrenTen|DIALOGUE3|Please stop! Do you know this is illegal? ...Eh, under what jurisdiction? I- I don't know, but I'm sure it's against a law somewhere!
+BrenTen|Wedding|Commander, you can't hold it in any longer, can you? ...You're finally going to tell the truth, right?...<>"We're going to be bankrupt soon!" That's what you want to tell me, right?!<>Eh? ... Eeeh...?! R-Really?! Then I... I'm...<>Wah! Commander, you are too good to me!
+BrenTen|Introduce|A renowned star in the pistol world, Bren Ten, back in action! Commander, please look forward to my first performance!
+BrenTen|DIALOGUEWEDDING|Commander, it's alright. No matter if we go bankrupt or not, I'll never leave you!
+PSM|DIALOGUE1|Commander, is there anything that I can do?
+PSM|DIALOGUE2|It's alright, don't worry about it...
+PSM|DIALOGUE3|Commander, do you also do this to the other girls...?
+PSM|Wedding|I was brought out of the darkness and given the courage to stand on the battlefield. This was all thanks to you, Commander. Now, it's time for me to repay you.
+PSM|Introduce|PSM pistol, reporting for duty! Um...are you perhaps shorthanded, Commander?
+PSM|DIALOGUEWEDDING|Will I be the Echelon leader again next time? ...Ah, I am honored. My present self will never cower anymore.
+USPCompact|DIALOGUE1|Commander, what is your order?
+USPCompact|DIALOGUE2|I might not be the best T-Doll to have a conversation with if you want to chat, but I'll give it a try...
+USPCompact|DIALOGUE3|What are you trying to do, Commander?! if I knew you'd be like this I would have requested for a leave today...
+USPCompact|Wedding|Eh? Commander, how did you come to notice me...?<>Sorry, you must have seen me getting carried away with my self-satisfaction...<>However, not being hated by you is really great. Commander, I really, really am thankful!
+USPCompact|Introduce|USP...USP Compact, at your service from now on...I'm...looking forward to working under you...
+USPCompact|DIALOGUEWEDDING|Commander, what are you looking at? ...Eh? When did you record that? Please delete it immediately!
+M500|DIALOGUE1|Is there something interesting? Wait for me!
+M500|DIALOGUE2|What is it, Commander? You should be a bit more happier when you see me!
+M500|DIALOGUE3|Ah! I'm sorry, I'm really sorry! Commander, stop while you are ahead!
+M500|Wedding|Wah! Commander, are you really serious?! This isn't some kind of punishment game, right?<>Hey! I'm asking a serious question! Since you've always teased me...<>T-Then let me take it seriously. Commander, from this day on, please take good care of me.
+M500|Introduce|Hello Commander! Mossberg 500 shotgun here. I'm very happy to meet you! Quick! Quick! Give me some orders!
+M500|DIALOGUEWEDDING|Commander, let's call everyone here to have a party on the weekend! A lively party is the best!
+RMB93|DIALOGUE1|Is work going smoothly? Maybe you should listen to some of my advice~
+RMB93|DIALOGUE2|I can continue to stay here with you, but there are additional fees for working overtime.
+RMB93|DIALOGUE3|What are your hands doing? This wasn't included in the services that we agreed on.
+RMB93|Wedding|I never once thought that, in the end, you'd do something so scandalous...<>But since we've known each other for so long, I'll relax a bit on the rules and make an exception for you.<>But just this once. No regrets, okay~?
+RMB93|Introduce|RMB-93, happy to serve. Oh! Before that, we'll have to discuss some conditions in the contract for my service before I start.
+RMB93|DIALOGUEWEDDING|Commander, would you like to go on a date this weekend? I've made reservations at a romantic restaraunt a bit further away so that nobody will intrude on us~
+M590|DIALOGUE1|Are you still worried about the next battle? Then, allow me to participate.
+M590|DIALOGUE2|Is there anything that I can do for you? Anything outside of battle is fine as well.
+M590|DIALOGUE3|Although I'm used to the lackadaisical attitude of Mossberg 500, someone like you is something that I've never seen before, Commander.
+M590|Wedding|Um... What is this? Is this a reward for the previous operation?<>I'm joking, of course I know what this means...<>Thank you, Commander. This is the moment I've always been waiting for, and now it has finally come...
+M590|Introduce|Good day to you, Commander. Mossberg 590, reporting for duty. I'm ready for your orders anytime.
+M590|DIALOGUEWEDDING|Commander, do you want me to clean your room next week? Although, you should make sure to hide your things properly this time.
+KSG|DIALOGUE1|The operation can start at any time, so please be well prepared.
+KSG|DIALOGUE2|Has the training data from last time been released yet? Perhaps I still have room for improvement.
+KSG|DIALOGUE3|Please stop, Commander. Do not test my patience and reflexes.
+KSG|Wedding|This moment has finally arrived, huh...<>Although I told myself to be prepared for it, my heart's still beating furiously in my chest.<>I will slowly get used to it, Commander. This is a new beginning, and I...am deeply honored.
+KSG|Introduce|Am KSG shotgun has joined your team. Commander, where are the targets that need to be eliminated?
+KSG|DIALOGUEWEDDING|Is this the plan for the next operation? I believe that your good judgement...hasn't and will never change.
+M1887|DIALOGUE1|Are you pretending to be deep in thought again, Commander?
+M1887|DIALOGUE2|If you are going to avoid work, don't let me find out, okay?
+M1887|DIALOGUE3|It seems that self-destructive behavior is in your nature.
+M1887|Wedding|Hm... I judge this to be logically sound in the face of our objectives.<>However, it was your emotions that drove you to do this, correct?<>I can understand... as I'm also happy from the bottom of my heart.
+M1887|Introduce|Shotgun M1887. Glad to see you here, Commander. For the time being, do you mind helping me with my luggage?
+M1887|DIALOGUEWEDDING|Did you see the movie last night? The imaginations of the people of the past... It just looks ridiculous now, doesn't it?
+97typeS|DIALOGUE1|Commander, are you heading out for a mission? Come find me whenever you need help.
+97typeS|DIALOGUE2|I really hope that these peaceful days will last forever.
+97typeS|DIALOGUE3|Commander, you seem down today! If you have anything to say then say it properly.
+97typeS|Wedding|Commander, I've known how you've felt since a long time ago.<>But it's a little embarrassing to hear you say it out like this...<>Anyways, why don't we go on a walk together first?
+97typeS|Introduce|Commander, Type 97 Shotgun reporting! I'm honored to be under your command. Please be sure to send me on plenty of missions!
+97typeS|DIALOGUEWEDDING|Commander, would you like to rest for a bit? I have some freshly picked fruits here, planted by yours truly.
+KS23|DIALOGUE1|You need something, Commander?
+KS23|DIALOGUE2|What's the problem?
+KS23|DIALOGUE3|Please do not touch me...
+KS23|Wedding|Wait, what are you talking about, Commander? Are you serious!<>...I got it. I..I don't hate it, but everyone will tease me now...<>Eh? Where did you all came from? I don't want your blessings, get out of the way!
+KS23|Introduce|KS-23. Did I surprise you, Commander? Well, in any case, I'll be counting on you.
+KS23|DIALOGUEWEDDING|People brought gifts again? Sigh... It's all because of you that I'm geting more and more popular recently.
+Ithaca37|DIALOGUE1|Uh huh! Just like that. Please admire me to the fullest.
+Ithaca37|DIALOGUE2|My name is Ithaca, don't you dare get it wrong even in your dreams~
+Ithaca37|DIALOGUE3|I appreciate your feelings for me, Commander, but if that gets in the way of work, I'll be scolded too.
+Ithaca37|Wedding|So...you have always cherished me, Commander, but I've never realized it until now.<>I have always only paid attention to myself and didn't realize your genuine feelings...I'm truly sorry for that.<>I will definitely make it up to you, so please look forward to it.
+Ithaca37|Introduce|You can call me Ithaca. I'll be joining your ranks so let's all have a good time, Commander.
+Ithaca37|DIALOGUEWEDDING|Do you want to hang out after work? I have been working overtime with you for so long, I believe some compensations are in order?
+RO635|DIALOGUE1|Is there a mission, Commander?
+RO635|DIALOGUE2|Hm? What's wrong? Let me take a look.
+RO635|DIALOGUE3|M16? ...That person...is coming today? ...Ah no, just say I'm here...
+RO635|Wedding|I'm sure you have your reasons for choosing me...<>But, please don't stand so close, because everyone...everyone's watching... I'm so embarassed!
+RO635|Introduce|Nice to meet you, Commander. RO635 is on standby, awaiting your orders.
+RO635|DIALOGUEWEDDING|Get rid of this ridiculous picture! You only beat me once in a game, I won't hold back next time!
+OC44|DIALOGUE1|Are you still busy working, Commander? Isn't it time to relax?
+OC44|DIALOGUE2|Whatever you need, whether it's red tea or wine, I can always be of service~
+OC44|DIALOGUE3|Commander! You haven't seen me angry before! I'm gonna show you now! I'm serious!
+OC44|Wedding|Ah...such bliss... Who could have thought that it would be me...<>I might have used up all of my luck...<>But, it's alright. Even if I lose everything now, as long as you are with me, I'll forever be blessed...Commander...
+OC44|Introduce|I finally get to meet you, Commander!~ I'm OTs-44, may I stay here with you?
+OC44|DIALOGUEWEDDING|What game are you playing? Let me play with you. Just like before, don't forget to reward me when I win!
+G28|DIALOGUE1|Ah? What did you say? I didn't catch that! ...Hehe, just kidding.
+G28|DIALOGUE2|Commander, having just me is enough, right? ...At least, you're gonna be happy, right?
+G28|DIALOGUE3|Hehehh, I'm very happy that you like me, but it's gonna be troublesome if other people see us.
+G28|Wedding|Commander...is this...really for me?<>Hahahh, I win! This is won purely by my own strength!<>Come on, Commander, let‘s shout louder! Let the world hear the sound of our happiness!
+G28|Introduce|Sniper Rifle G-28! Commander, if you have no objections then please take me home with you!
+G28|DIALOGUEWEDDING|Commander, do you still want to participate in the cooking competition this weekend? Of course...there will still be my special treats afterward...
+FN57|DIALOGUE1|Hehe...Commander, wanna hear something good?
+FN57|DIALOGUE2|Who are the squad members today? I look forward to your choice.
+FN57|DIALOGUE3|Oh? Still not satisfied? You need to stop when I say stop.
+FN57|Wedding|Commander...this moment has finally come....<>The more people and affairs I deal with, the more I lose myself, but you always pulled me back when I needed help the most.<>Thank you, please let me stay with you from now on and become your most trusted partner.
+FN57|Introduce|Oh my, you're my Commander huh? Well you better take good care of me, because I'll have you fall in love with me soon enough.
+FN57|DIALOGUEWEDDING|Do you want to go shopping together this weekend? I've found something really nice. It won't break your wallet this time, because I picked it out for you~
+MT9|DIALOGUE1|Commander, are you prepared for departure?
+MT9|DIALOGUE2|Did you see the combat record from last time? How did I do?
+MT9|DIALOGUE3|Hey, Commander! Didn't you call me here for special training?!
+MT9|Wedding|You have never abandoned me for my upbringing, even when I was very depressed...<>If it wasn't for your persistence, I might had lost faith in myself...<>So now, I won't discouraged again! I'll hold my head high and face the future with you!
+MT9|Introduce|Taurus MT-9! Please lead us to victory, Commander!
+MT9|DIALOGUEWEDDING|That hand-made trinket last time, did everyone like it? You are always encouraging me, I should have more confidence in myself!
+SSG69|DIALOGUE1|Need me to do something? I won't do it if it's too ordinary~
+SSG69|DIALOGUE2|Let me finish your report. I'll make it very pretty~
+SSG69|DIALOGUE3|Commander, this isn't something people like you would do, right? Like messing up other people's clothes...
+SSG69|Wedding|Oh, so it seems...you're finally acknowledging my charm.<>We have already come so far together, and we already have such a perfect synergy with one another.<>Alright, deeply embrace me to commemorate this moment!
+SSG69|Introduce|Hello Commander, am I late? Did I miss anything interesting?
+SSG69|DIALOGUEWEDDING|Commander, did you practice the dance from last week? We're going to be the best pair at the next dance party~
+Shipka|DIALOGUE1|Recreational activities? I'm not interested in that rowdy stuff.
+Shipka|DIALOGUE2|If you have too much spare time, you should watch some more history shows.
+Shipka|DIALOGUE3|Commander, where are your manners? You...you are not the Commander I know!
+Shipka|Wedding|Eh?... Are you serious?<>Sorry...I was butting heads with you so much before...I wasn't doing it on purpose...<>What? You knew? Hmph...you've been playing with me this whole time...
+Shipka|Introduce|Shipka has arrived, Commander. I'll be looking forward to the welcoming ceremony.
+Shipka|DIALOGUEWEDDING|Commander, did you like my performance last time? It seems like I've been getting more popular!
+AEK999|DIALOGUE1|Ah, sorry! What were you saying?
+AEK999|DIALOGUE2|Is it going to rain today? Commander, let's bet!
+AEK999|DIALOGUE3|My intuition tells me that Mr. Right is going to appear... Hey, why did you interrupt me, Commander?
+AEK999|Wedding|Eh? Your choice is...really me?!<>Jeez! ...Although, I do like it.<>Well, I understand... Then, let me become your most power asset!
+AEK999|Introduce|You're the Commander, right? AEK-999, the fate of this name shall now be passed onto you!
+AEK999|DIALOGUEWEDDING|Commander, did you pick out the background music for the next battle? I'm looking forward to a new style!
+IWS2000|DIALOGUE1|Commander, do you need help with anything? Any work for me is fine.
+IWS2000|DIALOGUE2|Let me know if you need me. I hope to improve myself.
+IWS2000|DIALOGUE3|C-Commander! Is this a fitting behavior of a gentleman? Please stop!
+IWS2000|Wedding|I...have been looking forward to the arrival of this day.<>I worked hard towards being trusted and relied on by you, and that has always been the reason for my very existence...<>Please allow me to stay with you forever, Commander.
+IWS2000|Introduce|IWS 2000, reporting. Commander, let me become your most trustworthy asset.
+IWS2000|DIALOGUEWEDDING|Today I'm wearing the hairband you gave me. I've lost it a few times, but I've always got it back.
+CZ75|DIALOGUE1|Commander, do you have any spare cash lately? Ah, nevermind.
+CZ75|DIALOGUE2|...It's too noisy outside? But everybody's happy, isn't that the most important thing?
+CZ75|DIALOGUE3|Wh-what?! Not ergonomic enough?... What's that supposed to mean? I'm gonna hit you!
+CZ75|Wedding|Huh? Commander, this order is...<>I got it... I have been waiting for this order for a long time...<>So you need to stay with me to make up for the time I've lost~
+CZ75|Introduce|Huh...so you're that rumored Commander. This is CZ75, don't you dare put me on standby, you hear?
+CZ75|DIALOGUEWEDDING|It was such an occasion that you weren't late for our date last time, where do you wanna go this time? I can consider rewarding you~
+Ash127|DIALOGUE1|Commander, are you trying to make sense of the value of my existence?
+Ash127|DIALOGUE2|The outside world is the area where information can't be integrated. I should just stay in my room.
+Ash127|DIALOGUE3|So that's how it is... That's how you knew about me? Maybe...it's worth consulting.
+Ash127|Wedding|Commander, this is...the answer you've observed? To assign such a high value to me, you must already be prepared...<>Then, let us begin to get to know each other on a deeper level...to understand "happiness"...
+Ash127|Introduce|ASh-12.7... Commander identification complete... Standby mode engaged, over.
+Ash127|DIALOGUEWEDDING|Commander, how many shared memories have we created recently? Let me just confirm...❤
+ColtSCW|DIALOGUE1|The atmosphere at this workplace is pretty nice. Is it all thanks to you, Commander?
+ColtSCW|DIALOGUE2|It would be nice to fly like the birds, but I think lazy days suits me better...
+ColtSCW|DIALOGUE3|Commander, how could you do something like this in public... Don't think I won't hit you...
+ColtSCW|Wedding|Commander, have I...grown to be what you were hoping for?<>Such a beautiful scene, never before seen even from the skies...<>I'm the one who will fly alongside you, and that will forever stay true...❤
+ColtSCW|Introduce|So you're my Commander? ...Hmm, you've got a sharp eye for picking me. I'll be in your care from now on.
+ColtSCW|DIALOGUEWEDDING|Commander, let's do rock-paper-scissors to decide who washes the dishes tonight~ Even if I lose, you will still stay with me, right? Hehe ♪
+M1897|DIALOGUE1|Woo... is my sister not here? Great!
+M1897|DIALOGUE2|Are we about to have a mission briefing? let me clean the meeting room first.
+M1897|DIALOGUE3|Wooahh! C..Commander, don't scare me like that!
+M1897|Wedding|Commander, why did you take me here all of a sudden?<>Woah! Th-this is for me? Really?! I...I...I-I-I!<>Wwaah! I am so happy! This moment of joy, I will forever cherish it...❤
+M1897|Introduce|I'm M1897, Commander. Whether it be cleaning or fighting, I'm going to give it my best!
+M1897|DIALOGUEWEDDING|Commander, do you want to have dinner first or a bath first? Rest first or make preparations first? Train first or clean first? ....first?
+Saiga12|DIALOGUE1|Commander, isn't it about time you return the photo album you borrowed last time?
+Saiga12|DIALOGUE2|Commander, please look after 47. Don't let her drink too much...
+Saiga12|DIALOGUE3|What are you doing? ...What? There's something dirty on my clothes? Where..where is it?!
+Saiga12|Wedding|Commander, this...pure bliss... Does it really belong to me?<>Thank you... I'm so grateful that you accepted me.<>Let us polish this happiness together and keep it clean forever.
+Saiga12|Introduce|I'm Saiga-12! Commander, leave the trash in your way for me. I will clean them up!
+Saiga12|DIALOGUEWEDDING|Ah, Commander, is your training over? Good work! Come, I've got the bath ready for you~❤
+SuperShorty|DIALOGUE1|Commander, do you know where 500 is hiding?
+SuperShorty|DIALOGUE2|I think...we should better prepare for the next battle in advance?
+SuperShorty|DIALOGUE3|Alright, keep admiring my figure, I'm quite proud of it~♪
+SuperShorty|Wedding|Although I was already aware of it, I didn't know it would come so soon...<>if I can stay beside you from now on, then I would be the happiest forever...<>Aaaahhh! I probably look really dumb right now, right? Take responsibility!
+SuperShorty|Introduce|Super-Shorty! ...Commander? Look down, I'm down here!
+SuperShorty|DIALOGUEWEDDING|Commander, don't buy children's clothes for me next time... I can't go on a date with you dressed in that sort of clothing...
+SPAS12|DIALOGUE1|My shield has been modified again, not bad right?
+SPAS12|DIALOGUE2|Got any more potato chips? ...Relax, snacks aren't going to make me fat!
+SPAS12|DIALOGUE3|Hehe, do you like my style? Keeping up appearance on the battlefield is also very important!
+SPAS12|Wedding|Commander, got new snacks again? ...Wooahh! Th..this is...!<>Is this not an act? Am I the true heroine right now...?!<>Since you have made your decision, I won't allow you to change your mind in the future!
+SPAS12|Introduce|Hello Commander, it's SPAS-12! Allow me to become your impregnable shield!
+SPAS12|DIALOGUEWEDDING|Commander--! I promise this is the last bag of snacks for today! So give it back!
+HK45|DIALOGUE1|Are you bored, Commander? Let's dance!
+HK45|DIALOGUE2|I'm not like USP... I'm way cuter!
+HK45|DIALOGUE3|Commander, you can't simply do as you please just because I'm so mesmerizing.
+HK45|Wedding|Ah, do you finally want to ask me for a dance, Commander?<>Sure, I will dance with you, because you're such a cute and charming dance partner!<>From now on, let's dance the steps of our happiness together!
+HK45|Introduce|Pleased to meet you, Commander. It's me, the cute and charming Gr HK45! Now, may I ask you for a dance?
+HK45|DIALOGUEWEDDING|Commander, do you still remember the dance steps I taught you last time? Please don't step on my foot this time!
+Spitfire|DIALOGUE1|Is big sister 75 here? ...Oh, you're fine too, Commander. I'll be under your guidance.
+Spitfire|DIALOGUE2|Ah? Ah?... Sorry, I was testing the speakers. Was it too loud?
+Spitfire|DIALOGUE3|To do this sort of a thing to a lady...be careful about losing your pinkie, dear Commander.
+Spitfire|Wedding|Dear Commander, you are quite charming today...<>If you had shown me this side of you earlier I wouldn't have waited this long.<>But that's alright, we've got a long way to go, and I intend to discover more of you.
+Spitfire|Introduce|Name's Spitfire, Commander. Although I'm not as good as my elder sister, CZ75, I'll still give it my all to achieve victory for you.
+Spitfire|DIALOGUEWEDDING|Dear Commander, please stay with me for voice training today. I've been waiting for this moment for a long time...
+PKP|DIALOGUE1|A battle plan will be perfect as long as my name is on it.
+PKP|DIALOGUE2|PK? You won't catch up to me with this sort of insincere goodwill.
+PKP|DIALOGUE3|I have bad news for you... Your diagnosis report is about to be finished.
+PKP|Wedding|I have never imagined that there was any meaning in relying on others.<>But as long as I am with you, "I can't do it" is no longer scary.<>Have I become stronger or weaker, Commander? You tell me.
+PKP|Introduce|Let me tell you some good news, Commander...you've just obtained thetrump card for victory.
+PKP|DIALOGUEWEDDING|Tch, this job is quite tricky... Hey, let's get this done together, alright?
+RFB|DIALOGUE1|Mmm! It's a new game! I'm ready!
+RFB|DIALOGUE2|Hmpf, I've figured out a new secret move. I'll beat Am KSG next time!
+RFB|DIALOGUE3|Commander, If you don't have enough affection points, don't try this option~
+RFB|Wedding|So your strategy has finally reached this stage, Commander...<>Hehe, don't think that this will clear the level, as the real game has just begun~<>I will tell you the rules for the real game right now...❤
+RFB|Introduce|Hello, I'm Am RFB! This game full of challenges is starting right now!
+RFB|DIALOGUEWEDDING|Commander, are you done with work yet? The next maze is about to be closed, so hurry up and meet me online.
+Ribeyrolles|DIALOGUE1|This blood bag? Hm...no worries, I won't die.
+Ribeyrolles|DIALOGUE2|I'll be fine... From as far as I can remember, my only strong point is being tough...
+Ribeyrolles|DIALOGUE3|Ouch!... You are using too much force, Commander...
+Ribeyrolles|Wedding|Commander, is this...okay? Didn't I cause a lot of trouble for you?...<>But, if you insist on it, I won't refuse...<>After all, I have nobody else to rely on besides you...
+Ribeyrolles|Introduce|Ribeyrolles 1918. Commander, I'll be in your care from now on... Perhaps you should add an extra hospital bed.
+Ribeyrolles|DIALOGUEWEDDING|Commander, please tend to my wounds today as well.. Only you can treat it well...
+NPC_Green|DIALOGUE1|Commander, fight without worry. I'll handle the logistics.
+NPC_Green|DIALOGUE2|Which T-Doll needs help? Feel free to let me know.
+NPC_Green|DIALOGUE3|Well...Commander, we're still working, so it's not good to let everyone see you like this.
+81typeR|DIALOGUE1|Commander, would you like coffee or milk? Relax a little.
+81typeR|DIALOGUE2|Do you have any suggestions for my service today? You are welcome to leave your comments in the suggestion box.
+81typeR|DIALOGUE3|Commander, if you keep doing that, I'm going to security.
+81typeR|Wedding|Commander, is this the destination you've hoped for? <>Whether if it's the beginning or the ending, only my companionship will remain constant...<>From now on, please let me accompany you to the destination of happiness together...❤
+81typeR|Introduce|Pleasure to meet you, Commander, and thank you for choosing me, the Type 81 Carbine. I will take you to your destination: Victory. Please relax and enjoy the wonderful journey ahead.
+81typeR|DIALOGUEWEDDING|Commander, has my service been much more attentive lately? Of course, it's all worth it if it's for you. ❤
+ART556|DIALOGUE1|Are you interest in my ears? Heh heh, pretty cool, right?
+ART556|DIALOGUE2|Today we are gonna prank MT9 again, but it's gonna be boring if we keep doing the same thing. Commander, do you have any new ideas?
+ART556|DIALOGUE3|Yes, yes...ear...right there! Just a little higher...
+ART556|Wedding|Commander, are you also tired of this boring life?<>Come, I can give what you want...and what you didn't even know you wanted...<>Let's fill the future with happiness and fun together... by any means necessary!
+ART556|Introduce|Heyo! Good to see you Commander! I'm ART55--uwah! ...I-I bit my tongue...it's 556...
+ART556|DIALOGUEWEDDING|Commander, did you open my present from our last date? ...Hehe~, was it enough to suprise you for a whole night?
+MP40_0|DIALOGUE1|Ah! You scared me!
+MP40_0|DIALOGUE2|I-I didn't gain weight! Speaking of which, Commander, don't just go around touching people!
+MP40_0|DIALOGUE3|The concept of "component standardization" in manufacturing only came into existence because of me.
+MP40_0|Wedding|What are the plans for today, Commander?<>Eh? This--... To bestow such an honor upon me, I never would've expected this.<>I'm extremely happy! Thank you very much, Commander!
+MP40_0|Introduce|Commander, I will do my best for you!
+MP40_0|ALLHALLOWS|The kids will play tricks on you if you don't give them candy… What a weird custom… I'm not really used to it...
+MP40_0|DIALOGUEWEDDING|Commander, how was my piano perfomance last time? Expressing my feelings through the prim and orderly music score was something that I learn from you while at your side... Were you able to notice it?
+MLEMK1_0|DIALOGUE1|Just give the order...
+MLEMK1_0|DIALOGUE2|I feel reassured if it is you, Commander.
+MLEMK1_0|DIALOGUE3|This uniform…I'll treasure it deeply.
+MLEMK1_0|Wedding|Thank you for your care all this time, Commander, but am I truly the right person for you?<>No, in fact, I'm extremely elated!<>From now onwards, please let me guard you forever. It would be an honor of a lifetime!
+MLEMK1_0|Introduce|I, Lee Enfield, will be assigned to you from now on.
+MLEMK1_0|ALLHALLOWS|I heard that there will be a masquerade ball tonight. I have already prepared my costume!
+MLEMK1_0|DIALOGUEWEDDING|Commander, have you finished reading the book that I recommended? ...Coincidentally, I've just re-read it. I want to hear your thoughts about it.
+MLEMK1_0|VALENTINE|Valentine's Day… Well, it's not that special of a day. Please focus on your work instead!
+NEGEV_0|DIALOGUE1|What do you want to know?
+NEGEV_0|DIALOGUE2|A specialist like me is more than enough!
+NEGEV_0|DIALOGUE3|What is it that you want to know that renders you so impatient... Eh! Who- Who the heck would tell you!
+NEGEV_0|Wedding|What would you like for me to teach you today?<>Wh-what! I can't help you with that kind of thing!<>Huh?! Teach me?! B-But I, I...<>Fine, just this once...
+NEGEV_0|Introduce|Combat Specialist "Negev." I'll be the resident specialist from now onso don't be afraid to rely on me.
+NEGEV_0|ALLHALLOWS|Halloween, huh... Isn't this a children's holiday? A-Ah! Don't surprise me like that, that was scary!
+NEGEV_0|DIALOGUEWEDDING|Commander, are you tired? Thirsty? Or are you hungry? Just imagine a world without me... Impossible, right? Therefore, we are forever inseparable.
+Grizzly_0|DIALOGUE1|You can't just sit all day, Commander. Fancy a drive with me?
+Grizzly_0|DIALOGUE2|Don't get the wrong idea, okay?
+Grizzly_0|DIALOGUE3|Don't rely on me too much, Commander. You can do perfectly fine on your own...
+Grizzly_0|Wedding|Oh? Do you want something from me, Commander?<>Huh? Are you kidding?! I think of you as a friend, but you...you wanna...<>Not that I hate it, but at least give me...some time to prepare...
+Grizzly_0|Introduce|Oh? Why if it isn't the Commander. Grizzly MkV, I'll be tagging along from now on.
+Grizzly_0|ALLHALLOWS|What's the plan tonight, Commander? ...Oh? Whose apple cider is this? I'm helping myself!
+Grizzly_0|DIALOGUEWEDDING|Wanna drive me home after work, Commander? Your driving sure did impress me last time. Show me more tonight.
+G36_0|DIALOGUE1|Feel free to let me know if there is any problem.
+G36_0|DIALOGUE2|How about a second helping, Master? There are freshly fried sausages.
+G36_0|DIALOGUE3|It is my duty to answer my master's needs.
+G36_0|Wedding|I have only been able to give my all because you need me, Master.<>From now on, please let me stay by your side as your bespoke maid.
+G36_0|Introduce|Guten tag. I will exclusively serve as your maid from now on, master.
+G36_0|ALLHALLOWS|Commander, you shouldn't be spoiling everyone so much. You've given out too much candies tonight. They might not be able to go into battle if they get cavities.
+G36_0|DIALOGUEWEDDING|It's going to be another busy day today, yet you're the only one that knows how hardworking I am...So, is there anything you'd like me to get for you? I'll continue to keep this a secret from everyone.
+BB_Noel|DIALOGUE1|Ouch!
+BB_Noel|DIALOGUE2|I'll never admit defeat!
+BB_Noel|DIALOGUE3|Please stay out of my way!
+BB_Noel|Wedding|Commander, I've always faintly seen the shadow of Mr. 'Grim Reaper' on you.<>Thanks you, whether it's this world or that one, please don't lose yourself in dreams ever again.<>From now on, please let me fight for your sake!
+BB_Noel|Introduce|I must keep on going, so please, could you get out of my way?
+BB_Noel|DIALOGUEWEDDING|Commander, I prepared this meal for you. Please be sure to finish it~
+BB_Noel_503|DIALOGUE1|Sorry...
+BB_Noel_503|DIALOGUE2|Any problems?
+BB_Noel_503|DIALOGUE3|I can't...see anything...
+BB_Noel_503|Wedding|Commander, is this...an illusion?<>Don't tell me...this was what I wished for?<>Thank you, Commander, I won't ever be lost again!
+BB_Noel_503|Introduce|I must keep on going, so please, could you get out of my way?
+BB_Noel_503|DIALOGUEWEDDING|Commander, if you touch me there... Eh?! Murakumo Unit, activating!
+GG_elfeldt|DIALOGUE1|If things go on like this, my perfect husband will be...
+GG_elfeldt|DIALOGUE2|Sign your name here and we will become a married couple!
+GG_elfeldt|DIALOGUE3|Your face...it's too close!
+GG_elfeldt|Wedding|If you want it like this, then the two of us must love each other forever, just as we are now as newlyweds!<>We'll call each other honey, sweatheart, and that sort of thing!<>If our story can be adapted into a movie, how about the title "My Wife is a Dimensional Invader"?...Ahh, my imagination is running wild~
+GG_elfeldt|Introduce|Women are always fighting on the battlefield of love! Do not underestimate the amount of the battles that we've come across!
+GG_elfeldt|DIALOGUEWEDDING|No, darling, I'm already full... Ah! Drool...
+TMP|DIALOGUE1|Why...are you looking at me like that?
+TMP|DIALOGUE2|If only the Commander would pet my head... Eh?! Commander? D-Did you hear that?
+TMP|DIALOGUE3|Commander! Pl-please don't stand so close! Uwoo...
+TMP|Wedding|C-Commander! Why did you ask me to come here alone?<>Eh? This...isn't an illusion? ...It's real?!<>Uwaah! ...If this is a dream, then please let me sleep forever...
+TMP|Introduce|Co-Commander, pleased to meet you. I'm Steyr TMP...pl-please don't look at me like that! I'm begging you...
+TMP|DIALOGUEWEDDING|Commander... Umm...you haven't touched my tail today yet, have you? Please don't forget to do it.
+T91|DIALOGUE1|Would you like a cup of milk tea, Commander? Large or extra large?
+T91|DIALOGUE2|If my training opponent is M16 next time, then that would be something worth looking forward to.
+T91|DIALOGUE3|Commander? What are you doing? ...Isn't such behavior forbidden?
+T91|Wedding|Commander... Yes! I'm ready!<>Is this what I wanted...and the answer that you were expecting?<>Thanks... No, what I meant was....I'm very happy. ❤
+T91|Introduce|Pleasure to meet you Commander! My name's T91, and I will give everything I've got to accomplish your orders!
+T91|DIALOGUEWEDDING|Commander, What happened to the cup of milk tea I left here? ...What? You drank it again?!
+PzB39|DIALOGUE1|Are you asking me for combat suggestions? ...Just write whatever. I'll know what to do once the fighting starts.
+PzB39|DIALOGUE2|Leave any high-value targets to me. This child has quite an appetite.
+PzB39|DIALOGUE3|Commander, the clothes I'm wearing are more expensive than guns. Take care to not damage it.
+PzB39|Wedding|What's wrong, Commander? What are you being all sneaky for?<>T-This is?! ...Hello? Have you gone mad?<>Let me check you heartbeat... Please don't move, and just hold this pose...❤
+PzB39|Introduce|I'm PzB39, Commander. I'll be under your care from...hm? What's wrong? Relax, there's no need to be so nervous.
+PzB39|DIALOGUEWEDDING|Commander, I've worked so hard today, you should at least give me some praise... I really shouldn't have to teach you basic courtesy!
+KLIN|DIALOGUE1|Commander, you are the first one to talk to me today. Not bad at all!
+KLIN|DIALOGUE2|Don't let others get in my way in combat. I take no responsibility if anyone gets hit by friendly fire!
+KLIN|DIALOGUE3|Stop lounging around in front of me! If you have so much free time then find something important to do!
+KLIN|Wedding|Commander, you are the first one who has dared to do this.<>Am I really...the Number One in your heart?<>Don't worry! I'll never let anybody else overtake me on this ranking!
+KLIN|Introduce|KLIN's gonna be the number one Grifon T-Doll! Commander, you better remember this moment!
+KLIN|DIALOGUEWEDDING|Commander, occasional laziness is fine, but don't think that you can do whatever you want just because you are the Number One in my heart!
+F1|DIALOGUE1|The air is crystal clear, stars are shining like fireworks~ The outside world is so wonderful! Let's get out more!
+F1|DIALOGUE2|“Pack your bags, and go on a journey with me~” Are you prepared to head out with me, Commander?
+F1|DIALOGUE3|Stop! You're interrupting my inspiration!
+F1|Wedding|Dancing petals~ drifts into my heart~<>"Your feelings~ pours in along with them~"<>"My poem of happiness will be yours forever~❤"
+F1|Introduce|G'day mate~ So you're my new Commander eh? Name's F1, "Jungle Poet".I occasionally dabble in a little bit of combat as well~
+F1|DIALOGUEWEDDING|Commander, I just thought up of another love poem! Let me read it to you later!
+DSR50|DIALOGUE1|Commander, in regard to your method in using me...you should be a bit more careful.
+DSR50|DIALOGUE2|The battle plan can be a bit more aggressive... It's alright, this is what I want.
+DSR50|DIALOGUE3|Commander, if you have the need, come to my dorm alone tonight...
+DSR50|Wedding|Commander, I know what this means...<>I never expected that you would be the one to seize the initiative.<>Hehe...you only got lucky this time. You didn't think that this would be the end of it, did you~? ❤
+DSR50|Introduce|Gd DSR-50. I'm sure you'll be uttering my name in your dreams, Commander...fufu...
+DSR50|DIALOGUEWEDDING|Commander, I'm looking forward to tonight's surprise. Don't let me down~
+UMP40|DIALOGUE1|Commander, let's play hide and seek!
+UMP40|DIALOGUE2|Uwah! ...Huhu, you thought I was scared? It was a ruse!
+UMP40|DIALOGUE3|Take me to the beach the next time we get a break! You can bask in the sunshine while helping me put on sunscreen lotion~
+UMP40|Wedding|Commander, what did you need me for today? I'm going to go sunbathing in a bit...<>Eh? No way, right now? You're actually... That's great!<>I'm going to tell everyone that you are mine from now on!
+UMP40|Introduce|MkUMP40 has arrived! Commander, let me help you get rid of those outdated has-beens!
+UMP40|DIALOGUEWEDDING|Commander, is the banquet this weekend still happening? It seems like you do like my friends after all. Everyone here is good people, hehe~
+wz29|DIALOGUE1|Commander, we are only fighting for the sake of peace...right?
+wz29|DIALOGUE2|I want to live among the stars, because then, I won't have to hear the sound of gunfire anymore.
+wz29|DIALOGUE3|Commander, is this your way...to show that you are friendly?
+wz29|Wedding|Commander... have you finally come to understand my ideal?<> I want to always stay by your side to protect you, so...<>Please, protect for me those beautiful stars that I can't protect myself...❤
+wz29|Introduce|I'm wz.29... Commander, is there no other option...but to fight?
+wz29|DIALOGUEWEDDING|Ah! Since when were you here, Commander? Don't tell me, you've been watching me this whole time...? ❤
+Contender|DIALOGUE1|Accuracy first, then firepower after, until the enemies are defeated. Commander, this is my formula for victory.
+Contender|DIALOGUE2|Having trouble coming up with a battle plan? How about some icecream first?
+Contender|DIALOGUE3|Commander, I'm onto your game.
+Contender|Wedding|Commander, was this all a part of your plan?<>You are truly a master tactician. One shot, one kill... Even I couldn't evade it...<>It seems that all of my feelings have reached you, after all...❤
+Contender|Introduce|Every round I fire gurantees a 99% chance of victory. The remaining 1% will require your miracle, Commander.
+Contender|DIALOGUEWEDDING|Commander, please stay with me for today's training too... Oh, I just want to be at my best during training today, and your company is necessary to achieve that.
+T5000|DIALOGUE1|This hairstyle...it stand out a bit too much for a sniper...
+T5000|DIALOGUE2|Commander, do you like watching Tokusatsu, like "Crimson-Souled Kamen"? ...No, nothing, forget I ever asked...
+T5000|DIALOGUE3|Commander, you were peeking at me just now, weren't you?
+T5000|Wedding|Commander, I have been very careful to avoid your gaze...<>Yet, you were always fixated on me...<>I'm already...starting to like that look in your eyes...❤
+T5000|Introduce|Good day Commander, I'm T-5000... My apologies. If my first impression is too overwhelming then please forget about it.
+T5000|DIALOGUEWEDDING|Commander, I've always wanted to ask for a long time. Where did you get the ‘"Crimson-Souled Kamen" poster in your room? Hmm? Could it be...
+Ameli|DIALOGUE1|I can't understand very complicated things, so you just need to tell me the end result, Commander.
+Ameli|DIALOGUE2|Are there any rules saying it's chatting time right now? ...Then I'll consider it as your order.
+Ameli|DIALOGUE3|Commander, you shouldn't touch it, the buttons might pop off and hit you in the face...
+Ameli|Wedding|Commander, isn't this in violation of the rules?<>It seems that I have to make decisions for myself for once...<>If this is your rules, then I suppose it's...okay...❤
+Ameli|Introduce|So I only need to report to you, Commander? ...Then according to the rules, I belong to you now.
+Ameli|DIALOGUEWEDDING|Commander, this is the button that popped off last time... Please help me sew it back on if you have the time.
+P226|DIALOGUE1|M9 can only deceive those hillbillies who don't know any better, but I'm sure you of all people would know who is the better choice.
+P226|DIALOGUE2|Commander, what exactly is your plan ? Let me hear the elite's thoughts.
+P226|DIALOGUE3|Pet him some more. "Buns" seems very happy... I think?
+P226|Wedding|Commander, in the end, only I deserve you, right?<>Congratulations on making a decision that you won't ever regret...<>Let me give you...the happiness that only an elite will enjoy!
+P226|Introduce|Do you need me, the P226 pistol? As expected of the elite Commander, you sure know how to pick them! Please look forward to my performance!
+P226|DIALOGUEWEDDING|Commander, we finally have some alone time together, don't we? Don't worry, "Buns" won't know a single thing...heheh...
+Ak5|DIALOGUE1|Commander, is my package here? ...Ah, sorry, I got carried away and bought too much...
+Ak5|DIALOGUE2|It takes a lot of time to put on this outfit, but it's not bad after I get used to it.
+Ak5|DIALOGUE3|Did my braids catch your attention? Um...well...big sister m45 did it for me.
+Ak5|Wedding|Commander! ...This must have been very expensive, right?<>Is it worth it to spend so much on me?<>Goodness...it seems like you are a better shopper than I am...❤
+Ak5|Introduce|Greetings, Commander. I'm Ak5 and I will answer to your orders from now on with all my effort.
+Ak5|DIALOGUEWEDDING|Commander, please hurry up. We will miss the supermarket sales again if you keep dragging your feet.
+NS2000|DIALOGUE1|This training session has been successfully completed again! You can consider adding a little more load next time.
+NS2000|DIALOGUE2|Should I have spicy or sweet curry today...? Ah, whatever! Bring me both!
+NS2000|DIALOGUE3|Not bad, right? This skin full of vitality is all thanks to the special training!
+NS2000|Wedding|Commander, for this kind of things...we'd better practice in advance, right?<>No, I'm not hesitating...<>when it comes to you, I have no room for choices...❤
+NS2000|Introduce|Hello Commander! I'm NeoStead 2000! ...How did that sound? I practiced that line two hundred times just for you~
+NS2000|DIALOGUEWEDDING|Commander, would you like to eat spicy or sweet curry today? Hurry up and choose one!
+SAT8|DIALOGUE1|Do you want to try this pizza, Commander? ...But this is not delivery, though.
+SAT8|DIALOGUE2|Are you a cat person or a dog person, Commander? Anything is fine with me, even a Sangvis pet is okay.
+SAT8|DIALOGUE3|Eh? What are you doing all of a sudden, Commander? ...At least let me mentally prepare for it!
+SAT8|Wedding|Commander, speaking of mental preparation, I'm still not...<>...Forget it, it's no longer a big deal.<>As long as you are by my side, I'll be counting on you for anything that I'm not prepared for~❤
+SAT8|Introduce|We finally meet, Commander. I've already completed my preparations to deploy with you. Are you ready as well?
+SAT8|DIALOGUEWEDDING|It's not good to always eat pizza, Commander. Wanna try the meat jelly I just made?
+USAS12|DIALOGUE1|It seems that I'm on duty today... Ask Saiga 12 if she has any more of those "instant noodles" later.
+USAS12|DIALOGUE2|I'm a highly trained T-Doll, so let me teach you some "academic" combat strategies~
+USAS12|DIALOGUE3|I-Is this how humans show their friendliness? ...O-of course I knew that! I'm very knowledgeable of this sort of things!
+USAS12|Wedding|C-Commander! ...What are you trying to do...<>Eh? I can be happy if I just wear this?<>A-Alright... As for how a happy life should be, I'll have you teach me.
+USAS12|Introduce|You've arrived a bit earlier than expected. But this welcoming ceremony...this barely gets a passing grade~ Anyhow, I look forward to working with you, Commander~
+USAS12|DIALOGUEWEDDING|Eh? You want me to help with cooking again? Tch, you just want to laugh at me when I mess up, don't you?
+M12|DIALOGUE1|Commander, do you have any orders for me? I'm ready to deploy any time.
+M12|DIALOGUE2|Don't worry, Commander, I'll try my best.
+M12|DIALOGUE3|Popularity? That kinda things doesn't matter to me, I just need to do well at my job.
+M12|Wedding|C...Commander, is it for real? Even if you say that, how do I work hard on something like this? But...it's alright, as long as I'm with you, we can overcome any problems, right?
+M12|Introduce|Ciao! M12 submachine gun will be following your orders from now on. Commander, do you want me to sortie immediately?
+M12|DIALOGUEWEDDING|Commander, did you run into any trouble today? We've been through worse, don't give up so easily~
+JS-127|DIALOGUE1|Which T-Doll pranked you today, Commander? Come on, tell me~
+JS-127|DIALOGUE2|Working hard is good, but it's also necessary to relax once in a while... Huh? I was talking about myself.
+JS-127|DIALOGUE3|My fringe is styled at a different angle today, did you notice?
+JS-127|Wedding|Actually, I already knew since the first time I met you...<>You were more gentle and adorable than what I had imagined, so I decide that...<>From now on, I want to get closer to you and have you etched into my Neural Cloud. ❤
+JS-127|Introduce|If I remember correctly it should be somewhere around here...eh? You're the Commander? I thought you would be more...Ah! No, it's nothing...
+JS-127|DIALOGUEWEDDING|Commander! Go ahead, smell my hair and guess what shampoo I used today. If you answer correctly...

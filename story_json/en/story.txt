@@ -1,0 +1,1799 @@
+[
+	{
+		"num": "1",
+		"name": "EP. 01",
+		"keyword": "Awakening",
+		"keyword_en": "Wake Up",
+		"desc": "I'm sure you want to know how long you've been unconscious for...",
+		"list": [
+			{
+				"type": "일반",
+				"num": "1-1",
+				"name": "Drill",
+				"desc": "Today//c our commander officially reported for duty and started our first drill with my assistance.",
+				"file": ["1-1-1", "1-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "1-2",
+				"name": "Transport the Injured",
+				"desc": "We received our first mission from HQ - scouting S.F. movements in the area.",
+				"file": ["1-2-1", "1-2-2"]
+			},
+			{
+				"type": "일반",
+				"num": "1-3",
+				"name": "Investigate Anomalies",
+				"desc": "A few T-Dolls survived the Sangvis ambush. We escorted them back to base.",
+				"file": ["1-3-1", "1-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "1-4",
+				"name": "Missing Party",
+				"desc": "With the commander providing cover//c the surviving T-Dolls rescued their captured companion.",
+				"file": ["1-4-1", "1-4-2"]
+			},
+			{
+				"type": "일반",
+				"num": "1-5",
+				"name": "Rescue Signal",
+				"desc": "We found the Sangvis Ringleader lurking in the area thanks to information provided by the T-Doll. It seems to be looking for someone...",
+				"file": ["1-5-1", "1-5-2"]
+			},
+			{
+				"type": "일반",
+				"num": "1-6",
+				"name": "Operation Uproot",
+				"desc": "We defeated Scarecrow but couldn't stop it from transmitting key information to its associate.",
+				"file": ["1-6-1", "1-6-2"]
+			},
+			{
+				"type": "긴급",
+				"num": "1-1",
+				"name": "Advanced Training I",
+				"desc": "The commander was invited by Miss Helian to participate in a special operation drill.",
+				"file": ["1-1-1E", "1-1-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "1-2",
+				"name": "Advanced Training II",
+				"desc": "This drill seems to have something to do with talent scouting. Looks like Grifon has very high hopes for our commander.",
+				"file": ["1-2-1E", "1-2-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "1-3",
+				"name": "Advanced Training III",
+				"desc": "The commander asked me about Sangvis Ferri//c but I was more concerned about Miss Helian's missing an appointment again...",
+				"file": ["1-3-1E", "1-3-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "1-4",
+				"name": "Advanced Training IV",
+				"desc": "So Helian is the very \"Mixer Underdog\" in Grifon gossips. This doesn't bode well... Should I help?",
+				"file": ["1-4-1E", "1-4-2E"]
+			},
+			{
+				"type": "야간",
+				"num": "1-1",
+				"name": "Petite Courrier I",
+				"desc": "MP5 is conveying intelligence under the commander's guidance. Her first stop was WA2000. It went well...sorta.",
+				"file": ["1-1-1N", "1-1-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "1-2",
+				"name": "Petite Courrier II",
+				"desc": "MP5 got it touch with P7 and gave her some kind of...\"education\" (?) on behalf of many other T-Dolls. Whatever that means.",
+				"file": ["1-2-1N", "1-2-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "1-3",
+				"name": "Petite Courrier III",
+				"desc": "MP5 ran into a bit of trouble but managed to get out of danger thanks to MG5's threats and G36's bribe. All was well.",
+				"file": ["1-3-1N", "1-3-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "1-4",
+				"name": "Petite Courrier IV",
+				"desc": "With the Commander's help//c MP5 successfully conveyed the intelligence to Miss Helian. But to us//c this is where our work truly begins.",
+				"file": ["1-4-1N", "1-4-2N"]
+			}
+		]
+	},
+	{
+		"num": "2",
+		"name": "EP. 02",
+		"keyword": "Echo",
+		"keyword_en": "The Echo",
+		"desc": "Searching for the way home, one bullet at a time.",
+		"list": [
+			{
+				"type": "일반",
+				"num": "2-1",
+				"name": "Record Trace",
+				"desc": "We tried to look for ways to make amends//c but to no avail. And so we've been ordered to drop all investigations...",
+				"file": ["2-1-1", "2-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "2-2",
+				"name": "Emergency Reinforcement",
+				"desc": "HQ keeps sending us trivial missions. Guess that means we're back to our daily routine...",
+				"file": ["2-2-1", "2-2-2"]
+			},
+			{
+				"type": "일반",
+				"num": "2-3",
+				"name": "Enemy Investigation",
+				"desc": "We repulsed yet another Sangvis guerilla attack. But it's all for naught if HQ doesn't order us to go on the offensive.",
+				"file": ["2-3-1", "2-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "2-4",
+				"name": "Data Collection",
+				"desc": "Persica from 16LAB sent a sudden request for us to collect data under heavy crossfire. Does everyone just let her do as she pleases...?",
+				"file": ["2-4-1", "2-4-2"]
+			},
+			{
+				"type": "일반",
+				"num": "2-5",
+				"name": "Additional Commission",
+				"desc": "Persica still wanted to boss us around. Thank goodness HQ finally ordered us to resume our operation. We can finally return to the battlefield!",
+				"file": ["2-5-1", "2-5-2"]
+			},
+			{
+				"type": "일반",
+				"num": "2-6",
+				"name": "Termination",
+				"desc": "We defeated Executioner and rendezvoused with Elite T-Doll M4A1 of the AR Team. So she's...the one Sangvis Ferri is after?",
+				"file": ["2-6-1", "2-6-2"]
+			},
+			{
+				"type": "긴급",
+				"num": "2-1",
+				"name": "Field Samples Ⅰ",
+				"desc": "The Commander has accepted Persica's request to collect parts of Sangvis units as samples for experiment.",
+				"file": ["2-1-1E", "2-1-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "2-2",
+				"name": "Field Samples Ⅱ",
+				"desc": "Persica doesn't seem keen on contacting M4A1//c even though she'd given us all sorts of aid off the record in finding her...",
+				"file": ["2-2-1E", "2-2-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "2-3",
+				"name": "Field Samples Ⅲ",
+				"desc": "M4A1 got in touch with Persica her and dispelled Persica's sense of guilt for issuing her previous request. It's nice that she no longer feels burdened.",
+				"file": ["2-3-1E", "2-3-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "2-4",
+				"name": "Field Samples Ⅳ",
+				"desc": "We've fulfilled Persica's request//c but initial analysis reveals great differences between the technologies behind Sangvis and Grifon T-Dolls. How on earth did Sangvis Ferri come to be?",
+				"file": ["2-4-1E", "2-4-2E"]
+			},
+			{
+				"type": "야간",
+				"num": "2-1",
+				"name": "Professional Help Ⅰ",
+				"desc": "We provided cover for Thompson's squad to reach their bases. They're gonna assist the military in suppressing rioting armored machines.",
+				"file": ["2-1-1N", "2-1-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "2-2",
+				"name": "Professional Help Ⅱ",
+				"desc": "Thompson managed to put every unruly T-Doll demurely in their place - such tact!",
+				"file": ["2-2-1N", "2-2-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "2-3",
+				"name": "Professional Help Ⅲ",
+				"desc": "The military messed up our plan by advancing the operation//c but we always have an ace up our sleeve...",
+				"file": ["2-3-1N", "2-3-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "2-4",
+				"name": "Professional Help Ⅳ",
+				"desc": "We snatched the data from the control room//c and the military could say nothing about that... Mission accomplished - small revenge also accomplished.",
+				"file": ["2-4-1N", "2-4-2N"]
+			}
+		]
+	},
+	{
+		"num": "3",
+		"name": "EP. 03",
+		"keyword": "Silence",
+		"keyword_en": "Silence",
+		"desc": "The choice of a true hunter.",
+		"list": [
+			{
+				"type": "일반",
+				"num": "3-1",
+				"name": "Clearing a Path",
+				"desc": "The commander's performance so far has been acknowledged by HQ. We've been ordered to press ahead and recover all lost territories in Area S09.",
+				"file": ["3-1-1", "3-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "3-2",
+				"name": "Intercepted Intelligence",
+				"desc": "As we move//c M4A1 has been contacting other members of the AR Team//c from whom she was separated during a certain mission.",
+				"file": ["3-2-1", "3-2-2"]
+			},
+			{
+				"type": "일반",
+				"num": "3-3",
+				"name": "Covert Reinforcement",
+				"desc": "The commander successfully recovered SOP-II from the AR Team//c but learned that AR-15//c who had stayed behind to bring up the rear//c was still missing.",
+				"file": ["3-3-1", "3-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "3-4",
+				"name": "Defensive Operation",
+				"desc": "The Command Post was ambushed. We managed to return just in time to defend it thanks to intelligence provided by SOP-II.",
+				"file": ["3-4-1", "3-4-2"]
+			},
+			{
+				"type": "일반",
+				"num": "3-5",
+				"name": "Swift Counterattack",
+				"desc": "HQ ordered us to search for the local Sangvis Ringleader's base. It's pretty eyecatching//c all right//c but we just can't get in...",
+				"file": ["3-5-1", "3-5-2"]
+			},
+			{
+				"type": "일반",
+				"num": "3-6",
+				"name": "No Hunting",
+				"desc": "Hunter's base fell into disarray all of a sudden//c then AR-15 emerged from within//c covered in injuries. What on earth happened in there...?",
+				"file": ["3-6-1", "3-6-2"]
+			},
+			{
+				"type": "긴급",
+				"num": "3-1",
+				"name": "Data Retrieval Ⅰ",
+				"desc": "I applied for this mission without consulting the commander//c but the commander still decided to accept the challenge even though it was much harder than I expected. All the best!",
+				"file": ["3-1-1E", "3-1-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "3-2",
+				"name": "Data Retrieval Ⅱ",
+				"desc": "We've recovered a few military hard disks but can't read the content... I'm dying to know what's in there... ",
+				"file": ["3-2-1E", "3-2-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "3-3",
+				"name": "Data Retrieval Ⅲ",
+				"desc": "Sangvis forces came after the hard disks//c which means they're a big deal to them. They must contain some kind of important data!",
+				"file": ["3-3-1E", "3-3-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "3-4",
+				"name": "Data Retrieval Ⅳ",
+				"desc": "The commander listened to some of the recordings on the hard disks after the mission and looked a bit grave... Have S.F. still got many aces up their sleeve? ",
+				"file": ["3-4-1E", "3-4-2E"]
+			},
+			{
+				"type": "야간",
+				"num": "3-1",
+				"name": "Anonymous Rescue Ⅰ",
+				"desc": "Makarov requested the commander to assist her in infiltrating Sangvis territory to rescue the trapped Nagant M1895.",
+				"file": ["3-1-1N", "3-1-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "3-2",
+				"name": "Anonymous Rescue Ⅱ",
+				"desc": "Despite Makarov's misgivings toward her aids//c the operation has been going smoothly so far.",
+				"file": ["3-2-1N", "3-2-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "3-3",
+				"name": "Anonymous Rescue Ⅲ",
+				"desc": "We rescued Nagant M1895//c but Makarov's squad ran into danger. I hope her escape plan wouldn't be too outrageous...",
+				"file": ["3-3-1N", "3-3-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "3-4",
+				"name": "Anonymous Rescue Ⅳ",
+				"desc": "Mission accomplished. We have recovered the important item in Nagant M1895's hands. Hopefully it'll prove useful to subsequent operations//c otherwise...",
+				"file": ["3-4-1N", "3-4-2N"]
+			}
+		]
+	},
+	{
+		"num": "4",
+		"name": "EP. 04",
+		"keyword": "Message",
+		"keyword_en": "The Message",
+		"desc": "The storm is coming.",
+		"list": [
+			{
+				"type": "일반",
+				"num": "4-1",
+				"name": "Assist the Mercenaries",
+				"desc": "We provided support and cover for an elite squad in regaining full control over Area S09. Sadly we still never found out who they were in the end.",
+				"file": ["4-1-1", "4-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "4-2",
+				"name": "Cut Off Reinforcement",
+				"desc": "We received prior information about the local Ringleader for this operation//c and we finally got in touch with M16A1//c the last member of the AR Team. All is going well.",
+				"file": ["4-2-1", "4-2-2"]
+			},
+			{
+				"type": "일반",
+				"num": "4-3",
+				"name": "Break Through Enemy Lines",
+				"desc": "\"Intruder\" showed itself and taunted us//c but we had already fought our way into its territory.",
+				"file": ["4-3-1", "4-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "4-4",
+				"name": "Search for Companions",
+				"desc": "As we were heading deeper into enemy territory//c we suddenly received an order to search for that elite squad from before. We seem to have lost track of them...",
+				"file": ["4-4-1", "4-4-2"]
+			},
+			{
+				"type": "일반",
+				"num": "4-5",
+				"name": "Locate the Coordinates",
+				"desc": "That elusive squad seemes to be out of danger and has even left us coordinates denoting the weak spots in the Sangvis base's defense. That's how we managed to get in.",
+				"file": ["4-5-1", "4-5-2"]
+			},
+			{
+				"type": "일반",
+				"num": "4-6",
+				"name": "Eradicate the Disturbance",
+				"desc": "Control over Area S09 is fully restored//c and M16A1 is also back with us. But she has brought unsettling news... What exactly is Plan \"Parapluie\"?",
+				"file": ["4-6-1", "4-6-2"]
+			},
+			{
+				"type": "긴급",
+				"num": "4-1",
+				"name": "Reminiscing Ⅰ",
+				"desc": "While carrying out an investigation suggested by M4A1//c we stumbled across a cryptic audio file that seems to have come from a T-Doll's neural cloud.",
+				"file": ["4-1-1E", "4-1-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "4-2",
+				"name": "Reminiscing Ⅱ",
+				"desc": "SOP-II joined us in the investigation and confirmed the rumors about her... Innocence doesn't necessarily have to be cute//c though she's still pretty cute as she is.",
+				"file": ["4-2-1E", "4-2-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "4-3",
+				"name": "Reminiscing Ⅲ",
+				"desc": "AR-15 also helped//c then gave M4A1 a lecture. She's always so oblique...but nonetheless very reliable.",
+				"file": ["4-3-1E", "4-3-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "4-4",
+				"name": "Reminiscing Ⅳ",
+				"desc": "The AR Team listened to the combined audio recordings and decrypted them with my help. The file they ended up getting was...",
+				"file": ["4-4-1E", "4-4-2E"]
+			},
+			{
+				"type": "야간",
+				"num": "4-1",
+				"name": "One-Week Teammates Ⅰ",
+				"desc": "RO's Report: I am back at Grifon//c leading an ad-hoc squad in search for Document 36. After many days of stagnation//c we are finally making some headway.",
+				"file": ["4-1-1N", "4-1-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "4-2",
+				"name": "One-Week Teammates Ⅱ",
+				"desc": "RO's Report: This is the only human left who knows about Document 36. We must find him ASAP! Come on//c RO//c you can do it!",
+				"file": ["4-2-1N", "4-2-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "4-3",
+				"name": "One-Week Teammates Ⅲ",
+				"desc": "RO's Report: Sangvis Ferri destroyed the city with artillery//c and the status of my teammates is unclear. I don't want to lose any more friends. I have to do something...",
+				"file": ["4-3-1N", "4-3-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "4-4",
+				"name": "One-Week Teammates Ⅳ",
+				"desc": "RO's Report: Mission accomplished. I hope we will have all the fun we can tonight...as I shall be heading over to the AR Team tomorrow to take over from HER.",
+				"file": ["4-4-1N", "4-4-2N"]
+			}
+		]
+	},
+	{
+		"num": "0",
+		"name": "EP. 00",
+		"keyword": "Seed",
+		"keyword_en": "The Seed",
+		"desc": "This is not your grave...but you are welcome in it.",
+		"list": [
+			{
+				"type": "일반",
+				"num": "0-1",
+				"name": "Warm-Up Exercise",
+				"desc": "M4A1's Report: The AR Team is infiltrating Area S09 to retrieve data left behind by a human named \"Lyco\" under Persica's commission.",
+				"file": ["0-1-1", "0-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "0-2",
+				"name": "Dark Information",
+				"desc": "M4A1's Report: The AR Team has located the data in Safe House 3//c but fell into a trap laid by Sangvis Ringleader \"Agent\".",
+				"file": ["0-2-1", "0-2-2", "0-2-3Round2"]
+			},
+			{
+				"type": "일반",
+				"num": "0-3",
+				"name": "Defend the Base",
+				"desc": "M4A1's Report: We managed to stay until the data transfer was complete//c but were chased into a blind alley before we could evacuate from the safe house.",
+				"file": ["0-3-1", "0-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "0-4",
+				"name": "Final Challenge",
+				"desc": "M4A1's Report: We were separated as we fled the battlefield with the assistance of a local Grifon squad//c and were only reunited today...",
+				"file": ["0-4-1", "0-4-2"]
+			}
+		]
+	},
+	{
+		"num": "5",
+		"name": "EP. 05",
+		"keyword": "Kindling",
+		"keyword_en": "The Kindling",
+		"desc": "The wine consumed at a banquet should amount to the blood that was spilled.",
+		"list": [
+			{
+				"type": "일반",
+				"num": "5-1",
+				"name": "Drill Attendance",
+				"desc": "The commander was invited to attend a clandestine meeting to discuss measures of countering Plan \"Parapluie\"//c but lost contact with us five minutes ago. What on earth is going on?",
+				"file": ["5-1-1", "5-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "5-2",
+				"name": "Raid Resistance",
+				"desc": "Sangvis Ferri caught wind of the location of the base and surrounded it. Thank goodness the commander is safe//c and is now entrusted with the counterstrike by Mr. Kryuger.",
+				"file": ["5-2-1", "5-2-2"]
+			},
+			{
+				"type": "일반",
+				"num": "5-3",
+				"name": "Counterstrike",
+				"desc": "Miss Helian found the local Sangvis command post//c but \"Destroyer\" somehow learned of this and managed to give us the slip.",
+				"file": ["5-3-1", "5-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "5-4",
+				"name": "Safeguard Retreat",
+				"desc": "HQ believes AR-15 is the source of the leak and has taken her away... This is ridiculous! How could it be AR-15... This can't be right...",
+				"file": ["5-4-1", "5-4-2"]
+			},
+			{
+				"type": "일반",
+				"num": "5-5",
+				"name": "Internal Phenomenon",
+				"desc": "AR-15 has gone AWOL. Without even a single word...",
+				"file": ["5-5-1", "5-5-2"]
+			},
+			{
+				"type": "일반",
+				"num": "5-6",
+				"name": "Order to Pursue",
+				"desc": "AR-15 deserted us//c but we fought off Sangvis Ferri... Does that make it a victory or a loss? Though compared to the mystery we're faced with//c this is actually nothing...",
+				"file": ["5-6-1", "5-6-2"]
+			},
+			{
+				"type": "긴급",
+				"num": "5-1",
+				"name": "Solving the Mystery Ⅰ",
+				"desc": "The AR Team had previously encountered a baffling and terrifying airstrike while in pursuit of Destroyer. They had no choice but to make a hasty retreat...",
+				"file": ["5-1-1E", "5-1-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "5-2",
+				"name": "Solving the Mystery Ⅱ",
+				"desc": "We ran into Mr. Kryuger during the search for AR-15. What is he investigating...or reflecting on here?",
+				"file": ["5-2-1E", "5-2-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "5-3",
+				"name": "Solving the Mystery Ⅲ",
+				"desc": "Everyone on the AR Team is in a terrible state//c but they all know where their duties lie. The commander and I should probably try to console them a bit later on...",
+				"file": ["5-3-1E", "5-3-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "5-4",
+				"name": "Solving the Mystery Ⅳ",
+				"desc": "We were just notified by HQ that a new operation is about the commence... I hope we can prepare in time for whatever that's coming our way...",
+				"file": ["5-4-1E", "5-4-2E"]
+			},
+			{
+				"type": "야간",
+				"num": "5-1",
+				"name": "Peculiar Vendor Ⅰ",
+				"desc": "M99 and her adjutant are given an order to go to a Sangvis-controlled area to recover the remaining supplies there.",
+				"file": ["5-1-1N", "5-1-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "5-2",
+				"name": "Peculiar Vendor Ⅱ",
+				"desc": "After meeting up with 56-1 and picking up the package that needs to be delivered//c the team endures starvation and sets off to assist NZ75//c who is responsible for reconnaissance.",
+				"file": ["5-2-1N", "5-2-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "5-3",
+				"name": "Peculiar Vendor Ⅲ",
+				"desc": "When the squad members transported the goods to the human settlements//c a violent conflict broke out due to a food shortage//c and they come to a shocking realization...",
+				"file": ["5-3-1N", "5-3-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "5-4",
+				"name": "Peculiar Vendor Ⅳ",
+				"desc": "A powerful Sangvis Ringleader has brought a terrible catastrophe//c but at the same time//c toughened the resolve of the comrades-in-arms. The decisive battle is at hand!",
+				"file": ["5-4-1N", "5-4-2N"]
+			}
+		]
+	},
+	{
+		"num": "-1",
+		"name": "Operation Cube",
+		"keyword": "",
+		"keyword_en": "",
+		"desc": "",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-1-1",
+				"name": "Seven-Step Puzzle",
+				"desc": "After AR-15 departs from Grifon//c the 404 Squad begins a secret mission: infiltrate the Sangvis Ferri base under the cover of the night to stop the operation of a jammer.",
+				"file": ["-1-1-1", "-1-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "-1-2",
+				"name": "Corner Breaker",
+				"desc": "HK416 and G11 regroups with UMP45 and UMP9 after escaping from the traps of Sangvis Ringleader Ouroboros. They then began to search for personnel that knows of the whereabouts of the jammer.",
+				"file": ["-1-2-1", "-1-2-2First", "-1-2-2End"]
+			},
+			{
+				"type": "일반",
+				"num": "-1-3",
+				"name": "Layer Reversal",
+				"desc": "As Ouroboros cut off Hunter's consciousness//c Sangvis forces are unable to continue to track the 404 Squad. At this moment//c UMP45 brings in a little aide...",
+				"file": ["-1-3-1", "-1-3-2First", "-1-3-2End"]
+			},
+			{
+				"type": "일반",
+				"num": "-1-4",
+				"name": "Side Collapse",
+				"desc": "With the battle to the death with Executioner ending in an explosion//c the doubting Ouroboros launched a comprehensive encirclement operation. How is the 404 Squad going to get away this time?...",
+				"file": ["-1-4-1", "-1-4-2First", "-1-4-2End"]
+			}
+		]
+	},
+	{
+		"num": "6",
+		"name": "EP. 06",
+		"keyword": "Comet",
+		"keyword_en": "Comet",
+		"desc": "Finding the girl lost in the night is the spell that rewrites your fate.",
+		"list": [
+			{
+				"type": "일반",
+				"num": "6-1",
+				"name": "Squad Negev",
+				"desc": "A few days later//c Squad Negev of Grifon was ordered to search for AR-15 in Area S08//c but they've gone missing there. Their comms modules are also jammed.",
+				"file": ["6-1-1", "6-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "6-2",
+				"name": "Double Rescue",
+				"desc": "The AR Team went in to investigate//c and successfully rendezvoused with the squad member dispatched by Negev to send the distress signal. We then lanched the rescue mission.",
+				"file": ["6-2-1", "6-2-2"]
+			},
+			{
+				"type": "일반",
+				"num": "6-3",
+				"name": "Reunion",
+				"desc": "We fended off \"Alchemist\". Squad Negev got out of danger//c but we've lost track of M4A1 and SOP-II when their signal got blocked again...",
+				"file": ["6-3-1", "6-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "6-4",
+				"name": "Prisoner",
+				"desc": "M16A1 found SOP-II unconscious//c but a large amount of Sangvis forces have suddenly swarmed into Area S08 so we must move out immediately!",
+				"file": ["6-4-1", "6-4-2"]
+			},
+			{
+				"type": "일반",
+				"num": "6-5",
+				"name": "Resolve",
+				"desc": "The commander has rebuffed the Sangvis vanguard for the time being//c but Negev made a spine-chilling conjecture - AR-15 is the source of the jam...",
+				"file": ["6-5-1", "6-5-2"]
+			},
+			{
+				"type": "일반",
+				"num": "6-6",
+				"name": "Late Farewell",
+				"desc": "After a long and brutal fight//c all T-Dolls have withdrawn from Area S08...except...AR-15...",
+				"file": ["6-6-1", "6-6-2"]
+			},
+			{
+				"type": "긴급",
+				"num": "6-1",
+				"name": "Late Farewell Ⅰ",
+				"desc": "AR-15 was trapped by Alchemist during the withdrawal. Meanwhile//c Grifon's troops were also in grave danger...",
+				"file": ["6-1-1E", "6-1-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "6-2",
+				"name": "Late Farewell Ⅱ",
+				"desc": "SOP-II took the risk of heading onto the battlefiled and created an opening for AR-15 just in time. She also bought time for the rest of our troops to retreat safely.",
+				"file": ["6-2-1E", "6-2-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "6-3",
+				"name": "Late Farewell Ⅲ",
+				"desc": "M16A1 returned with a message from AR-15. As the host of \"Parapluie\"//c there's no coming back for her. The only thing she can do is...",
+				"file": ["6-3-1E", "6-3-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "6-4",
+				"name": "Late Farewell Ⅳ",
+				"desc": "AR-15... The commander and I have no idea what you did in the end... All we know is that...you saved all of us...",
+				"file": ["6-4-1E", "6-4-2E"]
+			},
+			{
+				"type": "야간",
+				"num": "6-1",
+				"name": "People in the Flask Ⅰ",
+				"desc": "FAL's Report: The FN squad has begun to investigate the recent missing T-Doll incidents in the area.",
+				"file": ["6-1-1N", "6-1-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "6-2",
+				"name": "People in the Flask Ⅱ",
+				"desc": "FAL's Report: The FN squad has dispatched two T-Dolls//c FNC and FN49//c to bait our target//c Alchemist//c into revealing herself.",
+				"file": ["6-2-1N", "6-2-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "6-3",
+				"name": "People in the Flask Ⅲ",
+				"desc": "FAL's Report: The FN squad dispatches an elite T-Doll once again. I think the plan is coming to its final stages.",
+				"file": ["6-3-1N", "6-3-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "6-4",
+				"name": "People in the Flask Ⅳ",
+				"desc": "FAL's Report: The final step in intercepting Alchemist shall begin with me. I hope 57 and her squad will arrive on time...",
+				"file": ["6-4-1N", "6-4-2N"]
+			}
+		]
+	},
+	{
+		"num": "7",
+		"name": "EP. 07",
+		"keyword": "Partner",
+		"keyword_en": "Partner",
+		"desc": "Bonds between people are the true source of strength.",
+		"list": [
+			{
+				"type": "일반",
+				"num": "7-1",
+				"name": "New Job",
+				"desc": "Five days after what happened with AR-15//c the commander started a new job in Area S05 under Grifon jurisdiction.",
+				"file": ["7-1-1", "7-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "7-2",
+				"name": "Sabotage",
+				"desc": "Sangvis activities were detected along the borders of Area S05. To keep the detained AR Team safe//c the commander decided to destroy the enemy forces.",
+				"file": ["7-2-1", "7-2-2"]
+			},
+			{
+				"type": "일반",
+				"num": "7-3",
+				"name": "Daily Patrols",
+				"desc": "Another day of patrol duties... I wonder if Helian would accept my request...",
+				"file": ["7-3-1", "7-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "7-4",
+				"name": "Ambush",
+				"desc": "The signal is blocked in the detention center. Meanwhile//c a large number of Sangvis units have suddenly appeared within Area S05...",
+				"file": ["7-4-1", "7-4-2"]
+			},
+			{
+				"type": "일반",
+				"num": "7-5",
+				"name": "Cat and Mouse",
+				"desc": "The battle to eliminate Sangvis forces rages on and everyone is too busy to do anything else. At this moment//c we receive an ecrypted communications request...",
+				"file": ["7-5-1", "7-5-2"]
+			},
+			{
+				"type": "일반",
+				"num": "7-6",
+				"name": "Reunion",
+				"desc": "We have no way of knowing the situation inside the detention center. All we can do is to prepare for the final battle. I hope the assistants sent by Persica will be of use to us...",
+				"file": ["7-6-1", "7-6-2"]
+			},
+			{
+				"type": "긴급",
+				"num": "7-1",
+				"name": "Retrieval Ⅰ",
+				"desc": "Nearly 40 days after the incident in Area S08//c RO leads M16 and SOP2 in a mission to collect the Sangvis Scout's companion.",
+				"file": ["7-1-1E", "7-1-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "7-2",
+				"name": "Retrieval Ⅱ",
+				"desc": "M16 gets in touch with the \"Palette\" team and searches for SOP2 under Sangvis bombardment.",
+				"file": ["7-2-1E", "7-2-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "7-3",
+				"name": "Retrieval Ⅲ",
+				"desc": "Dreamer induces SOP2 into a fit of mind-broken rage. You must rescue the crazed SOP2 as soon as possible!",
+				"file": ["7-3-1E", "7-3-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "7-4",
+				"name": "Retrieval Ⅳ",
+				"desc": "RO has destroyed the Jupiter Cannon//c but the Commander needs to break through Dreamer's blockade and save the AR Team and the members of \"Palette\" who are in danger.",
+				"file": ["7-4-1E", "7-4-2E"]
+			},
+			{
+				"type": "야간",
+				"num": "7-1",
+				"name": "일방적인 회상 Ⅰ",
+				"desc": "네게브 : 아무도 모르는 전장의 한 구석, 나와 나의 선배인형 제리코는 몸을 웅크린 채 기약 없는 구원을 기다리고 있다……",
+				"file": ["7-1-1N", "7-1-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "7-2",
+				"name": "일방적인 회상 Ⅱ",
+				"desc": "네게브 : 공포와 절망으로 뒤덮인 암흑 속에서, 나의 마인드맵에 저장되어있던 옛 전투의 승리를 회상한다……",
+				"file": ["7-2-1N", "7-2-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "7-3",
+				"name": "일방적인 회상 Ⅲ",
+				"desc": "네게브 : 난 이러한 기억을 통해 우리의 마음에 희망을 가져다 주고, 바꿀 수 없는 미래를 향해 나아가기로 한다……",
+				"file": ["7-3-1N", "7-3-2N"]
+			},
+			{
+				"type": "야간",
+				"num": "7-4",
+				"name": "일방적인 회상 Ⅳ",
+				"desc": "네게브 : 끝내, 나는 깨어났고, 모든 것을 떠올렸다……",
+				"file": ["7-4-1N", "7-4-2N"]
+			}
+		]
+	},
+	{
+		"num": "-2",
+		"name": "Hypothermia",
+		"keyword": "Wolverine Disaster",
+		"keyword_en": "CH.01",
+		"desc": "CH.01 Wolverine Disaster",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-2-1",
+				"name": "The Wolves Gather Ⅰ",
+				"desc": "Dozens of days after the mind breaking of M4A1//c the AR Team is attacked by a Jupiter Cannon bombardment while coming back from a visit. They must find a way out in this world of ice and snow.",
+				"file": ["-2-1-1", "-2-1-4-Point2007", "-2-1-4-Point2179", "-2-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-2-2",
+				"name": "The Wolves Gather Ⅱ",
+				"desc": "After confirming the current situation of being hungry//c cold//c and deep in enemy territory//c the AR Team continues their search for a comms station in an attempt to establish contact with Helian...",
+				"file": ["-2-2-1", "-2-2-4-Point2204", "-2-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-2-3",
+				"name": "The Wolves Gather Ⅲ",
+				"desc": "The AR Team struggles to find a resupply station in this terrible weather. Coincidentally//c they receive a new mission: search for an important T-Doll survivor.",
+				"file": ["-2-3-1", "-2-3-4-Point2215", "-2-3-4-Point2058", "-2-3-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-2-4",
+				"name": "The Wolves Gather Ⅳ",
+				"desc": "Sangvis Ringleader Gager discovers the AR Team and places the entire area on lockdown. With the darkness of the night quickly approaching//c the AR Team begins their final breakthrough...",
+				"file": ["-2-4-1", "-2-4-2First", "-2-4-2End"]
+			}
+		]
+	},
+	{
+		"num": "-3",
+		"name": "Hypothermia",
+		"keyword": "Blackout",
+		"keyword_en": "CH.02",
+		"desc": "CH.02 Blackout",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-3-1",
+				"name": "Lighting Curfew Ⅰ",
+				"desc": "That night//c UMP45 received an assignment from Helian. The task is to head towards the Sangvis Ferri Jupiter Cannon testing grounds to rescue the AR Team that has been MIA until now.",
+				"file": ["-3-1-1", "-3-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-3-2",
+				"name": "Lighting Curfew Ⅱ",
+				"desc": "On the other side//c HK416 and G11 have also started their operation. Their task is to provide cover for 45 and 9 and then link up afterwards.",
+				"file": ["-3-2-1", "-3-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-3-3",
+				"name": "Lighting Curfew Ⅲ",
+				"desc": "Under the cover of darkness//c the members of the 404 Squad regroups together. 45 prepares to investigate a safe house that was used by the AR Team to assess the current situation.",
+				"file": ["-3-3-1", "-3-3-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-3-4",
+				"name": "Lighting Curfew Ⅳ",
+				"desc": "Another Sangvis Ringleader//c Architect//c discovered the whereabouts of the 404 Squad//c exactly as 45 had planned. Operation Breakthrough and Rescue starts now.",
+				"file": ["-3-4-1", "-3-4-4-Point2499", "-3-4-2First", "-3-4-2End"]
+			}
+		]
+	},
+	{
+		"num": "-4",
+		"name": "Hypothermia",
+		"keyword": "Return Operation",
+		"keyword_en": "CH.03",
+		"desc": "CH.03 Return Operation",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-4-1",
+				"name": "Operation Homecoming Ⅰ",
+				"desc": "The AR Team and the 404 Squad have successfully linked up//c but the crisis is still far from being resolved. Commander RO has decided to find a safe location to reestablish communications with Grifon first.",
+				"file": ["-4-1-1", "-4-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-4-2",
+				"name": "Operation Homecoming Ⅱ",
+				"desc": "We are still very far off from the exfil Heliport. 45 suggests we eliminate Sangvis Ferri's ability to monitor the area first to ensure that we can get away safely.",
+				"file": ["-4-2-1", "-4-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-4-3",
+				"name": "Operation Homecoming Ⅲ",
+				"desc": "Sangvis has stepped up their encirclement operations. The AR Team must seize the moment to collect enough supplies to evacuate.",
+				"file": ["-4-3-1", "-4-3-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-4-4",
+				"name": "Operation Homecoming Ⅳ",
+				"desc": "RO accepts 45's plan for evacuation under worsening conditions. But...do things really always go as planned?",
+				"file": ["-4-4-1", "-4-4-2First", "-4-4-2End"]
+			}
+		]
+	},
+	{
+		"num": "-5",
+		"name": "Hypothermia",
+		"keyword": "Unlimited Mode",
+		"keyword_en": "CH.04",
+		"desc": "Unlimited Mode",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-5-1",
+				"name": "이상한 나라로",
+				"desc": "",
+				"file": ["-5-1-1", "-5-1-3Round10"]
+			}
+		]
+	},
+	{
+		"num": "-7",
+		"name": "파해법칙",
+		"keyword": "",
+		"keyword_en": "",
+		"desc": "",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-7-1",
+				"name": "Cross Base",
+				"desc": "M4A1's Report: ......Where...am I?",
+				"file": ["-7-1-1", "-7-1-2First", "-7-1-2End"]
+			},
+			{
+				"type": "일반",
+				"num": "-7-2",
+				"name": "Bearing Miscalculation",
+				"desc": "M4A1's Report: I hate responsibility//c yet it has found me once again. P08//c I will lead everyone here to safety.",
+				"file": ["-7-2-1", "-7-2-3Round1", "-7-2-3Round2", "-7-2-2First", "-7-2-2End"]
+			},
+			{
+				"type": "일반",
+				"num": "-7-3",
+				"name": "Directional Algorithm",
+				"desc": "M4A1's Report: Why is Architect here of all places? ...I can't get psyched out. I must achieve victory...",
+				"file": ["-7-3-1", "-7-3-3Round1", "-7-3-3Round2", "-7-3-2First", "-7-3-2End"]
+			},
+			{
+				"type": "일반",
+				"num": "-7-4",
+				"name": "Reverse Sequence",
+				"desc": "M4A1's Report: Ouroboros...what in the world is going on...what...is this place...can we...survive...",
+				"file": ["-7-4-1", "-7-4-3Round1", "-7-4-3Round2", "-7-4-2First", "-7-4-2End"]
+			}
+		]
+	},
+	{
+		"num": "8",
+		"name": "EP. 08",
+		"keyword": "Spark",
+		"keyword_en": "Spark",
+		"desc": "Don't make a girl a promise...if you know you can't keep it.",
+		"list": [
+			{
+				"type": "일반",
+				"num": "8-1",
+				"name": "Report Meeting",
+				"desc": "RO635's Report: After attending a military party//c Mister Kruger has decided to pressure Miss Persica to speed up the collection of Lyco's documents.",
+				"file": ["8-1-1", "8-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "8-2",
+				"name": "The Last Supper",
+				"desc": "RO635's Report: M16A1 suggests that I should gather some intel through covert reconnaissance before we start the operation.",
+				"file": ["8-2-1", "8-2-2"]
+			},
+			{
+				"type": "일반",
+				"num": "8-3",
+				"name": "Acceleration",
+				"desc": "RO635's Report: I've found the location of Document 7. It's time for me to contact Miss Persica.",
+				"file": ["8-3-1", "8-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "8-4",
+				"name": "Unwelcomed Guest",
+				"desc": "RO635's Report: We've started downloading Document 7. I wonder what sort of danger lies in wait for us...",
+				"file": ["8-4-1", "8-4-2"]
+			},
+			{
+				"type": "일반",
+				"num": "8-5",
+				"name": "Shadow in the Sky",
+				"desc": "RO635's Report: Dreamer has us pinned down with bombardment. The only thing we can do at this point is to wait for Document 7 to finish downloading.",
+				"file": ["8-5-1", "8-5-2"]
+			},
+			{
+				"type": "일반",
+				"num": "8-6",
+				"name": "Mission",
+				"desc": "RO635's Report: It's time to retreat! But//c the exfil route has been...",
+				"file": ["8-6-1", "8-6-2"]
+			},
+			{
+				"type": "긴급",
+				"num": "8-1",
+				"name": "Parader Ⅰ",
+				"desc": "Persica's Report: RO and SOP2 have been successfully extracted. Commander//c start the search for M16A1.",
+				"file": ["8-1-1E", "8-1-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "8-2",
+				"name": "Parader Ⅱ",
+				"desc": "Persica's Report: The Commander's search is still ongoing. I must continue my work as well.",
+				"file": ["8-2-1E", "8-2-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "8-3",
+				"name": "Parader Ⅲ",
+				"desc": "Persica's Report: Let's take a look at M4A1's condition...I'll give her a try with a new memory...",
+				"file": ["8-3-1E", "8-3-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "8-4",
+				"name": "Parader Ⅳ",
+				"desc": "Persica's Report: The experiment is at its final step. That person...should be almost ready by now...",
+				"file": ["8-4-1E", "8-4-2E"]
+			},
+			{
+				"type": "야간",
+				"num": "8-1",
+				"name": "독수리와 갈까마귀Ⅰ",
+				"desc": "IWS2000의 보고: 철혈이 화생방 무기를 보유하고 있는 것으로 보입니다, 일전의 실패를 잊고 선제 타격에 나서야 해요.",
+				"file": ["8-1-1n", "8-1-2n"]
+			},
+			{
+				"type": "야간",
+				"num": "8-2",
+				"name": "독수리와 갈까마귀Ⅱ",
+				"desc": "IWS2000의 보고: 철혈의 거점에서 핵무기를 발견했어요. 겉보기엔 초라하지만, 철혈은 쉽게 내어주지 않으려는 듯 해요.",
+				"file": ["8-2-1n", "8-2-4n-point7123", "8-2-2n"]
+			},
+			{
+				"type": "야간",
+				"num": "8-3",
+				"name": "독수리와 갈까마귀Ⅲ",
+				"desc": "IWS2000의 보고: 모든 게 함정이었어요! 철혈은 허술한 미끼로 저희 인형들을 유인해 독을 묻혀 지휘관을 살해하려 해요!",
+				"file": ["8-3-1n", "8-3-2n"]
+			},
+			{
+				"type": "야간",
+				"num": "8-4",
+				"name": "독수리와 갈까마귀Ⅳ",
+				"desc": "IWS2000의 보고: 이 테러를 막아내는 대가로 제 목숨 하나만 희생하면 된다면… 꽤나 괜찮은 거래지 않을까요?",
+				"file": ["8-4-1n", "8-4-2n"]
+			}
+		]
+	},
+	{
+		"num": "-8",
+		"name": "헌팅 래빗 작전",
+		"keyword": "",
+		"keyword_en": "",
+		"desc": "헌팅래빗",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-8-1",
+				"name": "세인트 엘모",
+				"desc": "",
+				"file": ["-8-1-1", "-8-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-8-2",
+				"name": "인형섬멸",
+				"desc": "",
+				"file": ["-8-2-1", "-8-2-2First", "-8-2-2End"]
+			},
+			{
+				"type": "일반",
+				"num": "-8-3",
+				"name": "사냥 게임",
+				"desc": "",
+				"file": ["-8-3-1", "-8-3-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-8-4",
+				"name": "헌팅 래빗 작전",
+				"desc": "",
+				"file": ["-8-4-1", "-8-4-2First", "-8-4-2End"]
+			}
+		]
+	},
+	{
+		"num": "9",
+		"name": "EP. 09",
+		"keyword": "Lost",
+		"keyword_en": "Lost",
+		"desc": "My dear, where is your heart?",
+		"list": [
+			{
+				"type": "일반",
+				"num": "9-1",
+				"name": "Banquet after Dark",
+				"desc": "M16A1 has been missing for a week//c but RO and SOP2 are still fervently searching for her. However//c the Commander has left the base after receiving an urgent assignment...",
+				"file": ["9-1-1", "9-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "9-2",
+				"name": "Probe",
+				"desc": "Things between RO and SOP2 are pretty awkward as they're still trying to get comfortable around each other. I hope the Commander that's at the banquet right now will be able to assist them in time...",
+				"file": ["9-2-1", "9-2-2"]
+			},
+			{
+				"type": "일반",
+				"num": "9-3",
+				"name": "Forum",
+				"desc": "RO reports that SOP2 is still a bit mentally unstable. Wow//c I can tell SOP2 is really restraining herself compared to previous records.",
+				"file": ["9-3-1", "9-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "9-4",
+				"name": "Double Search",
+				"desc": "RO has urgently reported the incident that had just happened//c but it seems like SOP2 has a plan of her own...",
+				"file": ["9-4-1", "9-4-2"]
+			},
+			{
+				"type": "일반",
+				"num": "9-5",
+				"name": "Prelude",
+				"desc": "The Commander complained that the food at the banquet was not as good as he thought it would be//c but look at me! I had to eat take-out on base! Meanwhile//c it seems like RO just encountered another new Sangvis Ringleader. This overtime is killing me!",
+				"file": ["9-5-1", "9-5-2"]
+			},
+			{
+				"type": "일반",
+				"num": "9-6",
+				"name": "Breakthrough",
+				"desc": "Newly encountered Sangvis Ringleader \"Judge\" is hunting down RO and SOP2. It's up to them themselves to come up with an escape plan...",
+				"file": ["9-6-1", "9-6-2"]
+			},
+			{
+				"type": "긴급",
+				"num": "9-1",
+				"name": "Hawk and Hound Ⅰ",
+				"desc": "RO's Report: SOP2 once again finds herself in trouble as we are pursuing Judge. I hope reinforcements from the Commander will arrive in time...",
+				"file": ["9-1-1E", "9-1-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "9-2",
+				"name": "Hawk and Hound Ⅱ",
+				"desc": "RO's Report: The Commander said that the banquet he's at right now is a precursor of a large event to come//c but the immediate focus is still on the little incidents around us right now...",
+				"file": ["9-2-1E", "9-2-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "9-3",
+				"name": "Hawk and Hound Ⅲ",
+				"desc": "RO's Report: SOP2 began opening up to me...we'll get along well//c and things will slowly turn out for the better...I'm sure of it...",
+				"file": ["9-3-1E", "9-3-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "9-4",
+				"name": "Hawk and Hound Ⅳ",
+				"desc": "RO's Report: We're right on Judge's tail! If we had some more help right now...",
+				"file": ["9-4-1E", "9-4-2E"]
+			}
+		]
+	},
+	{
+		"num": "-10",
+		"name": "딥다이브",
+		"keyword": "심지혼선",
+		"keyword_en": "",
+		"desc": "심지혼선",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-10-1",
+				"name": "심지혼선Ⅰ",
+				"desc": "UMP45가 고용주의 새로운 의뢰를 수행하기 위해, 새로운 훈련을 시작한다.",
+				"file": ["-10-1-1", "-10-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-10-2",
+				"name": "심지혼선Ⅱ",
+				"desc": "전자전 훈련이 진행되던 중, UMP45가 과거로부터 온 소식을 듣게되는데……",
+				"file": ["-10-2-1", "-10-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-10-3",
+				"name": "심지혼선Ⅲ",
+				"desc": "훈련의 강도가 강해지면서, UMP45는 마인드맵에 봉인 되어있던 기억이 되살아나기 시작한다.",
+				"file": ["-10-3-1", "-10-3-4-Point4229", "-10-3-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-10-4",
+				"name": "심지혼선Ⅳ",
+				"desc": "그리폰의 전술인형이 함정에 빠지고, 실전에서 전자전을 펼칠 기회를 갖게된다.",
+				"file": ["-10-4-1", "-10-4-2First", "-10-4-2End"]
+			}
+		]
+	},
+	{
+		"num": "-11",
+		"name": "딥다이브",
+		"keyword": "쌍곡함수",
+		"keyword_en": "",
+		"desc": "쌍곡함수",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-11-1",
+				"name": "쌍곡함수Ⅰ",
+				"desc": "탐색임무가 정식으로 시작되었고, 눈치빠른 철혈들이 곧바로 대처에 나선다.",
+				"file": ["-11-1-1", "-11-1-4-Point4270", "-11-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-11-2",
+				"name": "쌍곡함수Ⅱ",
+				"desc": "철혈의 두목이 끊임없이 404소대를 괴롭히지만, UMP45의 정신은 이미 다른 곳에 팔려있다.",
+				"file": ["-11-2-1", "-11-2-4-Point4292", "-11-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-11-3",
+				"name": "쌍곡함수Ⅲ",
+				"desc": "UMP45는 철혈을 두려워하지 않았으며 독단적으로 행동하려 한다. 또한 철혈 디스트로이어가 완전히 새로운 자태로 모습을 드러낸다.",
+				"file": ["-11-3-1", "-11-3-4-Point4411", "-11-3-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-11-4",
+				"name": "쌍곡함수Ⅳ",
+				"desc": "디스트로이어와… 아니, 디너게이트와의 전투가 막바지로 치닫는다!",
+				"file": ["-11-4-1", "-11-4-4-Point4431", "-11-4-2First", "-11-4-2End"]
+			}
+		]
+	},
+	{
+		"num": "-12",
+		"name": "딥다이브",
+		"keyword": "대립행동",
+		"keyword_en": "",
+		"desc": "대립행동",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-12-1",
+				"name": "대립행동Ⅰ",
+				"desc": "UMP45가 마인드맵 침입에 노출되고, 404소대는 철혈이 목표를 달성하기 전에 충분한 기억파편으로 그녀를 깨우려한다.",
+				"file": ["-12-1-1", "-12-1-4-Point4540", "-12-1-4-Point4538", "-12-1-4-Point4528", "-12-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-12-2",
+				"name": "대립행동Ⅱ",
+				"desc": "UMP45의 기억이 계속해서 파헤쳐지고, 드리머도 디스트로이어를 위해 2차개조를 시작하는데……",
+				"file": ["-12-2-1", "-12-2-4-Point4601", "-12-2-4-Point4562", "-12-2-4-Point4560", "-12-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-12-3",
+				"name": "대립행동Ⅲ",
+				"desc": "404소대는 계속되는 전자전으로 인해 체력이 고갈되고, 디스트로이어는 또 새로운 모습으로 나타난다!",
+				"file": ["-12-3-1", "-12-3-4-Point4605", "-12-3-4-Point4641", "-12-3-4-Point4615", "-12-3-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-12-4",
+				"name": "대립행동Ⅳ",
+				"desc": "최후의 탈출작전이 시작되었다. 404소대는 UMP45를 깨울 수 있을까, 자칭 완전체의 디스트로이어에게서 벗어날 수 있을까?",
+				"file": ["-12-4-1", "-12-4-4-Point4671", "-12-4-4-Point4723", "-12-4-4-Point4724", "-12-4-2First", "-12-4-2End"]
+			}
+		]
+	},
+	{
+		"num": "-13",
+		"name": "딥다이브",
+		"keyword": "허수미궁",
+		"keyword_en": "",
+		"desc": "히든",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-13-1",
+				"name": "허수미궁",
+				"desc": "",
+				"file": ["-13-1-1"]
+			}
+		]
+	},
+	{
+		"num": "10",
+		"name": "제10전역",
+		"keyword": "연옥",
+		"keyword_en": "Purgatory",
+		"desc": "절망 속에서 행복을 떠올리는 건 최악의 고통이다.",
+		"list": [
+			{
+				"type": "일반",
+				"num": "10-1",
+				"name": "출발일",
+				"desc": "군과의 연합 작전이 정식개시, 지휘관님이 첫 임무를 기다리고 있을 때...",
+				"file": ["10-1-1", "10-1-2"]
+			},
+			{
+				"type": "일반",
+				"num": "10-2",
+				"name": "전선으로 가다",
+				"desc": "저희와 합류한 M4A1이 철혈의 습격을 받게되고, 지휘관님은 너무 멀리 계셔서 군에 도움을 요청했어요.",
+				"file": ["10-2-1", "10-2-2"]
+			},
+			{
+				"type": "일반",
+				"num": "10-3",
+				"name": "중심 지역 도착",
+				"desc": "AR팀이 다시 한 곳에 모였어요! 저희와 함께 전선으로 나아가, 철혈의 핵심 요새로 밀고 가는 거예요!",
+				"file": ["10-3-1", "10-3-2"]
+			},
+			{
+				"type": "일반",
+				"num": "10-4",
+				"name": "대토벌",
+				"desc": "다음 임무는 군의 반 재밍 설비를 지키는 거예요. 무척 어려운 임무지만 M4A1이 매우 대담한 제안을 하였어요.",
+				"file": ["10-4-1", "10-4-2"]
+			},
+			{
+				"type": "일반",
+				"num": "10-5",
+				"name": "고군분투",
+				"desc": "군의 속도가 너무 빨라 측면을 지킬 수가 없게 되자 M4A1이 또 제안을 했어요. 돌아오고 나니 참 적극적으로 변했네요.",
+				"file": ["10-5-1", "10-5-2"]
+			},
+			{
+				"type": "일반",
+				"num": "10-6",
+				"name": "목숨을 건 돌파",
+				"desc": "군과의 정보 대조에 착오가 생겨(저도 잘 모르겠지만), AR팀이 위기에 빠지고 말았어요. 지휘관님이 지금 가고 있으니, 기다리세요!",
+				"file": ["10-6-1", "10-6-2"]
+			},
+			{
+				"type": "긴급",
+				"num": "10-1",
+				"name": "등을 돌리다",
+				"desc": "AR팀은 필사적으로 철혈에 맞서 싸우고 있고 지휘관님도 포위망을 바깥부터 뚫고 있어요. 모두 순조로웠으면 좋을 텐데...",
+				"file": ["10-1-1E", "10-1-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "10-2",
+				"name": "등을 돌리다Ⅱ",
+				"desc": "M4A1가 대체 어떻게 된 거죠? 저도 지휘관님도 너무 걱정하고 있어요. 과연 RO가 다시 깨울 수 있을까요...",
+				"file": ["10-2-1E", "10-2-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "10-3",
+				"name": "등을 돌리다Ⅲ",
+				"desc": "드디어 군의 부대가 나타났어요! 계속 연락이 안 되긴 해도 곧 상황을 정리할 수 있을 거예요. 저희도 곧 AR팀을 구해낼 수 있어요!",
+				"file": ["10-3-1E", "10-3-2E"]
+			},
+			{
+				"type": "긴급",
+				"num": "10-4",
+				"name": "등을 돌리다Ⅳ",
+				"desc": "저기! 대체 어떻게 된 거죠? 엉망진창이에요! AR팀은 어떻게 됐나요? 저희 기지도 대체 무슨 일이 일어난 거죠? 전 어쩌면 좋죠? 지휘관님!",
+				"file": ["10-4-1E", "10-4-2E"]
+			}
+		]
+	},
+	{
+		"num": "-16",
+		"name": "특이점",
+		"keyword": "특이점",
+		"keyword_en": "Singularity",
+		"desc": "풀 리트릿",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-16-1",
+				"name": "엔드 게임",
+				"desc": "",
+				"file": ["-18-Day3-6B", "-18-Day3-6C"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-2",
+				"name": "시작점",
+				"desc": "리벨리온 16:00",
+				"file": ["-16-2-1"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-3",
+				"name": "분기점",
+				"desc": "리벨리온 16:40",
+				"file": ["-16-3-1"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-4",
+				"name": "행정사점 Ⅰ",
+				"desc": "",
+				"file": ["-16-4-1", "-16-4-4-Point5546", "-16-4-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-5",
+				"name": "행정사점 Ⅱ",
+				"desc": "안젤리아 17:42",
+				"file": ["-16-5-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-6",
+				"name": "행정사점 Ⅲ",
+				"desc": "안젤리아 18:20",
+				"file": ["-16-6-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-7",
+				"name": "행정사점 Ⅳ",
+				"desc": "안젤리아 19:30",
+				"file": ["-16-7-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-8",
+				"name": "압축시동 Ⅰ",
+				"desc": "리벨리온 16:46",
+				"file": ["-16-8-4-Point5627", "-16-8-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-9",
+				"name": "압축시동 Ⅱ",
+				"desc": "리벨리온 17:50",
+				"file": ["-16-9-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-10",
+				"name": "압축시동 Ⅲ",
+				"desc": "리벨리온 18:20",
+				"file": ["-16-10-1"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-11",
+				"name": "압축시동 Ⅳ",
+				"desc": "리벨리온 19:30",
+				"file": ["-16-11-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-12",
+				"name": "재점화 Ⅰ",
+				"desc": "그리폰 18:30",
+				"file": ["-16-12-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-13",
+				"name": "재점화 Ⅱ",
+				"desc": "그리폰 19:00",
+				"file": ["-16-13-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-14",
+				"name": "재점화 Ⅲ",
+				"desc": "그리폰 19:10",
+				"file": ["-16-14-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-15",
+				"name": "재점화 Ⅳ",
+				"desc": "그리폰 19:30",
+				"file": ["-16-15-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-16-16",
+				"name": "메신저",
+				"desc": "히든",
+				"file": ["-16-16-1"]
+			}
+		]
+	},
+	{
+		"num": "-17",
+		"name": "특이점",
+		"keyword": "특이점",
+		"keyword_en": "Singularity",
+		"desc": "세컨드 문",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-17-1",
+				"name": "분기점",
+				"desc": "안젤리아&리벨리온 20:00",
+				"file": ["-17-1-1", "-17-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-2",
+				"name": "퀸즈 갬빗 Ⅰ",
+				"desc": "안젤리아&페르시카 21:20",
+				"file": ["-17-2-1", "-17-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-3",
+				"name": "퀸즈 갬빗 Ⅱ",
+				"desc": "안젤리아&페르시카 22:50",
+				"file": ["-17-3-1", "-17-3-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-4",
+				"name": "퀸즈 갬빗 Ⅲ",
+				"desc": "안젤리아&페르시카 00:25",
+				"file": ["-17-4-1", "-17-4-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-5",
+				"name": "퀸즈 갬빗 Ⅳ",
+				"desc": "안젤리아&페르시카 00:30",
+				"file": ["-17-5-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-6",
+				"name": "캐슬링 Ⅰ",
+				"desc": "리벨리온 22:30",
+				"file": ["-17-6-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-7",
+				"name": "캐슬링 Ⅱ",
+				"desc": "리벨리온 00:05",
+				"file": ["-17-7-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-8",
+				"name": "캐슬링 Ⅲ",
+				"desc": "리벨리온 02:14",
+				"file": ["-17-8-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-9",
+				"name": "캐슬링 Ⅳ",
+				"desc": "리벨리온 03:15",
+				"file": ["-17-9-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-10",
+				"name": "프로모션 Ⅰ",
+				"desc": "404소대 20:10",
+				"file": ["-17-10-1"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-11",
+				"name": "프로모션 Ⅱ",
+				"desc": "404소대 21:50",
+				"file": ["-17-11-1", "-17-11-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-12",
+				"name": "프로모션 Ⅲ",
+				"desc": "404소대 00:30",
+				"file": ["-17-12-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-13",
+				"name": "프로모션 Ⅳ",
+				"desc": "404소대 03:15",
+				"file": ["-17-13-1", "-17-13-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-14",
+				"name": "노 메이트 Ⅰ",
+				"desc": "그리폰 22:10",
+				"file": ["-17-14-1", "-17-14-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-15",
+				"name": "노 메이트 Ⅱ",
+				"desc": "그리폰 00:00",
+				"file": ["-17-15-1", "-17-15-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-16",
+				"name": "노 메이트 Ⅲ",
+				"desc": "그리폰 00:30",
+				"file": ["-17-16-1", "-17-16-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-17",
+				"name": "노 메이트 Ⅳ",
+				"desc": "그리폰 01:50",
+				"file": ["-17-17-1", "-17-17-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-17-18",
+				"name": "생존자",
+				"desc": "히든",
+				"file": ["-17-18-1"]
+			}
+		]
+	},
+	{
+		"num": "-18",
+		"name": "특이점",
+		"keyword": "특이점",
+		"keyword_en": "Singularity",
+		"desc": "엔드 게임",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-18-1",
+				"name": "최종수단 Ⅰ",
+				"desc": "06:00",
+				"file": ["-18-1-1", "-18-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-18-2",
+				"name": "최종수단 Ⅱ",
+				"desc": "08:00",
+				"file": ["-18-2-1", "-18-2-4-Point6188", "-18-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-18-3",
+				"name": "최종수단 Ⅲ",
+				"desc": "09:00",
+				"file": ["-18-3-1", "-18-3-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-18-4",
+				"name": "최종수단 Ⅳ",
+				"desc": "12:30",
+				"file": ["-18-4-1", "-18-4-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-18-5",
+				"name": "최종수단 Ⅴ",
+				"desc": "13:00",
+				"file": ["-18-5-1", "-18-5-4-Point6303", "-18-5-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-18-6",
+				"name": "엔드 게임",
+				"desc": "13:20",
+				"file": ["-18-6-1", "-18-Day3-6B", "-18-Day3-6C", "-18-6-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-18-7",
+				"name": "굿바이 용궁",
+				"desc": "히든",
+				"file": ["-18-7-1"]
+			},
+			{
+				"type": "일반",
+				"num": "-18-8",
+				"name": "말벌집",
+				"desc": "방어전",
+				"file": ["-18-8-1"]
+			}
+		]
+	},
+	{
+		"num": "-19",
+		"name": "영광의 날",
+		"keyword": "Avec Nous",
+		"keyword_en": "Avec Nous",
+		"desc": "Avec Nous",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-19-1",
+				"name": "Stalker",
+				"desc": "",
+				"file": ["-19-1-1", "-19-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-19-2",
+				"name": "HeartBeat",
+				"desc": "",
+				"file": ["-19-2-1", "-19-2-4-Point6737", "-19-2-4-point6738", "battleavg/-19-2-egg", "-19-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-19-3",
+				"name": "Waiting for you",
+				"desc": "",
+				"file": ["-19-3-1", "-19-3-4-point6750", "-19-3-4-point7023", "battleavg/-19-3-egg", "-19-3-2First"]
+			}
+		]
+	},
+	{
+		"num": "-20",
+		"name": "영광의 날",
+		"keyword": "Dreaming on you",
+		"keyword_en": "Dreaming on you",
+		"desc": "Dreaming on you",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-20-1",
+				"name": "Sunset Rider",
+				"desc": "",
+				"file": ["-20-1-1", "-20-1-4-point6780", "-20-1-4-point7026", "battleavg/-20-1-egg", "-20-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-20-2",
+				"name": "Fate",
+				"desc": "",
+				"file": ["-20-2-1", "-20-2-4-point6819", "-20-2-4-point7029", "battleavg/-20-2-egg", "-20-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-20-3",
+				"name": "End of the Moonlight",
+				"desc": "",
+				"file": ["-20-3-1", "-20-3-4-point6845", "-20-3-4-point6846", "-20-3-2First", "battleavg/-20-3-egg", "-20-3-2End"]
+			}
+		]
+	}
+]
