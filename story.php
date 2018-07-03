@@ -1,6 +1,15 @@
 <?php
 	define("GF_HEADER", "aaaaa");
-	$storys = json_decode(file_get_contents("story_json/story.txt"));
+	require_once("common.php");
+	
+	if(explode(",", $_SERVER['HTTP_ACCEPT_LANGUAGE'])[0] == "en") {
+		$storys = json_decode(file_get_contents("story_json/en/story.txt"));
+		$langdir = '/en/';
+	}
+	else {
+		$storys = json_decode(file_get_contents("story_json/story.txt"));
+		$langdir = '/';
+	}
 	
 	$q = $_GET['q'];
 	
@@ -41,15 +50,15 @@
 	
 	if($q == 1001) {
 		$filelist = ['startavg/Start0','startavg/Start1','startavg/Start2','startavg/Start3','startavg/Start4','startavg/Start5','startavg/Start6','startavg/Start7','startavg/Start8','startavg/Start9','startavg/Start10','startavg/Start11',];
-		$fieldname = "프롤로그";
+		$fieldname = L::story_prologue;
 	} else if($q == 1002) {
 		$filelist = ['battleavg/-18-Day3-6B','battleavg/-18-Day3-6C'];
-		$fieldname = "프롤로그";
+		$fieldname = L::story_prologue;
 	}
 	
 	$files = [];
 	foreach($filelist as $filename) {
-		array_push($files, json_decode(file_get_contents("story_json/".$filename.".txt")));
+		array_push($files, json_decode(file_get_contents("story_json".$langdir.$filename.".txt")));
 	}
 	
 	$q = substr($q, 1);
@@ -68,11 +77,11 @@
 ?>
     <main role="main" class="container">
 	<div class="col-12 my-3 p-3 bg-white rounded box-shadow">
-		<input type="checkbox" id="storyimg_btn"><label for="storyimg_btn">텍스트만 보기</label>&nbsp;
+		<input type="checkbox" id="storyimg_btn"><label for="storyimg_btn"><?=L::story_textonly?></label>&nbsp;
 		<?php 
 			foreach($second_round as $val) {
 				if(strpos($val[0], $_GET['q']) === 0) { ?>
-					<input type="checkbox" id="second_round_btn"><label for="second_round_btn">2회차 스토리 보기</label>
+					<input type="checkbox" id="second_round_btn"><label for="second_round_btn"><?=L::story_secondround?></label>
 		<?php break;
 				}
 			} ?>

@@ -75,7 +75,13 @@
 	
 	//대사집 불러오기 및 파싱
 	$voice = [];
-	$voices = explode(PHP_EOL, file_get_contents("data/charactervoice.txt"));
+	
+	if($lang == "en") {
+		$voices = explode(PHP_EOL, file_get_contents("data/charactervoice_en.txt"));
+		$voices_fallback = explode(PHP_EOL, file_get_contents("data/charactervoice.txt"));
+	} else 
+		$voices = explode(PHP_EOL, file_get_contents("data/charactervoice.txt"));
+
 	foreach($voices as $data) {
 		if(substr($data, 0, strlen($doll->name . "|")) === $doll->name . "|") {
 			$tmp = explode('|', $data);
@@ -90,18 +96,53 @@
 			if(isset($audio[$tmp[1]])) {
 				$tmp[2] .= ' <button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'. $audio[$tmp[1]] .'"></audio>';
 				unset($audio[$tmp[1]]);
-				array_push($voice, [$krcode, $tmp[2]]);
+				if($lang == 'en') 
+					array_push($voice, [$tmp[1], $tmp[2]]);
+				else 
+					array_push($voice, [$krcode, $tmp[2]]);
 			}
 			else {
-				array_push($voice, [$krcode, $tmp[2]]);
+				if($lang == 'en') 
+					array_push($voice, [$tmp[1], $tmp[2]]);
+				else 
+					array_push($voice, [$krcode, $tmp[2]]);
 			}
 		}
 	}
 	
+	//타 섭에 없는 데이터의 경우 한국데이터를 fallback으로 사용
+	if($introduce == '' || !isset($introduce)) {
+		foreach($voices_fallback as $data) {
+			if(substr($data, 0, strlen($doll->name . "|")) === $doll->name . "|") {
+				$tmp = explode('|', $data);
+				$tmp[2] = str_replace('<>', '', $tmp[2]);
+				
+				if($tmp[1] == 'Introduce') {
+					$introduce = $tmp[2];
+					continue;
+				}
+				
+				$krcode = audiocode_to_kr($tmp[1]);
+				if(isset($audio[$tmp[1]])) {
+					$tmp[2] .= ' <button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'. $audio[$tmp[1]] .'"></audio>';
+					unset($audio[$tmp[1]]);
+					array_push($voice, [$tmp[1], $tmp[2]]);
+				}
+				else {
+					array_push($voice, [$tmp[1], $tmp[2]]);
+				}
+			}
+		}
+	}
+	
+	
 	foreach($audio as $key => $val) {
 		$str = '<button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'.$val.'"></audio>';
 		$krcode = audiocode_to_kr($key);
-		array_push($voice, [$krcode, $str]);
+		if($lang == 'en') 
+			array_push($voice, [$key, $str]);
+		else 
+			array_push($voice, [$krcode, $str]);
 	}
 	
 	
@@ -246,36 +287,35 @@
 	
 	//진형효과 불러오기
 	function parseEffect($eff, $type) {
-		$result = "버프칸의 ";
+		$result = "";
 		switch($eff->effectType) {
-			case 'all': $result .= '<span class="txthighlight">모든총기</span>'; break;
-			case 'ar': $result .= '<span class="txthighlight">돌격소총</span>'; break;
-			case 'rf': $result .= '<span class="txthighlight">소총</span>'; break;
-			case 'smg': $result .= '<span class="txthighlight">기관단총</span>'; break;
-			case 'sg': $result .= '<span class="txthighlight">샷건</span>'; break;
-			case 'hg': $result .= '<span class="txthighlight">권총</span>'; break;
-			case 'mg': $result .= '<span class="txthighlight">기관총</span>'; break;
+			case 'all': $result .= L::database_buffto(L::database_bufftype_all); break;
+			case 'ar': $result .= L::database_buffto(L::database_bufftype_ar); break;
+			case 'rf': $result .= L::database_buffto(L::database_bufftype_rf); break;
+			case 'smg': $result .= L::database_buffto(L::database_bufftype_smg); break;
+			case 'sg': $result .= L::database_buffto(L::database_bufftype_sg); break;
+			case 'hg': $result .= L::database_buffto(L::database_bufftype_hg); break;
+			case 'mg': $result .= L::database_buffto(L::database_bufftype_mg); break;
 		}
-		$result .= "에게 ";
 		
 		if($type == 'hg') {
-			if(isset($eff->gridEffect->armor)) { $result .= '장갑 <span class="txthighlight">'.$eff->gridEffect->armor*2 ."%</span>증가 "; }
-			if(isset($eff->gridEffect->pow)) { $result .= '화력 <span class="txthighlight">'.$eff->gridEffect->pow*2 ."%</span>증가 "; }
-			if(isset($eff->gridEffect->rate)) { $result .= '사속 <span class="txthighlight">'.$eff->gridEffect->rate*2 ."%</span>증가 "; }
-			if(isset($eff->gridEffect->hit)) { $result .= '명중 <span class="txthighlight">'.$eff->gridEffect->hit*2 ."%</span>증가 "; }
-			if(isset($eff->gridEffect->dodge)) { $result .= '회피 <span class="txthighlight">'.$eff->gridEffect->dodge*2 ."%</span>증가 "; }
-			if(isset($eff->gridEffect->cooldown)) { $result .= '스킬 쿨타임 <span class="txthighlight">'.$eff->gridEffect->cooldown*2 ."%</span>감소 "; }
-			if(isset($eff->gridEffect->crit)) { $result .= '치명률 <span class="txthighlight">'.$eff->gridEffect->crit*2 ."%</span>증가 "; }
-			$result .= '<br>(5편제기준)';
+			if(isset($eff->gridEffect->armor)) { $result .= L::database_buffeff(L::database_buff_armor, $eff->gridEffect->armor*2); }
+			if(isset($eff->gridEffect->pow)) { $result .= L::database_buffeff(L::database_buff_pow, $eff->gridEffect->pow*2); }
+			if(isset($eff->gridEffect->rate)) { $result .= L::database_buffeff(L::database_buff_rate, $eff->gridEffect->rate*2); }
+			if(isset($eff->gridEffect->hit)) { $result .= L::database_buffeff(L::database_buff_hit, $eff->gridEffect->hit*2); }
+			if(isset($eff->gridEffect->dodge)) { $result .= L::database_buffeff(L::database_buff_dodge, $eff->gridEffect->dodge*2); }
+			if(isset($eff->gridEffect->cooldown)) { $result .= L::database_buffeff_r(L::database_buff_cooldown, $eff->gridEffect->cooldown*2); }
+			if(isset($eff->gridEffect->crit)) { $result .= L::database_buffeff(L::database_buff_crit, $eff->gridEffect->crit*2); }
+			$result .= '<br>' . L::database_buff_5links;
 		}
 		else {
-			if(isset($eff->gridEffect->armor)) { $result .= '장갑 <span class="txthighlight">'.$eff->gridEffect->armor."%</span>증가 "; }
-			if(isset($eff->gridEffect->pow)) { $result .= '화력 <span class="txthighlight">'.$eff->gridEffect->pow."%</span>증가 "; }
-			if(isset($eff->gridEffect->rate)) { $result .= '사속 <span class="txthighlight">'.$eff->gridEffect->rate."%</span>증가 "; }
-			if(isset($eff->gridEffect->hit)) { $result .= '명중 <span class="txthighlight">'.$eff->gridEffect->hit."%</span>증가 "; }
-			if(isset($eff->gridEffect->dodge)) { $result .= '회피 <span class="txthighlight">'.$eff->gridEffect->dodge."%</span>증가 "; }
-			if(isset($eff->gridEffect->cooldown)) { $result .= '스킬 쿨타임 <span class="txthighlight">'.$eff->gridEffect->cooldown."%</span>감소 "; }
-			if(isset($eff->gridEffect->crit)) { $result .= '치명률 <span class="txthighlight">'.$eff->gridEffect->crit."%</span>증가 "; }
+			if(isset($eff->gridEffect->armor)) { $result .= L::database_buffeff(L::database_buff_armor, $eff->gridEffect->armor); }
+			if(isset($eff->gridEffect->pow)) { $result .= L::database_buffeff(L::database_buff_pow, $eff->gridEffect->pow); }
+			if(isset($eff->gridEffect->rate)) { $result .= L::database_buffeff(L::database_buff_rate, $eff->gridEffect->rate); }
+			if(isset($eff->gridEffect->hit)) { $result .= L::database_buffeff(L::database_buff_hit, $eff->gridEffect->hit); }
+			if(isset($eff->gridEffect->dodge)) { $result .= L::database_buffeff(L::database_buff_dodge, $eff->gridEffect->dodge); }
+			if(isset($eff->gridEffect->cooldown)) { $result .= L::database_buffeff_r(L::database_buff_cooldown, $eff->gridEffect->cooldown); }
+			if(isset($eff->gridEffect->crit)) { $result .= L::database_buffeff(L::database_buff_crit, $eff->gridEffect->crit); }
 		}
 		
 		return $result;
@@ -334,7 +374,7 @@
 		if($skin->id == 0) {
 			array_push($imglist, "$path{$doll->name}/pic/pic_{$doll->name}.png");
 			array_push($imglist, "$path{$doll->name}/pic/pic_{$doll->name}_d.png");
-			array_push($skinlist, ["기본스킨", 0]);
+			array_push($skinlist, [L::database_defaultskin, 0]);
 			
 			if(file_exists("$path{$doll->name}/spine/r{$doll->name}.atlas")) $sdStatus[0][0] = 1;
 			else $sdStatus[0][0] = 0;
@@ -380,7 +420,7 @@
 			<div class="row">
 				<div class="col-lg-7">
 					<div style="display: flex">
-						<div style="width:20%;"><input id="damaged_btn" type="checkbox"><label for="damaged_btn">중상보기</label></div>
+						<div style="width:20%;"><input id="damaged_btn" type="checkbox"><label for="damaged_btn"><?=L::database_viewdamaged?></label></div>
 						<div style="width:80%;">
 							<select style="width:100%;" id="skinselector" autocomplete='off'>
 							<?php foreach($skinlist as $skin) { ?>
@@ -396,14 +436,14 @@
 						<canvas class="d-block" id="glcanvas" style="margin: auto;"></canvas>
 						<i data-toggle="tooltip" data-placement="top" title="스크롤(모바일은 터치)로 크기 조정 가능" class="fas fa-info-circle"></i>
 						<select id="l2d_motion_sel">
-							<option>---모션선택---</option>
+							<option><?=L::database_l2d_motion?></option>
 						</select>
 					</div>
-					<span style="display:none"><input type="checkbox" id="load_live2d"><label for="load_live2d">Live 2d 로딩</label></span>
+					<span style="display:none"><input type="checkbox" id="load_live2d"><label for="load_live2d"><?=L::database_l2d_load?></label></span>
 				</div>
 				<div class="col-lg-5">
 					<div style="display: flex">
-						<div style="width:20%;"><input id="sdDorm" type="checkbox"><label for="sdDorm">숙소모델</label></div>
+						<div style="width:20%;"><input id="sdDorm" type="checkbox"><label for="sdDorm"><?=L::database_sd_dorm?></label></div>
 						<div style="width:80%;">
 							<select style="width:100%;" id="sdAniSelector" autocomplete='off'>
 							</select>
@@ -414,43 +454,43 @@
 							<div class="preCanvas" style="width: 100%; height: 200px"></div>
 						</div>
 					</div>
-					<b>레어도</b> : <?=gunrank_to_img($doll->rank)?><hr class="mt-1 mb-1">
-					<b>종류</b> : <?=guntype_to_str($doll->type)?>(<?=strtoupper($doll->type)?>)<hr class="mt-1 mb-1">
-					<b>성우</b> : <?=$doll->voice?><hr class="mt-1 mb-1">
-					<b>제조시간</b> : <?=$doll->buildTime?gmdate("H시간 i분", $doll->buildTime): "제조 불가"?><hr class="mt-1 mb-1">
-					<b>스킨</b> : <?=$skinstr?><hr class="mt-1 mb-1">
+					<b><?=L::database_rare?></b> : <?=gunrank_to_img($doll->rank)?><hr class="mt-1 mb-1">
+					<b><?=L::database_type?></b> : <?=guntype_to_str($doll->type)?>(<?=strtoupper($doll->type)?>)<hr class="mt-1 mb-1">
+					<b><?=L::database_voice?></b> : <?=$doll->voice?><hr class="mt-1 mb-1">
+					<b><?=L::database_buildtime?></b> : <?=$doll->buildTime?gmdate("H시간 i분", $doll->buildTime): L::database_cantbuild?><hr class="mt-1 mb-1">
+					<b><?=L::database_skin?></b> : <?=$skinstr?><hr class="mt-1 mb-1">
 					<div class="row">
 						<div class="col-md-auto align-self-center">
-							<b>스탯</b>
+							<b><?=L::database_stats?></b>
 						</div>
 						<div class="col">
 							<table class="table-sm table-bordered ">
 								<tr>
-									<td>체력 : <span id="dollstats_hp">-</span></td>
-									<td>화력 : <span id="dollstats_pow">-</span></td>
-									<td>명중 : <span id="dollstats_hit">-</span></td>
-									<td>회피 : <span id="dollstats_dodge">-</span></td>
+									<td><?=L::database_hp?> : <span id="dollstats_hp">-</span></td>
+									<td><?=L::database_pow?> : <span id="dollstats_pow">-</span></td>
+									<td><?=L::database_hit?> : <span id="dollstats_hit">-</span></td>
+									<td><?=L::database_dodge?> : <span id="dollstats_dodge">-</span></td>
 								</tr>
 								<tr>
-									<td>기동 : <span id="dollstats_speed">-</span></td>
-									<td>사속 : <span id="dollstats_rate">-</span></td>
-									<td>관통 : <span id="dollstats_armorPiercing"><?=$doll->stats->armorPiercing?></span></td>
-									<td>치명 : <span id="dollstats_crit"><?=$doll->stats->crit?>%</span></td>
+									<td><?=L::database_speed?> : <span id="dollstats_speed">-</span></td>
+									<td><?=L::database_rate?> : <span id="dollstats_rate">-</span></td>
+									<td><?=L::database_ap?> : <span id="dollstats_armorPiercing"><?=$doll->stats->armorPiercing?></span></td>
+									<td><?=L::database_crit?> : <span id="dollstats_crit"><?=$doll->stats->crit?>%</span></td>
 								</tr>
 								<tr>
-									<td>장갑 : <span id="dollstats_armor">-</span></td>
-									<td>장탄 : <?=$doll->stats->bullet ? $doll->stats->bullet : '- '?>발</td>
+									<td><?=L::database_armor?> : <span id="dollstats_armor">-</span></td>
+									<td><?=L::database_bullet?> : <?=$doll->stats->bullet ? $doll->stats->bullet : '- '?><?=L::database_bullet_cnt?></td>
 									<td colspan=2>
 										<select id="statlevel"><?php for($i = 1 ; $i <= $maxlevel ; $i++) {?>
-											<option <?=($i == 100)?'selected' : ''?> value="<?=$i?>"><?=$i?>레벨</option> <?php } ?>
+											<option <?=($i == 100)?'selected' : ''?> value="<?=$i?>"><?=$i?><?=L::level?></option> <?php } ?>
 										</select>
 										<select id="statfavor">
-											<option value="9">호감도 0~9</option>
-											<option selected value="50">호감도 10~89</option>
-											<option value="90">호감도 90~139</option>
-											<option value="140">호감도 140~189</option>
+											<option value="9"><?=L::database_favor?> 0~9</option>
+											<option selected value="50"><?=L::database_favor?> 10~89</option>
+											<option value="90"><?=L::database_favor?> 90~139</option>
+											<option value="140"><?=L::database_favor?> 140~189</option>
 											<?php if($maxlevel == 120) { ?>
-											<option value="190">호감도 190~200</option>
+											<option value="190"><?=L::database_favor?> 190~200</option>
 											<?php } ?>
 										</select>
 									</td>
@@ -465,16 +505,16 @@
 						</div>
 						<div class="col">
 							<select id="skilllevel">
-								<option value="1">1레벨</option>
-								<option value="2">2레벨</option>
-								<option value="3">3레벨</option>
-								<option value="4">4레벨</option>
-								<option value="5">5레벨</option>
-								<option value="6">6레벨</option>
-								<option value="7">7레벨</option>
-								<option value="8">8레벨</option>
-								<option value="9">9레벨</option>
-								<option value="10" selected>10레벨</option>
+								<option value="1">1<?=L::level?></option>
+								<option value="2">2<?=L::level?></option>
+								<option value="3">3<?=L::level?></option>
+								<option value="4">4<?=L::level?></option>
+								<option value="5">5<?=L::level?></option>
+								<option value="6">6<?=L::level?></option>
+								<option value="7">7<?=L::level?></option>
+								<option value="8">8<?=L::level?></option>
+								<option value="9">9<?=L::level?></option>
+								<option value="10" selected>10<?=L::level?></option>
 							</select><br>
 							<?=$skill->desc?><br>
 							<?=$skillcolldown?>
@@ -490,16 +530,16 @@
 						<div class="col">
 						<?php if($skill->desc == "사용 불가") { ?>
 							<select id="skilllevel">
-								<option value="1">1레벨</option>
-								<option value="2">2레벨</option>
-								<option value="3">3레벨</option>
-								<option value="4">4레벨</option>
-								<option value="5">5레벨</option>
-								<option value="6">6레벨</option>
-								<option value="7">7레벨</option>
-								<option value="8">8레벨</option>
-								<option value="9">9레벨</option>
-								<option value="10" selected>10레벨</option>
+								<option value="1">1<?=L::level?></option>
+								<option value="2">2<?=L::level?></option>
+								<option value="3">3<?=L::level?></option>
+								<option value="4">4<?=L::level?></option>
+								<option value="5">5<?=L::level?></option>
+								<option value="6">6<?=L::level?></option>
+								<option value="7">7<?=L::level?></option>
+								<option value="8">8<?=L::level?></option>
+								<option value="9">9<?=L::level?></option>
+								<option value="10" selected>10<?=L::level?></option>
 							</select><br>
 						<?php } ?>
 							<?=$skill->night->desc?><br>
@@ -554,14 +594,14 @@
 			</div>
 			<hr class="mt-1 mb-1">
 			<div class="card card-body bg-light mt-3 p-2">
-				소개말 : <br><?=str_replace("\\n", "<br>" ,$introduce)?>
+				<?=L::database_introduce?> : <br><?=str_replace("\\n", "<br>" ,$introduce)?>
 			</div>
 			<div class="card card-body bg-light mt-3 p-0">
 				<table class="table">
 					<thead>
 						<tr style="text-align:center; vertical-align:middle">
-							<th style="width: 15%">상황</th>
-							<th>대사</th>
+							<th style="width: 15%"><?=L::database_situation?></th>
+							<th><?=L::database_dialogue?></th>
 						</tr>
 					</thead>
 					<tbody>
@@ -687,7 +727,7 @@
 		
 		jspine.init(dollname, 0);
 		
-		$('.preCanvas').on('click touchend', function(e) {
+		$('.preCanvas').on('click', function(e) {
 			var animations = jspine.spine.spineData.animations;
 			
 			if(typeof animations[jspine.curAniIndex+1] !== 'undefined') {
@@ -752,7 +792,7 @@
 			return 0.15;
 		}
 		
-		$(".carousel-item img").on('click', function(e) {
+		$(".doll_img img").on('click', function(e) {
 			var elem = document.getElementById("dollcarousel");
 			if (elem.requestFullscreen) {
 				elem.requestFullscreen();

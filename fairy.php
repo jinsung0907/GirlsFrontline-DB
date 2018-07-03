@@ -62,19 +62,24 @@
 	$skill->desc = preg_replace($replace, $num, $skill->desc);
 	
 	if(isset($fairy->skill->dataPool->DR)) {
-		$skill->desc .= " 지속시간 {$fairy->skill->dataPool->DR}초.";
+		$skill->desc .= L::fairy_duration($fairy->skill->dataPool->DR);
 	}
 	
 	if(isset($fairy->skill->dataPool->CP)) {
-		$skillcolldown = "지령소모 : {$fairy->skill->dataPool->CP}P";
+		$skillcolldown = L::fairy_cooldown_p($fairy->skill->dataPool->CP);
 		if(isset($fairy->skill->dataPool->CD)) {
-			$skillcolldown .= ", 쿨다운 : <span id='skillcool'>{$fairy->skill->dataPool->CD}턴<br>";
+			$skillcolldown .= L::fairy_cooldown($fairy->skill->dataPool->CD);
 		}
 	}
 	
 	//설명 및 등장대사 파싱
 	$voice = '';
-	$voices = explode(PHP_EOL, file_get_contents("data/fairy.txt"));
+	if($lang == 'en') {
+		$voices = explode(PHP_EOL, file_get_contents("data/fairy_en.txt"));
+		$voices_fallback = explode(PHP_EOL, file_get_contents("data/fairy.txt"));
+	}
+	else
+		$voices = explode(PHP_EOL, file_get_contents("data/fairy.txt"));
 	$i = 0;
 	foreach($voices as $data) {
 		$tmp = explode(',', $data);
@@ -87,7 +92,20 @@
 		$i++;
 	}
 	
-	
+	//타 섭에 없는 데이터의 경우 한국데이터를 fallback으로 사용
+	if($comment == '' || !isset($comment)) {
+		$i = 0;
+		foreach($voices_fallback as $data) {
+			$tmp = explode(',', $data);
+			$tmp[0] = str_replace('fairy-', '', $tmp[0]);
+			if($fairy->id == $tmp[0] % 10000000) {
+				$saying = str_replace('//c', ',', explode(",", $voices_fallback[$i+1])[1]);
+				$comment = str_replace('//c', ',', explode(",", $voices_fallback[$i+2])[1]);
+				break;
+			}
+			$i++;
+		}
+	}
 	/*
 	{
 		"armor": [5, 0.05],
@@ -104,6 +122,14 @@
 	array_push($imglist, $fairy->name. "_1");
 	array_push($imglist, $fairy->name. "_2");
 	array_push($imglist, $fairy->name. "_3");
+	
+	//이름 구하기
+	if($lang == 'en') {
+		$fairyname = ucfirst($fairy->name) . " Fairy";
+	}
+	else {
+		$fairyname = $fairy->krName?$fairy->krName:$fairy->name;
+	}
 ?>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
@@ -130,35 +156,35 @@
 					</div>
 				</div>
 				<div class="col-md">
-					<h2 style="display: inline" class="mr-2"><?=$fairy->krName?$fairy->krName:$fairy->name?></h2><br><hr class="mt-1 mb-1">
-					<b>종류</b> : <?=fairytype_to_str($fairy->category)?><hr class="mt-1 mb-1">
-					<b>제조시간</b> : <?=$fairy->buildTime?gmdate("H시간 i분", $fairy->buildTime): "제조 불가"?><hr class="mt-1 mb-1">
+					<h2 style="display: inline" class="mr-2"><?=$fairyname?></h2><br><hr class="mt-1 mb-1">
+					<b><?=L::database_type?></b> : <?=fairytype_to_str($fairy->category)?><hr class="mt-1 mb-1">
+					<b><?=L::database_buildtime?></b> : <?=$fairy->buildTime?gmdate("H\\" . L::hour . " i\\" . L::min, $fairy->buildTime): L::database_cantbuild;?><hr class="mt-1 mb-1">
 					<select id="fairyrank">
-						<option value="1">1성</option>
-						<option value="2">2성</option>
-						<option value="3">3성</option>
-						<option value="4">4성</option>
-						<option value="5" selected>5성</option>
+						<option value="1">1<?=L::database_star?></option>
+						<option value="2">2<?=L::database_star?></option>
+						<option value="3">3<?=L::database_star?></option>
+						<option value="4">4<?=L::database_star?></option>
+						<option value="5" selected>5<?=L::database_star?></option>
 					</select>
 					<select id="fairylevel"><?php for($i = 1 ; $i <= 99 ; $i++) {?>
-						<option value="<?=$i?>"><?=$i?>레벨</option> <?php } ?>
-						<option value="100" selected>100레벨</option>
+						<option value="<?=$i?>"><?=$i?><?=L::level?></option> <?php } ?>
+						<option value="100" selected>100<?=L::level?></option>
 					</select>
 					<hr class="mt-1 mb-1">
 					<div class="row">
 						<div class="col-md-auto align-self-center">
-							<b>스탯</b>
+							<b><?=L::database_stats?></b>
 						</div>
 						<div class="col">
 							<table class="table-sm">
 								<tr>
-									<td>화력 : <span id="stat_pow"></span></td>
-									<td>명중 : <span id="stat_hit"></span></td>
-									<td>회피 : <span id="stat_dodge"></span></td>
+									<td><?=L::database_pow?> : <span id="stat_pow"></span></td>
+									<td><?=L::database_hit?> : <span id="stat_hit"></span></td>
+									<td><?=L::database_dodge?> : <span id="stat_dodge"></span></td>
 								</tr>
 								<tr>
-									<td>장갑 : <span id="stat_armor"></span></td>
-									<td>치명상 : <span id="stat_critDmg"></span></td>
+									<td><?=L::database_armor?> : <span id="stat_armor"></span></td>
+									<td><?=L::database_critdmg?> : <span id="stat_critDmg"></span></td>
 								</tr>
 							</table>
 						</div>
@@ -170,16 +196,16 @@
 						</div>
 						<div class="col">
 							<select id="skilllevel">
-								<option value="1">1레벨</option>
-								<option value="2">2레벨</option>
-								<option value="3">3레벨</option>
-								<option value="4">4레벨</option>
-								<option value="5">5레벨</option>
-								<option value="6">6레벨</option>
-								<option value="7">7레벨</option>
-								<option value="8">8레벨</option>
-								<option value="9">9레벨</option>
-								<option value="10" selected>10레벨</option>
+								<option value="1">1<?=L::level?></option>
+								<option value="2">2<?=L::level?></option>
+								<option value="3">3<?=L::level?></option>
+								<option value="4">4<?=L::level?></option>
+								<option value="5">5<?=L::level?></option>
+								<option value="6">6<?=L::level?></option>
+								<option value="7">7<?=L::level?></option>
+								<option value="8">8<?=L::level?></option>
+								<option value="9">9<?=L::level?></option>
+								<option value="10" selected>10<?=L::level?></option>
 							</select><br>
 							<?=$skill->desc?><br>
 							<?=$skillcolldown?>
@@ -189,8 +215,8 @@
 				</div>
 			</div>
 			<div class="card card-body bg-light mt-3 p-2">
-				소개말 : <br><?=$comment?><br><br>
-				등장대사 : <br><?=$saying?>
+				<?=L::fairy_comment?> : <br><?=$comment?><br><br>
+				<?=L::fairy_saying?> : <br><?=$saying?>
 			</div>
 		</div>	
 		<div class="my-3 p-3 bg-white rounded box-shadow">

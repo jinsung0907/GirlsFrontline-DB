@@ -11,11 +11,11 @@
 	</style>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
-			<input class="checkbox" type="checkbox" id="damaged"><label for="damaged">중상보기</label><br>
-			<input class="checkbox" type="checkbox" id="rank2_btn" name="rank"><label for="rank2_btn">2성</label>
-			<input class="checkbox" type="checkbox" id="rank3_btn" name="rank"><label for="rank3_btn">3성</label>
-			<input class="checkbox" type="checkbox" id="rank4_btn" name="rank"><label for="rank4_btn">4성</label>
-			<input class="checkbox" type="checkbox" id="rank5_btn" name="rank"><label for="rank5_btn">5성</label>
+			<input class="checkbox" type="checkbox" id="damaged"><label for="damaged"><?=L::database_viewdamaged?></label><br>
+			<input class="checkbox" type="checkbox" id="rank2_btn" name="rank"><label for="rank2_btn"><?=L::database_2star?></label>
+			<input class="checkbox" type="checkbox" id="rank3_btn" name="rank"><label for="rank3_btn"><?=L::database_3star?></label>
+			<input class="checkbox" type="checkbox" id="rank4_btn" name="rank"><label for="rank4_btn"><?=L::database_4star?></label>
+			<input class="checkbox" type="checkbox" id="rank5_btn" name="rank"><label for="rank5_btn"><?=L::database_5star?></label>
 			<input class="checkbox" type="checkbox" id="rank1_btn" name="rank"><label for="rank1_btn">SP</label><br>
 			<input class="checkbox" type="checkbox" id="type_ar_btn" name="type"><label for="type_ar_btn">AR</label>
 			<input class="checkbox" type="checkbox" id="type_smg_btn" name="type"><label for="type_smg_btn">SMG</label>
@@ -24,13 +24,17 @@
 			<input class="checkbox" type="checkbox" id="type_hg_btn" name="type"><label for="type_hg_btn">HG</label>
 			<input class="checkbox" type="checkbox" id="type_mg_btn" name="type"><label for="type_mg_btn">MG</label>
 			<br>
-			제조시간 : <input type="number" id="buildtime" /> ex) 8시간 10분-> 810, 0시간 53분->053<br>
-			이름 : <input type="text" id="dollname" /><br><br>
+			<?=L::database_buildtime?> : <input type="number" id="buildtime" /> <?=L::database_buildltime_ex?><br>
+			<?=L::database_name?> : <input type="text" id="dollname" /><br><br>
 			<div class="dollindex row">
 			<?php
 				foreach($dolls as $doll) {
 					$imgsrc = $doll->id; 
 					$imgsrc = $doll->name . "/pic/pic_" . $doll->name . "_n";
+					if($lang == 'en') 
+						$dollname = $doll->name;
+					else
+						$dollname = $doll->krName?$doll->krName:$doll->name;
 					?>
 				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=$doll->name?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>'>
 					<i class="rankbar"></i>
@@ -38,7 +42,7 @@
 						<img src="img/type/<?=strtoupper($doll->type)?><?=$doll->rank?>.png" class="typeicon">
 					</div>
 					<i class="portrait" data-src='img/characters/<?=$imgsrc?>.jpg' ></i>
-					<div class="portrait_name pt-2 pb-2"><?=$doll->krName?$doll->krName:$doll->name?></div>
+					<div class="portrait_name pt-2 pb-2"><?=$dollname?></div>
 				</a><?php } ?>
 			</div>
 		</div>

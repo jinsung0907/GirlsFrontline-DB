@@ -1,4 +1,8 @@
 <?php
+require_once "i18n.class.php";
+$i18n = new i18n('data/lang/lang_{LANGUAGE}.ini', 'data/lang/cache/', 'ko');
+$i18n->init();
+
 function audiocode_to_kr($code) {
 	switch($code) {
 		case "DIALOGUE1":					return '대화1'; break;
@@ -8,7 +12,7 @@ function audiocode_to_kr($code) {
 		case "Introduce":					return '소개말'; break;
 		case "ALLHALLOWS":				return '할로윈'; break;
 		case "DIALOGUEWEDDING":		return '서약대화'; break;
-		case "CHRISTMAS":					return '크리스마스'; break;
+		case "CHRISTMAS":					return '성탄절'; break;
 		case "HELLO":						return '로그인'; break;
 		case "SKILL1":						return '스킬1'; break;
 		case "SKILL2":						return '스킬2'; break;
@@ -19,24 +23,24 @@ function audiocode_to_kr($code) {
 		case "FIX":							return '수복'; break;
 		case "LOWMOOD":					return '탄식'; break;
 		case "MOOD2":						return '놀람'; break;
-		case "NEWYEAR":					return '신년'; break;
+		case "NEWYEAR":					return '새해'; break;
 		case "BLACKACTION":				return '자율작전'; break;
 		case "VALENTINE":					return '발렌타인'; break;
 		case "ATTACK":						return '공격'; break;
 		case "MOOD1":						return '웃음'; break;
 		case "AGREE":						return '동의'; break;
 		case "ACCEPT":						return '수락'; break;
-		case "FEED":							return '강화'; break;
+		case "FEED":							return '강화완료'; break;
 		case "DEFENSE":						return '방어'; break;
-		case "OPERATIONOVER":			return '지원완료'; break;
+		case "OPERATIONOVER":			return '지원복귀'; break;
 		case "COMBINE":					return '편제확대'; break;
 		case "GAIN":							return '획득'; break;
 		case "APPRECIATE":					return '감사'; break;
 		case "BUILDOVER":					return '제조완료'; break;
 		case "FEELING":						return 'FEELING'; break;
-		case "FORMATION":				return '편성'; break;
+		case "FORMATION":				return '제대편성'; break;
 		case "LOADING":					return '로딩'; break;
-		case "MEET":							return '전투개시'; break;
+		case "MEET":							return '적 조우'; break;
 		case "OPERATIONBEGIN":			return '지원출발'; break;
 		case "PHRASE":						return '말버릇(어구)'; break;
 		case "TANABATA":					return '칠석'; break;
@@ -105,10 +109,10 @@ function audiohex_to_str($hex, $type) {
 
 function fairytype_to_str($type) {
 	if($type == 'strategy') {
-		return '전략요정';
+		return L::fairy_type_tactical;
 	}
 	else if($type == 'battle') {
-		return '전투요정';
+		return L::fairy_type_battle;
 	}
 }
 function gunrank_to_img($rank) {

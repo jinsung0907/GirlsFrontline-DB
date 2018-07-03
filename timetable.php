@@ -12,9 +12,12 @@
 	foreach($fairies as $fairy) {
 		if(!$fairy->buildTime) continue;
 		$tmp[0] = $fairy->buildTime;
-		$tmp[1] = "요정";
+		$tmp[1] = L::fairyd;
 		$tmp[2] = "";
-		$tmp[3] = $fairy->krName;
+		if($lang == 'en') 
+			$tmp[3] = $fairy->name;
+		else 
+			$tmp[3] = $fairy->krName;
 		array_push($eqs, $tmp);
 	}
 	
@@ -22,25 +25,30 @@
 		if(!$equip->buildTime) continue;
 		$tmp[0] = $equip->buildTime;
 		$result = '';
-		switch($equip->type) {
-			case "nightvision": $result = '야시장비'; break;
-			case "apBullet": $result = '철갑탄'; break;
-			case "hpBullet": $result = '특수탄'; break;
-			case "sgBullet": $result = '산탄'; break;
-			case "hvBullet": $result = '고속탄'; break;
-			case "skeleton": $result = '외골격'; break;
-			case "armor": $result = '방탄판'; break;
-			case "silencer": $result = '소음기'; break;
-			case "ammoBox": $result = '탄약통'; break;
-			case "suit": $result = '슈트'; break;
-			case "scope": $result = '옵티컬'; break;
-			case "chip": $result = '칩셋'; break;
-			case "special": $result = '특수'; break;
-			case "holo": $result = '이오텍'; break;
-			case "reddot": $result = '레드 닷'; break;
+		if($lang == 'en') {
+			$result = $equip->type;
+		}
+		else {
+			switch($equip->type) {
+				case "nightvision": $result = '야시장비'; break;
+				case "apBullet": $result = '철갑탄'; break;
+				case "hpBullet": $result = '특수탄'; break;
+				case "sgBullet": $result = '산탄'; break;
+				case "hvBullet": $result = '고속탄'; break;
+				case "skeleton": $result = '외골격'; break;
+				case "armor": $result = '방탄판'; break;
+				case "silencer": $result = '소음기'; break;
+				case "ammoBox": $result = '탄약통'; break;
+				case "suit": $result = '슈트'; break;
+				case "scope": $result = '옵티컬'; break;
+				case "chip": $result = '칩셋'; break;
+				case "special": $result = '특수'; break;
+				case "holo": $result = '이오텍'; break;
+				case "reddot": $result = '레드 닷'; break;
+			}
 		}
 		$tmp[1] = $result;
-		$tmp[2] = $equip->rank . "성";
+		$tmp[2] = $equip->rank . L::grade;
 		$tmp[3] = $equip->name;
 		array_push($eqs, $tmp);
 	}
@@ -49,10 +57,10 @@
 		<div class="my-3 p-3 bg-white rounded box-shadow">
 			<ul class="nav nav-tabs" id="myTab" role="tablist">
 				<li class="nav-item">
-					<a class="nav-link active" id="doll-tab" data-toggle="tab" href="#doll" role="tab" aria-controls="doll" aria-selected="true">인형시간표</a>
+					<a class="nav-link active" id="doll-tab" data-toggle="tab" href="#doll" role="tab" aria-controls="doll" aria-selected="true"><?=L::database_dolltable?></a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" id="equip-tab" data-toggle="tab" href="#equip" role="tab" aria-controls="equip" aria-selected="false">장비시간표</a>
+					<a class="nav-link" id="equip-tab" data-toggle="tab" href="#equip" role="tab" aria-controls="equip" aria-selected="false"><?=L::database_equiptable?></a>
 				</li>
 			</ul>
 			
@@ -61,19 +69,20 @@
 					<table id="timetable">
 							<thead>
 								<tr>
-									<th>시간</th>
-									<th>종류</th>
-									<th>등급</th>
-									<th>이름</th>
+									<th><?=L::time?></th>
+									<th><?=L::database_type?></th>
+									<th><?=L::grade?></th>
+									<th><?=L::database_name?></th>
 								</tr>
 							</thead>
 					<?php foreach($dolls as $doll) { 
-						if(!$doll->buildTime) continue; ?>
+						if(!$doll->buildTime) continue; 
+						if($lang == 'en') $dollname = $doll->name; else $dollname = $doll->krName?>
 							<tr>
 								<td><?=gmdate("H:i", $doll->buildTime)?></td>
 								<td><?=strtoupper($doll->type)?></td>
-								<td><?=$doll->rank?>성</td>
-								<td><a href="doll.php?id=<?=$doll->id?>"><?=$doll->krName?></a></td>
+								<td><?=$doll->rank?><?=L::grade?></td>
+								<td><a href="doll.php?id=<?=$doll->id?>"><?=$dollname?></a></td>
 							</tr>
 					<?php } ?>
 						</table>
@@ -82,10 +91,10 @@
 					<table id="equiptimetable">
 						<thead>
 							<tr>
-								<th>시간</th>
-								<th>종류</th>
-								<th>등급</th>
-								<th>이름</th>
+								<th><?=L::time?></th>
+								<th><?=L::database_type?></th>
+								<th><?=L::grade?></th>
+								<th><?=L::database_name?></th>
 							</tr>
 						</thead>
 				<?php foreach($eqs as $eq) { ?>
@@ -111,13 +120,13 @@
 	$(document).ready(function () {
 		$('#timetable').DataTable({
 			'rowCallback': function(row, data, index){
-				if(data[2] == '3성'){
+				if(data[2] == '3<?=L::grade?>'){
 					$(row).css('background-color', '#5dd9c3');
 				} 
-				else if(data[2] == '4성'){
+				else if(data[2] == '4<?=L::grade?>'){
 					$(row).css('background-color', '#d6e35a');
 				}
-				else if(data[2] == '5성'){
+				else if(data[2] == '5<?=L::grade?>'){
 					$(row).css('background-color', '#fda809');
 				}
 			},
@@ -126,13 +135,13 @@
 		
 		$('#equiptimetable').DataTable({
 			'rowCallback': function(row, data, index){
-				if(data[2] == '3성'){
+				if(data[2] == '3<?=L::grade?>'){
 					$(row).css('background-color', '#5dd9c3');
 				} 
-				else if(data[2] == '4성'){
+				else if(data[2] == '4<?=L::grade?>'){
 					$(row).css('background-color', '#d6e35a');
 				}
-				else if(data[2] == '5성'){
+				else if(data[2] == '5<?=L::grade?>'){
 					$(row).css('background-color', '#fda809');
 				}
 			},

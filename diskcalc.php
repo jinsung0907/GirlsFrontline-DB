@@ -9,19 +9,19 @@
 				<form id="exp">
 					<div class="row">
 						<div class="col-md-2">
-							<span class="label">타입</span>
+							<span class="label"><?=L::diskcalc_type?></span>
 						</div>
 						<div class="col-md-10">
 							<select name="type">
-								<option value="1">인형</option>
-								<option value="2">서약인형</option>
-								<option value="3">요정</option>
+								<option value="1"><?=L::diskcalc_type_doll?></option>
+								<option value="2"><?=L::diskcalc_type_marrydoll?></option>
+								<option value="3"><?=L::diskcalc_type_fairy?></option>
 							</select>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-md-2">
-							<span class="label">현재 레벨</span>
+							<span class="label"><?=L::diskcalc_curlevel?></span>
 						</div>
 						<div class="col-md-10">
 							<input type="number" name="curlevel">
@@ -29,7 +29,7 @@
 					</div>
 					<div class="row">
 						<div class="col-md-2">
-							<span class="label">현재 경험치</span>
+							<span class="label"><?=L::diskcalc_curexp?></span>
 						</div>
 						<div class="col-md-10">
 							<input type="number" name="curexp">
@@ -37,14 +37,14 @@
 					</div>
 					<div class="row">
 						<div class="col-md-2">
-							<span class="label">목표 레벨</span>
+							<span class="label"><?=L::diskcalc_targetlevel?></span>
 						</div>
 						<div class="col-md-10">
 							<input type="number" name="targetlevel">
 						</div>
 					</div>
 					<div class="line">
-						<input type="submit" class="submit" value="계산하기">
+						<input type="submit" class="submit" value="<?=L::diskcalc_docalc?>">
 					</div>
 				</form><br>
 				<div class="resultWrap"></div>
