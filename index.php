@@ -2,6 +2,7 @@
 	define("GF_HEADER", "aaaaa");
 	
 	if(isset($_GET['lang'])) {
+		session_start();
 		if($_GET['lang'] == 'en') {
 			$_SESSION['lang'] = 'en';
 		}
