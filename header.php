@@ -1,5 +1,4 @@
 <?php if(GF_HEADER != "aaaaa") exit; 
-session_start();
 
 require_once("common.php");
 $langs = explode(",", $_SERVER['HTTP_ACCEPT_LANGUAGE']);
