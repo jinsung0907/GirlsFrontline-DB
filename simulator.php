@@ -1,9 +1,6 @@
 <?php
 	if(!empty($_POST)) {
 		$dolls = json_decode(file_get_contents("data/doll.json"));
-		
-		
-		
 		echo json_encode($_POST);
 		exit;
 	}
@@ -46,10 +43,8 @@
 	</style>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
-			<h2 class="pb-3 border-bottom border-gray">소전DB 제대편성&DPS시뮬레이터</h2>
-			현재 특정스킬만 지원(맨 아래 확인), 공격력 랜덤조정 미적용, 치명상 랜덤이 아닌 평균값으로 계산<br>
-			링크는 해당 레벨에서 가능한 최대치로 설정됨(ex 71lv -> 4링), 야간 스킬 적용안됨, 스킬레벨 10으로 고정 <br>
-			계산에 문제있으면 제보바람<br>
+			<h2 class="pb-3 border-bottom border-gray"><?=L::sim_title?></h2>
+			<?=L::sim_desc?>
 			
 			<div id="scapture">
 			<span id="watermark"></span>
@@ -93,7 +88,7 @@
 						<div id="screenshot_hide">
 							<form id="doll_inputs">
 								<select disabled id="sel_type">
-									<option>종류선택</option>
+									<option><?=L::sim_seltype?></option>
 									<option value="AR">AR</option>
 									<option value="RF">RF</option>
 									<option value="SMG">SMG</option>
@@ -102,21 +97,21 @@
 									<option value="HG">HG</option>
 								</select>
 								<select disabled id="sel_doll">
-									<option>종류 먼저 선택</option>
+									<option><?=L::sim_seltypefirst?></option>
 								</select>
-								<input disabled type="number" id="sel_level" style='width:50px' placeholder='레벨'/>
+								<input disabled type="number" id="sel_level" style='width:50px' placeholder='<?=L::level?>'/>
 								<select disabled id="sel_favor">
-									<option value="9">호감도 0~9</option>
-									<option value="50">호감도 10~89</option>
-									<option selected value="90">호감도 90~139</option>
-									<option value="140">호감도 140~189</option>
-									<option value="190">호감도 190~200</option>
+									<option value="9"><?=L::sim_favor?> 0~9</option>
+									<option value="50"><?=L::sim_favor?> 10~89</option>
+									<option selected value="90"><?=L::sim_favor?> 90~139</option>
+									<option value="140"><?=L::sim_favor?> 140~189</option>
+									<option value="190"><?=L::sim_favor?> 190~200</option>
 								</select>
 							</form>
 							<br>
-							<button id="delete">지우기</button>
-							<button style="display:none" id="submitbtn">DPS계산</button>
-							<button onclick="ScreenCapture()">스크린샷</button>
+							<button id="delete"><?=L::sim_delete?></button>
+							<button style="display:none" id="submitbtn"><?=L::sim_calcdps?></button>
+							<button onclick="ScreenCapture()"><?=L::sim_screenshot?></button>
 							<br>
 						</div>
 						<canvas id="myChart" width="400" height="400"></canvas>
@@ -126,7 +121,7 @@
 			</div>
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
-			<h3>히스토리</h3>
+			<h3><?=L::sim_history?></h3>
 			1.3 v (18/6/8)<br>
 			 - 표준 저격 스킬 구현 (저격개시, 정밀저격, 목표제거, 확인사살)<br>
 			 - IWS2000 전용스킬(육참골단) 구현<br>
@@ -187,6 +182,7 @@
 	<script src="dist/Chart.bundle.min.js"></script>
 	<script src="dist/html2canvas.min.js"></script>
 	<script>
+		var lang = '<?=$lang?>';
 		
 		window.chartColors = {
 			red: 'rgb(255, 99, 132)',
@@ -335,7 +331,7 @@
 			console.log("type sel : " + type);
 			
 			$("#sel_doll").empty().append($('<option>', {
-				text: "종류 먼저 선택"
+				text: "<?=L::sim_seltypefirst?>"
 			}));
 			
 			for(var i in dolls) {
@@ -776,21 +772,26 @@
 		}
 		
 		function getDollName(doll) {
-			if(typeof doll.krName !== 'undefined') {
-				return doll.krName;
-			} else {
+			if(lang == 'en') {
 				return doll.name;
+			}
+			else {
+				if(typeof doll.krName !== 'undefined') {
+					return doll.krName;
+				} else {
+					return doll.name;
+				}
 			}
 		}
 		
 		function ScreenCapture() {
-			$("#watermark").text("소전DB 제대편성&DPS시뮬레이터 : gfl.zzzzz.kr/simulator.php");
+			$("#watermark").text("<?=L::sim_title?> : gfl.zzzzz.kr/simulator.php");
 			var x = document.getElementById("screenshot_hide");
 			x.style.display = "none";
 			
 			try {
 				html2canvas(document.querySelector("#scapture")).then(canvas => {
-					alert("하단 히스토리 아래의 이미지를 저장해주세요.");
+					alert("<?=L::sim_screenshot_desc?>");
 					var capimg = document.createElement("img");
 					capimg.src = canvas.toDataURL();
 					capimg.style.width = "100%";
