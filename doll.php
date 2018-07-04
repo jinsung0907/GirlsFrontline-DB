@@ -456,8 +456,8 @@
 					</div>
 					<b><?=L::database_rare?></b> : <?=gunrank_to_img($doll->rank)?><hr class="mt-1 mb-1">
 					<b><?=L::database_type?></b> : <?=guntype_to_str($doll->type)?>(<?=strtoupper($doll->type)?>)<hr class="mt-1 mb-1">
-					<b><?=L::database_voice?></b> : <?=$doll->voice?><hr class="mt-1 mb-1">
-					<b><?=L::database_buildtime?></b> : <?=$doll->buildTime?gmdate("H시간 i분", $doll->buildTime): L::database_cantbuild?><hr class="mt-1 mb-1">
+					<b><?=L::database_voice?></b> : <?=isset($doll->voice)?$doll->voice:''?><hr class="mt-1 mb-1">
+					<b><?=L::database_buildtime?></b> : <?=isset($doll->buildTime)?gmdate("H시간 i분", $doll->buildTime): L::database_cantbuild?><hr class="mt-1 mb-1">
 					<b><?=L::database_skin?></b> : <?=$skinstr?><hr class="mt-1 mb-1">
 					<div class="row">
 						<div class="col-md-auto align-self-center">
@@ -479,7 +479,7 @@
 								</tr>
 								<tr>
 									<td><?=L::database_armor?> : <span id="dollstats_armor">-</span></td>
-									<td><?=L::database_bullet?> : <?=$doll->stats->bullet ? $doll->stats->bullet : '- '?><?=L::database_bullet_cnt?></td>
+									<td><?=L::database_bullet?> : <?=isset($doll->stats->bullet)?$doll->stats->bullet : '- '?><?=L::database_bullet_cnt?></td>
 									<td colspan=2>
 										<select id="statlevel"><?php for($i = 1 ; $i <= $maxlevel ; $i++) {?>
 											<option <?=($i == 100)?'selected' : ''?> value="<?=$i?>"><?=$i?><?=L::level?></option> <?php } ?>
@@ -501,7 +501,7 @@
 				<?php if($skill->desc !== "사용 불가") { ?>
 					<div class="row pb-0">
 						<div class="col-md-auto align-self-center">
-							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$doll->skill->name?$doll->skill->name:$skill->name?>
+							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=isset($doll->skill->name)?$doll->skill->name:$skill->name?>
 						</div>
 						<div class="col">
 							<select id="skilllevel">
@@ -555,7 +555,7 @@
 						</div>
 						<div class="col">
 							<?=$skill2->desc?><br>
-							<?=$mod3_skillcolldown?>
+							<?=isset($mod3_skillcolldown)?$mod3_skillcolldown:''?>
 						</div>
 					</div>
 					<hr class="mt-1 mb-1">
