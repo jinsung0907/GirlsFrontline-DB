@@ -10,6 +10,7 @@ if($langs[0] == "en" || $langs[0] == "en-US" || $_SESSION['lang'] == 'en') {
 }
 
 if(!isset($header_title)) $header_title = '소전DB | zzzzz.kr';
+if(!isset($header_desc)) $header_desc = '';
 ?>
 <!doctype html>
 <html lang="ko">

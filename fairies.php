@@ -20,7 +20,7 @@
 					if($lang == 'en') 
 						$fairyname = ucfirst($fairy->name) . " Fairy";
 					else 
-						$fairy->krName?$fairy->krName:$fairy->name;
+						$fairyname = isset($fairy->krName)?$fairy->krName:$fairy->name;
 					?>
 				<a href="fairy.php?id=<?=$fairy->id?>" class="fairyindex item" data-name='<?=$fairy->krName?>' data-buildtime='<?=gmdate("Gi", $fairy->buildTime)?>'>
 					<i class="portrait fairy" style="background-image: url('img/fairy/<?=$imgsrc?>.png');" ></i>

@@ -279,7 +279,7 @@
 	}
 	
 	//진형효과 진형 불러오기
-	$effectpos = [];
+	$effectpos = ['','','','','','','','','',''];
 	$effectpos[$doll->effect->effectCenter] = 'class="center"';
 	foreach($doll->effect->effectPos as $pos) {
 		$effectpos[$pos] = 'class="affected"';
@@ -415,7 +415,7 @@
 ?>
     <main role="main" class="container-fluid">
 		<div class="my-1 p-3 bg-white rounded box-shadow">
-			<h2 style="display: inline" class="mr-2">#<?=$doll->id?> <?=$doll->krName?$doll->krName:$doll->name?></h2><i><span class="text-muted"><?=$doll->name?></span></i><br>
+			<h2 style="display: inline" class="mr-2">#<?=$doll->id?> <?=isset($doll->krName)?$doll->krName:$doll->name?></h2><i><span class="text-muted"><?=$doll->name?></span></i><br>
 			<hr class="mt-1 mb-1">
 			<div class="row">
 				<div class="col-lg-7">

@@ -34,7 +34,7 @@
 					if($lang == 'en') 
 						$dollname = $doll->name;
 					else
-						$dollname = $doll->krName?$doll->krName:$doll->name;
+						$dollname = isset($doll->krName)?$doll->krName:$doll->name;
 					?>
 				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=$doll->name?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>'>
 					<i class="rankbar"></i>
