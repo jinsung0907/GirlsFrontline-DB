@@ -1,7 +1,13 @@
 <?php
+session_start();
+
 require_once "i18n.class.php";
 $i18n = new i18n('data/lang/lang_{LANGUAGE}.ini', 'data/lang/cache/', 'ko');
 $i18n->init();
+
+if($_SESSION['lang'] == 'en') {
+	$lang = 'en';
+}
 
 function audiocode_to_kr($code) {
 	switch($code) {

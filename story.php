@@ -2,7 +2,7 @@
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
 	
-	if(explode(",", $_SERVER['HTTP_ACCEPT_LANGUAGE'])[0] == "en") {
+	if($lang == "en") {
 		$storys = json_decode(file_get_contents("story_json/en/story.txt"));
 		$langdir = '/en/';
 	}
