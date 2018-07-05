@@ -1,5 +1,7 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	$header_desc = "소녀전선 장비 목록, 소녀전선 장비 리스트, 소녀전선 추천장비";
+	$header_title = "소전DB 장비리스트	 | 소전DB";
 	require_once("header.php");
 	
 	$equips = json_decode(file_get_contents("data/equip.json"));
