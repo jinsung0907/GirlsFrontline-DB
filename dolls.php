@@ -29,7 +29,6 @@
 			<div class="dollindex row">
 			<?php
 				foreach($dolls as $doll) {
-					$imgsrc = $doll->id; 
 					$imgsrc = $doll->name . "/pic/pic_" . $doll->name . "_n";
 					if($lang == 'en') 
 						$dollname = $doll->name;

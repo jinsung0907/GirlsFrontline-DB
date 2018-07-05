@@ -10,6 +10,7 @@ if($langs[0] == "en" || $langs[0] == "en-US" || $_SESSION['lang'] == 'en') {
 
 if(!isset($header_title)) $header_title = '소전DB | zzzzz.kr';
 if(!isset($header_desc)) $header_desc = '';
+if(!isset($header_image)) $header_image = ''; else $header_image = '<meta property="og:image" content="' . $header_image . '"/>'
 ?>
 <!doctype html>
 <html lang="ko">
@@ -29,8 +30,10 @@ if(!isset($header_desc)) $header_desc = '';
     <meta name="keywords" content="소녀전선DB, 소전DB, 스토리, 소전, 소전 스토리, 소녀전선, 소녀전선 스토리, <?=$header_desc?>">
     <meta name="author" content="Jinsung">
 	<meta name="theme-color" content="#F0A900"> 
+	<meta property="og:type" content="website"/>
 	<meta property="og:title" content="<?=$header_title?>"/>
-	<meta property="og:url" content="http://gfl.zzzzz.kr"/>
+	<meta property="og:url" content="http://<?=$_SERVER[HTTP_HOST] . $_SERVER[REQUEST_URI] ?>"/>
+	<?=$header_image?>
 	<meta property="og:description" content="<?=$header_desc?>, 소녀전선DB, 소전DB, 스토리, 소전, 소전 스토리, 소녀전선, 소녀전선 스토리"/>
 	
     <title><?=$header_title?></title>
