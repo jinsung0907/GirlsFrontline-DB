@@ -1,12 +1,6 @@
 <?php if(GF_HEADER != "aaaaa") exit; 
 
 require_once("common.php");
-$langs = explode(",", $_SERVER['HTTP_ACCEPT_LANGUAGE']);
-if($langs[0] == "en" || $langs[0] == "en-US" || $_SESSION['lang'] == 'en') {
-	$lang = 'en';
-} else {
-	$lang = 'ko';
-}
 
 if(!isset($header_title)) $header_title = '소전DB | zzzzz.kr';
 if(!isset($header_desc)) $header_desc = '';

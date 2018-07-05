@@ -1,5 +1,6 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	require_once("common.php");
 	
 	$t = $_GET['t'];
 	$q = $_GET['q'];

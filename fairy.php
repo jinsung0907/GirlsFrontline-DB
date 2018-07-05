@@ -1,5 +1,6 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	require_once("common.php");
 	
 	if(empty($_GET['id'])) { header("Location: http://gfl.zzzzz.kr/fairies.php"); exit();}
 	
@@ -20,10 +21,7 @@
 		}
 	}
 	
-	$header_title =  "" . $fairy->krName . ", " . $fairy->name . " | 소전 DB";
-	$header_desc = "" . $fairy->krName . ", ". $fairy->name;
-	require_once("header.php");	
-	if(empty($fairy)) exit('<main role="main" class="container"><div class="my-3 p-3 bg-white rounded box-shadow">데이터 없음</div></main>');
+	if(empty($fairy)) Error('데이터 없음');
 	
 	//스킬데이터 불러오기
 	$skills = json_decode(file_get_contents("data/skill.json"));
@@ -130,6 +128,10 @@
 	else {
 		$fairyname = $fairy->krName?$fairy->krName:$fairy->name;
 	}
+	
+	$header_title =  "" . $fairy->krName . ", " . $fairy->name . " | 소전 DB";
+	$header_desc = "" . $fairy->krName . ", ". $fairy->name;
+	require_once("header.php");	
 ?>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">

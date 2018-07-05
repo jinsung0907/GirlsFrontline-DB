@@ -1,5 +1,6 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	require_once("common.php");
 	
 	if(isset($_GET['lang'])) {
 		session_start();

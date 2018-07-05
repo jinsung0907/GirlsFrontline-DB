@@ -1,5 +1,6 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	require_once("common.php");
 	
 	if(empty($_GET['id'])) { header("Location: http://gfl.zzzzz.kr/dolls.php", true, 301); exit();}
 	
@@ -29,11 +30,7 @@
 		}
 	}
 	
-	$header_title =  "" . $doll->name . ", " . $doll->krName . " | 소전 DB";
-	$header_desc = "{$doll->krName}, {$doll->krName} 보이스, {$doll->krName} SD, {$doll->krName} 스킨, {$doll->name}, 소녀전선 검열, " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
-	$header_image = "http://gfl.zzzzz.kr/img/characters/" .$doll->name . "/pic/pic_" . $doll->name . "_n.jpg";
-	require_once("header.php");	
-	if(empty($doll)) exit('<main role="main" class="container"><div class="my-3 p-3 bg-white rounded box-shadow">데이터 없음<br><br>NPC, BOSS는 데이터가 존재하지 않습니다.<br> 인형의 경우는 데이터가 안맞는것으로 게시판에 알려주심됩니다.</div></main>');
+	if(empty($doll)) Error('데이터 없음<br><br>NPC, BOSS는 데이터가 존재하지 않습니다.<br> 인형의 경우는 데이터가 안맞는것으로 게시판에 알려주심됩니다.');
 	
 	$maxlevel = 100;
 	if($doll->id > 20000) {
@@ -413,6 +410,11 @@
 	else {
 		$live2d_list = '\'\'';
 	}
+	
+	$header_title =  "" . $doll->name . ", " . $doll->krName . " | 소전 DB";
+	$header_desc = "{$doll->krName}, {$doll->krName} 보이스, {$doll->krName} SD, {$doll->krName} 스킨, {$doll->name}, 소녀전선 검열, " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
+	$header_image = "http://gfl.zzzzz.kr/img/characters/" .$doll->name . "/pic/pic_" . $doll->name . "_n.jpg";
+	require_once("header.php");
 ?>
     <main role="main" class="container-fluid">
 		<div class="my-1 p-3 bg-white rounded box-shadow">

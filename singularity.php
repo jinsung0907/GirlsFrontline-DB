@@ -1,5 +1,6 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	require_once("common.php");
 	
 	$header_desc = "특이점, 특이점 스토리, 소녀전선 특이점 스토리";
 	$header_title = "특이점 | 소전DB";

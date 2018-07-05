@@ -1,5 +1,7 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	require_once("common.php");
+	
 	$header_title = "소전DB 인형리스트 | 소전DB";
 	$header_desc = "소녀전선 인형 목록, 소녀전선 인형 리스트, 소녀전선 추천인형, 소녀전선 SD, 소녀전선 보이스";
 	require_once("header.php");

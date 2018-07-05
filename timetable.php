@@ -1,8 +1,7 @@
 <?php
 	define("GF_HEADER", "aaaaa");
-	$header_desc = "소녀전선 시간표, 소전 시간표, 소녀전선 제조시간표, 소전 제조시간표, 소녀전선 인형시간표, 소녀전선 장비시간표, 소녀전선 인형시간표";
-	$header_title = "소전DB 시간표 | 소전DB";
-	require_once("header.php");
+	require_once("common.php");
+	
 	$dolls = json_decode(file_get_contents("data/doll.json"));
 	$fairies = json_decode(file_get_contents("data/fairy.json"));
 	$equips = json_decode(file_get_contents("data/equip.json"));
@@ -52,6 +51,10 @@
 		$tmp[3] = $equip->name;
 		array_push($eqs, $tmp);
 	}
+	
+	$header_desc = "소녀전선 시간표, 소전 시간표, 소녀전선 제조시간표, 소전 제조시간표, 소녀전선 인형시간표, 소녀전선 장비시간표, 소녀전선 인형시간표";
+	$header_title = "소전DB 시간표 | 소전DB";
+	require_once("header.php");
 ?>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">

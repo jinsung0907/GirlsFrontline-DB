@@ -1,14 +1,41 @@
 <?php
+if(GF_HEADER != "aaaaa") exit; 
 session_start();
+
+/*언어 처리 우선순위
+1. session값 2. http언어값*/
+if(isset($_SESSION['lang'])) {
+	if($_SESSION['lang'] == 'en')
+		$lang = 'en';
+	else 
+		$lang = 'ko';
+}
+else {
+	if($langs[0] == "en" || $langs[0] == "en-US")
+		$lang = 'en';
+	else 
+		$lang = 'ko';
+}
 
 require_once "i18n.class.php";
 $i18n = new i18n('data/lang/lang_{LANGUAGE}.ini', 'data/lang/cache/', 'ko');
 $i18n->init();
+//언어 처리 끝
 
-if($_SESSION['lang'] == 'en') {
-	$lang = 'en';
+
+//에러 페이지
+function Error($str) {
+	require_once("header.php");
+		echo '<main role="main" class="container">
+		<div class="my-3 p-3 bg-white rounded box-shadow">
+			ERROR : ' . $str . '
+		</div>
+    </main>';
+	require_once("footer.php");
+	exit;
 }
 
+//캐릭 보이스 코드 -> 한국어 변환
 function audiocode_to_kr($code) {
 	switch($code) {
 		case "DIALOGUE1":					return '대화1'; break;
@@ -56,6 +83,7 @@ function audiocode_to_kr($code) {
 	}
 }
 
+//acb 16진수 -> 오디오코드 변환
 function audiohex_to_str($hex, $type) {
 	//type 0 -> 40개 보이스
 	//type 1 -> 41개 보이스
@@ -113,6 +141,7 @@ function audiohex_to_str($hex, $type) {
 	return $arr[$no];
 }
 
+//인형 타입 출력
 function fairytype_to_str($type) {
 	if($type == 'strategy') {
 		return L::fairy_type_tactical;
@@ -121,6 +150,8 @@ function fairytype_to_str($type) {
 		return L::fairy_type_battle;
 	}
 }
+
+//인형 별 개수에 따라 반복출력
 function gunrank_to_img($rank) {
 	$result = "";
 	for($i = 1 ; $i<= $rank ; $i++) {
@@ -128,6 +159,8 @@ function gunrank_to_img($rank) {
 	}
 	return $result;
 }
+
+//총기 코드 변환
 function guntype_to_str($type) {
 	$type = strtolower($type);
 	switch($type) {
@@ -139,6 +172,8 @@ function guntype_to_str($type) {
 		case 'hg': return "권총";
 	}
 }
+
+//스토리용 요정 이미지 불러오기
 function getcharimgdir_fairy($str, $emo) {
 	if($str == "DJMAXSUEE") {
 		switch($emo) {
@@ -156,13 +191,14 @@ function getcharimgdir_fairy($str, $emo) {
 		}
 	}
 }
+
+//스토리용 인형 이미지 불러오기
 function getcharimgdir($str, $emo) {
 	$dolls = json_decode(file_get_contents("data/doll.json"));
 	if($str == "FAL") $str = "FNFAL";
 	if($str == "MK2") $str = "StenMK2";
 	if($str == "에이전트") $str = "BOSS-8";
 	if($str == "RO") { $str = "RO635"; $emo = "0"; }
-	
 	
 	//dolls.json에 있는것들
 	foreach($dolls as $doll) {
@@ -422,7 +458,7 @@ function getcharimgdir($str, $emo) {
 		}
 	}
 	
-	//dolls.json에 없는것들
+	//dolls.json에 없는것들 (NPC, 스토리전용 이미지)
 	if($str == "M16") {
 		switch($emo) {
 			case 0: $result = "dolls/54"; break;
