@@ -432,7 +432,7 @@
 							</select>
 						</div>
 					</div>
-					<div class="doll_img">
+					<div class="doll_img" style="max-height: 100%">
 						<img skin-id="0" src="img/characters/<?=$doll->name?>/pic/pic_<?=$doll->name?>.png">
 					</div>
 					<div id="live2d_div" style="display:none">
@@ -460,7 +460,7 @@
 					<b><?=L::database_rare?></b> : <?=gunrank_to_img($doll->rank)?><hr class="mt-1 mb-1">
 					<b><?=L::database_type?></b> : <?=guntype_to_str($doll->type)?>(<?=strtoupper($doll->type)?>)<hr class="mt-1 mb-1">
 					<b><?=L::database_voice?></b> : <?=isset($doll->voice)?$doll->voice:''?><hr class="mt-1 mb-1">
-					<b><?=L::database_buildtime?></b> : <?=isset($doll->buildTime)?gmdate("H시간 i분", $doll->buildTime): L::database_cantbuild?><hr class="mt-1 mb-1">
+					<b><?=L::database_buildtime?></b> : <?=isset($doll->buildTime)&&$doll->buildTime!=0?gmdate("H시간 i분", $doll->buildTime): L::database_cantbuild?><hr class="mt-1 mb-1">
 					<b><?=L::database_skin?></b> : <?=$skinstr?><hr class="mt-1 mb-1">
 					<div class="row">
 						<div class="col-md-auto align-self-center">
@@ -795,8 +795,8 @@
 			return 0.15;
 		}
 		
-		$(".doll_img img").on('click', function(e) {
-			var elem = document.getElementById("dollcarousel");
+		$(".doll_img").on('click', function(e) {
+			var elem = $(this)[0];
 			if (elem.requestFullscreen) {
 				elem.requestFullscreen();
 			} else if (elem.mozRequestFullScreen) {

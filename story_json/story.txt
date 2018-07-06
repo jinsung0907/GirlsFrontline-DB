@@ -954,7 +954,7 @@
 		"name": "파해법칙",
 		"keyword": "",
 		"keyword_en": "",
-		"desc": "",
+		"desc": "큐브작전+",
 		"list": [
 			{
 				"type": "일반",
