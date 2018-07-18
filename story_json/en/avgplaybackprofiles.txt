@@ -5,3 +5,4 @@
 4|Chapter|EP.|04
 5|Chapter|EP.|05
 6|Chapter|EP.|06
+-1|Op. Cube|SP.|01

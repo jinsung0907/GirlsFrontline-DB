@@ -455,7 +455,7 @@ UMP9|Wedding|This warm feeling...<>Is this the feeling of "love"?<>With this, we
 UMP9|Introduce|UMP9 has come home! Everybody, we're family now!
 UMP9|VALENTINE|Commander, haven't you received quite a lot of chocolates today? ...Then it's ok to accept one more, right? Hehe♪
 UMP9|ALLHALLOWS|Trick or treat!
-UMP9|DIALOGUEWEDDING|Commander, are you heading out? As your family, should I be giving you a "goodbye kiss"? You were looking forward to it, right?! I saw in your eyes!
+UMP9|DIALOGUEWEDDING|Commander, are you heading out? As your family, should I be giving you a "goodbye kiss"? You were looking forward to it, right?! I saw it in your eyes!
 MAC10|DIALOGUE1|Commander, please watch your step. You nearly stepped on an ant...
 MAC10|DIALOGUE2|Friends? I'm not interested in such a thing...
 MAC10|DIALOGUE3|To be liked by everyone...not once have I ever thought of wanting such a thing. The strong...are lonely.
