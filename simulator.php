@@ -123,6 +123,9 @@
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3><?=L::sim_history?></h3>
+			1.3.1 v (18/7/31)<br>
+			 - 스킬 쿨타임 감소 버프진형과 관련해 문제가 있어 수정<br>
+			<br>
 			1.3 v (18/6/8)<br>
 			 - 표준 저격 스킬 구현 (저격개시, 정밀저격, 목표제거, 확인사살)<br>
 			 - IWS2000 전용스킬(육참골단) 구현<br>
@@ -236,7 +239,7 @@
 					var colorName = colorNames[0];
 				var newColor = window.chartColors[colorName];
 				var newDataset = {
-					label: getDollName(doll) +" DMG",
+					label: getDollName(doll),
 					borderColor: newColor,
 					//backgroundColor: color(newColor).alpha(0.5).rgbString(),
 					data: secdmg,
@@ -376,7 +379,7 @@
 			var doll = searchDoll(dollid);
 			$("#grid" + selected_item + " .content").empty().append($('<img>', {
 				class: 'dollicon',
-				src: 'img/dolls/icons/' + iconnum + '.png'
+				src: 'img/icons/' + iconnum + '.png'
 			}))
 			.append(drawskilltile(doll.effect.effectPos, doll.effect.effectCenter));
 			

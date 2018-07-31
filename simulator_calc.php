@@ -7,7 +7,7 @@
 	session_start();
 	$time = time();
 	if(isset($_SESSION['time'])) {
-		if(($time - $_SESSION['time']) <= 1) {
+		if(($time - $_SESSION['time']) <= 0.5) {
 			exit;
 		}
 	}
@@ -98,18 +98,20 @@
 		if(!isset($grid[$key][$doll->type]['cooldown']) || $grid[$key][$doll->type]['cooldown'] == 0) {
 			$cooldown = 0;
 		} else {
-			$cooldown = 1 + $grid[$key][$doll->type]['cooldown'] / 100;
+			$cooldown = 1 - $grid[$key][$doll->type]['cooldown'] / 100;
 		}
 		//$cooldown;
 		//$cooldown = floor(ceil((ceil($stat['cooldown']) + $gear) * $fairybuff) * $grid_cooldown * $dollskill * $fairyskill * $fairyattr);
 		
+		//스킬 타이밍 계산
 		$i = 0;
 		while($i < 450) {		
 			//초반쿨이 있을경우
 			if($i == 0 && isset($doll->skill->dataPool->IC)) {
 				$cooltime = $doll->skill->dataPool->IC;
 				//쿨타임 보너스 적용
-				$cooltime = $cooltime - $cooltime*($cooldown / 100);
+				//$cooltime = $cooltime - $cooltime*($cooldown / 100);
+				$cooltime = $cooltime*$cooldown;
 				$cooltime = $cooltime * 30; //프레임으로 바꿈
 				$i += $cooltime;
 				
@@ -221,7 +223,7 @@
 					$fireframe += ceil((1.5 + (0.5*$doll_ammocnt))*30);
 				}
 				$ammocnt = $doll_ammocnt;
-				continue;
+				//continue;
 			}		
 
 			/*
