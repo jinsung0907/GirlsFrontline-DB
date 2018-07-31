@@ -7,6 +7,9 @@
 		if($_GET['lang'] == 'en') {
 			$_SESSION['lang'] = 'en';
 		}
+		else if($_GET['lang'] == 'ja') {
+			$_SESSION['lang'] = 'ja';
+		}
 		else if($_GET['lang'] == 'ko') {
 			$_SESSION['lang'] = 'ko';
 		}

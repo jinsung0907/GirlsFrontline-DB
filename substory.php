@@ -88,7 +88,13 @@
 							if($i == $line->speaker) {
 								$strcount .= ' saying';
 							}
-							echo "<img class=\"storydoll $strnum $strcount\" src='img/$imgdir.png'>";
+							if($imgdir != "") {
+								echo "<img class=\"storydoll $strnum $strcount\" src='img/$imgdir.png'>";
+							} 
+							else {
+								$imgdir = getcharimgdir_fairy($char, $line->character_emotion[$i]);
+								echo "<img class=\"storyfairy fairy $strnum $strcount\" src='img/$imgdir.png'>";
+							}
 							$i++;
 						}
 						echo "</div>";

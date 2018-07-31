@@ -17,6 +17,13 @@
 			<h6 class="border-bottom border-gray pb-2 mb-0"></h6>
 			<div class="media text-muted pt-3">
 				<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+					<strong class="d-block text-dark">콜트 리볼버</strong>
+					<a href="substory.php?t=1&q=1-1">MOD 1</a>
+					<a href="substory.php?t=1&q=1-2">MOD 2</a>
+					<a href="substory.php?t=1&q=1-3">MOD 3</a>
+					<a href="substory.php?t=1&q=1-4">MOD 4</a>
+					<br><br>
+					
 					<strong class="d-block text-dark">M1911</strong>
 					<a href="substory.php?t=1&q=2-1">MOD 1</a>
 					<a href="substory.php?t=1&q=2-2">MOD 2</a>
@@ -24,11 +31,11 @@
 					<a href="substory.php?t=1&q=2-4">MOD 4</a>
 					<br><br>
 					
-					<strong class="d-block text-dark">FN-49</strong>
-					<a href="substory.php?t=1&q=51-1">MOD 1</a>
-					<a href="substory.php?t=1&q=51-2">MOD 2</a>
-					<a href="substory.php?t=1&q=51-3">MOD 3</a>
-					<a href="substory.php?t=1&q=51-4">MOD 4</a>
+					<strong class="d-block text-dark">SV-98</strong>
+					<a href="substory.php?t=1&q=44-1">MOD 1</a>
+					<a href="substory.php?t=1&q=44-2">MOD 2</a>
+					<a href="substory.php?t=1&q=44-3">MOD 3</a>
+					<a href="substory.php?t=1&q=44-4">MOD 4</a>
 					<br><br>
 					
 					<strong class="d-block text-dark">M4A1</strong>
@@ -38,11 +45,25 @@
 					<a href="substory.php?t=1&q=55-4">MOD 4</a>
 					<br><br>
 					
+					<strong class="d-block text-dark">G3</strong>
+					<a href="substory.php?t=1&q=63-1">MOD 1</a>
+					<a href="substory.php?t=1&q=63-2">MOD 2</a>
+					<a href="substory.php?t=1&q=63-3">MOD 3</a>
+					<a href="substory.php?t=1&q=63-4">MOD 4</a>
+					<br><br>
+					
 					<strong class="d-block text-dark">ST AR-15</strong>
 					<a href="substory.php?t=1&q=57-1">MOD 1</a>
 					<a href="substory.php?t=1&q=57-2">MOD 2</a>
 					<a href="substory.php?t=1&q=57-3">MOD 3</a>
 					<a href="substory.php?t=1&q=57-4">MOD 4</a>
+					<br><br>
+					
+					<strong class="d-block text-dark">브렌</strong>
+					<a href="substory.php?t=1&q=89-1">MOD 1</a>
+					<a href="substory.php?t=1&q=89-2">MOD 2</a>
+					<a href="substory.php?t=1&q=89-3">MOD 3</a>
+					<a href="substory.php?t=1&q=89-4">MOD 4</a>
 					<br><br>
 					
 					<strong class="d-block text-dark">IDW</strong>

@@ -7,12 +7,16 @@ session_start();
 if(isset($_SESSION['lang'])) {
 	if($_SESSION['lang'] == 'en')
 		$lang = 'en';
+	else if($_SESSION['lang'] == 'ja')
+		$lang = 'ja';
 	else 
 		$lang = 'ko';
 }
 else {
 	if($langs[0] == "en" || $langs[0] == "en-US")
 		$lang = 'en';
+	else if($langs[0] == "ja" || $langs[0] == "ja-JP")
+		$lang = 'ja';
 	else 
 		$lang = 'ko';
 }
@@ -190,6 +194,21 @@ function getcharimgdir_fairy($str, $emo) {
 			case 0: return "fairy/djmaxpreiya_1"; break;
 		}
 	}
+	else if($str == "FairyWarrior") {
+		switch($emo) {
+			case 0: return "fairy/fighting_1"; break;
+		}
+	}
+	else if($str == "FairyTaunt") {
+		switch($emo) {
+			case 0: return "fairy/target_1"; break;
+		}
+	}
+	else if($str == "FairyGold") {
+		switch($emo) {
+			case 0: return "fairy/golden_1"; break;
+		}
+	}
 }
 
 //스토리용 인형 이미지 불러오기
@@ -206,15 +225,41 @@ function getcharimgdir($str, $emo) {
 		
 		if(strtoupper($doll->name) == strtoupper($str)) {
 			$result = $doll->id;
-			
+			/*
 			if($doll->id > 20000) {
 				$result = $result - 20000 . "_U";
-			}
+			}*/
 			
 			if($emo == 0) {
 				$result = "dolls/" . $result;
 			}
-			if($str == "Grizzly") {
+			if($str == "NTW20") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "dolls/" . $result . "_1"; break;
+					case 3: $result = "dolls/" . $result . "_1_D"; break;
+					case 4: $result = "dolls/" . $result . "_3"; break;
+					case 5: $result = "dolls/" . $result . "_3_D"; break;
+					case 6: $result = "dolls/" . $result . "_2"; break;
+					case 7: $result = "dolls/" . $result . "_2_D"; break;
+					case 8: $result = "dolls/" . $result . "_4"; break;
+					case 9: $result = "dolls/" . $result . "_4_D"; break;
+				}
+			}
+			else if($str == "G28") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "dolls/" . $result . "_2"; break;
+					case 3: $result = "dolls/" . $result . "_2_D"; break;
+					case 4: $result = "dolls/" . $result . "_1"; break;
+					case 5: $result = "dolls/" . $result . "_1_D"; break;
+					case 6: $result = "dolls/" . $result . "_3"; break;
+					case 7: $result = "dolls/" . $result . "_3_D"; break;
+					case 8: $result = "dolls/" . $result . "_4"; break;
+					case 9: $result = "dolls/" . $result . "_4_D"; break;
+				}
+			}
+			else if($str == "Grizzly") {
 				switch($emo) {
 					case 1: $result = "dolls/" . $result . "_D"; break;
 					case 2: $result = "dolls/" . $result . "_3"; break;
