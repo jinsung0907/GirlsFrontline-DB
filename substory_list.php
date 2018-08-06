@@ -6,8 +6,8 @@
 	$header_desc = "소녀전선 스토리, 개장 스토리, 스킨스토리, 소전 스토리, "; 
 	require_once("header.php");
 	
-	if($lang == 'en') {
-		$storys = json_decode(file_get_contents("data/substory_en.json"));
+	if($lang != 'ko') {
+		$storys = json_decode(file_get_contents("data/substory_$lang.json"));
 	}
 	else $storys = json_decode(file_get_contents("data/substory.json"));
 ?>

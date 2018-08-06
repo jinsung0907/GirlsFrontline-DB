@@ -7,6 +7,10 @@
 
 	$title;
 	
+	$langdir = '';
+	if($lang != 'ko') 
+		$langdir = $lang . '/';
+	
 	if($t === "1") {
 		$div = explode("-", $q);
 		$dolls = json_decode(file_get_contents("data/doll.json"));
@@ -15,11 +19,15 @@
 				$title = $doll->krName . " 인형의 추억";
 			}
 		}
-		$file = json_decode(file_get_contents("story_json/memoir/".$div[0]."_".$div[1].".txt"));
+		$file = json_decode(file_get_contents("story_json/{$langdir}memoir/".$div[0]."_".$div[1].".txt"));
 	}
 	
 	if($t === "2") {
-		$storys = json_decode(file_get_contents("data/substory.json"));
+		if($lang != 'ko')
+			$storys = json_decode(file_get_contents("data/substory_$lang.json"));
+		else
+			$storys = json_decode(file_get_contents("data/substory.json"));
+		
 		$num = floor($q / 100);
 		switch($num) {
 			case 0: $lists = $storys->skin[0]->list; break;
@@ -40,7 +48,7 @@
 			$title = '스킨 스토리';
 		}
 		
-		$file = json_decode(file_get_contents("story_json/skin/$q.txt"));
+		$file = json_decode(file_get_contents("story_json/{$langdir}skin/$q.txt"));
 	}
 
 	
