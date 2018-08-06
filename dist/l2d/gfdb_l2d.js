@@ -362,11 +362,9 @@ function mouseEvent(e)
         if (e.clientX < 0 || thisRef.canvas.clientWidth < e.clientX || 
         e.clientY < 0 || thisRef.canvas.clientHeight < e.clientY)
         {
-			console.log('a');
             return;
         }
         
-		console.log(e.wheelDelta);
         if (e.wheelDelta > 0) modelScaling(1.1); // 上方向スクロール 拡大
         else modelScaling(0.9); // 下方向スクロール 縮小
 
