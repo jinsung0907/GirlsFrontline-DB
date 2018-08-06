@@ -725,9 +725,9 @@ var jspine = {
 
 		var loader = new PIXI.loaders.Loader(basePath);
 
-		jspine.selectScale = 0.8;
+		jspine.selectScale = 1;
 		jspine.selectX = jspine.canvas.width()/2;
-		jspine.selectY = jspine.canvas.height()-40;
+		jspine.selectY = jspine.canvas.height()-80;
 			
 		loader.add(baseName + "-skel", skelpath, { "xhrType" : "arraybuffer", "metadata" : { "type" : "skel", "name" : name, "skin" : skin } });
 		loader.add(baseName + "-atlas", atlaspath, { "metadata" : { "type" : "atlas" } });
