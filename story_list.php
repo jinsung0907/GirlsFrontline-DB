@@ -5,8 +5,9 @@
 	$header_title = "소녀전선 메인스토리 | 소전DB";
 	$header_desc = "소녀전선 스토리, 소전 스토리, 소전 스토리 순서, 소녀전선 스토리 정리, 소녀전선 스토리 순서, 소녀전선 메인 스토리 순서, 소녀전선 스토리 순서, 소녀전선 스토리모음"; 
 	require_once("header.php");
-	if($lang == "en")
-		$storys = json_decode(file_get_contents("story_json/en/story.txt"));
+	
+	if($lang != "ko")
+		$storys = json_decode(file_get_contents("story_json/$lang/story.txt"));
 	else 
 		$storys = json_decode(file_get_contents("story_json/story.txt"));
 ?>

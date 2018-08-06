@@ -74,10 +74,12 @@
 	//대사집 불러오기 및 파싱
 	$voice = [];
 	
-	if($lang == "en") {
-		$voices = explode(PHP_EOL, file_get_contents("data/charactervoice_en.txt"));
+	//한국어가 아니면
+	if($lang != "ko") {
+		$voices = explode(PHP_EOL, file_get_contents("data/charactervoice_$lang.txt"));
 		$voices_fallback = explode(PHP_EOL, file_get_contents("data/charactervoice.txt"));
-	} else 
+	}
+	else 
 		$voices = explode(PHP_EOL, file_get_contents("data/charactervoice.txt"));
 
 	foreach($voices as $data) {
@@ -90,20 +92,14 @@
 				continue;
 			}
 			
-			$krcode = audiocode_to_kr($tmp[1]);
+			$code = audiocode_to_str($tmp[1]);
 			if(isset($audio[$tmp[1]])) {
 				$tmp[2] .= ' <button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'. $audio[$tmp[1]] .'"></audio>';
 				unset($audio[$tmp[1]]);
-				if($lang == 'en') 
-					array_push($voice, [$tmp[1], $tmp[2]]);
-				else 
-					array_push($voice, [$krcode, $tmp[2]]);
+				array_push($voice, [$code, $tmp[2]]);
 			}
 			else {
-				if($lang == 'en') 
-					array_push($voice, [$tmp[1], $tmp[2]]);
-				else 
-					array_push($voice, [$krcode, $tmp[2]]);
+				array_push($voice, [$code, $tmp[2]]);
 			}
 		}
 	}
@@ -120,7 +116,6 @@
 					continue;
 				}
 				
-				$krcode = audiocode_to_kr($tmp[1]);
 				if(isset($audio[$tmp[1]])) {
 					$tmp[2] .= ' <button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'. $audio[$tmp[1]] .'"></audio>';
 					unset($audio[$tmp[1]]);
@@ -136,11 +131,8 @@
 	
 	foreach($audio as $key => $val) {
 		$str = '<button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'.$val.'"></audio>';
-		$krcode = audiocode_to_kr($key);
-		if($lang == 'en') 
-			array_push($voice, [$key, $str]);
-		else 
-			array_push($voice, [$krcode, $str]);
+		$code = audiocode_to_str($key);
+		array_push($voice, [$code, $str]);
 	}
 	
 	
@@ -340,6 +332,7 @@
 			if($match[2] == "키아나") $match[2] = "키아나 카스라나";
 			if($match[2] == "브로냐") $match[2] = "브로냐 자이칙";
 			if($match[2] == "제레") $match[2] = "제레 발레리";
+			if($match[2] == "EVO") $match[2] = "EVO3";
 
 			if($match[2] == $doll->name || $match[2] == $doll->krName) {
 				$tmpobj = new stdClass;
@@ -348,6 +341,23 @@
 				if($tmpobj->name !== '오리지널')
 					array_push($skins, $tmpobj);
 			}
+		}
+	}
+	
+	if($lang != 'ko') {
+		$tmp = file_get_contents("data/skin_$lang.txt");
+		$tmps = explode(PHP_EOL, $tmp);
+		$i = 0;
+		foreach($skins as $skin) {
+			foreach($tmps as $line) {
+				if(preg_match("/.*([0-9]{8}),(.*)-([^-]*)/", $line, $match)) {
+					$id = $match[1] % 10000000;
+					if($skin->id == $id) {
+						$skins[$i]->name = $match[3];
+					}
+				}
+			}
+			$i++;
 		}
 	}
 	
@@ -414,11 +424,21 @@
 	$header_title =  "" . $doll->name . ", " . $doll->krName . " | 소전 DB";
 	$header_desc = "{$doll->krName}, {$doll->krName} 보이스, {$doll->krName} SD, {$doll->krName} 스킨, {$doll->name}, 소녀전선 검열, " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
 	$header_image = "http://gfl.zzzzz.kr/img/characters/" .$doll->name . "/pic/pic_" . $doll->name . "_n.jpg";
+	
+	//이름구하기
+	$dollname;
+	if($lang == 'en') 
+		$dollname = $doll->name;
+	else if($lang == 'ja')
+		$dollname = isset($doll->jpName)?$doll->jpName:$doll->name;
+	else
+		$dollname = isset($doll->krName)?$doll->krName:$doll->name;
+
 	require_once("header.php");
 ?>
     <main role="main" class="container-fluid">
 		<div class="my-1 p-3 bg-white rounded box-shadow">
-			<h2 style="display: inline" class="mr-2">#<?=$doll->id?> <?=isset($doll->krName)?$doll->krName:$doll->name?></h2><i><span class="text-muted"><?=$doll->name?></span></i><br>
+			<h2 style="display: inline" class="mr-2">#<?=$doll->id?> <?=$dollname?></h2><i><span class="text-muted"><?=$doll->name?></span></i><br>
 			<hr class="mt-1 mb-1">
 			<div class="row">
 				<div class="col-lg-7">
@@ -454,7 +474,7 @@
 					</div>
 					<div id="sd_div">
 						<div class="canvasclick row align-items-center justify-content-center">
-							<div class="preCanvas" style="width: 100%; height: 200px"></div>
+							<div class="preCanvas" style="width: 100%; height: 300px"></div>
 						</div>
 					</div>
 					<b><?=L::database_rare?></b> : <?=gunrank_to_img($doll->rank)?><hr class="mt-1 mb-1">

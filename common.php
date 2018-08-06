@@ -13,6 +13,7 @@ if(isset($_SESSION['lang'])) {
 		$lang = 'ko';
 }
 else {
+	$langs = explode(',', $_SERVER['HTTP_ACCEPT_LANGUAGE']);
 	if($langs[0] == "en" || $langs[0] == "en-US")
 		$lang = 'en';
 	else if($langs[0] == "ja" || $langs[0] == "ja-JP")
@@ -40,50 +41,56 @@ function Error($str) {
 }
 
 //캐릭 보이스 코드 -> 한국어 변환
-function audiocode_to_kr($code) {
-	switch($code) {
-		case "DIALOGUE1":					return '대화1'; break;
-		case "DIALOGUE2":					return '대화2'; break;
-		case "DIALOGUE3":					return '대화3'; break;
-		case "SOULCONTRACT":			return '서약'; break;
-		case "Introduce":					return '소개말'; break;
-		case "ALLHALLOWS":				return '할로윈'; break;
-		case "DIALOGUEWEDDING":		return '서약대화'; break;
-		case "CHRISTMAS":					return '성탄절'; break;
-		case "HELLO":						return '로그인'; break;
-		case "SKILL1":						return '스킬1'; break;
-		case "SKILL2":						return '스킬2'; break;
-		case "SKILL3":						return '스킬3'; break;
-		case "GOATTACK":					return '출격'; break;
-		case "BREAK":						return '중상'; break;
-		case "RETREAT":						return '퇴각'; break;
-		case "FIX":							return '수복'; break;
-		case "LOWMOOD":					return '탄식'; break;
-		case "MOOD2":						return '놀람'; break;
-		case "NEWYEAR":					return '새해'; break;
-		case "BLACKACTION":				return '자율작전'; break;
-		case "VALENTINE":					return '발렌타인'; break;
-		case "ATTACK":						return '공격'; break;
-		case "MOOD1":						return '웃음'; break;
-		case "AGREE":						return '동의'; break;
-		case "ACCEPT":						return '수락'; break;
-		case "FEED":							return '강화완료'; break;
-		case "DEFENSE":						return '방어'; break;
-		case "OPERATIONOVER":			return '지원복귀'; break;
-		case "COMBINE":					return '편제확대'; break;
-		case "GAIN":							return '획득'; break;
-		case "APPRECIATE":					return '감사'; break;
-		case "BUILDOVER":					return '제조완료'; break;
-		case "FEELING":						return 'FEELING'; break;
-		case "FORMATION":				return '제대편성'; break;
-		case "LOADING":					return '로딩'; break;
-		case "MEET":							return '적 조우'; break;
-		case "OPERATIONBEGIN":			return '지원출발'; break;
-		case "PHRASE":						return '말버릇(어구)'; break;
-		case "TANABATA":					return '칠석'; break;
-		case "TIP":							return 'TIP'; break;
-		case "TITLECALL":					return '소녀전선'; break;
-		case "WIN":							return '승리'; break;
+function audiocode_to_str($code) {
+	global $lang;
+	if($lang != "ko") {
+		return $code;
+	}
+	else {
+		switch($code) {
+			case "DIALOGUE1":					return '대화1'; break;
+			case "DIALOGUE2":					return '대화2'; break;
+			case "DIALOGUE3":					return '대화3'; break;
+			case "SOULCONTRACT":			return '서약'; break;
+			case "Introduce":					return '소개말'; break;
+			case "ALLHALLOWS":				return '할로윈'; break;
+			case "DIALOGUEWEDDING":		return '서약대화'; break;
+			case "CHRISTMAS":					return '성탄절'; break;
+			case "HELLO":						return '로그인'; break;
+			case "SKILL1":						return '스킬1'; break;
+			case "SKILL2":						return '스킬2'; break;
+			case "SKILL3":						return '스킬3'; break;
+			case "GOATTACK":					return '출격'; break;
+			case "BREAK":						return '중상'; break;
+			case "RETREAT":						return '퇴각'; break;
+			case "FIX":							return '수복'; break;
+			case "LOWMOOD":					return '탄식'; break;
+			case "MOOD2":						return '놀람'; break;
+			case "NEWYEAR":					return '새해'; break;
+			case "BLACKACTION":				return '자율작전'; break;
+			case "VALENTINE":					return '발렌타인'; break;
+			case "ATTACK":						return '공격'; break;
+			case "MOOD1":						return '웃음'; break;
+			case "AGREE":						return '동의'; break;
+			case "ACCEPT":						return '수락'; break;
+			case "FEED":							return '강화완료'; break;
+			case "DEFENSE":						return '방어'; break;
+			case "OPERATIONOVER":			return '지원복귀'; break;
+			case "COMBINE":					return '편제확대'; break;
+			case "GAIN":							return '획득'; break;
+			case "APPRECIATE":					return '감사'; break;
+			case "BUILDOVER":					return '제조완료'; break;
+			case "FEELING":						return 'FEELING'; break;
+			case "FORMATION":				return '제대편성'; break;
+			case "LOADING":					return '로딩'; break;
+			case "MEET":							return '적 조우'; break;
+			case "OPERATIONBEGIN":			return '지원출발'; break;
+			case "PHRASE":						return '말버릇(어구)'; break;
+			case "TANABATA":					return '칠석'; break;
+			case "TIP":							return 'TIP'; break;
+			case "TITLECALL":					return '소녀전선'; break;
+			case "WIN":							return '승리'; break;
+		}
 	}
 }
 

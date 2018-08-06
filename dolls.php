@@ -34,6 +34,8 @@
 					$imgsrc = $doll->name . "/pic/pic_" . $doll->name . "_n";
 					if($lang == 'en') 
 						$dollname = $doll->name;
+					else if($lang == 'ja')
+						$dollname = isset($doll->jpName)?$doll->jpName:$doll->name;
 					else
 						$dollname = isset($doll->krName)?$doll->krName:$doll->name;
 					?>

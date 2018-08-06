@@ -2,9 +2,9 @@
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
 	
-	if($lang == "en") {
-		$storys = json_decode(file_get_contents("story_json/en/story.txt"));
-		$langdir = '/en/';
+	if($lang != "ko") {
+		$storys = json_decode(file_get_contents("story_json/$lang/story.txt"));
+		$langdir = "/$lang/";
 	}
 	else {
 		$storys = json_decode(file_get_contents("story_json/story.txt"));
