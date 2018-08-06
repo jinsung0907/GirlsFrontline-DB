@@ -1,0 +1,1 @@
+[{"character":[],"character_emotion":[""],"speaker":0,"speaker_name":"","text":"no text data avaliable(no jp, ko data)","bg":"10"},{"character":["PP90"],"character_emotion":["0"],"speaker":0,"speaker_name":"PP90","text":"no text data avaliable(no jp, ko data)"}]

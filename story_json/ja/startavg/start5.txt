@@ -1,0 +1,1 @@
+[{"character":["PPSh41"],"character_emotion":["0"],"speaker":0,"speaker_name":"PPSh-41","text":"ふぅ……\nこちらはもう安全です。\nスコーピオンは？\n……スコーピオン？S61編隊のスコーピオン、応答してください！"}]

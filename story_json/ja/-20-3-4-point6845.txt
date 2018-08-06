@@ -1,0 +1,1 @@
+[{"character":["K2"],"character_emotion":["0"],"speaker":0,"speaker_name":"K2","text":"26352","bg":"10"},{"character":["FAIL"],"character_emotion":["0"],"speaker":0,"speaker_name":"菲尔","text":"26353"},{"character":[],"character_emotion":[""],"speaker":0,"speaker_name":"","text":"26354"}]
