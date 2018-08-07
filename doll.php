@@ -170,7 +170,7 @@
 				$skilldata['duration_n'][$i] = $doll->skill->nightDataPool->DR[$i];
 			}
 		} else $duration_n = '';
-		$skill->desc .= " 지속시간 <span id='skillduration'>{$duration}</span>{$duration_n}초.";
+		$skill->desc .= " 지속시간 <span id='skillduration'>{$duration}</span>{$duration_n}" . L::sec . ".";
 		for($i = 0 ; $i <= sizeof($doll->skill->dataPool->DR)-1 ; $i++) {
 			$skilldata['duration'][$i] = $doll->skill->dataPool->DR[$i];
 		}
@@ -179,11 +179,11 @@
 	if(isset($doll->skill->dataPool->IC) && isset($doll->skill->dataPool->CD)) {
 		if(!is_array($doll->skill->dataPool->CD)) {
 			$cooldown = $doll->skill->dataPool->CD;
-			$skillcolldown = "초반쿨 : {$doll->skill->dataPool->IC}초, 쿨다운 : <span id='skillcool'>{$cooldown}</span>턴<br>";
+			$skillcolldown = L::database_intercool . " : {$doll->skill->dataPool->IC}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool'>{$cooldown}</span>" . L::turn . "<br>";
 		}
 		else {
 			$cooldown = end($doll->skill->dataPool->CD);
-			$skillcolldown = "초반쿨 : {$doll->skill->dataPool->IC}초, 쿨다운 : <span id='skillcool'>{$cooldown}</span>초<br>";
+			$skillcolldown = L::database_intercool . " : {$doll->skill->dataPool->IC}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool'>{$cooldown}</span>" . L::sec . "<br>";
 			for($i = 0 ; $i <= sizeof($doll->skill->dataPool->CD)-1 ; $i++) {
 				$skilldata['cooldown'][$i] = $doll->skill->dataPool->CD[$i];
 			}
@@ -216,7 +216,7 @@
 		
 		if(isset($doll->skill->nightDataPool->IC) && isset($doll->skill->nightDataPool->CD)) {
 			$cooldown = end($doll->skill->nightDataPool->CD);
-			$n_skillcolldown = "초반쿨 : {$doll->skill->nightDataPool->IC}초, 쿨다운 : <span id='skillcool_n'>{$cooldown}</span>초<br>";
+			$n_skillcolldown = L::database_intercool . " : {$doll->skill->nightDataPool->IC}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool_n'>{$cooldown}</span>" . L::turn . "<br>";
 			for($i = 0 ; $i <= sizeof($doll->skill->dataPool->CD)-1 ; $i++) {
 				$skilldata['cooldown_n'][$i] = $doll->skill->dataPool->CD[$i];
 			}
@@ -261,12 +261,67 @@
 		
 		if(isset($doll->skill2->dataPool->IC) && isset($doll->skill2->dataPool->CD)) {
 			$cooldown = end($doll->skill2->dataPool->CD);
-			$mod3_skillcolldown = "초반쿨 : {$doll->skill2->dataPool->IC}초, 쿨다운 : <span id='skillcool_mod3'>{$cooldown}</span>초<br>";
+			$mod3_skillcolldown = L::database_intercool . " : {$doll->skill2->dataPool->IC}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool_mod3'>{$cooldown}</span>" . L::turn . "<br>";
 			for($i = 0 ; $i <= sizeof($doll->skill2->dataPool->CD)-1 ; $i++) {
 				$skilldata['cooldown_mod3'][$i] = $doll->skill2->dataPool->CD[$i];
 			}
 		}
 	}
+	
+	//서버 스킬데이터 불러오기
+	if($lang != 'ko') {
+		$tmp = file_get_contents("data/battle_skill_config_$lang.txt");
+	} else {
+		$tmp = file_get_contents("data/battle_skill_config.txt");
+	}
+	
+	$rskills = explode(PHP_EOL, $tmp);
+	if(isset($doll->skill->realid)) {
+		$rskill_name = '';
+		$rskill_txt = [];
+		$i = 0;
+		foreach($rskills as $line) {
+			preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $line, $matches);
+			$s_level = intval($matches[3]);
+			
+			if($matches[1] == 1 && $matches[2] == $doll->skill->realid) {
+				$rskill_name = explode(',', $rskills[$i])[1];
+				$rskill_txt[$s_level] = explode(',', $rskills[$i+1])[1];
+				$rskill_txt[$s_level] = str_replace("//c" , ',', $rskill_txt[$s_level]);
+				$rskill_txt[$s_level] = str_replace("；" , '<br>', $rskill_txt[$s_level]);
+				$rskill_txt[$s_level] = str_replace("//n" , '<br>', $rskill_txt[$s_level]);
+				$rskill_txt[$s_level] = preg_replace("/([0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
+				$rskill_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
+				
+				if($s_level == 10) break;
+			}
+			$i++;
+		}
+	}
+	//mod2스킬
+	if(isset($doll->skill2->realid)) {
+		$rskill2_txt = [];
+		$i = 0;
+		foreach($rskills as $line) {
+			preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $line, $matches);
+			$s_level = intval($matches[3]);
+			
+			if($matches[1] == 1 && $matches[2] == $doll->skill2->realid) {
+				$rskill2_name = explode(',', $rskills[$i])[1];
+				$rskill2_txt[$s_level] = explode(',', $rskills[$i+1])[1];
+				$rskill2_txt[$s_level] = str_replace("//c" , ',', $rskill2_txt[$s_level]);
+				$rskill2_txt[$s_level] = str_replace("；" , '<br>', $rskill2_txt[$s_level]);
+				$rskill2_txt[$s_level] = str_replace("//n" , '<br>', $rskill2_txt[$s_level]);
+				$rskill2_txt[$s_level] = preg_replace("/([0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
+				$rskill2_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
+				
+				if($s_level == 10) break;
+			}
+			$i++;
+		}
+	}
+	
+	
 	
 	//진형효과 진형 불러오기
 	$effectpos = ['','','','','','','','','',''];
@@ -521,10 +576,9 @@
 						</div>
 					</div>
 					<hr class="mt-1 mb-1">
-				<?php if($skill->desc !== "사용 불가") { ?>
 					<div class="row pb-0">
 						<div class="col-md-auto align-self-center">
-							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=isset($doll->skill->name)?$doll->skill->name:$skill->name?>
+							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$rskill_name?>
 						</div>
 						<div class="col">
 							<select id="skilllevel">
@@ -539,45 +593,18 @@
 								<option value="9">9<?=L::level?></option>
 								<option value="10" selected>10<?=L::level?></option>
 							</select><br>
-							<?=$skill->desc?><br>
+							<span id="skill_txt"><?=$rskill_txt[10]?></span><br>
 							<?=$skillcolldown?>
 						</div>
 					</div>
 					<hr class="mt-1 mb-1">
-				<?php } ?>
-				<?php if(isset($skill->night)) { ?>
-					<div class="row">
-						<div class="col-md-auto align-self-center">
-							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$skill->name?><br>(야간)
-						</div>
-						<div class="col">
-						<?php if($skill->desc == "사용 불가") { ?>
-							<select id="skilllevel">
-								<option value="1">1<?=L::level?></option>
-								<option value="2">2<?=L::level?></option>
-								<option value="3">3<?=L::level?></option>
-								<option value="4">4<?=L::level?></option>
-								<option value="5">5<?=L::level?></option>
-								<option value="6">6<?=L::level?></option>
-								<option value="7">7<?=L::level?></option>
-								<option value="8">8<?=L::level?></option>
-								<option value="9">9<?=L::level?></option>
-								<option value="10" selected>10<?=L::level?></option>
-							</select><br>
-						<?php } ?>
-							<?=$skill->night->desc?><br>
-							<?=$n_skillcolldown?>
-						</div>
-					</div>
-					<hr class="mt-1 mb-1">
-				<?php } ?>
 				<?php if(isset($skill2)) { ?>
 					<div class="row">
 						<div class="col-md-auto align-self-center">
-							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$skill2->name?$skill2->name:$doll->skill->name?><br>(mod2)
+							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$rskill2_name?><br>(mod2)
 						</div>
 						<div class="col">
-							<?=$skill2->desc?><br>
+							<span id="skill2_txt"><?=$rskill2_txt[10]?></span><br>
 							<?=isset($mod3_skillcolldown)?$mod3_skillcolldown:''?>
 						</div>
 					</div>
@@ -678,7 +705,8 @@
 		var grow = <?=$doll->grow?>;
 		var attrlist = ['hp', 'pow', 'hit', 'dodge', 'speed', 'rate', 'armor'];
 		var l2d_basepath = "/img/live2d/";
-		
+		var r_skilldata = <?=json_encode($rskill_txt, JSON_UNESCAPED_UNICODE)?>;
+		var r_skill2data = <?=json_encode($rskill2_txt, JSON_UNESCAPED_UNICODE)?>;
 		calcstats();
 		
 		$("#statlevel,#statfavor").on('change', function(e) {
@@ -717,6 +745,7 @@
 			}
 		}
 		
+		/* 이전 skill.json값 가지고 컨트롤 하던 소스
 		$('#skilllevel').on('change', function(e) {
 			var level = $('#skilllevel').val()-1;
 			if(typeof skilldata.attr !== 'undefined') {
@@ -746,7 +775,26 @@
 					$("#skillduration_n_mod3").text(skilldata.duration_n_mod3[level]);
 				$("#skillcool_mod3").text(skilldata.cooldown_mod3[level]);
 			}
+		}); */
+		
+		$('#skilllevel').on('change', function(e) {
+			var level = $('#skilllevel').val();
+			$("#skill_txt").html(r_skilldata[level]);
+			if(r_skill2data != null) {
+				$("#skill2_txt").html(r_skill2data[level]);
+			}
+			level--;
+			if(typeof skilldata.attr !== 'undefined') {
+				$("#skillcool").text(skilldata.cooldown[level]);
+			}
+			if(typeof skilldata.attr_n !== 'undefined') {
+				$("#skillcool_n").text(skilldata.cooldown_n[level]);
+			}
+			if(typeof skilldata.attr_mod3 !== 'undefined') {
+				$("#skillcool_mod3").text(skilldata.cooldown_mod3[level]);
+			}
 		});
+		
 		
 		jspine.init(dollname, 0);
 		
@@ -831,7 +879,7 @@
 		var skinlist = <?=json_encode($skins, JSON_UNESCAPED_UNICODE);?>
 		
 		$.ajax({
-			url: 'https://gfdb.github.io/GFDB-character-description/dolls/<?=$doll->id?>.txt',
+			url: 'https://jinsung0907.github.io/GFDB-character-description/dolls/<?=$doll->id?>.txt',
 			success: function(data) {
 				if(data == '') {
 					$('#doll_desc').text("정보없음");
