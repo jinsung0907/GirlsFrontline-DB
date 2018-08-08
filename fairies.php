@@ -21,6 +21,19 @@
 					$imgsrc = $fairy->name . "_3"; 
 					if($lang == 'en') 
 						$fairyname = ucfirst($fairy->name) . " Fairy";
+					else if($lang == 'ja') {
+						$voices = explode(PHP_EOL, file_get_contents("data/fairy_$lang.txt"));
+						$i = 0;
+						foreach($voices as $data) {
+							$tmp = explode(',', $data);
+							$tmp[0] = str_replace('fairy-', '', $tmp[0]);
+							if($fairy->id == $tmp[0] % 10000000) {
+								$fairyname = str_replace('//c', ',', explode(",", $voices[$i])[1]);
+								break;
+							}
+							$i++;
+						}
+					}
 					else 
 						$fairyname = isset($fairy->krName)?$fairy->krName:$fairy->name;
 					?>

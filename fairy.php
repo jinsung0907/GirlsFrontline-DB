@@ -70,10 +70,52 @@
 		}
 	}
 	
+	//클라데이터 스킬
+	if($lang != 'ko') {
+		if($fairy->skill->realid > 900000)
+			$tmp = file_get_contents("data/battle_skill_config_$lang.txt");
+		else 
+			$tmp = file_get_contents("data/mission_skill_config_$lang.txt");
+	} else {
+		if($fairy->skill->realid > 900000)
+			$tmp = file_get_contents("data/battle_skill_config.txt");
+		else 
+			$tmp = file_get_contents("data/mission_skill_config.txt");
+	}
+	
+	$rskills = explode(PHP_EOL, $tmp);
+	if(isset($fairy->skill->realid)) {
+		$rskill_name = '';
+		$rskill_txt = [];
+		$i = 0;
+		foreach($rskills as $line) {
+			if($fairy->skill->realid > 900000)
+				preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $line, $matches);
+			else {
+				preg_match("/mission_skill_config-([0-9])([0-9]{5})([0-9]{2}),(.*)/", $line, $matches);
+				$matches[2] = $matches[2] % 100000;
+			}
+			$s_level = intval($matches[3]);
+			
+			if($matches[1] == 1 && $matches[2] == $fairy->skill->realid) {
+				$rskill_name = explode(',', $rskills[$i])[1];
+				$rskill_txt[$s_level] = explode(',', $rskills[$i+1])[1];
+				$rskill_txt[$s_level] = str_replace("//c" , ',', $rskill_txt[$s_level]);
+				$rskill_txt[$s_level] = str_replace("；" , '<br>', $rskill_txt[$s_level]);
+				$rskill_txt[$s_level] = str_replace("//n" , '<br>', $rskill_txt[$s_level]);
+				$rskill_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
+				$rskill_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
+				
+				if($s_level == 10) break;
+			}
+			$i++;
+		}
+	}
+	
 	//설명 및 등장대사 파싱
 	$voice = '';
-	if($lang == 'en') {
-		$voices = explode(PHP_EOL, file_get_contents("data/fairy_en.txt"));
+	if($lang != 'ko') {
+		$voices = explode(PHP_EOL, file_get_contents("data/fairy_$lang.txt"));
 		$voices_fallback = explode(PHP_EOL, file_get_contents("data/fairy.txt"));
 	}
 	else
@@ -83,6 +125,7 @@
 		$tmp = explode(',', $data);
 		$tmp[0] = str_replace('fairy-', '', $tmp[0]);
 		if($fairy->id == $tmp[0] % 10000000) {
+			$fairyname = str_replace('//c', ',', explode(",", $voices[$i])[1]);
 			$saying = str_replace('//c', ',', explode(",", $voices[$i+1])[1]);
 			$comment = str_replace('//c', ',', explode(",", $voices[$i+2])[1]);
 			break;
@@ -97,6 +140,7 @@
 			$tmp = explode(',', $data);
 			$tmp[0] = str_replace('fairy-', '', $tmp[0]);
 			if($fairy->id == $tmp[0] % 10000000) {
+				$fairyname = str_replace('//c', ',', explode(",", $voices[$i])[1]);
 				$saying = str_replace('//c', ',', explode(",", $voices_fallback[$i+1])[1]);
 				$comment = str_replace('//c', ',', explode(",", $voices_fallback[$i+2])[1]);
 				break;
@@ -121,13 +165,7 @@
 	array_push($imglist, $fairy->name. "_2");
 	array_push($imglist, $fairy->name. "_3");
 	
-	//이름 구하기
-	if($lang == 'en') {
-		$fairyname = ucfirst($fairy->name) . " Fairy";
-	}
-	else {
-		$fairyname = $fairy->krName?$fairy->krName:$fairy->name;
-	}
+
 	
 	$header_title =  "" . $fairy->krName . ", " . $fairy->name . " | 소전 DB";
 	$header_desc = "" . $fairy->krName . ", ". $fairy->name;
@@ -194,7 +232,7 @@
 					<hr class="mt-1 mb-1">
 					<div class="row pb-0">
 						<div class="col-md-auto align-self-center">
-							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$fairy->skill->name?$fairy->skill->name:$skill->name?>
+							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$rskill_name?>
 						</div>
 						<div class="col">
 							<select id="skilllevel">
@@ -209,7 +247,7 @@
 								<option value="9">9<?=L::level?></option>
 								<option value="10" selected>10<?=L::level?></option>
 							</select><br>
-							<?=$skill->desc?><br>
+							<span id="skill_txt"><?=$rskill_txt[10]?></span><br>
 							<?=$skillcolldown?>
 						</div>
 					</div>
@@ -253,13 +291,15 @@
 	const fairygrow = <?=$fairy->grow?>;
 	
 	var skilldata = <?=json_encode($skilldata)?>;
-
+	var r_skilldata = <?=json_encode($rskill_txt, JSON_UNESCAPED_UNICODE)?>;
+	
 	calcstat();
 	
 	$("#fairylevel,#fairyrank").on('change', function(e) {
 		calcstat();
 	});
 	
+	/* 이전 skill.json값 가지고 컨트롤 하던 소스
 	$('#skilllevel').on('change', function(e) {
 		var level = $('#skilllevel').val()-1;
 		if(typeof skilldata.attr !== 'undefined') {
@@ -276,7 +316,16 @@
 			$("#skillduration_mod3").text(skilldata.duration_mod3[level]);
 			$("#skillcool_mod3").text(skilldata.cooldown_mod3[level]);
 		}
-	});
+	});*/
+	
+	$('#skilllevel').on('change', function(e) {
+			var level = $('#skilllevel').val();
+			$("#skill_txt").html(r_skilldata[level]);
+			level--;
+			if(typeof skilldata.attr !== 'undefined') {
+				$("#skillcool").text(skilldata.cooldown[level]);
+			}
+		});
 	
 	function calcstat() {
 		var level = $("#fairylevel").val();

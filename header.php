@@ -88,6 +88,9 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			<li class="nav-item">
               <a class="nav-link" href="http://zzzzz.kr"><?=L::navigation_title_main?></a>
             </li>
+			<li class="nav-item">
+              <a class="nav-link" href="https://github.com/jinsung0907/GirlsFrontline-DB">Github</a>
+            </li>
           </ul>
         </div>
       </div>
