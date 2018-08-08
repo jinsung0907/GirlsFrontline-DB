@@ -9372,6 +9372,32 @@
 		},
 		"skins": {}
 	}, {
+		"id": 228,
+		"name": "Type100",
+		"type": "smg",
+		"rank": 5,
+		"stats": {
+			"hp": 120,
+			"pow": 105,
+			"hit": 115,
+			"dodge": 105,
+			"speed": 100,
+			"rate": 95,
+			"armorPiercing": 10,
+			"crit": 5
+		},
+		"grow": 115,
+		"effect": {
+			"effectType": "ar",
+			"effectCenter": 5,
+			"effectPos": [1, 7],
+			"gridEffect": {
+				"pow": 12,
+				"hit": 35
+			}
+		},
+		"jpName": "一〇〇式"
+	}, {
 		"id": 230,
 		"name": "OBR",
 		"type": "rf",
