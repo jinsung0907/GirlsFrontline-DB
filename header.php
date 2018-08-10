@@ -34,7 +34,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 
     <link rel="stylesheet" href="dist/bootstrap.min.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    <link rel="stylesheet" href="dist/gfdb.css?v=4">
+    <link rel="stylesheet" href="dist/gfdb.css?v=5">
   </head>
 
   <body class="bg-secondary">
@@ -54,6 +54,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			  <div class="dropdown-menu" aria-labelledby="dbDropdown">
 			   <a class="dropdown-item" href="/dolls.php"><?=L::navigation_menu_dolllist?></a>
 			   <a class="dropdown-item" href="/fairies.php"><?=L::navigation_menu_fairylist?></a>
+			   <a class="dropdown-item" href="/squads.php">중장비부대</a>
 			   <a class="dropdown-item" href="/timetable.php"><?=L::navigation_menu_timetable?></a>
 			  </div>
 			</li>

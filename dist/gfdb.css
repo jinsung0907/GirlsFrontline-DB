@@ -231,6 +231,22 @@
 	vertical-align: top;
 }
 
+.squadindex .item {
+	//background-color:#FFFFFF;
+	width: 50vh;
+	height: 16vh;
+	display: flex;
+	flex-flow: column;
+	margin: auto;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+	
+	position: relative;
+	border-radius: 3px;
+	
+	border: 2px solid #000000;
+}
+
 .dollindex.row {
 	//display: inline;
 	width: 100%;
@@ -333,6 +349,10 @@
 }
 .portrait.fairy {
 	background-color: #FFFFFF;
+}
+
+.portrait.squad {
+	background-size: 100%;
 }
 .portrait.damaged {
 	background-position: 98% 0%;

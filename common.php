@@ -5,7 +5,7 @@ session_start();
 /*언어 처리 우선순위
 1. session값 2. http언어값*/
 if(isset($_SESSION['lang'])) {
-	if($_SESSION['lang'] == 'en')
+	if($_SESSION['lang'] == 'en' || $_SESSION['lang'] == 'en-US')
 		$lang = 'en';
 	else if($_SESSION['lang'] == 'ja')
 		$lang = 'ja';

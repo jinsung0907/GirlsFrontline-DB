@@ -686,6 +686,7 @@ var jspine = {
 		jspine.isUpdate = true;
 		jspine.spineData = {};
 		jspine.curAniIndex;
+		jspine.selectScale = 1;
 		
 		jspine.renderer.plugins.interaction.autoPreventDefault = false;
 		
@@ -693,6 +694,107 @@ var jspine = {
 		
 		jspine.canvas.html(jspine.renderer.view);
 		
+	},
+	loadSquadR : function(SDname, skinnum, is_r) {
+		jspine.stage.removeChildren();
+		if(typeof skinnum === 'undefined' || skinnum == 0) {
+			skinnum = '';
+		} else {
+			skinnum = "_" + skinnum;
+		}
+		var name = SDname;
+		var baseName = SDname;
+		var skin = "default";
+		var basePath = "img/characters/";
+		
+		var spines = [];
+		
+		for(var i = 1 ; i <= 3 ; i++) {
+			var dorm = '';
+			var chara = '';
+			switch(i) {
+				case 1: chara = 'a'; break;
+				case 2: chara = 'b'; break;
+				case 3: chara = 'c'; break;
+			}
+			
+			if(typeof is_r !=='undefined') {
+				var skelpath = '';
+				if(UrlExists(basePath + SDname + skinnum + "/spine/r" + SDname + skinnum + chara +".skel")) {
+					skelpath = SDname +  skinnum + "/spine/r" + SDname + skinnum + chara +".skel";
+				}
+				else if(UrlExists(basePath + SDname + skinnum + "/spine/r" + SDname + skinnum + ".skel")) {
+					skelpath = SDname +  skinnum + "/spine/r" + SDname + skinnum + ".skel";
+				}
+				else if(UrlExists(SDname +  skinnum + "/spine/" + SDname + skinnum +".skel")) {
+					skelpath = SDname +  skinnum + "/spine/" + SDname + skinnum +".skel";
+				}
+				
+				var atlaspath = '';
+				if(UrlExists(basePath + SDname +  skinnum + "/spine/r" + SDname +  skinnum + chara +".atlas")) {
+					atlaspath = SDname + skinnum + "/spine/r" + SDname + skinnum + chara +".atlas";
+				}
+				else  if(UrlExists(basePath + SDname + skinnum + "/spine/r" + SDname + skinnum + ".atlas")) {
+					atlaspath = SDname + skinnum + "/spine/r" + SDname + skinnum + ".atlas";
+				}
+				else  if(UrlExists(basePath + SDname + skinnum + "/spine/" + SDname + skinnum + ".atlas")) {
+					atlaspath = SDname + skinnum + "/spine/" + SDname + skinnum + ".atlas";
+				}
+				
+				var pngpath = '';
+				if(UrlExists(basePath + SDname + skinnum + "/spine/r" + SDname +  skinnum + chara +".png")) {
+					pngpath = SDname + skinnum + "/spine/r" + SDname + skinnum + chara +".png";
+				}
+				else  if(UrlExists(basePath + SDname + skinnum + "/spine/r" + SDname + skinnum + ".png")) {
+					pngpath = SDname + skinnum + "/spine/r" + SDname + skinnum + ".png";
+				}
+				else  if(UrlExists(basePath + SDname + skinnum + "/spine/" + SDname + skinnum + ".png")) {
+					pngpath = SDname + skinnum + "/spine/" + SDname + skinnum + ".png";
+				}
+			}
+			
+			var loader = new PIXI.loaders.Loader(basePath);
+			
+			loader.add(baseName + "-skel", skelpath, { "xhrType" : "arraybuffer", "metadata" : { "type" : "skel", "name" : name, "skin" : skin } });
+			loader.add(baseName + "-atlas", atlaspath, { "metadata" : { "type" : "atlas" } });
+			loader.add(baseName + "-png", pngpath, { "metadata" : { "type" : "png" } });
+			
+			
+			jspine.selectX = jspine.canvas.width()/3 * i;
+			jspine.selectY = jspine.canvas.height()-100;
+			
+			loader.on('progress', function () {
+				console.log('loading...');
+			});
+
+			loader.load((loader, resources) => {
+				loader.next = baseName;
+				var rawSkeletonData, rawAtlasData, rawPngData;
+				var skel = new SkeletonBinary();
+				jspine.name = resources[loader.next + "-skel"].metadata.name;
+				jspine.skin = resources[loader.next + "-skel"].metadata.skin;
+				skel.data = new Uint8Array(resources[loader.next + "-skel"].data);
+				skel.initJson();
+				rawSkeletonData = skel.json;
+
+				rawAtlasData = resources[loader.next + "-atlas"].data;
+				rawPngData = resources[loader.next + "-png"].data;
+
+				var spineAtlas = new PIXI.spine.SpineRuntime.Atlas(rawAtlasData, function(line, callback, pngData = rawPngData) {
+					callback(new PIXI.BaseTexture(pngData));
+				});
+				
+				var spineAtlasParser = new PIXI.spine.SpineRuntime.AtlasAttachmentParser(spineAtlas);
+				var spineJsonParser = new PIXI.spine.SpineRuntime.SkeletonJsonParser(spineAtlasParser);
+				var skeletonData = spineJsonParser.readSkeletonData(rawSkeletonData, skin);
+				skeletonData.code = name;
+				skeletonData.skin = skin;
+
+				jspine.spineData[name] = jspine.spineData[name] || {};
+				jspine.spineData[name][skin] = skeletonData;
+				jspine.addRole(skeletonData);
+			});
+		}
 	},
 	load : function(SDname, skinnum, is_r) {
 		if(typeof skinnum === 'undefined' || skin == 0) {
@@ -725,7 +827,6 @@ var jspine = {
 
 		var loader = new PIXI.loaders.Loader(basePath);
 
-		jspine.selectScale = 1;
 		jspine.selectX = jspine.canvas.width()/2;
 		jspine.selectY = jspine.canvas.height()-80;
 			
@@ -807,8 +908,58 @@ var jspine = {
 				if(cnt == 0) 
 					jspine.changeAnimation(jspine.curAniIndex);
 			}
+			else if(jspine.spine.spineData.animations[jspine.curAniIndex].name == "reload" || jspine.spine.spineData.animations[jspine.curAniIndex].name == "set") {
+				var cnt = 0;
+				for(var i = 0 ; i <= animations.length-1 ; i++) {
+					if(animations[i].name == 'wait') {
+						jspine.changeAnimation(i);
+						$("#sdAniSelector").val(i);
+						cnt++;
+					}
+				}
+				if(cnt == 0) 
+					jspine.changeAnimation(jspine.curAniIndex);
+			}
 		}
+	},
+	
+	addRole : function(skeletonData){
+		var role = new PIXI.spine.Spine(skeletonData);
+		var name = skeletonData.name;
+		var scale = jspine.selectScale;
+		if(typeof jspine.stage.children.length == 0) {
+			role.x = jspine.canvas.width()/5*1;
+		} else if(jspine.stage.children.length == 1) {
+			role.x = jspine.canvas.width()/5*2;
+		} else if(jspine.stage.children.length == 2) {
+			role.x = jspine.canvas.width()/5*3;
+		}
+		role.y = jspine.canvas.height()-80;
 		
+		role.scale.x = jspine.selectScale;
+		role.scale.y = jspine.selectScale;
+		//role.animation = jspine.curAniIndex;
+		
+		var animations = jspine.spine.spineData.animations;
+		$("#sdAniSelector").empty();
+		for(var i = 0 ; i <= animations.length-1 ; i++) {
+			if(animations[i].name !== 'victoryloop' && animations[i].name !== 'animation') {
+				$("#sdAniSelector").append($('<option>', {
+					value: i,
+					text: animations[i].name
+				}));
+			}
+			if(animations[i].name == 'wait') {
+				jspine.curAniIndex = i;
+			}
+		}
+		$("#sdAniSelector").val(jspine.curAniIndex);
+		
+		jspine.changeAnimation(jspine.curAniIndex);
+		role.skeleton.setToSetupPose();
+		role.update(0);
+		role.autoUpdate = false;
+		jspine.stage.addChild(role);
 	},
 	
 	loadToStage : function(defaultStageData, spineData){
@@ -843,4 +994,14 @@ var jspine = {
 		jspine.spine.update(0);
 		jspine.curAniIndex = num;
 	}
+}
+
+function UrlExists(url) {
+    var http = new XMLHttpRequest();
+    http.open('HEAD', url, false);
+    http.send();
+    if (http.status != 404)
+		return true;
+    else
+        return false;
 }

@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"name": "tow",
+		"krName": "BGM-71",
+		"type": "Anti Tank Weapon",
+		"attr": {
+			"scale": 2,
+			"minrange": 1,
+			"maxrange": 2,
+			"ammo": 500,
+			"food": 500
+		},
+		"stats": {
+			"pow": 152,
+			"crush": 402,
+			"acc": 349,
+			"reload": 83
+		},
+		"skill1": {
+			"realid": 500001
+		},
+		"skill2": {
+			"realid": 500003
+		},
+		"skill3": {
+			"realid": 500005
+		}
+	}, 
+	{
+		"id": 2,
+		"name": "ags30",
+		"krName": "AGS-30",
+		"type": "Automatic Grenade Launcher",
+		"attr": {
+			"scale": 2,
+			"minrange": 1,
+			"maxrange": 2,
+			"ammo": 400,
+			"food": 600
+		},
+		"stats": {
+			"pow": 78,
+			"crush": 144,
+			"acc": 198,
+			"reload": 386
+		},
+		"skill1": {
+			"realid": 500021
+		},
+		"skill2": {
+			"realid": 500022
+		},
+		"skill3": {
+			"realid": 500023
+		}
+	}, 
+	{
+		"id": 3,
+		"name": "2b14",
+		"krName": "2B14",
+		"type": "Mortar",
+		"attr": {
+			"scale": 2,
+			"minrange": 1,
+			"maxrange": 3,
+			"ammo": 600,
+			"food": 400
+		},
+		"stats": {
+			"pow": 152,
+			"crush": 58,
+			"acc": 135,
+			"reload": 160
+		},
+		"skill1": {
+			"realid": 500007
+		},
+		"skill2": {
+			"realid": 500009
+		},
+		"skill3": {
+			"realid": 500010
+		}
+	}
+]
