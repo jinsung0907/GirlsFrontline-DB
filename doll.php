@@ -405,10 +405,12 @@
 		$i = 0;
 		foreach($skins as $skin) {
 			foreach($tmps as $line) {
-				if(preg_match("/.*([0-9]{8}),(.*)-([^-]*)/", $line, $match)) {
+				if($lang == 'en') $exp = "/skin-1([0-9]{7})([,])(.*)/";
+				else $exp = "/skin-1([0-9]{7}),(.*)-([^-]*)/";
+				if(preg_match($exp, $line, $match)) {
 					$id = $match[1] % 10000000;
 					if($skin->id == $id) {
-						$skins[$i]->name = $match[3];
+						$skins[$i]->name = str_replace('//c', ',', $match[3]);
 					}
 				}
 			}
