@@ -42,7 +42,8 @@
 		},
 		"krName": "콜트 리볼버",
 		"grow": 130,
-		"jpName": "コルトSAA"
+		"jpName": "コルトSAA",
+		"enName": "SAA"
 	}, {
 		"id": 2,
 		"name": "M1911",
@@ -85,7 +86,8 @@
 		},
 		"krName": "M1911",
 		"grow": 120,
-		"jpName": "M1911"
+		"jpName": "M1911",
+		"enName": "M1911"
 	}, {
 		"id": 3,
 		"name": "M9",
@@ -126,7 +128,8 @@
 		},
 		"krName": "M9",
 		"grow": 110,
-		"jpName": "M9"
+		"jpName": "M9",
+		"enName": "M9"
 	}, {
 		"id": 5,
 		"name": "M1895",
@@ -174,7 +177,8 @@
 		},
 		"krName": "나강 리볼버",
 		"grow": 130,
-		"jpName": "M1895"
+		"jpName": "M1895",
+		"enName": "M1895"
 	}, {
 		"id": 6,
 		"name": "TT33",
@@ -218,7 +222,8 @@
 		},
 		"krName": "토카레프",
 		"grow": 105,
-		"jpName": "トカレフ"
+		"jpName": "トカレフ",
+		"enName": "Tokarev"
 	}, {
 		"id": 7,
 		"name": "APS",
@@ -260,7 +265,8 @@
 		},
 		"krName": "스테츠킨",
 		"grow": 110,
-		"jpName": "スチェッキン"
+		"jpName": "スチェッキン",
+		"enName": "Stechkin"
 	}, {
 		"id": 8,
 		"name": "PM",
@@ -304,7 +310,8 @@
 		},
 		"krName": "마카로프",
 		"grow": 130,
-		"jpName": "マカロフ"
+		"jpName": "マカロフ",
+		"enName": "Makarov"
 	}, {
 		"id": 9,
 		"name": "P38",
@@ -347,7 +354,8 @@
 		},
 		"krName": "P38",
 		"grow": 125,
-		"jpName": "P38"
+		"jpName": "P38",
+		"enName": "P38"
 	}, {
 		"id": 10,
 		"name": "PPK",
@@ -390,7 +398,8 @@
 		},
 		"krName": "PPK",
 		"grow": 125,
-		"jpName": "PPK"
+		"jpName": "PPK",
+		"enName": "PPK"
 	}, {
 		"id": 11,
 		"name": "P08",
@@ -438,7 +447,8 @@
 		},
 		"krName": "P08",
 		"grow": 130,
-		"jpName": "P08"
+		"jpName": "P08",
+		"enName": "P08"
 	}, {
 		"id": 12,
 		"name": "C96",
@@ -481,7 +491,8 @@
 		},
 		"krName": "C96",
 		"grow": 100,
-		"jpName": "C96"
+		"jpName": "C96",
+		"enName": "C96"
 	}, {
 		"id": 13,
 		"name": "92type",
@@ -524,7 +535,8 @@
 		},
 		"krName": "92식",
 		"grow": 110,
-		"jpName": "92式"
+		"jpName": "92式",
+		"enName": "Type92"
 	}, {
 		"id": 14,
 		"name": "357",
@@ -566,7 +578,8 @@
 		},
 		"krName": "아스트라 리볼버",
 		"grow": 120,
-		"jpName": "アストラ"
+		"jpName": "アストラ",
+		"enName": "Astra"
 	}, {
 		"id": 15,
 		"name": "Glock17",
@@ -608,7 +621,8 @@
 		},
 		"krName": "글록17",
 		"grow": 110,
-		"jpName": "G17"
+		"jpName": "G17",
+		"enName": "G17"
 	}, {
 		"id": 16,
 		"name": "M1928A1",
@@ -651,7 +665,8 @@
 		},
 		"krName": "톰슨",
 		"grow": 110,
-		"jpName": "トンプソン"
+		"jpName": "トンプソン",
+		"enName": "Thompson"
 	}, {
 		"id": 17,
 		"name": "M3",
@@ -692,7 +707,8 @@
 		},
 		"krName": "M3",
 		"grow": 115,
-		"jpName": "M3"
+		"jpName": "M3",
+		"enName": "M3"
 	}, {
 		"id": 18,
 		"name": "MAC10",
@@ -734,7 +750,8 @@
 		},
 		"krName": "MAC-10",
 		"grow": 110,
-		"jpName": "イングラム"
+		"jpName": "イングラム",
+		"enName": "Ingram"
 	}, {
 		"id": 19,
 		"name": "FMG9",
@@ -776,7 +793,8 @@
 		},
 		"krName": "FMG-9",
 		"grow": 115,
-		"jpName": "FMG-9"
+		"jpName": "FMG-9",
+		"enName": "FMG-9"
 	}, {
 		"id": 20,
 		"name": "Vector",
@@ -821,7 +839,8 @@
 		},
 		"krName": "Vector",
 		"grow": 105,
-		"jpName": "Vector"
+		"jpName": "Vector",
+		"enName": "Vector"
 	}, {
 		"id": 21,
 		"name": "PPsh41",
@@ -864,7 +883,8 @@
 		},
 		"krName": "PPsh-41",
 		"grow": 105,
-		"jpName": "PPSh-41"
+		"jpName": "PPSh-41",
+		"enName": "PPSh-41"
 	}, {
 		"id": 22,
 		"name": "PPS43",
@@ -904,7 +924,8 @@
 		},
 		"krName": "PPS-43",
 		"grow": 105,
-		"jpName": "PPS-43"
+		"jpName": "PPS-43",
+		"enName": "PPS-43"
 	}, {
 		"id": 23,
 		"name": "PP90",
@@ -947,7 +968,8 @@
 		},
 		"krName": "PP-90",
 		"grow": 120,
-		"jpName": "PP-90"
+		"jpName": "PP-90",
+		"enName": "PP-90"
 	}, {
 		"id": 24,
 		"name": "PP2000",
@@ -988,7 +1010,8 @@
 		},
 		"krName": "PP-2000",
 		"grow": 100,
-		"jpName": "PP-2000"
+		"jpName": "PP-2000",
+		"enName": "PP-2000"
 	}, {
 		"id": 25,
 		"name": "MP40",
@@ -1033,7 +1056,8 @@
 		},
 		"krName": "MP40",
 		"grow": 115,
-		"jpName": "MP40"
+		"jpName": "MP40",
+		"enName": "MP40"
 	}, {
 		"id": 26,
 		"name": "MP5",
@@ -1078,7 +1102,8 @@
 		},
 		"krName": "MP5",
 		"grow": 105,
-		"jpName": "Gr MP5"
+		"jpName": "Gr MP5",
+		"enName": "Gr MP5"
 	}, {
 		"id": 27,
 		"name": "VZ61",
@@ -1123,7 +1148,8 @@
 		},
 		"krName": "스콜피온",
 		"grow": 115,
-		"jpName": "スコーピオン"
+		"jpName": "スコーピオン",
+		"enName": "Skorpion"
 	}, {
 		"id": 28,
 		"name": "MP7",
@@ -1211,7 +1237,8 @@
 		},
 		"krName": "스텐MkII",
 		"grow": 125,
-		"jpName": "ステンMK-II"
+		"jpName": "ステンMK-II",
+		"enName": "STEN MkⅡ"
 	}, {
 		"id": 31,
 		"name": "MAB38",
@@ -1252,7 +1279,8 @@
 		},
 		"krName": "베레타 38형",
 		"grow": 110,
-		"jpName": "M38"
+		"jpName": "M38",
+		"enName": "M38"
 	}, {
 		"id": 32,
 		"name": "MicroUZI",
@@ -1296,7 +1324,8 @@
 		},
 		"krName": "마이크로 우지",
 		"grow": 115,
-		"jpName": "Micro Uzi"
+		"jpName": "Micro Uzi",
+		"enName": "Micro Uzi"
 	}, {
 		"id": 33,
 		"name": "m45",
@@ -1341,7 +1370,8 @@
 		},
 		"krName": "m45",
 		"grow": 105,
-		"jpName": "m45"
+		"jpName": "m45",
+		"enName": "m45"
 	}, {
 		"id": 34,
 		"name": "M1",
@@ -1383,7 +1413,8 @@
 		},
 		"krName": "M1 개런드",
 		"grow": 105,
-		"jpName": "M1ガーランド"
+		"jpName": "M1ガーランド",
+		"enName": "M1 Garand"
 	}, {
 		"id": 35,
 		"name": "M1A1",
@@ -1425,7 +1456,8 @@
 		},
 		"krName": "M1A1",
 		"grow": 115,
-		"jpName": "M1A1"
+		"jpName": "M1A1",
+		"enName": "M1A1"
 	}, {
 		"id": 36,
 		"name": "M1903",
@@ -1470,7 +1502,8 @@
 		},
 		"krName": "스프링필드",
 		"grow": 125,
-		"jpName": "スプリングフィールド"
+		"jpName": "スプリングフィールド",
+		"enName": "Springfield"
 	}, {
 		"id": 37,
 		"name": "M14",
@@ -1513,7 +1546,8 @@
 		},
 		"krName": "M14",
 		"grow": 110,
-		"jpName": "M14"
+		"jpName": "M14",
+		"enName": "M14"
 	}, {
 		"id": 38,
 		"name": "M21",
@@ -1555,7 +1589,8 @@
 		},
 		"krName": "M21",
 		"grow": 110,
-		"jpName": "M21"
+		"jpName": "M21",
+		"enName": "M21"
 	}, {
 		"id": 39,
 		"name": "M1891",
@@ -1597,7 +1632,8 @@
 		},
 		"krName": "모신나강",
 		"grow": 130,
-		"jpName": "モシン・ナガン"
+		"jpName": "モシン・ナガン",
+		"enName": "Mosin-Nagant"
 	}, {
 		"id": 40,
 		"name": "SVT38",
@@ -1637,7 +1673,8 @@
 		},
 		"krName": "SVT-38",
 		"grow": 105,
-		"jpName": "SVT-38"
+		"jpName": "SVT-38",
+		"enName": "SVT-38"
 	}, {
 		"id": 41,
 		"name": "SKS",
@@ -1678,7 +1715,8 @@
 		},
 		"krName": "시모노프",
 		"grow": 105,
-		"jpName": "SKS"
+		"jpName": "SKS",
+		"enName": "Simonova"
 	}, {
 		"id": 42,
 		"name": "PTRD",
@@ -1720,7 +1758,8 @@
 		},
 		"krName": "PTRD",
 		"grow": 130,
-		"jpName": "PTRD"
+		"jpName": "PTRD",
+		"enName": "PTRD"
 	}, {
 		"id": 43,
 		"name": "SVD",
@@ -1763,7 +1802,8 @@
 		},
 		"krName": "SVD",
 		"grow": 120,
-		"jpName": "SVD"
+		"jpName": "SVD",
+		"enName": "SVD"
 	}, {
 		"id": 44,
 		"name": "SV98",
@@ -1806,7 +1846,8 @@
 		},
 		"krName": "SV-98",
 		"grow": 115,
-		"jpName": "SV-98"
+		"jpName": "SV-98",
+		"enName": "SV-98"
 	}, {
 		"id": 46,
 		"name": "98K",
@@ -1846,7 +1887,8 @@
 		},
 		"krName": "Kar98k",
 		"grow": 135,
-		"jpName": "Kar98k"
+		"jpName": "Kar98k",
+		"enName": "Kar98k"
 	}, {
 		"id": 47,
 		"name": "G43",
@@ -1892,7 +1934,8 @@
 		},
 		"krName": "G43",
 		"grow": 115,
-		"jpName": "G43"
+		"jpName": "G43",
+		"enName": "G43"
 	}, {
 		"id": 48,
 		"name": "WA2000",
@@ -1938,7 +1981,8 @@
 		},
 		"krName": "WA2000",
 		"grow": 120,
-		"jpName": "WA2000"
+		"jpName": "WA2000",
+		"enName": "WA2000"
 	}, {
 		"id": 49,
 		"name": "56typeR",
@@ -1979,7 +2023,8 @@
 		},
 		"krName": "56식 반",
 		"grow": 110,
-		"jpName": "56式半"
+		"jpName": "56式半",
+		"enName": "Type56R"
 	}, {
 		"id": 50,
 		"name": "MLEMK1",
@@ -2024,7 +2069,8 @@
 		},
 		"krName": "리엔필드",
 		"grow": 135,
-		"jpName": "リー・エンフィールド"
+		"jpName": "リー・エンフィールド",
+		"enName": "Lee Enfield"
 	}, {
 		"id": 51,
 		"name": "FN49",
@@ -2065,7 +2111,8 @@
 		},
 		"krName": "FN-49",
 		"grow": 115,
-		"jpName": "FF FN49"
+		"jpName": "FF FN49",
+		"enName": "FF FN49"
 	}, {
 		"id": 52,
 		"name": "BM59",
@@ -2106,7 +2153,8 @@
 		},
 		"krName": "BM59",
 		"grow": 95,
-		"jpName": "It BM59"
+		"jpName": "It BM59",
+		"enName": "VM59"
 	}, {
 		"id": 53,
 		"name": "NTW20",
@@ -2150,7 +2198,8 @@
 		},
 		"krName": "NTW-20",
 		"grow": 130,
-		"jpName": "NTW-20"
+		"jpName": "NTW-20",
+		"enName": "NTW-20"
 	}, {
 		"id": 54,
 		"name": "M16A1",
@@ -2191,7 +2240,8 @@
 		},
 		"krName": "M16A1",
 		"grow": 110,
-		"jpName": "M16A1"
+		"jpName": "M16A1",
+		"enName": "M16A1"
 	}, {
 		"id": 55,
 		"name": "M4A1",
@@ -2234,7 +2284,8 @@
 		},
 		"krName": "M4A1",
 		"grow": 115,
-		"jpName": "M4A1"
+		"jpName": "M4A1",
+		"enName": "M4A1"
 	}, {
 		"id": 56,
 		"name": "M4 SOPMOD II",
@@ -2275,7 +2326,8 @@
 		},
 		"krName": "M4 SOPMODII",
 		"grow": 110,
-		"jpName": "M4 SOPMOD II"
+		"jpName": "M4 SOPMOD II",
+		"enName": "M4 SOPMOD II"
 	}, {
 		"id": 57,
 		"name": "AR15",
@@ -2320,7 +2372,8 @@
 		},
 		"krName": "ST AR-15",
 		"grow": 120,
-		"jpName": "ST AR-15"
+		"jpName": "ST AR-15",
+		"enName": "ST AR-15"
 	}, {
 		"id": 58,
 		"name": "AK47",
@@ -2364,7 +2417,8 @@
 		},
 		"krName": "AK-47",
 		"grow": 110,
-		"jpName": "AK-47"
+		"jpName": "AK-47",
+		"enName": "AK-47"
 	}, {
 		"id": 60,
 		"name": "ASVAL",
@@ -2411,7 +2465,8 @@
 		},
 		"krName": "AS Val",
 		"grow": 110,
-		"jpName": "AS Val"
+		"jpName": "AS Val",
+		"enName": "AS Val"
 	}, {
 		"id": 61,
 		"name": "STG44",
@@ -2454,7 +2509,8 @@
 		},
 		"krName": "StG44",
 		"grow": 120,
-		"jpName": "StG44"
+		"jpName": "StG44",
+		"enName": "StG44"
 	}, {
 		"id": 62,
 		"name": "G41",
@@ -2497,7 +2553,8 @@
 		},
 		"krName": "G41",
 		"grow": 120,
-		"jpName": "Gr G41"
+		"jpName": "Gr G41",
+		"enName": "Gr G41"
 	}, {
 		"id": 63,
 		"name": "G3",
@@ -2540,7 +2597,8 @@
 		},
 		"krName": "G3",
 		"grow": 120,
-		"jpName": "Gr G3"
+		"jpName": "Gr G3",
+		"enName": "Gr G3"
 	}, {
 		"id": 64,
 		"name": "G36",
@@ -2587,7 +2645,8 @@
 		},
 		"krName": "G36",
 		"grow": 110,
-		"jpName": "Gr G36"
+		"jpName": "Gr G36",
+		"enName": "Gr G36"
 	}, {
 		"id": 65,
 		"name": "HK416",
@@ -2629,7 +2688,8 @@
 		},
 		"krName": "HK416",
 		"grow": 115,
-		"jpName": "416"
+		"jpName": "416",
+		"enName": "416"
 	}, {
 		"id": 66,
 		"name": "56-1type",
@@ -2675,7 +2735,8 @@
 		},
 		"krName": "56-1식",
 		"grow": 110,
-		"jpName": "56-1式"
+		"jpName": "56-1式",
+		"enName": "Type56-1"
 	}, {
 		"id": 68,
 		"name": "L85A1",
@@ -2718,7 +2779,8 @@
 		},
 		"krName": "L85A1",
 		"grow": 125,
-		"jpName": "L85A1"
+		"jpName": "L85A1",
+		"enName": "L85A1"
 	}, {
 		"id": 69,
 		"name": "FAMAS",
@@ -2761,7 +2823,8 @@
 		},
 		"krName": "FAMAS",
 		"grow": 105,
-		"jpName": "Fr FAMAS"
+		"jpName": "Fr FAMAS",
+		"enName": "Fr FAMAS"
 	}, {
 		"id": 70,
 		"name": "FNFNC",
@@ -2805,7 +2868,8 @@
 		},
 		"krName": "FNC",
 		"grow": 115,
-		"jpName": "FF FNC"
+		"jpName": "FF FNC",
+		"enName": "FF FNC"
 	}, {
 		"id": 71,
 		"name": "AR",
@@ -2849,7 +2913,8 @@
 		},
 		"krName": "갈릴",
 		"grow": 130,
-		"jpName": "ガリル"
+		"jpName": "ガリル",
+		"enName": "Galil"
 	}, {
 		"id": 72,
 		"name": "TAR21",
@@ -2893,7 +2958,8 @@
 		},
 		"krName": "TAR-21",
 		"grow": 115,
-		"jpName": "TAR-21"
+		"jpName": "TAR-21",
+		"enName": "TAR-21"
 	}, {
 		"id": 73,
 		"name": "AUG",
@@ -2973,7 +3039,8 @@
 		},
 		"krName": "SIG-510",
 		"grow": 125,
-		"jpName": "SIG-510"
+		"jpName": "SIG-510",
+		"enName": "SIG-510"
 	}, {
 		"id": 75,
 		"name": "M1918",
@@ -3021,7 +3088,8 @@
 		},
 		"krName": "M1918",
 		"grow": 125,
-		"jpName": "M1918"
+		"jpName": "M1918",
+		"enName": "M1918"
 	}, {
 		"id": 77,
 		"name": "M2HB",
@@ -3060,7 +3128,8 @@
 		},
 		"krName": "M2HB",
 		"grow": 95,
-		"jpName": "M2HB"
+		"jpName": "M2HB",
+		"enName": "M2HB "
 	}, {
 		"id": 78,
 		"name": "M60",
@@ -3108,7 +3177,8 @@
 		},
 		"krName": "M60",
 		"grow": 115,
-		"jpName": "M60"
+		"jpName": "M60",
+		"enName": "M60"
 	}, {
 		"id": 79,
 		"name": "M249SAW",
@@ -3158,7 +3228,8 @@
 		},
 		"krName": "M249 SAW",
 		"grow": 135,
-		"jpName": "FF M249SAW"
+		"jpName": "FF M249SAW",
+		"enName": "FF M249SAW"
 	}, {
 		"id": 80,
 		"name": "M1919A4",
@@ -3204,7 +3275,8 @@
 		},
 		"krName": "M1919A4",
 		"grow": 110,
-		"jpName": "M1919A4"
+		"jpName": "M1919A4",
+		"enName": "M1919A4"
 	}, {
 		"id": 81,
 		"name": "LWMMG",
@@ -3249,7 +3321,8 @@
 		},
 		"krName": "LWMMG",
 		"grow": 95,
-		"jpName": "LWMMG"
+		"jpName": "LWMMG",
+		"enName": "LWMMG"
 	}, {
 		"id": 82,
 		"name": "DP28",
@@ -3292,7 +3365,8 @@
 		},
 		"krName": "DP28",
 		"grow": 125,
-		"jpName": "DP28"
+		"jpName": "DP28",
+		"enName": "DP28"
 	}, {
 		"id": 84,
 		"name": "RPD",
@@ -3335,7 +3409,8 @@
 		},
 		"krName": "RPD",
 		"grow": 130,
-		"jpName": "RPD"
+		"jpName": "RPD",
+		"enName": "RPD"
 	}, {
 		"id": 85,
 		"name": "PK",
@@ -3376,7 +3451,8 @@
 		},
 		"krName": "PK",
 		"grow": 110,
-		"jpName": "PK"
+		"jpName": "PK",
+		"enName": "PK"
 	}, {
 		"id": 86,
 		"name": "MG42",
@@ -3419,7 +3495,8 @@
 		},
 		"krName": "MG42",
 		"grow": 115,
-		"jpName": "MG42"
+		"jpName": "MG42",
+		"enName": "MG42"
 	}, {
 		"id": 87,
 		"name": "MG34",
@@ -3462,7 +3539,8 @@
 		},
 		"krName": "MG34",
 		"grow": 110,
-		"jpName": "MG34"
+		"jpName": "MG34",
+		"enName": "MG34"
 	}, {
 		"id": 88,
 		"name": "MG3",
@@ -3508,7 +3586,8 @@
 		},
 		"krName": "MG3",
 		"grow": 110,
-		"jpName": "MG3"
+		"jpName": "MG3",
+		"enName": "MG3"
 	}, {
 		"id": 89,
 		"name": "BrenMK",
@@ -3552,7 +3631,8 @@
 		},
 		"krName": "브렌",
 		"grow": 120,
-		"jpName": "ブレン"
+		"jpName": "ブレン",
+		"enName": "Bren"
 	}, {
 		"id": 90,
 		"name": "FNP9",
@@ -3594,7 +3674,8 @@
 		},
 		"krName": "FNP9",
 		"grow": 110,
-		"jpName": "FF FNP9"
+		"jpName": "FF FNP9",
+		"enName": "FF FNP9"
 	}, {
 		"id": 91,
 		"name": "MP446",
@@ -3638,7 +3719,8 @@
 		},
 		"krName": "MP-446",
 		"grow": 120,
-		"jpName": "MP-446"
+		"jpName": "MP-446",
+		"enName": "MP-446"
 	}, {
 		"id": 92,
 		"name": "SpectreM4",
@@ -3679,7 +3761,8 @@
 		},
 		"krName": "Spectre M4",
 		"grow": 100,
-		"jpName": "スペクトラM4"
+		"jpName": "スペクトラM4",
+		"enName": "Spectre M4"
 	}, {
 		"id": 93,
 		"name": "IDW",
@@ -3722,7 +3805,8 @@
 		},
 		"krName": "IDW",
 		"grow": 130,
-		"jpName": "IDW"
+		"jpName": "IDW",
+		"enName": "IDW"
 	}, {
 		"id": 94,
 		"name": "64type",
@@ -3765,7 +3849,8 @@
 		},
 		"krName": "64식",
 		"grow": 105,
-		"jpName": "64式"
+		"jpName": "64式",
+		"enName": "Type64"
 	}, {
 		"id": 95,
 		"name": "88type",
@@ -3813,7 +3898,8 @@
 		},
 		"krName": "한양조 88식",
 		"grow": 120,
-		"jpName": "漢陽88式"
+		"jpName": "漢陽88式",
+		"enName": "Type88"
 	}, {
 		"id": 96,
 		"name": "Grizzly",
@@ -3859,7 +3945,8 @@
 		},
 		"krName": "그리즐리 Mk V",
 		"grow": 125,
-		"jpName": "グリズリー"
+		"jpName": "グリズリー",
+		"enName": "Grizzly"
 	}, {
 		"id": 97,
 		"name": "M950A",
@@ -3905,7 +3992,8 @@
 		},
 		"krName": "M950A",
 		"grow": 115,
-		"jpName": "M950A"
+		"jpName": "M950A",
+		"enName": "M950A"
 	}, {
 		"id": 98,
 		"name": "SPP1",
@@ -3949,7 +4037,8 @@
 		},
 		"krName": "SPP-1",
 		"grow": 135,
-		"jpName": "SPP-1"
+		"jpName": "SPP-1",
+		"enName": "SPP-1"
 	}, {
 		"id": 99,
 		"name": "Mk23",
@@ -3999,7 +4088,8 @@
 		},
 		"krName": "Mk23",
 		"grow": 110,
-		"jpName": "Gr Mk23"
+		"jpName": "Gr Mk23",
+		"enName": "Gr Mk23"
 	}, {
 		"id": 100,
 		"name": "P7",
@@ -4044,7 +4134,8 @@
 		},
 		"krName": "P7",
 		"grow": 115,
-		"jpName": "P7"
+		"jpName": "P7",
+		"enName": "P7"
 	}, {
 		"id": 101,
 		"name": "UMP9",
@@ -4088,7 +4179,8 @@
 		},
 		"krName": "UMP9",
 		"grow": 110,
-		"jpName": "UMP9"
+		"jpName": "UMP9",
+		"enName": "UMP9"
 	}, {
 		"id": 102,
 		"name": "UMP40",
@@ -4131,7 +4223,8 @@
 		},
 		"krName": "UMP40",
 		"grow": 110,
-		"jpName": "UMP40"
+		"jpName": "UMP40",
+		"enName": "UMP40"
 	}, {
 		"id": 103,
 		"name": "UMP45",
@@ -4177,7 +4270,8 @@
 		},
 		"krName": "UMP45",
 		"grow": 110,
-		"jpName": "UMP45"
+		"jpName": "UMP45",
+		"enName": "UMP45"
 	}, {
 		"id": 104,
 		"name": "G36C",
@@ -4220,7 +4314,8 @@
 		},
 		"krName": "G36C",
 		"grow": 95,
-		"jpName": "Gr G36C"
+		"jpName": "Gr G36C",
+		"enName": "Gr G36c"
 	}, {
 		"id": 105,
 		"name": "OTs12",
@@ -4264,7 +4359,8 @@
 		},
 		"krName": "OTs-12",
 		"grow": 125,
-		"jpName": "OTs-12"
+		"jpName": "OTs-12",
+		"enName": "OTs-12"
 	}, {
 		"id": 106,
 		"name": "FNFAL",
@@ -4307,7 +4403,8 @@
 		},
 		"krName": "FAL",
 		"grow": 115,
-		"jpName": "FAL"
+		"jpName": "FAL",
+		"enName": "FAL"
 	}, {
 		"id": 107,
 		"name": "F2000",
@@ -4349,7 +4446,8 @@
 		},
 		"krName": "F2000",
 		"grow": 105,
-		"jpName": "FF F2000"
+		"jpName": "FF F2000",
+		"enName": "FF F2000"
 	}, {
 		"id": 108,
 		"name": "CZ805",
@@ -4392,7 +4490,8 @@
 		},
 		"krName": "CZ-805",
 		"grow": 110,
-		"jpName": "CZ-805"
+		"jpName": "CZ-805",
+		"enName": "CZ-805"
 	}, {
 		"id": 109,
 		"name": "MG5",
@@ -4435,7 +4534,8 @@
 		},
 		"krName": "MG5",
 		"grow": 110,
-		"jpName": "Gr MG5"
+		"jpName": "Gr MG5",
+		"enName": "Gr MG5"
 	}, {
 		"id": 110,
 		"name": "FG42",
@@ -4477,7 +4577,8 @@
 		},
 		"krName": "FG42",
 		"grow": 115,
-		"jpName": "FG42"
+		"jpName": "FG42",
+		"enName": "FG42"
 	}, {
 		"id": 111,
 		"name": "AAT52",
@@ -4524,7 +4625,8 @@
 		},
 		"krName": "AAT-52",
 		"grow": 90,
-		"jpName": "AAT-52"
+		"jpName": "AAT-52",
+		"enName": "AAT-52"
 	}, {
 		"id": 112,
 		"name": "NEGEV",
@@ -4565,7 +4667,8 @@
 		},
 		"krName": "네게브",
 		"grow": 135,
-		"jpName": "ネゲヴ"
+		"jpName": "ネゲヴ",
+		"enName": "Negev"
 	}, {
 		"id": 113,
 		"name": "SPS",
@@ -4607,7 +4710,8 @@
 		},
 		"krName": "세르듀코프",
 		"grow": 115,
-		"jpName": "セルジュコフ"
+		"jpName": "セルジュコフ",
+		"enName": "Serdyukov"
 	}, {
 		"id": 114,
 		"name": "Welrod",
@@ -4653,7 +4757,8 @@
 		},
 		"krName": "웰로드MkII",
 		"grow": 140,
-		"jpName": "ウェルロッドMkⅡ"
+		"jpName": "ウェルロッドMkⅡ",
+		"enName": "Welrod MkⅡ"
 	}, {
 		"id": 115,
 		"name": "KP31",
@@ -4698,7 +4803,8 @@
 		},
 		"krName": "수오미",
 		"grow": 105,
-		"jpName": "スオミ"
+		"jpName": "スオミ",
+		"enName": "Suomi"
 	}, {
 		"id": 116,
 		"name": "Z62",
@@ -4741,7 +4847,8 @@
 		},
 		"krName": "Z-62",
 		"grow": 120,
-		"jpName": "Z-62"
+		"jpName": "Z-62",
+		"enName": "Z-62"
 	}, {
 		"id": 117,
 		"name": "PSG1",
@@ -4781,7 +4888,8 @@
 		},
 		"krName": "PSG-1",
 		"grow": 105,
-		"jpName": "Gr PSG-1"
+		"jpName": "Gr PSG-1",
+		"enName": "Gr PSG-1"
 	}, {
 		"id": 118,
 		"name": "9A91",
@@ -4830,7 +4938,8 @@
 		},
 		"krName": "9A-91",
 		"grow": 110,
-		"jpName": "9A-91"
+		"jpName": "9A-91",
+		"enName": "9A-91"
 	}, {
 		"id": 119,
 		"name": "OTs14",
@@ -4879,7 +4988,8 @@
 		},
 		"krName": "OTs-14",
 		"grow": 125,
-		"jpName": "OTs-14"
+		"jpName": "OTs-14",
+		"enName": "OTs-14"
 	}, {
 		"id": 120,
 		"name": "ARX160",
@@ -4920,7 +5030,8 @@
 		},
 		"krName": "ARX-160",
 		"grow": 115,
-		"jpName": "ARX-160"
+		"jpName": "ARX-160",
+		"enName": "ARX-160"
 	}, {
 		"id": 121,
 		"name": "Mk48",
@@ -4962,7 +5073,8 @@
 		},
 		"krName": "Mk48",
 		"grow": 100,
-		"jpName": "Mk48"
+		"jpName": "Mk48",
+		"enName": "Mk48"
 	}, {
 		"id": 122,
 		"name": "G11",
@@ -5007,7 +5119,8 @@
 		},
 		"krName": "G11",
 		"grow": 110,
-		"jpName": "Gr G11"
+		"jpName": "Gr G11",
+		"enName": "Gr G11"
 	}, {
 		"id": 123,
 		"name": "P99",
@@ -5049,7 +5162,8 @@
 		},
 		"krName": "P99",
 		"grow": 110,
-		"jpName": "P99"
+		"jpName": "P99",
+		"enName": "P99"
 	}, {
 		"id": 124,
 		"name": "SuperSASS",
@@ -5091,7 +5205,8 @@
 		},
 		"krName": "Super SASS",
 		"grow": 105,
-		"jpName": "Super SASS"
+		"jpName": "Super SASS",
+		"enName": "Super SASS"
 	}, {
 		"id": 125,
 		"name": "MG4",
@@ -5137,7 +5252,8 @@
 		},
 		"krName": "MG4",
 		"grow": 135,
-		"jpName": "Gr MG4"
+		"jpName": "Gr MG4",
+		"enName": "Gr MG4"
 	}, {
 		"id": 126,
 		"name": "NZ75",
@@ -5182,7 +5298,8 @@
 		},
 		"krName": "NZ75",
 		"grow": 125,
-		"jpName": "NZ75"
+		"jpName": "NZ75",
+		"enName": "NZ75"
 	}, {
 		"id": 127,
 		"name": "79type",
@@ -5224,7 +5341,8 @@
 		},
 		"krName": "79식",
 		"grow": 100,
-		"jpName": "79式"
+		"jpName": "79式",
+		"enName": "Type79"
 	}, {
 		"id": 128,
 		"name": "M99",
@@ -5267,7 +5385,8 @@
 		},
 		"krName": "M99",
 		"grow": 135,
-		"jpName": "M99"
+		"jpName": "M99",
+		"enName": "M99"
 	}, {
 		"id": 129,
 		"name": "95type",
@@ -5313,7 +5432,8 @@
 		},
 		"krName": "95식",
 		"grow": 120,
-		"jpName": "95式"
+		"jpName": "95式",
+		"enName": "Type95"
 	}, {
 		"id": 130,
 		"name": "97type",
@@ -5359,7 +5479,8 @@
 		},
 		"krName": "97식",
 		"grow": 125,
-		"jpName": "97式"
+		"jpName": "97式",
+		"enName": "Type97"
 	}, {
 		"id": 131,
 		"name": "EVO3",
@@ -5401,7 +5522,8 @@
 		},
 		"krName": "EVO 3",
 		"grow": 105,
-		"jpName": "EVO 3"
+		"jpName": "EVO 3",
+		"enName": "EVO 3"
 	}, {
 		"id": 132,
 		"name": "59type",
@@ -5451,7 +5573,8 @@
 		},
 		"krName": "59식",
 		"grow": 130,
-		"jpName": "59式"
+		"jpName": "59式",
+		"enName": "Type59"
 	}, {
 		"id": 133,
 		"name": "63type",
@@ -5497,7 +5620,8 @@
 		},
 		"krName": "63식",
 		"grow": 115,
-		"jpName": "63式"
+		"jpName": "63式",
+		"enName": "Type63"
 	}, {
 		"id": 134,
 		"name": "AR70",
@@ -5538,7 +5662,8 @@
 		},
 		"krName": "AR70",
 		"grow": 120,
-		"jpName": "AR70"
+		"jpName": "AR70",
+		"enName": "AR70"
 	}, {
 		"id": 135,
 		"name": "SR3MP",
@@ -5582,7 +5707,8 @@
 		},
 		"krName": "SR-3MP",
 		"grow": 95,
-		"jpName": "SR-3MP"
+		"jpName": "SR-3MP",
+		"enName": "SR-3MP"
 	}, {
 		"id": 136,
 		"name": "PP19",
@@ -5624,7 +5750,8 @@
 		},
 		"krName": "PP-19",
 		"grow": 110,
-		"jpName": "PP-19"
+		"jpName": "PP-19",
+		"enName": "PP-19"
 	}, {
 		"id": 137,
 		"name": "PP1901",
@@ -5711,7 +5838,8 @@
 		},
 		"krName": "6P62",
 		"grow": 125,
-		"jpName": "6P62"
+		"jpName": "6P62",
+		"enName": "6P62"
 	}, {
 		"id": 139,
 		"name": "BrenTen",
@@ -5753,7 +5881,8 @@
 		},
 		"krName": "Bren Ten",
 		"grow": 110,
-		"jpName": "ブレン・テン"
+		"jpName": "ブレン・テン",
+		"enName": "Bren Ten"
 	}, {
 		"id": 140,
 		"name": "PSM",
@@ -5796,7 +5925,8 @@
 		},
 		"krName": "PSM",
 		"grow": 135,
-		"jpName": "PSM"
+		"jpName": "PSM",
+		"enName": "PSM"
 	}, {
 		"id": 141,
 		"name": "USPCompact",
@@ -5837,7 +5967,8 @@
 		},
 		"krName": "USP Compact",
 		"grow": 115,
-		"jpName": "Gr USPコンパクト"
+		"jpName": "Gr USPコンパクト",
+		"enName": "Gr USPCompact"
 	}, {
 		"id": 142,
 		"name": "FN57",
@@ -5884,7 +6015,8 @@
 		},
 		"krName": "Five-seveN",
 		"grow": 125,
-		"jpName": "Five-seven"
+		"jpName": "Five-seven",
+		"enName": "Five-seven"
 	}, {
 		"id": 143,
 		"name": "RO635",
@@ -5927,7 +6059,8 @@
 		},
 		"krName": "RO635",
 		"grow": 105,
-		"jpName": "RO635"
+		"jpName": "RO635",
+		"enName": "RO635"
 	}, {
 		"id": 144,
 		"name": "MT9",
@@ -5968,7 +6101,8 @@
 		},
 		"krName": "MT-9",
 		"grow": 100,
-		"jpName": "MT-9"
+		"jpName": "MT-9",
+		"enName": "MT-9"
 	}, {
 		"id": 145,
 		"name": "OC44",
@@ -6010,7 +6144,8 @@
 		},
 		"krName": "OTs-44",
 		"grow": 135,
-		"jpName": "OTs-44"
+		"jpName": "OTs-44",
+		"enName": "OTs-44"
 	}, {
 		"id": 146,
 		"name": "G28",
@@ -6054,7 +6189,8 @@
 		},
 		"krName": "G28",
 		"grow": 120,
-		"jpName": "Gr G28"
+		"jpName": "Gr G28",
+		"enName": "Gr G28"
 	}, {
 		"id": 147,
 		"name": "SSG69",
@@ -6095,7 +6231,8 @@
 		},
 		"krName": "SSG 69",
 		"grow": 120,
-		"jpName": "SSG 69"
+		"jpName": "SSG 69",
+		"enName": "SSG 69"
 	}, {
 		"id": 148,
 		"name": "IWS2000",
@@ -6139,7 +6276,8 @@
 		},
 		"krName": "IWS 2000",
 		"grow": 130,
-		"jpName": "IWS 2000"
+		"jpName": "IWS 2000",
+		"enName": "IWS 2000"
 	}, {
 		"id": 149,
 		"name": "AEK999",
@@ -6188,7 +6326,8 @@
 		},
 		"krName": "AEK999",
 		"grow": 110,
-		"jpName": "AEK-999"
+		"jpName": "AEK-999",
+		"enName": "AEK-999"
 	}, {
 		"id": 150,
 		"name": "Shipka",
@@ -6230,7 +6369,8 @@
 		},
 		"krName": "시프카",
 		"grow": 115,
-		"jpName": "シプカ"
+		"jpName": "シプカ",
+		"enName": "Shipka"
 	}, {
 		"id": 151,
 		"name": "M1887",
@@ -6274,7 +6414,8 @@
 		},
 		"krName": "M1887",
 		"grow": 115,
-		"jpName": "M1887"
+		"jpName": "M1887",
+		"enName": "M1887"
 	}, {
 		"id": 152,
 		"name": "M1897",
@@ -6317,7 +6458,8 @@
 		},
 		"krName": "M1897",
 		"grow": 100,
-		"jpName": "M1897"
+		"jpName": "M1897",
+		"enName": "M1897"
 	}, {
 		"id": 153,
 		"name": "Ithaca37",
@@ -6362,7 +6504,8 @@
 		},
 		"krName": "M37",
 		"grow": 90,
-		"jpName": "M37"
+		"jpName": "M37",
+		"enName": "M37"
 	}, {
 		"id": 154,
 		"name": "M500",
@@ -6405,7 +6548,8 @@
 		},
 		"krName": "M500",
 		"grow": 95,
-		"jpName": "M500"
+		"jpName": "M500",
+		"enName": "M500"
 	}, {
 		"id": 155,
 		"name": "M590",
@@ -6450,7 +6594,8 @@
 		},
 		"krName": "M590",
 		"grow": 95,
-		"jpName": "M590"
+		"jpName": "M590",
+		"enName": "M590"
 	}, {
 		"id": 156,
 		"name": "SuperShorty",
@@ -6497,7 +6642,8 @@
 		},
 		"krName": "Super-Shorty",
 		"grow": 125,
-		"jpName": "Super-Shorty"
+		"jpName": "Super-Shorty",
+		"enName": "Super-Shorty"
 	}, {
 		"id": 157,
 		"name": "KSG",
@@ -6541,7 +6687,8 @@
 		},
 		"krName": "KSG",
 		"grow": 100,
-		"jpName": "Am KSG"
+		"jpName": "Am KSG",
+		"enName": "Am KSG"
 	}, {
 		"id": 158,
 		"name": "KS23",
@@ -6585,7 +6732,8 @@
 		},
 		"krName": "KS-23",
 		"grow": 90,
-		"jpName": "KS-23"
+		"jpName": "KS-23",
+		"enName": "KS-23"
 	}, {
 		"id": 159,
 		"name": "RMB93",
@@ -6631,7 +6779,8 @@
 		},
 		"krName": "RMB-93",
 		"grow": 100,
-		"jpName": "RMB-93"
+		"jpName": "RMB-93",
+		"enName": "RMB-93"
 	}, {
 		"id": 160,
 		"name": "Saiga12",
@@ -6675,7 +6824,8 @@
 		},
 		"krName": "Saiga-12",
 		"grow": 100,
-		"jpName": "Saiga-12"
+		"jpName": "Saiga-12",
+		"enName": "Saiga-12"
 	}, {
 		"id": 161,
 		"name": "97typeS",
@@ -6718,7 +6868,8 @@
 		},
 		"krName": "97식 산탄총",
 		"grow": 105,
-		"jpName": "97式ショット"
+		"jpName": "97式ショット",
+		"enName": "Type97S"
 	}, {
 		"id": 162,
 		"name": "SPAS12",
@@ -6761,7 +6912,8 @@
 		},
 		"krName": "SPAS-12",
 		"grow": 90,
-		"jpName": "SPAS-12"
+		"jpName": "SPAS-12",
+		"enName": "SPAS-12"
 	}, {
 		"id": 163,
 		"name": "AA12",
@@ -6930,7 +7082,8 @@
 		},
 		"krName": "CZ75",
 		"grow": 125,
-		"jpName": "CZ75"
+		"jpName": "CZ75",
+		"enName": "CZ75"
 	}, {
 		"id": 167,
 		"name": "HK45",
@@ -6972,7 +7125,8 @@
 		},
 		"krName": "HK45",
 		"grow": 110,
-		"jpName": "Gr HK45"
+		"jpName": "Gr HK45",
+		"enName": "Gr HK45"
 	}, {
 		"id": 168,
 		"name": "Spitfire",
@@ -7016,7 +7170,8 @@
 		},
 		"krName": "Spitfire",
 		"grow": 120,
-		"jpName": "Spitfire"
+		"jpName": "Spitfire",
+		"enName": "Spitfire"
 	}, {
 		"id": 169,
 		"name": "ColtSCW",
@@ -7059,7 +7214,8 @@
 		},
 		"krName": "SCW",
 		"grow": 100,
-		"jpName": "SCW"
+		"jpName": "SCW",
+		"enName": "SCW"
 	}, {
 		"id": 170,
 		"name": "Ash127",
@@ -7103,7 +7259,8 @@
 		},
 		"krName": "Ash-12.7",
 		"grow": 130,
-		"jpName": "ASh-12.7"
+		"jpName": "ASh-12.7",
+		"enName": "ASh-12.7"
 	}, {
 		"id": 171,
 		"name": "Ribeyrolles",
@@ -7146,7 +7303,8 @@
 		},
 		"krName": "리베롤",
 		"grow": 135,
-		"jpName": "リべロール"
+		"jpName": "リべロール",
+		"enName": "Ribeyrolles"
 	}, {
 		"id": 172,
 		"name": "RFB",
@@ -7191,7 +7349,8 @@
 		},
 		"krName": "RFB",
 		"grow": 145,
-		"jpName": "Am RFB"
+		"jpName": "Am RFB",
+		"enName": "Am RFB"
 	}, {
 		"id": 173,
 		"name": "PKP",
@@ -7234,7 +7393,8 @@
 		},
 		"krName": "PKP",
 		"grow": 115,
-		"jpName": "PKP"
+		"jpName": "PKP",
+		"enName": "PKP"
 	}, {
 		"id": 174,
 		"name": "81typeR",
@@ -7282,7 +7442,8 @@
 		},
 		"krName": "81식 카빈",
 		"grow": 125,
-		"jpName": "八一式馬"
+		"jpName": "八一式馬",
+		"enName": "Type81R"
 	}, {
 		"id": 175,
 		"name": "ART556",
@@ -7327,7 +7488,8 @@
 		},
 		"krName": "ART556",
 		"grow": 130,
-		"jpName": "ART556"
+		"jpName": "ART556",
+		"enName": "ART556"
 	}, {
 		"id": 176,
 		"name": "TMP",
@@ -7369,7 +7531,8 @@
 		},
 		"krName": "TMP",
 		"grow": 105,
-		"jpName": "TMP"
+		"jpName": "TMP",
+		"enName": "TMP"
 	}, {
 		"id": 177,
 		"name": "KLIN",
@@ -7414,7 +7577,8 @@
 		},
 		"krName": "KLIN",
 		"grow": 100,
-		"jpName": "KLIN"
+		"jpName": "KLIN",
+		"enName": "KLIN"
 	}, {
 		"id": 178,
 		"name": "F1",
@@ -7457,7 +7621,8 @@
 		},
 		"krName": "F1",
 		"grow": 112,
-		"jpName": "F1"
+		"jpName": "F1",
+		"enName": "F1"
 	}, {
 		"id": 179,
 		"name": "DSR50",
@@ -7501,7 +7666,8 @@
 		},
 		"krName": "DSR-50",
 		"grow": 138,
-		"jpName": "Gd DSR-50"
+		"jpName": "Gd DSR-50",
+		"enName": "Gd DSR-50"
 	}, {
 		"id": 180,
 		"name": "PzB39",
@@ -7544,7 +7710,8 @@
 		},
 		"krName": "PzB39",
 		"grow": 130,
-		"jpName": "PzB39"
+		"jpName": "PzB39",
+		"enName": "PzB39"
 	}, {
 		"id": 181,
 		"name": "T91",
@@ -7591,7 +7758,8 @@
 		},
 		"krName": "T91",
 		"grow": 115,
-		"jpName": "T91"
+		"jpName": "T91",
+		"enName": "T91"
 	}, {
 		"id": 182,
 		"name": "wz29",
@@ -7632,7 +7800,8 @@
 		},
 		"krName": "wz.29",
 		"grow": 110,
-		"jpName": "wz.29"
+		"jpName": "wz.29",
+		"enName": "wz.29"
 	}, {
 		"id": 183,
 		"name": "Contender",
@@ -7678,7 +7847,8 @@
 		},
 		"krName": "컨텐더",
 		"grow": 150,
-		"jpName": "コンテンダー"
+		"jpName": "コンテンダー",
+		"enName": "Contender"
 	}, {
 		"id": 184,
 		"name": "T5000",
@@ -7720,7 +7890,8 @@
 		},
 		"krName": "T-5000",
 		"grow": 117,
-		"jpName": "T-5000"
+		"jpName": "T-5000",
+		"enName": "T-5000"
 	}, {
 		"id": 185,
 		"name": "Ameli",
@@ -7770,7 +7941,8 @@
 		},
 		"krName": "아멜리",
 		"grow": 145,
-		"jpName": "Ameli"
+		"jpName": "Ameli",
+		"enName": "Ameli"
 	}, {
 		"id": 186,
 		"name": "P226",
@@ -7812,7 +7984,8 @@
 		},
 		"krName": "P226",
 		"grow": 110,
-		"jpName": "P226"
+		"jpName": "P226",
+		"enName": "P226"
 	}, {
 		"id": 187,
 		"name": "Ak5",
@@ -7854,7 +8027,8 @@
 		},
 		"krName": "Ak 5",
 		"grow": 115,
-		"jpName": "Ak 5"
+		"jpName": "Ak 5",
+		"enName": "Ak 5"
 	}, {
 		"id": 188,
 		"name": "SAT8",
@@ -7900,7 +8074,8 @@
 		},
 		"krName": "S.A.T.8",
 		"grow": 95,
-		"jpName": "S.A.T.8"
+		"jpName": "S.A.T.8",
+		"enName": "S.A.T.8"
 	}, {
 		"id": 189,
 		"name": "USAS12",
@@ -7945,7 +8120,8 @@
 		},
 		"krName": "USAS-12",
 		"grow": 100,
-		"jpName": "USAS-12"
+		"jpName": "USAS-12",
+		"enName": "USAS-12"
 	}, {
 		"id": 190,
 		"name": "NS2000",
@@ -7988,7 +8164,8 @@
 		},
 		"krName": "NS2000",
 		"grow": 100,
-		"jpName": "NS2000"
+		"jpName": "NS2000",
+		"enName": "NS2000"
 	}, {
 		"id": 191,
 		"name": "M12",
@@ -8031,7 +8208,8 @@
 		},
 		"krName": "M12",
 		"grow": 115,
-		"jpName": "M12"
+		"jpName": "M12",
+		"enName": "M12"
 	}, {
 		"id": 192,
 		"name": "JS-127",
@@ -8074,7 +8252,8 @@
 		},
 		"krName": "JS05",
 		"grow": 136,
-		"jpName": "JS05"
+		"jpName": "JS05",
+		"enName": "JS05"
 	}, {
 		"id": 193,
 		"name": "T65",
@@ -9464,7 +9643,8 @@
 		},
 		"krName": "노엘 버밀리온",
 		"grow": 120,
-		"jpName": "ノエル"
+		"jpName": "ノエル",
+		"enName": "Noel"
 	}, {
 		"id": 1002,
 		"name": "GG_elfeldt",
@@ -9511,7 +9691,8 @@
 		},
 		"krName": "엘펠트 밸런타인",
 		"grow": 95,
-		"jpName": "エルフェルト"
+		"jpName": "エルフェルト",
+		"enName": "Elphelt"
 	}, {
 		"id": 1003,
 		"name": "Kiana",

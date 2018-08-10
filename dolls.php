@@ -33,7 +33,7 @@
 				foreach($dolls as $doll) {
 					$imgsrc = $doll->name . "/pic/pic_" . $doll->name . "_n";
 					if($lang == 'en') 
-						$dollname = $doll->name;
+						$dollname = isset($doll->enName)?$doll->enName:$doll->name;
 					else if($lang == 'ja')
 						$dollname = isset($doll->jpName)?$doll->jpName:$doll->name;
 					else

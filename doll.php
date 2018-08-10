@@ -485,7 +485,7 @@
 	//이름구하기
 	$dollname;
 	if($lang == 'en') 
-		$dollname = $doll->name;
+		$dollname = isset($doll->enName)?$doll->enName:$doll->name;
 	else if($lang == 'ja')
 		$dollname = isset($doll->jpName)?$doll->jpName:$doll->name;
 	else
