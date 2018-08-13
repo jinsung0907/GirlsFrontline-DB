@@ -16,7 +16,7 @@ else {
 	$langs = explode(',', $_SERVER['HTTP_ACCEPT_LANGUAGE']);
 	if($langs[0] == "en" || $langs[0] == "en-US")
 		$lang = 'en';
-	else if($langs[0] == "ja" || $langs[0] == "ja-JP")
+	else if(strtolower($langs[0]) == "ja" || strtolower($langs[0]) == "ja-jp")
 		$lang = 'ja';
 	else 
 		$lang = 'ko';

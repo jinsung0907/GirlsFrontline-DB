@@ -30,7 +30,7 @@
 		}
 	}
 	
-	if(empty($doll)) Error('데이터 없음<br><br>NPC, BOSS는 데이터가 존재하지 않습니다.<br> 인형의 경우는 데이터가 안맞는것으로 게시판에 알려주심됩니다.');
+	if(empty($doll)) Error('데이터 없음(No data)<br><br>NPC, BOSS는 데이터가 존재하지 않습니다.<br> 인형의 경우는 데이터가 안맞는것으로 게시판에 알려주심됩니다.');
 	
 	$maxlevel = 100;
 	if($doll->id > 20000) {
