@@ -3,7 +3,8 @@
 	require_once("common.php");
 	
 	$header_title = "소전DB 요정리스트 | 소전DB";
-	$header_desc = "소녀전선 요정 목록, 소녀전선 요정 리스트, 소녀전선 추천요정";
+	$header_desc = "소전DB 요정 목록입니다.";
+	$header_keyword = "소녀전선 요정 목록, 소녀전선 요정 리스트, 소녀전선 추천요정";
 	require_once("header.php");
 	$fairies = json_decode(file_get_contents("data/fairy.json"));
 ?>
@@ -13,8 +14,8 @@
 	</style>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
-			제조시간 : <input type="number" id="buildtime" /> ex) 8시간 10분-> 810, 0시간 53분->053<br>
-			이름 : <input type="text" id="dollname" /><br><br>
+			<?=L::database_buildtime?> : <input type="number" id="buildtime" /> <?=L::database_buildltime_ex?><br>
+			<?=L::database_name?> : <input type="text" id="dollname" /><br><br>
 			<div class="fairyindex row">
 			<?php
 				foreach($fairies as $fairy) {
@@ -37,7 +38,7 @@
 					else 
 						$fairyname = isset($fairy->krName)?$fairy->krName:$fairy->name;
 					?>
-				<a href="fairy.php?id=<?=$fairy->id?>" class="fairyindex item" data-name='<?=$fairy->krName?>' data-buildtime='<?=gmdate("Gi", $fairy->buildTime)?>'>
+				<a href="fairy.php?id=<?=$fairy->id?>" class="fairyindex item" data-name='<?=getFairyName($fairy)?>' data-buildtime='<?=gmdate("Gi", $fairy->buildTime)?>'>
 					<i class="portrait fairy" style="background-image: url('img/fairy/<?=$imgsrc?>.png');" ></i>
 					<div class="portrait_name pt-2 pb-2"><?=$fairyname?></div>
 				</a><?php } ?>

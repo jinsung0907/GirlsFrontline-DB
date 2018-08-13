@@ -3,7 +3,8 @@
 	require_once("common.php");
 	
 	$header_title = "소녀전선 서브스토리 | 소전DB";
-	$header_desc = "소녀전선 스토리, 개장 스토리, 스킨스토리, 소전 스토리, "; 
+	$header_desc = "소전DB 소녀전선 서브스토리 모음 사이트입니다."; 
+	$header_keyword = "소녀전선 스토리, 개장 스토리, 스킨스토리, 소전 스토리, "; 
 	require_once("header.php");
 	
 	if($lang != 'ko') {

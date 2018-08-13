@@ -478,18 +478,13 @@
 		$live2d_list = '\'\'';
 	}
 	
-	$header_title =  "" . $doll->name . ", " . $doll->krName . " | 소전 DB";
-	$header_desc = "{$doll->krName}, {$doll->krName} 보이스, {$doll->krName} SD, {$doll->krName} 스킨, {$doll->name}, 소녀전선 검열, " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
-	$header_image = "http://gfl.zzzzz.kr/img/characters/" .$doll->name . "/pic/pic_" . $doll->name . "_n.jpg";
-	
 	//이름구하기
-	$dollname;
-	if($lang == 'en') 
-		$dollname = isset($doll->enName)?$doll->enName:$doll->name;
-	else if($lang == 'ja')
-		$dollname = isset($doll->jpName)?$doll->jpName:$doll->name;
-	else
-		$dollname = isset($doll->krName)?$doll->krName:$doll->name;
+	$dollname = getDollName($doll);
+	
+	$header_title = getDollName($doll) . " | " . L::sitetitle_short;
+	$header_desc = "소전DB $dollname 인형정보 페이지입니다.";
+	$header_keyword = "$dollname, $dollname 보이스, $dollname SD, $dollname 스킨, {$doll->name}, 소녀전선 검열, " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
+	$header_image = "http://gfl.zzzzz.kr/img/characters/" .$doll->name . "/pic/pic_" . $doll->name . "_n.jpg";
 
 	require_once("header.php");
 ?>
@@ -537,7 +532,7 @@
 					<b><?=L::database_rare?></b> : <?=gunrank_to_img($doll->rank)?><hr class="mt-1 mb-1">
 					<b><?=L::database_type?></b> : <?=guntype_to_str($doll->type)?>(<?=strtoupper($doll->type)?>)<hr class="mt-1 mb-1">
 					<b><?=L::database_voice?></b> : <?=isset($doll->voice)?$doll->voice:''?><hr class="mt-1 mb-1">
-					<b><?=L::database_buildtime?></b> : <?=isset($doll->buildTime)&&$doll->buildTime!=0?gmdate("H시간 i분", $doll->buildTime): L::database_cantbuild?><hr class="mt-1 mb-1">
+					<b><?=L::database_buildtime?></b> : <?=isset($doll->buildTime)&&$doll->buildTime!=0?gmdate("H\\" . L::hour . " i\\" . L::min, $doll->buildTime): L::database_cantbuild?><hr class="mt-1 mb-1">
 					<b><?=L::database_skin?></b> : <?=$skinstr?><hr class="mt-1 mb-1">
 					<div class="row">
 						<div class="col-md-auto align-self-center">

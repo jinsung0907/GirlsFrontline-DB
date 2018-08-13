@@ -14,7 +14,7 @@
 			}
 		}
 		else {
-			if($data->name == $_GET['id'] || $data->krName == $_GET['id']) {
+			if($data->name == $_GET['id'] || getFairyName($fairy) == $_GET['id']) {
 				$fairy = $data;
 				break;
 			}
@@ -167,8 +167,9 @@
 	
 
 	
-	$header_title =  "" . $fairy->krName . ", " . $fairy->name . " | 소전 DB";
-	$header_desc = "" . $fairy->krName . ", ". $fairy->name;
+	$header_title =  getFairyName($fairy) . ", " . $fairy->name . " | " . L::sitetitle_short;
+	$header_desc = "소전DB " . getFairyName($fairy) . " 요정정보입니다.";
+	$header_keyword = getFairyName($fairy) . ", ". $fairy->name . ", 소녀전선 요정";
 	require_once("header.php");	
 ?>
     <main role="main" class="container">

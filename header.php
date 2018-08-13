@@ -21,21 +21,21 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="소녀전선 데이터베이스 사이트입니다.">
-    <meta name="keywords" content="소녀전선DB, 소전DB, 스토리, 소전, 소전 스토리, 소녀전선, 소녀전선 스토리, <?=$header_desc?>">
+    <meta name="keywords" content="소녀전선DB, 소전DB, 스토리, 소전, 소전 스토리, 소녀전선, 소녀전선 스토리, <?=$header_keyword?>">
     <meta name="author" content="Jinsung">
 	<meta name="theme-color" content="#F0A900"> 
 	<meta property="og:type" content="website"/>
 	<meta property="og:title" content="<?=$header_title?>"/>
 	<meta property="og:url" content="http://<?=$_SERVER[HTTP_HOST] . $_SERVER[REQUEST_URI] ?>"/>
 	<?=$header_image?>
-	<meta property="og:description" content="소녀전선 데이터베이스 사이트입니다. <?=$header_desc?>"/>
+	<meta property="og:description" content="소녀전선 데이터베이스 사이트입니다."/>
 	
     <title><?=$header_title?></title>
 
     <link rel="stylesheet" href="dist/bootstrap.min.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 	<link rel="stylesheet" href="dist/outdatedbrowser/outdatedbrowser.min.css">
-    <link rel="stylesheet" href="dist/gfdb.css?v=5">
+    <link rel="stylesheet" href="dist/gfdb.css?v=6">
   </head>
 
   <body class="bg-secondary">
@@ -55,7 +55,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			  <div class="dropdown-menu" aria-labelledby="dbDropdown">
 			   <a class="dropdown-item" href="/dolls.php"><?=L::navigation_menu_dolllist?></a>
 			   <a class="dropdown-item" href="/fairies.php"><?=L::navigation_menu_fairylist?></a>
-			   <a class="dropdown-item" href="/squads.php">중장비부대</a>
+			   <a class="dropdown-item" href="/squads.php"><?=L::navigation_menu_heavylist?></a>
 			   <a class="dropdown-item" href="/timetable.php"><?=L::navigation_menu_timetable?></a>
 			  </div>
 			</li>
@@ -86,9 +86,6 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			</li>
 			<li class="nav-item">
               <a class="nav-link" href="/cartoon.php"><?=L::navigation_title_cartoon?></a>
-            </li>
-			<li class="nav-item">
-              <a class="nav-link" href="http://zzzzz.kr"><?=L::navigation_title_main?></a>
             </li>
           </ul>
         </div>

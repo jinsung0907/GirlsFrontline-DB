@@ -21,7 +21,7 @@
 		"stats": {
 			"pow": 152,
 			"crush": 402,
-			"acc": 349,
+			"precise": 349,
 			"reload": 83
 		},
 		"skill1": {
@@ -56,7 +56,7 @@
 		"stats": {
 			"pow": 78,
 			"crush": 144,
-			"acc": 198,
+			"precise": 198,
 			"reload": 386
 		},
 		"skill1": {
@@ -91,7 +91,7 @@
 		"stats": {
 			"pow": 152,
 			"crush": 58,
-			"acc": 135,
+			"precise": 135,
 			"reload": 160
 		},
 		"skill1": {

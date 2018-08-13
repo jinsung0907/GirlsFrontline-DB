@@ -27,6 +27,64 @@ $i18n = new i18n('data/lang/lang_{LANGUAGE}.ini', 'data/lang/cache/', 'ko');
 $i18n->init();
 //언어 처리 끝
 
+function getDollNameLang($doll, $lang) {
+	if($lang == 'ja') 
+		return isset($doll->jpName)?$doll->jpName:$doll->name;
+	else if($lang == 'en') 
+		return isset($doll->enName)?$doll->enName:$doll->name;
+	else
+		return isset($doll->krName)?$doll->krName:$doll->name;
+}
+function getEquipNameLang($equip, $lang) {
+	if($lang == 'ja') 
+		return isset($equip->jpName)?$equip->jpName:$equip->name;
+	else if($lang == 'en') 
+		return isset($equip->enName)?$equip->enName:$equip->name;
+	else
+		return isset($equip->krName)?$equip->krName:$equip->name;
+}
+
+function getFairyNameLang($fairy, $lang) {
+	if($lang == 'ja') 
+		return isset($fairy->jpName)?$fairy->jpName:$fairy->name;
+	else if($lang == 'en') 
+		return isset($fairy->enName)?$fairy->enName:$fairy->name;
+	else
+		return isset($fairy->krName)?$fairy->krName:$fairy->name;
+}
+
+function getDollName($doll) {
+	global $lang;
+	
+	if($lang == 'ja') 
+		return isset($doll->jpName)?$doll->jpName:$doll->name;
+	else if($lang == 'en') 
+		return isset($doll->enName)?$doll->enName:$doll->name;
+	else
+		return isset($doll->krName)?$doll->krName:$doll->name;
+}
+
+function getEquipName($equip) {
+	global $lang;
+	
+	if($lang == 'ja') 
+		return isset($equip->jpName)?$equip->jpName:$equip->name;
+	else if($lang == 'en') 
+		return isset($equip->enName)?$equip->enName:$equip->name;
+	else
+		return isset($equip->krName)?$equip->krName:$equip->name;
+}
+
+function getFairyName($fairy) {
+	global $lang;
+	
+	if($lang == 'ja') 
+		return isset($fairy->jpName)?$fairy->jpName:$fairy->name;
+	else if($lang == 'en') 
+		return isset($fairy->enName)?$fairy->enName:$fairy->name;
+	else
+		return isset($fairy->krName)?$fairy->krName:$fairy->name;
+}
 
 //에러 페이지
 function Error($str) {
@@ -173,14 +231,37 @@ function gunrank_to_img($rank) {
 
 //총기 코드 변환
 function guntype_to_str($type) {
+	global $lang;
 	$type = strtolower($type);
-	switch($type) {
-		case 'ar': return "돌격소총";
-		case 'rf': return "소총";
-		case 'smg': return "기관단총";
-		case 'mg': return "기관총";
-		case 'sg': return "샷건";
-		case 'hg': return "권총";
+	if($lang == 'en') {
+		switch($type) {
+			case 'ar': return "Assault Rifle";
+			case 'rf': return "Rifle";
+			case 'smg': return "Submachine Gun";
+			case 'mg': return "Machine Gun";
+			case 'sg': return "Shotgun";
+			case 'hg': return "Handgun";
+		}
+	}
+	else if($lang == 'ja') {
+		switch($type) {
+			case 'ar': return "アサルトライフル";
+			case 'rf': return "ライフル";
+			case 'smg': return "サブマシンガン";
+			case 'mg': return "マシンガン";
+			case 'sg': return "ショットガン";
+			case 'hg': return "ハンドガン";
+		}
+	}
+	else {
+		switch($type) {
+			case 'ar': return "돌격소총";
+			case 'rf': return "소총";
+			case 'smg': return "기관단총";
+			case 'mg': return "기관총";
+			case 'sg': return "샷건";
+			case 'hg': return "권총";
+		}
 	}
 }
 

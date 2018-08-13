@@ -212,7 +212,7 @@
 							<td>파쇄 : <span id=""><?=$squad->stats->crush?></span></td>
 						</tr>
 						<tr>
-							<td>정밀 : <span id=""><?=$squad->stats->acc?></span></td>
+							<td>정밀 : <span id=""><?=$squad->stats->precise?></span></td>
 							<td>장전 : <span id=""><?=$squad->stats->reload?></span></td>
 						</tr>
 					</table>

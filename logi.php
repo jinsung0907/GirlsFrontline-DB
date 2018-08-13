@@ -1,7 +1,8 @@
 <?php
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
-	$header_desc = "소녀전선 군수지원 계산기, 소전 군수지원 계산기, 군수지원 효율";
+	$header_desc = "소전DB 군수지원 계산기입니다.";
+	$header_keyword = "소녀전선 군수지원 계산기, 소전 군수지원 계산기, 군수지원 효율";
 	$header_title = "군수지원 계산기";
 	require_once("header.php");
 	

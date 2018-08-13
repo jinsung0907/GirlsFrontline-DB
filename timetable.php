@@ -13,10 +13,7 @@
 		$tmp[0] = $fairy->buildTime;
 		$tmp[1] = L::fairyd;
 		$tmp[2] = "";
-		if($lang == 'en') 
-			$tmp[3] = $fairy->name;
-		else 
-			$tmp[3] = $fairy->krName;
+		$tmp[3] = getFairyName($fairy);
 		array_push($eqs, $tmp);
 	}
 	
@@ -24,7 +21,7 @@
 		if(!$equip->buildTime) continue;
 		$tmp[0] = $equip->buildTime;
 		$result = '';
-		if($lang == 'en') {
+		if($lang != 'ko') {
 			$result = $equip->type;
 		}
 		else {
@@ -48,11 +45,12 @@
 		}
 		$tmp[1] = $result;
 		$tmp[2] = $equip->rank . L::grade;
-		$tmp[3] = $equip->name;
+		$tmp[3] = getEquipName($equip);
 		array_push($eqs, $tmp);
 	}
 	
-	$header_desc = "소녀전선 시간표, 소전 시간표, 소녀전선 제조시간표, 소전 제조시간표, 소녀전선 인형시간표, 소녀전선 장비시간표, 소녀전선 인형시간표";
+	$header_desc = "소전DB 제조시간표입니다.";
+	$header_keyword = "소녀전선 시간표, 소전 시간표, 소녀전선 제조시간표, 소전 제조시간표, 소녀전선 인형시간표, 소녀전선 장비시간표, 소녀전선 인형시간표";
 	$header_title = "소전DB 시간표 | 소전DB";
 	require_once("header.php");
 ?>
@@ -80,7 +78,7 @@
 							</thead>
 					<?php foreach($dolls as $doll) { 
 						if(!$doll->buildTime) continue; 
-						if($lang == 'en') $dollname = $doll->name; else $dollname = $doll->krName?>
+						$dollname = getDollName($doll); ?>
 							<tr>
 								<td><?=gmdate("H:i", $doll->buildTime)?></td>
 								<td><?=strtoupper($doll->type)?></td>

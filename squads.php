@@ -3,7 +3,8 @@
 	require_once("common.php");
 	
 	$header_title = "소전DB 중장비부대 리스트 | 소전DB";
-	$header_desc = "소녀전선 중장비부대 목록, 소녀전선 중장비부대 리스트, 소녀전선 추천 중장비부대";
+	$header_desc = "소전DB 중장비부대 리스트입니다.";
+	$header_keyword = "소녀전선 중장비부대 목록, 소녀전선 중장비부대 리스트, 소녀전선 추천 중장비부대";
 	require_once("header.php");
 	$squads = json_decode(file_get_contents("data/squad.json"));
 ?>

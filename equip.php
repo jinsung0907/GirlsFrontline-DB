@@ -2,7 +2,8 @@
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
 	
-	$header_desc = "소녀전선 장비 목록, 소녀전선 장비 리스트, 소녀전선 추천장비";
+	$header_desc = "소녀전선 장비목록입니다.";
+	$header_keyword = "소녀전선 장비 목록, 소녀전선 장비 리스트, 소녀전선 추천장비";
 	$header_title = "소전DB 장비리스트	 | 소전DB";
 	require_once("header.php");
 	

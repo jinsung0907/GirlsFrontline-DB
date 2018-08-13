@@ -82,7 +82,7 @@
 }
 
 .skillimg {
-	width: 3vh;
+	width: 5vh;
 }
 
 @media (max-width: 767px) {
@@ -437,6 +437,7 @@
 
 .doll_img img {
 	width: 100%;
+	cursor: pointer;
 }
 
 .doll_img img.damaged {

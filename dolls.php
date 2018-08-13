@@ -3,7 +3,8 @@
 	require_once("common.php");
 	
 	$header_title = "소전DB 인형리스트 | 소전DB";
-	$header_desc = "소녀전선 인형 목록, 소녀전선 인형 리스트, 소녀전선 추천인형, 소녀전선 SD, 소녀전선 보이스";
+	$header_desc = "소전DB 인형목록입니다.";
+	$header_keyword = "소녀전선 인형 목록, 소녀전선 인형 리스트, 소녀전선 추천인형, 소녀전선 SD, 소녀전선 보이스";
 	require_once("header.php");
 	$dolls = json_decode(file_get_contents("data/doll.json"));
 ?>	
@@ -32,14 +33,9 @@
 			<?php
 				foreach($dolls as $doll) {
 					$imgsrc = $doll->name . "/pic/pic_" . $doll->name . "_n";
-					if($lang == 'en') 
-						$dollname = isset($doll->enName)?$doll->enName:$doll->name;
-					else if($lang == 'ja')
-						$dollname = isset($doll->jpName)?$doll->jpName:$doll->name;
-					else
-						$dollname = isset($doll->krName)?$doll->krName:$doll->name;
+					$dollname = getDollName($doll);
 					?>
-				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=$doll->name?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>'>
+				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=getDollName($doll)?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>'>
 					<i class="rankbar"></i>
 					<div class="starrank">
 						<img src="img/type/<?=strtoupper($doll->type)?><?=$doll->rank?>.png" class="typeicon">
