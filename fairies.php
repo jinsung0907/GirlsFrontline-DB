@@ -2,8 +2,8 @@
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
 	
-	$header_title = "소전DB 요정리스트 | 소전DB";
-	$header_desc = "소전DB 요정 목록입니다.";
+	$header_title = L::title_fairies . " | " . L::sitetitle_short;
+	$header_desc = L::title_fairies_desc;
 	$header_keyword = "소녀전선 요정 목록, 소녀전선 요정 리스트, 소녀전선 추천요정";
 	require_once("header.php");
 	$fairies = json_decode(file_get_contents("data/fairy.json"));

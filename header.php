@@ -3,7 +3,7 @@
 require_once("common.php");
 
 if(!isset($header_title)) $header_title = L::sitetitle_short . ' | zzzzz.kr';
-if(!isset($header_desc)) $header_desc = '';
+if(!isset($header_desc)) $header_desc = '소녀전선 데이터베이스 사이트입니다.';
 if(!isset($header_image)) $header_image = ''; else $header_image = '<meta property="og:image" content="' . $header_image . '"/>'
 ?>
 <!doctype html>
@@ -20,7 +20,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 	</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="소녀전선 데이터베이스 사이트입니다.">
+    <meta name="description" content="<?=$header_desc?>">
     <meta name="keywords" content="소녀전선DB, 소전DB, 스토리, 소전, 소전 스토리, 소녀전선, 소녀전선 스토리, <?=$header_keyword?>">
     <meta name="author" content="Jinsung">
 	<meta name="theme-color" content="#F0A900"> 
@@ -28,7 +28,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 	<meta property="og:title" content="<?=$header_title?>"/>
 	<meta property="og:url" content="http://<?=$_SERVER[HTTP_HOST] . $_SERVER[REQUEST_URI] ?>"/>
 	<?=$header_image?>
-	<meta property="og:description" content="소녀전선 데이터베이스 사이트입니다."/>
+	<meta property="og:description" content="<?=$header_desc?>"/>
 	
     <title><?=$header_title?></title>
 

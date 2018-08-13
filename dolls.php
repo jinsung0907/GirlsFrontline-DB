@@ -2,8 +2,8 @@
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
 	
-	$header_title = "소전DB 인형리스트 | 소전DB";
-	$header_desc = "소전DB 인형목록입니다.";
+	$header_title = L::title_dolls . " | " . L::sitetitle_short;
+	$header_desc = L::title_dolls_desc;
 	$header_keyword = "소녀전선 인형 목록, 소녀전선 인형 리스트, 소녀전선 추천인형, 소녀전선 SD, 소녀전선 보이스";
 	require_once("header.php");
 	$dolls = json_decode(file_get_contents("data/doll.json"));
