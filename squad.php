@@ -72,6 +72,14 @@
 		}
 	}
 	
+	//진형효과 진형 불러오기
+	$chippos = [];
+	for($i = 0 ; $i < 5 ; $i++) {
+		foreach($squad->chipset[$i] as $val) {
+			$chippos[$i][$val] = '1';
+		}
+	}
+	
 	/*
 	if(file_exists("$path{$doll->name}/spine/r{$doll->name}a.atlas")) $sdStatus[0][0][0] = 1;
 	else $sdStatus[0][0][0] = 0;
@@ -100,6 +108,20 @@
 		$squadname = isset($squad->jpName)?$squad->jpName:$squad->name;
 	else
 		$squadname = isset($squad->krName)?$squad->krName:$squad->name;
+	
+	function getSquadSkillImg($id) {
+		switch($id) {
+			case 500001: return "tow_missile"; break;
+			case 500003: return "squadbuff"; break;
+			case 500005: return "squadbuff"; break;
+			case 500007: return "2b14_boom"; break;
+			case 500009: return "squadbuff"; break;
+			case 500010: return "2b14_debuff"; break;
+			case 500021: return "ags_grenede"; break;
+			case 500022: return "squadbuff"; break;
+			case 500023: return "agsprobility"; break;
+		}
+	}
 	
 	require_once("header.php");
 ?>
@@ -139,7 +161,7 @@
 			<hr class="mt-1 mb-1">
 			<div class="row pb-0">
 				<div class="col-md-2 align-self-center">
-					<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$rskill_name[$i]?>
+					<img class="skillimg" src="img/skill/<?=getSquadSkillImg($squad->{"skill" . $i}->realid)?>.png"> <?=$rskill_name[$i]?>
 				</div>
 				<div class="col">
 					<select class="skilllevel">
@@ -181,7 +203,7 @@
 			<hr class="mt-1 mb-1">
 			<div class="row">
 				<div class="col-md-auto align-self-center">
-					<b>스탯</b>
+					<b><?=L::database_stats?></b>
 				</div>
 				<div class="col">
 					<table class="table-sm table-bordered ">
@@ -193,6 +215,31 @@
 							<td>정밀 : <span id=""><?=$squad->stats->acc?></span></td>
 							<td>장전 : <span id=""><?=$squad->stats->reload?></span></td>
 						</tr>
+					</table>
+				</div>
+			</div>
+			
+			<hr class="mt-1 mb-1">
+			<div class="row">
+				<div class="col-md-auto align-self-center">
+					<b>칩셋</b>
+				</div>
+				<div class="col">
+					<select id="chiplevel">
+						<option value=1>1<?=L::database_star?></option>
+						<option value=2>2<?=L::database_star?></option>
+						<option value=3>3<?=L::database_star?></option>
+						<option value=4>4<?=L::database_star?></option>
+						<option value=5>5<?=L::database_star?></option>
+					</select>
+					<table class="chipview">
+			<?php for($i = 0 ; $i < 8 ; $i++) { ?>
+						<tr>
+			<?php for($j = 0 ; $j < 8 ; $j++) { $cnt = (7-$i)*8 + ($j+1); ?>
+							<td id="chip_<?=$cnt?>"></td>
+			<?php } ?>
+						</tr>
+			<?php } ?>
 					</table>
 				</div>
 			</div>
@@ -324,6 +371,24 @@
 		
 		$(".doll_img img").on('load', function() {
 			$(this).show().next().remove();
+		});
+		
+		var chipdata = <?=json_encode($chippos, JSON_UNESCAPED_UNICODE)?>;
+		$( document ).ready(function() {
+			$("#chiplevel").val('5').trigger('change');;
+		});
+
+		$("#chiplevel").on('change', function(e) {
+			var level = $(this).val() - 1;
+			
+			$(".chipview td").removeAttr('class');
+			for (var key in chipdata[level]) {
+				if(chipdata[level][key] == 1) {
+					console.log('a');
+					$("#chip_"+key).addClass('affected');
+				}
+			}
+			
 		});
 	</script>
 </html>

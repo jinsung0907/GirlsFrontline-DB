@@ -44,6 +44,43 @@
 	background-color: #00ffde;
 }
 
+.chipview {
+	width: 24vh;
+	height: 24vh;
+}
+
+.chipview tr {
+	height: 3vh;
+	background-color: #6b696b;
+}
+
+.chipview td {
+	border: 2px solid black;
+	width: 3vh;
+}
+
+.chipview.tile {
+	width: 27%;
+	height: 27%;
+	top:0;
+	right: 0;
+	position: absolute;
+}
+
+.chipview.tile tr {
+	height: 9%;
+	background-color: #6b696b;
+}
+
+.chipview.tile td {
+	border: 1px solid black;
+	width: 9%;
+}
+
+.chipview .affected {
+	background-color: #F69645;
+}
+
 .skillimg {
 	width: 3vh;
 }
