@@ -52,19 +52,15 @@
 		$dir = scandir("audio/doll/" . $doll->name);
 		array_shift($dir); array_shift($dir);
 		
-		$ext = 'opus';
-		if(stripos($_SERVER['HTTP_USER_AGENT'], 'Safari') !== false && stripos($_SERVER['HTTP_USER_AGENT'], 'Chrome') == false) {
-		   $ext = 'mp3';
-		}
-
+		$ext = 'mp3';
 		foreach($dir as $filename) {
 			$matches;
-			if(preg_match ('/.*.acb_000000(.*).opus/', $filename, $matches)) {
+			if(preg_match ('/.*.acb_000000(.*).mp3/', $filename, $matches)) {
 				$num = $matches[1];
-				if(count($dir) == 80) {
+				if(count($dir) == 40) {
 					$audio[audiohex_to_str($num, 0)] = "audio/doll/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
 				}
-				else if(count($dir) == 82) {
+				else if(count($dir) == 41) {
 					$audio[audiohex_to_str($num, 1)] = "audio/doll/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
 				}
 			}
@@ -636,8 +632,8 @@
 			</div>
 			<hr class="mt-1 mb-1">
 			<div style="position:relative">
-				<a id="desc_gitlink" target="_blank" class="btn btn-link m-0 p-0" style="position:absolute; right:0; top:0" href="https://github.com/jinsung0907/GFDB-character-description/blob/master/dolls/<?=$doll->id?>.txt"><i class="fab fa-github fa-fw"></i> 수정하기</a>
-				<span id="doll_desc">불러오는중..</span>
+				<a id="desc_gitlink" target="_blank" class="btn btn-link m-0 p-0" style="position:absolute; right:0; top:0" href="https://github.com/jinsung0907/GFDB-character-description/blob/master/dolls/<?=$doll->id?>.txt"><i class="fab fa-github fa-fw"></i> <?=L::database_modify?></a>
+				<span id="doll_desc"><?=L::database_loading?></span>
 			</div>
 			<hr class="mt-1 mb-1">
 			<div class="card card-body bg-light mt-3 p-2">
@@ -693,6 +689,7 @@
 	<script src="dist/jsSpine.js?v=5"></script>
 	
 	<script>
+		var dollid = <?=$doll->id?>;
 		var dollname = "<?=$doll->name?>";
 		var skilldata = <?=json_encode($skilldata)?>;
 		var dollgrow = {"after100":{"basic":{"armor":[13.979,0.04],"hp":[96.283,0.138]},"grow":{"dodge":[0.075,22.572],"hit":[0.075,22.572],"pow":[0.06,18.018],"rate":[0.022,15.741]}},"normal":{"basic":{"armor":[2,0.161],"dodge":[5],"hit":[5],"hp":[55,0.555],"pow":[16],"rate":[45],"speed":[10]},"grow":{"dodge":[0.303,0],"hit":[0.303,0],"pow":[0.242,0],"rate":[0.181,0]}}};
@@ -876,10 +873,10 @@
 		var skinlist = <?=json_encode($skins, JSON_UNESCAPED_UNICODE);?>
 		
 		$.ajax({
-			url: 'https://jinsung0907.github.io/GFDB-character-description/dolls/<?=$doll->id?>.txt',
+			url: 'https://jinsung0907.github.io/GFDB-character-description/dolls/' + dollid + '.txt',
 			success: function(data) {
 				if(data == '') {
-					$('#doll_desc').text("정보없음");
+					$('#doll_desc').text("<?=L::database_noinfo?>");
 					return;
 				}
 				else {
@@ -890,11 +887,11 @@
 			},
 			error: function(e) {
 				if(e.status == 404) {
-					$('#doll_desc').text("정보없음");
-					$('#desc_gitlink').attr('href', 'https://github.com/GFDB/GFDB-character-description/tree/master/dolls').html('<i class="fab fa-github fa-fw"></i> 추가하기');
+					$('#doll_desc').text("<?=L::database_noinfo?>");
+					$('#desc_gitlink').attr('href', 'https://github.com/jinsung0907/GFDB-character-description/tree/master/dolls').html('<i class="fab fa-github fa-fw"></i> <?=L::database_addinfo?>');
 					return;
 				}
-				$('#doll_desc').text("에러발생");
+				$('#doll_desc').text("Error");
 				return;
 			}
 		});
