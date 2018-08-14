@@ -2,6 +2,19 @@
 if(GF_HEADER != "aaaaa") exit; 
 session_start();
 
+if(isset($_GET['lang'])) {
+	session_start();
+	if($_GET['lang'] == 'en') {
+		$_SESSION['lang'] = 'en';
+	}
+	else if($_GET['lang'] == 'ja') {
+		$_SESSION['lang'] = 'ja';
+	}
+	else if($_GET['lang'] == 'ko') {
+		$_SESSION['lang'] = 'ko';
+	}
+}
+
 /*언어 처리 우선순위
 1. session값 2. http언어값*/
 if(isset($_SESSION['lang'])) {

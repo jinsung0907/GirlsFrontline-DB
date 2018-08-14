@@ -9,9 +9,33 @@
 			$('[data-toggle="tooltip"]').tooltip()
 		})
 		function sel_lang(val) {
-			window.location.href = 'http://<?=$_SERVER['HTTP_HOST']?>?lang=' + val;
+			updateQueryStringParam('lang', val);
 		}
 		
+		var updateQueryStringParam = function (key, value) {
+			var baseUrl = [location.protocol, '//', location.host, location.pathname].join(''),
+				urlQueryString = document.location.search,
+				newParam = key + '=' + value,
+				params = '?' + newParam;
+			if (urlQueryString) {
+				var updateRegex = new RegExp('([\?&])' + key + '[^&]*');
+				var removeRegex = new RegExp('([\?&])' + key + '=[^&;]+[&;]?');
+
+				if( typeof value == 'undefined' || value == null || value == '' ) {
+					params = urlQueryString.replace(removeRegex, "$1");
+					params = params.replace( /[&;]$/, "" );
+
+				} else if (urlQueryString.match(updateRegex) !== null) {
+					params = urlQueryString.replace(updateRegex, "$1" + newParam);
+
+				} else {
+					params = urlQueryString + '&' + newParam;
+				}
+			}
+			params = params == '?' ? '' : params;
+			window.location.href = baseUrl + params;
+		};
+
 		$( document ).ready(function() {
 			outdatedBrowser({
 				bgColor: '#f25648',

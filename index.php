@@ -1,19 +1,6 @@
 <?php
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
-	
-	if(isset($_GET['lang'])) {
-		session_start();
-		if($_GET['lang'] == 'en') {
-			$_SESSION['lang'] = 'en';
-		}
-		else if($_GET['lang'] == 'ja') {
-			$_SESSION['lang'] = 'ja';
-		}
-		else if($_GET['lang'] == 'ko') {
-			$_SESSION['lang'] = 'ko';
-		}
-	}
 	require_once("header.php");
 	
 	$dir = scandir("img/main/");
