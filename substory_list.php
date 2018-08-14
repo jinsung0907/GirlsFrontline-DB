@@ -53,6 +53,13 @@
 					<a href="substory.php?t=1&q=63-4">MOD 4</a>
 					<br><br>
 					
+					<strong class="d-block text-dark">FN-49</strong>
+					<a href="substory.php?t=1&q=51-1">MOD 1</a>
+					<a href="substory.php?t=1&q=51-2">MOD 2</a>
+					<a href="substory.php?t=1&q=51-3">MOD 3</a>
+					<a href="substory.php?t=1&q=51-4">MOD 4</a>
+					<br><br>
+					
 					<strong class="d-block text-dark">ST AR-15</strong>
 					<a href="substory.php?t=1&q=57-1">MOD 1</a>
 					<a href="substory.php?t=1&q=57-2">MOD 2</a>
