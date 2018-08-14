@@ -633,7 +633,8 @@
 			<hr class="mt-1 mb-1">
 			<div style="position:relative">
 				<a id="desc_gitlink" target="_blank" class="btn btn-link m-0 p-0" style="position:absolute; right:0; top:0" href="https://github.com/jinsung0907/GFDB-character-description/blob/master/dolls/<?=$doll->id?>.txt"><i class="fab fa-github fa-fw"></i> <?=L::database_modify?></a>
-				<span id="doll_desc"><?=L::database_loading?></span>
+				<b><?=L::database_dollinfo?></b><br>
+				 <span id="doll_desc"><?=L::database_loading?></span>
 			</div>
 			<hr class="mt-1 mb-1">
 			<div class="card card-body bg-light mt-3 p-2">
@@ -881,6 +882,7 @@
 				}
 				else {
 					var txt = data.replace(/\n/g, "<br>");
+					txt = Autolinker.link(txt);
 					$('#doll_desc').html(txt);
 					return;
 				}
@@ -1001,6 +1003,8 @@
 	<script src="/dist/l2d/LAppModel.js?v=1"></script>
 	<script src="/dist/l2d/LAppLive2DManager.js?v=1"></script>
 	<script src="/dist/l2d/gfdb_l2d.js?v=3"></script>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/autolinker/1.7.1/Autolinker.min.js" integrity="sha256-yZXU/f+V8xVBqX0cCVVySvxvjU6h8uuQb1N0e8jRvhE=" crossorigin="anonymous"></script>
 	<script>
 		var jsonpath = "";
 		

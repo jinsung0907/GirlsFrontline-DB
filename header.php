@@ -94,6 +94,9 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			<li class="nav-item">
               <a class="nav-link" href="/cartoon.php"><?=L::navigation_title_cartoon?></a>
             </li>
+			<li class="nav-item">
+              <a class="nav-link" href="https://discord.gg/D35j44V"><i style='color:#7289DA' class="fab fa-discord"></i> Discord</a>
+            </li>
           </ul>
         </div>
       </div>
