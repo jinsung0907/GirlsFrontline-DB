@@ -67,9 +67,6 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			  </div>
 			</li>
 			<li class="nav-item">
-              <a class="nav-link" href="/simulator.php"><?=L::navigation_title_dpssim?></a>
-            </li>
-			<li class="nav-item">
               <a class="nav-link" href="<?=L::navigation_titile_kakaobot_link?>"><?=L::navigation_titile_kakaobot?></a>
             </li>
 			<li class="nav-item dropdown">
@@ -86,6 +83,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			  <?=L::navigation_title_tools?>
 			 </a>
 			  <div class="dropdown-menu" aria-labelledby="toolsDropdown">
+			   <a class="dropdown-item" href="/simulator.php"><?=L::navigation_title_dpssim?></a>
 			   <a class="dropdown-item" href="/diskcalc.php"><?=L::navigation_menu_diskcalc?></a>
 			   <a class="dropdown-item" href="/battery.php"><?=L::navigation_menu_cellcalc?></a>
 			   <a class="dropdown-item" href="/logi.php"><?=L::navigation_menu_opscalc?></a>
