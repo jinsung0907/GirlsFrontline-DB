@@ -22,7 +22,7 @@
 			}
 		}
 		else {
-			if($data->name == $_GET['id'] || $data->krName == $_GET['id']) {
+			if(strtoupper($data->name) == strtoupper($_GET['id']) || strtoupper(getDollName($data)) == strtoupper($_GET['id'])) {
 				$_GET['id'] = $data->id;
 				$doll = $data;
 				break;

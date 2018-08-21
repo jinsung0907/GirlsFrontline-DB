@@ -35,9 +35,9 @@
 	$spath = 'img/squads/';
 	$path = 'img/characters/';
 	
-	$header_title =  "" . $squad->name . ", " . $squad->krName . " | 소전 DB";
+	$header_title =  "" . $squad->name . ", " . $squad->krName . " | " . L::sitetitle_short;
 	$header_desc = "{$squad->krName}, {$squad->krName} 보이스, {$squad->krName} SD, {$squad->krName} 스킨, {$squad->name}, 소녀전선 검열, " . implode(', ', $squad->nick) . ", " . implode(', ', $squad->skin);
-	$header_image = "http://gfl.zzzzz.kr/img/characters/" .$squad->name . "/pic/pic_" . $squad->name . "_n.jpg";
+	$header_image = "http://gfl.zzzzz.kr/img/squads/" .$squad->name . ".png";
 	
 	//서버 스킬데이터 불러오기
 	if($lang != 'ko') {
