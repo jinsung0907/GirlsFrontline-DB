@@ -1,0 +1,129 @@
+furniture_classes-10000001,Halloween
+furniture_classes-20000001,Halloween originated from the Ancient Celtic New Year where children dressed up as ghosts begging for candy. They might even blow up someone's house if one refuses to give them candy. How terrifying.
+furniture_classes-30000001,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000002,Default
+furniture_classes-20000002,Furniture issued by IOP.
+furniture_classes-30000002,
+furniture_classes-10000003,New World (I)
+furniture_classes-20000003,Welcome to the glorious post-War world. The secret to surviving here is to always be prepared//c stay vigilant//c and only drink bottled water.
+furniture_classes-30000003,
+furniture_classes-10000004,Fall
+furniture_classes-20000004,A cute set of cozy fall season themed furniture especially made to sooth the Commanders' fatigued souls. It seems to be quite popular among females.
+furniture_classes-30000004,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000005,New World (II)
+furniture_classes-20000005,Welcome to the glorious post-War world. The secret to surviving here is to always be prepared//c stay vigilant//c and only drink bottled water.
+furniture_classes-30000005,
+furniture_classes-10000006,LOFT
+furniture_classes-20000006,Once a home style adopted out of necessity by poor artists living in old factory buildings//c it has somehow become a sought-after rarity a hundred years later by Commanders following post-War fashion trends.
+furniture_classes-30000006,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000007,Peaceful Days
+furniture_classes-20000007,A furniture set with a peaceful style that allows T-Dolls with calm personalities to feel relaxed. Let the peaceful atmosphere carried by this aqua blue color ripple through the room~
+furniture_classes-30000007,
+furniture_classes-10000008,Charming Days
+furniture_classes-20000008,A furniture set with a cute style that is deeply beloved by lively T-Dolls. Let the cute atmosphere carried by this light pink color fill the room~
+furniture_classes-30000008,
+furniture_classes-10000009,Command Room
+furniture_classes-20000009,A furniture set with the style of a command room. T-Dolls can now experience an average work day of the Commander right at home. These are all brand-new furniture//c not extra equipment from the office! I swear!
+furniture_classes-30000009,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000010,Coffee Shop
+furniture_classes-20000010,A cultural facility that was very popular before the War. Although it was commonly known as a humble beverage shop selling caffeinated drinks//c in reality it was a holy shrine of creativity for easily-distracted writers.
+furniture_classes-30000010,
+furniture_classes-10000011,Japanese-Style Warm Winter
+furniture_classes-20000011,This cozy Japanese-style furniture set creates a happy atmosphere for T-Dolls even during the freezing cold winter. Let us admire the daily life of these special snowflakes together.
+furniture_classes-30000011,You can gain additional Comfort by placing 6 pieces of this set in the same dormitory.
+furniture_classes-10000012,Japanese-Style Crispy Winter
+furniture_classes-20000012,This fresh Japanese-style furniture set helps T-Dolls maintain a tranquil mood even during the harsh winter. Let us enjoy daily life in the cold winter weather together.
+furniture_classes-30000012,You can gain additional Comfort by placing 6 pieces of this set in the same dormitory.
+furniture_classes-10000013,Sangvis Ferris
+furniture_classes-20000013,Furniture set with a Sangvis Ferris theme//c modeled after data recovered from the S.F. forces. Let the T-Dolls experience the afternoon life of a S.F. ringleader.
+furniture_classes-30000013,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000014,Christmas Gospel
+furniture_classes-20000014,Furniture decorated especially for the Christmas season. Let's enjoy a warm and blessed Christmas Eve while having a lavish banquet! ...Wait//c what are the T-Dolls singing?
+furniture_classes-30000014,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000015,Convenience Store
+furniture_classes-20000015,24-Hour convenience stores are the cornerstones of human civilization//c and the warmest solace under the flames of war. Everything will be fine as long as the convenience stores keep on running. As expected//c they have become the most well-defended locations in every Grifon base.
+furniture_classes-30000015,
+furniture_classes-10000016,Arctic Igloo
+furniture_classes-20000016,An arctic-themed furniture set released during the winter season. It uses many original design styles//c and the small and fluffy animals are also extremely cute.
+furniture_classes-30000016,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000300,Poster
+furniture_classes-20000300,Posters given as a bonus when giving costume gifts.
+furniture_classes-30000300,
+furniture_classes-10000017,Spring Festival
+furniture_classes-20000017,Furniture set inspired by Chinese New Year. Let us harbor within our hearts both pride and humility in our longstanding history as we immerse ourselves in the lively and joyful atmosphere of the Spring Festival~
+furniture_classes-30000017,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000019,Elite Emblems
+furniture_classes-20000019,These emblems of the Grifon Elites are only granted to those Commanders who actively participate in battle. Looking at them//c perhaps you might be reminded of those precious times when you fought alongside your T-Dolls shoulder to shoulder.
+furniture_classes-30000019,Collect more war trophies to gain additional Comfort.
+furniture_classes-10000018,Game Department
+furniture_classes-20000018,Everyone's old friend//c IOP Manufacturing//c is involved in many different business sectors//c so it's not surprising that they've also invested in developing a mobile platform game which is very popular right now. However//c they've quickly learned of the harsh conditions within the industry.
+furniture_classes-30000018,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000021,Starry Night Dreams
+furniture_classes-20000021,A furniture set celebrating Valentine's Day. Does happiness come from living in others' dreams//c or from becoming the protagonist of one's own story?
+furniture_classes-30000021,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000022,Springday Classroom
+furniture_classes-20000022,Furniture modeled after a classroom setting. Whether if you want to escape it or relive it//c your story begins now from this nostalgic scenery!
+furniture_classes-30000022,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000023,Holiday Promenade
+furniture_classes-20000023,Furniture replicating a streetview//c allowing one to enjoy a romantic holiday~ Though//c who is it that you want to encounter on such a day?
+furniture_classes-30000023,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000024,Museum Trip
+furniture_classes-20000024,A set of furniture modeling a museum setup. Be it shocking or inspiring//c please keep putting on your best show in the center of this world.
+furniture_classes-30000024,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000025,Subway 2063
+furniture_classes-20000025,A furniture set with a subway theme. Experience the life of people brushing past you as you immerse yourself in the hub of civilization of bygone days.
+furniture_classes-30000025,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000026,Colorful Club
+furniture_classes-20000026,A club themed furniture set. We must always hold on to and treasure dearly the unreplaceable memories that accompanied our busy daily lives.
+furniture_classes-30000026,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000400,Auxiliary Room Facilities
+furniture_classes-20000400,
+furniture_classes-30000400,
+furniture_classes-10000299,Pets
+furniture_classes-20000299,
+furniture_classes-30000299,
+furniture_classes-10000020,Souvenir
+furniture_classes-20000020,
+furniture_classes-30000020,
+furniture_classes-10000027,City Studio
+furniture_classes-20000027,An excellent studio in the hands of an experienced master photographer combined with a complete set of professional equipment can produce photos that are almost as good as those phone selfies taken by young girls. Almost.
+furniture_classes-30000027,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000028,Moonlight Ball
+furniture_classes-20000028,A grand ball held to celebrate the first anniversary. It's a rare occasion that the T-Dolls would lay down arms and dress up so nicely//c so do please enjoy this short moment of peace//c Commander.
+furniture_classes-30000028,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000029,Children's Playground
+furniture_classes-20000029,A set of furniture with children's toys as the theme. This used to be the entire world for all of us. Though it may shrink as the years pass by//c it is something that will never disappear.
+furniture_classes-30000029,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000030,Candy Town
+furniture_classes-20000030,A set of furniture with candy as the theme. Welcome to the candy town of your dreams//c dear visitor. Please be considerate of the people behind you and refrain from eating too much in one go.
+furniture_classes-30000030,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000031,Fantastical Legacy
+furniture_classes-20000031,Precious mementoes collected from all kinds of strange happenings. Legends may never have occurred in the real world//c but they will always exist in our hearts......//n
+furniture_classes-30000031,
+furniture_classes-10000301,Hidden Wallpapers
+furniture_classes-20000301,In preparation for other servers//c place all the unreleased wallpapers here.
+furniture_classes-30000301,
+furniture_classes-10000032,Seaside Lodge
+furniture_classes-20000032,Furniture set themed after a seaside lounge. Seaside Lodge is just a cute nickname. After all//c who doesn't want a more luxurious holiday?
+furniture_classes-30000032,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000033,Radiant Beach
+furniture_classes-20000033,A set of furniture replicating scenery on a beach. Feel free to enjoy this to your heart's content. Humanity does not get this chance very often anymore.
+furniture_classes-30000033,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000034,Let's go to Seoul!
+furniture_classes-20000034,Furniture set themed after a Korean city. Please sit down and quietly enjoy those trendy pop songs from your memories of the past~
+furniture_classes-30000034,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000035,Hot Spring Time
+furniture_classes-20000035,Furniture set modeled after a Japanese hot spring. Come and bathe in the warm spring water//c and enjoy those little tunes from the old days.
+furniture_classes-30000035,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000036,Wine and Refuge
+furniture_classes-20000036,A set of furniture imitating a refuge. Having their curiousity piqued by the old human civilization//c T-Dolls stationed at the contaminated areas have decided to collect relics of the past and imitate the daily lives of a bygone era.
+furniture_classes-30000036,
+furniture_classes-10000500,T-Dolls' Recollections of the Past
+furniture_classes-20000500,Mementoes collected by the T-Dolls in all sorts of adventures. Whether it's about each other or the Commander//c they all remind them of the precious memories that will forever be recorded in their Neural Clouds.//n
+furniture_classes-30000500,
+furniture_classes-10000037,Great Library
+furniture_classes-20000037,Furniture set themed after a library. Grifon's secret book club will now be opened wide to you//c for this is the place where you'll find out what T-Dolls think of humanity's many adages about reading!
+furniture_classes-30000037,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000038,Late Night Kitchen
+furniture_classes-20000038,A set of furniture themed after a kitchen. T-Dolls will come in groups to busy themselves here//c and leave behind their own cozy stories...sometimes.
+furniture_classes-30000038,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.

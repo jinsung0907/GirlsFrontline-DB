@@ -14,10 +14,8 @@
 			foreach($furniture_txt as $key=>$line) {
 				$query = $data->name;
 				if(substr($line, 0, strlen($query)) === $query) {
-					$name = str_replace('//c', ',', str_replace($query . ',', '', $line));
-					$desc = str_replace('//c', ',', str_replace($data->description . ',', '', $furniture_txt[$key+1]));
-					$data->name = str_replace('//n', '<br>', $name);
-					$data->desc = str_replace('//n', '<br>', $desc);
+					$data->rname = str_replace('//n', '<br>', str_replace('//c', ',', str_replace($query . ',', '', $line)));
+					$data->rdesc = str_replace('//n', '<br>', str_replace('//c', ',', str_replace($data->description . ',', '', $furniture_txt[$key+1])));
 					break;
 				}
 			}
@@ -33,6 +31,19 @@
 		}
 	}
 	
+	if($lang != 'ko') {
+		$furniture_txt = explode(PHP_EOL, file_get_contents("data/furniture_$lang.txt"));
+		foreach($furn as $i=>$data) {
+			foreach($furniture_txt as $key=>$line) {
+				$query = $data->name;
+				if(substr($line, 0, strlen($query)) === $query) {
+					$furn[$i]->rname = str_replace('//n', '<br>', str_replace('//c', ',', str_replace($query . ',', '', $line)));
+					$furn[$i]->rdesc = str_replace('//n', '<br>', str_replace('//c', ',', str_replace($data->description . ',', '', $furniture_txt[$key+1])));
+					break;
+				}
+			}
+		}
+	}
 	/*
 	function getInfo($data) {
 		global $furniture_txt;
@@ -59,11 +70,11 @@
 					<?=$data->imgtag?>
 				</div>
 				<div class="col-lg-8 mt-2">
-					<h4 class="text-dark" style="display: inline;margin-right:10px"><?=$data->name?></h4>
+					<h4 class="text-dark" style="display: inline;margin-right:10px"><?=$data->rname?></h4>
 					<div class="media text-muted pt-3">
 						<p class="media-body pb-3 mb-0 small lh-125 ">
-							<?=$data->desc?><br><br>
-							안락도 <span class="txthighlight">+<?=$data->deco_rate?></span>
+							<?=$data->rdesc?><br><br>
+							<?=L::database_furniture_comfort?> <span class="txthighlight">+<?=$data->deco_rate?></span>
 						</p>
 						
 					</div>
