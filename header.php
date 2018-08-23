@@ -64,6 +64,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			   <a class="dropdown-item" href="/fairies.php"><?=L::navigation_menu_fairylist?></a>
 			   <a class="dropdown-item" href="/squads.php"><?=L::navigation_menu_heavylist?></a>
 			   <a class="dropdown-item" href="/timetable.php"><?=L::navigation_menu_timetable?></a>
+			   <a class="dropdown-item" href="/furniture.php">가구DB</a>
 			  </div>
 			</li>
 			<li class="nav-item">
@@ -92,9 +93,16 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			<li class="nav-item">
               <a class="nav-link" href="/cartoon.php"><?=L::navigation_title_cartoon?></a>
             </li>
-			<li class="nav-item">
-              <a class="nav-link" href="https://discord.gg/D35j44V"><i style='color:#7289DA' class="fab fa-discord"></i> Discord</a>
-            </li>
+			<li class="nav-item dropdown">
+			 <a class="nav-link dropdown-toggle" href="#" id="storyDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			  Contact
+			 </a>
+			  <div class="dropdown-menu" aria-labelledby="storyDropdown">
+			   <a class="dropdown-item" href="https://zzzzz.kr/bbs"><i class="fas fa-comment-alt"></i> bbs</a>
+			   <a class="dropdown-item" href=""><i class="fas fa-comment-alt"></i> Twitter</a>
+			   <a class="dropdown-item" href="https://discord.gg/D35j44V"><i style='color:#7289DA' class="fab fa-discord"></i> Discord</a>
+			  </div>
+			</li>
           </ul>
         </div>
       </div>

@@ -500,6 +500,7 @@
 							</select>
 						</div>
 					</div>
+					<span style="display:none"><input type="checkbox" id="load_live2d"><label for="load_live2d"><?=L::database_l2d_load?></label></span>
 					<div class="doll_img" style="max-height: 100%">
 						<img skin-id="0" src="img/characters/<?=$doll->name?>/pic/pic_<?=$doll->name?>.png">
 					</div>
@@ -510,7 +511,6 @@
 							<option><?=L::database_l2d_motion?></option>
 						</select>
 					</div>
-					<span style="display:none"><input type="checkbox" id="load_live2d"><label for="load_live2d"><?=L::database_l2d_load?></label></span>
 				</div>
 				<div class="col-lg-5">
 					<div style="display: flex">
