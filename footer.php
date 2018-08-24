@@ -7,7 +7,10 @@
 	<script>
 		$(function () {
 			$('[data-toggle="tooltip"]').tooltip()
+			var lang = '<?=$lang?>';
+			updateLangStringParam('lang', lang);
 		})
+
 		function sel_lang(val) {
 			updateQueryStringParam('lang', val);
 		}
@@ -34,6 +37,30 @@
 			}
 			params = params == '?' ? '' : params;
 			window.location.href = baseUrl + params;
+		};
+		
+		var updateLangStringParam = function (key, value) {
+			var baseUrl = [location.protocol, '//', location.host, location.pathname].join(''),
+				urlQueryString = document.location.search,
+				newParam = key + '=' + value,
+				params = '?' + newParam;
+			if (urlQueryString) {
+				var updateRegex = new RegExp('([\?&])' + key + '[^&]*');
+				var removeRegex = new RegExp('([\?&])' + key + '=[^&;]+[&;]?');
+
+				if( typeof value == 'undefined' || value == null || value == '' ) {
+					params = urlQueryString.replace(removeRegex, "$1");
+					params = params.replace( /[&;]$/, "" );
+
+				} else if (urlQueryString.match(updateRegex) !== null) {
+					params = urlQueryString.replace(updateRegex, "$1" + newParam);
+
+				} else {
+					params = urlQueryString + '&' + newParam;
+				}
+			}
+			params = params == '?' ? '' : params;
+			window.history.replaceState("", "", params);
 		};
 
 		$( document ).ready(function() {

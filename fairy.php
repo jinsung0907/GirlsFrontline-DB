@@ -167,9 +167,11 @@
 	
 
 	
-	$header_title =  getFairyName($fairy) . ", " . $fairy->name . " | " . L::sitetitle_short;
-	$header_desc = "소전DB " . getFairyName($fairy) . " 요정정보입니다.";
-	$header_keyword = getFairyName($fairy) . ", ". $fairy->name . ", 소녀전선 요정";
+	$header_title =  $fairyname . " | " . L::sitetitle_short;
+	$header_desc = L::title_fairy_desc($fairyname);
+	$header_keyword = $fairyname . ", 소녀전선 요정";
+	$header_image = "http://gfl.zzzzz.kr/img/fairy/{$imglist[2]}.png";
+	
 	require_once("header.php");	
 ?>
     <main role="main" class="container">
