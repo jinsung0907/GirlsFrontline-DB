@@ -669,6 +669,8 @@ function getcharimgdir($str, $emo) {
 			case 5: return "story_character/版娘-5"; break;
 			case 6: return "story_character/版娘-6"; break;
 			case 7: return "story_character/版娘-7"; break;
+			case 8: return "story_character/版娘-8"; break;
+			case 9: return "story_character/版娘Armor"; break;
 		}
 	}
 	else if($str == "NPC-Ange") {

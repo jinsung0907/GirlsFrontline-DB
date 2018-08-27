@@ -1795,5 +1795,35 @@
 				"file": ["-20-3-1", "-20-3-4-point6845", "-20-3-4-point6846", "-20-3-2First", "battleavg/-20-3-egg", "-20-3-2End"]
 			}
 		]
+	},
+	{
+		"num": "-24",
+		"name": "테스트",
+		"keyword": "Dreaming on you",
+		"keyword_en": "Dreaming on you",
+		"desc": "Dreaming on you",
+		"list": [
+			{
+				"type": "일반",
+				"num": "-24-1",
+				"name": "Sunset Rider",
+				"desc": "",
+				"file": ["-24-1-1", "-24-1-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-20-2",
+				"name": "Fate",
+				"desc": "",
+				"file": ["-20-2-1", "-20-2-4-point6819", "-20-2-4-point7029", "battleavg/-20-2-egg", "-20-2-2First"]
+			},
+			{
+				"type": "일반",
+				"num": "-20-3",
+				"name": "End of the Moonlight",
+				"desc": "",
+				"file": ["-20-3-1", "-20-3-4-point6845", "-20-3-4-point6846", "-20-3-2First", "battleavg/-20-3-egg", "-20-3-2End"]
+			}
+		]
 	}
 ]

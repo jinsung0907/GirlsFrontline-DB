@@ -1,1 +1,1 @@
-[{"character":[""],"character_emotion":[0],"bgm":"BGM_Sunshine","bg":"8","text":"....작전종료. "},{"character":["NPC-Helian"],"character_emotion":[0],"speaker_name":"헬리안","text":""}]
+[{"character":[""],"character_emotion":[""],"speaker":0,"speaker_name":"","bgm":"BGM_Sunshine","bg":"8","text":"....작전종료. "},{"character":["NPC-Helian"],"character_emotion":["0"],"speaker":0,"speaker_name":"헬리안","text":"좋습니다. 적의 등급이 대폭 올라갔음에도 무리없이 임무를 성공할 수 있으시군요.\n이정도라면 꽤나 큰 규모의 철혈 습격에도 대응할 수 있을 것이라 생각됩니다.\n다만, 철혈은 단지 수로만 밀어붙이는 게 아닙니다. 그들의 기묘한 전술에 유의 하십시오.\n다음에 훈련을 계속하도록 하죠, 해산입니다. "}]

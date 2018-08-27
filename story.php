@@ -128,6 +128,23 @@
 								$imgdir = getcharimgdir_fairy($char, $line->character_emotion[$i]);
 								echo "<img class=\"storyfairy fairy $strnum $strcount\" src='img/$imgdir.png'>";
 							}
+							
+							//선택지
+							if(strpos($line->text, '<c>') !== false) {
+								$tmp_br = explode('<c>', $line->text);
+								$tmp_brt = '';
+								for($j = 0 ; $j < sizeof($tmp_br) ; $j++) {
+									if($j == 0) 
+										$tmp_brt .= $tmp_br[$j] . '<br>';
+									else 
+										$tmp_brt .= "선택 " . $j . " : " . $tmp_br[$j] . '<br>';
+								}
+								$line->text = $tmp_brt;
+							}
+							
+							if(isset($line->branch)) {
+								$line->text = "선택 " . $line->branch . " : " . $line->text;
+							}
 							$i++;
 						}
 						echo "</div>";
