@@ -501,15 +501,14 @@
 						</div>
 					</div>
 					<span style="display:none"><input type="checkbox" id="load_live2d"><label for="load_live2d"><?=L::database_l2d_load?></label></span>
+					<select id="l2d_motion_sel" style="display:none">
+						<option><?=L::database_l2d_motion?></option>
+					</select>
 					<div class="doll_img" style="max-height: 100%">
 						<img skin-id="0" src="img/characters/<?=$doll->name?>/pic/pic_<?=$doll->name?>.png">
 					</div>
 					<div id="live2d_div" style="display:none">
 						<canvas class="d-block" id="glcanvas" style="margin: auto;"></canvas>
-						<i data-toggle="tooltip" data-placement="top" title="스크롤(모바일은 터치)로 크기 조정 가능" class="fas fa-info-circle"></i>
-						<select id="l2d_motion_sel">
-							<option><?=L::database_l2d_motion?></option>
-						</select>
 					</div>
 				</div>
 				<div class="col-lg-5">
@@ -929,6 +928,7 @@
 			else 
 				jspine.load(dollname, value);
 
+			$("#l2d_motion_sel").hide();
 			$("#live2d_div").hide();
 			$(".doll_img").show();
 			$("#load_live2d").prop("checked", false);
@@ -1020,6 +1020,7 @@
 				//$("#load_live2d").remove();
 				$(".doll_img").hide();
 				$("#live2d_div").show();
+				$("#l2d_motion_sel").show();
 				
 				if($("#damaged_btn").prop("checked")) 
 					var dam_s = 1;
@@ -1029,6 +1030,7 @@
 			}
 			else {
 				releaseLive2D();
+				$(l2d_motion_sel).hide();
 				$("#live2d_div").hide();
 				$(".doll_img").show();
 			}
