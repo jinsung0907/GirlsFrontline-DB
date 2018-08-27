@@ -98,7 +98,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			  Contact
 			 </a>
 			  <div class="dropdown-menu" aria-labelledby="storyDropdown">
-			   <a class="dropdown-item" href=""><i class="fab fa-twitter" style='color:#00aced'></i> Twitter</a>
+			   <a class="dropdown-item" href="https://twitter.com/gflkr"><i class="fab fa-twitter" style='color:#00aced'></i> Twitter</a>
 			   <a class="dropdown-item" href="https://discord.gg/D35j44V"><i style='color:#7289DA' class="fab fa-discord"></i> Discord</a>
 			  </div>
 			</li>

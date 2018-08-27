@@ -11,7 +11,7 @@
     <main role="main" class="container">
 		<div class="my-3 bg-white rounded box-shadow">
 			출처 : https://tempkaridc.github.io/gf/
-			<iframe style="display:block; border:none; width:100%; height: 100vh" src="https://tempkaridc.github.io/gf/"></iframe>
+			<iframe style="display:block; border:none; width:100%; height: 100vh" src="https://jinsung0907.github.io/gf/"></iframe>
 		</div>
     </main>
 <?php
