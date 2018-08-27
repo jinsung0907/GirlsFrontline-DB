@@ -1,1 +1,1 @@
-[{"character":["PPSh41"],"character_emotion":["0"],"speaker":0,"speaker_name":"PPSh-41","text":"후...\n이제 여기는 안전해요. 스콜피온, 당신쪽은요?\n......스콜피온? S61제대의 스콜피온 VZ61, 들었으면 대답하세요! "}]
+[{"character":["PPSh41"],"character_emotion":["0"],"speaker_name":"PPSh-41","speaker":0,"text":"후...\n이제 여기는 안전해요. 스콜피온, 당신쪽은요?\n......스콜피온? S61제대의 스콜피온 VZ61, 들었으면 대답하세요! "}]
