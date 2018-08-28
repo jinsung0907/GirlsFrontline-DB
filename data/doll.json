@@ -9702,6 +9702,34 @@
 		"krName": "100식",
 		"jpName": "一〇〇式"
 	}, {
+		"id": 229,
+		"name": "M870P",
+		"type": "sg",
+		"rank": 5,
+		"stats": {
+			"hp": 120,
+			"armor": 125,
+			"pow": 112,
+			"hit": 115,
+			"dodge": 105,
+			"speed": 100,
+			"rate": 110,
+			"armorPiercing": 10,
+			"crit": 40,
+			"bullet": 4
+		},
+		"grow": 105,
+		"effect": {
+			"effectType": "mg",
+			"effectCenter": 3,
+			"effectPos": [1, 4],
+			"gridEffect": {
+				"pow": 18,
+				"hit": 12
+			}
+		}
+	}, {
+
 		"id": 230,
 		"name": "OBR",
 		"type": "rf",

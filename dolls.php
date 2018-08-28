@@ -37,7 +37,7 @@
 					if($doll->id >= 1000 && $doll->id <= 2000)
 						$doll->rank = 1;
 					?>
-				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=getDollName($doll)?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>'>
+				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-id='<?=$doll->rank?>' data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=getDollName($doll)?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>'>
 					<i class="rankbar"></i>
 					<div class="starrank">
 						<img src="img/type/<?=strtoupper($doll->type)?><?=$doll->rank?>.png" class="typeicon">
