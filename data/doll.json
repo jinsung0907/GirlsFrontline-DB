@@ -154,7 +154,11 @@
 			  "pow": 15,
 			  "crit": 10
 			}
-		}
+		},
+		"skill": {
+			"realid": 120007
+		},
+		"krname": "콜트 파이슨"
 	}, {
 		"id": 5,
 		"name": "M1895",
@@ -2468,7 +2472,11 @@
 			"pow": 15,
 			"hit": 25
 			}
-		}
+		},
+		"skill": {
+			"realid": 110042
+		},
+		"krName": "AK-74U"
 	}, {
 		"id": 60,
 		"name": "ASVAL",
@@ -9624,7 +9632,11 @@
 			"rate": 15,
 			"dodge": 10
 			}
-		}
+		},
+		"skill": {
+			"realid": 110047
+		},
+		"krName": "Cx4 스톰"
 	}, {
 		"id": 226,
 		"name": "Mk12",
@@ -9648,7 +9660,11 @@
 			"gridEffect": {
 				"cooldown": 15
 			}
-		}
+		},
+		"skill": {
+			"realid": 110048
+		},
+		"krName": "Mk 12"
 	}, {
 		"id": 227,
 		"name": "A91",
@@ -9673,7 +9689,11 @@
 				"pow": 10,
 				"dodge": 15
 			}
-		}
+		},
+		"skill": {
+			"realid": 100115
+		},
+		"krName": "A-91"
 	},{
 		"id": 228,
 		"name": "Type100",
@@ -9727,7 +9747,11 @@
 				"pow": 18,
 				"hit": 12
 			}
-		}
+		},
+		"skill": {
+			"realid": 110041
+		},
+		"krName": "M870"
 	}, {
 
 		"id": 230,
@@ -9753,7 +9777,11 @@
 				"cooldown": 12
 			}
 		},
-		"skins": {}
+		"skins": {},
+		"skill": {
+			"realid": 110049
+		},
+		"krName": "OBR"
 	}, {
 		"id": 231,
 		"name": "M82A1",
@@ -9777,7 +9805,11 @@
 			"gridEffect": {
 				"cooldown": 18
 			}
-		}
+		},
+		"skill": {
+			"realid": 120106
+		},
+		"krName": "M82A1"
 	}, {
 		"id": 1001,
 		"name": "BB_Noel",
@@ -10557,6 +10589,12 @@
 				"hit": 50,
 				"dodge": 15
 			}
+		},
+		"skill": {
+			"realid": 801101
+		},
+		"skill2": {
+			"realid": 801108
 		}
 	}, {
 		"id": 20057,
@@ -10890,6 +10928,12 @@
 				"pow": 20,
 				"crit": 30
 			}
+		},
+		"skill": {
+			"realid": 801801
+		},
+		"skill2": {
+			"realid": 801804
 		}
 	}
 ]
