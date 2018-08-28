@@ -21,7 +21,7 @@
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
 			<div class="row" style="text-align:center;">
-				<img style="width:100%; display:block; margin-left: auto;margin-right: auto; margin-bottom: 4rem" src="img/난류연속.jpg" />
+				<div style="display:block; margin-left: auto;margin-right: auto; margin-bottom: 4rem"><img style="max-width:100%; height:auto;" src="img/난류연속.jpg" /></div>
 				
 				<div class="col-12 item pb-5">
 					<h2 class="mb-4 pb-1 border-bottom border-gray">황천의 여명</h2>
@@ -200,18 +200,18 @@
 						</div>
 						
 						<div class="col-4 item">
-							<a href="story.php?q=-25-15">
-								<span>잠깐만인 평화</span>
-							</a>
-						</div>
-						<div class="col-4 item">
-							<a class="badend" href="story.php?q=-25-16">
+							<a href="story.php?q=-25-16">
 								<span>마지막 티켓</span>
 							</a>
 						</div>
 						<div class="col-4 item">
 							<a class="badend" href="story.php?q=-25-14">
 								<span>작별 인사</span>
+							</a>
+						</div>
+						<div class="col-4 item">
+							<a class="badend" href="story.php?q=-25-15">
+								<span>잠깐만인 평화</span>
 							</a>
 						</div>
 					</div>
