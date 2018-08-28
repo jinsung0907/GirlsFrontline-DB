@@ -60,6 +60,13 @@
 					<a href="substory.php?t=1&q=51-4">MOD 4</a>
 					<br><br>
 					
+					<strong class="d-block text-dark">M4 SOPMOD II</strong>
+					<a href="substory.php?t=1&q=56-1">MOD 1</a>
+					<a href="substory.php?t=1&q=56-2">MOD 2</a>
+					<a href="substory.php?t=1&q=56-3">MOD 3</a>
+					<a href="substory.php?t=1&q=56-4">MOD 4</a>
+					<br><br>
+					
 					<strong class="d-block text-dark">ST AR-15</strong>
 					<a href="substory.php?t=1&q=57-1">MOD 1</a>
 					<a href="substory.php?t=1&q=57-2">MOD 2</a>
@@ -86,6 +93,13 @@
 					<a href="substory.php?t=1&q=94-2">MOD 2</a>
 					<a href="substory.php?t=1&q=94-3">MOD 3</a>
 					<a href="substory.php?t=1&q=94-4">MOD 4</a>
+					<br><br>
+					
+					<strong class="d-block text-dark">UMP45</strong>
+					<a href="substory.php?t=1&q=103-1">MOD 1</a>
+					<a href="substory.php?t=1&q=103-2">MOD 2</a>
+					<a href="substory.php?t=1&q=103-3">MOD 3</a>
+					<a href="substory.php?t=1&q=103-4">MOD 4</a>
 					<br><br>
 					
 					<strong class="d-block text-dark">나강 리볼버</strong>
