@@ -170,7 +170,7 @@
 						echo "</div>";
 					}
 					if(isset($line->bgm) && strpos($line->bgm, "DJMAX") !== false) {
-						echo "<audio name='audio_bgm' controls preload='none' controlsList='nodownload'><source src='audio/bg/{$line->bgm}.opus' type='audio/ogg'></audio>";
+						echo "<audio name='audio_bgm' controls preload='none' controlsList='nodownload'><source src='audio/bg/{$line->bgm}.mp3' type='audio/mp3'></audio>";
 					}
 					
 					
