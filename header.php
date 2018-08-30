@@ -65,6 +65,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			   <a class="dropdown-item" href="/squads.php"><?=L::navigation_menu_heavylist?></a>
 			   <a class="dropdown-item" href="/furniture.php"><?=L::navigation_menu_furniturelist?></a>
 			   <a class="dropdown-item" href="/timetable.php"><?=L::navigation_menu_timetable?></a>
+			   <a class="dropdown-item" href="/missing.php">missing_data</a>
 			  </div>
 			</li>
 			<li class="nav-item">
