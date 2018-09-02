@@ -1,1 +1,496 @@
-[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bgm":"BGM_Empty","bg":"9","text":"(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"8","text":"(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"……格里芬基地内。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"指挥官","speaker":0,"bgm":"GF_Memorial","text":"是的，明白了。\n有带人形的名额？……好的，明白了。非常感谢。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"挂断通讯后，我长长地叹了口气。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"在那些事情结束后，我难得迎来了能出远门的假期。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"129","text":"但是这也许算不上一件好事……比如说，我现在正面临着的困境。(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"G36","speaker":0,"text":"Guten Morgen，长官。您怎么在这里站着？(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"指挥官","speaker":0,"text":"啊，是G36……抱歉，一不小心就走到厨房这边来了。\n事情是这样的……(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"我像是抓住了救命稻草一样地向G36说明了目前遇到的困境。(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"G36","speaker":0,"text":"是这样啊……那么，去海边怎么样？(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"G36","speaker":0,"text":"我想大家都没见过真正的大海……像是资料片里播放过的那样没有被污染的海的样子，您意下如何？(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"指挥官","speaker":0,"text":"说得也有道理。这次也有带人形去的名额，我打算邀请活跃度排行前几位的人形。(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"G36","speaker":0,"text":"您的判断没有问题。\n这也能刺激大家工作的态度，是一件好事。(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"指挥官","speaker":0,"text":"事前的准备也要拜托你帮我一起处理了，G36。\n……我对这方面确实不擅长。(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"G36","speaker":0,"text":"为您服务是我的天职。请全部都交给我就好。\n不过在那之前，还请允许我先去为大家准备早餐。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"G36向我鞠了一躬，转身离开了。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"有了G36的帮助，一切都进行得非常顺利。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"162","text":"次日，海滩上。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"报告长官，全员都顺利到达了。\n接下来全员有自由活动的时间，晚些则是组织集体活动，具体的时间和项目由您或者大家提议进行。\n关于餐点，我将会为大家准备作为零食的冰饮，晚间的主食则在飞机上由公司进行安排。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"指挥官","speaker":0,"text":"辛苦了，G36。\n你也打算在这里自由活动吗？\n（虽然换上了泳装，但怎么看也不像是放松下来的样子啊。）(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"当然不，长官。\n我来到这里就是为了能够继续帮助大家，为了各位都能够舒适地度过这个假期，我会继续提供服务。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"指挥官","speaker":0,"text":"等等，明明你也是被邀请来度假的一员，适当地休息一下比较好吧？(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"您说得很有道理。\n但是，闲下来要做什么呢？(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"指挥官","speaker":0,"text":"嗯……日光浴，游泳，沙滩排球，还是其他的什么都好吧。\n放松一下精神会舒服很多吧，心情也会愉快……(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"您说得确实很有道理。\n但是，如果我能继续为大家制作美食，就能让在日光下奔跑后的人形能够尽快冷却。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"指挥官","speaker":0,"text":"（但你自己会过热啊。）(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"如果我能及时地架设阳伞、布置场地，就能让大家玩耍后更舒适地休息。\n在这里的人形不是个个都心思细腻，而女仆的存在就是为了补足这部分。\n能够让大家都快乐的话，我就能得到快乐了。\n……我觉得，这比休息更让我开心。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"指挥官","speaker":0,"text":"（……G36居然也有这么能说的时候！）\n我尊重你的意愿，G36。但你也别太拼命了。\n要记得，我们是来休假的，不需要像平时那样紧张。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"明白，长官。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"虽然她这样应答了，但我完全没有感觉到她有想要改变的想法。\n但是，我也无法对这样的她提出强制要求。\n为了众人忙碌正是她喜欢做的事，那我就不该剥夺她的乐趣……(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"9","text":"随她怎么做吧。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"……\n但是很快，我就不得不推翻了这样的想法。(no korean text data)"},{"character":["P38"],"character_emotion":["2"],"speaker_name":"P38","speaker":0,"bgm":"BGM_Empty","bg":"162","text":"指挥官——糟糕了！(no korean text data)"},{"character":["P38"],"character_emotion":["2"],"speaker_name":"指挥官","speaker":0,"text":"冰沙的味道真不错啊。阿梅利你觉……\n怎么了？(no korean text data)"},{"character":["P38"],"character_emotion":["2"],"speaker_name":"P38","speaker":0,"text":"糟，糟糕……G36短路了！(no korean text data)"},{"character":["P38"],"character_emotion":["2"],"speaker_name":"指挥官","speaker":0,"text":"……什么？！(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"我跟着P38跑过去。G36靠在遮阳伞下，看起来状况很糟糕。(no korean text data)"},{"character":["指挥官"],"character_emotion":[""],"speaker_name":"指挥官","speaker":0,"text":"G36？你还好吗，听得到我的声音吗？(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"G36","speaker":0,"bgm":"BGM_Moon","text":"……十分抱歉，长官，让您担心了。\n我的信号接收能力没有受损……只是机体有点过热。\n我的散热性能看来还是太落后了。(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"指挥官","speaker":0,"text":"那些事情先放在一边吧。\n我带你回休息室，你好好休息一下。(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"G36","speaker":0,"text":"不，不用……\n我还能继续工作，大家好不容易出来一次……(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"指挥官","speaker":0,"text":"听我说，G36，这些事先放在一边。(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"G36","speaker":0,"text":"但是……我倒下的话，谁来照顾大家？(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"指挥官","speaker":0,"text":"如果你不知道休息的话，就会变成大家一起来照顾你了。\n我希望你现在能好好休息，先把状态恢复到最好再考虑工作的事。(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"G36","speaker":0,"text":"可是……(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"指挥官","speaker":0,"text":"你觉得海漂亮吗？(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"G36","speaker":0,"text":"很美。比资料片里看到的还要美。(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"指挥官","speaker":0,"text":"那么就先在这里好好地欣赏吧，陪着我一起。(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"G36","speaker":0,"text":"……我明白了。这是我的荣幸。\n不过，在这之前能拜托您一件事吗？(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"指挥官","speaker":0,"text":"嗯？(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"G36","speaker":0,"text":"我做了一些新的冰沙。那边的两位人形也是您的客人吧？\n麻烦您把这些冰品送过去给她们了。\n不管怎样，格里芬的待客之礼是不能丢的……(no korean text data)"},{"character":["G36"],"character_emotion":["9"],"speaker_name":"指挥官","speaker":0,"text":"好……好吧，你在这里等着。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"9","text":"该怎么让G36学会放松？\n在送冰沙的途中，我一直思考着这件事。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"但是直到我折返回去，也没有想到答案。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"指挥官","speaker":0,"bg":"162","text":"我回来了。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"啊……欢迎回来，长官。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"指挥官","speaker":0,"text":"已经休息好了啊，是在看海吗？(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"是的……太美了。这样的颜色，鲜亮又纯净。\n不管是在格里芬工作时还是在那之前，我都没有想过有一天真能看到这样好看的海洋。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"指挥官","speaker":0,"text":"因为污染的区域太多了。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"是的。\n而且，我也没想过，我有一天能遇到您这样好的长官。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"指挥官","speaker":0,"text":"居然从G36嘴里听到夸奖，我都要不好意思了。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"您不必谦虚。我觉得我好一些了。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"指挥官","speaker":0,"text":"没问题吗？还是能感觉到热……(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"G36","speaker":0,"text":"我不会勉强自己的，长官。\n请相信我，我会用自己最好的状态去应对工作。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"","speaker":0,"text":"这样说着的她转过头来看着我，表情认真。\n而她眼中映出的光辉，远比这片海还要纯净耀眼。(no korean text data)"},{"character":["G36"],"character_emotion":["8"],"speaker_name":"指挥官","speaker":0,"text":"……这样啊。\n我相信你。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"那之后，G36很快重新投入了工作之中。\n(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"不过没有再次中暑真是太好了。(no korean text data)"},{"character":["NPC-Kalin"],"character_emotion":["1"],"speaker_name":"格琳娜","speaker":0,"bgm":"BGM_Empty</BGM><BIN>8</BIN><黑屏2><BGM>BGM_Hello","bg":"8","text":"欢迎回来，指挥官！\n新的账单已经到达了哦——(no korean text data)"},{"character":["NPC-Kalin"],"character_emotion":["1"],"speaker_name":"指挥官","speaker":0,"text":"我回来了。\n……等等，新的账单？在放假之前不是已经全部清过了吗？(no korean text data)"},{"character":["NPC-Kalin"],"character_emotion":["0"],"speaker_name":"格琳娜","speaker":0,"text":"嗯……是这样哦。\n不过，在您度假途中，我们接到了投诉。人形们自由活动的时候，对环境造成了一定程度的破坏。(no korean text data)"},{"character":["NPC-Kalin"],"character_emotion":["3"],"speaker_name":"格琳娜","speaker":0,"text":"赔款和后勤人员的加班费用，我已经整理好清单了。(no korean text data)"},{"character":["NPC-Kalin"],"character_emotion":["3"],"speaker_name":"指挥官","speaker":0,"text":"这……(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"看着账单末尾的数字，我感到一阵眩晕。\n我明白人形们都不是故意的，但这个数字……我们的预算……(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"G36","speaker":0,"text":"还好吗，指挥官？\n您看起来不太舒服。(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"指挥官","speaker":0,"text":"……抱歉，让你担心了，G36。\n一切都很好，是时候该回归到工作中了。(no korean text data)"},{"character":["G36"],"character_emotion":["0"],"speaker_name":"G36","speaker":0,"text":"您的表情可不像是没事的样子。\n不过，这之后也请让我为您分忧吧。(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"……看来，想让G36好好休息的话，首先我们就不能做太多让人操心的事啊。\n这个假期，就这样在突然增加的费用里落下了帷幕……(no korean text data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"(no korean text data)"}]
+[{
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"bgm": "BGM_Empty",
+		"bg": "9",
+		"text": ""
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"bg": "8",
+		"text": ""
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "그리폰 기지."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"bgm": "GF_Memorial",
+		"text": "네, 알겠습니다.\n참가할 인형 명단 말입니까? ... 네, 알겠습니다. 감사합니다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "통신을 끊고, 길게 한숨을 쉬었다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "수많은 일들이 끝나고 모처럼의 휴가 여행을 떠날 수 있게 되었다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"bg": "129",
+		"text": "하지만 딱히 좋은 일이 아닐 수도 있다... 예를 들면, 지금 내가 처한 난감한 상황처럼."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "Guten Morgen, 주인님. 여기서 뭐 하시고 계시는 겁니까?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "아, G36... 미안, 나도 모르게 주방에 왔네.\n그러니까 말이지..."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "나는 지푸라기라도 잡는 심정으로 G36에게 고민을 털어놓았다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "그렇군요... 그럼, 바다에 가는 건 어떠십니까?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "모두 바다에 가본 적은 없을 것이라 생각합니다… 영상자료에서 보여주는 오염되지 않은 모습. 어떠십니까?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "그것도 괜찮겠네, 그리고 이번엔 데리고 갈 인형의 수도 제한되어 있어서. 좋은 활약을 보인 인형을 순위대로 초대할 셈이야."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "좋은 생각이십니다.\n모두의 의욕을 끌어 올릴 수도 있으니, 일석이조이군요."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "그리고 사전준비도 도와줬으면 좋겠어, G36.\n... 난 이런 것은 잘 못해서 말이야."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "주인님을 위해 봉사하는 것이 저의 의무입니다, 모두 저에게 맡기세요.\n하지만 그 전에, 먼저 아침 식사를 준비하러 가겠습니다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "G36은 허리 숙여 인사하고 뒤돌아 떠났다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "G36의 도움 덕분에, 준비는 모두 순조로웠다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"bg": "162",
+		"text": "다음날, 바닷가."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "주인님. 전원 무사히 도착하였음을 보고드립니다.\n이어서 모두에게 자유활동 시간을 부여하고, 느지막이 단체활동을 진행할 예정입니다. 구체적인 시간과 내용은 주인님 혹은 모두의 의견을 받아 결정하겠습니다.\n식사는, 제가 모두에게 간식으로 빙수를 준비하겠습니다. 저녁 식사는 비행기에서 해결하며, 회사의 배정에 따르겠습니다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "수고했어, G36.\n너도 자유활동… 할거지?\n(비록 수영복을 입었어도, 풀어질 모습이 안 보여.)"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "물론 아닙니다, 주인님.\n저는 모두를 계속 돕기 위해 왔습니다. 모두가 편안히 휴가를 보낼 수 있게, 계속해서 봉사하겠습니다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "잠깐, 너도 내가 초대해서 휴가에 온 거니까, 적당히 휴식하는 것이 좋지 않을까?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "일리가 있는 말씀이십니다.\n하지만, 쉬면서 뭘 하면 좋겠습니까?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "으음... 일광욕이나, 수영이나, 비치발리볼이나, 뭐 다른 것도 괜찮으니까.\n좀 놀면서 하는 것이 정신에도 좋잖아, 마음도 즐거워지고..."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "타당하신 말씀이십니다.\n하지만 제가 모두를 위해 간식을 만들면, 햇볕에서 뛰고 난 인형들을 빠르게 식혀줄 수 있습니다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "(하지만 네가 과열되잖아.)"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "제가 빨리 파라솔을 펼치고 장소를 마련하면 모두가 놀고 나서 더욱 편안히 쉴 수가 있습니다.\n여기에 있는 인형 모두가 세심한 편은 아니기에, 그 부분을 메워주기 노력하는 것입니다.\n모두가 즐거워진다면 저도 즐거워집니다.\n... 쉬는 것보다 즐겁다고 생각합니다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "(... G36이 이렇게 말을 길게 한 건 처음 들었다!)\n그럼 네 생각을 존중하지, G36. 그래도 너무 무리하지 마.\n우리는 휴가를 즐기러 온 거니까, 평소처럼 긴장할 필요는 없어."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "알겠습니다, 주인님."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "비록 그렇게 대답했지만, 전혀 마음을 바꿀 생각이 없는 것 같다.\n그래도 억지로 요구할 수도 없다.\n모두를 위해 일하는 것을 좋아하니, 그 즐거움을 뺏을 수는 없었다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"bg": "9",
+		"text": "그냥 맘대로 하라고 하자."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "...\n하지만 곧바로, 그런 생각을 바꿔야 했다."
+	}, {
+		"character": ["P38"],
+		"character_emotion": ["2"],
+		"speaker_name": "P38",
+		"speaker": 0,
+		"bgm": "BGM_Empty",
+		"bg": "162",
+		"text": "지휘관님!! 큰일 났어요!"
+	}, {
+		"character": ["P38"],
+		"character_emotion": ["2"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "빙수 진짜 맛있네. 아멜리 너는 어때...\n무슨 일이니?"
+	}, {
+		"character": ["P38"],
+		"character_emotion": ["2"],
+		"speaker_name": "P38",
+		"speaker": 0,
+		"text": "크, 큰일이에요... G36이 고장 났어요!"
+	}, {
+		"character": ["P38"],
+		"character_emotion": ["2"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "... 뭐라고?!"
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "P38을 따라 달려가 보자, G36이 파라솔 밑에 기대 상태가 안 좋아 보였다."
+	}, {
+		"character": ["지휘관"],
+		"character_emotion": [""],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "G36? 괜찮아? 내 말 들려?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"bgm": "BGM_Moon",
+		"text": "... 죄송합니다, 주인님. 걱정을 끼쳤군요.\n청각기능은 문제없습니다... 그저 몸체가 좀 과열되었습니다.\n아무래도 제 냉각 기능이 많이 부족한 것 같습니다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "그런 건 나중에 말하고.\n휴게실로 가자, 거기서 푹 쉬어."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "아니, 괜찮습니다...\n아직 더 일할 수 있습니다, 모두의 모처럼의 휴가를..."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "내 말 들어, G36. 그런 건 나중에 해."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "하지만... 제가 없으면, 누가 모두를 돌봐줍니까?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "네가 안 쉬면, 결국엔 모두가 널 돌봐주게 될 거야.\n지금은 푹 쉬고, 상태가 완전히 회복된 다음에 일할 생각해."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "하지만..."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "바다 멋지지 않니?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "멋집니다. 영상자료로 보던 것보다 아름답습니다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "그럼 여기서 나하고 천천히 감상하자."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "... 알겠습니다. 참으로 영광입니다.\n하지만, 그 전에 부탁 하나 드려도 되겠습니까?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "응?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "빙수를 새로 만들었습니다. 저기의 두 인형도 주인님의 손님이지 않습니까?\n죄송하지만 이 빙수를 저 두 분께 전달해 주시기 바랍니다.\n어떻게 말해도, 그리폰의 손님접대 예의를 지키지 않아선 안 됩니다..."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["9"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "아... 그래, 기다리고 있어."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"bg": "9",
+		"text": "어떻게 해야 G36에게 쉬는 법을 알려줄 수 있을까?\n빙수를 갖다 주면서 계속 생각했다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "하지만 돌아갈 때까지 답이 떠오르지 않았다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"bg": "162",
+		"text": "돌아왔다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "아... 다녀오셨습니까, 주인님."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "벌써 회복됐구나, 바다를 보고 있니?"
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "네... 너무 아름답습니다. 이런 빛깔, 선명하면서도 깨끗한 느낌.\n그리폰에서 일할 때도 그전에도, 이렇게 아름다운 바다를 볼 날이 올 것이라 생각하지 못했습니다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "오염된 곳이 너무 많으니까."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "네.\n그리고 주인님처럼 훌륭한 지휘관을 만날 것이라고도 생각하지 못했습니다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "G36의 칭찬을 듣자 좀 쑥스러워졌다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "겸손하실 필요는 없습니다. 이제 많이 나아졌습니다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "괜찮겠어? 아직 열이 남아있는 것 같은데..."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "무리하지 않겠습니다, 지휘관님.\n저는 최상의 컨디션으로 작업에 임할 것입니다, 믿어주세요."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "라고 말하며 고개를 돌려 진지한 모습으로 나를 바라보았다.\n그 눈에서 나오는 빛은 저 바다보다도 깨끗하며 눈부셨다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["8"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "... 그렇군.\n널 믿을게."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "바로 G36은 작업에 다시 몰두했다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "그래도 다시 더위 먹는 일은 없어서 다행이다."
+	}, {
+		"character": ["NPC-Kalin"],
+		"character_emotion": ["1"],
+		"speaker_name": "카리나",
+		"speaker": 0,
+		"bgm": "BGM_Empty</BGM><BIN>8</BIN><黑屏2><BGM>BGM_Hello",
+		"bg": "8",
+		"text": "다녀오셨어요, 지휘관님!\n새로운 청구서가 날아왔어요~"
+	}, {
+		"character": ["NPC-Kalin"],
+		"character_emotion": ["1"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "다녀왔어.\n... 잠깐만, 청구서라니? 휴가 가기 전에 다 정산했잖아?"
+	}, {
+		"character": ["NPC-Kalin"],
+		"character_emotion": ["0"],
+		"speaker_name": "카리나",
+		"speaker": 0,
+		"text": "음... 그랬었죠.\n다만, 지휘관님께서 휴가에 나가신 동안 클레임이 들어왔어요. 인형들이 자유활동 중에 환경을 좀 훼손했다고 하네요."
+	}, {
+		"character": ["NPC-Kalin"],
+		"character_emotion": ["3"],
+		"speaker_name": "카리나",
+		"speaker": 0,
+		"text": "배상금과 군수인원의 추가 근무수당, 모두 정리해 놨어요."
+	}, {
+		"character": ["NPC-Kalin"],
+		"character_emotion": ["3"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "이건..."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "청구서에 적힌 숫자를 보자 머리가 띵해졌다.\n인형들도 일부러 그런 건 아니지만, 이 액수는... 우리의 예산이..."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "괜찮으십니까, 주인님?\n안색이 좋아 보이지 않습니다."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "지휘관",
+		"speaker": 0,
+		"text": "... 미안, 걱정하게 했구나.\n아무 문제 없으니까 업무에 복귀하자."
+	}, {
+		"character": ["G36"],
+		"character_emotion": ["0"],
+		"speaker_name": "G36",
+		"speaker": 0,
+		"text": "전혀 문제없는 표정이 아니십니다.\n앞으로도 같이 고민을 덜어드리겠습니다."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": "아무래도, G36을 쉬게 하고 싶으면 먼저 우리가 걱정시킬 일을 하면 안 되겠다.\n이번 휴가는 이렇게 갑자기 늘어난 지출 속에서 막을 내렸다..."
+	}, {
+		"character": [""],
+		"character_emotion": [""],
+		"speaker_name": "",
+		"speaker": 0,
+		"text": ""
+	}
+]
