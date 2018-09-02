@@ -303,6 +303,8 @@ function getcharimgdir_fairy($str, $emo) {
 	else if($str == "FairyTaunt") {
 		switch($emo) {
 			case 0: return "fairy/target_1"; break;
+			case 1: return "fairy/target_2"; break;
+			case 2: return "fairy/target_3"; break;
 		}
 	}
 	else if($str == "FairyGold") {
@@ -347,6 +349,19 @@ function getcharimgdir($str, $emo) {
 					case 9: $result = "dolls/" . $result . "_4_D"; break;
 				}
 			}
+			else if($str == "FNFAL") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "dolls/" . $result . "_1"; break;
+					case 3: $result = "dolls/" . $result . "_1_D"; break;
+					case 4: $result = "dolls/" . $result . "_3"; break;
+					case 5: $result = "dolls/" . $result . "_3_D"; break;
+					case 6: $result = "dolls/" . $result . "_2"; break;
+					case 7: $result = "dolls/" . $result . "_2_D"; break;
+					case 8: $result = "dolls/" . $result . "_4"; break;
+					case 9: $result = "dolls/" . $result . "_4_D"; break;
+				}
+			}
 			else if($str == "AN94") {
 				switch($emo) {
 					case 1: $result = "dolls/" . $result . "_D"; break;
@@ -368,9 +383,9 @@ function getcharimgdir($str, $emo) {
 					case 2: $result = "story_character/ak12_angry"; break;
 					case 3: $result = "story_character/ak12_battle"; break;
 					case 4: $result = "story_character/ak12_laugh"; break;
-					case 5: $result = "story_character/pic_ak12_2402_story"; break;
-					case 6: $result = "dolls/" . $result . "_1"; break;
-					case 7: $result = "dolls/" . $result . "_1_D"; break;
+					case 5: $result = "dolls/" . $result . "_1"; break;
+					case 6: $result = "dolls/" . $result . "_1_D"; break;
+					case 7: $result = "story_character/pic_ak12_2402_story"; break;
 					case 8: $result = "dolls/" . $result . "_2"; break;
 					case 9: $result = "dolls/" . $result . "_2_D"; break;
 					case 10: $result = "dolls/" . $result . "_3"; break;
@@ -469,6 +484,8 @@ function getcharimgdir($str, $emo) {
 					case 5: $result = "dolls/" . $result . "_1_D"; break;
 					case 6: $result = "dolls/" . $result . "_3"; break;
 					case 7: $result = "dolls/" . $result . "_3_D"; break;
+					case 8: $result = "dolls/" . $result . "_4"; break;
+					case 9: $result = "dolls/" . $result . "_4_D"; break;
 				}
 			}
 			else if($str == "M1903") {
