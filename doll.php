@@ -1,4 +1,5 @@
 <?php
+$starttime = microtime(true);
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
 	
@@ -13,7 +14,7 @@
 	}
 	
 	//인형데이터 불러오기
-	$dolls = json_decode(file_get_contents("data/doll.json"));
+	$dolls = getJson('doll');
 	foreach($dolls as $data) {
 		if(is_numeric($_GET['id'])) {
 			if($data->id == $_GET['id']) {
@@ -32,13 +33,20 @@
 	
 	if(empty($doll)) Error('데이터 없음(No data)<br><br>NPC, BOSS는 데이터가 존재하지 않습니다.<br> 인형의 경우는 데이터가 안맞는것으로 게시판에 알려주심됩니다.');
 	
+	$db = new SQLite3("../mosu.db"); 
+	$buildresult = $db->query("SELECT mp, ammo, mre, part, count(id) as cnt FROM mosu_gun where gun_id = {$doll->id} group by `mp`, `ammo`, `mre`, `part` order by `cnt` desc");
+	$cnt = 0;
+	while($row = $buildresult->fetchArray()) {
+		$cnt = $cnt + $row['cnt'];
+	}
+	
 	$maxlevel = 100;
 	if($doll->id > 20000) {
 		$maxlevel = 120;
 	}
 	
 	//스킬데이터 불러오기
-	$skills = json_decode(file_get_contents("data/skill.json"));
+	$skills = getJson('skill');
 	foreach($skills as $data) {
 		if($data->id == $doll->skill->id) {
 			$skill = $data;
@@ -72,11 +80,11 @@
 	
 	//한국어가 아니면
 	if($lang != "ko") {
-		$voices = explode(PHP_EOL, file_get_contents("data/charactervoice_$lang.txt"));
-		$voices_fallback = explode(PHP_EOL, file_get_contents("data/charactervoice.txt"));
+		$voices = explode(PHP_EOL, getDataFile("CharacterVoice", $lang));
+		$voices_fallback = explode(PHP_EOL, getDataFile("CharacterVoice", 'ko'));
 	}
 	else 
-		$voices = explode(PHP_EOL, file_get_contents("data/charactervoice.txt"));
+		$voices = explode(PHP_EOL, getDataFile("CharacterVoice", $lang));
 
 	foreach($voices as $data) {
 		if(substr($data, 0, strlen($doll->name . "|")) === $doll->name . "|") {
@@ -265,12 +273,7 @@
 	}
 	
 	//서버 스킬데이터 불러오기
-	if($lang != 'ko') {
-		$tmp = file_get_contents("data/battle_skill_config_$lang.txt");
-	} else {
-		$tmp = file_get_contents("data/battle_skill_config.txt");
-	}
-	
+	$tmp = getDataFile('battle_skill_config', $lang);
 	$rskills = explode(PHP_EOL, $tmp);
 	if(isset($doll->skill->realid)) {
 		$rskill_name = '';
@@ -348,7 +351,7 @@
 			if(isset($eff->gridEffect->cooldown)) { $result .= L::database_buffeff_r(L::database_buff_cooldown, $eff->gridEffect->cooldown*2); }
 			if(isset($eff->gridEffect->crit)) { $result .= L::database_buffeff(L::database_buff_crit, $eff->gridEffect->crit*2); }
 			$result .= '<br>' . L::database_buff_5links;
-		}
+		}	
 		else {
 			if(isset($eff->gridEffect->armor)) { $result .= L::database_buffeff(L::database_buff_armor, $eff->gridEffect->armor); }
 			if(isset($eff->gridEffect->pow)) { $result .= L::database_buffeff(L::database_buff_pow, $eff->gridEffect->pow); }
@@ -363,7 +366,7 @@
 	}
 	
 	//스킨 불러오기
-	$tmp = file_get_contents("data/skin.txt");
+	$tmp = getDataFile('skin', 'ko');
 	
 	$skins = [];
 	$tmpobj = new stdClass;
@@ -396,7 +399,7 @@
 	}
 	
 	if($lang != 'ko') {
-		$tmp = file_get_contents("data/skin_$lang.txt");
+		$tmp = getDataFile('skin', $lang);
 		$tmps = explode(PHP_EOL, $tmp);
 		$i = 0;
 		foreach($skins as $skin) {
@@ -639,23 +642,56 @@
 			<div class="card card-body bg-light mt-3 p-2">
 				<?=L::database_introduce?> : <br><?=str_replace("\\n", "<br>" ,$introduce)?>
 			</div>
-			<div class="card card-body bg-light mt-3 p-0">
-				<table class="table">
-					<thead>
-						<tr style="text-align:center; vertical-align:middle">
-							<th style="width: 15%"><?=L::database_situation?></th>
-							<th><?=L::database_dialogue?></th>
-						</tr>
-					</thead>
-					<tbody>
-					<?php foreach($voice as $dat) { ?>
-						<tr>
-							<td class="p-1" style="text-align:center; vertical-align:middle"><?=$dat[0]?></td>
-							<td class="p-1"  style="vertical-align:middle"><?=$dat[1]?></td>
-						</tr>
-					<?php } ?>
-					</tbody>
-				</table>
+			<div class="row">
+				<div class="col">
+					<div class="card card-body bg-light mt-3 p-0">
+						<table class="table">
+							<thead>
+								<tr style="text-align:center; vertical-align:middle">
+									<th style="width: 15%"><?=L::database_situation?></th>
+									<th><?=L::database_dialogue?></th>
+								</tr>
+							</thead>
+							<tbody>
+							<?php foreach($voice as $dat) { ?>
+								<tr>
+									<td class="p-1" style="text-align:center; vertical-align:middle"><?=$dat[0]?></td>
+									<td class="p-1"  style="vertical-align:middle"><?=$dat[1]?></td>
+								</tr>
+							<?php } ?>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="col">
+					<div class="card card-body bg-light mt-3 p-0">
+						<table class="table">
+							<thead>
+								<tr style="text-align:center; vertical-align:middle">
+									<th>인력</th>
+									<th>탄약</th>
+									<th>식량</th>
+									<th>부품</th>
+									<th>백분율</th>
+								</tr>
+							</thead>
+							<tbody>
+			<?php	while($row = $buildresult->fetchArray()) {
+							if($row['cnt'] < 10) break;
+							$row['percent'] = $row['cnt'] / $cnt * 100; ?>
+							
+							<tr style="text-align:center; vertical-align:middle">
+								<td><?=$row['mp']?></td>
+								<td><?=$row['ammo']?></td>
+								<td><?=$row['mre']?></td>
+								<td><?=$row['part']?></td>
+								<td><?=printf("%.1f", $row['percent'])?>%</td>
+							</tr>
+			<?php	} ?>
+							</tbody>
+						</table>
+					</div>
+				</div>
 			</div>
 		</div>	
 		<div class="my-3 p-3 bg-white rounded box-shadow">
@@ -1036,4 +1072,5 @@
 			}
 		});
 	</script>
+<?php echo microtime(true) - $starttime; ?>
 </html>
