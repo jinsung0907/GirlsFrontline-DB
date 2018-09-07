@@ -8,11 +8,11 @@
 	require_once("header.php");
 	
 	if($lang != 'ko') {
-		$storys = json_decode(file_get_contents("data/substory_$lang.json"));
+		$storys = getJson("substory_$lang");
 	}
-	else $storys = json_decode(file_get_contents("data/substory.json"));
+	else $storys = getJson("substory");
 	
-	$dolls = json_decode(file_get_contents("data/doll.json"));
+	$dolls = getJson('doll');
 	//live2d 리스트
 	$modstory = [];
 	if($lang != 'ko') 

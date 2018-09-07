@@ -6,7 +6,7 @@
 	$header_title = "군수지원 계산기";
 	require_once("header.php");
 	
-	$logis = json_decode(file_get_contents("data/logistics.json"));
+	$logis = getJson('logistics.json');
 ?>
     <main role="main" class="container">
 		<div class="my-3 bg-white rounded box-shadow">

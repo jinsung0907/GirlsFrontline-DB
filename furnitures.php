@@ -1,8 +1,8 @@
 <?php
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
-	$furniture_class = json_decode(file_get_contents("data/furniture_class.json"));
-	$furniture_txt = explode(PHP_EOL, file_get_contents("data/furniture_classes.txt"));	
+	$furniture_class = getJson('furniture_class');
+	$furniture_txt = explode(PHP_EOL, getDataFile("furniture_classes", 'ko'));
 
 	$furn = [];
 	foreach($furniture_class as $i=>$data) {
@@ -33,7 +33,7 @@
 	}
 		
 	if($lang != 'ko') {
-		$furniture_txt = explode(PHP_EOL, file_get_contents("data/furniture_classes_$lang.txt"));
+		$furniture_txt = explode(PHP_EOL, getDataFile("furniture_classes", $lang));
 		
 		foreach($furn as $i=>$data) {
 			foreach($furniture_txt as $key=>$line) {

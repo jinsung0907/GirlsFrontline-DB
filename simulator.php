@@ -1,6 +1,6 @@
 <?php
 	if(!empty($_POST)) {
-		$dolls = json_decode(file_get_contents("data/doll.json"));
+		$dolls = json_decode(getJson('doll'));
 		echo json_encode($_POST);
 		exit;
 	}
@@ -411,7 +411,7 @@
 		var grid = {};
 		var guntype = ['ar', 'sg', 'rf', 'hg', 'mg', 'smg'];
 		var efftype = ['rate', 'pow', 'dodge', 'hit', 'crit', 'cooldown', 'armor'];
-		$.getJSON("data/doll.json", function(json) {
+		$.getJSON("data/json/doll.json", function(json) {
 			dolls = json;
 		});
 		

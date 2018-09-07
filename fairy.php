@@ -5,7 +5,7 @@
 	if(empty($_GET['id'])) { header("Location: http://gfl.zzzzz.kr/fairies.php"); exit();}
 	
 	//요정데이터 불러오기
-	$fairies = json_decode(file_get_contents("data/fairy.json"));
+	$fairies = getJson('fairy');
 	foreach($fairies as $data) {
 		if(is_numeric($_GET['id'])) {
 			if($data->id == $_GET['id']) {
@@ -24,7 +24,7 @@
 	if(empty($fairy)) Error('데이터 없음');
 	
 	//스킬데이터 불러오기
-	$skills = json_decode(file_get_contents("data/skill.json"));
+	$skills = getJson('skill');
 	foreach($skills as $data) {
 		if($data->id == $fairy->skill->id) {
 			$skill = $data;
@@ -71,17 +71,10 @@
 	}
 	
 	//클라데이터 스킬
-	if($lang != 'ko') {
-		if($fairy->skill->realid > 900000)
-			$tmp = file_get_contents("data/battle_skill_config_$lang.txt");
-		else 
-			$tmp = file_get_contents("data/mission_skill_config_$lang.txt");
-	} else {
-		if($fairy->skill->realid > 900000)
-			$tmp = file_get_contents("data/battle_skill_config.txt");
-		else 
-			$tmp = file_get_contents("data/mission_skill_config.txt");
-	}
+	if($fairy->skill->realid > 900000)
+		$tmp = getDataFile('battle_skill_config', $lang);
+	else 
+		$tmp = getDataFile('mission_skill_config', $lang);
 	
 	$rskills = explode(PHP_EOL, $tmp);
 	if(isset($fairy->skill->realid)) {
@@ -114,12 +107,9 @@
 	
 	//설명 및 등장대사 파싱
 	$voice = '';
-	if($lang != 'ko') {
-		$voices = explode(PHP_EOL, file_get_contents("data/fairy_$lang.txt"));
-		$voices_fallback = explode(PHP_EOL, file_get_contents("data/fairy.txt"));
-	}
-	else
-		$voices = explode(PHP_EOL, file_get_contents("data/fairy.txt"));
+	$voices = explode(PHP_EOL, getDataFile('fairy', $lang));
+	$voices_fallback = explode(PHP_EOL, getDataFile('fairy', 'ko'));
+	
 	$i = 0;
 	foreach($voices as $data) {
 		$tmp = explode(',', $data);

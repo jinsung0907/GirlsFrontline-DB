@@ -6,7 +6,7 @@
 	$header_desc = L::title_dolls_desc;
 	$header_keyword = "소녀전선 인형 목록, 소녀전선 인형 리스트, 소녀전선 추천인형, 소녀전선 SD, 소녀전선 보이스";
 	require_once("header.php");
-	$dolls = json_decode(file_get_contents("data/doll.json"));
+	$dolls = getJson('doll');
 ?>	
 	<style>
 		@import url("//fonts.googleapis.com/earlyaccess/nanumgothic.css");

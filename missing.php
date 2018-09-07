@@ -3,7 +3,7 @@
 	require_once("common.php");
 	require_once("header.php");
 	
-	$dolls = json_decode(file_get_contents("data/doll.json"));
+	$dolls = getJson('doll');
 
 	$missing_name = '';
 	$missing_skill = '';

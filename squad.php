@@ -9,7 +9,7 @@
 	
 
 	//인형데이터 불러오기
-	$squads = json_decode(file_get_contents("data/squad.json"));
+	$squads = json_decode(getJson('squad'));
 	foreach($squads as $data) {
 		if(is_numeric($_GET['id'])) {
 			if($data->id == $_GET['id']) {
@@ -40,11 +40,7 @@
 	$header_image = "http://gfl.zzzzz.kr/img/squads/" .$squad->name . ".png";
 	
 	//서버 스킬데이터 불러오기
-	if($lang != 'ko') {
-		$tmp = file_get_contents("data/battle_skill_config_$lang.txt");
-	} else {
-		$tmp = file_get_contents("data/battle_skill_config.txt");
-	}
+	$tmp = getDataFile('battle_skill_config', $lang);
 	
 	$rskills = explode(PHP_EOL, $tmp);
 	for($i = 1 ; $i<=3 ; $i++) {

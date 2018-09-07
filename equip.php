@@ -7,7 +7,7 @@
 	$header_title = "소전DB 장비리스트	 | 소전DB";
 	require_once("header.php");
 	
-	$equips = json_decode(file_get_contents("data/equip.json"));
+	$equips = getJson("equip");
 ?>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
