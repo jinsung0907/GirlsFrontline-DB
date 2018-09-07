@@ -1,1 +1,1 @@
-[{"character":["M4A1"],"character_emotion":["0"],"speaker":0,"speaker_name":"M4A1","text":"この司令部を占領したら、出口の警報を解除します。"},{"character":["AR15"],"character_emotion":["2"],"speaker":0,"speaker_name":"ST AR-15","text":"支援小隊は長くは持たないわ。\n早く先へ進まないと！"}]
+[{"character":["M4A1"],"character_emotion":["0"],"speaker_name":"M4A1","speaker":0,"text":"この司令部を占領したら、出口の警報を解除します。"},{"character":["AR15"],"character_emotion":["2"],"speaker_name":"ST AR-15","speaker":0,"text":"支援小隊は長くは持たないわ。\n早く先へ進まないと！"}]

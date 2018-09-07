@@ -1013,7 +1013,7 @@ $starttime = microtime(true);
 			url: 'doll_ajax.php?id=' + dollid,
 			success: function(data) {
 				if(data == '') {
-					$("#buildtable tbody").html("<tr style='text-align:center'><td colspan=5>데이터 없음</td></tr>");
+					$("#buildtable tbody").html("<tr style='text-align:center'><td colspan=5>No data</td></tr>");
 					return;
 				}
 				else {
@@ -1023,10 +1023,10 @@ $starttime = microtime(true);
 			},
 			error: function(e) {
 				if(e.status == 404) {
-					$("buildtable tbody").html("<tr><td cols=5>데이터 없음</td></tr>");
+					$("buildtable tbody").html("<tr><td cols=5>No data</td></tr>");
 					return;
 				}
-				$("buildtable tbody").html("<tr><td cols=5>데이터 없음</td></tr>");
+				$("buildtable tbody").html("<tr><td cols=5>No data</td></tr>");
 				return;
 			}
 		});
