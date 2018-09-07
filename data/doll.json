@@ -9811,6 +9811,35 @@
 		},
 		"krName": "M82A1"
 	}, {
+		"id": 232,
+		"name": "MP448",
+		"type": "hg",
+		"rank": 3,
+		"stats": {
+			"hp": 96,
+			"pow": 90,
+			"hit": 118,
+			"dodge": 128,
+			"speed": 100,
+			"rate": 110,
+			"armorPiercing": 10,
+			"crit": 20
+		},
+		"grow": 125,
+		"effect": {
+			"effectType": "all",
+			"effectCenter": 5,
+			"effectPos": [1, 2, 3, 4, 6],
+			"gridEffect": {
+				"pow": 6,
+				"rate": 10
+			}
+		},
+		"skill": {
+			"realid": 101401
+		},
+		"krName": "MP-448"
+	}, {
 		"id": 1001,
 		"name": "BB_Noel",
 		"rank": 5,
