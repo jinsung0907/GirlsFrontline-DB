@@ -6,7 +6,7 @@
 	$header_desc = L::title_fairies_desc;
 	$header_keyword = "소녀전선 요정 목록, 소녀전선 요정 리스트, 소녀전선 추천요정";
 	require_once("header.php");
-	$fairies = json_decode(file_get_contents("data/fairy.json"));
+	$fairies = getJson('fairy');
 ?>
 	<style>
 		@import url("//fonts.googleapis.com/earlyaccess/nanumgothic.css");
@@ -23,7 +23,7 @@
 					if($lang == 'en') 
 						$fairyname = ucfirst($fairy->name) . " Fairy";
 					else if($lang == 'ja') {
-						$voices = explode(PHP_EOL, file_get_contents("data/fairy_$lang.txt"));
+						$voices = explode(PHP_EOL, getDataFile('fairy', $lang));
 						$i = 0;
 						foreach($voices as $data) {
 							$tmp = explode(',', $data);

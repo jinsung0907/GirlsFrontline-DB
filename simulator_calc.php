@@ -1,7 +1,7 @@
 <?php
 	ini_set('max_execution_time', '5');
 	define("GF_HEADER", "aaaaa");
-	
+	include_once("common.php");
 	
 	//1초에 1번씩 rate limit
 	session_start();
@@ -15,8 +15,8 @@
 	
 	$time_start = microtime(true); 
 	
-	$dolls = json_decode(file_get_contents("data/doll.json"));
-	$skills = json_decode(file_get_contents("data/skill.json"));
+	$dolls = json_decode(getJson('doll'));
+	$skills = json_decode(getJson('skill'));
 	
 	$guntype = ['ar', 'sg', 'rf', 'hg', 'mg', 'smg'];
 	$efftype = ['rate', 'pow', 'dodge', 'hit', 'crit', 'cooldown', 'armor'];

@@ -2,9 +2,9 @@
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
 	
-	$dolls = json_decode(file_get_contents("data/doll.json"));
-	$fairies = json_decode(file_get_contents("data/fairy.json"));
-	$equips = json_decode(file_get_contents("data/equip.json"));
+	$dolls = getJson('doll');
+	$fairies = getJson('fairy');
+	$equips = getJson('equip');
 	
 	$eqs = [];
 	

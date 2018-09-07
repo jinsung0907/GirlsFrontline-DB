@@ -40,6 +40,60 @@ $i18n = new i18n('data/lang/lang_{LANGUAGE}.ini', 'data/lang/cache/', 'ko');
 $i18n->init();
 //언어 처리 끝
 
+function getJson($file) {
+	return json_decode(file_get_contents("data/json/$file.json"));
+}
+function getDataFile($file, $lang) {
+	if(!$lang) 
+		$lang = 'ko';
+	return file_get_contents("data/gamedata/$lang/$file.txt");
+}
+/*
+function getDollJson() {
+	return file_get_contents("data/json/doll.json");
+}
+function getSquadJson() {
+	return file_get_contents("data/json/squad.json");
+}
+function getSkillJson() {
+	return file_get_contents("data/json/skill.json");
+}
+function getEquipJson() {
+	return file_get_contents("data/json/equip.json");
+}
+function getFairyJson() {
+	return file_get_contents("data/json/fairy.json");
+}
+function getFurnJson() {
+	return file_get_contents("data/json/furniture.json");
+}
+function getSubstoryJson(){
+	return file_get_contents("data/json/substory.json");
+}
+
+function getVoiceDataFile($lang) {
+	return file_get_contents("data/gamedata/$lang/CharacterVoice.txt");
+}
+function getFairyDataFile($lang) {
+	return file_get_contents("data/gamedata/$lang/fairy.txt");
+}
+function getFurnDataFile($lang) {
+	return file_get_contents("data/gamedata/$lang/furniture.txt");
+}
+function getFurnclassDataFile($lang) {
+	return file_get_contents("data/gamedata/$lang/furniture_classes.txt");
+}
+function getSkillDataFile($lang) {
+	return file_get_contents("data/gamedata/$lang/battle_skill_config.txt");
+}
+function getmSkillDataFile($lang) {
+	return file_get_contents("data/gamedata/$lang/mission_skill_config.txt");
+}
+function getSkinDataFile($lang) {
+	return file_get_contents("data/gamedata/$lang/skin.txt");
+}
+*/
+
 function getDollNameLang($doll, $lang) {
 	if($lang == 'ja') 
 		return isset($doll->jpName)?$doll->jpName:$doll->name;
@@ -316,7 +370,7 @@ function getcharimgdir_fairy($str, $emo) {
 
 //스토리용 인형 이미지 불러오기
 function getcharimgdir($str, $emo) {
-	$dolls = json_decode(file_get_contents("data/doll.json"));
+	$dolls = getJson('doll');
 	if($str == "FAL") $str = "FNFAL";
 	if($str == "MK2") $str = "StenMK2";
 	if($str == "에이전트") $str = "BOSS-8";

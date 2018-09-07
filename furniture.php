@@ -5,8 +5,8 @@
 	if(empty($_GET['id'])) { header("Location: http://gfl.zzzzz.kr/furnitures.php"); exit();}
 	$id = $_GET['id'];
 	
-	$furniture = json_decode(file_get_contents("data/furniture.json"));
-	$furniture_txt = explode(PHP_EOL, file_get_contents("data/furniture.txt"));
+	$furniture = getJson('furniture');
+	$furniture_txt = explode(PHP_EOL, getDataFile('furniture', 'ko'));
 	
 	$furn = [];
 	foreach($furniture as $data) {
@@ -32,7 +32,7 @@
 	}
 	
 	if($lang != 'ko') {
-		$furniture_txt = explode(PHP_EOL, file_get_contents("data/furniture_$lang.txt"));
+		$furniture_txt = explode(PHP_EOL, getDataFile('furniture', $lang));
 		foreach($furn as $i=>$data) {
 			foreach($furniture_txt as $key=>$line) {
 				$query = $data->name;

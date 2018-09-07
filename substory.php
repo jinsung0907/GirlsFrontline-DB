@@ -13,7 +13,7 @@
 	
 	if($t === "1") {
 		$div = explode("-", $q);
-		$dolls = json_decode(file_get_contents("data/doll.json"));
+		$dolls = getJson('doll');
 		foreach($dolls as $doll) {
 			if($doll->id == $div[0]) {
 				$title = $doll->krName . " 인형의 추억";
@@ -24,9 +24,9 @@
 	
 	if($t === "2") {
 		if($lang != 'ko')
-			$storys = json_decode(file_get_contents("data/substory_$lang.json"));
+			$storys = getJson("substory_$lang");
 		else
-			$storys = json_decode(file_get_contents("data/substory.json"));
+			$storys = getJson("substory");
 		
 		$num = floor($q / 100);
 		switch($num) {
