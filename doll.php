@@ -33,12 +33,7 @@ $starttime = microtime(true);
 	
 	if(empty($doll)) Error('데이터 없음(No data)<br><br>NPC, BOSS는 데이터가 존재하지 않습니다.<br> 인형의 경우는 데이터가 안맞는것으로 게시판에 알려주심됩니다.');
 	
-	$db = new SQLite3("../mosu.db"); 
-	$buildresult = $db->query("SELECT mp, ammo, mre, part, count(id) as cnt FROM mosu_gun where gun_id = {$doll->id} group by `mp`, `ammo`, `mre`, `part` order by `cnt` desc");
-	$cnt = 0;
-	while($row = $buildresult->fetchArray()) {
-		$cnt = $cnt + $row['cnt'];
-	}
+
 	
 	$maxlevel = 100;
 	if($doll->id > 20000) {
@@ -665,29 +660,17 @@ $starttime = microtime(true);
 				</div>
 				<div class="col">
 					<div class="card card-body bg-light mt-3 p-0">
-						<table class="table">
+						<table id="buildtable" class="table table-striped">
 							<thead>
 								<tr style="text-align:center; vertical-align:middle">
-									<th>인력</th>
-									<th>탄약</th>
-									<th>식량</th>
-									<th>부품</th>
-									<th>백분율</th>
+									<th><?=L::database_mp?></th>
+									<th><?=L::database_ammo?></th>
+									<th><?=L::database_mre?></th>
+									<th><?=L::database_part?></th>
+									<th><?=L::database_percent?></th>
 								</tr>
 							</thead>
 							<tbody>
-			<?php	while($row = $buildresult->fetchArray()) {
-							if($row['cnt'] < 10) break;
-							$row['percent'] = $row['cnt'] / $cnt * 100; ?>
-							
-							<tr style="text-align:center; vertical-align:middle">
-								<td><?=$row['mp']?></td>
-								<td><?=$row['ammo']?></td>
-								<td><?=$row['mre']?></td>
-								<td><?=$row['part']?></td>
-								<td><?=printf("%.1f", $row['percent'])?>%</td>
-							</tr>
-			<?php	} ?>
 							</tbody>
 						</table>
 					</div>
@@ -1024,6 +1007,28 @@ $starttime = microtime(true);
 		
 		$(".doll_img img").on('load', function() {
 			$(this).show().next().remove();
+		});
+		
+		$.ajax({
+			url: 'doll_ajax.php?id=' + dollid,
+			success: function(data) {
+				if(data == '') {
+					$("#buildtable tbody").html("<tr style='text-align:center'><td colspan=5>데이터 없음</td></tr>");
+					return;
+				}
+				else {
+					$("#buildtable tbody").html(data);
+					return;
+				}
+			},
+			error: function(e) {
+				if(e.status == 404) {
+					$("buildtable tbody").html("<tr><td cols=5>데이터 없음</td></tr>");
+					return;
+				}
+				$("buildtable tbody").html("<tr><td cols=5>데이터 없음</td></tr>");
+				return;
+			}
 		});
 	</script>
 
