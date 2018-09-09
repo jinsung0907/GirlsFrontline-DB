@@ -3,13 +3,9 @@
 	require_once("common.php");
 	
 	if(empty($_GET['id'])) { header("Location: http://gfl.zzzzz.kr/squads.php", true, 301); exit();}
-	
-	switch($_GET['id']) {
-	}
-	
 
-	//인형데이터 불러오기
-	$squads = json_decode(getJson('squad'));
+	//데이터 불러오기
+	$squads = getJson('squad');
 	foreach($squads as $data) {
 		if(is_numeric($_GET['id'])) {
 			if($data->id == $_GET['id']) {
