@@ -19,7 +19,8 @@
 			<input class="checkbox" type="checkbox" id="rank3_btn" name="rank"><label for="rank3_btn"><?=L::database_3star?></label>
 			<input class="checkbox" type="checkbox" id="rank4_btn" name="rank"><label for="rank4_btn"><?=L::database_4star?></label>
 			<input class="checkbox" type="checkbox" id="rank5_btn" name="rank"><label for="rank5_btn"><?=L::database_5star?></label>
-			<input class="checkbox" type="checkbox" id="rank1_btn" name="rank"><label for="rank1_btn">SP</label><br>
+			<input class="checkbox" type="checkbox" id="rank1_btn" name="rank"><label for="rank1_btn">SP</label>
+			<br>
 			<input class="checkbox" type="checkbox" id="type_ar_btn" name="type"><label for="type_ar_btn">AR</label>
 			<input class="checkbox" type="checkbox" id="type_smg_btn" name="type"><label for="type_smg_btn">SMG</label>
 			<input class="checkbox" type="checkbox" id="type_rf_btn" name="type"><label for="type_rf_btn">RF</label>
@@ -27,17 +28,39 @@
 			<input class="checkbox" type="checkbox" id="type_hg_btn" name="type"><label for="type_hg_btn">HG</label>
 			<input class="checkbox" type="checkbox" id="type_mg_btn" name="type"><label for="type_mg_btn">MG</label>
 			<br>
-			<?=L::database_buildtime?> : <input type="number" id="buildtime" /> <?=L::database_buildltime_ex?><br>
+			<input class="checkbox" type="checkbox" id="buff_pow" name="buff"><label for="buff_pow"><?=L::database_buff_pow?></label>
+			<input class="checkbox" type="checkbox" id="buff_rate" name="buff"><label for="buff_rate"><?=L::database_buff_rate?></label>
+			<input class="checkbox" type="checkbox" id="buff_dodge" name="buff"><label for="buff_dodge"><?=L::database_buff_dodge?></label>
+			<input class="checkbox" type="checkbox" id="buff_hit" name="buff"><label for="buff_hit"><?=L::database_buff_hit?></label>
+			<input class="checkbox" type="checkbox" id="buff_cd" name="buff"><label for="buff_cd"><?=L::database_buff_cooldown?></label>
+			<input class="checkbox" type="checkbox" id="buff_crit" name="buff"><label for="buff_crit"><?=L::database_buff_crit?></label>
+			<input class="checkbox" type="checkbox" id="buff_armor" name="buff"><label for="buff_armor"><?=L::database_buff_armor?></label>
+			<br>
+			<?=L::database_buildtime?> : <input type="number" id="buildtime" / placeholder="<?=L::database_buildltime_ex?>"><br>
 			<?=L::database_name?> : <input type="text" id="dollname" /><br><br>
 			<div class="dollindex row">
 			<?php
 				foreach($dolls as $doll) {
 					$imgsrc = $doll->name . "/pic/pic_" . $doll->name . "_n";
 					$dollname = getDollName($doll);
+					
+					$buff = '';
+					foreach($doll->effect->gridEffect as $key => $eff) {
+						switch($key) {
+							case "pow": $buff .= '1'; break;
+							case "rate": $buff .= '2'; break;
+							case "dodge": $buff .= '3'; break;
+							case "hit": $buff .= '4'; break;
+							case "cooldown": $buff .= '5'; break;
+							case "crit": $buff .= '6'; break;
+							case "armor": $buff .= '7'; break;
+						}
+					}
+					
 					if($doll->id >= 1000 && $doll->id <= 2000)
 						$doll->rank = 1;
 					?>
-				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-id='<?=$doll->rank?>' data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=getDollName($doll)?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>'>
+				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-id='<?=$doll->rank?>' data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=getDollName($doll)?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>' data-buff='<?=$buff?>'>
 					<i class="rankbar"></i>
 					<div class="starrank">
 						<img src="img/type/<?=strtoupper($doll->type)?><?=$doll->rank?>.png" class="typeicon">
@@ -95,7 +118,7 @@
 			}
 		});
 		
-		$('input:checkbox[name="rank"],input:checkbox[name="type"]').on('click', function() {
+		$('input:checkbox[name="rank"],input:checkbox[name="type"],input:checkbox[name="buff"]').on('click', function() {
 			apply_filter();
 			$(".portrait:visible").lazy({
 				effect: 'fadeIn',
@@ -112,10 +135,12 @@
 		function apply_filter() {
 			var rankcnt = 0;
 			var typecnt = 0;
+			var buffcnt = 0;
 			var rank = [];
 			var type = [];
 			var rankselector = '';
 			var typeselector = '';
+			var buffselector = '';
 			for(var i = 1 ; i<= 5 ; i++) {
 				if($("#rank" + i + "_btn").prop("checked") === false) {
 					rankselector += ",[data-rank="+i+"]";
@@ -123,30 +148,47 @@
 			}
 			if($("#type_ar_btn").prop("checked") === false) {
 				typeselector += ",[data-type=ar]";
-
 			} else typecnt++;
 			if($("#type_rf_btn").prop("checked") === false) {
 				typeselector += ",[data-type=rf]";
-
 			} else typecnt++;
 			if($("#type_hg_btn").prop("checked") === false) {
 				typeselector += ",[data-type=hg]";
-
 			} else typecnt++;
 			if($("#type_mg_btn").prop("checked") === false) {
 				typeselector += ",[data-type=mg]";
-
 			} else typecnt++;
 			if($("#type_sg_btn").prop("checked") === false) {
 				typeselector += ",[data-type=sg]";
-
 			} else typecnt++;
 			if($("#type_smg_btn").prop("checked") === false) {
 				typeselector += ",[data-type=smg]";
-
 			} else typecnt++;
 			
-			if((rankcnt + typecnt) !== 0) {
+			if($("#buff_pow").prop("checked") === false) {
+				buffselector += ',[data-buff*="1"]';
+			} else buffcnt++;
+			if($("#buff_rate").prop("checked") === false) {
+				buffselector += ',[data-buff*="2"]';
+			} else buffcnt++;
+			if($("#buff_dodge").prop("checked") === false) {
+				buffselector += ',[data-buff*="3"]';
+			} else buffcnt++;
+			if($("#buff_hit").prop("checked") === false) {
+				buffselector += ',[data-buff*="4"]';
+			} else buffcnt++;
+			if($("#buff_cd").prop("checked") === false) {
+				buffselector += ',[data-buff*="5"]';
+			} else buffcnt++;
+			if($("#buff_crit").prop("checked") === false) {
+				buffselector += ',[data-buff*="6"]';
+			} else buffcnt++;
+			if($("#buff_armor").prop("checked") === false) {
+				buffselector += ',[data-buff*="7"]';
+			} else buffcnt++;
+			
+			
+			if((rankcnt + typecnt + buffcnt) !== 0) {
 				$("a.dollindex.item").show();
 				
 				var selector = '';
@@ -155,6 +197,9 @@
 				}
 				if(typecnt !== 0) {
 					selector += typeselector;
+				}
+				if(buffcnt !== 0) {
+					selector += buffselector;
 				}
 				selector = selector.substring(1, selector.length);
 				$(selector).hide();
