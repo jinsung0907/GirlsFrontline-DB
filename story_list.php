@@ -2,9 +2,9 @@
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
 	
-	$header_title = "소녀전선 메인스토리 | 소전DB";
-	$header_desc = "소전DB 소녀전선 메인스토리 모음 사이트입니다."; 
-	$header_keyword = "소녀전선 스토리, 소전 스토리, 소전 스토리 순서, 소녀전선 스토리 정리, 소녀전선 스토리 순서, 소녀전선 메인 스토리 순서, 소녀전선 스토리 순서, 소녀전선 스토리모음"; 
+	$header_title = L::gfl . " " . L::navigation_menu_mainstory . " | " . L::sitetitle_short;
+	$header_desc = L::title_storylist_desc; 
+	$header_keyword = L::title_storylist_keyword; 
 	require_once("header.php");
 	
 	if($lang != "ko")
