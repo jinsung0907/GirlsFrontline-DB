@@ -11,6 +11,7 @@ $starttime = microtime(true);
 		case "FN-FNC": $_GET['id'] = 70; break;
 		case "노엘": $_GET['id'] = 1001; break;
 		case "엘펠트": $_GET['id'] = 1002; break;
+		case "416": $_GET['id'] = 65; break;
 	}
 	
 	//인형데이터 불러오기
@@ -638,7 +639,7 @@ $starttime = microtime(true);
 				<?=L::database_introduce?> : <br><?=str_replace("\\n", "<br>" ,$introduce)?>
 			</div>
 			<div class="row">
-				<div class="col">
+				<div class="col-lg">
 					<div class="card card-body bg-light mt-3 p-0">
 						<table class="table">
 							<thead>
@@ -658,7 +659,7 @@ $starttime = microtime(true);
 						</table>
 					</div>
 				</div>
-				<div class="col">
+				<div class="col-lg">
 					<div class="card card-body bg-light mt-3 p-0">
 						<table id="buildtable" class="table table-striped">
 							<thead>

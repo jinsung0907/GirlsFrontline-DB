@@ -31,7 +31,7 @@
 		if($story->num == -24 || $story->num == -25 || $story->num == -26 || $story->num == -27 || $story->num == -28) continue;
 		?>
 		<div class="my-3 p-3 bg-white rounded box-shadow">
-			<h3 style="display: inline;margin-right:10px"><?=$story->name?> : <?=$story->keyword?></h3><b><i><?=$story->desc?></i></b>
+			<h3 id="<?=$story->name?>" style="display: inline;margin-right:10px"><?=$story->name?> : <?=$story->keyword?></h3><b><i><?=$story->desc?></i></b>
 			<h6 class="border-bottom border-gray pb-2 mb-0"></h6>
 			<div class="media text-muted pt-3">
 				<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
