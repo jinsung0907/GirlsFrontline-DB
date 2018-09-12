@@ -87,7 +87,7 @@
 			$colors[$i] = sprintf("%02X", $num);
 		}
 		$color = $colors[0] . $colors[1] . $colors[2];
-		return "<span style='color:#{$color}'>{$matches[2]}</span>{$matches[3]}";
+		return "<span style='color:#{$color}'>{$matches[2]}</span>";
 	}
 ?>
     <main role="main" class="container">
@@ -162,7 +162,12 @@
 					
 					//색깔코드
 					if(strpos($line->text, '<color=') !== false) {
-						$line->text = preg_replace_callback("/<color=#([0-9A-Z-a-z]{6})>(.*?)<\/color>(.*)/", "color_callback", $line->text);
+						$exp = explode("</color>", $line->text);
+						$str = '';
+						foreach($exp as $tmp) {
+							$str .= preg_replace_callback("/<color=#([0-9A-Z-a-z]{6})>(.*)/", "color_callback", $tmp);
+						}
+						$line->text = $str;
 					}
 					
 					if(isset($line->branch)) {
