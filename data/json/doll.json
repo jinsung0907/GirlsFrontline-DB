@@ -8902,9 +8902,6 @@
 	}, {
 		"id": 20001,
 		"name": "M1873Mod",
-		"krName": "콜트 리볼버",
-		"enName": "",
-		"jpName": "",
 		"rank": 5,
 		"type": "hg",
 		"illust": "Saru",
@@ -8946,9 +8943,6 @@
 	}, {
 		"id": 20002,
 		"name": "M1911Mod",
-		"krName": "M1911",
-		"enName": "",
-		"jpName": "M1911",
 		"rank": 4,
 		"type": "hg",
 		"illust": "spirtie",
@@ -8990,9 +8984,6 @@
 	}, {
 		"id": 20005,
 		"name": "M1895Mod",
-		"krName": "나강 리볼버",
-		"enName": "",
-		"jpName": "M1895",
 		"rank": 4,
 		"type": "hg",
 		"illust": "X布",
@@ -9034,9 +9025,6 @@
 	}, {
 		"id": 20039,
 		"name": "M1891Mod",
-		"krName": "모신나강",
-		"enName": "",
-		"jpName": "モシン・ナガン",
 		"rank": 5,
 		"type": "rf",
 		"illust": "防弹乳牛",
@@ -9077,9 +9065,6 @@
 	}, {
 		"id": 20044,
 		"name": "SV98Mod",
-		"krName": "SV-98",
-		"enName": "",
-		"jpName": "",
 		"rank": 4,
 		"type": "rf",
 		"illust": "幻象黑兔",
@@ -9120,9 +9105,6 @@
 	}, {
 		"id": 20051,
 		"name": "FN49Mod",
-		"krName": "FN-49",
-		"enName": "",
-		"jpName": "FF FN49",
 		"rank": 4,
 		"type": "rf",
 		"illust": "Bison仓鼠",
@@ -9163,9 +9145,6 @@
 	}, {
 		"id": 20055,
 		"name": "M4A1Mod",
-		"krName": "M4A1",
-		"enName": "",
-		"jpName": "M4A1",
 		"rank": 5,
 		"type": "ar",
 		"illust": "ZAGALA",
@@ -9207,9 +9186,6 @@
 	}, {
 		"id": 20056,
 		"name": "M4 SOPMOD IIMod",
-		"krName": "M4 SOPMODII",
-		"enName": "",
-		"jpName": "",
 		"rank": 5,
 		"type": "ar",
 		"illust": "ZAGALA",
@@ -9251,9 +9227,6 @@
 	}, {
 		"id": 20057,
 		"name": "AR15Mod",
-		"krName": "ST AR-15",
-		"enName": "",
-		"jpName": "ST AR-15",
 		"rank": 5,
 		"type": "ar",
 		"illust": "LIN+",
@@ -9295,9 +9268,6 @@
 	}, {
 		"id": 20063,
 		"name": "G3Mod",
-		"krName": "G3",
-		"enName": "",
-		"jpName": "",
 		"rank": 4,
 		"type": "ar",
 		"illust": "PHI",
@@ -9339,9 +9309,6 @@
 	}, {
 		"id": 20075,
 		"name": "M1918Mod",
-		"krName": "M1918",
-		"enName": "",
-		"jpName": "M1918",
 		"rank": 5,
 		"type": "mg",
 		"illust": "水乌龟",
@@ -9384,9 +9351,6 @@
 	}, {
 		"id": 20089,
 		"name": "BrenMKMod",
-		"krName": "브렌",
-		"enName": "",
-		"jpName": "",
 		"rank": 4,
 		"type": "mg",
 		"illust": "废人",
@@ -9429,9 +9393,6 @@
 	}, {
 		"id": 20091,
 		"name": "MP446Mod",
-		"krName": "MP-446",
-		"enName": "",
-		"jpName": "MP-446",
 		"rank": 4,
 		"type": "hg",
 		"illust": "XQ",
@@ -9472,9 +9433,6 @@
 	}, {
 		"id": 20093,
 		"name": "IDWMod",
-		"krName": "IDW",
-		"enName": "",
-		"jpName": "IDW",
 		"rank": 4,
 		"type": "smg",
 		"illust": "Ki桑",
@@ -9516,9 +9474,6 @@
 	}, {
 		"id": 20094,
 		"name": "64typeMod",
-		"krName": "64식",
-		"enName": "",
-		"jpName": "64式",
 		"rank": 4,
 		"type": "smg",
 		"illust": "小迪",
@@ -9559,9 +9514,6 @@
 	}, {
 		"id": 20103,
 		"name": "UMP45Mod",
-		"krName": "UMP45",
-		"enName": "",
-		"jpName": "",
 		"rank": 5,
 		"type": "smg",
 		"illust": "ZAGALA",

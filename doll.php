@@ -84,7 +84,7 @@ $starttime = microtime(true);
 	foreach($voices as $data) {
 		if(substr($data, 0, strlen($doll->name . "|")) === $doll->name . "|") {
 			$tmp = explode('|', $data);
-			$tmp[2] = str_replace('<>', '', $tmp[2]);
+			$tmp[2] = str_replace('<>', '<br>', $tmp[2]);
 			
 			if($tmp[1] == 'Introduce') {
 				$introduce = $tmp[2];
@@ -108,7 +108,7 @@ $starttime = microtime(true);
 		foreach($voices_fallback as $data) {
 			if(substr($data, 0, strlen($doll->name . "|")) === $doll->name . "|") {
 				$tmp = explode('|', $data);
-				$tmp[2] = str_replace('<>', '', $tmp[2]);
+				$tmp[2] = str_replace('<>', '<br>', $tmp[2]);
 				
 				if($tmp[1] == 'Introduce') {
 					$introduce = $tmp[2];
@@ -552,7 +552,15 @@ $starttime = microtime(true);
 					</div>
 					<b><?=L::database_rare?></b> : <?=gunrank_to_img($doll->rank)?><hr class="mt-1 mb-1">
 					<b><?=L::database_type?></b> : <?=guntype_to_str($doll->type)?>(<?=strtoupper($doll->type)?>)<hr class="mt-1 mb-1">
-					<b><?=L::database_voice?></b> : <?=isset($doll->voice)?$doll->voice:''?><hr class="mt-1 mb-1">
+					<div class="row">
+						<div class="col">
+							<b><?=L::database_illust?></b> : <?=isset($doll->illust)?$doll->illust:''?>
+						</div>
+						<div class="col">
+							<b><?=L::database_voice?></b> : <?=isset($doll->voice)?$doll->voice:''?>
+						</div>
+					</div>
+					<hr class="mt-1 mb-1">
 					<b><?=L::database_buildtime?></b> : <?=isset($doll->buildTime)&&$doll->buildTime!=0?gmdate("H\\" . L::hour . " i\\" . L::min, $doll->buildTime): L::database_cantbuild?><hr class="mt-1 mb-1">
 					<b><?=L::database_skin?></b> : <?=$skinstr?><hr class="mt-1 mb-1">
 					<div class="row">

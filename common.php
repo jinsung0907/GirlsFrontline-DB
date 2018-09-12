@@ -124,11 +124,11 @@ function getDollName($doll) {
 	global $lang;
 	
 	if($lang == 'ja') 
-		return isset($doll->jpName)?$doll->jpName:$doll->name;
+		return isset($doll->jpName) && $doll->jpName != ""?$doll->jpName:$doll->name;
 	else if($lang == 'en') 
-		return isset($doll->enName)?$doll->enName:$doll->name;
+		return isset($doll->enName) && $doll->enName != ""?$doll->enName:$doll->name;
 	else
-		return isset($doll->krName)?$doll->krName:$doll->name;
+		return isset($doll->krName) && $doll->krName != ""?$doll->krName:$doll->name;
 }
 
 function getEquipName($equip) {

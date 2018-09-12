@@ -30,7 +30,7 @@
 			if(!isset($doll->skill->realid)) {
 				$missing_skill .= "(" . $doll->id . ") " . $doll->name . " rskillid missing";
 				$missing_skill .= "<br>";
-			}
+			}/*
 			if(!isset($doll->skill->id)) {
 				$missing_skill .= "(" . $doll->id . ") " . $doll->name . " skillid missing";
 				$missing_skill .= "<br>";
@@ -38,7 +38,7 @@
 			if(!isset($doll->skill->dataPool)) {
 				$missing_skill .= "(" . $doll->id . ") " . $doll->name . " skilll dataPool missing";
 				$missing_skill .= "<br>";
-			}
+			}*/
 		}
 		else {
 			$missing_skill .= "(" . $doll->id . ") " . $doll->name . " skill missing";
