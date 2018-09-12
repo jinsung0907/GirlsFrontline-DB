@@ -136,6 +136,7 @@ $starttime = microtime(true);
 	
 	
 	//스킬 파싱
+	/*
 	$replace = [];
 	$num = [];
 	$skilldata = array();
@@ -175,16 +176,16 @@ $starttime = microtime(true);
 		}
 	}
 	
-	if(isset($doll->skill->dataPool->IC) && isset($doll->skill->dataPool->CD)) {
-		if(!is_array($doll->skill->dataPool->CD)) {
-			$cooldown = $doll->skill->dataPool->CD;
-			$skillcolldown = L::database_intercool . " : {$doll->skill->dataPool->IC}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool'>{$cooldown}</span>" . L::turn . "<br>";
+	if(isset($doll->skill->intercd) && isset($doll->skill->cd)) {
+		if(!is_array($doll->skill->cd)) {
+			$cooldown = $doll->skill->cd;
+			$skillcolldown = L::database_intercool . " : {$doll->skill->intercd}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool'>{$cooldown}</span>" . L::turn . "<br>";
 		}
 		else {
-			$cooldown = end($doll->skill->dataPool->CD);
-			$skillcolldown = L::database_intercool . " : {$doll->skill->dataPool->IC}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool'>{$cooldown}</span>" . L::sec . "<br>";
-			for($i = 0 ; $i <= sizeof($doll->skill->dataPool->CD)-1 ; $i++) {
-				$skilldata['cooldown'][$i] = $doll->skill->dataPool->CD[$i];
+			$cooldown = end($doll->skill->cd);
+			$skillcolldown = L::database_intercool . " : {$doll->skill->intercd}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool'>{$cooldown}</span>" . L::sec . "<br>";
+			for($i = 0 ; $i <= sizeof($doll->skill->cd)-1 ; $i++) {
+				$skilldata['cooldown'][$i] = $doll->skill->cd[$i];
 			}
 		}
 	}
@@ -258,12 +259,39 @@ $starttime = microtime(true);
 			}
 		}
 		
-		if(isset($doll->skill2->dataPool->IC) && isset($doll->skill2->dataPool->CD)) {
-			$cooldown = end($doll->skill2->dataPool->CD);
-			$mod3_skillcolldown = L::database_intercool . " : {$doll->skill2->dataPool->IC}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool_mod3'>{$cooldown}</span>" . L::turn . "<br>";
-			for($i = 0 ; $i <= sizeof($doll->skill2->dataPool->CD)-1 ; $i++) {
-				$skilldata['cooldown_mod3'][$i] = $doll->skill2->dataPool->CD[$i];
+		if(isset($doll->skill2->intercd) && isset($doll->skill2->cd)) {
+			$cooldown = end($doll->skill2->cd);
+			$mod3_skillcolldown = L::database_intercool . " : {$doll->skill2->intercd}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool_mod3'>{$cooldown}</span>" . L::turn . "<br>";
+			for($i = 0 ; $i <= sizeof($doll->skill2->cd)-1 ; $i++) {
+				$skilldata['cooldown_mod3'][$i] = $doll->skill2->cd[$i];
 			}
+		}
+	}
+	*/
+	
+	$skilldata = [];
+	$skilldata['skill']['cd'] = $doll->skill->cd;
+	if(!isset($doll->skill2))
+		$skilldata['skill2']['cd'] = $doll->skill2->cd;
+	
+	if(isset($doll->skill->intercd) && isset($doll->skill->cd)) {
+		if(!is_array($doll->skill->cd)) {
+			$cooldown = $doll->skill->cd;
+			$skillcolldown = L::database_intercool . " : {$doll->skill->intercd}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool'>{$cooldown}</span>" . L::turn . "<br>";
+		}
+		else {
+			$cooldown = end($doll->skill->cd);
+			$skillcolldown = L::database_intercool . " : {$doll->skill->intercd}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool'>{$cooldown}</span>" . L::sec . "<br>";
+			for($i = 0 ; $i <= sizeof($doll->skill->cd)-1 ; $i++) {
+				$skilldata['cooldown'][$i] = $doll->skill->cd[$i];
+			}
+		}
+	}
+	if(isset($doll->skill2->intercd) && isset($doll->skill2->cd)) {
+		$cooldown = end($doll->skill2->cd);
+		$mod3_skillcolldown = L::database_intercool . " : {$doll->skill2->intercd}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool_mod3'>{$cooldown}</span>" . L::turn . "<br>";
+		for($i = 0 ; $i <= sizeof($doll->skill2->cd)-1 ; $i++) {
+			$skilldata['cooldown_mod3'][$i] = $doll->skill2->cd[$i];
 		}
 	}
 	
@@ -568,7 +596,7 @@ $starttime = microtime(true);
 					<hr class="mt-1 mb-1">
 					<div class="row pb-0">
 						<div class="col-md-auto align-self-center">
-							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$rskill_name?>
+							<img class="skillimg" src="img/skill/<?=$doll->skill->code?>.png"> <?=$rskill_name?>
 						</div>
 						<div class="col">
 							<select id="skilllevel">
@@ -588,14 +616,14 @@ $starttime = microtime(true);
 						</div>
 					</div>
 					<hr class="mt-1 mb-1">
-				<?php if(isset($skill2)) { ?>
+				<?php if(isset($doll->skill2)) { ?>
 					<div class="row">
 						<div class="col-md-auto align-self-center">
-							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$rskill2_name?><br>(mod2)
+							<img class="skillimg" src="img/skill/<?=$doll->skill2->code?>.png"> <?=$rskill2_name?><br>(mod2)
 						</div>
 						<div class="col">
 							<span id="skill2_txt"><?=$rskill2_txt[10]?></span><br>
-							<?=isset($mod3_skillcolldown)?$mod3_skillcolldown:''?>
+							<?=isset($doll->skill2->cd) && $doll->skill2->cd[9] != 0?$mod3_skillcolldown:''?>
 						</div>
 					</div>
 					<hr class="mt-1 mb-1">
@@ -758,38 +786,6 @@ $starttime = microtime(true);
 			}
 		}
 		
-		/* 이전 skill.json값 가지고 컨트롤 하던 소스
-		$('#skilllevel').on('change', function(e) {
-			var level = $('#skilllevel').val()-1;
-			if(typeof skilldata.attr !== 'undefined') {
-				for(var i = 0 ; i<= skilldata.attr.length-1 ; i++) {
-					$("#skillattr_"+i).text(skilldata.attr[i][level]);
-				}
-				$("#skillduration").text(skilldata.duration[level]);
-				if(typeof  skilldata.duration_n !== 'undefined') 
-					$("#skillduration_n").text(skilldata.duration_n[level]);
-				$("#skillcool").text(skilldata.cooldown[level]);
-			}
-			if(typeof skilldata.attr_n !== 'undefined') {
-				for(var i = 0 ; i<= skilldata.attr_n.length-1 ; i++) {
-					$("#skillattr_n_"+i).text(skilldata.attr_n[i][level]);
-				}
-				$("#skillduration_n").text(skilldata.duration_n[level]);
-				if(typeof  skilldata.duration_n !== 'undefined') 
-					$("#skillduration_n").text(skilldata.duration_n[level]);
-				$("#skillcool_n").text(skilldata.cooldown_n[level]);
-			}
-			if(typeof skilldata.attr_mod3 !== 'undefined') {
-				for(var i = 0 ; i<= skilldata.attr_mod3.length-1 ; i++) {
-					$("#skillattr_mod3_"+i).text(skilldata.attr_mod3[i][level]);
-				}
-				$("#skillduration_mod3").text(skilldata.duration_mod3[level]);
-				if(typeof  skilldata.duration_n !== 'undefined') 
-					$("#skillduration_n_mod3").text(skilldata.duration_n_mod3[level]);
-				$("#skillcool_mod3").text(skilldata.cooldown_mod3[level]);
-			}
-		}); */
-		
 		$('#skilllevel').on('change', function(e) {
 			var level = $('#skilllevel').val();
 			$("#skill_txt").html(r_skilldata[level]);
@@ -797,17 +793,13 @@ $starttime = microtime(true);
 				$("#skill2_txt").html(r_skill2data[level]);
 			}
 			level--;
-			if(typeof skilldata.attr !== 'undefined') {
-				$("#skillcool").text(skilldata.cooldown[level]);
+			if(typeof skilldata.skill !== 'undefined') {
+				$("#skillcool").text(skilldata.skill.cd[level]);
 			}
-			if(typeof skilldata.attr_n !== 'undefined') {
-				$("#skillcool_n").text(skilldata.cooldown_n[level]);
-			}
-			if(typeof skilldata.attr_mod3 !== 'undefined') {
-				$("#skillcool_mod3").text(skilldata.cooldown_mod3[level]);
+			if(typeof skilldata.skill2 !== 'undefined') {
+				$("#skillcool_mod3").text(skilldata.skill2.cd[level]);
 			}
 		});
-		
 		
 		jspine.init(dollname, 0);
 		

@@ -11,15 +11,15 @@
 	foreach($dolls as $doll) {
 		//이름
 		if($doll->id < 20000) {
-			if(!isset($doll->jpName)) {
+			if(!isset($doll->jpName) || $doll->jpName == '') {
 				$missing_name .= "(" . $doll->id . ") " . $doll->name . " JPname missing";
 				$missing_name .= "<br>";
 			}
-			if(!isset($doll->krName)) {
+			if(!isset($doll->krName) || $doll->krName == '') {
 				$missing_name .= "(" . $doll->id . ") " . $doll->name . " KRname missing";
 				$missing_name .= "<br>";
 			}
-			if(!isset($doll->enName)) {
+			if(!isset($doll->enName) || $doll->enName == '') {
 				$missing_name .= "(" . $doll->id . ") " . $doll->name . " ENname missing";
 				$missing_name .= "<br>";
 			}
