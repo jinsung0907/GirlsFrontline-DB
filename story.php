@@ -143,32 +143,32 @@
 								$imgdir = getcharimgdir_fairy($char, $line->character_emotion[$i]);
 								echo "<img class=\"storyfairy fairy $strnum $strcount\" src='img/$imgdir.png'>";
 							}
-							
-							//선택지
-							if(strpos($line->text, '<c>') !== false) {
-								$tmp_br = explode('<c>', $line->text);
-								$tmp_brt = '';
-								for($j = 0 ; $j < sizeof($tmp_br) ; $j++) {
-									if($j == 0) 
-										$tmp_brt .= $tmp_br[$j] . '<br>';
-									else 
-										$tmp_brt .= "선택 " . $j . " : " . $tmp_br[$j] . '<br>';
-								}
-								$line->text = $tmp_brt;
-							}
-							
-							//색깔코드
-							if(strpos($line->text, '<color=') !== false) {
-								$line->text = preg_replace_callback("/<color=#([0-9A-Z-a-z]{6})>(.*?)<\/color>(.*)/", "color_callback", $line->text);
-							}
-							
-							if(isset($line->branch)) {
-								$line->text = "선택 " . $line->branch . " : " . $line->text;
-							}
 							$i++;
 						}
 						echo "</div>";
 					}
+					//선택지
+					if(strpos($line->text, '<c>') !== false) {
+						$tmp_br = explode('<c>', $line->text);
+						$tmp_brt = '';
+						for($j = 0 ; $j < sizeof($tmp_br) ; $j++) {
+							if($j == 0) 
+								$tmp_brt .= $tmp_br[$j] . '<br>';
+							else 
+								$tmp_brt .= "선택 " . $j . " : " . $tmp_br[$j] . '<br>';
+						}
+						$line->text = $tmp_brt;
+					}
+					
+					//색깔코드
+					if(strpos($line->text, '<color=') !== false) {
+						$line->text = preg_replace_callback("/<color=#([0-9A-Z-a-z]{6})>(.*?)<\/color>(.*)/", "color_callback", $line->text);
+					}
+					
+					if(isset($line->branch)) {
+						$line->text = "선택 " . $line->branch . " : " . $line->text;
+					}
+
 					if(isset($line->bgm) && strpos($line->bgm, "DJMAX") !== false) {
 						echo "<audio name='audio_bgm' controls preload='none' controlsList='nodownload'><source src='audio/bg/{$line->bgm}.mp3' type='audio/mp3'></audio>";
 					}
