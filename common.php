@@ -605,6 +605,20 @@ function getcharimgdir($str, $emo) {
 					case 9: $result = "dolls/" . $result . "_3_D"; break;
 				}
 			}
+			else if($str == "M4A1Mod") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "story_character/m4a1mod_紧张"; break;
+					case 3: $result = "story_character/m4a1mod_微笑"; break;
+					case 4: $result = "story_character/m4a1mod_悲伤"; break;
+					case 5: $result = "dolls/" . $result . "_1"; break;
+					case 6: $result = "dolls/" . $result . "_1_D"; break;
+					case 7: $result = "dolls/" . $result . "_2"; break;
+					case 8: $result = "dolls/" . $result . "_2_D"; break;
+					case 9: $result = "dolls/" . $result . "_3"; break;
+					case 10: $result = "dolls/" . $result . "_3_D"; break;
+				}
+			}
 			else if($str == "UMP9") {
 				switch($emo) {
 					case 1: $result = "dolls/" . $result . "_D"; break;

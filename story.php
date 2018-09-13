@@ -109,7 +109,7 @@
 		<div class="col-12 my-3 p-3 bg-white rounded box-shadow <?=$issecond?>">
         <h6 class="border-bottom border-gray pb-2 mb-0"><?=$fieldname?>-<?=$div[1]?> &nbsp;<b><?=$name?></b> (<?=$key+1;?>)</h6>
         <div class="text-muted pt-3">
-		<?php	foreach($file as $line) { 
+		<?php foreach($file as $line) { 
 					if(isset($line->bg)) {
 						$bg = $line->bg;
 					}
@@ -179,14 +179,14 @@
 					}
 					
 					
-				//} ?>
+		?>
 			<p class="pb-3 mb-0 small lh-125">
 				<strong class="d-block text-dark"><a class="doll_link" href="doll.php?id=<?=$line->speaker_name?>"><?=$line->speaker_name?></a></strong>
 				<?=nl2br($line->text)?>
 				<br>
 				<br>
 			</p>
-			<?php } ?>
+		<?php } ?>
         </div>
       </div>
 	  <?php } ?>

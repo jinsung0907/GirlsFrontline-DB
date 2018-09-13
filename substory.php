@@ -69,10 +69,10 @@
 	<div class="col-12 my-3 p-3 bg-white rounded box-shadow">
 		<h6 class="border-bottom border-gray pb-2 mb-0"><b><?=$title?></b></h6>
 		<div class="text-muted pt-3">
-		<?php	foreach($file as $line) { 
-				if(isset($line->bg)) {
-					$bg = $line->bg;
-				}
+		<?php foreach($file as $line) { 
+					if(isset($line->bg)) {
+						$bg = $line->bg;
+					}
 					if($bg != "0" && $bg != "9" && $bg != "10") {
 						echo "<div class=\"storyimg\" style=\"position: relative;overflow: hidden;\">";
 						echo "<img style=\"width:100%;position:relative;z-index:\"  src='img/story_background/$bg.png'>";
@@ -92,10 +92,10 @@
 								case 1: $strcount .= 'second'; break;
 								case 2: $strcount .= 'third'; break;
 							}
-							$imgdir = getcharimgdir($char, $line->character_emotion[$i]);
 							if($i == $line->speaker) {
 								$strcount .= ' saying';
 							}
+							$imgdir = getcharimgdir($char, $line->character_emotion[$i]);
 							if($imgdir != "") {
 								echo "<img class=\"storydoll $strnum $strcount\" src='img/$imgdir.png'>";
 							} 
@@ -107,14 +107,46 @@
 						}
 						echo "</div>";
 					}
-				//} ?>
+					//선택지
+					if(strpos($line->text, '<c>') !== false) {
+						$tmp_br = explode('<c>', $line->text);
+						$tmp_brt = '';
+						for($j = 0 ; $j < sizeof($tmp_br) ; $j++) {
+							if($j == 0) 
+								$tmp_brt .= $tmp_br[$j] . '<br>';
+							else 
+								$tmp_brt .= "선택 " . $j . " : " . $tmp_br[$j] . '<br>';
+						}
+						$line->text = $tmp_brt;
+					}
+					
+					//색깔코드
+					if(strpos($line->text, '<color=') !== false) {
+						$exp = explode("</color>", $line->text);
+						$str = '';
+						foreach($exp as $tmp) {
+							$str .= preg_replace_callback("/<color=#([0-9A-Z-a-z]{6})>(.*)/", "color_callback", $tmp);
+						}
+						$line->text = $str;
+					}
+					
+					if(isset($line->branch)) {
+						$line->text = "선택 " . $line->branch . " : " . $line->text;
+					}
+
+					if(isset($line->bgm) && strpos($line->bgm, "DJMAX") !== false) {
+						echo "<audio name='audio_bgm' controls preload='none' controlsList='nodownload'><source src='audio/bg/{$line->bgm}.mp3' type='audio/mp3'></audio>";
+					}
+					
+					
+		?>
 			<p class="pb-3 mb-0 small lh-125">
 				<strong class="d-block text-dark"><a class="doll_link" href="doll.php?id=<?=$line->speaker_name?>"><?=$line->speaker_name?></a></strong>
 				<?=nl2br($line->text)?>
 				<br>
 				<br>
 			</p>
-			<?php } ?>
+		<?php } ?>
         </div>
       </div>
 	  <div class="my-3 p-3 bg-white rounded box-shadow">
