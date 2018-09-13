@@ -538,3 +538,27 @@ mission_skill_config-30100409,화력 상승치:18%//c 명중 상승치:18%//c �
 mission_skill_config-10100410,I Want You
 mission_skill_config-20100410,적이 없는 인접 위치에 꽃잎을 흩뿌려//c 두 턴 동안 해당 지점에서 전투하는 아군의 화력//c 명중//c 회피//c 장갑//c 치명률을 20% 상승시킨다.
 mission_skill_config-30100410,화력 상승치:20%//c 명중 상승치:20%//c 회피 상승치:20%//c 장갑 상승치:20%//c 치명률 상승치:20%
+mission_skill_config-10900001,헬리포트 증원
+mission_skill_config-20900001,지원범위 내의 헬리포트의 증원병력 강화
+mission_skill_config-30900001,1
+mission_skill_config-10900002,방공포
+mission_skill_config-20900002,대공관제
+mission_skill_config-30900002,1
+mission_skill_config-10900003,오염원
+mission_skill_config-20900003,피해 받음
+mission_skill_config-30900003,1
+mission_skill_config-10900004,헬리포트 증원
+mission_skill_config-20900004,지원범위 내의 헬리포트의 증원병력 강화
+mission_skill_config-30900004,1
+mission_skill_config-10900005,헬리포트 증원
+mission_skill_config-20900005,지원범위 내의 헬리포트의 증원병력 강화
+mission_skill_config-30900005,1
+mission_skill_config-10900006,방공포
+mission_skill_config-20900006,대공관제
+mission_skill_config-30900006,1
+mission_skill_config-10900007,오염원
+mission_skill_config-20900007,지원소대 즉살
+mission_skill_config-30900007,1
+mission_skill_config-10900008,헬리포트 증원
+mission_skill_config-20900008,지원범위 내의 헬리포트의 증원병력 강화
+mission_skill_config-30900008,1

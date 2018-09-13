@@ -15088,7 +15088,7 @@ battle_skill_config-311004810,쿨타임:8초//c사속 상승치:30%//c치명상 
 battle_skill_config-411004810,
 battle_skill_config-111004901,민첩사격
 battle_skill_config-211004901,자신의 사속을 27%//c 명중을 27% 상승시킨다. 지속시간 3초.
-battle_skill_config-311004901,쿨타임:10秒//c사속 상승치:27%//c명중 상승치:27%//c지속시간:3초
+battle_skill_config-311004901,쿨타임:10초//c사속 상승치:27%//c명중 상승치:27%//c지속시간:3초
 battle_skill_config-411004901,
 battle_skill_config-111004902,민첩사격
 battle_skill_config-211004902,자신의 사속을 29%//c 명중을 29% 상승시킨다. 지속시간 3.3초.
@@ -15532,7 +15532,7 @@ battle_skill_config-350002306,초당 파쇄효과:16%//c지속시간:5.2초
 battle_skill_config-450002306,
 battle_skill_config-150002307,관통 충격파
 battle_skill_config-250002307,유탄 한발마다 40%의 확률로 초당 17%의 파쇄효과를 가진다. 지속시간 5.4초
-battle_skill_config-350002307,초당 파쇄효과:17%//c지속시간:5.4秒
+battle_skill_config-350002307,초당 파쇄효과:17%//c지속시간:5.4초
 battle_skill_config-450002307,
 battle_skill_config-150002308,관통 충격파
 battle_skill_config-250002308,유탄 한발마다 40%의 확률로 초당 18%의 파쇄효과를 가진다. 지속시간 5.6초
@@ -15762,7 +15762,7 @@ battle_skill_config-140411701,大招后触发爆炸
 battle_skill_config-240411701,
 battle_skill_config-340411701,
 battle_skill_config-440411701,
-battle_skill_config-140411801,黑色方尖碑
+battle_skill_config-140411801,오벨리스크
 battle_skill_config-240411801,
 battle_skill_config-340411801,
 battle_skill_config-440411801,
@@ -15798,19 +15798,19 @@ battle_skill_config-140412601,黑色boss辅助[p3]
 battle_skill_config-240412601,
 battle_skill_config-340412601,
 battle_skill_config-440412601,
-battle_skill_config-140412701,黑色方尖碑[秃洞]
+battle_skill_config-140412701,오벨리스크[秃洞]
 battle_skill_config-240412701,
 battle_skill_config-340412701,
 battle_skill_config-440412701,
-battle_skill_config-140412801,黑色方尖碑[单黑子]
+battle_skill_config-140412801,오벨리스크[单黑子]
 battle_skill_config-240412801,
 battle_skill_config-340412801,
 battle_skill_config-440412801,
-battle_skill_config-140412901,黑色方尖碑[140]
+battle_skill_config-140412901,오벨리스크[140]
 battle_skill_config-240412901,
 battle_skill_config-340412901,
 battle_skill_config-440412901,
-battle_skill_config-140413001,黑色方尖碑[单黑子100]
+battle_skill_config-140413001,오벨리스크[单黑子100]
 battle_skill_config-240413001,
 battle_skill_config-340413001,
 battle_skill_config-440413001,
@@ -15846,7 +15846,7 @@ battle_skill_config-140420501,P1阶段切换2
 battle_skill_config-240420501,
 battle_skill_config-340420501,
 battle_skill_config-440420501,
-battle_skill_config-140420601,纯白之夜
+battle_skill_config-140420601,백야
 battle_skill_config-240420601,
 battle_skill_config-340420601,
 battle_skill_config-440420601,
@@ -15898,7 +15898,7 @@ battle_skill_config-140421801,白tracing标记判定停止
 battle_skill_config-240421801,
 battle_skill_config-340421801,
 battle_skill_config-440421801,
-battle_skill_config-140421901,纯白之夜
+battle_skill_config-140421901,백야
 battle_skill_config-240421901,
 battle_skill_config-340421901,
 battle_skill_config-440421901,
@@ -15938,7 +15938,7 @@ battle_skill_config-140422801,白色boss辅助[p3]
 battle_skill_config-240422801,
 battle_skill_config-340422801,
 battle_skill_config-440422801,
-battle_skill_config-140422901,纯白之夜[秃洞]
+battle_skill_config-140422901,백야[秃洞]
 battle_skill_config-240422901,
 battle_skill_config-340422901,
 battle_skill_config-440422901,
@@ -15950,7 +15950,7 @@ battle_skill_config-140423101,大招后立场值增加[普通]
 battle_skill_config-240423101,
 battle_skill_config-340423101,
 battle_skill_config-440423101,
-battle_skill_config-140423201,纯白之夜[140]
+battle_skill_config-140423201,백야[140]
 battle_skill_config-240423201,
 battle_skill_config-340423201,
 battle_skill_config-440423201,
@@ -16083,7 +16083,7 @@ battle_skill_config-240433301,
 battle_skill_config-340433301,
 battle_skill_config-440433301,
 battle_skill_config-140500101,미사일 시설
-battle_skill_config-240500101,유탄을 발사하여 반경 1.5범위 내의 적에게 4배의 피해를 준다.
+battle_skill_config-240500101,미사일을 발사하여 반경 1.5범위 내의 적에게 55점의 피해를 준다.
 battle_skill_config-340500101,쿨타임:20초//c대미지 배율:4배
 battle_skill_config-440500101,
 battle_skill_config-140500201,미사일 시설cutin
@@ -16095,7 +16095,7 @@ battle_skill_config-240500301,유탄을 발사하여 반경 1.5범위 내의 적
 battle_skill_config-340500301,쿨타임:20초//c대미지 배율:4배
 battle_skill_config-440500301,
 battle_skill_config-140500401,미사일 시설
-battle_skill_config-240500401,유탄을 발사하여 반경 1.5범위 내의 적에게 4배의 피해를 준다.
+battle_skill_config-240500401,미사일을 발사하여 반경 1.5범위 내의 적에게 3점의 피해를 준다.
 battle_skill_config-340500401,쿨타임:20초//c대미지 배율:4배
 battle_skill_config-440500401,
 battle_skill_config-180130101,얼어붙는 용기
@@ -17355,43 +17355,43 @@ battle_skill_config-212000610,
 battle_skill_config-312000610,
 battle_skill_config-412000610,
 battle_skill_config-112000701,겁없는 녀석들
-battle_skill_config-212000701,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함), 버프칸에 있는 아군인형의 해당 능력치를 3%/3%/15%/15%/6% 상승시킨다;//n액티브:발동 후 6번 공격은 40%의 확률로 자신의 화력을 15% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
+battle_skill_config-212000701,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함)//c 버프칸에 있는 아군인형의 해당 능력치를 3%/3%/15%/15%/6% 상승시킨다;//n액티브:발동 후 6번 공격은 40%의 확률로 자신의 화력을 15% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
 battle_skill_config-312000701,쿨타임:15초//c자신화력 상승치:15%//c발동확률:40%//c연동화력 상승치:3%//c연동사속 상승치:3%//c연동명중 상승치:15%//c연동회피 상승치:15%//c연동치명타율 상승치:6%
 battle_skill_config-412000701,
 battle_skill_config-112000702,겁없는 녀석들
-battle_skill_config-212000702,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함), 버프칸에 있는 아군인형의 해당 능력치를 3%/3%/17%/17%/7% 상승시킨다;//n액티브:발동 후 6번 공격은 47%의 확률로 자신의 화력을 17% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
+battle_skill_config-212000702,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함)//c 버프칸에 있는 아군인형의 해당 능력치를 3%/3%/17%/17%/7% 상승시킨다;//n액티브:발동 후 6번 공격은 47%의 확률로 자신의 화력을 17% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
 battle_skill_config-312000702,쿨타임:14.7초//c자신화력 상승치:17%//c발동확률:47%//c연동화력 상승치:3%//c연동사속 상승치:3%//c연동명중 상승치:17%//c연동회피 상승치:17%//c연동치명타율 상승치:7%
 battle_skill_config-412000702,
 battle_skill_config-112000703,겁없는 녀석들
-battle_skill_config-212000703,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함), 버프칸에 있는 아군인형의 해당 능력치를 4%/4%/18%/18%/7% 상승시킨다;//n액티브:발동 후 6번 공격은 53%의 확률로 자신의 화력을 18% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
+battle_skill_config-212000703,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함)//c 버프칸에 있는 아군인형의 해당 능력치를 4%/4%/18%/18%/7% 상승시킨다;//n액티브:발동 후 6번 공격은 53%의 확률로 자신의 화력을 18% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
 battle_skill_config-312000703,쿨타임:14.3초//c자신화력 상승치:18%//c발동확률:53%//c연동화력 상승치:4%//c연동사속 상승치:4%//c연동명중 상승치:18%//c연동회피 상승치:18%//c연동치명타율 상승치:7%
 battle_skill_config-412000703,
 battle_skill_config-112000704,겁없는 녀석들
-battle_skill_config-212000704,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함), 버프칸에 있는 아군인형의 해당 능력치를 4%/4%/20%/20%/8% 상승시킨다;//n액티브:발동 후 6번 공격은 60%의 확률로 자신의 화력을 20% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
+battle_skill_config-212000704,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함)//c 버프칸에 있는 아군인형의 해당 능력치를 4%/4%/20%/20%/8% 상승시킨다;//n액티브:발동 후 6번 공격은 60%의 확률로 자신의 화력을 20% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
 battle_skill_config-312000704,쿨타임:14초//c자신화력 상승치:20%//c발동확률:60%//c연동화력 상승치:4%//c연동사속 상승치:4%//c연동명중 상승치:20%//c연동회피 상승치:20%//c연동치명타율 상승치:8%
 battle_skill_config-412000704,
 battle_skill_config-112000705,겁없는 녀석들
-battle_skill_config-212000705,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함), 버프칸에 있는 아군인형의 해당 능력치를 5%/5%/22%/22%/9% 상승시킨다;//n액티브:발동 후 6번 공격은 67%의 확률로 자신의 화력을 22% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
+battle_skill_config-212000705,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함)//c 버프칸에 있는 아군인형의 해당 능력치를 5%/5%/22%/22%/9% 상승시킨다;//n액티브:발동 후 6번 공격은 67%의 확률로 자신의 화력을 22% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
 battle_skill_config-312000705,쿨타임:13.7초//c자신화력 상승치:22%//c발동확률:67%//c연동화력 상승치:5%//c연동사속 상승치:5%//c연동명중 상승치:22%//c연동회피 상승치:22%//c연동치명타율 상승치:9%
 battle_skill_config-412000705,
 battle_skill_config-112000706,겁없는 녀석들
-battle_skill_config-212000706,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함), 버프칸에 있는 아군인형의 해당 능력치를 5%/5%/23%/23%/9% 상승시킨다;//n액티브:발동 후 6번 공격은 73%의 확률로 자신의 화력을 23% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
+battle_skill_config-212000706,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함)//c 버프칸에 있는 아군인형의 해당 능력치를 5%/5%/23%/23%/9% 상승시킨다;//n액티브:발동 후 6번 공격은 73%의 확률로 자신의 화력을 23% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
 battle_skill_config-312000706,쿨타임:13.3초//c자신화력 상승치:23%//c발동확률:73%//c연동화력 상승치:5%//c연동사속 상승치:5%//c연동명중 상승치:23%//c연동회피 상승치:23%//c연동치명타율 상승치:9%
 battle_skill_config-412000706,
 battle_skill_config-112000707,겁없는 녀석들
-battle_skill_config-212000707,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함), 버프칸에 있는 아군인형의 해당 능력치를 5%/5%/25%/25%/10% 상승시킨다;//n액티브:발동 후 6번 공격은 80%의 확률로 자신의 화력을 25% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
+battle_skill_config-212000707,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함)//c 버프칸에 있는 아군인형의 해당 능력치를 5%/5%/25%/25%/10% 상승시킨다;//n액티브:발동 후 6번 공격은 80%의 확률로 자신의 화력을 25% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
 battle_skill_config-312000707,쿨타임:13초//c자신화력 상승치:25%//c발동확률:80%//c연동화력 상승치:5%//c연동사속 상승치:5%//c연동명중 상승치:25%//c연동회피 상승치:25%//c연동치명타율 상승치:10%
 battle_skill_config-412000707,
 battle_skill_config-112000708,겁없는 녀석들
-battle_skill_config-212000708,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함), 버프칸에 있는 아군인형의 해당 능력치를 6%/6%/27%/27%/11% 상승시킨다;//n액티브:발동 후 6번 공격은 87%의 확률로 자신의 화력을 27% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
+battle_skill_config-212000708,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함)//c 버프칸에 있는 아군인형의 해당 능력치를 6%/6%/27%/27%/11% 상승시킨다;//n액티브:발동 후 6번 공격은 87%의 확률로 자신의 화력을 27% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
 battle_skill_config-312000708,쿨타임:12.7초//c자신화력 상승치:27%//c발동확률:87%//c연동화력 상승치:6%//c연동사속 상승치:6%//c연동명중 상승치:27%//c연동회피 상승치:27%//c연동치명타율 상승치:11%
 battle_skill_config-412000708,
 battle_skill_config-112000709,겁없는 녀석들
-battle_skill_config-212000709,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함), 버프칸에 있는 아군인형의 해당 능력치를 6%/6%/28%/28%/11% 상승시킨다;//n액티브:발동 후 6번 공격은 93%의 확률로 자신의 화력을 28% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
+battle_skill_config-212000709,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함)//c 버프칸에 있는 아군인형의 해당 능력치를 6%/6%/28%/28%/11% 상승시킨다;//n액티브:발동 후 6번 공격은 93%의 확률로 자신의 화력을 28% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
 battle_skill_config-312000709,쿨타임:12.3초//c자신화력 상승치:28%//c발동확률:93%//c연동화력 상승치:6%//c연동사속 상승치:6%//c연동명중 상승치:28%//c연동회피 상승치:28%//c연동치명타율 상승치:11%
 battle_skill_config-412000709,
 battle_skill_config-112000710,겁없는 녀석들
-battle_skill_config-212000710,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함), 버프칸에 있는 아군인형의 해당 능력치를 6%/6%/30%/30%/12% 상승시킨다;//n액티브:발동 후 6번 공격은 100%의 확률로 자신의 화력을 30% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
+battle_skill_config-212000710,패시브:자신이 화력/사속/회피/명중/치명타율 버프를 받을 때(요정특성 포함)//c 버프칸에 있는 아군인형의 해당 능력치를 6%/6%/30%/30%/12% 상승시킨다;//n액티브:발동 후 6번 공격은 100%의 확률로 자신의 화력을 30% 상승시킨다.（6회 중첩가능）//c 지속시간 3초.
 battle_skill_config-312000710,쿨타임:12초//c자신화력 상승치:30%//c발동확률:100%//c연동화력 상승치:6%//c연동사속 상승치:6%//c연동명중 상승치:30%//c연동회피 상승치:30%//c연동치명타율 상승치:12%
 battle_skill_config-412000710,
 battle_skill_config-112000801,蟒蛇连射
@@ -17539,43 +17539,43 @@ battle_skill_config-212010501,
 battle_skill_config-312010501,
 battle_skill_config-412010501,
 battle_skill_config-112010601,거짓신의 계시
-battle_skill_config-212010601,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 2.5배의 피해를 준다. 마지막 1발은 적을 부상 입혀//c 3초간 화력을 10% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 5%씩 상승한다//c 최대 3회 중첩가능.
+battle_skill_config-212010601,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 2.5배의 피해를 준다. 마지막 한발은 두배의 피해를 주고 적을 부상 입혀//c 3초간 화력을 10% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 5%씩 상승한다//c 최대 3회 중첩가능.
 battle_skill_config-312010601,대미지 배율:2.5배//c부상 화력 감소치:10%//c부상 지속시간:3초//c스킬피해 상승치:5%
 battle_skill_config-412010601,
 battle_skill_config-112010602,거짓신의 계시
-battle_skill_config-212010602,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 2.69배의 피해를 준다. 마지막 1발은 적을 부상 입혀//c 3.2초간 화력을 11% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 6%씩 상승한다//c 최대 3회 중첩가능.
+battle_skill_config-212010602,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 2.69배의 피해를 준다. 마지막 한발은 두배의 피해를 주고 적을 부상 입혀//c 3.2초간 화력을 11% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 6%씩 상승한다//c 최대 3회 중첩가능.
 battle_skill_config-312010602,대미지 배율:2.69배//c부상 화력 감소치:11%//c부상 지속시간:3.2초//c스킬피해 상승치:6%
 battle_skill_config-412010602,
 battle_skill_config-112010603,거짓신의 계시
-battle_skill_config-212010603,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 2.88배의 피해를 준다. 마지막 1발은 적을 부상 입혀//c 3.4초간 화력을 12% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 6%씩 상승한다//c 최대 3회 중첩가능.
+battle_skill_config-212010603,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 2.88배의 피해를 준다. 마지막 한발은 두배의 피해를 주고 적을 부상 입혀//c 3.4초간 화력을 12% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 6%씩 상승한다//c 최대 3회 중첩가능.
 battle_skill_config-312010603,대미지 배율:2.88배//c부상 화력 감소치:12%//c부상 지속시간:3.4초//c스킬피해 상승치:6%
 battle_skill_config-412010603,
 battle_skill_config-112010604,거짓신의 계시
-battle_skill_config-212010604,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 3.07배의 피해를 준다. 마지막 1발은 적을 부상 입혀//c 3.7초간 화력을 13% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 7%씩 상승한다//c 최대 3회 중첩가능.
+battle_skill_config-212010604,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 3.07배의 피해를 준다. 마지막 한발은 두배의 피해를 주고 적을 부상 입혀//c 3.7초간 화력을 13% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 7%씩 상승한다//c 최대 3회 중첩가능.
 battle_skill_config-312010604,대미지 배율:3.07배//c부상 화력 감소치:13%//c부상 지속시간:3.7초//c스킬피해 상승치:7%
 battle_skill_config-412010604,
 battle_skill_config-112010605,거짓신의 계시
-battle_skill_config-212010605,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 3.26배의 피해를 준다. 마지막 1발은 적을 부상 입혀//c 3.9초간 화력을 14% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 7%씩 상승한다//c 최대 3회 중첩가능.
+battle_skill_config-212010605,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 3.26배의 피해를 준다. 마지막 한발은 두배의 피해를 주고 적을 부상 입혀//c 3.9초간 화력을 14% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 7%씩 상승한다//c 최대 3회 중첩가능.
 battle_skill_config-312010605,대미지 배율:3.26배//c부상 화력 감소치:14%//c부상 지속시간:3.9초//c스킬피해 상승치:7%
 battle_skill_config-412010605,
 battle_skill_config-112010606,거짓신의 계시
-battle_skill_config-212010606,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 3.44배의 피해를 준다. 마지막 1발은 적을 부상 입혀//c 4.1초간 화력을 16% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 8%씩 상승한다//c 최대 3회 중첩가능.
+battle_skill_config-212010606,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 3.44배의 피해를 준다. 마지막 한발은 두배의 피해를 주고 적을 부상 입혀//c 4.1초간 화력을 16% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 8%씩 상승한다//c 최대 3회 중첩가능.
 battle_skill_config-312010606,대미지 배율:3.44배//c부상 화력 감소치:16%//c부상 지속시간:4.1초//c스킬피해 상승치:8%
 battle_skill_config-412010606,
 battle_skill_config-112010607,거짓신의 계시
-battle_skill_config-212010607,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 3.63배의 피해를 준다. 마지막 1발은 적을 부상 입혀//c 4.3초간 화력을 17% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 8%씩 상승한다//c 최대 3회 중첩가능.
+battle_skill_config-212010607,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 3.63배의 피해를 준다. 마지막 한발은 두배의 피해를 주고 적을 부상 입혀//c 4.3초간 화력을 17% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 8%씩 상승한다//c 최대 3회 중첩가능.
 battle_skill_config-312010607,대미지 배율:3.63배//c부상 화력 감소치:17%//c부상 지속시간:4.3초//c스킬피해 상승치:8%
 battle_skill_config-412010607,
 battle_skill_config-112010608,거짓신의 계시
-battle_skill_config-212010608,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 3.82배의 피해를 준다. 마지막 1발은 적을 부상 입혀//c 4.6초간 화력을 18% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 9%씩 상승한다//c 최대 3회 중첩가능.
+battle_skill_config-212010608,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 3.82배의 피해를 준다. 마지막 한발은 두배의 피해를 주고 적을 부상 입혀//c 4.6초간 화력을 18% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 9%씩 상승한다//c 최대 3회 중첩가능.
 battle_skill_config-312010608,대미지 배율:3.82배//c부상 화력 감소치:18%//c부상 지속시간:4.6초//c스킬피해 상승치:9%
 battle_skill_config-412010608,
 battle_skill_config-112010609,거짓신의 계시
-battle_skill_config-212010609,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 4.01배의 피해를 준다. 마지막 1발은 적을 부상 입혀//c 4.8초간 화력을 19% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 9%씩 상승한다//c 최대 3회 중첩가능.
+battle_skill_config-212010609,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 4.01배의 피해를 준다. 마지막 한발은 두배의 피해를 주고 적을 부상 입혀//c 4.8초간 화력을 19% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 9%씩 상승한다//c 최대 3회 중첩가능.
 battle_skill_config-312010609,대미지 배율:4.01배//c부상 화력 감소치:19%//c부상 지속시간:4.8초//c스킬피해 상승치:9%
 battle_skill_config-412010609,
 battle_skill_config-112010610,거짓신의 계시
-battle_skill_config-212010610,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 4.2배의 피해를 준다. 마지막 1발은 적을 부상 입혀//c 5초간 화력을 20% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 10%씩 상승한다//c 최대 3회 중첩가능.
+battle_skill_config-212010610,매번 전투마다 특수탄환을 3발 소지하며//c 스킬 사용 시 1발씩 소모해//c 1초간 조준후 4.2배의 피해를 준다. 마지막 한발은 두배의 피해를 주고 적을 부상 입혀//c 5초간 화력을 20% 감소시킨다. 전역에서 승리할 때마다//c 스킬의 피해가 10%씩 상승한다//c 최대 3회 중첩가능.
 battle_skill_config-312010610,대미지 배율:4.2배//c부상 화력 감소치:20%//c부상 지속시간:5초//c스킬피해 상승치:10%
 battle_skill_config-412010610,
 battle_skill_config-112010701,巴雷特射击0
@@ -17770,7 +17770,7 @@ battle_skill_config-120041701,M4SOPMODII夏活-伤害
 battle_skill_config-220041701,崩坏联动全部伤害增幅20%
 battle_skill_config-320041701,
 battle_skill_config-420041701,
-battle_skill_config-120041801,AK74U夏活-伤害
+battle_skill_config-120041801,AK74U夏活-回避
 battle_skill_config-220041801,崩坏联动全部伤害增幅20%
 battle_skill_config-320041801,
 battle_skill_config-420041801,
@@ -17814,3 +17814,115 @@ battle_skill_config-120042801,M16A1夏活-回避
 battle_skill_config-220042801,崩坏联动全部伤害增幅20%
 battle_skill_config-320042801,
 battle_skill_config-420042801,
+battle_skill_config-120042901,M870P夏活-护甲
+battle_skill_config-220042901,崩坏联动全部伤害增幅20%
+battle_skill_config-320042901,
+battle_skill_config-420042901,
+battle_skill_config-120043001,M82A1夏活-伤害
+battle_skill_config-220043001,崩坏联动全部伤害增幅20%
+battle_skill_config-320043001,
+battle_skill_config-420043001,
+battle_skill_config-111005101,퇴로차단
+battle_skill_config-211005101,적군 전체 회피를 36% 감소시킨다. 지속시간 5초.
+battle_skill_config-311005101,쿨타임:15초//c화력 감소치:36%//c지속시간:5초
+battle_skill_config-411005101,
+battle_skill_config-111005102,퇴로차단
+battle_skill_config-211005102,적군 전체 회피를 37% 감소시킨다. 지속시간 5.3초.
+battle_skill_config-311005102,쿨타임:14.7초//c화력 감소치:37%//c지속시간:5.3초
+battle_skill_config-411005102,
+battle_skill_config-111005103,퇴로차단
+battle_skill_config-211005103,적군 전체 회피를 38% 감소시킨다. 지속시간 5.7초.
+battle_skill_config-311005103,쿨타임:14.3초//c화력 감소치:38%//c지속시간:5.7초
+battle_skill_config-411005103,
+battle_skill_config-111005104,퇴로차단
+battle_skill_config-211005104,적군 전체 회피를 39% 감소시킨다. 지속시간 6초.
+battle_skill_config-311005104,쿨타임:14초//c화력 감소치:39%//c지속시간:6초
+battle_skill_config-411005104,
+battle_skill_config-111005105,퇴로차단
+battle_skill_config-211005105,적군 전체 회피를 40% 감소시킨다. 지속시간 6.3초.
+battle_skill_config-311005105,쿨타임:13.7초//c화력 감소치:40%//c지속시간:6.3초
+battle_skill_config-411005105,
+battle_skill_config-111005106,퇴로차단
+battle_skill_config-211005106,적군 전체 회피를 42% 감소시킨다. 지속시간 6.7초.
+battle_skill_config-311005106,쿨타임:13.3초//c화력 감소치:42%//c지속시간:6.7초
+battle_skill_config-411005106,
+battle_skill_config-111005107,퇴로차단
+battle_skill_config-211005107,적군 전체 회피를 43% 감소시킨다. 지속시간 7초.
+battle_skill_config-311005107,쿨타임:13초//c화력 감소치:43%//c지속시간:7초
+battle_skill_config-411005107,
+battle_skill_config-111005108,퇴로차단
+battle_skill_config-211005108,적군 전체 회피를 44% 감소시킨다. 지속시간 7.3초.
+battle_skill_config-311005108,쿨타임:12.7초//c화력 감소치:44%//c지속시간:7.3초
+battle_skill_config-411005108,
+battle_skill_config-111005109,퇴로차단
+battle_skill_config-211005109,적군 전체 회피를 45% 감소시킨다. 지속시간 7.7초.
+battle_skill_config-311005109,쿨타임:12.3초//c화력 감소치:45%//c지속시간:7.7초
+battle_skill_config-411005109,
+battle_skill_config-111005110,퇴로차단
+battle_skill_config-211005110,적군 전체 회피를 46% 감소시킨다. 지속시간 8초.
+battle_skill_config-311005110,쿨타임:12초//c화력 감소치:46%//c지속시간:8초
+battle_skill_config-411005110,
+battle_skill_config-190015501,늦여름 폭죽
+battle_skill_config-290015501,이 하늘과 미래를 붉게 물들이자! 다음 전투 중 제대 전원의 명중이 35% 상승합니다. 지속시간 10초.
+battle_skill_config-390015501,꽃피는 꿈//c 명중 상승치:35%
+battle_skill_config-490015501,
+battle_skill_config-190015502,늦여름 폭죽
+battle_skill_config-290015502,이 하늘과 미래를 붉게 물들이자! 다음 전투 중 제대 전원의 명중이 40% 상승합니다. 지속시간 10초.
+battle_skill_config-390015502,꽃피는 꿈//c 명중 상승치:40%
+battle_skill_config-490015502,
+battle_skill_config-190015503,늦여름 폭죽
+battle_skill_config-290015503,이 하늘과 미래를 붉게 물들이자! 다음 전투 중 제대 전원의 명중이 45% 상승합니다. 지속시간 10초.
+battle_skill_config-390015503,꽃피는 꿈//c 명중 상승치:45%
+battle_skill_config-490015503,
+battle_skill_config-190015504,늦여름 폭죽
+battle_skill_config-290015504,이 하늘과 미래를 붉게 물들이자! 다음 전투 중 제대 전원의 명중이 50% 상승합니다. 지속시간 10초.
+battle_skill_config-390015504,꽃피는 꿈//c 명중 상승치:50%
+battle_skill_config-490015504,
+battle_skill_config-190015505,늦여름 폭죽
+battle_skill_config-290015505,이 하늘과 미래를 붉게 물들이자! 다음 전투 중 제대 전원의 명중이 55% 상승합니다. 지속시간 10초.
+battle_skill_config-390015505,꽃피는 꿈//c 명중 상승치:55%
+battle_skill_config-490015505,
+battle_skill_config-190015506,늦여름 폭죽
+battle_skill_config-290015506,이 하늘과 미래를 붉게 물들이자! 다음 전투 중 제대 전원의 명중이 60% 상승합니다. 지속시간 10초.
+battle_skill_config-390015506,꽃피는 꿈//c 명중 상승치:60%
+battle_skill_config-490015506,
+battle_skill_config-190015507,늦여름 폭죽
+battle_skill_config-290015507,이 하늘과 미래를 붉게 물들이자! 다음 전투 중 제대 전원의 명중이 65% 상승합니다. 지속시간 10초.
+battle_skill_config-390015507,꽃피는 꿈//c 명중 상승치:65%
+battle_skill_config-490015507,
+battle_skill_config-190015508,늦여름 폭죽
+battle_skill_config-290015508,이 하늘과 미래를 붉게 물들이자! 다음 전투 중 제대 전원의 명중이 70% 상승합니다. 지속시간 10초.
+battle_skill_config-390015508,꽃피는 꿈//c 명중 상승치:70%
+battle_skill_config-490015508,
+battle_skill_config-190015509,늦여름 폭죽
+battle_skill_config-290015509,이 하늘과 미래를 붉게 물들이자! 다음 전투 중 제대 전원의 명중이 75% 상승합니다. 지속시간 10초.
+battle_skill_config-390015509,꽃피는 꿈//c 명중 상승치:75%
+battle_skill_config-490015509,
+battle_skill_config-190015510,늦여름 폭죽
+battle_skill_config-290015510,이 하늘과 미래를 붉게 물들이자! 다음 전투 중 제대 전원의 명중이 80% 상승합니다. 지속시간 10초.
+battle_skill_config-390015510,꽃피는 꿈//c 명중 상승치:80%
+battle_skill_config-490015510,
+battle_skill_config-190015601,불꽃 연출
+battle_skill_config-290015601,
+battle_skill_config-390015601,
+battle_skill_config-490015601,
+battle_skill_config-191012001,현란계
+battle_skill_config-291012001,실제적인 전술 가치는 없지만//c 당신의 신비한 꿈을 이루어 드려요!
+battle_skill_config-391012001,
+battle_skill_config-491012001,현란계
+battle_skill_config-191012002,현란계
+battle_skill_config-291012002,실제적인 전술 가치는 없지만//c 당신의 신비한 꿈을 이루어 드려요!
+battle_skill_config-391012002,
+battle_skill_config-491012002,현란계
+battle_skill_config-191012003,현란계
+battle_skill_config-291012003,실제적인 전술 가치는 없지만//c 당신의 신비한 꿈을 이루어 드려요!
+battle_skill_config-391012003,
+battle_skill_config-491012003,현란계
+battle_skill_config-191012004,현란계
+battle_skill_config-291012004,실제적인 전술 가치는 없지만//c 당신의 신비한 꿈을 이루어 드려요!
+battle_skill_config-391012004,
+battle_skill_config-491012004,현란계
+battle_skill_config-191012005,현란계
+battle_skill_config-291012005,실제적인 전술 가치는 없지만//c 당신의 신비한 꿈을 이루어 드려요!
+battle_skill_config-391012005,
+battle_skill_config-491012005,현란계

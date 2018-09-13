@@ -1,0 +1,276 @@
+story_util-10000001,M4A1's Report: The AR Team is infiltrating Area S09 to retrieve data left behind by a human named "Lyco" under Persica's commission.
+story_util-20000001,Warm-Up Exercise
+story_util-10000002,M4A1's Report: The AR Team has located the data in Safe House 3//c but fell into a trap laid by Sangvis Ringleader "Agent".
+story_util-20000002,Dark Information
+story_util-10000003,M4A1's Report: We managed to stay until the data transfer was complete//c but were chased into a blind alley before we could evacuate from the safe house.
+story_util-20000003,Defend the Base
+story_util-10000004,M4A1's Report: We were separated as we fled the battlefield with the assistance of a local Grifon squad//c and were only reunited today...
+story_util-20000004,Final Challenge
+story_util-10000005,Today//c our commander officially reported for duty and started our first drill with my assistance.
+story_util-20000005,Drill
+story_util-10000006,We received our first mission from HQ - scouting S.F. movements in the area.
+story_util-20000006,Transport the Injured
+story_util-10000007,A few T-Dolls survived the Sangvis ambush. We escorted them back to base.
+story_util-20000007,Investigate Anomalies
+story_util-10000008,With the commander providing cover//c the surviving T-Dolls rescued their captured companion.
+story_util-20000008,Missing Party
+story_util-10000009,We found the Sangvis Ringleader lurking in the area thanks to information provided by the T-Doll. It seems to be looking for someone...
+story_util-20000009,Rescue Signal
+story_util-10000010,We defeated Scarecrow but couldn't stop it from transmitting key information to its associate.
+story_util-20000010,Operation Uproot
+story_util-10000011,The commander was invited by Miss Helian to participate in a special operation drill.
+story_util-20000011,Advanced Training I
+story_util-10000012,This drill seems to have something to do with talent scouting. Looks like Grifon has very high hopes for our commander.
+story_util-20000012,Advanced Training II
+story_util-10000013,The commander asked me about Sangvis Ferri//c but I was more concerned about Miss Helian's missing an appointment again...
+story_util-20000013,Advanced Training III
+story_util-10000014,So Helian is the very "Mixer Underdog" in Grifon gossips. This doesn't bode well... Should I help?
+story_util-20000014,Advanced Training IV
+story_util-10000015,MP5 is conveying intelligence under the commander's guidance. Her first stop was WA2000. It went well...sorta.
+story_util-20000015,Petite Courrier I
+story_util-10000016,MP5 got it touch with P7 and gave her some kind of..."education" (?) on behalf of many other T-Dolls. Whatever that means.
+story_util-20000016,Petite Courrier II
+story_util-10000017,MP5 ran into a bit of trouble but managed to get out of danger thanks to MG5's threats and G36's bribe. All was well.
+story_util-20000017,Petite Courrier III
+story_util-10000018,With the Commander's help//c MP5 successfully conveyed the intelligence to Miss Helian. But to us//c this is where our work truly begins.
+story_util-20000018,Petite Courrier IV
+story_util-10000019,We tried to look for ways to make amends//c but to no avail. And so we've been ordered to drop all investigations...
+story_util-20000019,Record Trace
+story_util-10000020,HQ keeps sending us trivial missions. Guess that means we're back to our daily routine...
+story_util-20000020,Emergency Reinforcement
+story_util-10000021,We repulsed yet another Sangvis guerilla attack. But it's all for naught if HQ doesn't order us to go on the offensive.
+story_util-20000021,Enemy Investigation
+story_util-10000022,Persica from 16LAB sent a sudden request for us to collect data under heavy crossfire. Does everyone just let her do as she pleases...?
+story_util-20000022,Data Collection
+story_util-10000023,Persica still wanted to boss us around. Thank goodness HQ finally ordered us to resume our operation. We can finally return to the battlefield!
+story_util-20000023,Additional Commission
+story_util-10000024,We defeated Executioner and rendezvoused with Elite T-Doll M4A1 of the AR Team. So she's...the one Sangvis Ferri is after?
+story_util-20000024,Termination
+story_util-10000025,The Commander has accepted Persica's request to collect parts of Sangvis units as samples for experiment.
+story_util-20000025,Field Samples I
+story_util-10000026,Persica doesn't seem keen on contacting M4A1//c even though she'd given us all sorts of aid off the record in finding her...
+story_util-20000026,Field Samples II
+story_util-10000027,M4A1 got in touch with Persica her and dispelled Persica's sense of guilt for issuing her previous request. It's nice that she no longer feels burdened.
+story_util-20000027,Field Samples III
+story_util-10000028,We've fulfilled Persica's request//c but initial analysis reveals great differences between the technologies behind Sangvis and Grifon T-Dolls. How on earth did Sangvis Ferri come to be?
+story_util-20000028,Field Samples IV
+story_util-10000029,We provided cover for Thompson's squad to reach their bases. They're gonna assist the military in suppressing rioting armored machines.
+story_util-20000029,Professional Help I
+story_util-10000030,Thompson managed to put every unruly T-Doll demurely in their place - such tact!
+story_util-20000030,Professional Help II
+story_util-10000031,The military messed up our plan by advancing the operation//c but we always have an ace up our sleeve...
+story_util-20000031,Professional Help III
+story_util-10000032,We snatched the data from the control room//c and the military could say nothing about that... Mission accomplished - small revenge also accomplished.
+story_util-20000032,Professional Help IV
+story_util-10000033,The commander's performance so far has been acknowledged by HQ. We've been ordered to press ahead and recover all lost territories in Area S09.
+story_util-20000033,Clearing a Path
+story_util-10000034,As we move//c M4A1 has been contacting other members of the AR Team//c from whom she was separated during a certain mission.
+story_util-20000034,Intercepted Intelligence
+story_util-10000035,The commander successfully recovered SOP-II from the AR Team//c but learned that AR-15//c who had stayed behind to bring up the rear//c was still missing.
+story_util-20000035,Covert Reinforcement
+story_util-10000036,The Command Post was ambushed. We managed to return just in time to defend it thanks to intelligence provided by SOP-II.
+story_util-20000036,Defensive Operation
+story_util-10000037,HQ ordered us to search for the local Sangvis Ringleader's base. It's pretty eyecatching//c all right//c but we just can't get in...
+story_util-20000037,Swift Counterattack
+story_util-10000038,Hunter's base fell into disarray all of a sudden//c then AR-15 emerged from within//c covered in injuries. What on earth happened in there...?
+story_util-20000038,No Hunting
+story_util-10000039,I applied for this mission without consulting the commander//c but the commander still decided to accept the challenge even though it was much harder than I expected. All the best!
+story_util-20000039,Data Retrieval I
+story_util-10000040,We've recovered a few military hard disks but can't read the content... I'm dying to know what's in there... 
+story_util-20000040,Data Retrieval II
+story_util-10000041,Sangvis forces came after the hard disks//c which means they're a big deal to them. They must contain some kind of important data!
+story_util-20000041,Data Retrieval III
+story_util-10000042,The commander listened to some of the recordings on the hard disks after the mission and looked a bit grave... Have S.F. still got many aces up their sleeve? 
+story_util-20000042,Data Retrieval IV
+story_util-10000043,Makarov requested the commander to assist her in infiltrating Sangvis territory to rescue the trapped Nagant M1895.
+story_util-20000043,Anonymous Rescue I
+story_util-10000044,Despite Makarov's misgivings toward her aids//c the operation has been going smoothly so far.
+story_util-20000044,Anonymous Rescue II
+story_util-10000045,We rescued Nagant M1895//c but Makarov's squad ran into danger. I hope her escape plan wouldn't be too outrageous...
+story_util-20000045,Anonymous Rescue III
+story_util-10000046,Mission accomplished. We have recovered the important item in Nagant M1895's hands. Hopefully it'll prove useful to subsequent operations//c otherwise...
+story_util-20000046,Anonymous Rescue IV
+story_util-10000047,We provided support and cover for an elite squad in regaining full control over Area S09. Sadly we still never found out who they were in the end.
+story_util-20000047,Assist the Mercenaries
+story_util-10000048,We received prior information about the local Ringleader for this operation//c and we finally got in touch with M16A1//c the last member of the AR Team. All is going well.
+story_util-20000048,Cut Off Reinforcement
+story_util-10000049,"Intruder" showed itself and taunted us//c but we had already fought our way into its territory.
+story_util-20000049,Break Through Enemy Lines
+story_util-10000050,As we were heading deeper into enemy territory//c we suddenly received an order to search for that elite squad from before. We seem to have lost track of them...
+story_util-20000050,Search for Companions
+story_util-10000051,That elusive squad seemes to be out of danger and has even left us coordinates denoting the weak spots in the Sangvis base's defense. That's how we managed to get in.
+story_util-20000051,Locate the Coordinates
+story_util-10000052,Control over Area S09 is fully restored//c and M16A1 is also back with us. But she has brought unsettling news... What exactly is Plan "Parapluie"?
+story_util-20000052,Eradicate the Disturbance
+story_util-10000053,While carrying out an investigation suggested by M4A1//c we stumbled across a cryptic audio file that seems to have come from a T-Doll's neural cloud.
+story_util-20000053,Reminiscing I
+story_util-10000054,SOP-II joined us in the investigation and confirmed the rumors about her... Innocence doesn't necessarily have to be cute//c though she's still pretty cute as she is.
+story_util-20000054,Reminiscing II
+story_util-10000055,AR-15 also helped//c then gave M4A1 a lecture. She's always so oblique...but nonetheless very reliable.
+story_util-20000055,Reminiscing III
+story_util-10000056,The AR Team listened to the combined audio recordings and decrypted them with my help. The file they ended up getting was...
+story_util-20000056,Reminiscing IV
+story_util-10000057,The commander was invited to attend a clandestine meeting to discuss measures of countering Plan "Parapluie"//c but lost contact with us five minutes ago. What on earth is going on?
+story_util-20000057,Drill Attendance
+story_util-10000058,Sangvis Ferri caught wind of the location of the base and surrounded it. Thank goodness the commander is safe//c and is now entrusted with the counterstrike by Mr. Kryuger.
+story_util-20000058,Raid Resistance
+story_util-10000059,Miss Helian found the local Sangvis command post//c but "Destroyer" somehow learned of this and managed to give us the slip.
+story_util-20000059,Counterstrike
+story_util-10000060,HQ believes AR-15 is the source of the leak and has taken her away... This is ridiculous! How could it be AR-15... This can't be right...
+story_util-20000060,Safeguard Retreat
+story_util-10000061,AR-15 has gone AWOL. Without even a single word...
+story_util-20000061,Internal Phenomenon
+story_util-10000062,AR-15 deserted us//c but we fought off Sangvis Ferri... Does that make it a victory or a loss? Though compared to the mystery we're faced with//c this is actually nothing...
+story_util-20000062,Order to Pursue
+story_util-10000063,The AR Team had previously encountered a baffling and terrifying airstrike while in pursuit of Destroyer. They had no choice but to make a hasty retreat...
+story_util-20000063,Solving the Mystery I
+story_util-10000064,We ran into Mr. Kryuger during the search for AR-15. What is he investigating...or reflecting on here?
+story_util-20000064,Solving the Mystery II
+story_util-10000065,Everyone on the AR Team is in a terrible state//c but they all know where their duties lie. The commander and I should probably try to console them a bit later on...
+story_util-20000065,Solving the Mystery III
+story_util-10000066,We were just notified by HQ that a new operation is about the commence... I hope we can prepare in time for whatever that's coming our way...
+story_util-20000066,Solving the Mystery IV
+story_util-10000067,A few days later//c Squad Negev of Grifon was ordered to search for AR-15 in Area S08//c but they've gone missing there. Their comms modules are also jammed.
+story_util-20000067,Squad Negev
+story_util-10000068,The AR Team went in to investigate//c and successfully rendezvoused with the squad member dispatched by Negev to send the distress signal. We then lanched the rescue mission.
+story_util-20000068,Double Rescue
+story_util-10000069,We fended off "Alchemist". Squad Negev got out of danger//c but we've lost track of M4A1 and SOP-II when their signal got blocked again...
+story_util-20000069,Reunion
+story_util-10000070,M16A1 found SOP-II unconscious//c but a large amount of Sangvis forces have suddenly swarmed into Area S08 so we must move out immediately!
+story_util-20000070,Prisoner
+story_util-10000071,The commander has rebuffed the Sangvis vanguard for the time being//c but Negev made a spine-chilling conjecture - AR-15 is the source of the jam...
+story_util-20000071,Resolve
+story_util-10000072,After a long and brutal fight//c all T-Dolls have withdrawn from Area S08...except...AR-15...
+story_util-20000072,Late Farewell
+story_util-10000073,AR-15 was trapped by Alchemist during the withdrawal. Meanwhile//c Grifon's troops were also in grave danger...
+story_util-20000073,Final Wish I
+story_util-10000074,SOP-II took the risk of heading onto the battlefiled and created an opening for AR-15 just in time. She also bought time for the rest of our troops to retreat safely.
+story_util-20000074,Final Wish II
+story_util-10000075,M16A1 returned with a message from AR-15. As the host of "Parapluie"//c there's no coming back for her. The only thing she can do is...
+story_util-20000075,Final Wish III
+story_util-10000076,AR-15... The commander and I have no idea what you did in the end... All we know is that...you saved all of us...
+story_util-20000076,Final Wish IV
+story_util-10000077,RO's Report: I am back at Grifon//c leading an ad-hoc squad in search for Document 36. After many days of stagnation//c we are finally making some headway.
+story_util-20000077,One-Week Teammates I
+story_util-10000078,RO's Report: This is the only human left who knows about Document 36. We must find him ASAP! Come on//c RO//c you can do it!
+story_util-20000078,One-Week Teammates II
+story_util-10000079,RO's Report: Sangvis Ferri destroyed the city with artillery//c and the status of my teammates is unclear. I don't want to lose any more friends. I have to do something...
+story_util-20000079,One-Week Teammates III
+story_util-10000080,RO's Report: Mission accomplished. I hope we will have all the fun we can tonight...as I shall be heading over to the AR Team tomorrow to take over from HER.
+story_util-20000080,One-Week Teammates IV
+story_util-10000081,Five days after what happened with AR-15//c the commander started a new job in Area S05 under Grifon jurisdiction.
+story_util-20000081,New Job
+story_util-10000082,Sangvis activities were detected along the borders of Area S05. To keep the detained AR Team safe//c the commander decided to destroy the enemy forces.
+story_util-20000082,Sabotage
+story_util-10000083,Another day of patrol duties... I wonder if Helian would accept my request...
+story_util-20000083,Daily Patrols
+story_util-10000084,The signal is blocked in the detention center. Meanwhile//c a large number of Sangvis units have suddenly appeared within Area S05...
+story_util-20000084,Ambush
+story_util-10000085,The battle to eliminate Sangvis forces rages on and everyone is too busy to do anything else. At this moment//c we receive an ecrypted communications request...
+story_util-20000085,Cat and Mouse
+story_util-10000086,We have no way of knowing the situation inside the detention center. All we can do is to prepare for the final battle. I hope the assistants sent by Persica will be of use to us...
+story_util-20000086,Reunion
+story_util-10000087,Nearly 40 days after the incident in Area S08//c RO leads M16 and SOP2 in a mission to collect the Sangvis Scout's companion.
+story_util-20000087,Retrieval I
+story_util-10000088,M16 gets in touch with the "Palette" team and searches for SOP2 under Sangvis bombardment.
+story_util-20000088,Retrieval II
+story_util-10000089,Dreamer induces SOP2 into a fit of mind-broken rage. You must rescue the crazed SOP2 as soon as possible!
+story_util-20000089,Retrieval III
+story_util-10000090,RO has destroyed the Jupiter Cannon//c but the Commander needs to break through Dreamer's blockade and save the AR Team and the members of "Palette" who are in danger.
+story_util-20000090,Retrieval IV
+story_util-10000091,M99 and her adjutant are given an order to go to a Sangvis-controlled area to recover the remaining supplies there.
+story_util-20000091,Peculiar Vendor I
+story_util-10000092,After meeting up with 56-1 and picking up the package that needs to be delivered//c the team endures starvation and sets off to assist NZ75//c who is responsible for reconnaissance.
+story_util-20000092,Peculiar Vendor II
+story_util-10000093,When the squad members transported the goods to the human settlements//c a violent conflict broke out due to a food shortage//c and they come to a shocking realization...
+story_util-20000093,Peculiar Vendor III
+story_util-10000094,A powerful Sangvis Ringleader has brought a terrible catastrophe//c but at the same time//c toughened the resolve of the comrades-in-arms. The decisive battle is at hand!
+story_util-20000094,Peculiar Vendor IV
+story_util-10000095,After AR-15 departs from Grifon//c the 404 Squad begins a secret mission: infiltrate the Sangvis Ferri base under the cover of the night to stop the operation of a jammer.
+story_util-20000095,Seven-Step Puzzle
+story_util-10000096,HK416 and G11 regroups with UMP45 and UMP9 after escaping from the traps of Sangvis Ringleader Ouroboros. They then began to search for personnel that knows of the whereabouts of the jammer.
+story_util-20000096,Corner Breaker
+story_util-10000097,As Ouroboros cut off Hunter's consciousness//c Sangvis forces are unable to continue to track the 404 Squad. At this moment//c UMP45 brings in a little aide...
+story_util-20000097,Layer Reversal
+story_util-10000098,With the battle to the death with Executioner ending in an explosion//c the doubting Ouroboros launched a comprehensive encirclement operation. How is the 404 Squad going to get away this time?...
+story_util-20000098,Side Collapse
+story_util-10000099,Dozens of days after the mind breaking of M4A1//c the AR Team is attacked by a Jupiter Cannon bombardment while coming back from a visit. They must find a way out in this world of ice and snow.
+story_util-20000099,The Wolves Gather I
+story_util-10000100,After confirming the current situation of being hungry//c cold//c and deep in enemy territory//c the AR Team continues their search for a comms station in an attempt to establish contact with Helian...
+story_util-20000100,The Wolves Gather II
+story_util-10000101,The AR Team struggles to find a resupply station in this terrible weather. Coincidentally//c they receive a new mission: search for an important T-Doll survivor.
+story_util-20000101,The Wolves Gather III
+story_util-10000102,Sangvis Ringleader Gager discovers the AR Team and places the entire area on lockdown. With the darkness of the night quickly approaching//c the AR Team begins their final breakthrough...
+story_util-20000102,The Wolves Gather IV
+story_util-10000103,That night//c UMP45 received an assignment from Helian. The task is to head towards the Sangvis Ferri Jupiter Cannon testing grounds to rescue the AR Team that has been MIA until now.
+story_util-20000103,Lighting Curfew I
+story_util-10000104,On the other side//c HK416 and G11 have also started their operation. Their task is to provide cover for 45 and 9 and then link up afterwards.
+story_util-20000104,Lighting Curfew II
+story_util-10000105,Under the cover of darkness//c the members of the 404 Squad regroups together. 45 prepares to investigate a safe house that was used by the AR Team to assess the current situation.
+story_util-20000105,Lighting Curfew III
+story_util-10000106,Another Sangvis Ringleader//c Architect//c discovered the whereabouts of the 404 Squad//c exactly as 45 had planned. Operation Breakthrough and Rescue starts now.
+story_util-20000106,Lighting Curfew IV
+story_util-10000107,The AR Team and the 404 Squad have successfully linked up//c but the crisis is still far from being resolved. Commander RO has decided to find a safe location to reestablish communications with Grifon first.
+story_util-20000107,Operation Homecoming I
+story_util-10000108,We are still very far off from the exfil Heliport. 45 suggests we eliminate Sangvis Ferri's ability to monitor the area first to ensure that we can get away safely.
+story_util-20000108,Operation Homecoming II
+story_util-10000109,Sangvis has stepped up their encirclement operations. The AR Team must seize the moment to collect enough supplies to evacuate.
+story_util-20000109,Operation Homecoming III
+story_util-10000110,RO accepts 45's plan for evacuation under worsening conditions. But...do things really always go as planned?
+story_util-20000110,Operation Homecoming IV
+story_util-10000112,M4A1's Report: ......Where...am I?
+story_util-20000112,Cross Base
+story_util-10000113,M4A1's Report: I hate responsibility//c yet it has found me once again. P08//c I will lead everyone here to safety.
+story_util-20000113,Bearing Miscalculation
+story_util-10000114,M4A1's Report: Why is Architect here of all places? ...I can't get psyched out. I must achieve victory...
+story_util-20000114,Directional Algorithm
+story_util-10000115,M4A1's Report: Ouroboros...what in the world is going on...what...is this place...can we...survive...
+story_util-20000115,Reverse Sequence
+story_util-10000116,RO635's Report: After attending a military party//c Mister Kruger has decided to pressure Miss Persica to speed up the collection of Lyco's documents.
+story_util-20000116,Report Meeting
+story_util-10000117,RO635's Report: M16A1 suggests that I should gather some intel through covert reconnaissance before we start the operation.
+story_util-20000117,The Last Supper
+story_util-10000118,RO635's Report: I've found the location of Document 7. It's time for me to contact Miss Persica.
+story_util-20000118,Acceleration
+story_util-10000119,RO635's Report: We've started downloading Document 7. I wonder what sort of danger lies in wait for us...
+story_util-20000119,Unwelcomed Guest
+story_util-10000120,RO635's Report: Dreamer has us pinned down with bombardment. The only thing we can do at this point is to wait for Document 7 to finish downloading.
+story_util-20000120,Shadow in the Sky
+story_util-10000121,RO635's Report: It's time to retreat! But//c the exfil route has been...
+story_util-20000121,Mission
+story_util-10000122,Persica's Report: RO and SOP2 have been successfully extracted. Commander//c start the search for M16A1.
+story_util-20000122,Parader I
+story_util-10000123,Persica's Report: The Commander's search is still ongoing. I must continue my work as well.
+story_util-20000123,Parader II
+story_util-10000124,Persica's Report: Let's take a look at M4A1's condition...I'll give her a try with a new memory...
+story_util-20000124,Parader III
+story_util-10000125,Persica's Report: The experiment is at its final step. That person...should be almost ready by now...
+story_util-20000125,Parader IV
+story_util-10000126,FAL's Report: The FN squad has begun to investigate the recent missing T-Doll incidents in the area.
+story_util-20000126,People in the Flask I
+story_util-10000127,FAL's Report: The FN squad has dispatched two T-Dolls//c FNC and FN49//c to bait our target//c Alchemist//c into revealing herself.
+story_util-20000127,People in the Flask II
+story_util-10000128,FAL's Report: The FN squad dispatches an elite T-Doll once again. I think the plan is coming to its final stages.
+story_util-20000128,People in the Flask III
+story_util-10000129,FAL's Report: The final step in intercepting Alchemist shall begin with me. I hope 57 and her squad will arrive on time...
+story_util-20000129,People in the Flask IV
+story_util-10000130,M16A1 has been missing for a week//c but RO and SOP2 are still fervently searching for her. However//c the Commander has left the base after receiving an urgent assignment...
+story_util-20000130,Banquet after Dark
+story_util-10000131,Things between RO and SOP2 are pretty awkward as they're still trying to get comfortable around each other. I hope the Commander that's at the banquet right now will be able to assist them in time...
+story_util-20000131,Probe
+story_util-10000132,RO reports that SOP2 is still a bit mentally unstable. Wow//c I can tell SOP2 is really restraining herself compared to previous records.
+story_util-20000132,Forum
+story_util-10000133,RO has urgently reported the incident that had just happened//c but it seems like SOP2 has a plan of her own...
+story_util-20000133,Double Search
+story_util-10000134,The Commander complained that the food at the banquet was not as good as he thought it would be//c but look at me! I had to eat take-out on base! Meanwhile//c it seems like RO just encountered another new Sangvis Ringleader. This overtime is killing me!
+story_util-20000134,Prelude
+story_util-10000135,Newly encountered Sangvis Ringleader "Judge" is hunting down RO and SOP2. It's up to them themselves to come up with an escape plan...
+story_util-20000135,Breakthrough
+story_util-10000136,RO's Report: SOP2 once again finds herself in trouble as we are pursuing Judge. I hope reinforcements from the Commander will arrive in time...
+story_util-20000136,Hawk and Hound I
+story_util-10000137,RO's Report: The Commander said that the banquet he's at right now is a precursor of a large event to come//c but the immediate focus is still on the little incidents around us right now...
+story_util-20000137,Hawk and Hound II
+story_util-10000138,RO's Report: SOP2 began opening up to me...we'll get along well//c and things will slowly turn out for the better...I'm sure of it...
+story_util-20000138,Hawk and Hound III
+story_util-10000139,RO's Report: We're right on Judge's tail! If we had some more help right now...
+story_util-20000139,Hawk and Hound IV

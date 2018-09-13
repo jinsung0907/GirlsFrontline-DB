@@ -663,7 +663,7 @@ M1918|DIALOGUEWEDDING|Would you like me to help you with the work you have on ha
 PK|DIALOGUE1|What is it?
 PK|DIALOGUE2|I'm not ignoring you.
 PK|DIALOGUE3|Take your hand off of me.
-PK|Wedding|Oh? Is that so? To be recognized by such an excellent leader, it seems that my abilities have finally come to light. Let's pave the path together from now on.
+PK|Wedding|Oh? Is that so? To be recognized by such an excellent leader, it seems that my abilities have finally come to light.<> Let's pave the path together from now on.
 PK|Introduce|Commander, I will wipe out all the enemies for you. In return, could you please not stand so close to me?
 PK|ALLHALLOWS|I will not participate in such an indulgent holiday!
 PK|DIALOGUEWEDDING|You didn't spread the word about the restaurant we went to the other day, did you? It is a secret kept among loners. Please take it to your grave...

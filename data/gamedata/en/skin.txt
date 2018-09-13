@@ -58,7 +58,7 @@ skin-30000202,
 skin-10000203,Rock 'n' Spanner
 skin-20000203,
 skin-30000203,
-skin-10000204,Grifon Uniform
+skin-10000204,Griffin Uniform
 skin-20000204,
 skin-30000204,
 skin-10000205,Gems & Fireworks
