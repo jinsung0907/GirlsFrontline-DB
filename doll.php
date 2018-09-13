@@ -35,19 +35,9 @@ $starttime = microtime(true);
 	if(empty($doll)) Error('데이터 없음(No data)<br><br>NPC, BOSS는 데이터가 존재하지 않습니다.<br> 인형의 경우는 데이터가 안맞는것으로 게시판에 알려주심됩니다.');
 	
 
-	
 	$maxlevel = 100;
 	if($doll->id > 20000) {
 		$maxlevel = 120;
-	}
-	
-	//스킬데이터 불러오기
-	$skills = getJson('skill');
-	foreach($skills as $data) {
-		if($data->id == $doll->skill->id) {
-			$skill = $data;
-			break;
-		}
 	}
 	
 	//인형 보이스 불러오기
@@ -109,7 +99,7 @@ $starttime = microtime(true);
 		foreach($voices_fallback as $data) {
 			if(substr($data, 0, strlen($doll->name . "|")) === $doll->name . "|") {
 				$tmp = explode('|', $data);
-				$tmp[2] = str_replace('<>', '<br>', $tmp[2]);
+				$tmp[2] = str_replace('<>', '<br>', $tmp[2])  . "(No $lang voicedata)";;
 				
 				if($tmp[1] == 'Introduce') {
 					$introduce = $tmp[2];
@@ -135,141 +125,7 @@ $starttime = microtime(true);
 		array_push($voice, [$code, $str]);
 	}
 	
-	
-	//스킬 파싱
-	/*
-	$replace = [];
-	$num = [];
-	$skilldata = array();
-	preg_match_all("/{([a-zA-Z0-9]{1,})}/", $skill->desc, $matches);
-	$i = 0;
-	foreach($matches[1] as $match) {
-		if(isset($doll->skill->nightDataPool->{$match})){
-			array_push($num, "<span class='txthighlight' id='skillattr_$i'>" . end($doll->skill->dataPool->{$match})."</span>(<span class='txthighlight' id='skillattr_night_$i'>".end($doll->skill->nightDataPool->{$match}).'</span>)');
-			for($j = 0 ; $j <= sizeof($doll->skill->dataPool->{$match})-1 ; $j++) {
-				$skilldata['attr'][$i][$j] = $doll->skill->dataPool->{$match}[$j];
-			}
-			for($j = 0 ; $j <= sizeof($doll->skill->nightDataPool->{$match})-1 ; $j++) {
-				$skilldata['attr_night'][$i][$j] = $doll->skill->nightDataPool->{$match}[$j];
-			}
-		} else {
-			array_push($num, "<span class='txthighlight' id='skillattr_$i'>" . end($doll->skill->dataPool->{$match}) . '</span>');
-			for($j = 0 ; $j <= sizeof($doll->skill->dataPool->{$match})-1 ; $j++) {
-				$skilldata['attr'][$i][$j] = $doll->skill->dataPool->{$match}[$j];
-			}
-		}
-		array_push($replace, "(\{$match\})");
-		$i++;
-	}
-	$skill->desc = preg_replace($replace, $num, $skill->desc);
-	
-	if(isset($doll->skill->dataPool->DR)) {
-		$duration = end($doll->skill->dataPool->DR);
-		if(isset($doll->skill->nightDataPool->DR)) {
-			$duration_n = "(<span id='skillduration_n'>". end($doll->skill->nightDataPool->DR) . "</span>)";
-			for($i = 0 ; $i <= sizeof($doll->skill->dataPool->DR)-1 ; $i++) {
-				$skilldata['duration_n'][$i] = $doll->skill->nightDataPool->DR[$i];
-			}
-		} else $duration_n = '';
-		$skill->desc .= " 지속시간 <span id='skillduration'>{$duration}</span>{$duration_n}" . L::sec . ".";
-		for($i = 0 ; $i <= sizeof($doll->skill->dataPool->DR)-1 ; $i++) {
-			$skilldata['duration'][$i] = $doll->skill->dataPool->DR[$i];
-		}
-	}
-	
-	if(isset($doll->skill->intercd) && isset($doll->skill->cd)) {
-		if(!is_array($doll->skill->cd)) {
-			$cooldown = $doll->skill->cd;
-			$skillcolldown = L::database_intercool . " : {$doll->skill->intercd}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool'>{$cooldown}</span>" . L::turn . "<br>";
-		}
-		else {
-			$cooldown = end($doll->skill->cd);
-			$skillcolldown = L::database_intercool . " : {$doll->skill->intercd}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool'>{$cooldown}</span>" . L::sec . "<br>";
-			for($i = 0 ; $i <= sizeof($doll->skill->cd)-1 ; $i++) {
-				$skilldata['cooldown'][$i] = $doll->skill->cd[$i];
-			}
-		}
-	}
-	//스킬 야간
-	if(isset($skill->night)) {
-		$matches = [];
-		$replace = [];
-		$num = [];
-		preg_match_all("/{([a-zA-Z0-9]{1,})}/", $skill->night->desc, $matches);
-		$i = 0;
-		foreach($matches[1] as $match) {
-			array_push($num, "<span class='txthighlight' id='skillattr_n_$i'>" . end($doll->skill->nightDataPool->{$match}) . '</span>');
-			array_push($replace, "(\{$match\})");
-			for($j = 0 ; $j <= sizeof($doll->skill->nightDataPool->{$match})-1 ; $j++) {
-				$skilldata['attr_n'][$i][$j] = $doll->skill->nightDataPool->{$match}[$j];
-			}
-			$i++;
-		}
-		
-		$skill->night->desc = preg_replace($replace, $num, $skill->night->desc);
-		if(isset($doll->skill->nightDataPool->DR)) {
-			$duration = end($doll->skill->nightDataPool->DR);
-			$skill->night->desc .= " 지속시간 <span id='skillduration_n'>{$duration}</span>초.";
-			for($i = 0 ; $i <= sizeof($doll->skill->nightDataPool->DR)-1 ; $i++) {
-				$skilldata['duration_n'][$i] = $doll->skill->nightDataPool->DR[$i];
-			}
-		}
-		
-		if(isset($doll->skill->nightDataPool->IC) && isset($doll->skill->nightDataPool->CD)) {
-			$cooldown = end($doll->skill->nightDataPool->CD);
-			$n_skillcolldown = L::database_intercool . " : {$doll->skill->nightDataPool->IC}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool_n'>{$cooldown}</span>" . L::turn . "<br>";
-			for($i = 0 ; $i <= sizeof($doll->skill->dataPool->CD)-1 ; $i++) {
-				$skilldata['cooldown_n'][$i] = $doll->skill->dataPool->CD[$i];
-			}
-		}
-	}
-	
-	//스킬 mod3	
-	if(isset($doll->skill2)) {
-		foreach($skills as $data) {
-			if($data->id == $doll->skill2->id) {
-				$skill2 = $data;
-				break;
-			}
-		}
-		$matches = [];
-		$replace = [];
-		$num = [];
-		preg_match_all("/{([a-zA-Z0-9]{1,})}/", $skill2->desc, $matches);
-		$i = 0;
-		foreach($matches[1] as $match) {
-			array_push($num, "<span class='txthighlight' id='skillattr_mod3_$i'>" . end($doll->skill2->dataPool->{$match}) . '</span>');
-			array_push($replace, "(\{$match\})");
-			for($j = 0 ; $j <= sizeof($doll->skill2->dataPool->{$match})-1 ; $j++) {
-				$skilldata['attr_mod3'][$i][$j] = $doll->skill2->dataPool->{$match}[$j];
-			}
-			$i++;
-		}
-		$skill2->desc = preg_replace($replace, $num, $skill2->desc);
-		if(isset($doll->skill2->dataPool->DR)) {
-			$duration = end($doll->skill2->dataPool->DR);
-			if(isset($doll->skill2->nightDataPool->DR)) {
-				$duration_n = "(<span id='skillduration_n_mod3'>". end($doll->skill2->nightDataPool->DR) . "</span>)";
-				for($i = 0 ; $i <= sizeof($doll->skill2->dataPool->DR)-1 ; $i++) {
-					$skilldata['duration_n_mod3'][$i] = $doll->skill2->nightDataPool->DR[$i];
-				}
-			}
-			$skill2->desc .= " 지속시간 <span id='skillduration_mod3'>{$duration}</span>초.";
-			for($i = 0 ; $i <= sizeof($doll->skill2->dataPool->DR)-1 ; $i++) {
-				$skilldata['duration_mod3'][$i] = $doll->skill2->dataPool->DR[$i];
-			}
-		}
-		
-		if(isset($doll->skill2->intercd) && isset($doll->skill2->cd)) {
-			$cooldown = end($doll->skill2->cd);
-			$mod3_skillcolldown = L::database_intercool . " : {$doll->skill2->intercd}" . L::sec . ", " . L::database_cooldown . " : <span id='skillcool_mod3'>{$cooldown}</span>" . L::turn . "<br>";
-			for($i = 0 ; $i <= sizeof($doll->skill2->cd)-1 ; $i++) {
-				$skilldata['cooldown_mod3'][$i] = $doll->skill2->cd[$i];
-			}
-		}
-	}
-	*/
-	
+	//스킬 쿨타임 가져오기
 	$skilldata = [];
 	$skilldata['skill']['cd'] = $doll->skill->cd;
 	if(!isset($doll->skill2))
@@ -297,52 +153,114 @@ $starttime = microtime(true);
 	}
 	
 	//서버 스킬데이터 불러오기
-	$tmp = getDataFile('battle_skill_config', $lang);
-	$rskills = explode(PHP_EOL, $tmp);
-	if(isset($doll->skill->realid)) {
-		$rskill_name = '';
-		$rskill_txt = [];
-		$i = 0;
-		foreach($rskills as $line) {
-			preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $line, $matches);
-			$s_level = intval($matches[3]);
-			
-			if($matches[1] == 1 && $matches[2] == $doll->skill->realid) {
-				$rskill_name = explode(',', $rskills[$i])[1];
-				$rskill_txt[$s_level] = explode(',', $rskills[$i+1])[1];
-				$rskill_txt[$s_level] = str_replace("//c" , ',', $rskill_txt[$s_level]);
-				$rskill_txt[$s_level] = str_replace("；" , '<br>', $rskill_txt[$s_level]);
-				$rskill_txt[$s_level] = str_replace("//n" , '<br>', $rskill_txt[$s_level]);
-				$rskill_txt[$s_level] = preg_replace("/([0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
-				$rskill_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
+	if($lang != 'ko') {
+		$tmp = getDataFile('battle_skill_config', $lang);
+		$rskills = explode(PHP_EOL, $tmp);
+		if(isset($doll->skill->realid)) {
+			$rskill_name = '';
+			$rskill_txt = [];
+			$i = 0;
+			foreach($rskills as $line) {
+				preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $line, $matches);
+				$s_level = intval($matches[3]);
 				
-				if($s_level == 10) break;
+				if($matches[1] == 1 && $matches[2] == $doll->skill->realid) {
+					$rskill_name = explode(',', $rskills[$i])[1];
+					$rskill_txt[$s_level] = explode(',', $rskills[$i+1])[1];
+					$rskill_txt[$s_level] = str_replace("//c" , ',', $rskill_txt[$s_level]);
+					$rskill_txt[$s_level] = str_replace("；" , '<br>', $rskill_txt[$s_level]);
+					$rskill_txt[$s_level] = str_replace("//n" , '<br>', $rskill_txt[$s_level]);
+					$rskill_txt[$s_level] = preg_replace("/([0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
+					$rskill_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
+					
+					if($s_level == 10) break;
+				}
+				$i++;
 			}
-			$i++;
+		}
+		//mod2스킬
+		if(isset($doll->skill2->realid)) {
+			$rskill2_txt = [];
+			$i = 0;
+			foreach($rskills as $line) {
+				preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $line, $matches);
+				$s_level = intval($matches[3]);
+				
+				if($matches[1] == 1 && $matches[2] == $doll->skill2->realid) {
+					$rskill2_name = explode(',', $rskills[$i])[1];
+					$rskill2_txt[$s_level] = explode(',', $rskills[$i+1])[1];
+					$rskill2_txt[$s_level] = str_replace("//c" , ',', $rskill2_txt[$s_level]);
+					$rskill2_txt[$s_level] = str_replace("；" , '<br>', $rskill2_txt[$s_level]);
+					$rskill2_txt[$s_level] = str_replace("//n" , '<br>', $rskill2_txt[$s_level]);
+					$rskill2_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
+					$rskill2_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
+					
+					if($s_level == 10) break;
+				}
+				$i++;
+			}
 		}
 	}
-	//mod2스킬
-	if(isset($doll->skill2->realid)) {
-		$rskill2_txt = [];
-		$i = 0;
-		foreach($rskills as $line) {
-			preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $line, $matches);
-			$s_level = intval($matches[3]);
-			
-			if($matches[1] == 1 && $matches[2] == $doll->skill2->realid) {
-				$rskill2_name = explode(',', $rskills[$i])[1];
-				$rskill2_txt[$s_level] = explode(',', $rskills[$i+1])[1];
-				$rskill2_txt[$s_level] = str_replace("//c" , ',', $rskill2_txt[$s_level]);
-				$rskill2_txt[$s_level] = str_replace("；" , '<br>', $rskill2_txt[$s_level]);
-				$rskill2_txt[$s_level] = str_replace("//n" , '<br>', $rskill2_txt[$s_level]);
-				$rskill2_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
-				$rskill2_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
+	
+	//만약 해당 언어 스킬 데이터가 없으면 한국 데이터를 불러옴 (한국은 그냥 한국데이터 불러옴)
+	if(sizeof($rskill_txt) == 0) {
+		$tmp = getDataFile('battle_skill_config', 'ko');
+		$rskills = explode(PHP_EOL, $tmp);
+		if(isset($doll->skill->realid)) {
+			$rskill_name = '';
+			$rskill_txt = [];
+			$i = 0;
+			foreach($rskills as $line) {
+				preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $line, $matches);
+				$s_level = intval($matches[3]);
 				
-				if($s_level == 10) break;
+				if($matches[1] == 1 && $matches[2] == $doll->skill->realid) {
+					$rskill_name = explode(',', $rskills[$i])[1];
+					if($lang != 'ko') {
+						$rskill_name .= "(no $lang skilldata)";
+					}
+					$rskill_txt[$s_level] = explode(',', $rskills[$i+1])[1];
+					$rskill_txt[$s_level] = str_replace("//c" , ',', $rskill_txt[$s_level]);
+					$rskill_txt[$s_level] = str_replace("；" , '<br>', $rskill_txt[$s_level]);
+					$rskill_txt[$s_level] = str_replace("//n" , '<br>', $rskill_txt[$s_level]);
+					$rskill_txt[$s_level] = preg_replace("/([0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
+					$rskill_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
+					
+					if($s_level == 10) break;
+				}
+				$i++;
 			}
-			$i++;
 		}
 	}
+	if(sizeof($rskill2_txt) == 0) {
+		//mod2스킬
+		if(isset($doll->skill2->realid)) {
+			$rskill2_txt = [];
+			$i = 0;
+			foreach($rskills as $line) {
+				preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $line, $matches);
+				$s_level = intval($matches[3]);
+				
+				if($matches[1] == 1 && $matches[2] == $doll->skill2->realid) {
+					$rskill2_name = explode(',', $rskills[$i])[1];
+					//한국어가아니면 데이터 없다는 안내문구 추가
+					if($lang != 'ko') {
+						$rskill2_name .= "(no $lang skill2data)";
+					}
+					$rskill2_txt[$s_level] = explode(',', $rskills[$i+1])[1];
+					$rskill2_txt[$s_level] = str_replace("//c" , ',', $rskill2_txt[$s_level]);
+					$rskill2_txt[$s_level] = str_replace("；" , '<br>', $rskill2_txt[$s_level]);
+					$rskill2_txt[$s_level] = str_replace("//n" , '<br>', $rskill2_txt[$s_level]);
+					$rskill2_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
+					$rskill2_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
+					
+					if($s_level == 10) break;
+				}
+				$i++;
+			}
+		}
+	}
+	
 	
 	
 	
