@@ -58,7 +58,7 @@
 	}
 	
 	$header_desc .= ", $title";
-	$header_title = "$title | 소전DB";
+	$header_title = "$title | " . L::sitetitle_short;
 	require_once("header.php");
 ?>
 <main role="main" class="container">

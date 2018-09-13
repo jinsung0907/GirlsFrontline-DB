@@ -1,8 +1,9 @@
 <?php
 	define("GF_HEADER", "aaaaa");
-	$header_desc = "소전DB 소녀전선 전지 계산기, 숙소 전지 계산기";
-	$header_keyword = "소녀전선 전지 계산기, 숙소 전지 계산기";
-	$header_title = "전지 계산기";
+	require_once("common.php");
+	$header_desc = L::sitetitle_short . " " . L::gfl . " " . L::navigation_menu_cellcalc . ", " . L::battery_domitory . " " . L::navigation_menu_cellcalc;
+	$header_keyword = L::gfl . " " . L::navigation_menu_cellcalc . ", " . L::battery_domitory . " " . L::navigation_menu_cellcalc;
+	$header_title = L::navigation_menu_cellcalc . " | " . L::sitetitle_short;
 	require_once("header.php");
 ?>
     <main role="main" class="container">
