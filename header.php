@@ -7,7 +7,7 @@ if(!isset($header_desc)) $header_desc = '소녀전선 데이터베이스 사이�
 if(!isset($header_image)) $header_image = ''; else $header_image = '<meta property="og:image" content="' . $header_image . '"/>'
 ?>
 <!doctype html>
-<html lang="ko">
+<html lang="<?=$lang?>">
   <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45210527-6"></script>
