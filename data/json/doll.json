@@ -100,7 +100,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 8, 9],
+			"effectPos": [4, 6, 7, 9],
 			"gridEffect": {
 				"pow": 10,
 				"dodge": 10
@@ -138,7 +138,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 4, 6, 8, 9],
+			"effectPos": [1, 2, 9, 4, 6, 8],
 			"gridEffect": {
 				"pow": 15,
 				"crit": 10
@@ -176,7 +176,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 4, 8],
+			"effectPos": [2, 4, 6],
 			"gridEffect": {
 				"pow": 16,
 				"crit": 8
@@ -214,7 +214,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 8, 9],
+			"effectPos": [4, 6, 7, 9],
 			"gridEffect": {
 				"rate": 10,
 				"hit": 25
@@ -252,7 +252,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 8, 9],
+			"effectPos": [4, 6, 7, 9],
 			"gridEffect": {
 				"pow": 6,
 				"rate": 12
@@ -290,7 +290,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 6, 7],
+			"effectPos": [1, 2, 3, 8],
 			"gridEffect": {
 				"pow": 10,
 				"rate": 6
@@ -328,7 +328,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 8, 9],
+			"effectPos": [4, 6, 7, 9],
 			"gridEffect": {
 				"rate": 7,
 				"hit": 28
@@ -366,7 +366,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 6, 7],
+			"effectPos": [1, 2, 3, 8],
 			"gridEffect": {
 				"rate": 16,
 				"crit": 8
@@ -404,7 +404,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 6, 8],
+			"effectPos": [4, 6, 8],
 			"gridEffect": {
 				"pow": 7,
 				"hit": 35
@@ -442,7 +442,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 6, 7],
+			"effectPos": [1, 3, 8],
 			"gridEffect": {
 				"hit": 32,
 				"dodge": 15
@@ -556,7 +556,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 3, 6, 7, 9],
+			"effectPos": [1, 3, 7, 8, 9],
 			"gridEffect": {
 				"hit": 32,
 				"dodge": 15
@@ -594,7 +594,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 12,
 				"dodge": 15
@@ -632,7 +632,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4],
+			"effectPos": [2],
 			"gridEffect": {
 				"hit": 40,
 				"dodge": 30
@@ -670,7 +670,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 12
 			}
@@ -707,7 +707,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 10,
 				"dodge": 12
@@ -745,7 +745,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4],
+			"effectPos": [2],
 			"gridEffect": {
 				"rate": 25
 			}
@@ -782,7 +782,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"pow": 10,
 				"rate": 5
@@ -820,7 +820,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 12
 			}
@@ -857,7 +857,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 8,
 				"dodge": 20
@@ -895,7 +895,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 10,
 				"hit": 25
@@ -933,7 +933,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"hit": 25,
 				"dodge": 20
@@ -971,7 +971,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"hit": 40,
 				"crit": 20
@@ -1009,7 +1009,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4],
+			"effectPos": [2],
 			"gridEffect": {
 				"rate": 15,
 				"hit": 50
@@ -1047,7 +1047,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"rate": 15,
 				"hit": 25
@@ -1085,7 +1085,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"hit": 10,
 				"dodge": 30
@@ -1123,7 +1123,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 5,
 				"rate": 10
@@ -1161,7 +1161,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"pow": 18
 			}
@@ -1198,7 +1198,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"rate": 10,
 				"dodge": 10
@@ -1236,7 +1236,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -1273,7 +1273,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -1347,7 +1347,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -1384,7 +1384,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -1421,7 +1421,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2],
+			"effectPos": [4],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -1458,7 +1458,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"cooldown": 10
 			}
@@ -1495,7 +1495,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"cooldown": 10
 			}
@@ -1532,7 +1532,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [8],
+			"effectPos": [6],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -1569,7 +1569,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -1606,7 +1606,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3],
+			"effectPos": [7],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -1643,7 +1643,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -1680,7 +1680,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"cooldown": 10
 			}
@@ -1717,7 +1717,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -1754,7 +1754,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -1791,7 +1791,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -1828,7 +1828,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"cooldown": 10
 			}
@@ -1865,7 +1865,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"cooldown": 10
 			}
@@ -1902,7 +1902,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -1939,7 +1939,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 8, 9],
+			"effectPos": [4, 6, 7, 9],
 			"gridEffect": {
 				"pow": 10,
 				"dodge": 12
@@ -1977,7 +1977,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 6, 8, 9],
+			"effectPos": [4, 6, 7, 8, 9],
 			"gridEffect": {
 				"pow": 18,
 				"crit": 30
@@ -2015,7 +2015,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 6, 9],
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"hit": 50,
 				"dodge": 12
@@ -2053,7 +2053,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 6, 9],
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"rate": 10,
 				"dodge": 12
@@ -2091,7 +2091,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [2],
+			"effectPos": [4],
 			"gridEffect": {
 				"dodge": 18
 			}
@@ -2128,7 +2128,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 15,
 				"hit": 25
@@ -2166,7 +2166,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [8],
+			"effectPos": [6],
 			"gridEffect": {
 				"pow": 25,
 				"rate": 10
@@ -2204,7 +2204,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"dodge": 20,
 				"hit": 60
@@ -2242,7 +2242,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"hit": 50,
 				"dodge": 15
@@ -2280,7 +2280,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [8],
+			"effectPos": [6],
 			"gridEffect": {
 				"rate": 20,
 				"hit": 50
@@ -2318,7 +2318,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 6],
+			"effectPos": [7, 8],
 			"gridEffect": {
 				"pow": 30,
 				"rate": 10
@@ -2356,7 +2356,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"pow": 40
 			}
@@ -2393,7 +2393,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"dodge": 15,
 				"crit": 10
@@ -2431,7 +2431,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [8],
+			"effectPos": [6],
 			"gridEffect": {
 				"pow": 20,
 				"hit": 50
@@ -2469,7 +2469,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3],
+			"effectPos": [7],
 			"gridEffect": {
 				"pow": 25,
 				"hit": 60
@@ -2545,7 +2545,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"hit": 50,
 				"dodge": 10
@@ -2583,7 +2583,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"dodge": 18
 			}
@@ -2620,7 +2620,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 6, 8, 9],
+			"effectPos": [4, 8, 9, 6, 7],
 			"gridEffect": {
 				"pow": 12,
 				"hit": 20
@@ -2658,7 +2658,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"pow": 20,
 				"rate": 10
@@ -2696,8 +2696,8 @@
 		"grow": 125,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [6],
+			"effectCenter": 2,
+			"effectPos": [8],
 			"gridEffect": {
 				"pow": 15,
 				"armor": 10
@@ -2735,8 +2735,8 @@
 		"grow": 95,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [6],
+			"effectCenter": 2,
+			"effectPos": [8],
 			"gridEffect": {
 				"pow": 22
 			}
@@ -2773,8 +2773,8 @@
 		"grow": 115,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 7,
-			"effectPos": [3, 9],
+			"effectCenter": 3,
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"pow": 10,
 				"rate": 8
@@ -2812,8 +2812,8 @@
 		"grow": 135,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [3, 6],
+			"effectCenter": 2,
+			"effectPos": [7, 8],
 			"gridEffect": {
 				"rate": 12,
 				"hit": 10
@@ -2890,8 +2890,8 @@
 		"grow": 95,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [6],
+			"effectCenter": 2,
+			"effectPos": [8],
 			"gridEffect": {
 				"pow": 10,
 				"rate": 10
@@ -2930,7 +2930,7 @@
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 1,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"rate": 15
 			}
@@ -2967,8 +2967,8 @@
 		"grow": 130,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [3, 9],
+			"effectCenter": 2,
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"rate": 16
 			}
@@ -3005,8 +3005,8 @@
 		"grow": 110,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [6, 9],
+			"effectCenter": 2,
+			"effectPos": [8, 9],
 			"gridEffect": {
 				"pow": 18
 			}
@@ -3043,8 +3043,8 @@
 		"grow": 115,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 7,
-			"effectPos": [3],
+			"effectCenter": 3,
+			"effectPos": [7],
 			"gridEffect": {
 				"pow": 22
 			}
@@ -3119,8 +3119,8 @@
 		"grow": 110,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [3, 9],
+			"effectCenter": 2,
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"pow": 10,
 				"hit": 15
@@ -3158,8 +3158,8 @@
 		"grow": 120,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 7,
-			"effectPos": [3, 9],
+			"effectCenter": 3,
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"rate": 10,
 				"hit": 12
@@ -3197,7 +3197,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 6, 8, 9],
+			"effectPos": [4, 6, 7, 8, 9],
 			"gridEffect": {
 				"rate": 10,
 				"hit": 20
@@ -3235,7 +3235,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 4, 7, 8],
+			"effectPos": [1, 2, 3, 4, 6],
 			"gridEffect": {
 				"pow": 14
 			}
@@ -3272,7 +3272,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4],
+			"effectPos": [2],
 			"gridEffect": {
 				"pow": 20
 			}
@@ -3309,7 +3309,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"dodge": 20
 			}
@@ -3346,7 +3346,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4],
+			"effectPos": [2],
 			"gridEffect": {
 				"rate": 20
 			}
@@ -3383,7 +3383,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -3420,7 +3420,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 6, 7, 8],
+			"effectPos": [1, 3, 4, 6, 8],
 			"gridEffect": {
 				"pow": 15,
 				"dodge": 10
@@ -3496,7 +3496,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 7, 8],
+			"effectPos": [1, 3, 4, 6],
 			"gridEffect": {
 				"pow": 6,
 				"hit": 45
@@ -3534,7 +3534,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 6, 7],
+			"effectPos": [1, 2, 3, 8],
 			"gridEffect": {
 				"pow": 18
 			}
@@ -3571,7 +3571,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 3, 7, 8, 9],
+			"effectPos": [1, 3, 4, 6, 7, 9],
 			"gridEffect": {
 				"rate": 10,
 				"dodge": 12
@@ -3609,7 +3609,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"rate": 12,
 				"hit": 30
@@ -3647,7 +3647,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 8, 9],
+			"effectPos": [4, 6, 7, 9],
 			"gridEffect": {
 				"crit": 500
 			}
@@ -3684,7 +3684,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 18,
 				"crit": 30
@@ -3722,7 +3722,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 10,
 				"rate": 8
@@ -3760,7 +3760,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6, 9],
+			"effectPos": [8, 9],
 			"gridEffect": {
 				"pow": 15,
 				"rate": 20
@@ -3798,7 +3798,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 6, 9],
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"dodge": 20
 			}
@@ -3835,7 +3835,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"pow": 20,
 				"dodge": 10
@@ -3873,7 +3873,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"rate": 25,
 				"hit": 50
@@ -3911,8 +3911,8 @@
 		"grow": 110,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [3, 9],
+			"effectCenter": 2,
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"pow": 10,
 				"armor": 10
@@ -3950,8 +3950,8 @@
 		"grow": 115,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [3, 9],
+			"effectCenter": 2,
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"hit": 30
 			}
@@ -3988,8 +3988,8 @@
 		"grow": 90,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 7,
-			"effectPos": [3],
+			"effectCenter": 3,
+			"effectPos": [7],
 			"gridEffect": {
 				"rate": 20
 			}
@@ -4026,8 +4026,8 @@
 		"grow": 135,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [3, 6, 9],
+			"effectCenter": 2,
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"armor": 20
 			}
@@ -4049,7 +4049,7 @@
 		"illust": "能登ツグミ",
 		"voice": "Minami Tanaka",
 		"buildTime": 2100,
-		"drop": "0",
+		"drop": "102",
 		"stats": {
 			"hp": 105,
 			"pow": 125,
@@ -4064,7 +4064,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 4, 8],
+			"effectPos": [2, 4, 6],
 			"gridEffect": {
 				"pow": 12,
 				"hit": 20
@@ -4102,7 +4102,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 4, 7, 8],
+			"effectPos": [1, 2, 3, 4, 6],
 			"gridEffect": {
 				"pow": 10,
 				"rate": 8
@@ -4140,7 +4140,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"rate": 15,
 				"hit": 30
@@ -4163,7 +4163,7 @@
 		"illust": "ALLENES",
 		"voice": "Iori Nomizu",
 		"buildTime": 7500,
-		"drop": "2",
+		"drop": "2,102",
 		"stats": {
 			"hp": 95,
 			"pow": 100,
@@ -4178,7 +4178,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4],
+			"effectPos": [1, 2],
 			"gridEffect": {
 				"pow": 12,
 				"dodge": 10
@@ -4201,7 +4201,7 @@
 		"illust": "CanceR",
 		"voice": "Asami Imai",
 		"buildTime": 15600,
-		"drop": "2",
+		"drop": "2,102",
 		"stats": {
 			"hp": 105,
 			"pow": 120,
@@ -4216,7 +4216,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -4253,7 +4253,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"rate": 10,
 				"dodge": 15
@@ -4276,7 +4276,7 @@
 		"illust": "ASK",
 		"voice": "Marina Inoue",
 		"buildTime": 14520,
-		"drop": "202,25",
+		"drop": "0",
 		"stats": {
 			"hp": 100,
 			"pow": 105,
@@ -4291,7 +4291,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 6, 9],
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"rate": 25,
 				"hit": 65
@@ -4314,7 +4314,7 @@
 		"illust": "死盖",
 		"voice": "Ami Hagihara",
 		"buildTime": 11700,
-		"drop": "2",
+		"drop": "2,102",
 		"stats": {
 			"hp": 90,
 			"pow": 110,
@@ -4329,7 +4329,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3],
+			"effectPos": [7],
 			"gridEffect": {
 				"pow": 25,
 				"hit": 50
@@ -4368,7 +4368,7 @@
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 1,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"rate": 18
 			}
@@ -4405,7 +4405,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"pow": 30,
 				"dodge": 10
@@ -4443,7 +4443,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 6, 8],
+			"effectPos": [4, 6, 8],
 			"gridEffect": {
 				"rate": 6,
 				"dodge": 18
@@ -4466,7 +4466,7 @@
 		"illust": "受菟",
 		"voice": "Ricca Tachibana",
 		"buildTime": 14400,
-		"drop": "1711,103",
+		"drop": "101",
 		"stats": {
 			"hp": 100,
 			"pow": 115,
@@ -4518,8 +4518,8 @@
 		"grow": 135,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [3, 9],
+			"effectCenter": 2,
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"hit": 12,
 				"armor": 15
@@ -4542,7 +4542,7 @@
 		"illust": "音符",
 		"voice": "Shiki Aoki",
 		"buildTime": 3900,
-		"drop": "1,103",
+		"drop": "1",
 		"stats": {
 			"hp": 110,
 			"pow": 115,
@@ -4557,7 +4557,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 4, 6, 8, 9],
+			"effectPos": [2, 4, 6, 7, 8, 9],
 			"gridEffect": {
 				"pow": 10,
 				"dodge": 15
@@ -4595,7 +4595,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 20
 			}
@@ -4632,7 +4632,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -4669,7 +4669,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3],
+			"effectPos": [7],
 			"gridEffect": {
 				"pow": 10,
 				"dodge": 18
@@ -4730,7 +4730,7 @@
 		"illust": "钉田西瓜",
 		"voice": "Nozomi Yamamoto",
 		"buildTime": 6600,
-		"drop": "103",
+		"drop": "101",
 		"stats": {
 			"hp": 110,
 			"pow": 90,
@@ -4745,7 +4745,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4],
+			"effectPos": [2],
 			"gridEffect": {
 				"hit": 55
 			}
@@ -4767,7 +4767,7 @@
 		"illust": "麻将",
 		"voice": "Emiri Katou",
 		"buildTime": 2700,
-		"drop": "1710,103",
+		"drop": "101",
 		"stats": {
 			"hp": 90,
 			"pow": 95,
@@ -4782,7 +4782,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 6, 8, 9],
+			"effectPos": [4, 6, 7, 8, 9],
 			"gridEffect": {
 				"pow": 10,
 				"hit": 25
@@ -4820,7 +4820,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"pow": 10,
 				"rate": 20
@@ -4843,7 +4843,7 @@
 		"illust": "NoriZC",
 		"voice": "Nozomi Yamamoto",
 		"buildTime": 11400,
-		"drop": "103",
+		"drop": "101",
 		"stats": {
 			"hp": 100,
 			"pow": 110,
@@ -4896,7 +4896,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"rate": 18,
 				"crit": 30
@@ -4934,7 +4934,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4],
+			"effectPos": [2],
 			"gridEffect": {
 				"pow": 24
 			}
@@ -4971,7 +4971,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"rate": 12,
 				"hit": 30
@@ -5009,7 +5009,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"pow": 35
 			}
@@ -5084,7 +5084,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [3, 4, 6, 9],
+			"effectPos": [2, 7, 8, 9],
 			"gridEffect": {
 				"hit": 28,
 				"dodge": 18
@@ -5122,7 +5122,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 6, 7],
+			"effectPos": [1, 3, 8],
 			"gridEffect": {
 				"rate": 14
 			}
@@ -5159,7 +5159,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 8, 9],
+			"effectPos": [4, 6, 7, 9],
 			"gridEffect": {
 				"rate": 15,
 				"crit": 10
@@ -5197,7 +5197,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 4, 7, 8],
+			"effectPos": [1, 2, 3, 4, 6],
 			"gridEffect": {
 				"rate": 10,
 				"hit": 35
@@ -5235,7 +5235,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 10,
 				"dodge": 12
@@ -5258,7 +5258,7 @@
 		"illust": "rosele",
 		"voice": "Rie Takahashi",
 		"buildTime": 13800,
-		"drop": "2,103",
+		"drop": "2,101",
 		"stats": {
 			"hp": 90,
 			"pow": 135,
@@ -5273,7 +5273,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -5295,7 +5295,7 @@
 		"illust": "工口牛",
 		"voice": "Nozomi Yamamoto",
 		"buildTime": 15600,
-		"drop": "2,103",
+		"drop": "2,101",
 		"stats": {
 			"hp": 100,
 			"pow": 110,
@@ -5310,7 +5310,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -5347,7 +5347,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -5384,7 +5384,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -5421,8 +5421,8 @@
 		"grow": 110,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [3, 9],
+			"effectCenter": 2,
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"rate": 15,
 				"armor": 10
@@ -5460,7 +5460,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"rate": 15,
 				"dodge": 10
@@ -5483,7 +5483,7 @@
 		"illust": "REALMBW",
 		"voice": "Hitomi Nabatame",
 		"buildTime": 29100,
-		"drop": "104",
+		"drop": "0",
 		"stats": {
 			"hp": 125,
 			"pow": 125,
@@ -5499,8 +5499,8 @@
 		"grow": 115,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [4],
+			"effectCenter": 8,
+			"effectPos": [2],
 			"gridEffect": {
 				"pow": 20,
 				"hit": 20
@@ -5539,8 +5539,8 @@
 		"grow": 100,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [1, 4],
+			"effectCenter": 8,
+			"effectPos": [1, 2],
 			"gridEffect": {
 				"hit": 50
 			}
@@ -5578,8 +5578,8 @@
 		"grow": 90,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [1, 7],
+			"effectCenter": 8,
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 18
 			}
@@ -5618,7 +5618,7 @@
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 9,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 18
 			}
@@ -5656,8 +5656,8 @@
 		"grow": 95,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 3,
-			"effectPos": [1, 7],
+			"effectCenter": 7,
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"hit": 55
 			}
@@ -5695,8 +5695,8 @@
 		"grow": 125,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [4],
+			"effectCenter": 8,
+			"effectPos": [2],
 			"gridEffect": {
 				"pow": 15,
 				"hit": 20
@@ -5735,8 +5735,8 @@
 		"grow": 100,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [1, 7],
+			"effectCenter": 8,
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 20
 			}
@@ -5814,8 +5814,8 @@
 		"grow": 100,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 3,
-			"effectPos": [7],
+			"effectCenter": 7,
+			"effectPos": [3],
 			"gridEffect": {
 				"pow": 12,
 				"hit": 30
@@ -5854,8 +5854,8 @@
 		"grow": 100,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [1, 4, 7],
+			"effectCenter": 8,
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 15
 			}
@@ -5893,8 +5893,8 @@
 		"grow": 105,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [1, 4, 7],
+			"effectCenter": 8,
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 12
 			}
@@ -5932,8 +5932,8 @@
 		"grow": 90,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [4, 7],
+			"effectCenter": 8,
+			"effectPos": [2, 3],
 			"gridEffect": {
 				"pow": 20
 			}
@@ -5971,8 +5971,8 @@
 		"grow": 106,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [4, 7],
+			"effectCenter": 8,
+			"effectPos": [2, 3],
 			"gridEffect": {
 				"pow": 22
 			}
@@ -6011,7 +6011,7 @@
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 9,
-			"effectPos": [1, 4, 7],
+			"effectPos": [2, 3, 1],
 			"gridEffect": {
 				"pow": 12,
 				"hit": 10
@@ -6050,8 +6050,8 @@
 		"grow": 105,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 3,
-			"effectPos": [1, 7],
+			"effectCenter": 7,
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 20
 			}
@@ -6088,7 +6088,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 7, 8],
+			"effectPos": [1, 3, 4, 6],
 			"gridEffect": {
 				"pow": 8,
 				"rate": 10
@@ -6111,7 +6111,7 @@
 		"illust": "雪樱樱",
 		"voice": "Saika fujii",
 		"buildTime": 2400,
-		"drop": "1801,105",
+		"drop": "105",
 		"stats": {
 			"hp": 100,
 			"pow": 130,
@@ -6162,7 +6162,7 @@
 		"grow": 120,
 		"effect": {
 			"effectType": "all",
-			"effectCenter": 4,
+			"effectCenter": 2,
 			"effectPos": [1, 3, 7, 9],
 			"gridEffect": {
 				"pow": 15,
@@ -6201,7 +6201,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4],
+			"effectPos": [2],
 			"gridEffect": {
 				"pow": 6,
 				"rate": 10
@@ -6239,7 +6239,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"pow": 30
 			}
@@ -6276,7 +6276,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"pow": 20
 			}
@@ -6313,7 +6313,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 6, 9],
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"hit": 30,
 				"dodge": 18
@@ -6351,8 +6351,8 @@
 		"grow": 115,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 7,
-			"effectPos": [3, 6, 9],
+			"effectCenter": 3,
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"rate": 15,
 				"hit": 12
@@ -6427,7 +6427,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"hit": 50,
 				"dodge": 15
@@ -6464,8 +6464,8 @@
 		"grow": 105,
 		"effect": {
 			"effectType": "ar",
-			"effectCenter": 8,
-			"effectPos": [1, 7],
+			"effectCenter": 6,
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 15,
 				"hit": 20
@@ -6503,7 +6503,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4],
+			"effectPos": [2],
 			"gridEffect": {
 				"rate": 25
 			}
@@ -6540,7 +6540,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"hit": 40,
 				"dodge": 15
@@ -6563,7 +6563,7 @@
 		"illust": "liduke",
 		"voice": "Yuka Saito",
 		"buildTime": 17100,
-		"drop": "25",
+		"drop": "0",
 		"stats": {
 			"hp": 93,
 			"pow": 138,
@@ -6577,8 +6577,8 @@
 		"grow": 138,
 		"effect": {
 			"effectType": "hg",
-			"effectCenter": 4,
-			"effectPos": [5, 6],
+			"effectCenter": 2,
+			"effectPos": [5, 8],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -6615,7 +6615,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -6651,8 +6651,8 @@
 		"grow": 115,
 		"effect": {
 			"effectType": "smg",
-			"effectCenter": 8,
-			"effectPos": [3, 9],
+			"effectCenter": 6,
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"pow": 20,
 				"dodge": 12
@@ -6690,7 +6690,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3],
+			"effectPos": [7],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -6765,7 +6765,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 3],
+			"effectPos": [4, 7],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -6802,8 +6802,8 @@
 		"grow": 145,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [3, 6, 9],
+			"effectCenter": 2,
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"pow": 10,
 				"armor": 15
@@ -6841,7 +6841,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 6, 8],
+			"effectPos": [4, 6, 8],
 			"gridEffect": {
 				"pow": 10,
 				"hit": 25
@@ -6879,7 +6879,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"pow": 15,
 				"hit": 30
@@ -6918,8 +6918,8 @@
 		"grow": 95,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [1, 4, 7],
+			"effectCenter": 8,
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 10,
 				"hit": 15
@@ -6958,8 +6958,8 @@
 		"grow": 100,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [7],
+			"effectCenter": 8,
+			"effectPos": [3],
 			"gridEffect": {
 				"pow": 15,
 				"hit": 20
@@ -6999,7 +6999,7 @@
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 9,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 15
 			}
@@ -7036,7 +7036,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 8,
 				"dodge": 8
@@ -7074,7 +7074,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -7111,7 +7111,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6, 9],
+			"effectPos": [8, 9],
 			"gridEffect": {
 				"pow": 15,
 				"hit": 25
@@ -7149,7 +7149,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"pow": 25,
 				"hit": 50
@@ -7187,8 +7187,8 @@
 		"grow": 125,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [6, 9],
+			"effectCenter": 2,
+			"effectPos": [8, 9],
 			"gridEffect": {
 				"pow": 8,
 				"armor": 12
@@ -7226,7 +7226,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"rate": 12,
 				"dodge": 15
@@ -7263,8 +7263,8 @@
 		"grow": 140,
 		"effect": {
 			"effectType": "rf",
-			"effectCenter": 7,
-			"effectPos": [1, 4],
+			"effectCenter": 3,
+			"effectPos": [1, 2],
 			"gridEffect": {
 				"cooldown": 10
 			}
@@ -7301,7 +7301,7 @@
 		"effect": {
 			"effectType": "rf",
 			"effectCenter": 1,
-			"effectPos": [4, 7],
+			"effectPos": [2, 3],
 			"gridEffect": {
 				"cooldown": 10
 			}
@@ -7339,7 +7339,7 @@
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 1,
-			"effectPos": [6, 9],
+			"effectPos": [8, 9],
 			"gridEffect": {
 				"pow": 10,
 				"hit": 15
@@ -7377,7 +7377,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [6, 9],
+			"effectPos": [8, 9],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -7414,7 +7414,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 6],
+			"effectPos": [7, 8],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -7451,7 +7451,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 6, 7],
+			"effectPos": [1, 3, 8],
 			"gridEffect": {
 				"pow": 18
 			}
@@ -7487,8 +7487,8 @@
 		"grow": 90,
 		"effect": {
 			"effectType": "ar",
-			"effectCenter": 8,
-			"effectPos": [1, 7],
+			"effectCenter": 6,
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 20,
 				"crit": 20
@@ -7526,7 +7526,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -7562,8 +7562,8 @@
 		"grow": 148,
 		"effect": {
 			"effectType": "smg",
-			"effectCenter": 8,
-			"effectPos": [3, 6, 9],
+			"effectCenter": 6,
+			"effectPos": [8, 9, 7],
 			"gridEffect": {
 				"hit": 55,
 				"dodge": 16
@@ -7600,8 +7600,8 @@
 		"grow": 139,
 		"effect": {
 			"effectType": "smg",
-			"effectCenter": 2,
-			"effectPos": [3, 6, 9],
+			"effectCenter": 4,
+			"effectPos": [9, 7, 8],
 			"gridEffect": {
 				"pow": 25,
 				"rate": 15
@@ -7639,7 +7639,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"rate": 10,
 				"dodge": 15
@@ -7677,8 +7677,8 @@
 		"grow": 125,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [3, 6],
+			"effectCenter": 2,
+			"effectPos": [7, 8],
 			"gridEffect": {
 				"pow": 15,
 				"armor": 15
@@ -7716,7 +7716,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4, 7],
+			"effectPos": [2, 3],
 			"gridEffect": {
 				"pow": 16
 			}
@@ -7753,7 +7753,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 8, 9],
+			"effectPos": [4, 6, 7, 9],
 			"gridEffect": {
 				"pow": 10,
 				"dodge": 10
@@ -7791,7 +7791,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 6],
+			"effectPos": [7, 8],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -7828,7 +7828,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 4, 6, 7, 8],
+			"effectPos": [1, 2, 3, 4, 6, 8],
 			"gridEffect": {
 				"pow": 15,
 				"hit": 20
@@ -7866,7 +7866,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 15,
 				"rate": 5
@@ -7904,7 +7904,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 6],
+			"effectPos": [7, 8],
 			"gridEffect": {
 				"pow": 25,
 				"hit": 65
@@ -7980,7 +7980,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 8],
+			"effectPos": [4, 6],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -8017,7 +8017,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"rate": 12
 			}
@@ -8054,7 +8054,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 6, 8, 9],
+			"effectPos": [4, 6, 7, 8, 9],
 			"gridEffect": {
 				"pow": 10,
 				"dodge": 10
@@ -8092,7 +8092,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 4, 7, 8],
+			"effectPos": [4, 6, 1, 2, 3],
 			"gridEffect": {
 				"pow": 12,
 				"hit": 20
@@ -8130,7 +8130,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 6],
+			"effectPos": [7, 8],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -8167,7 +8167,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 6],
+			"effectPos": [7, 8],
 			"gridEffect": {
 				"pow": 15,
 				"hit": 25
@@ -8205,7 +8205,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 12,
 				"hit": 35
@@ -8243,7 +8243,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"rate": 15,
 				"dodge": 10
@@ -8281,7 +8281,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 6],
+			"effectPos": [7, 8],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -8317,8 +8317,8 @@
 		"grow": 115,
 		"effect": {
 			"effectType": "smg",
-			"effectCenter": 8,
-			"effectPos": [3, 6, 9],
+			"effectCenter": 6,
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"pow": 10,
 				"dodge": 15
@@ -8354,7 +8354,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 7],
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 12,
 				"hit": 35
@@ -8393,8 +8393,8 @@
 		"grow": 105,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 3,
-			"effectPos": [1, 4],
+			"effectCenter": 7,
+			"effectPos": [1, 2],
 			"gridEffect": {
 				"pow": 18,
 				"hit": 12
@@ -8432,7 +8432,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"cooldown": 12
 			}
@@ -8469,7 +8469,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 6],
+			"effectPos": [7, 8],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -8506,17 +8506,224 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 3, 4, 6],
+			"effectPos": [4, 6, 1, 2, 3],
 			"gridEffect": {
 				"pow": 6,
 				"rate": 10
 			}
 		},
 		"skill": {
-			"realid": 101401,
-			"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
-			"intercd": 6,
-			"code": "dodgeDebuff"
+			"realid": 110051
+		}
+	}, {
+		"id": 233,
+		"name": "Px4Storm",
+		"krName": "",
+		"enName": "",
+		"jpName": "",
+		"rank": 5,
+		"type": "hg",
+		"illust": "",
+		"voice": "",
+		"buildTime": 3840,
+		"drop": "1",
+		"stats": {
+			"hp": 102,
+			"pow": 118,
+			"hit": 128,
+			"dodge": 115,
+			"speed": 100,
+			"rate": 102,
+			"armorPiercing": 10,
+			"crit": 20
+		},
+		"grow": 132,
+		"effect": {
+			"effectType": "all",
+			"effectCenter": 6,
+			"effectPos": [1, 2, 3, 5],
+			"gridEffect": {
+				"pow": 12,
+				"hit": 30
+			}
+		},
+		"skill": {
+			"realid": 110066
+		}
+	}, {
+		"id": 234,
+		"name": "JS9mm",
+		"krName": "",
+		"enName": "",
+		"jpName": "",
+		"rank": 5,
+		"type": "smg",
+		"illust": "",
+		"voice": "",
+		"buildTime": 8280,
+		"drop": "214",
+		"stats": {
+			"hp": 102,
+			"pow": 95,
+			"hit": 112,
+			"dodge": 128,
+			"speed": 100,
+			"rate": 110,
+			"armorPiercing": 10,
+			"crit": 5
+		},
+		"grow": 122,
+		"effect": {
+			"effectType": "ar",
+			"effectCenter": 6,
+			"effectPos": [1, 2, 3],
+			"gridEffect": {
+				"rate": 18,
+				"crit": 30
+			}
+		},
+		"skill": {
+			"realid": 110054
+		}
+	}, {
+		"id": 235,
+		"name": "FNSPR",
+		"krName": "",
+		"enName": "",
+		"jpName": "",
+		"rank": 4,
+		"type": "rf",
+		"illust": "",
+		"voice": "",
+		"buildTime": 15300,
+		"drop": "1,2",
+		"stats": {
+			"hp": 98,
+			"pow": 115,
+			"hit": 118,
+			"dodge": 85,
+			"speed": 100,
+			"rate": 98,
+			"armorPiercing": 10,
+			"crit": 40
+		},
+		"grow": 128,
+		"effect": {
+			"effectType": "hg",
+			"effectCenter": 5,
+			"effectPos": [7, 9],
+			"gridEffect": {
+				"cooldown": 15
+			}
+		},
+		"skill": {
+			"realid": 110062
+		}
+	}, {
+		"id": 236,
+		"name": "K11",
+		"krName": "",
+		"enName": "",
+		"jpName": "",
+		"rank": 5,
+		"type": "ar",
+		"illust": "",
+		"voice": "",
+		"buildTime": 15060,
+		"drop": "1,2",
+		"stats": {
+			"hp": 122,
+			"pow": 112,
+			"hit": 122,
+			"dodge": 82,
+			"speed": 100,
+			"rate": 110,
+			"armorPiercing": 10,
+			"crit": 20
+		},
+		"grow": 128,
+		"effect": {
+			"effectType": "smg",
+			"effectCenter": 5,
+			"effectPos": [7, 8, 9],
+			"gridEffect": {
+				"pow": 20,
+				"dodge": 15
+			}
+		},
+		"skill": {
+			"realid": 110067
+		}
+	}, {
+		"id": 237,
+		"name": "SAR21",
+		"krName": "",
+		"enName": "",
+		"jpName": "",
+		"rank": 4,
+		"type": "ar",
+		"illust": "",
+		"voice": "",
+		"buildTime": 12300,
+		"drop": "1,2",
+		"stats": {
+			"hp": 105,
+			"pow": 108,
+			"hit": 130,
+			"dodge": 105,
+			"speed": 100,
+			"rate": 125,
+			"armorPiercing": 10,
+			"crit": 20
+		},
+		"grow": 100,
+		"effect": {
+			"effectType": "smg",
+			"effectCenter": 5,
+			"effectPos": [7, 8, 9],
+			"gridEffect": {
+				"pow": 20,
+				"hit": 55
+			}
+		},
+		"skill": {
+			"realid": 110052
+		}
+	}, {
+		"id": 238,
+		"name": "Type88",
+		"krName": "",
+		"enName": "",
+		"jpName": "",
+		"rank": 5,
+		"type": "mg",
+		"illust": "",
+		"voice": "",
+		"buildTime": 23280,
+		"drop": "1,2",
+		"stats": {
+			"hp": 100,
+			"pow": 100,
+			"hit": 122,
+			"dodge": 130,
+			"speed": 100,
+			"rate": 115,
+			"armorPiercing": 10,
+			"crit": 5,
+			"bullet": 10
+		},
+		"grow": 130,
+		"effect": {
+			"effectType": "sg",
+			"effectCenter": 1,
+			"effectPos": [7, 8, 9],
+			"gridEffect": {
+				"hit": 10,
+				"armor": 15
+			}
+		},
+		"skill": {
+			"realid": 110059
 		}
 	}, {
 		"id": 1001,
@@ -8529,7 +8736,7 @@
 		"illust": "水熊",
 		"voice": "Kanako Kondo",
 		"buildTime": 3600,
-		"drop": "305,304",
+		"drop": "0",
 		"stats": {
 			"hp": 90,
 			"pow": 140,
@@ -8544,7 +8751,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 3, 7, 8, 9],
+			"effectPos": [1, 3, 4, 6, 7, 9],
 			"gridEffect": {
 				"rate": 15,
 				"dodge": 10
@@ -8567,7 +8774,7 @@
 		"illust": "ZAGALA",
 		"voice": "Aya Suzaki",
 		"buildTime": 30600,
-		"drop": "303",
+		"drop": "0",
 		"stats": {
 			"hp": 125,
 			"pow": 130,
@@ -8583,8 +8790,8 @@
 		"grow": 95,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [1, 7],
+			"effectCenter": 8,
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 15,
 				"hit": 15
@@ -8622,7 +8829,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 8, 9],
+			"effectPos": [4, 6, 7, 9],
 			"gridEffect": {
 				"pow": 10,
 				"dodge": 15
@@ -8660,7 +8867,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [8, 9],
+			"effectPos": [6, 9],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -8697,7 +8904,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2, 3],
+			"effectPos": [4, 7],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -8733,7 +8940,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 7, 8],
+			"effectPos": [1, 3, 4, 6],
 			"gridEffect": {
 				"rate": 15,
 				"hit": 25
@@ -8771,7 +8978,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [6],
+			"effectPos": [8],
 			"gridEffect": {
 				"pow": 20,
 				"rate": 20
@@ -8810,8 +9017,8 @@
 		"grow": 90,
 		"effect": {
 			"effectType": "mg",
-			"effectCenter": 6,
-			"effectPos": [1, 7],
+			"effectCenter": 8,
+			"effectPos": [1, 3],
 			"gridEffect": {
 				"pow": 20,
 				"hit": 10
@@ -8849,7 +9056,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 4, 7, 8],
+			"effectPos": [1, 2, 3, 4, 6],
 			"gridEffect": {
 				"rate": 15,
 				"hit": 25
@@ -8887,7 +9094,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 6, 8, 9],
+			"effectPos": [4, 6, 7, 8, 9],
 			"gridEffect": {
 				"pow": 15,
 				"hit": 25
@@ -9004,7 +9211,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [2, 4, 8],
+			"effectPos": [2, 4, 6],
 			"gridEffect": {
 				"pow": 18,
 				"crit": 10
@@ -9045,7 +9252,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [2],
+			"effectPos": [4],
 			"gridEffect": {
 				"cooldown": 18
 			}
@@ -9085,7 +9292,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3],
+			"effectPos": [7],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -9125,7 +9332,7 @@
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
-			"effectPos": [3, 9],
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"cooldown": 15
 			}
@@ -9165,7 +9372,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [2, 3, 6, 8, 9],
+			"effectPos": [4, 6, 7, 8, 9],
 			"gridEffect": {
 				"pow": 20,
 				"crit": 32
@@ -9206,7 +9413,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 6, 9],
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"hit": 50,
 				"dodge": 15
@@ -9247,7 +9454,7 @@
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
-			"effectPos": [3, 6, 9],
+			"effectPos": [7, 8, 9],
 			"gridEffect": {
 				"rate": 10,
 				"dodge": 15
@@ -9329,8 +9536,8 @@
 		"grow": 125,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 4,
-			"effectPos": [6],
+			"effectCenter": 2,
+			"effectPos": [8],
 			"gridEffect": {
 				"pow": 18,
 				"armor": 10
@@ -9371,8 +9578,8 @@
 		"grow": 120,
 		"effect": {
 			"effectType": "sg",
-			"effectCenter": 7,
-			"effectPos": [3, 9],
+			"effectCenter": 3,
+			"effectPos": [7, 9],
 			"gridEffect": {
 				"rate": 10,
 				"hit": 15
@@ -9413,7 +9620,7 @@
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
-			"effectPos": [1, 2, 4, 7, 8],
+			"effectPos": [1, 2, 3, 4, 6],
 			"gridEffect": {
 				"pow": 18
 			}
@@ -9453,7 +9660,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"dodge": 20,
 				"crit": 10
@@ -9494,7 +9701,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [4],
+			"effectPos": [2],
 			"gridEffect": {
 				"rate": 24
 			}
@@ -9534,7 +9741,7 @@
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
-			"effectPos": [1, 4, 7],
+			"effectPos": [1, 2, 3],
 			"gridEffect": {
 				"pow": 20,
 				"crit": 30

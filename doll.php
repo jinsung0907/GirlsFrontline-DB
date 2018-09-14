@@ -559,19 +559,19 @@ $starttime = microtime(true);
 						<div class="col-md-auto">
 							<table class="skillview">
 								<tr>
-									<td <?=$effectpos[7]?>></td>
-									<td <?=$effectpos[8]?>></td>
+									<td <?=$effectpos[3]?>></td>
+									<td <?=$effectpos[6]?>></td>
 									<td <?=$effectpos[9]?>></td>
 								</tr>
 								<tr>
-									<td <?=$effectpos[4]?>></td>
+									<td <?=$effectpos[2]?>></td>
 									<td <?=$effectpos[5]?>></td>
-									<td <?=$effectpos[6]?>></td>
+									<td <?=$effectpos[8]?>></td>
 								</tr>
 								<tr>
 									<td <?=$effectpos[1]?>></td>
-									<td <?=$effectpos[2]?>></td>
-									<td <?=$effectpos[3]?>></td>
+									<td <?=$effectpos[4]?>></td>
+									<td <?=$effectpos[7]?>></td>
 								</tr>
 							</table>
 						</div>

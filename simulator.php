@@ -45,9 +45,11 @@
 	</style>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
-			<h2 class="pb-3 border-bottom border-gray"><?=L::sim_title?></h2>
+			<h2 class="pb-3 border-bottom border-gray"><strike><?=L::sim_title?></strike></h2>
+			Currently Not Avaliable.
+			<!--
 			<?=L::sim_desc?>
-			
+			-->
 			<div id="scapture">
 			<span id="watermark"></span>
 				<div class="row">
