@@ -192,7 +192,7 @@ $starttime = microtime(true);
 					$rskill2_txt[$s_level] = str_replace("//c" , ',', $rskill2_txt[$s_level]);
 					$rskill2_txt[$s_level] = str_replace("；" , '<br>', $rskill2_txt[$s_level]);
 					$rskill2_txt[$s_level] = str_replace("//n" , '<br>', $rskill2_txt[$s_level]);
-					$rskill2_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
+					$rskill2_txt[$s_level] = preg_replace("/ ([\+\-0-9.]{1,4}[%배초의칸개발회])/u", " <span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
 					$rskill2_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill2_txt[$s_level]);
 					
 					if($s_level == 10) break;
@@ -223,7 +223,7 @@ $starttime = microtime(true);
 					$rskill_txt[$s_level] = str_replace("//c" , ',', $rskill_txt[$s_level]);
 					$rskill_txt[$s_level] = str_replace("；" , '<br>', $rskill_txt[$s_level]);
 					$rskill_txt[$s_level] = str_replace("//n" , '<br>', $rskill_txt[$s_level]);
-					$rskill_txt[$s_level] = preg_replace("/([0-9.]{1,4}[%배초의칸개발회])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
+					$rskill_txt[$s_level] = preg_replace("/ ([0-9.]{1,4}[%배초의칸개발회])/u", " <span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
 					$rskill_txt[$s_level] = preg_replace("/([\+\-0-9.]{1,4}[％倍秒])/u", "<span class='txthighlight'>\\1</span>", $rskill_txt[$s_level]);
 					
 					if($s_level == 10) break;
