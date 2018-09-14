@@ -19,8 +19,12 @@
 	
 	foreach($equips as $equip) {
 		if(!$equip->buildTime) continue;
+		$cp = $equip->company;
+		if($cp !== "BM" && $cp !== "EOT" && $cp !== "AMP" && $cp !== "IOP" && $cp !== "PMC" && $cp !== "AC") continue;
+		if(isset($equip->fitgun)) continue;
 		$tmp[0] = $equip->buildTime;
 		$result = '';
+		/*
 		if($lang != 'ko') {
 			$result = $equip->type;
 		}
@@ -43,7 +47,8 @@
 				case "reddot": $result = '레드 닷'; break;
 			}
 		}
-		$tmp[1] = $result;
+		$tmp[1] = $result;*/
+		$tmp[1] = "<img style='width: 15%' src='img/equip/{$equip->code}.png'>";
 		$tmp[2] = $equip->rank . L::grade;
 		$tmp[3] = getEquipName($equip);
 		array_push($eqs, $tmp);

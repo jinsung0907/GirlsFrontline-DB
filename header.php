@@ -42,7 +42,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
     <link rel="stylesheet" href="dist/bootstrap.min.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 	<link rel="stylesheet" href="dist/outdatedbrowser/outdatedbrowser.min.css">
-    <link rel="stylesheet" href="dist/gfdb.css?v=6">
+    <link rel="stylesheet" href="dist/gfdb.css?v=7">
   </head>
 
   <body class="bg-secondary">
@@ -62,6 +62,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 			  <div class="dropdown-menu" aria-labelledby="dbDropdown">
 			   <a class="dropdown-item" href="/dolls.php"><?=L::navigation_menu_dolllist?></a>
 			   <a class="dropdown-item" href="/fairies.php"><?=L::navigation_menu_fairylist?></a>
+			   <a class="dropdown-item" href="/equip.php"><?=L::navigation_menu_equiplist?></a>
 			   <a class="dropdown-item" href="/squads.php"><?=L::navigation_menu_heavylist?></a>
 			   <a class="dropdown-item" href="/furniture.php"><?=L::navigation_menu_furniturelist?></a>
 			   <a class="dropdown-item" href="/timetable.php"><?=L::navigation_menu_timetable?></a>
