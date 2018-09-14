@@ -17926,3 +17926,627 @@ battle_skill_config-191012005,현란계
 battle_skill_config-291012005,실제적인 전술 가치는 없지만//c 당신의 신비한 꿈을 이루어 드려요!
 battle_skill_config-391012005,
 battle_skill_config-491012005,현란계
+battle_skill_config-111005201,유성폭우
+battle_skill_config-211005201,자신의 명중을 30% 감소시키는 대신//c 사속을 150까지 상승시키고 난사합니다//c지속시간 3초.
+battle_skill_config-311005201,쿨타임:20초//c명중감소:30%//c지속시간:3초
+battle_skill_config-411005201,
+battle_skill_config-111005202,유성폭우
+battle_skill_config-211005202,자신의 명중을 27% 감소시키는 대신//c 사속을 150까지 상승시키고 난사합니다//c지속시간 3.3초.
+battle_skill_config-311005202,쿨타임:19.6초//c명중감소:27%//c지속시간:3.3초
+battle_skill_config-411005202,
+battle_skill_config-111005203,유성폭우
+battle_skill_config-211005203,자신의 명중을 23% 감소시키는 대신//c 사속을 150까지 상승시키고 난사합니다//c지속시간 3.7초.
+battle_skill_config-311005203,쿨타임:19.1초//c명중감소:23%//c지속시간:3.7초
+battle_skill_config-411005203,
+battle_skill_config-111005204,유성폭우
+battle_skill_config-211005204,자신의 명중을 20% 감소시키는 대신//c 사속을 150까지 상승시키고 난사합니다//c지속시간 4초.
+battle_skill_config-311005204,쿨타임:18.7초//c명중감소:20%//c지속시간:4초
+battle_skill_config-411005204,
+battle_skill_config-111005205,유성폭우
+battle_skill_config-211005205,자신의 명중을 17% 감소시키는 대신//c 사속을 150까지 상승시키고 난사합니다//c지속시간 4.3초.
+battle_skill_config-311005205,쿨타임:18.2초//c명중감소:17%//c지속시간:4.3초
+battle_skill_config-411005205,
+battle_skill_config-111005206,유성폭우
+battle_skill_config-211005206,자신의 명중을 13% 감소시키는 대신//c 사속을 150까지 상승시키고 난사합니다//c지속시간 4.7초.
+battle_skill_config-311005206,쿨타임:17.8초//c명중감소:13%//c지속시간:4.7초
+battle_skill_config-411005206,
+battle_skill_config-111005207,유성폭우
+battle_skill_config-211005207,자신의 명중을 10% 감소시키는 대신//c 사속을 150까지 상승시키고 난사합니다//c지속시간 5초.
+battle_skill_config-311005207,쿨타임:17.3초//c명중감소:10%//c지속시간:5초
+battle_skill_config-411005207,
+battle_skill_config-111005208,유성폭우
+battle_skill_config-211005208,자신의 명중을 7% 감소시키는 대신//c 사속을 150까지 상승시키고 난사합니다//c지속시간 5.3초.
+battle_skill_config-311005208,쿨타임:16.9초//c명중감소:7%//c지속시간:5.3초
+battle_skill_config-411005208,
+battle_skill_config-111005209,유성폭우
+battle_skill_config-211005209,자신의 명중을 3% 감소시키는 대신//c 사속을 150까지 상승시키고 난사합니다//c지속시간 5.7초.
+battle_skill_config-311005209,쿨타임:16.4초//c명중감소:3%//c지속시간:5.7초
+battle_skill_config-411005209,
+battle_skill_config-111005210,유성폭우
+battle_skill_config-211005210,자신의 명중을 0% 감소시키는 대신//c 사속을 150까지 상승시키고 난사합니다//c지속시간 6초.
+battle_skill_config-311005210,쿨타임:16초//c명중감소:0%//c지속시간:6초
+battle_skill_config-411005210,
+battle_skill_config-111005301,SAR-21 스킬평타
+battle_skill_config-211005301,
+battle_skill_config-311005301,
+battle_skill_config-411005301,
+battle_skill_config-111005401,벼락치기
+battle_skill_config-211005401,현재 적의 수에 따라 3초 간 회피(1스택당 15%)//c 화력(1스택당 30%) 버프를 얻는다. 적이 n기 있을 경우//c (4-n)스택 화력 버프와 (n-1)스택 회피 버프를 얻는다. 회피 버프는 최대 6스택 얻을 수 있다. 
+battle_skill_config-311005401,쿨타임:10초//c회피 상승치:15%//c화력 상승치:30%//c지속시간:3초
+battle_skill_config-411005401,
+battle_skill_config-111005402,벼락치기
+battle_skill_config-211005402,현재 적의 수에 따라 3.2초 간 회피(1스택당 17%)//c 화력(1스택당 32%) 버프를 얻는다. 적이 n기 있을 경우//c (4-n)스택 화력 버프와 (n-1)스택 회피 버프를 얻는다. 회피 버프는 최대 6스택 얻을 수 있다. 
+battle_skill_config-311005402,쿨타임:9.8초//c회피 상승치:17%//c화력 상승치:32%//c지속시간:3.2초
+battle_skill_config-411005402,
+battle_skill_config-111005403,벼락치기
+battle_skill_config-211005403,현재 적의 수에 따라 3.4초 간 회피(1스택당 19%)//c 화력(1스택당 34%) 버프를 얻는다. 적이 n기 있을 경우//c (4-n)스택 화력 버프와 (n-1)스택 회피 버프를 얻는다. 회피 버프는 최대 6스택 얻을 수 있다. 
+battle_skill_config-311005403,쿨타임:9.6초//c회피 상승치:19%//c화력 상승치:34%//c지속시간:3.4초
+battle_skill_config-411005403,
+battle_skill_config-111005404,벼락치기
+battle_skill_config-211005404,현재 적의 수에 따라 3.7초 간 회피(1스택당 22%)//c 화력(1스택당 37%) 버프를 얻는다. 적이 n기 있을 경우//c (4-n)스택 화력 버프와 (n-1)스택 회피 버프를 얻는다. 회피 버프는 최대 6스택 얻을 수 있다. 
+battle_skill_config-311005404,쿨타임:9.3초//c회피 상승치:22%//c화력 상승치:37%//c지속시간:3.7초
+battle_skill_config-411005404,
+battle_skill_config-111005405,벼락치기
+battle_skill_config-211005405,현재 적의 수에 따라 3.9초 간 회피(1스택당 24%)//c 화력(1스택당 39%) 버프를 얻는다. 적이 n기 있을 경우//c (4-n)스택 화력 버프와 (n-1)스택 회피 버프를 얻는다. 회피 버프는 최대 6스택 얻을 수 있다. 
+battle_skill_config-311005405,쿨타임:9.1초//c회피 상승치:24%//c화력 상승치:39%//c지속시간:3.9초
+battle_skill_config-411005405,
+battle_skill_config-111005406,벼락치기
+battle_skill_config-211005406,현재 적의 수에 따라 4.1초 간 회피(1스택당 26%)//c 화력(1스택당 41%) 버프를 얻는다. 적이 n기 있을 경우//c (4-n)스택 화력 버프와 (n-1)스택 회피 버프를 얻는다. 회피 버프는 최대 6스택 얻을 수 있다. 
+battle_skill_config-311005406,쿨타임:8.9초//c회피 상승치:26%//c화력 상승치:41%//c지속시간:4.1초
+battle_skill_config-411005406,
+battle_skill_config-111005407,벼락치기
+battle_skill_config-211005407,현재 적의 수에 따라 4.3초 간 회피(1스택당 28%)//c 화력(1스택당 43%) 버프를 얻는다. 적이 n기 있을 경우//c (4-n)스택 화력 버프와 (n-1)스택 회피 버프를 얻는다. 회피 버프는 최대 6스택 얻을 수 있다. 
+battle_skill_config-311005407,쿨타임:8.7초//c회피 상승치:28%//c화력 상승치:43%//c지속시간:4.3초
+battle_skill_config-411005407,
+battle_skill_config-111005408,벼락치기
+battle_skill_config-211005408,현재 적의 수에 따라 4.6초 간 회피(1스택당 31%)//c 화력(1스택당 46%) 버프를 얻는다. 적이 n기 있을 경우//c (4-n)스택 화력 버프와 (n-1)스택 회피 버프를 얻는다. 회피 버프는 최대 6스택 얻을 수 있다. 
+battle_skill_config-311005408,쿨타임:8.4초//c회피 상승치:31%//c화력 상승치:46%//c지속시간:4.6초
+battle_skill_config-411005408,
+battle_skill_config-111005409,벼락치기
+battle_skill_config-211005409,현재 적의 수에 따라 4.8초 간 회피(1스택당 33%)//c 화력(1스택당 48%) 버프를 얻는다. 적이 n기 있을 경우//c (4-n)스택 화력 버프와 (n-1)스택 회피 버프를 얻는다. 회피 버프는 최대 6스택 얻을 수 있다. 
+battle_skill_config-311005409,쿨타임:8.2초//c회피 상승치:33%//c화력 상승치:48%//c지속시간:4.8초
+battle_skill_config-411005409,
+battle_skill_config-111005410,벼락치기
+battle_skill_config-211005410,현재 적의 수에 따라 5초 간 회피(1스택당 35%)//c 화력(1스택당 50%) 버프를 얻는다. 적이 n기 있을 경우//c (4-n)스택 화력 버프와 (n-1)스택 회피 버프를 얻는다. 회피 버프는 최대 6스택 얻을 수 있다. 
+battle_skill_config-311005410,쿨타임:8초//c회피 상승치:35%//c화력 상승치:50%//c지속시간:5초
+battle_skill_config-411005410,
+battle_skill_config-111005501,JS 9mm 소환 스킬
+battle_skill_config-211005501,
+battle_skill_config-311005501,
+battle_skill_config-411005501,
+battle_skill_config-111005601,JS 9mm적이 4기보다 많음
+battle_skill_config-211005601,
+battle_skill_config-311005601,
+battle_skill_config-411005601,
+battle_skill_config-111005602,JS 9mm적이 4기보다 많음
+battle_skill_config-211005602,
+battle_skill_config-311005602,
+battle_skill_config-411005602,
+battle_skill_config-111005603,JS 9mm적이 4기보다 많음
+battle_skill_config-211005603,
+battle_skill_config-311005603,
+battle_skill_config-411005603,
+battle_skill_config-111005604,JS 9mm적이 4기보다 많음
+battle_skill_config-211005604,
+battle_skill_config-311005604,
+battle_skill_config-411005604,
+battle_skill_config-111005605,JS 9mm적이 4기보다 많음
+battle_skill_config-211005605,
+battle_skill_config-311005605,
+battle_skill_config-411005605,
+battle_skill_config-111005606,JS 9mm적이 4기보다 많음
+battle_skill_config-211005606,
+battle_skill_config-311005606,
+battle_skill_config-411005606,
+battle_skill_config-111005607,JS 9mm적이 4기보다 많음
+battle_skill_config-211005607,
+battle_skill_config-311005607,
+battle_skill_config-411005607,
+battle_skill_config-111005608,JS 9mm적이 4기보다 많음
+battle_skill_config-211005608,
+battle_skill_config-311005608,
+battle_skill_config-411005608,
+battle_skill_config-111005609,JS 9mm적이 4기보다 많음
+battle_skill_config-211005609,
+battle_skill_config-311005609,
+battle_skill_config-411005609,
+battle_skill_config-111005610,JS 9mm적이 4기보다 많음
+battle_skill_config-211005610,
+battle_skill_config-311005610,
+battle_skill_config-411005610,
+battle_skill_config-111005701,JS 9mm적이 4기보다 적음
+battle_skill_config-211005701,
+battle_skill_config-311005701,
+battle_skill_config-411005701,
+battle_skill_config-111005702,JS 9mm적이 4기보다 적음
+battle_skill_config-211005702,
+battle_skill_config-311005702,
+battle_skill_config-411005702,
+battle_skill_config-111005703,JS 9mm적이 4기보다 적음
+battle_skill_config-211005703,
+battle_skill_config-311005703,
+battle_skill_config-411005703,
+battle_skill_config-111005704,JS 9mm적이 4기보다 적음
+battle_skill_config-211005704,
+battle_skill_config-311005704,
+battle_skill_config-411005704,
+battle_skill_config-111005705,JS 9mm적이 4기보다 적음
+battle_skill_config-211005705,
+battle_skill_config-311005705,
+battle_skill_config-411005705,
+battle_skill_config-111005706,JS 9mm적이 4기보다 적음
+battle_skill_config-211005706,
+battle_skill_config-311005706,
+battle_skill_config-411005706,
+battle_skill_config-111005707,JS 9mm적이 4기보다 적음
+battle_skill_config-211005707,
+battle_skill_config-311005707,
+battle_skill_config-411005707,
+battle_skill_config-111005708,JS 9mm적이 4기보다 적음
+battle_skill_config-211005708,
+battle_skill_config-311005708,
+battle_skill_config-411005708,
+battle_skill_config-111005709,JS 9mm적이 4기보다 적음
+battle_skill_config-211005709,
+battle_skill_config-311005709,
+battle_skill_config-411005709,
+battle_skill_config-111005710,JS 9mm적이 4기보다 적음
+battle_skill_config-211005710,
+battle_skill_config-311005710,
+battle_skill_config-411005710,
+battle_skill_config-111005801,JS 9mm清除计数[*]
+battle_skill_config-211005801,
+battle_skill_config-311005801,
+battle_skill_config-411005801,
+battle_skill_config-111005901,게으른 분노
+battle_skill_config-211005901,액티브: 자신의 화력을 27% 상승시킨다//c 지속시간 4초. 패시브: 경기관총 모드에서 이동 속도가 50% 상승하고//c 명중이 40% 감소한다; 6초간 정지 시 중기관총 모드가 되어//c 장탄수가 0발 증가하고 명중이 15% 상승한다//c 이동 시 경기관총 모드가 된다.
+battle_skill_config-311005901,화력 상승치:27%//c지속시간:4초//c명중 상승치:15%//c장탄수 추가:0//c경기관총 명중 감소:40%
+battle_skill_config-411005901,
+battle_skill_config-111005902,게으른 분노
+battle_skill_config-211005902,액티브: 자신의 화력을 32% 상승시킨다//c 지속시간 4.2초. 패시브: 경기관총 모드에서 이동 속도가 50% 상승하고//c 명중이 38% 감소한다; 6초간 정지 시 중기관총 모드가 되어//c 장탄수가 0발 증가하고 명중이 17% 상승한다//c 이동 시 경기관총 모드가 된다.
+battle_skill_config-311005902,화력 상승치:32%//c지속시간:4.2초//c명중 상승치:17%//c장탄수 추가:0//c경기관총 명중 감소:38%
+battle_skill_config-411005902,
+battle_skill_config-111005903,게으른 분노
+battle_skill_config-211005903,액티브: 자신의 화력을 38% 상승시킨다//c 지속시간 4.4초. 패시브: 경기관총 모드에서 이동 속도가 50% 상승하고//c 명중이 36% 감소한다; 6초간 정지 시 중기관총 모드가 되어//c 장탄수가 0발 증가하고 명중이 18% 상승한다//c 이동 시 경기관총 모드가 된다.
+battle_skill_config-311005903,화력 상승치:38%//c지속시간:4.4초//c명중 상승치:18%//c장탄수 추가:0//c경기관총 명중 감소:36%
+battle_skill_config-411005903,
+battle_skill_config-111005904,게으른 분노
+battle_skill_config-211005904,액티브: 자신의 화력을 43% 상승시킨다//c 지속시간 4.7초. 패시브: 경기관총 모드에서 이동 속도가 50% 상승하고//c 명중이 33% 감소한다; 6초간 정지 시 중기관총 모드가 되어//c 장탄수가 1발 증가하고 명중이 20% 상승한다//c 이동 시 경기관총 모드가 된다.
+battle_skill_config-311005904,화력 상승치:43%//c지속시간:4.7초//c명중 상승치:20%//c장탄수 추가:1//c경기관총 명중 감소:33%
+battle_skill_config-411005904,
+battle_skill_config-111005905,게으른 분노
+battle_skill_config-211005905,액티브: 자신의 화력을 48% 상승시킨다//c 지속시간 4.9초. 패시브: 경기관총 모드에서 이동 속도가 50% 상승하고//c 명중이 31% 감소한다; 6초간 정지 시 중기관총 모드가 되어//c 장탄수가 1발 증가하고 명중이 22% 상승한다//c 이동 시 경기관총 모드가 된다.
+battle_skill_config-311005905,화력 상승치:48%//c지속시간:4.9초//c명중 상승치:22%//c장탄수 추가:1//c경기관총 명중 감소:31%
+battle_skill_config-411005905,
+battle_skill_config-111005906,게으른 분노
+battle_skill_config-211005906,액티브: 자신의 화력을 54% 상승시킨다//c 지속시간 5.1초. 패시브: 경기관총 모드에서 이동 속도가 50% 상승하고//c 명중이 29% 감소한다; 6초간 정지 시 중기관총 모드가 되어//c 장탄수가 1발 증가하고 명중이 23% 상승한다//c 이동 시 경기관총 모드가 된다.
+battle_skill_config-311005906,화력 상승치:54%//c지속시간:5.1초//c명중 상승치:23%//c장탄수 추가:1//c경기관총 명중 감소:29%
+battle_skill_config-411005906,
+battle_skill_config-111005907,게으른 분노
+battle_skill_config-211005907,액티브: 자신의 화력을 59% 상승시킨다//c 지속시간 5.3초. 패시브: 경기관총 모드에서 이동 속도가 50% 상승하고//c 명중이 27% 감소한다; 6초간 정지 시 중기관총 모드가 되어//c 장탄수가 2발 증가하고 명중이 25% 상승한다//c 이동 시 경기관총 모드가 된다.
+battle_skill_config-311005907,화력 상승치:59%//c지속시간:5.3초//c명중 상승치:25%//c장탄수 추가:2//c경기관총 명중 감소:27%
+battle_skill_config-411005907,
+battle_skill_config-111005908,게으른 분노
+battle_skill_config-211005908,액티브: 자신의 화력을 64% 상승시킨다//c 지속시간 5.6초. 패시브: 경기관총 모드에서 이동 속도가 50% 상승하고//c 명중이 24% 감소한다; 6초간 정지 시 중기관총 모드가 되어//c 장탄수가 2발 증가하고 명중이 27% 상승한다//c 이동 시 경기관총 모드가 된다.
+battle_skill_config-311005908,화력 상승치:64%//c지속시간:5.6초//c명중 상승치:27%//c장탄수 추가:2//c경기관총 명중 감소:24%
+battle_skill_config-411005908,
+battle_skill_config-111005909,게으른 분노
+battle_skill_config-211005909,액티브: 자신의 화력을 70% 상승시킨다//c 지속시간 5.8초. 패시브: 경기관총 모드에서 이동 속도가 50% 상승하고//c 명중이 22% 감소한다; 6초간 정지 시 중기관총 모드가 되어//c 장탄수가 2발 증가하고 명중이 28% 상승한다//c 이동 시 경기관총 모드가 된다.
+battle_skill_config-311005909,화력 상승치:70%//c지속시간:5.8초//c명중 상승치:28%//c장탄수 추가:2//c경기관총 명중 감소:22%
+battle_skill_config-411005909,
+battle_skill_config-111005910,게으른 분노
+battle_skill_config-211005910,액티브: 자신의 화력을 75% 상승시킨다//c 지속시간 6초. 패시브: 경기관총 모드에서 이동 속도가 50% 상승하고//c 명중이 20% 감소한다; 6초간 정지 시 중기관총 모드가 되어//c 장탄수가 2발 증가하고 명중이 30% 상승한다//c 이동 시 경기관총 모드가 된다.
+battle_skill_config-311005910,화력 상승치:75%//c지속시간:6초//c명중 상승치:30%//c장탄수 추가:2//c경기관총 명중 감소:20%
+battle_skill_config-411005910,
+battle_skill_config-111006201,기염 분출
+battle_skill_config-211006201,현재 공격 대상을 1.5초간 조준 후//c 2.8배의 피해를 입힌다. 해당 적이 5초 안에 사망할 경우 자신의 사속을 15% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006201,쿨타임:20초//c대미지 배율:2.8배//c사속 상승치:15%
+battle_skill_config-411006201,
+battle_skill_config-111006202,기염 분출
+battle_skill_config-211006202,현재 공격 대상을 1.5초간 조준 후//c 3.1배의 피해를 입힌다. 해당 적이 5초 안에 사망할 경우 자신의 사속을 16% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006202,쿨타임:19.6초//c대미지 배율:3.1배//c사속 상승치:16%
+battle_skill_config-411006202,
+battle_skill_config-111006203,기염 분출
+battle_skill_config-211006203,현재 공격 대상을 1.5초간 조준 후//c 3.4배의 피해를 입힌다. 해당 적이 5초 안에 사망할 경우 자신의 사속을 17% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006203,쿨타임:19.1초//c대미지 배율:3.4배//c사속 상승치:17%
+battle_skill_config-411006203,
+battle_skill_config-111006204,기염 분출
+battle_skill_config-211006204,현재 공격 대상을 1.5초간 조준 후//c 3.7배의 피해를 입힌다. 해당 적이 5초 안에 사망할 경우 자신의 사속을 18% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006204,쿨타임:18.7초//c대미지 배율:3.7배//c사속 상승치:18%
+battle_skill_config-411006204,
+battle_skill_config-111006205,기염 분출
+battle_skill_config-211006205,현재 공격 대상을 1.5초간 조준 후//c 4배의 피해를 입힌다. 해당 적이 5초 안에 사망할 경우 자신의 사속을 19% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006205,쿨타임:18.2초//c대미지 배율:4배//c사속 상승치:19%
+battle_skill_config-411006205,
+battle_skill_config-111006206,기염 분출
+battle_skill_config-211006206,현재 공격 대상을 1.5초간 조준 후//c 4.3배의 피해를 입힌다. 해당 적이 5초 안에 사망할 경우 자신의 사속을 21% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006206,쿨타임:17.8초//c대미지 배율:4.3배//c사속 상승치:21%
+battle_skill_config-411006206,
+battle_skill_config-111006207,기염 분출
+battle_skill_config-211006207,현재 공격 대상을 1.5초간 조준 후//c 4.6배의 피해를 입힌다. 해당 적이 5초 안에 사망할 경우 자신의 사속을 22% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006207,쿨타임:17.3초//c대미지 배율:4.6배//c사속 상승치:22%
+battle_skill_config-411006207,
+battle_skill_config-111006208,기염 분출
+battle_skill_config-211006208,현재 공격 대상을 1.5초간 조준 후//c 4.9배의 피해를 입힌다. 해당 적이 5초 안에 사망할 경우 자신의 사속을 23% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006208,쿨타임:16.9초//c대미지 배율:4.9배//c사속 상승치:23%
+battle_skill_config-411006208,
+battle_skill_config-111006209,기염 분출
+battle_skill_config-211006209,현재 공격 대상을 1.5초간 조준 후//c 5.2배의 피해를 입힌다. 해당 적이 5초 안에 사망할 경우 자신의 사속을 24% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006209,쿨타임:16.4초//c대미지 배율:5.2배//c사속 상승치:24%
+battle_skill_config-411006209,
+battle_skill_config-111006210,기염 분출
+battle_skill_config-211006210,현재 공격 대상을 1.5초간 조준 후//c 5.5배의 피해를 입힌다. 해당 적이 5초 안에 사망할 경우 자신의 사속을 25% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006210,쿨타임:16초//c대미지 배율:5.5배//c사속 상승치:25%
+battle_skill_config-411006210,
+battle_skill_config-111006301,FN SPR判定普攻[*]
+battle_skill_config-211006301,
+battle_skill_config-311006301,
+battle_skill_config-411006301,
+battle_skill_config-111006401,FN SPR击杀增益[*]
+battle_skill_config-211006401,
+battle_skill_config-311006401,
+battle_skill_config-411006401,
+battle_skill_config-111006402,FN SPR击杀增益[*]
+battle_skill_config-211006402,
+battle_skill_config-311006402,
+battle_skill_config-411006402,
+battle_skill_config-111006403,FN SPR击杀增益[*]
+battle_skill_config-211006403,
+battle_skill_config-311006403,
+battle_skill_config-411006403,
+battle_skill_config-111006404,FN SPR击杀增益[*]
+battle_skill_config-211006404,
+battle_skill_config-311006404,
+battle_skill_config-411006404,
+battle_skill_config-111006405,FN SPR击杀增益[*]
+battle_skill_config-211006405,
+battle_skill_config-311006405,
+battle_skill_config-411006405,
+battle_skill_config-111006406,FN SPR击杀增益[*]
+battle_skill_config-211006406,
+battle_skill_config-311006406,
+battle_skill_config-411006406,
+battle_skill_config-111006407,FN SPR击杀增益[*]
+battle_skill_config-211006407,
+battle_skill_config-311006407,
+battle_skill_config-411006407,
+battle_skill_config-111006408,FN SPR击杀增益[*]
+battle_skill_config-211006408,
+battle_skill_config-311006408,
+battle_skill_config-411006408,
+battle_skill_config-111006409,FN SPR击杀增益[*]
+battle_skill_config-211006409,
+battle_skill_config-311006409,
+battle_skill_config-411006409,
+battle_skill_config-111006410,FN SPR击杀增益[*]
+battle_skill_config-211006410,
+battle_skill_config-311006410,
+battle_skill_config-411006410,
+battle_skill_config-111006501,FN SPR普攻[*]
+battle_skill_config-211006501,
+battle_skill_config-311006501,
+battle_skill_config-411006501,
+battle_skill_config-111006601,치명적 도박
+battle_skill_config-211006601,버프칸에 있는 아군 인형의 치명타율을 30% 감소시키는 대가로//c 그들의 치명타 피해를 30% 상승시킨다//c 지속시간 5초.
+battle_skill_config-311006601,쿨타임:15초//c치명타율 감소:30%//c치명상 상승치:30%//c지속시간:5초
+battle_skill_config-411006601,
+battle_skill_config-111006602,치명적 도박
+battle_skill_config-211006602,버프칸에 있는 아군 인형의 치명타율을 29% 감소시키는 대가로//c 그들의 치명타 피해를 32% 상승시킨다//c 지속시간 5.3초.
+battle_skill_config-311006602,쿨타임:14.7초//c치명타율 감소:29%//c치명상 상승치:32%//c지속시간:5.3초
+battle_skill_config-411006602,
+battle_skill_config-111006603,치명적 도박
+battle_skill_config-211006603,버프칸에 있는 아군 인형의 치명타율을 28% 감소시키는 대가로//c 그들의 치명타 피해를 34% 상승시킨다//c 지속시간 5.7초.
+battle_skill_config-311006603,쿨타임:14.3초//c치명타율 감소:28%//c치명상 상승치:34%//c지속시간:5.7초
+battle_skill_config-411006603,
+battle_skill_config-111006604,치명적 도박
+battle_skill_config-211006604,버프칸에 있는 아군 인형의 치명타율을 27% 감소시키는 대가로//c 그들의 치명타 피해를 37% 상승시킨다//c 지속시간 6초.
+battle_skill_config-311006604,쿨타임:14초//c치명타율 감소:27%//c치명상 상승치:37%//c지속시간:6초
+battle_skill_config-411006604,
+battle_skill_config-111006605,치명적 도박
+battle_skill_config-211006605,버프칸에 있는 아군 인형의 치명타율을 26% 감소시키는 대가로//c 그들의 치명타 피해를 39% 상승시킨다//c 지속시간 6.3초.
+battle_skill_config-311006605,쿨타임:13.7초//c치명타율 감소:26%//c치명상 상승치:39%//c지속시간:6.3초
+battle_skill_config-411006605,
+battle_skill_config-111006606,치명적 도박
+battle_skill_config-211006606,버프칸에 있는 아군 인형의 치명타율을 24% 감소시키는 대가로//c 그들의 치명타 피해를 41% 상승시킨다//c 지속시간 6.7초.
+battle_skill_config-311006606,쿨타임:13.3초//c치명타율 감소:24%//c치명상 상승치:41%//c지속시간:6.7초
+battle_skill_config-411006606,
+battle_skill_config-111006607,치명적 도박
+battle_skill_config-211006607,버프칸에 있는 아군 인형의 치명타율을 23% 감소시키는 대가로//c 그들의 치명타 피해를 43% 상승시킨다//c 지속시간 7초.
+battle_skill_config-311006607,쿨타임:13초//c치명타율 감소:23%//c치명상 상승치:43%//c지속시간:7초
+battle_skill_config-411006607,
+battle_skill_config-111006608,치명적 도박
+battle_skill_config-211006608,버프칸에 있는 아군 인형의 치명타율을 22% 감소시키는 대가로//c 그들의 치명타 피해를 46% 상승시킨다//c 지속시간 7.3초.
+battle_skill_config-311006608,쿨타임:12.7초//c치명타율 감소:22%//c치명상 상승치:46%//c지속시간:7.3초
+battle_skill_config-411006608,
+battle_skill_config-111006609,치명적 도박
+battle_skill_config-211006609,버프칸에 있는 아군 인형의 치명타율을 21% 감소시키는 대가로//c 그들의 치명타 피해를 48% 상승시킨다//c 지속시간 7.7초.
+battle_skill_config-311006609,쿨타임:12.3초//c치명타율 감소:21%//c치명상 상승치:48%//c지속시간:7.7초
+battle_skill_config-411006609,
+battle_skill_config-111006610,치명적 도박
+battle_skill_config-211006610,버프칸에 있는 아군 인형의 치명타율을 20% 감소시키는 대가로//c 그들의 치명타 피해를 50% 상승시킨다//c 지속시간 8초.
+battle_skill_config-311006610,쿨타임:12초//c치명타율 감소:20%//c치명상 상승치:50%//c지속시간:8초
+battle_skill_config-411006610,
+battle_skill_config-111006701,유탄 호러
+battle_skill_config-211006701,더미 인형과 함께 유탄을 발사하여//c 반경 1 범위 내 적에게 2배의 피해를 준다. 유탄에 맞은 적이 3초 안에 또 K11의 유탄에 피해를 받을 경우 추가로 2배의 피해를 준다.
+battle_skill_config-311006701,쿨타임:20초//c대미지 배율:2배
+battle_skill_config-411006701,
+battle_skill_config-111006702,유탄 호러
+battle_skill_config-211006702,더미 인형과 함께 유탄을 발사하여//c 반경 1 범위 내 적에게 2.2배의 피해를 준다. 유탄에 맞은 적이 3초 안에 또 K11의 유탄에 피해를 받을 경우 추가로 2배의 피해를 준다.
+battle_skill_config-311006702,쿨타임:19.6초//c대미지 배율:2.2배
+battle_skill_config-411006702,
+battle_skill_config-111006703,유탄 호러
+battle_skill_config-211006703,더미 인형과 함께 유탄을 발사하여//c 반경 1 범위 내 적에게 2.4배의 피해를 준다. 유탄에 맞은 적이 3초 안에 또 K11의 유탄 피해를 받을 경우 추가로 2배의 피해를 준다.
+battle_skill_config-311006703,쿨타임:19.1초//c대미지 배율:2.4배
+battle_skill_config-411006703,
+battle_skill_config-111006704,유탄 호러
+battle_skill_config-211006704,더미 인형과 함께 유탄을 발사하여//c 반경 1 범위 내 적에게 2.7배의 피해를 준다. 유탄에 맞은 적이 3초 안에 또 K11의 유탄에 피해를 받을 경우 추가로 2배의 피해를 준다.
+battle_skill_config-311006704,쿨타임:18.7초//c대미지 배율:2.7배
+battle_skill_config-411006704,
+battle_skill_config-111006705,유탄 호러
+battle_skill_config-211006705,더미 인형과 함께 유탄을 발사하여//c 반경 1 범위 내 적에게 2.9배의 피해를 준다. 유탄에 맞은 적이 3초 안에 또 K11의 유탄에 피해를 받을 경우 추가로 2배의 피해를 준다.
+battle_skill_config-311006705,쿨타임:18.2초//c대미지 배율:2.9배
+battle_skill_config-411006705,
+battle_skill_config-111006706,유탄 호러
+battle_skill_config-211006706,더미 인형과 함께 유탄을 발사하여//c 반경 1 범위 내 적에게 3.1배의 피해를 준다. 유탄에 맞은 적이 3초 안에 또 K11의 유탄에 피해를 받을 경우 추가로 2배의 피해를 준다.
+battle_skill_config-311006706,쿨타임:17.8초//c대미지 배율:3.1배
+battle_skill_config-411006706,
+battle_skill_config-111006707,유탄 호러
+battle_skill_config-211006707,더미 인형과 함께 유탄을 발사하여//c 반경 1 범위 내 적에게 3.3배의 피해를 준다. 유탄에 맞은 적이 3초 안에 또 K11의 유탄에 피해를 받을 경우 추가로 2배의 피해를 준다.
+battle_skill_config-311006707,쿨타임:17.3초//c대미지 배율:3.3배
+battle_skill_config-411006707,
+battle_skill_config-111006708,유탄 호러
+battle_skill_config-211006708,더미 인형과 함께 유탄을 발사하여//c 반경 1 범위 내 적에게 3.6배의 피해를 준다. 유탄에 맞은 적이 3초 안에 또 K11의 유탄에 피해를 받을 경우 추가로 2배의 피해를 준다.
+battle_skill_config-311006708,쿨타임:16.9초//c대미지 배율:3.6배
+battle_skill_config-411006708,
+battle_skill_config-111006709,유탄 호러
+battle_skill_config-211006709,더미 인형과 함께 유탄을 발사하여//c 반경 1 범위 내 적에게 3.8배의 피해를 준다. 유탄에 맞은 적이 3초 안에 또 K11의 유탄에 피해를 받을 경우 추가로 2배의 피해를 준다.
+battle_skill_config-311006709,쿨타임:16.4초//c대미지 배율:3.8배
+battle_skill_config-411006709,
+battle_skill_config-111006710,유탄 호러
+battle_skill_config-211006710,더미 인형과 함께 유탄을 발사하여//c 반경 1 범위 내 적에게 4배의 피해를 준다. 유탄에 맞은 적이 3초 안에 또 K11의 유탄에 피해를 받을 경우 추가로 2배의 피해를 준다.
+battle_skill_config-311006710,쿨타임:16초//c대미지 배율:4배
+battle_skill_config-411006710,
+battle_skill_config-111006801,K11编制统计[*]
+battle_skill_config-211006801,
+battle_skill_config-311006801,
+battle_skill_config-411006801,
+battle_skill_config-111006901,K11 유탄 초탄
+battle_skill_config-211006901,
+battle_skill_config-311006901,쿨타임:20초//c대미지 배율:5배
+battle_skill_config-411006901,
+battle_skill_config-111006902,K11 유탄 초탄
+battle_skill_config-211006902,
+battle_skill_config-311006902,쿨타임:19.6초//c대미지 배율:5.8배
+battle_skill_config-411006902,
+battle_skill_config-111006903,K11 유탄 초탄
+battle_skill_config-211006903,
+battle_skill_config-311006903,쿨타임:19.1초//c대미지 배율:6.6배
+battle_skill_config-411006903,
+battle_skill_config-111006904,K11 유탄 초탄
+battle_skill_config-211006904,
+battle_skill_config-311006904,쿨타임:18.7초//c대미지 배율:7.3배
+battle_skill_config-411006904,
+battle_skill_config-111006905,K11 유탄 초탄
+battle_skill_config-211006905,
+battle_skill_config-311006905,쿨타임:18.2초//c대미지 배율:8.1배
+battle_skill_config-411006905,
+battle_skill_config-111006906,K11 유탄 초탄
+battle_skill_config-211006906,
+battle_skill_config-311006906,쿨타임:17.8초//c대미지 배율:8.9배
+battle_skill_config-411006906,
+battle_skill_config-111006907,K11 유탄 초탄
+battle_skill_config-211006907,
+battle_skill_config-311006907,쿨타임:17.3초//c대미지 배율:9.7배
+battle_skill_config-411006907,
+battle_skill_config-111006908,K11 유탄 초탄
+battle_skill_config-211006908,
+battle_skill_config-311006908,쿨타임:16.9초//c대미지 배율:10.4배
+battle_skill_config-411006908,
+battle_skill_config-111006909,K11 유탄 초탄
+battle_skill_config-211006909,
+battle_skill_config-311006909,쿨타임:16.4초//c대미지 배율:11.2배
+battle_skill_config-411006909,
+battle_skill_config-111006910,K11 유탄 초탄
+battle_skill_config-211006910,
+battle_skill_config-311006910,쿨타임:16초//c대미지 배율:12배
+battle_skill_config-411006910,
+battle_skill_config-111007001,K11 추가 피해
+battle_skill_config-211007001,
+battle_skill_config-311007001,
+battle_skill_config-411007001,
+battle_skill_config-111007002,K11 추가 피해
+battle_skill_config-211007002,
+battle_skill_config-311007002,
+battle_skill_config-411007002,
+battle_skill_config-111007003,K11 추가 피해
+battle_skill_config-211007003,
+battle_skill_config-311007003,
+battle_skill_config-411007003,
+battle_skill_config-111007004,K11 추가 피해
+battle_skill_config-211007004,
+battle_skill_config-311007004,
+battle_skill_config-411007004,
+battle_skill_config-111007005,K11 추가 피해
+battle_skill_config-211007005,
+battle_skill_config-311007005,
+battle_skill_config-411007005,
+battle_skill_config-111007006,K11 추가 피해
+battle_skill_config-211007006,
+battle_skill_config-311007006,
+battle_skill_config-411007006,
+battle_skill_config-111007007,K11 추가 피해
+battle_skill_config-211007007,
+battle_skill_config-311007007,
+battle_skill_config-411007007,
+battle_skill_config-111007008,K11 추가 피해
+battle_skill_config-211007008,
+battle_skill_config-311007008,
+battle_skill_config-411007008,
+battle_skill_config-111007009,K11 추가 피해
+battle_skill_config-211007009,
+battle_skill_config-311007009,
+battle_skill_config-411007009,
+battle_skill_config-111007010,K11 추가 피해
+battle_skill_config-211007010,
+battle_skill_config-311007010,
+battle_skill_config-411007010,
+battle_skill_config-111007101,K11清除[*]
+battle_skill_config-211007101,
+battle_skill_config-311007101,
+battle_skill_config-411007101,
+battle_skill_config-111007201,K11判定[*]
+battle_skill_config-211007201,
+battle_skill_config-311007201,
+battle_skill_config-411007201,
+battle_skill_config-111007301,FN SPR射速控制普通
+battle_skill_config-211007301,
+battle_skill_config-311007301,
+battle_skill_config-411007301,
+battle_skill_config-111007401,88式开场
+battle_skill_config-211007401,
+battle_skill_config-311007401,
+battle_skill_config-411007401,
+battle_skill_config-111007501,重机枪模式
+battle_skill_config-211007501,
+battle_skill_config-311007501,
+battle_skill_config-411007501,
+battle_skill_config-111007601,重机枪脱离[*]
+battle_skill_config-211007601,
+battle_skill_config-311007601,
+battle_skill_config-411007601,
+battle_skill_config-111007701,88式重机枪增益
+battle_skill_config-211007701,
+battle_skill_config-311007701,
+battle_skill_config-411007701,
+battle_skill_config-111007702,88式重机枪增益
+battle_skill_config-211007702,
+battle_skill_config-311007702,
+battle_skill_config-411007702,
+battle_skill_config-111007703,88式重机枪增益
+battle_skill_config-211007703,
+battle_skill_config-311007703,
+battle_skill_config-411007703,
+battle_skill_config-111007704,88式重机枪增益
+battle_skill_config-211007704,
+battle_skill_config-311007704,
+battle_skill_config-411007704,
+battle_skill_config-111007705,88式重机枪增益
+battle_skill_config-211007705,
+battle_skill_config-311007705,
+battle_skill_config-411007705,
+battle_skill_config-111007706,88式重机枪增益
+battle_skill_config-211007706,
+battle_skill_config-311007706,
+battle_skill_config-411007706,
+battle_skill_config-111007707,88式重机枪增益
+battle_skill_config-211007707,
+battle_skill_config-311007707,
+battle_skill_config-411007707,
+battle_skill_config-111007708,88式重机枪增益
+battle_skill_config-211007708,
+battle_skill_config-311007708,
+battle_skill_config-411007708,
+battle_skill_config-111007709,88式重机枪增益
+battle_skill_config-211007709,
+battle_skill_config-311007709,
+battle_skill_config-411007709,
+battle_skill_config-111007710,88式重机枪增益
+battle_skill_config-211007710,
+battle_skill_config-311007710,
+battle_skill_config-411007710,
+battle_skill_config-111007801,88式机枪普攻[*]
+battle_skill_config-211007801,机枪的普通攻击
+battle_skill_config-311007801,
+battle_skill_config-411007801,
+battle_skill_config-111007901,88式重机枪普攻[*]
+battle_skill_config-211007901,机枪的普通攻击
+battle_skill_config-311007901,
+battle_skill_config-411007901,
+battle_skill_config-111008001,88式轻机枪减命中
+battle_skill_config-211008001,
+battle_skill_config-311008001,
+battle_skill_config-411008001,
+battle_skill_config-111008002,88式轻机枪减命中
+battle_skill_config-211008002,
+battle_skill_config-311008002,
+battle_skill_config-411008002,
+battle_skill_config-111008003,88式轻机枪减命中
+battle_skill_config-211008003,
+battle_skill_config-311008003,
+battle_skill_config-411008003,
+battle_skill_config-111008004,88式轻机枪减命中
+battle_skill_config-211008004,
+battle_skill_config-311008004,
+battle_skill_config-411008004,
+battle_skill_config-111008005,88式轻机枪减命中
+battle_skill_config-211008005,
+battle_skill_config-311008005,
+battle_skill_config-411008005,
+battle_skill_config-111008006,88式轻机枪减命中
+battle_skill_config-211008006,
+battle_skill_config-311008006,
+battle_skill_config-411008006,
+battle_skill_config-111008007,88式轻机枪减命中
+battle_skill_config-211008007,
+battle_skill_config-311008007,
+battle_skill_config-411008007,
+battle_skill_config-111008008,88式轻机枪减命中
+battle_skill_config-211008008,
+battle_skill_config-311008008,
+battle_skill_config-411008008,
+battle_skill_config-111008009,88式轻机枪减命中
+battle_skill_config-211008009,
+battle_skill_config-311008009,
+battle_skill_config-411008009,
+battle_skill_config-111008010,88式轻机枪减命中
+battle_skill_config-211008010,
+battle_skill_config-311008010,
+battle_skill_config-411008010,
+battle_skill_config-111008101,88式机枪换弹[*]
+battle_skill_config-211008101,机枪战斗中换弹
+battle_skill_config-311008101,
+battle_skill_config-411008101,
+battle_skill_config-111008201,88式额外弹量
+battle_skill_config-211008201,
+battle_skill_config-311008201,
+battle_skill_config-411008201,
+battle_skill_config-111008202,88式额外弹量
+battle_skill_config-211008202,
+battle_skill_config-311008202,
+battle_skill_config-411008202,
+battle_skill_config-111008203,88式额外弹量
+battle_skill_config-211008203,
+battle_skill_config-311008203,
+battle_skill_config-411008203,
+battle_skill_config-111008204,88式额外弹量
+battle_skill_config-211008204,
+battle_skill_config-311008204,
+battle_skill_config-411008204,
+battle_skill_config-111008205,88式额外弹量
+battle_skill_config-211008205,
+battle_skill_config-311008205,
+battle_skill_config-411008205,
+battle_skill_config-111008206,88式额外弹量
+battle_skill_config-211008206,
+battle_skill_config-311008206,
+battle_skill_config-411008206,
+battle_skill_config-111008207,88式额外弹量
+battle_skill_config-211008207,
+battle_skill_config-311008207,
+battle_skill_config-411008207,
+battle_skill_config-111008208,88式额外弹量
+battle_skill_config-211008208,
+battle_skill_config-311008208,
+battle_skill_config-411008208,
+battle_skill_config-111008209,88式额外弹量
+battle_skill_config-211008209,
+battle_skill_config-311008209,
+battle_skill_config-411008209,
+battle_skill_config-111008210,88式额外弹量
+battle_skill_config-211008210,
+battle_skill_config-311008210,
+battle_skill_config-411008210,
+battle_skill_config-111008301,K11索敌
+battle_skill_config-211008301,
+battle_skill_config-311008301,
+battle_skill_config-411008301,
