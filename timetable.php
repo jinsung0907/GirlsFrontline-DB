@@ -82,6 +82,16 @@
 								</tr>
 							</thead>
 					<?php foreach($dolls as $doll) { 
+						//제조가 안되는 인형에도 제조시간이 붙어있으므로 obtain값을 이용하여 제거해야함
+						$exp = explode(',', $doll->drop);
+						$chk = false;
+						foreach($exp as $ex) {
+							if($ex == 1 || $ex == 2)
+								$chk = true;
+						}
+						if($chk == false) 
+							$doll->buildTime = 0;
+						
 						if(!$doll->buildTime) continue; 
 						$dollname = getDollName($doll); ?>
 							<tr>
