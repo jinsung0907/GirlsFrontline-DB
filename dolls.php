@@ -7,6 +7,13 @@
 	$header_keyword = "소녀전선 인형 목록, 소녀전선 인형 리스트, 소녀전선 추천인형, 소녀전선 SD, 소녀전선 보이스";
 	require_once("header.php");
 	$dolls = getJson('doll');
+	
+	$live2dlist = [];
+	foreach(array_slice(scandir("img/live2d"), 2) as $dir) {
+		$exp = explode('_', $dir);
+		array_push($live2dlist, $exp[0]);
+	}
+	array_unique($live2dlist);
 ?>	
 	<style>
 		@import url("//fonts.googleapis.com/earlyaccess/nanumgothic.css");
@@ -14,7 +21,9 @@
 	</style>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
-			<input class="checkbox" type="checkbox" id="damaged"><label for="damaged"><?=L::database_viewdamaged?></label><br>
+			<input class="checkbox" type="checkbox" id="damaged"><label for="damaged"><?=L::database_viewdamaged?></label>
+			<input class="checkbox" type="checkbox" id="live2d"><label for="live2d">Live2D</label>
+			<br>
 			<input class="checkbox" type="checkbox" id="rank2_btn" name="rank"><label for="rank2_btn"><?=L::database_2star?></label>
 			<input class="checkbox" type="checkbox" id="rank3_btn" name="rank"><label for="rank3_btn"><?=L::database_3star?></label>
 			<input class="checkbox" type="checkbox" id="rank4_btn" name="rank"><label for="rank4_btn"><?=L::database_4star?></label>
@@ -57,6 +66,15 @@
 						}
 					}
 					
+					$live2d = 0;
+					foreach($live2dlist as $l2dlist) {
+						if(strtolower($l2dlist) == strtolower($doll->name)) {
+							$live2d = 1;
+							break;
+						}
+					}
+					
+					
 					//제조가 안되는 인형에도 제조시간이 붙어있으므로 obtain값을 이용하여 제거해야함
 					$exp = explode(',', $doll->drop);
 					$chk = false;
@@ -70,7 +88,7 @@
 					if($doll->id >= 1000 && $doll->id <= 2000)
 						$doll->rank = 1;
 					?>
-				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-id='<?=$doll->rank?>' data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=getDollName($doll)?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>' data-buff='<?=$buff?>'>
+				<a href="doll.php?id=<?=$doll->id?>" class="dollindex item rank<?=$doll->rank?>" data-id='<?=$doll->rank?>' data-rank='<?=$doll->rank?>' data-type='<?=$doll->type?>' data-name='<?=getDollName($doll)?>' data-buildtime='<?=isset($doll->buildTime)?gmdate("Gi", $doll->buildTime):''?>' data-buff='<?=$buff?>' data-l2d='<?=$live2d?>'>
 					<i class="rankbar"></i>
 					<div class="starrank">
 						<img src="img/type/<?=strtoupper($doll->type)?><?=$doll->rank?>.png" class="typeicon">
@@ -128,12 +146,11 @@
 			}
 		});
 		
-		$('input:checkbox[name="rank"],input:checkbox[name="type"],input:checkbox[name="buff"]').on('click', function() {
+		$('#live2d,input:checkbox[name="rank"],input:checkbox[name="type"],input:checkbox[name="buff"]').on('click', function() {
 			apply_filter();
 			$(".portrait:visible").lazy({
 				effect: 'fadeIn',
 				beforeLoad: function(e) {
-					console.log('a');
 					e[0].append($('<img>', { src: 'img/load.gif', class: 'loader' })[0]);
 				},
 				afterLoad: function(e) {
@@ -146,11 +163,19 @@
 			var rankcnt = 0;
 			var typecnt = 0;
 			var buffcnt = 0;
+			var l2dcnt = 0;
 			var rank = [];
 			var type = [];
 			var rankselector = '';
 			var typeselector = '';
 			var buffselector = '';
+			var l2dselector = '';
+			
+			if($("#live2d").prop("checked") === true) {
+				l2dselector += ",[data-l2d=0]";
+				l2dcnt++;
+			} 
+			
 			for(var i = 1 ; i<= 5 ; i++) {
 				if($("#rank" + i + "_btn").prop("checked") === false) {
 					rankselector += ",[data-rank="+i+"]";
@@ -198,7 +223,7 @@
 			} else buffcnt++;
 			
 			
-			if((rankcnt + typecnt + buffcnt) !== 0) {
+			if((rankcnt + typecnt + buffcnt + l2dcnt) !== 0) {
 				$("a.dollindex.item").show();
 				
 				var selector = '';
@@ -210,6 +235,9 @@
 				}
 				if(buffcnt !== 0) {
 					selector += buffselector;
+				}
+				if(l2dcnt !== 0) {
+					selector += l2dselector;
 				}
 				selector = selector.substring(1, selector.length);
 				$(selector).hide();
