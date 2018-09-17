@@ -427,6 +427,7 @@ $starttime = microtime(true);
 	$header_keyword = "$dollname, $dollname 보이스, $dollname SD, $dollname 스킨, {$doll->name}, 소녀전선 검열, " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
 	$header_image = "http://gfl.zzzzz.kr/img/characters/" .$doll->name . "/pic/pic_" . $doll->name . "_n.jpg";
 
+	
 	//제조가 안되는 인형에도 제조시간이 붙어있으므로 obtain값을 이용하여 제거해야함
 	$exp = explode(',', $doll->drop);
 	$chk = false;
@@ -436,6 +437,27 @@ $starttime = microtime(true);
 	}
 	if($chk == false) 
 		$doll->buildTime = 0;
+	
+	
+	$obtain = '';
+	//obtain파싱
+	$tmps = explode(PHP_EOL, getDataFile('gun_obtain', $lang));
+	foreach($exp as $ex) {
+		foreach($tmps as $line) {
+			$preg = "/gun_obtain-1([0-9]{7}),(.*)/";
+			if(preg_match($preg, $line, $match)) {
+				$id = $match[1] % 10000000;
+				if($id == $ex) {
+					$obtain .= str_replace('//c', ',', $match[2]) . '<br>';
+					break;
+				}
+			}
+		}
+	}
+	
+	if(empty($obtain)) {
+		$obtain = 'No Information';
+	}
 	
 	require_once("header.php");
 ?>
@@ -490,7 +512,15 @@ $starttime = microtime(true);
 						</div>
 					</div>
 					<hr class="mt-1 mb-1">
-					<b><?=L::database_buildtime?></b> : <?=isset($doll->buildTime)&&$doll->buildTime!=0?gmdate("H\\" . L::hour . " i\\" . L::min, $doll->buildTime): L::database_cantbuild?><hr class="mt-1 mb-1">
+					<div class="row">
+						<div class="col">
+							<b><?=L::database_buildtime?></b> : <?=isset($doll->buildTime)&&$doll->buildTime!=0?gmdate("H\\" . L::hour . " i\\" . L::min, $doll->buildTime): L::database_cantbuild?>
+						</div>
+						<div class="col">
+							<b><?=L::database_obtain?></b> : <i class="fas fa-info-circle" data-toggle="tooltip" data-html="true" data-placement="top" title="<?=$obtain?>"></i>
+						</div>
+					</div>
+					<hr class="mt-1 mb-1">
 					<b><?=L::database_skin?></b> : <?=$skinstr?><hr class="mt-1 mb-1">
 					<div class="row">
 						<div class="col-md-auto align-self-center">
