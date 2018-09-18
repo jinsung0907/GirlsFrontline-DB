@@ -24,7 +24,7 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
 			font-size: 20px;
 			font-weight: bold;
 		}
-		
+
 		#pv {
 			position: fixed;
 			right: 0;
@@ -33,15 +33,21 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
 			min-height: 100%;
 		}
 		
-		.container[role=main] {
-			background-color: rgba(255,255,255,0.7);
+		@media all and (min-width: 760px) {
+			.container[role=main] {
+				background-color: rgba(255,255,255,0.6)!important;
+			}
+			.container[role=main] > div {
+				background-color: rgba(255,255,255,0.6)!important;
+			}
+			.container[role=main] h2, .container[role=main] span, .container[role=main] img {
+				opacity: 1!important;
+			}
 		}
-		.container[role=main] h2, .container[role=main] span, .container[role=main] img {
-			opacity: 1!important;
-		}
+		
 	</style>
     <main role="main" class="container">
-		<div class="my-3 p-3 rounded box-shadow">
+		<div class="my-3 p-3 rounded box-shadow" style="background-color: white">
 			<div class="row" style="text-align:center;">
 				<img style="display:block; margin-left: auto;margin-right: auto; margin-bottom: 4rem" src="img/singularity.jpg" />
 				
