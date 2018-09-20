@@ -501,8 +501,15 @@ $starttime = microtime(true);
 							<div class="preCanvas" style="width: 100%; height: 300px"></div>
 						</div>
 					</div>
-					<b><?=L::database_rare?></b> : <?=gunrank_to_img($doll->rank)?><hr class="mt-1 mb-1">
-					<b><?=L::database_type?></b> : <?=guntype_to_str($doll->type)?>(<?=strtoupper($doll->type)?>)<hr class="mt-1 mb-1">
+					<div class="row">
+						<div class="col">
+							<b><?=L::database_rare?></b> : <?=gunrank_to_img($doll->rank)?>
+						</div>
+						<div class="col">
+							<b><?=L::database_type?></b> : <?=guntype_to_str($doll->type)?>(<?=strtoupper($doll->type)?>)
+						</div>
+					</div>
+					<hr class="mt-1 mb-1">
 					<div class="row">
 						<div class="col">
 							<b><?=L::database_illust?></b> : <?=isset($doll->illust)?$doll->illust:''?>
