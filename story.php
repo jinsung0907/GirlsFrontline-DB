@@ -68,7 +68,7 @@
 	}
 	
 	$header_desc = $fieldname . ", " . $name . ", " . $div[0] . "-" . $div[1];
-	$header_title = "$fieldname $name ({$div[0]}-{$div[1]}) | " . L::sitetitle_short;
+	$header_title = "$fieldname - $name ({$div[0]}-{$div[1]}) | " . L::sitetitle_short;
 	require_once("header.php");
 	
 	$bg = 0;
