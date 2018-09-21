@@ -5,6 +5,7 @@ require_once("common.php");
 if(!isset($header_title)) $header_title = L::sitetitle_short . ' | zzzzz.kr';
 if(!isset($header_desc)) $header_desc = '소녀전선 데이터베이스 사이트입니다.';
 if(!isset($header_image)) $header_image = ''; else $header_image = '<meta property="og:image" content="' . $header_image . '"/>'
+if(!isset($header_keyword)) $header_keyword = '';
 ?>
 <!doctype html>
 <html lang="<?=$lang?>">
@@ -33,7 +34,7 @@ if(!isset($header_image)) $header_image = ''; else $header_image = '<meta proper
 	<meta name="theme-color" content="#F0A900"> 
 	<meta property="og:type" content="website"/>
 	<meta property="og:title" content="<?=$header_title?>"/>
-	<meta property="og:url" content="http://<?=$_SERVER[HTTP_HOST] . $_SERVER[REQUEST_URI] ?>"/>
+	<meta property="og:url" content="http://<?=$_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"] ?>"/>
 	<?=$header_image?>
 	<meta property="og:description" content="<?=$header_desc?>"/>
 	
