@@ -301,10 +301,10 @@
 			
 			//인형 스킬 스탯 계산
 			//사속 구하기
-			if(!isset($grid[$key][$doll->type]['rate'])|| $grid[$key][$doll->type]['rate'] == 0) {
-				$grid_rate = 1;
-			} else {
+			if(isset($grid[$key][$doll->type]['rate'])) {
 				$grid_rate = 1 + $grid[$key][$doll->type]['rate'] / 100;
+			} else {
+				$grid_rate = 1;
 			}
 			$rate = floor(ceil((ceil($stat['rate']) + $gear) * $fairybuff) * $grid_rate * $dollskill['rate'] * $fairyskill * $fairyattr);
 			
@@ -317,19 +317,19 @@
 			}
 			
 			//화력 구하기
-			if(!isset($grid[$key][$doll->type]['pow']) || $grid[$key][$doll->type]['pow'] == 0) {
-				$grid_pow = 1;
-			} else {
+			if(isset($grid[$key][$doll->type]['pow'])) {
 				$grid_pow = 1 + $grid[$key][$doll->type]['pow'] / 100;
+			} else {
+				$grid_pow = 1;
 			}
 			$pow = ceil(ceil((ceil($stat['pow']) + $gear) * $fairybuff) * $grid_pow * $dollskill['pow'] * $fairyskill * $fairyattr);
 				
 			
 			//치명률 구하기
-			if(!isset($grid[$key][$doll->type]['crit']) || $grid[$key][$doll->type]['crit'] == 0) {
-				$grid_crit = 1;
-			} else {
+			if(isset($grid[$key][$doll->type]['crit'])) {
 				$grid_crit = 1 + $grid[$key][$doll->type]['crit'] / 100;
+			} else {
+				$grid_crit = 1;
 			}
 			
 			//치명률은 퍼센트이므로 마지막에 퍼센트 가공을 해줌.
