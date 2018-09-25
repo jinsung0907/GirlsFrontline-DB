@@ -35,15 +35,29 @@
 			left: 0;
 			bottom: 0;
 			right: 0;
+            pointer-events: none;
+			
+			-webkit-touch-callout: none; /* iOS Safari */
+			-webkit-user-select: none; /* Safari */
+			-khtml-user-select: none; /* Konqueror HTML */
+			-moz-user-select: none; /* Firefox */
+			-ms-user-select: none; /* Internet Explorer/Edge */
+			user-select: none; 
 		}
+		
 		.dollicon {
-			width: 60%;
+			width:70%;
+			height: 70%;
+			display: block;
+			background-size: 270%;
+			background-position: 10% 5%;
 		}
+		
 		.efficon {
 			height: 2em;
 		}
 	</style>
-    <main role="main" class="container">
+    <main role="main" class="container-fluid">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
 			<h2 class="pb-3 border-bottom border-gray"><strike><?=L::sim_title?></strike></h2>
 			Currently Not Avaliable.
@@ -53,12 +67,12 @@
 			<div id="scapture">
 			<span id="watermark"></span>
 				<div class="row">
-					<div class="col-lg-7">
+					<div class="dollgrid col-lg-4">
 						<div class="effrow">
-							<div class="effitem" id="grid7">
+							<div class="effitem" id="grid3">
 								<div class="content"></div>
 							</div>
-							<div class="effitem" id="grid8">
+							<div class="effitem" id="grid6">
 								<div class="content"></div>
 							</div>
 							<div class="effitem" id="grid9">
@@ -66,13 +80,13 @@
 							</div>
 						</div>
 						<div class="effrow">
-							<div class="effitem" id="grid4">
+							<div class="effitem" id="grid2">
 								<div class="content"></div>
 							</div>
 							<div class="effitem" id="grid5">
 								<div class="content"></div>
 							</div>
-							<div class="effitem" id="grid6">
+							<div class="effitem" id="grid8">
 								<div class="content"></div>
 							</div>
 						</div>
@@ -80,15 +94,20 @@
 							<div class="effitem" id="grid1">
 								<div class="content"></div>
 							</div>
-							<div class="effitem" id="grid2">
+							<div class="effitem" id="grid4">
 								<div class="content"></div>
 							</div>
-							<div class="effitem" id="grid3">
+							<div class="effitem" id="grid7">
 								<div class="content"></div>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-5">
+                    <div class="col-8">
+                        <span id="actionEff"></span>
+                    </div>
+                </div>
+                <div class="row">
+					<div class="col">
 						<div id="screenshot_hide">
 							<form id="doll_inputs">
 								<select disabled id="sel_type">
@@ -111,6 +130,7 @@
 									<option value="140"><?=L::sim_favor?> 140~189</option>
 									<option value="190"><?=L::sim_favor?> 190~200</option>
 								</select>
+                                <input disabled type="number" id="sel_skilllevel" style='width:50px' placeholder='skill_level'/>
 							</form>
 							<br>
 							<button id="delete"><?=L::sim_delete?></button>
@@ -186,6 +206,8 @@
 <?php
 	require_once("footer.php");
 ?>
+	<link rel="stylesheet" href="dist/jquery-ui.min.css">
+	<script src="dist/jquery-ui.min.js"></script>
 	<script src="dist/Chart.bundle.min.js"></script>
 	<script src="dist/html2canvas.min.js"></script>
 	<script>
@@ -253,6 +275,7 @@
 				window.myLine.update();
 				
 				$("#dps_div").append(getDollName(doll) + " : " + data.dps[dollid].toFixed(2) + " DPS<br>");
+                $("#actionEff").text(data.actionPoint);
 			}
 		}
 		
@@ -289,7 +312,7 @@
 				if(typeof dollpos[selected_item] !== 'undefined' && typeof dollpos[selected_item].id !== 'undefined') {
 					var doll = searchDoll(dollpos[selected_item].id);
 					
-					var name = getDollName(dolls[i]);
+					var name = getDollName(dollpos[selected_item].id);
 					
 					$('#doll_inputs').find('input, select').removeAttr('disabled');
 					
@@ -364,6 +387,7 @@
 			dollpos[selected_item].id = dollid;
 			dollpos[selected_item].level = 100;
 			dollpos[selected_item].favor = 50;
+			dollpos[selected_item].skilllevel = 10;
 			
 			$('#sel_level').val(100);
 			$('#sel_favor option[value="50"]').attr('selected', 'selected');
@@ -380,15 +404,18 @@
 			}
 			
 			var doll = searchDoll(dollid);
-			$("#grid" + selected_item + " .content").empty().append($('<img>', {
+            dollpos[selected_item].type = doll.type;
+            dollpos[selected_item].rank = doll.rank;
+			$("#grid" + selected_item + " .content").empty().append($('<i>', {
 				class: 'dollicon',
-				src: 'img/icons/' + iconnum + '.png'
+				style: 'background-image: url("img/characters/' + doll.name + '/pic/pic_' + doll.name + '_n.jpg");'
+				//src: 'img/icons/' + iconnum + '.png'
 			}))
-			.append(drawskilltile(doll.effect.effectPos, doll.effect.effectCenter));
+			.append(drawefftile(doll.effect.effectPos, doll.effect.effectCenter));
 			
 			$("#grid" + selected_item + " .content").append($('<div>', {
 				class: 'w-100',
-				style: 'bottom: 0; position: absolute;'
+				style: 'bottom: 0; position: absolute; pointer-events: none;'
 			}));
 			
 			updateTable();
@@ -396,15 +423,20 @@
 			$("#submitbtn").trigger('click');
 		});
 		
-		$("#sel_level, #sel_favor").on('change', function(e) {
+		$("#sel_level, #sel_favor, #sel_skilllevel").on('change', function(e) {
 			if($(this).attr('id') == 'sel_level') {
 				dollpos[selected_item].level = Number($(this).val());
 				console.log("insert level : " + dollpos[selected_item].level);
 				$("#submitbtn").trigger('click');
 			}
-			else {
+			else if($(this).attr('id') == 'sel_favor'){
 				dollpos[selected_item].favor = Number($(this).val());
 				console.log("insert favor : " + dollpos[selected_item].favor);
+				$("#submitbtn").trigger('click');
+			}
+			else {
+				dollpos[selected_item].skilllevel = Number($(this).val());
+				console.log("insert skilllevel : " + dollpos[selected_item].skilllevel);
 				$("#submitbtn").trigger('click');
 			}
 		});
@@ -438,6 +470,8 @@
 				}
 			}
 			updata.stats = dollstats;
+            
+            console.log(updata);
 			
 			$.ajax({
 				url: "simulator_calc.php",
@@ -473,8 +507,8 @@
 		}
 		*/
 		
-		function drawskilltile(effectPos, effectCenter) {
-			var tableinner = $.parseHTML('<tr><td class="skill7"></td><td class="skill8"></td><td class="skill9"></td></tr><tr><td class="skill4"></td><td class="skill5"></td><td class="skill6"></td></tr><tr><td class="skill1"></td><td class="skill2"></td><td class="skill3"></td></tr>');
+		function drawefftile(effectPos, effectCenter) {
+			var tableinner = $.parseHTML('<tr><td class="skill3"></td><td class="skill6"></td><td class="skill9"></td></tr><tr><td class="skill2"></td><td class="skill5"></td><td class="skill8"></td></tr><tr><td class="skill1"></td><td class="skill4"></td><td class="skill7"></td></tr>');
 			$(tableinner).find('.skill' + effectCenter).addClass('center');
 			
 			$.map(effectPos, function(val) { $(tableinner).find('.skill' + val).addClass('affected'); });
@@ -671,16 +705,16 @@
 		function getPos(num) {
 			var v = {};
 			if(num <= 3) {
-				v.x = num;
-				v.y = 1;
+				v.y = num;
+				v.x = 1;
 			}
 			else if(num > 3 && num < 7) {
-				v.x = num-3;
-				v.y = 2;
+				v.y = num-3;
+				v.x = 2;
 			}
 			else if(num > 6) {
-				v.x = num-6;
-				v.y = 3;
+				v.y = num-6;
+				v.x = 3;
 			}
 			else {
 				v = null;
@@ -693,14 +727,14 @@
 				return null;
 			}
 			else {
-				if(v.y == 1) {
-					return v.x;
+				if(v.x == 1) {
+					return v.y;
 				}
-				else if (v.y == 2) {
-					return v.x + 3;
+				else if (v.x == 2) {
+					return v.y + 3;
 				}
-				else if (v.y == 3) {
-					return v.x + 6;
+				else if (v.x == 3) {
+					return v.y + 6;
 				}
 			}
 			return null;
@@ -761,7 +795,8 @@
 				}
 			}
 			result['crit'] = dollstats.crit;
-			
+			result['armorPiercing'] = dollstats.armorPiercing;
+			result['bullet'] = dollstats.bullet;
 			return result;
 		}
 		
@@ -816,5 +851,134 @@
 			}
 		}
 	</script>
+    
+    <script>
+    var swaporg = null;
+    var swapnum = null;
+    var dragstatus = null;
+    var dragelem;
+	var gridnum;
+	var touchlast;
+	
+    $(".effitem").on('mousedown touchstart', function(e) {
+        dragelem = $(this).children();
+        dragstatus = Number($(this).attr('id').replace('grid', ''));
+        console.log(dragstatus);
+        console.log('drag start');
+    });
+    
+    /*
+    $(".dollgrid").on('mouseover touchover', function(e) { 
+        if(dragstatus) {
+            
+        }
+    });
+    */
+    
+    $(".effitem").on('touchmove', function(e) {
+        if(dragstatus) {
+			touchlast = e.touches[0];
+			var elem = document.elementFromPoint(e.touches[0].clientX, e.touches[0].clientY);			
+			var tmpnum = Number($(elem).attr('id').replace('grid', ''));
+			if(dragstatus != tmpnum) {
+				if(swapnum != tmpnum) {
+					$(swaporg).css('background-color', '');
+					
+					swaporg = elem;
+					swapnum = tmpnum;
+				}
+				
+				gridnum = swapnum;
+				console.log(gridnum);
+				$(elem).css('background-color', '#FF0000');
+			}
+			e.preventDefault();
+        }
+    });
+    
+    $(".effitem").on('mouseenter touchenter', function(e) {
+        gridnum = Number($(this).attr('id').replace('grid', ''));
+        if(dragstatus && dragstatus != gridnum) {
+            console.log('drag enter');
+            $(this).css('background-color', '#FF0000');
+        }
+    });
+    $(".effitem").on('mouseleave', function(e) {
+        gridnum = Number($(this).attr('id').replace('grid', ''));
+        if(dragstatus) {
+            console.log('drag out');
+            $(this).css('background-color', '');
+        }
+    });
+    
+    $(".effitem").on('touchend', function(e) { 
+		var t = touchlast;
+		if(t != null) {
+			var elem = document.elementFromPoint(t.clientX, t.clientY);
+			gridnum = Number($(elem).attr('id').replace('grid', ''));		
+			if(dragstatus && dragstatus != gridnum) {
+				var tmpgrid = $(elem).children();
+				$(elem).html(dragelem);
+				$("#grid" + dragstatus).html(tmpgrid);
+				
+				
+				var tmp = dollpos[gridnum];
+				dollpos[gridnum] = dollpos[dragstatus];
+				dollpos[dragstatus] = tmp;
+				
+				updateTable();
+				$("#submitbtn").trigger('click');
+				clear();
+			}
+			$(elem).css('background-color', '');
+		}
+	});
+	
+    $(".effitem").on('mouseup', function(e) { 
+        gridnum = Number($(this).attr('id').replace('grid', ''));
+        if(dragstatus && dragstatus != gridnum) {
+            console.log('drag end');
+
+            var tmpgrid = $(this).children();
+            $(this).html(dragelem);
+            $("#grid" + dragstatus).html(tmpgrid);
+			
+			
+        }
+        $(this).css('background-color', '');
+		
+		var tmp = dollpos[gridnum];
+		dollpos[gridnum] = dollpos[dragstatus];
+		dollpos[dragstatus] = tmp;
+		
+		updateTable();
+		$("#submitbtn").trigger('click');
+        clear();
+    });
+    
+    /*
+    $(".dollgrid").mouseleave(function(e) { 
+        swaporg = null;
+        swapnum = null;
+        dragstatus = null; 
+        drapelem = null;
+    });
+    */
+    /*
+    $(window).on('touchmove', function(e) {
+        if (dragstatus) {
+            e.preventDefault();
+        }
+    });*/
+	
+	function clear() {
+		swaporg = null;
+		swapnum = null;
+		dragstatus = null;
+		dragelem = null;
+		gridnum = null;
+		touchlast = null;
+	}
+    </script>
 	</body>
 </html>
