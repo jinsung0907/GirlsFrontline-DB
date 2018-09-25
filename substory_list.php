@@ -47,10 +47,10 @@
 		<?php
 				foreach($modstory as $mstory) { ?>
 					<strong class="d-block text-dark"><?=$mstory[0]?></strong>
-					<a href="substory.php?t=1&q=<?=$mstory[1]?>-1">MOD 1</a>
-					<a href="substory.php?t=1&q=<?=$mstory[1]?>-2">MOD 2</a>
-					<a href="substory.php?t=1&q=<?=$mstory[1]?>-3">MOD 3</a>
-					<a href="substory.php?t=1&q=<?=$mstory[1]?>-4">MOD 4</a>
+					<a target="_blank" href="substory.php?t=1&q=<?=$mstory[1]?>-1">MOD 1</a>
+					<a target="_blank" href="substory.php?t=1&q=<?=$mstory[1]?>-2">MOD 2</a>
+					<a target="_blank" href="substory.php?t=1&q=<?=$mstory[1]?>-3">MOD 3</a>
+					<a target="_blank" href="substory.php?t=1&q=<?=$mstory[1]?>-4">MOD 4</a>
 					<br><br>
 		<?php } ?>
 				</p>
@@ -68,7 +68,7 @@
 					<?=$comment?>
 					
 			<?php foreach($story->list as $list) { ?>
-					<a href="substory.php?t=2&q=<?=$list->num?>"><strong class="d-block text-dark"><?=$list->name?></strong></a>
+					<a target="_blank" href="substory.php?t=2&q=<?=$list->num?>"><strong class="d-block text-dark"><?=$list->name?></strong></a>
 					<i><?=$list->desc?></i>
 					<br><br>
 			<?php } ?>
