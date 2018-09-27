@@ -107,7 +107,7 @@
 		$buildTime = gmdate("H:i", $equip->buildTime);
 		if(!$equip->buildTime) $buildTime = '';
 		$cp = $equip->company;
-		if($cp !== "BM" && $cp !== "EOT" && $cp !== "AMP" && $cp !== "IOP" && $cp !== "PMC" && $cp !== "AC") $buildTime = '';
+		if($cp !== "BM" && $cp !== "EOT" && $cp !== "AMP" && $cp !== "IOP" && $cp !== "PMC" && $cp !== "AC" && $cp !== "ILM") $buildTime = '';
 		if(isset($equip->fitgun)) $buildTime = '';
 		
 	?>
