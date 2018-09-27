@@ -128,7 +128,7 @@ $starttime = microtime(true);
 	//스킬 쿨타임 가져오기
 	$skilldata = [];
 	$skilldata['skill']['cd'] = $doll->skill->cd;
-	if(!isset($doll->skill2))
+	if(isset($doll->skill2))
 		$skilldata['skill2']['cd'] = $doll->skill2->cd;
 	
 	if(isset($doll->skill->intercd) && isset($doll->skill->cd)) {
