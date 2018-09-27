@@ -126,7 +126,7 @@
 									<option value="190"><?=L::sim_favor?> 190~200</option>
 								</select>
                                 <select disabled id="sel_skilllevel">
-                                    <option>스킬레벨</option>
+                                    <option>SkillLv</option>
                                     <option value='1'>1</option>
                                     <option value='2'>2</option>
                                     <option value='3'>3</option>
@@ -139,7 +139,7 @@
                                     <option value='10'>10</option>
                                 </select>
                                 <select disabled id="sel_skill2level">
-                                    <option>mod2레벨</option>
+                                    <option>mod2Lv</option>
                                     <option value='1'>1</option>
                                     <option value='2'>2</option>
                                     <option value='3'>3</option>
@@ -156,14 +156,14 @@
 							<button id="delete"><?=L::sim_delete?></button>
 							<button style="display:none" id="submitbtn"><?=L::sim_calcdps?></button>
 							<button onclick="ScreenCapture()"><?=L::sim_screenshot?></button>
-							<button onclick="export_grid()">내보내기</button>
+							<button onclick="export_grid()"><?=L::sim_share?></button>
 							<br>
 						</div>
 					</div>
                     
                     <div class="col-8">
                     <div style="width:100%"></div>
-                        작전능력 : <span class="txthighlight" id="actionEff"></span>
+                        <?=L::sim_actpoint?> : <span class="txthighlight" id="actionEff"></span>
                         <canvas id="myChart" width="400" height="100"></canvas>
 						<span id="dps_div"></span>
                     </div>
