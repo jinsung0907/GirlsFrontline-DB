@@ -6,9 +6,9 @@
 	}
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
-	$header_title = "소녀전선 DPS 시뮬레이터";
-	$header_desc = "소전DB DPS시뮬레이터입니다.";
-	$header_keyword = "소녀전선 DPS 시뮬레이터, 소녀전선 제대편성 시뮬레이터, 소녀전선 딜계산기, 제대편성, 소녀전선, 소전, 소녀전선 시뮬레이터";
+	$header_title = L::navigation_title_dpssim;
+	$header_desc = L::title_sim_desc;
+	$header_keyword = L::title_sim_keyword;
 	require_once("header.php");
 ?>
 	<style>
