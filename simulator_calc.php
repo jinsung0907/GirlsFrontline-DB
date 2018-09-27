@@ -15,8 +15,8 @@
 	
 	$time_start = microtime(true); 
 	
-	$dolls = json_decode(getJson('doll'));
-	$skills = json_decode(getJson('skill'));
+	$dolls = getJson('doll');
+	$skills = getJson('skill');
 	
 	$guntype = ['ar', 'sg', 'rf', 'hg', 'mg', 'smg'];
 	$efftype = ['rate', 'pow', 'dodge', 'hit', 'crit', 'cooldown', 'armor'];
@@ -27,12 +27,12 @@
 	grid 정보 
 	해당 위치 비어있을때는 0으로 채워넣음
 	0: 요정
-	1~9: grid 위치한 요정 id
+	1~9: grid 위치한 인형 id
 	
 	grid 모양
-	7 8 9
-	4 5 6
-	1 2 3
+	3 6 9
+	2 5 8
+	1 4 7
 	*/
 	
 	
@@ -462,6 +462,10 @@
 		$resultvalue['time'] = $time;
 	}
 	//$resultvalue['skill_timeline'] = $skill_timeline;
+    
+    include('testlib.php');
+    
+    $resultvalue["actionPoint"] = getAllPoint($grid, false);
 	
 	echo json_encode($resultvalue);
 	

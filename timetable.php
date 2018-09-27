@@ -20,7 +20,7 @@
 	foreach($equips as $equip) {
 		if(!$equip->buildTime) continue;
 		$cp = $equip->company;
-		if($cp !== "BM" && $cp !== "EOT" && $cp !== "AMP" && $cp !== "IOP" && $cp !== "PMC" && $cp !== "AC") continue;
+		if($cp !== "BM" && $cp !== "EOT" && $cp !== "AMP" && $cp !== "IOP" && $cp !== "PMC" && $cp !== "AC" && $cp !== "ILM") continue;
 		if(isset($equip->fitgun)) continue;
 		$tmp[0] = $equip->buildTime;
 		$result = '';
