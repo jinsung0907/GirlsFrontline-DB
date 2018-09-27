@@ -331,7 +331,7 @@
 				window.myLine.update();
 				
 				$("#dps_div").append(getDollName(doll) + " : " + data.dps[dollid].toFixed(2) + " DPS<br>");
-                $("#actionEff").text(data.actionPoint);
+                $("#actionEff").text(data.actionPoint + '(' + data.actionPoint_n + ')');
 			}
 		}
 		
@@ -452,7 +452,7 @@
 			}
 			dollpos[selected_item].id = dollid;
 			dollpos[selected_item].level = 100;
-			dollpos[selected_item].favor = 50;
+			dollpos[selected_item].favor = 90;
 			dollpos[selected_item].skilllevel = 10;
 			dollpos[selected_item].skill2level = 10;
 			
@@ -855,10 +855,10 @@
 
 						result[key] += key === 'pow' || key === 'hit' || key === 'dodge' ? Math.sign(getFavorRatio(favor)) * Math.ceil(Math.abs(result[key] * getFavorRatio(favor))) : 0;
 					} else {
-						result[key] = '';
+						result[key] = 0;
 					}
 				} else {
-					result[key] = '';
+					result[key] = 0;
 				}
 			}
 			result['crit'] = dollstats.crit;

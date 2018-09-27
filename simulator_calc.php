@@ -467,7 +467,8 @@
     
     include('testlib.php');
     
-    $resultvalue["actionPoint"] = getAllPoint($grid, false);
+    $resultvalue["actionPoint"] = getAllEff($grid, false);
+    $resultvalue["actionPoint_n"] = getAllEff($grid, true);
 	
 	echo json_encode($resultvalue);
 	
