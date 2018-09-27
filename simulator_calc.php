@@ -458,7 +458,7 @@
 		$time = $time_end - $time_start;
 		
 		//print_r($dps_timeline);
-		$resultvalue['timeline'][$key] = $dps_timeline;
+		//$resultvalue['timeline'][$key] = $dps_timeline;
 		$resultvalue['timeline_sec'][$key] = $dps_timeline_sec;
 		$resultvalue['dps'][$key] = $dps_timeline[449][1] / 15;
 		$resultvalue['time'] = $time;
