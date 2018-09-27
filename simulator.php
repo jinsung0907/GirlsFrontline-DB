@@ -275,6 +275,11 @@
                 document.getElementById('myChart').width = $(".dollgrid").width();
             
 			window.myLine = new Chart(ctx, config);
+            
+            var url_string = window.location.href
+            var url = new URL(url_string);
+            if(url.searchParams.get("q") !== null)
+                import_grid();
 		};
 		
 		var config = {
@@ -301,7 +306,8 @@
 			
 			config.data.datasets.splice(0, 5);
 			window.myLine.update();
-			
+			$("#dps_div").empty();
+            
 			for(var dollid in data.timeline_sec) {
 				var doll = searchDoll(dollpos[dollid].id);
 				var secdmg = $.map(data.timeline_sec[dollid], function(el) { return el });
@@ -671,11 +677,6 @@
 					 grid[i][guntype[j]] = {};
 				}
 			}
-            
-            var url_string = window.location.href
-            var url = new URL(url_string);
-            if(url.searchParams.get("q") !== null)
-                import_grid();
 		}
 		
 		function applyEffect(pos) {
