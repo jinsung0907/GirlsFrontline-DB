@@ -20,6 +20,9 @@
 			}
 			$data->bonus = L::database_furniture_set_bonus(substr($bonus_cnt, 0, -2), substr($bonus_cnt1, 0, -2));
 		}
+        else {
+            $data->bonus = '';
+        }
 		
 		foreach($furniture_txt as $key=>$line) {
 			$query = $data->name;

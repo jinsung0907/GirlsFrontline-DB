@@ -203,7 +203,7 @@ $starttime = microtime(true);
 	}
 	
 	//만약 해당 언어 스킬 데이터가 없으면 한국 데이터를 불러옴 (한국은 그냥 한국데이터 불러옴)
-	if(sizeof($rskill_txt) == 0) {
+	if(!isset($rskill_txt) || sizeof($rskill_txt) == 0) {
 		$tmp = getDataFile('battle_skill_config', 'ko');
 		$rskills = explode(PHP_EOL, $tmp);
 		if(isset($doll->skill->realid)) {
@@ -232,7 +232,7 @@ $starttime = microtime(true);
 			}
 		}
 	}
-	if(sizeof($rskill2_txt) == 0) {
+	if(!isset($rskill2_txt) || sizeof($rskill2_txt) == 0) {
 		//mod2스킬
 		if(isset($doll->skill2->realid)) {
 			$rskill2_txt = [];
