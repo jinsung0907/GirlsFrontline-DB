@@ -460,7 +460,7 @@
 			dollpos[selected_item].skill2level = 10;
 			
 			$('#sel_level').val(100);
-			$('#sel_favor option[value="50"]').attr('selected', 'selected');
+			$('#sel_favor option[value="90"]').attr('selected', 'selected');
 			$('#sel_skilllevel').val(10);
 			$('#sel_skill2level').val(10);
             
