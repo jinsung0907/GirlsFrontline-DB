@@ -941,18 +941,18 @@
 			touchlast = e.touches[0];
 			var elem = document.elementFromPoint(e.touches[0].clientX, e.touches[0].clientY);			
 			var tmpnum = Number($(elem).attr('id').replace('grid', ''));
-			if(dragstatus != tmpnum) {
-				if(swapnum != tmpnum) {
-					$(swaporg).css('background-color', '');
-					
-					swaporg = elem;
-					swapnum = tmpnum;
-				}
-				
-				gridnum = swapnum;
-				console.log(gridnum);
-				$(elem).css('background-color', '#FF0000');
-			}
+            if(!isNaN(tmpnum)) {
+                if(dragstatus != tmpnum) {
+                    if(swapnum != tmpnum) {
+                        $(swaporg).css('background-color', '');
+                        swaporg = elem;
+                        swapnum = tmpnum;
+                    }
+                    gridnum = swapnum;
+                    console.log(gridnum);
+                    $(elem).css('background-color', '#FF0000');
+                }
+            }
 			e.preventDefault();
         }
     });
@@ -977,21 +977,23 @@
 		if(t != null) {
 			var elem = document.elementFromPoint(t.clientX, t.clientY);
 			gridnum = Number($(elem).attr('id').replace('grid', ''));		
-			if(dragstatus && dragstatus != gridnum) {
-				var tmpgrid = $(elem).children();
-				$(elem).html(dragelem);
-				$("#grid" + dragstatus).html(tmpgrid);
-				
-				
-				var tmp = dollpos[gridnum];
-				dollpos[gridnum] = dollpos[dragstatus];
-				dollpos[dragstatus] = tmp;
-				
-				updateTable();
-				$("#submitbtn").trigger('click');
-				clear();
-			}
-			$(elem).css('background-color', '');
+            if(!isNaN(gridnum)) {
+                if(dragstatus && dragstatus != gridnum) {
+                    var tmpgrid = $(elem).children();
+                    $(elem).html(dragelem);
+                    $("#grid" + dragstatus).html(tmpgrid);
+                    
+                    
+                    var tmp = dollpos[gridnum];
+                    dollpos[gridnum] = dollpos[dragstatus];
+                    dollpos[dragstatus] = tmp;
+                    
+                    updateTable();
+                    $("#submitbtn").trigger('click');
+                    clear();
+                }
+                $(elem).css('background-color', '');
+            }
 		}
 	});
 	
