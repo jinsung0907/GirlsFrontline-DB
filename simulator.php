@@ -617,25 +617,25 @@
 				var effarray = [];
 				
 				if(typeof grid[i][doll.type].armor !== 'undefined') {
-					effarray.push('<img class="efficon" src="img/tile/armor.png"> ' + grid[i][doll.type].armor + '%');
+					effarray.push('<img class="efficon" src="img/tile/armor.png">' + grid[i][doll.type].armor + '%');
 				}
 				if(typeof grid[i][doll.type].cooldown !== 'undefined') {
-					effarray.push('<img class="efficon" src="img/tile/cooldown.png"> ' + grid[i][doll.type].cooldown + '%');
+					effarray.push('<img class="efficon" src="img/tile/cooldown.png">' + grid[i][doll.type].cooldown + '%');
 				}
 				if(typeof grid[i][doll.type].crit !== 'undefined') {
-					effarray.push('<img class="efficon" src="img/tile/crit.png"> ' + grid[i][doll.type].crit + '%');
+					effarray.push('<img class="efficon" src="img/tile/crit.png">' + grid[i][doll.type].crit + '%');
 				}
 				if(typeof grid[i][doll.type].dodge !== 'undefined') {
-					effarray.push('<img class="efficon" src="img/tile/dodge.png"> ' + grid[i][doll.type].dodge + '%');
+					effarray.push('<img class="efficon" src="img/tile/dodge.png">' + grid[i][doll.type].dodge + '%');
 				}
 				if(typeof grid[i][doll.type].hit !== 'undefined') {
-					effarray.push('<img class="efficon" src="img/tile/hit.png"> ' + grid[i][doll.type].hit + '%');
+					effarray.push('<img class="efficon" src="img/tile/hit.png">' + grid[i][doll.type].hit + '%');
 				}
 				if(typeof grid[i][doll.type].pow !== 'undefined') {
-					effarray.push('<img class="efficon" src="img/tile/pow.png"> ' + grid[i][doll.type].pow + '%');
+					effarray.push('<img class="efficon" src="img/tile/pow.png">' + grid[i][doll.type].pow + '%');
 				}
 				if(typeof grid[i][doll.type].rate !== 'undefined') {
-					effarray.push('<img class="efficon" src="img/tile/rate.png"> ' + grid[i][doll.type].rate + '%');
+					effarray.push('<img class="efficon" src="img/tile/rate.png">' + grid[i][doll.type].rate + '%');
 				}
 				
 				console.log(effarray);
