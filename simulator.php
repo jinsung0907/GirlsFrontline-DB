@@ -405,14 +405,21 @@
 				text: "<?=L::sim_seltypefirst?>"
 			}));
 			
-			for(var i in dolls) {
-				if(dolls[i].type.toUpperCase() == type) {
-					var name = getDollName(dolls[i]);
-					$("#sel_doll").append($('<option>', {
-						value: dolls[i].id,
-						text: name
-					}));
-				}
+            for(var rank = 2 ; rank <= 5 ; rank++) {
+                $("#sel_doll").append($('<option>', {
+                    text: "====" + rank + "<?=L::database_star?>===="
+                }));
+                        
+                for(var i in dolls) {
+                    if(dolls[i].type.toUpperCase() == type && dolls[i].rank === rank) {
+                        var name = getDollName(dolls[i]);
+                        
+                        $("#sel_doll").append($('<option>', {
+                            value: dolls[i].id,
+                            text: name
+                        }));
+                    }
+                }
 			}
 		});
 		
