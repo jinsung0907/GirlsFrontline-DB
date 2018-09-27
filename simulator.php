@@ -55,7 +55,8 @@
 		}
 		
 		.efficon {
-			height: 2em;
+			height: 1em;
+            margin-bottom: 0.1em;
 		}
 	</style>
     <main role="main" class="container-fluid">
