@@ -60,11 +60,8 @@
 	</style>
     <main role="main" class="container-fluid">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
-			<h2 class="pb-3 border-bottom border-gray"><strike><?=L::sim_title?></strike></h2>
-			Currently Not Avaliable.
-			<!--
-			<?=L::sim_desc?>
-			-->
+			<h2 class="pb-3 border-bottom border-gray"><?=L::sim_title?></h2>
+			<!--<?=L::sim_desc?>-->
 			<div id="scapture">
 			<span id="watermark"></span>
 				<div class="row">
@@ -102,14 +99,7 @@
 								<div class="content"></div>
 							</div>
 						</div>
-					</div>
-                    <div class="col-8">
-                        작전능력 : <span id="actionEff"></span>
-                    </div>
-                </div>
-                <div class="row">
-					<div class="col">
-						<div id="screenshot_hide">
+                        <div id="screenshot_hide">
 							<form id="doll_inputs">
 								<select disabled id="sel_type">
 									<option><?=L::sim_seltype?></option>
@@ -123,7 +113,8 @@
 								<select disabled id="sel_doll">
 									<option><?=L::sim_seltypefirst?></option>
 								</select>
-								<input disabled type="number" id="sel_level" style='width:50px' placeholder='<?=L::level?>'/>
+								<input disabled type="number" min='1' max='120' id="sel_level" style='width:50px' placeholder='<?=L::level?>'/>
+                                <br>
 								<select disabled id="sel_favor">
 									<option value="9"><?=L::sim_favor?> 0~9</option>
 									<option value="50"><?=L::sim_favor?> 10~89</option>
@@ -131,8 +122,32 @@
 									<option value="140"><?=L::sim_favor?> 140~189</option>
 									<option value="190"><?=L::sim_favor?> 190~200</option>
 								</select>
-                                <input disabled type="number" id="sel_skilllevel" style='width:50px' placeholder='skill_level'/>
-                                <input disabled type="number" id="sel2_skilllevel" style='width:50px' placeholder='skill2_level'/>
+                                <select disabled id="sel_skilllevel">
+                                    <option>스킬레벨</option>
+                                    <option value='1'>1</option>
+                                    <option value='2'>2</option>
+                                    <option value='3'>3</option>
+                                    <option value='4'>4</option>
+                                    <option value='5'>5</option>
+                                    <option value='6'>6</option>
+                                    <option value='7'>7</option>
+                                    <option value='8'>8</option>
+                                    <option value='9'>9</option>
+                                    <option value='10'>10</option>
+                                </select>
+                                <select disabled id="sel_skill2level">
+                                    <option>mod2레벨</option>
+                                    <option value='1'>1</option>
+                                    <option value='2'>2</option>
+                                    <option value='3'>3</option>
+                                    <option value='4'>4</option>
+                                    <option value='5'>5</option>
+                                    <option value='6'>6</option>
+                                    <option value='7'>7</option>
+                                    <option value='8'>8</option>
+                                    <option value='9'>9</option>
+                                    <option value='10'>10</option>
+                                </select>
 							</form>
 							<br>
 							<button id="delete"><?=L::sim_delete?></button>
@@ -140,14 +155,28 @@
 							<button onclick="ScreenCapture()"><?=L::sim_screenshot?></button>
 							<br>
 						</div>
-						<canvas id="myChart" width="400" height="400"></canvas>
+					</div>
+                    <div class="col-8">
+                        작전능력 : <span class="txthighlight" id="actionEff"></span>
+                        <canvas id="myChart" width="400" height="100"></canvas>
 						<span id="dps_div"></span>
+                    </div>
+                </div>
+                <div class="row">
+					<div class="col">
+						
 					</div>
 				</div>
 			</div>
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3><?=L::sim_history?></h3>
+            2.0 v (18/9/27) <br>
+             <font color="#FF0000">- 현재 스킬 계산 안됨</font><br>
+             - DPS 계산식 오류 수정<br>
+             - 이제 드래그로 인형의 위치 변경 가능<br>
+             - 작전능력을 계산하여 표시<br>
+            <br>
 			1.3.1 v (18/7/31)<br>
 			 - 스킬 쿨타임 감소 버프진형과 관련해 문제가 있어 수정<br>
 			<br>
@@ -227,6 +256,9 @@
 		
 		window.onload = function() {
 			var ctx = document.getElementById('myChart').getContext('2d');
+            document.getElementById('myChart').height = $(".effrow").height() * 3;
+            document.getElementById('myChart').width = $(document.getElementById('myChart')).parent().width();
+            
 			window.myLine = new Chart(ctx, config);
 		};
 		
@@ -243,7 +275,8 @@
 							min: 0
 						}    
 					}]
-				}
+				},
+                responsive: false
 			}
 		};
 		
@@ -402,22 +435,15 @@
             
 			$('#doll_inputs').find('input, select').removeAttr('disabled');
 			
-			var iconnum;
-			if(dollid < 10) {
-				iconnum = "00" + dollid;
-			} else if(dollid < 100) {
-				iconnum = "0" + dollid;
-			} else {
-				iconnum = dollid;
-			}
+            if(dollid < 20000)
+                $('#sel_skill2level').attr('disabled', 'disabled');
 			
 			var doll = searchDoll(dollid);
             dollpos[selected_item].type = doll.type;
             dollpos[selected_item].rank = doll.rank;
 			$("#grid" + selected_item + " .content").empty().append($('<i>', {
 				class: 'dollicon',
-				style: 'background-image: url("img/characters/' + doll.name + '/pic/pic_' + doll.name + '_n.jpg"); border: ' + rankbordercolor(doll.rank) +  ' 5px solid;'
-				//src: 'img/icons/' + iconnum + '.png'
+				style: 'background-image: url("img/characters/' + doll.name + '/pic/pic_' + doll.name + '_n.jpg"); border: ' + rankbordercolor(doll.rank) +  ' 3px solid;'
 			}))
 			.append(drawefftile(doll.effect.effectPos, doll.effect.effectCenter));
 			
@@ -443,13 +469,13 @@
 				$("#submitbtn").trigger('click');
 			}
 			else if($(this).attr('id') == 'sel_skilllevel'){
-				dollpos[selected_item].favor = Number($(this).val());
-				console.log("insert favor : " + dollpos[selected_item].favor);
+				dollpos[selected_item].skilllevel = Number($(this).val());
+				console.log("insert skilllevel : " + dollpos[selected_item].skilllevel);
 				$("#submitbtn").trigger('click');
 			}
 			else if($(this).attr('id') == 'sel_skill2level'){
-				dollpos[selected_item].favor = Number($(this).val());
-				console.log("insert favor : " + dollpos[selected_item].favor);
+				dollpos[selected_item].skill2level = Number($(this).val());
+				console.log("insert skill2level : " + dollpos[selected_item].skill2level);
 				$("#submitbtn").trigger('click');
 			}
 		});

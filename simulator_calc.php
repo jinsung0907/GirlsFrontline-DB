@@ -3,16 +3,18 @@
 	define("GF_HEADER", "aaaaa");
 	include_once("common.php");
 	
+    /*
 	//rate limit
 	session_start();
-	$time = time();
+	$time = microtime(true);
 	if(isset($_SESSION['time'])) {
 		if(($time - $_SESSION['time']) <= 0.2) {
 			exit;
 		}
 	}
 	$_SESSION['time'] = $time;
-	
+	*/
+    
 	$time_start = microtime(true); 
 	
 	$dolls = getJson('doll');
