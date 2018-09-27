@@ -65,40 +65,42 @@
 			<div id="scapture">
 			<span id="watermark"></span>
 				<div class="row">
-					<div class="dollgrid col-lg-4">
-						<div class="effrow">
-							<div class="effitem" id="grid3">
-								<div class="content"></div>
-							</div>
-							<div class="effitem" id="grid6">
-								<div class="content"></div>
-							</div>
-							<div class="effitem" id="grid9">
-								<div class="content"></div>
-							</div>
-						</div>
-						<div class="effrow">
-							<div class="effitem" id="grid2">
-								<div class="content"></div>
-							</div>
-							<div class="effitem" id="grid5">
-								<div class="content"></div>
-							</div>
-							<div class="effitem" id="grid8">
-								<div class="content"></div>
-							</div>
-						</div>
-						<div class="effrow">
-							<div class="effitem" id="grid1">
-								<div class="content"></div>
-							</div>
-							<div class="effitem" id="grid4">
-								<div class="content"></div>
-							</div>
-							<div class="effitem" id="grid7">
-								<div class="content"></div>
-							</div>
-						</div>
+					<div class="col-lg-4">
+                        <div class="dollgrid">
+                            <div class="effrow">
+                                <div class="effitem" id="grid3">
+                                    <div class="content"></div>
+                                </div>
+                                <div class="effitem" id="grid6">
+                                    <div class="content"></div>
+                                </div>
+                                <div class="effitem" id="grid9">
+                                    <div class="content"></div>
+                                </div>
+                            </div>
+                            <div class="effrow">
+                                <div class="effitem" id="grid2">
+                                    <div class="content"></div>
+                                </div>
+                                <div class="effitem" id="grid5">
+                                    <div class="content"></div>
+                                </div>
+                                <div class="effitem" id="grid8">
+                                    <div class="content"></div>
+                                </div>
+                            </div>
+                            <div class="effrow">
+                                <div class="effitem" id="grid1">
+                                    <div class="content"></div>
+                                </div>
+                                <div class="effitem" id="grid4">
+                                    <div class="content"></div>
+                                </div>
+                                <div class="effitem" id="grid7">
+                                    <div class="content"></div>
+                                </div>
+                            </div>
+                        </div>
                         <div id="screenshot_hide">
 							<form id="doll_inputs">
 								<select disabled id="sel_type">
@@ -156,6 +158,7 @@
 							<br>
 						</div>
 					</div>
+                    
                     <div class="col-8">
                         작전능력 : <span class="txthighlight" id="actionEff"></span>
                         <canvas id="myChart" width="400" height="100"></canvas>
