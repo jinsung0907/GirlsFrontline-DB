@@ -3,16 +3,18 @@
 	define("GF_HEADER", "aaaaa");
 	include_once("common.php");
 	
-	//1초에 1번씩 rate limit
+    /*
+	//rate limit
 	session_start();
-	$time = time();
+	$time = microtime(true);
 	if(isset($_SESSION['time'])) {
-		if(($time - $_SESSION['time']) <= 0.5) {
+		if(($time - $_SESSION['time']) <= 0.2) {
 			exit;
 		}
 	}
 	$_SESSION['time'] = $time;
-	
+	*/
+    
 	$time_start = microtime(true); 
 	
 	$dolls = getJson('doll');
@@ -349,7 +351,7 @@
 			if($curframe == $fireframe) {
 				//치명률, 치명상 적용 공식
 				//해당 프레임 데미지
-				$dps_timeline[$curframe][0] += ($pow*(1-$crit) + $pow*$critDmg*$crit)*$link;
+				$dps_timeline[$curframe][0] += ($pow + ((($pow * $critDmg) - $pow) * ($crit-1))) * $link;
 				//총 데미지
 				$dps_timeline[$curframe][1] = $dps_timeline[$curframe-1][1] + $dps_timeline[$curframe][0];
 			} 
@@ -456,7 +458,7 @@
 		$time = $time_end - $time_start;
 		
 		//print_r($dps_timeline);
-		//$resultvalue['timeline'][$key] = $dps_timeline;
+		$resultvalue['timeline'][$key] = $dps_timeline;
 		$resultvalue['timeline_sec'][$key] = $dps_timeline_sec;
 		$resultvalue['dps'][$key] = $dps_timeline[449][1] / 15;
 		$resultvalue['time'] = $time;
