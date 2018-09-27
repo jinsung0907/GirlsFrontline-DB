@@ -872,13 +872,13 @@
 			
 			try {
 				html2canvas(document.querySelector("#scapture")).then(canvas => {
-					alert("<?=L::sim_screenshot_desc?>");
-					var capimg = document.createElement("img");
-					capimg.src = canvas.toDataURL();
-					capimg.style.width = "100%";
-					capimg.style.border = "1px solid grey";
-					capimg.style.padding = "5px";
-					document.getElementById("history").appendChild(capimg);
+                    
+                    var image = canvas.toDataURL();
+                    //var image = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+                    //window.location.href = image;
+
+                   downloadURI(image, "screenshot.png");
+                    
 					$("#watermark").text("");
 					x.style.display = "block";
 				});
@@ -889,6 +889,16 @@
 				x.style.display = "block";
 			}
 		}
+        
+        function downloadURI(uri, name) {
+            var link = document.createElement("a");
+            link.download = name;
+            link.href = uri;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            delete link;
+        }
         
         function rankbordercolor(rank) {
             switch(rank) {
