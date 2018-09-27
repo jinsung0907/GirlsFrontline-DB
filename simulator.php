@@ -50,7 +50,8 @@
 			height: 70%;
 			display: block;
 			background-size: 270%;
-			background-position: 10% 5%;
+			background-position: 13% 5%;
+			border-radius: 2px;
 		}
 		
 		.efficon {
@@ -103,7 +104,7 @@
 						</div>
 					</div>
                     <div class="col-8">
-                        <span id="actionEff"></span>
+                        작전능력 : <span id="actionEff"></span>
                     </div>
                 </div>
                 <div class="row">
@@ -131,6 +132,7 @@
 									<option value="190"><?=L::sim_favor?> 190~200</option>
 								</select>
                                 <input disabled type="number" id="sel_skilllevel" style='width:50px' placeholder='skill_level'/>
+                                <input disabled type="number" id="sel2_skilllevel" style='width:50px' placeholder='skill2_level'/>
 							</form>
 							<br>
 							<button id="delete"><?=L::sim_delete?></button>
@@ -326,11 +328,14 @@
 					
 					$('#sel_favor option').removeAttr('selected', 'selected');
 					$('#sel_favor').val(dollpos[selected_item].favor);
+                    
+                    $('#sel_skilllevel').val(dollpos[selected_item].skilllevel);
+                    $('#sel_skill2level').val(dollpos[selected_item].skill2level);
 					
 				}
 				//비어있으면 타입과 인형선택만 활성화
 				else {
-					$('#sel_level, #sel_favor').attr('disabled','disabled');
+					$('#sel_level, #sel_favor, #sel_skilllevel, #sel_skill2level').attr('disabled','disabled');
 				}
 			} 
 			//자기자신 클릭(선택해제)
@@ -388,10 +393,13 @@
 			dollpos[selected_item].level = 100;
 			dollpos[selected_item].favor = 50;
 			dollpos[selected_item].skilllevel = 10;
+			dollpos[selected_item].skill2level = 10;
 			
 			$('#sel_level').val(100);
 			$('#sel_favor option[value="50"]').attr('selected', 'selected');
-			
+			$('#sel_skilllevel').val(10);
+			$('#sel_skill2level').val(10);
+            
 			$('#doll_inputs').find('input, select').removeAttr('disabled');
 			
 			var iconnum;
@@ -408,7 +416,7 @@
             dollpos[selected_item].rank = doll.rank;
 			$("#grid" + selected_item + " .content").empty().append($('<i>', {
 				class: 'dollicon',
-				style: 'background-image: url("img/characters/' + doll.name + '/pic/pic_' + doll.name + '_n.jpg");'
+				style: 'background-image: url("img/characters/' + doll.name + '/pic/pic_' + doll.name + '_n.jpg"); border: ' + rankbordercolor(doll.rank) +  ' 5px solid;'
 				//src: 'img/icons/' + iconnum + '.png'
 			}))
 			.append(drawefftile(doll.effect.effectPos, doll.effect.effectCenter));
@@ -423,7 +431,7 @@
 			$("#submitbtn").trigger('click');
 		});
 		
-		$("#sel_level, #sel_favor, #sel_skilllevel").on('change', function(e) {
+		$("#sel_level, #sel_favor, #sel_skilllevel, #sel_skill2level").on('change', function(e) {
 			if($(this).attr('id') == 'sel_level') {
 				dollpos[selected_item].level = Number($(this).val());
 				console.log("insert level : " + dollpos[selected_item].level);
@@ -434,9 +442,14 @@
 				console.log("insert favor : " + dollpos[selected_item].favor);
 				$("#submitbtn").trigger('click');
 			}
-			else {
-				dollpos[selected_item].skilllevel = Number($(this).val());
-				console.log("insert skilllevel : " + dollpos[selected_item].skilllevel);
+			else if($(this).attr('id') == 'sel_skilllevel'){
+				dollpos[selected_item].favor = Number($(this).val());
+				console.log("insert favor : " + dollpos[selected_item].favor);
+				$("#submitbtn").trigger('click');
+			}
+			else if($(this).attr('id') == 'sel_skill2level'){
+				dollpos[selected_item].favor = Number($(this).val());
+				console.log("insert favor : " + dollpos[selected_item].favor);
 				$("#submitbtn").trigger('click');
 			}
 		});
@@ -850,6 +863,15 @@
 				x.style.display = "block";
 			}
 		}
+        
+        function rankbordercolor(rank) {
+            switch(rank) {
+                case 2: return "#bcbcbc";
+                case 3: return "#5dd9c3";
+                case 4: return "#d6e35a";
+                case 5: return "#fda809";
+            }
+        }
 	</script>
     
     <script>

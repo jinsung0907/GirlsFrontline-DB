@@ -3,11 +3,11 @@
 	define("GF_HEADER", "aaaaa");
 	include_once("common.php");
 	
-	//1초에 1번씩 rate limit
+	//rate limit
 	session_start();
 	$time = time();
 	if(isset($_SESSION['time'])) {
-		if(($time - $_SESSION['time']) <= 0.5) {
+		if(($time - $_SESSION['time']) <= 0.2) {
 			exit;
 		}
 	}
@@ -301,7 +301,7 @@
 			
 			//인형 스킬 스탯 계산
 			//사속 구하기
-			if(!isset($grid[$key][$doll->type]['rate'])|| $grid[$key][$doll->type]['rate'] == 0) {
+			if(!isset($grid[$key][$doll->type]['rate'])) {
 				$grid_rate = 1;
 			} else {
 				$grid_rate = 1 + $grid[$key][$doll->type]['rate'] / 100;
@@ -317,7 +317,7 @@
 			}
 			
 			//화력 구하기
-			if(!isset($grid[$key][$doll->type]['pow']) || $grid[$key][$doll->type]['pow'] == 0) {
+			if(!isset($grid[$key][$doll->type]['pow'])) {
 				$grid_pow = 1;
 			} else {
 				$grid_pow = 1 + $grid[$key][$doll->type]['pow'] / 100;
@@ -326,7 +326,7 @@
 				
 			
 			//치명률 구하기
-			if(!isset($grid[$key][$doll->type]['crit']) || $grid[$key][$doll->type]['crit'] == 0) {
+			if(!isset($grid[$key][$doll->type]['crit'])) {
 				$grid_crit = 1;
 			} else {
 				$grid_crit = 1 + $grid[$key][$doll->type]['crit'] / 100;
@@ -349,7 +349,7 @@
 			if($curframe == $fireframe) {
 				//치명률, 치명상 적용 공식
 				//해당 프레임 데미지
-				$dps_timeline[$curframe][0] += ($pow*(1-$crit) + $pow*$critDmg*$crit)*$link;
+				$dps_timeline[$curframe][0] += ($pow + ((($pow * $critDmg) - $pow) * ($crit-1))) * $link;
 				//총 데미지
 				$dps_timeline[$curframe][1] = $dps_timeline[$curframe-1][1] + $dps_timeline[$curframe][0];
 			} 
@@ -456,7 +456,7 @@
 		$time = $time_end - $time_start;
 		
 		//print_r($dps_timeline);
-		//$resultvalue['timeline'][$key] = $dps_timeline;
+		$resultvalue['timeline'][$key] = $dps_timeline;
 		$resultvalue['timeline_sec'][$key] = $dps_timeline_sec;
 		$resultvalue['dps'][$key] = $dps_timeline[449][1] / 15;
 		$resultvalue['time'] = $time;
