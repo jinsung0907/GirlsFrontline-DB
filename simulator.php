@@ -66,7 +66,7 @@
 			<div id="scapture">
 			<span id="watermark"></span>
 				<div class="row">
-					<div class="col-lg-4">
+					<div class="col-sm-4">
                         <div class="dollgrid">
                             <div class="effrow">
                                 <div class="effitem" id="grid3">
@@ -156,11 +156,13 @@
 							<button id="delete"><?=L::sim_delete?></button>
 							<button style="display:none" id="submitbtn"><?=L::sim_calcdps?></button>
 							<button onclick="ScreenCapture()"><?=L::sim_screenshot?></button>
+							<button onclick="export_grid()">내보내기</button>
 							<br>
 						</div>
 					</div>
                     
                     <div class="col-8">
+                    <div style="width:100%"></div>
                         작전능력 : <span class="txthighlight" id="actionEff"></span>
                         <canvas id="myChart" width="400" height="100"></canvas>
 						<span id="dps_div"></span>
@@ -175,6 +177,12 @@
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3><?=L::sim_history?></h3>
+            2.1 v (18/9/27) <br>
+             - 가져오기 내보내기 기능 추가,
+             - 모바일 가로화면시 가로 레이아웃이 나오도록 수정
+             - 버프 아이콘 크기 조절
+             - 인형을 랭크별로 나눔
+            <br>
             2.0 v (18/9/27) <br>
              <font color="#FF0000">- 현재 스킬 계산 안됨</font><br>
              - DPS 계산식 오류 수정<br>
@@ -261,7 +269,10 @@
 		window.onload = function() {
 			var ctx = document.getElementById('myChart').getContext('2d');
             document.getElementById('myChart').height = $(".effrow").height() * 3;
-            document.getElementById('myChart').width = $(document.getElementById('myChart')).parent().width();
+            if($(".row").width() > 576)
+                document.getElementById('myChart').width = $(document.getElementById('myChart')).parent().width();
+            else
+                document.getElementById('myChart').width = $(".dollgrid").width();
             
 			window.myLine = new Chart(ctx, config);
 		};
@@ -356,7 +367,7 @@
 					$('#doll_inputs').find('input, select').removeAttr('disabled');
 					
 					$('#sel_type option').removeAttr('selected', 'selected');
-					$('#sel_type').val(doll.type.toUpperCase()).change();
+					$('#sel_type').val(doll.type.toUpperCase()).trigger('change');
 					
 					$('#sel_doll option').removeAttr('selected', 'selected');
 					$('#sel_doll').val(doll.id);
@@ -660,6 +671,11 @@
 					 grid[i][guntype[j]] = {};
 				}
 			}
+            
+            var url_string = window.location.href
+            var url = new URL(url_string);
+            if(url.searchParams.get("q") !== null)
+                import_grid();
 		}
 		
 		function applyEffect(pos) {
@@ -998,9 +1014,9 @@
                     
                     updateTable();
                     $("#submitbtn").trigger('click');
-                    clear();
                 }
                 $(elem).css('background-color', '');
+                clear();
             }
 		}
 	});
@@ -1014,16 +1030,15 @@
             $(this).html(dragelem);
             $("#grid" + dragstatus).html(tmpgrid);
 			
-			
+			var tmp = dollpos[gridnum];
+            dollpos[gridnum] = dollpos[dragstatus];
+            dollpos[dragstatus] = tmp;
+            
+            updateTable();
+            $("#submitbtn").trigger('click');
         }
         $(this).css('background-color', '');
-		
-		var tmp = dollpos[gridnum];
-		dollpos[gridnum] = dollpos[dragstatus];
-		dollpos[dragstatus] = tmp;
-		
-		updateTable();
-		$("#submitbtn").trigger('click');
+
         clear();
     });
     
@@ -1050,6 +1065,54 @@
 		gridnum = null;
 		touchlast = null;
 	}
+    
+    function export_grid() {
+        var resultstr = '';
+        console.log(dollpos);
+        for(var i = 1 ; i <= 9 ; i++) {
+            if(typeof dollpos[i] !== 'undefined') {
+                var str = i + ":" + dollpos[i].id + ":" + dollpos[i].level + ":" + dollpos[i].favor + ":" + dollpos[i].skilllevel + ":" + dollpos[i].skill2level + "|";
+                resultstr += str;
+            }
+        }
+        resultstr = resultstr.substring(0, resultstr.length, -1);
+        
+        var url_string = window.location.href
+        var url = new URL(url_string);
+        var query = url.searchParams.get("lang");
+        prompt("URL을 복사하세요", window.location.origin + window.location.pathname + "?lang=" + query + "&q=" + encodeURI(resultstr));
+    }
+    
+    function import_grid() {
+        var url_string = window.location.href
+        var url = new URL(url_string);
+        var query = url.searchParams.get("q");
+        console.log(query);
+
+        var str = decodeURI(query);
+        str = str.split("|");
+        str.forEach(function(data) {
+            data = data.split(":");
+            if(data.length == 6) {
+                var l_num = data[0];
+                var l_id = data[1];
+                var l_level = data[2]
+                var l_favor = data[3]
+                var l_skilllevel = data[4]
+                var l_skill2level = data[5]
+                
+                $("#grid" + l_num).click();
+                $("#sel_doll").append($('<option>', {value: l_id}));
+                $("#sel_doll").val(l_id).trigger('change');
+                $("#sel_level").val(l_level).trigger('change');
+                $("#sel_favor").val(l_favor).trigger('change');
+                $("#sel_skilllevel").val(l_skilllevel).trigger('change');
+                if(Number(l_id) > 20000)
+                    $("#sel_skill2level").val(l_skill2level).trigger('change');
+                $("#grid" + l_num).click();
+            }
+        });
+    }
     </script>
 	</body>
 </html>
