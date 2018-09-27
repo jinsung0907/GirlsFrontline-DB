@@ -385,6 +385,9 @@
                     
                     $('#sel_skilllevel').val(dollpos[selected_item].skilllevel);
                     $('#sel_skill2level').val(dollpos[selected_item].skill2level);
+                    
+                    if(dollpos[selected_item].id < 20000)
+                        $('#sel_skill2level').attr('disabled', 'disabled');
 					
 				}
 				//비어있으면 타입과 인형선택만 활성화
