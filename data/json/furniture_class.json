@@ -683,6 +683,18 @@
 	"is_showed": "1",
 	"placement": "1"
 }, {
+	"id": "59",
+	"name": "furniture_classes-10000059",
+	"rank": "5",
+	"bonus_picture": "3026",
+	"k_bonus": "6:2000,9:5000,12:8000",
+	"bonus_number": "13",
+	"description": "furniture_classes-20000059",
+	"bonus_description": "furniture_classes-30000059",
+	"code": "rockroll2018_deco_01_icon",
+	"is_showed": "1",
+	"placement": "1"
+}, {
 	"id": "299",
 	"name": "furniture_classes-10000299",
 	"rank": "5",
