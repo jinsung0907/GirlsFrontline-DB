@@ -151,6 +151,7 @@
                                     <option value='9'>9</option>
                                     <option value='10'>10</option>
                                 </select>
+                                <button type="button" onclick="equipmodal()">장비선택</button>
 							</form>
 							<br>
 							<button id="delete"><?=L::sim_delete?></button>
@@ -180,11 +181,33 @@
 						<span id="dps_div"></span>
                     </div>
                 </div>
-                <div class="row">
-					<div class="col">
-						
-					</div>
-				</div>
+                <div class="modal fade" id="equipmodal" tabindex="-1" role="dialog">
+                    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <div class="container-fluid">
+                                    <div class="row">
+                                        <div class="col-lg-4">
+                                            <select id="equip_1">
+                                                <option>선택</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-lg-4">
+                                            <select id="equip_2">
+                                                <option>선택</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-lg-4">
+                                            <select id="equip_3">
+                                                <option>선택</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 			</div>
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
@@ -264,8 +287,6 @@
 <?php
 	require_once("footer.php");
 ?>
-	<link rel="stylesheet" href="dist/jquery-ui.min.css">
-	<script src="dist/jquery-ui.min.js"></script>
 	<script src="dist/Chart.bundle.min.js"></script>
 	<script src="dist/html2canvas.min.js"></script>
 	<script>
@@ -326,7 +347,6 @@
 			for(var dollid in data.timeline_sec) {
 				var doll = searchDoll(dollpos[dollid].id);
 				var secdmg = $.map(data.timeline_sec[dollid], function(el) { return el });
-				console.log(secdmg);
 				
 				var colorNames = Object.keys(window.chartColors);
 				if(typeof config.data.datasets !== 'undefined')
@@ -504,34 +524,41 @@
 		});
 		
 		
-		$("#sel_level, #sel_favor, #sel_skilllevel, #sel_skill2level, #sel_fairy, #fairyrank, #fairylevel").on('change', function(e) {
+		$("#sel_level, #sel_favor, #sel_skilllevel, #sel_skill2level, #sel_fairy, #fairyrank, #fairylevel, #equip_1, #equip_2, #equip_3").on('change', function(e) {
 			if($(this).attr('id') == 'sel_level') {
 				dollpos[selected_item].level = Number($(this).val());
-				console.log("insert level : " + dollpos[selected_item].level) ;
-				$("#submitbtn").trigger('click');
+				console.log("insert level : " + dollpos[selected_item].level);
 			}
 			else if($(this).attr('id') == 'sel_favor'){
 				dollpos[selected_item].favor = Number($(this).val());
 				console.log("insert favor : " + dollpos[selected_item].favor);
-				$("#submitbtn").trigger('click');
 			}
 			else if($(this).attr('id') == 'sel_skilllevel'){
 				dollpos[selected_item].skilllevel = Number($(this).val());
 				console.log("insert skilllevel : " + dollpos[selected_item].skilllevel);
-				$("#submitbtn").trigger('click');
 			}
 			else if($(this).attr('id') == 'sel_skill2level'){
 				dollpos[selected_item].skill2level = Number($(this).val());
 				console.log("insert skill2level : " + dollpos[selected_item].skill2level);
-				$("#submitbtn").trigger('click');
 			}
-            else {
-                $("#submitbtn").trigger('click');
-            }
+            else if($(this).attr('id') == 'equip_1'){
+				dollpos[selected_item].equip[0] = Number($(this).val());
+				console.log("insert equip1 : " + dollpos[selected_item].equip[0]);
+			}
+            else if($(this).attr('id') == 'equip_2'){
+				dollpos[selected_item].equip[1] = Number($(this).val());
+				console.log("insert equip2 : " + dollpos[selected_item].equip[1]);
+			}
+            else if($(this).attr('id') == 'equip_3'){
+				dollpos[selected_item].equip[2] = Number($(this).val());
+				console.log("insert equip3 : " + dollpos[selected_item].equip[2]);
+			}
+            $("#submitbtn").trigger('click');
 		});
 
 		var dolls;
 		var fairies;
+        var equips;
 		var grid = {};
 		var guntype = ['ar', 'sg', 'rf', 'hg', 'mg', 'smg'];
 		var efftype = ['rate', 'pow', 'dodge', 'hit', 'crit', 'cooldown', 'armor'];
@@ -544,6 +571,23 @@
 				$("#sel_fairy").append($('<option>', {
 					value: val.id,
 					text: val.krName
+				}));
+			});
+		});
+		$.getJSON("data/json/equip.json", function(json) {
+			equips = json;
+			equips.forEach(function(eq) {
+				$("#equip_1").append($('<option>', {
+					value: eq.id,
+					text: eq.krName
+				}));
+				$("#equip_2").append($('<option>', {
+					value: eq.id,
+					text: eq.krName
+				}));
+				$("#equip_3").append($('<option>', {
+					value: eq.id,
+					text: eq.krName
 				}));
 			});
 		});
@@ -566,6 +610,7 @@
 				if(typeof dollpos[i] !== 'undefined' && dollpos[i] !== null && typeof dollpos[i].id !== 'undefined' && dollpos[i].id !== null) {
 					var doll = searchDoll(dollpos[i].id);
 					dollstats[i] = calcstats(doll, dollpos[i].level, dollpos[i].favor);
+                    dollstats[i] = calcequipstat(i, dollstats[i]);
 				}
 			}
 			updata.stats = dollstats;
@@ -582,7 +627,6 @@
 				}
 			})
 			.done(function( data ) {
-				console.log(data);
 				updateChart(data);
 			});
 		});
@@ -861,11 +905,17 @@
 			if(!result) return false;
 			return result;
 		}
-
 		
-		
-		
-		
+		function searchEquip(num) {
+			var result;
+			$.each(equips, function(i, v) {
+				if (v.id == num) {
+					result = v;
+				}
+			});
+			if(!result) return false;
+			return result;
+		}
 		
 		
 		var dollgrow = {"after100":{"basic":{"armor":[13.979,0.04],"hp":[96.283,0.138]},"grow":{"dodge":[0.075,22.572],"hit":[0.075,22.572],"pow":[0.06,18.018],"rate":[0.022,15.741]}},"normal":{"basic":{"armor":[2,0.161],"dodge":[5],"hit":[5],"hp":[55,0.555],"pow":[16],"rate":[45],"speed":[10]},"grow":{"dodge":[0.303,0],"hit":[0.303,0],"pow":[0.242,0],"rate":[0.181,0]}}};
@@ -917,7 +967,6 @@
 			var quality = $("#fairyrank").val();
 			
             var result = {};
-            console.log(fid);
             if(typeof fid === 'undefined' || fid == 0) {
                 return result;
             }
@@ -947,6 +996,36 @@
 			}
 			return result;
 		}
+        
+        function calcequipstat(num, stats) {
+            if(typeof dollpos[num].equip === 'undefined')
+                dollpos[num].equip = {};
+            
+            var result = stats;
+            
+            for(var i = 0 ; i <= 2 ; i++) {
+                if(typeof dollpos[num].equip[i] !== 'undefined') {
+                    var eq = searchEquip(dollpos[num].equip[i]);
+                    for(var key in eq.stats) {
+                        value = eq.stats[key].max;
+                        if(typeof eq.stats[key].amp !== 'undefined')
+                            value = Math.floor(value * eq.stats[key].amp);
+                        
+                        switch(key) {
+                            case "critical_percent": key = 'crit'; break;
+                            case "armor_piercing": key = 'armorPiercing'; break;
+                            case "critical_harm_rate": key = 'critDmg'; break;
+                        }
+                        
+                        if(typeof stats[key] === 'undefined')
+                            stats[key] = 0;
+                        
+                        stats[key] += value;
+                    }
+                }
+            }
+            return result;
+        }
 
 		
 		function getFavorRatio(favor) {
@@ -1017,6 +1096,24 @@
                 case 4: return "#d6e35a";
                 case 5: return "#fda809";
             }
+        }
+        
+        function equipmodal() {
+            if(typeof dollpos[selected_item].equip === 'undefined')
+                dollpos[selected_item].equip = {};
+            
+            $("#equip_1").val($("#equip_1 option:first").val());
+            $("#equip_2").val($("#equip_2 option:first").val());
+            $("#equip_3").val($("#equip_3 option:first").val());
+            
+            if(typeof dollpos[selected_item].equip[0] !== 'undefined')
+                $("#equip_1").val(dollpos[selected_item].equip[0]);
+            if(typeof dollpos[selected_item].equip[1] !== 'undefined')
+                $("#equip_2").val(dollpos[selected_item].equip[1]);
+            if(typeof dollpos[selected_item].equip[2] !== 'undefined')
+                $("#equip_3").val(dollpos[selected_item].equip[2]);
+            
+            $('#equipmodal').modal('show');
         }
 	</script>
     
@@ -1151,7 +1248,6 @@
     
     function export_grid() {
         var resultstr = '';
-        console.log(dollpos);
         for(var i = 1 ; i <= 9 ; i++) {
             if(typeof dollpos[i] !== 'undefined') {
                 var str = i + ":" + dollpos[i].id + ":" + dollpos[i].level + ":" + dollpos[i].favor + ":" + dollpos[i].skilllevel + ":" + dollpos[i].skill2level + "|";

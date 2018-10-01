@@ -172,6 +172,7 @@
 		
 		$gear = 0; //장비는 현재 구현안됨, 0으로 넣음
 		$critDmg = 1.5; //치명상은 1.5(50%)고정, 장비 구현이 안되어있으니 고정값으로 둠.
+        if(isset($stat->critDmg)) $critDmg = ($critDmg + $stat->critDmg) / 100; //장비 적용
 		$fairybuff = 1; //요정버프는 현재 구현안됨, 1배로 넣음
 		$fairyskill = 1; //요정스킬은 현재 구현안됨, 1배로 넣음
 		$fairyattr = 1; //요정특성은 현재 구현안됨, 1배로 넣음
