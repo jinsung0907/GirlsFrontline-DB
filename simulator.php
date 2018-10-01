@@ -6,7 +6,7 @@
 	}
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
-	$header_title = L::navigation_title_dpssim;
+	$header_title = L::navigation_title_dpssim . " | " . L::sitetitle_short;
 	$header_desc = L::title_sim_desc;
 	$header_keyword = L::title_sim_keyword;
 	require_once("header.php");
@@ -1292,6 +1292,11 @@
                 $("#grid" + l_num).click();
             }
         });
+    }
+    
+    window.onerror = function(msg, url, linenumber) {
+        alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber);
+        return true;
     }
     </script>
 	</body>
