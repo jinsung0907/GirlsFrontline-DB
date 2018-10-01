@@ -2111,7 +2111,7 @@
 		"rank": 5,
 		"type": "smg",
 		"illust": "音符",
-		"voice": "",
+		"voice": "Haruka Takahashi",
 		"buildTime": 8280,
 		"drop": "212",
 		"stats": {
@@ -8745,6 +8745,44 @@
 			"cd": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
 			"intercd": 8,
 			"code": "powBuffSelf"
+		}
+	}, {
+		"id": 239,
+		"name": "Type03",
+		"krName": "03식",
+		"enName": "",
+		"jpName": "",
+		"rank": 3,
+		"type": "ar",
+		"illust": "迷肘",
+		"voice": "",
+		"buildTime": 12000,
+		"drop": "1810",
+		"stats": {
+			"hp": 105,
+			"pow": 120,
+			"hit": 125,
+			"dodge": 102,
+			"speed": 100,
+			"rate": 110,
+			"armorPiercing": 10,
+			"crit": 20
+		},
+		"grow": 105,
+		"effect": {
+			"effectType": "smg",
+			"effectCenter": 5,
+			"effectPos": [8],
+			"gridEffect": {
+				"pow": 12,
+				"dodge": 12
+			}
+		},
+		"skill": {
+			"realid": 105903,
+			"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+			"intercd": 6,
+			"code": "critBuffSelf"
 		}
 	}, {
 		"id": 1001,
