@@ -212,8 +212,9 @@
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3><?=L::sim_history?></h3>
-            2.2 v (18/9/27) <br>
+            2.2 v (18/10/1) <br>
              - 요정추가<br>
+             - 장비추가<br>
             <br>
             2.1 v (18/9/27) <br>
              - 가져오기 내보내기 기능 추가,<br>
