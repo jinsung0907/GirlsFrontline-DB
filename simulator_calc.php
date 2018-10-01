@@ -57,6 +57,19 @@
 	// value -> 레벨, 호감도계산된 doll.json의 stats부분 
 	$stats = $_POST['stats'];
 	
+	$fairy = $_POST['fairy'];
+	if(sizeof($fairy) == 0) {
+        $fairy['pow'] = 1;
+        $fairy['hit'] = 1;
+        $fairy['dodge'] = 1;
+        $fairy['armor'] = 1;
+        $fairy['critDmg'] = 0;
+    }
+
+	$fairybuff = 1; //요정버프는 현재 구현안됨, 1배로 넣음
+	$fairyskill = 1; //요정스킬은 현재 구현안됨, 1배로 넣음
+	$fairyattr = 1; //요정특성은 현재 구현안됨, 1배로 넣음
+	
 	//스킬
 	$skill_timeline = [];
 	
@@ -80,9 +93,8 @@
 		}
 		
 		$gear = 0;
-		$fairybuff = 1; //요정버프는 현재 구현안됨, 1배로 넣음
-		$fairyskill = 1; //요정스킬은 현재 구현안됨, 1배로 넣음
-		$fairyattr = 1; //요정특성은 현재 구현안됨, 1배로 넣음
+		
+		
 		$dollskill = 1; //인형스킬 데미지 쿨감은 스킬 없으니 제외
 		
 		$skill;
@@ -177,8 +189,7 @@
 			$doll_ammocnt = $ammocnt; //원래 총알 개수 저장
 		}
 		
-		$dps_timeline = [];
-		
+		$dps_timeline = array_fill(0, 451, NULL);
 		//인형 스킬 화력 스탯 계산
 		//사속 구하기
 		if(!isset($grid[$key][$doll->type]['rate']) || $grid[$key][$doll->type]['rate'] == 0) {
@@ -324,8 +335,7 @@
 			} else {
 				$grid_pow = 1;
 			}
-			$pow = ceil(ceil((ceil($stat['pow']) + $gear) * $fairybuff) * $grid_pow * $dollskill['pow'] * $fairyskill * $fairyattr);
-				
+			$pow = ceil(ceil((ceil($stat['pow']) + $gear) * $fairy['pow']) * $grid_pow * $dollskill['pow'] * $fairyskill * $fairyattr);
 			
 			//치명률 구하기
 			if(isset($grid[$key][$doll->type]['crit'])) {

@@ -163,6 +163,18 @@
                     
                     <div class="col-8">
                     <div style="width:100%"></div>
+                        <select id="sel_fairy">
+							<option value='0'>요정없음</option>
+						</select>
+						<select id="fairyrank">
+							<option value='1'>1성</option>
+							<option value='2'>2성</option>
+							<option value='3'>3성</option>
+							<option value='4'>4성</option>
+							<option value='5' selected>5성</option>
+						</select>
+						<input id="fairylevel" type='number' min='1' max='100' value='100' placeholder='요정레벨'>
+						<br>
                         <?=L::sim_actpoint?> : <span class="txthighlight" id="actionEff"></span>
                         <canvas id="myChart" width="400" height="100"></canvas>
 						<span id="dps_div"></span>
@@ -177,11 +189,14 @@
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3><?=L::sim_history?></h3>
+            2.2 v (18/9/27) <br>
+             - 요정추가<br>
+            <br>
             2.1 v (18/9/27) <br>
-             - 가져오기 내보내기 기능 추가,
-             - 모바일 가로화면시 가로 레이아웃이 나오도록 수정
-             - 버프 아이콘 크기 조절
-             - 인형을 랭크별로 나눔
+             - 가져오기 내보내기 기능 추가,<br>
+             - 모바일 가로화면시 가로 레이아웃이 나오도록 수정<br>
+             - 버프 아이콘 크기 조절<br>
+             - 인형을 랭크별로 나눔<br>
             <br>
             2.0 v (18/9/27) <br>
              <font color="#FF0000">- 현재 스킬 계산 안됨</font><br>
@@ -488,10 +503,11 @@
 			$("#submitbtn").trigger('click');
 		});
 		
-		$("#sel_level, #sel_favor, #sel_skilllevel, #sel_skill2level").on('change', function(e) {
+		
+		$("#sel_level, #sel_favor, #sel_skilllevel, #sel_skill2level, #sel_fairy, #fairyrank, #fairylevel").on('change', function(e) {
 			if($(this).attr('id') == 'sel_level') {
 				dollpos[selected_item].level = Number($(this).val());
-				console.log("insert level : " + dollpos[selected_item].level);
+				console.log("insert level : " + dollpos[selected_item].level) ;
 				$("#submitbtn").trigger('click');
 			}
 			else if($(this).attr('id') == 'sel_favor'){
@@ -509,14 +525,27 @@
 				console.log("insert skill2level : " + dollpos[selected_item].skill2level);
 				$("#submitbtn").trigger('click');
 			}
+            else {
+                $("#submitbtn").trigger('click');
+            }
 		});
 
 		var dolls;
+		var fairies;
 		var grid = {};
 		var guntype = ['ar', 'sg', 'rf', 'hg', 'mg', 'smg'];
 		var efftype = ['rate', 'pow', 'dodge', 'hit', 'crit', 'cooldown', 'armor'];
 		$.getJSON("data/json/doll.json", function(json) {
 			dolls = json;
+		});
+		$.getJSON("data/json/fairy.json", function(json) {
+			fairies = json;
+			fairies.forEach(function(val) {
+				$("#sel_fairy").append($('<option>', {
+					value: val.id,
+					text: val.krName
+				}));
+			});
 		});
 		
 		$("#delete").on('click', function() {
@@ -540,7 +569,8 @@
 				}
 			}
 			updata.stats = dollstats;
-            
+            updata.fairy = calcfairystat();
+			
             console.log(updata);
 			
 			$.ajax({
@@ -820,6 +850,17 @@
 			if(!result) return false;
 			return result;
 		}
+		
+		function searchFairy(num) {
+			var result;
+			$.each(fairies, function(i, v) {
+				if (v.id == num) {
+					result = v;
+				}
+			});
+			if(!result) return false;
+			return result;
+		}
 
 		
 		
@@ -869,6 +910,44 @@
 			result['bullet'] = dollstats.bullet;
 			return result;
 		}
+		
+		function calcfairystat() {
+			var fid = $("#sel_fairy").val();
+			var level = $("#fairylevel").val();
+			var quality = $("#fairyrank").val();
+			
+            var result = {};
+            console.log(fid);
+            if(typeof fid === 'undefined' || fid == 0) {
+                return result;
+            }
+            
+			var fairy = searchFairy(fid);
+			var fairystats = fairy.stats;
+			var grow = {"armor": [5, 0.05],"critDmg": [10, 0.101],"dodge": [20, 0.202],"hit": [25, 0.252],"pow": [7, 0.076],"proportion": [0.4, 0.5, 0.6, 0.8, 1.0]};
+			var fairygrow = fairy.grow;
+			
+			
+			if(typeof level !== 'undefined' && typeof quality !== 'undefined') {
+				if(typeof fairystats.pow !== 'undefined') {
+					result.pow = ((Math.ceil((grow.pow[0] * (fairystats.pow / 100)) + Math.ceil(((level - 1) * grow.pow[1]) * (fairystats.pow / 100) * (fairygrow / 100))) * grow.proportion[quality - 1]).toFixed(1) / 100) + 1;
+				} else result.pow = 1;
+				if(typeof fairystats.hit !== 'undefined') {
+					result.hit = ((Math.ceil((grow.hit[0] * (fairystats.hit / 100)) + Math.ceil(((level - 1) * grow.hit[1]) * (fairystats.hit / 100) * (fairygrow / 100))) * grow.proportion[quality - 1]).toFixed(1) / 100) + 1;
+				} else result.hit = 1;
+				if(typeof fairystats.dodge !== 'undefined') {
+					result.dodge = ((Math.ceil((grow.dodge[0] * (fairystats.dodge / 100)) + Math.ceil(((level - 1) * grow.dodge[1]) * (fairystats.dodge / 100) * (fairygrow / 100))) * grow.proportion[quality - 1]).toFixed(1) / 100) + 1;
+				} else result.dodge = 1;
+				if(typeof fairystats.critDmg !== 'undefined') {
+					result.critDmg = ((Math.ceil((grow.critDmg[0] * (fairystats.critDmg / 100)) + Math.ceil(((level - 1) * grow.critDmg[1]) * (fairystats.critDmg / 100) * (fairygrow / 100))) * grow.proportion[quality - 1]).toFixed(1) / 100) + 1;
+				} else result.critDmg = 0;
+				if(typeof fairystats.armor !== 'undefined') {
+					result.armor = ((Math.ceil((grow.armor[0] * (fairystats.armor / 100)) + Math.ceil(((level - 1) * grow.armor[1]) * (fairystats.armor / 100) * (fairygrow / 100))) * grow.proportion[quality - 1]).toFixed(1) / 100) + 1;
+				} else result.armor = 1;
+			}
+			return result;
+		}
+
 		
 		function getFavorRatio(favor) {
 			if (favor < 10) {
