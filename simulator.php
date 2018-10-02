@@ -157,7 +157,7 @@
 							<button id="delete"><?=L::sim_delete?></button>
 							<button style="display:none" id="submitbtn"><?=L::sim_calcdps?></button>
 							<button onclick="ScreenCapture()"><?=L::sim_screenshot?></button>
-							<button onclick="export_grid()"><?=L::sim_share?></button>
+							<!--<button onclick="export_grid()"><?=L::sim_share?></button>-->
 							<br>
 						</div>
 					</div>
@@ -212,6 +212,8 @@
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3><?=L::sim_history?></h3>
+            2.2.1 v (18/10/2) <br>
+             - 탄약통 추가 
             2.2 v (18/10/1) <br>
              - 요정추가<br>
              - 장비추가<br>
@@ -1016,6 +1018,7 @@
                             case "critical_percent": key = 'crit'; break;
                             case "armor_piercing": key = 'armorPiercing'; break;
                             case "critical_harm_rate": key = 'critDmg'; break;
+                            case "bullet_number_up": key = 'bullet'; break;
                         }
                         
                         if(typeof stats[key] === 'undefined')
