@@ -212,8 +212,13 @@
 		</div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3><?=L::sim_history?></h3>
+            2.2.2 v (18/10/2) <br>
+             - 슬러그탄 화력 곱연산 적용<br>
+             <br>
             2.2.1 v (18/10/2) <br>
-             - 탄약통 추가 
+             - 탄약통 추가 탄약 적용안되던 점 수정<br>
+             - 현재 슬러그탄의 화력 곱연산 적용안됨<br>
+             <br>
             2.2 v (18/10/1) <br>
              - 요정추가<br>
              - 장비추가<br>
@@ -523,7 +528,8 @@
 			
 			updateTable();
 			
-			$("#submitbtn").trigger('click');
+			if(autobuild === false)
+                $("#submitbtn").trigger('click');
 		});
 		
 		
@@ -556,7 +562,8 @@
 				dollpos[selected_item].equip[2] = Number($(this).val());
 				console.log("insert equip3 : " + dollpos[selected_item].equip[2]);
 			}
-            $("#submitbtn").trigger('click');
+            if(autobuild === false)
+                $("#submitbtn").trigger('click');
 		});
 
 		var dolls;
@@ -1026,6 +1033,10 @@
                         
                         stats[key] += value;
                     }
+                    
+                    //슬러그탄
+                    if(eq.id == 77 || eq.id == 78 || eq.id == 79 || eq.id == 80)
+                        stats.pow = stats.pow*3;
                 }
             }
             return result;
@@ -1128,6 +1139,7 @@
     var dragelem;
 	var gridnum;
 	var touchlast;
+    var autobuild = false;
 	
     $(".effitem").on('mousedown touchstart', function(e) {
         dragelem = $(this).children();
@@ -1254,7 +1266,14 @@
         var resultstr = '';
         for(var i = 1 ; i <= 9 ; i++) {
             if(typeof dollpos[i] !== 'undefined') {
-                var str = i + ":" + dollpos[i].id + ":" + dollpos[i].level + ":" + dollpos[i].favor + ":" + dollpos[i].skilllevel + ":" + dollpos[i].skill2level + "|";
+                var eq = [0,0,0];
+                
+                for(var j=0 ; j<=2 ; j++) {
+                    if(dollpos[i].equip[j] !== 'undefined')
+                        eq[j] = dollpos[i].equip[j];
+                }
+                
+                var str = i + ":" + dollpos[i].id + ":" + dollpos[i].level + ":" + dollpos[i].favor + ":" + dollpos[i].skilllevel + ":" + dollpos[i].skill2level + ":" + eq[0] + ":" + eq[1] + ":" + eq[2] + "|";
                 resultstr += str;
             }
         }
@@ -1279,11 +1298,15 @@
             if(data.length == 6) {
                 var l_num = data[0];
                 var l_id = data[1];
-                var l_level = data[2]
-                var l_favor = data[3]
-                var l_skilllevel = data[4]
-                var l_skill2level = data[5]
+                var l_level = data[2];
+                var l_favor = data[3];
+                var l_skilllevel = data[4];
+                var l_skill2level = data[5];
+                var eq = data[6];
+                var l_skill2level = data[7];
+                var l_skill2level = data[8];
                 
+                autobuild = true;
                 $("#grid" + l_num).click();
                 $("#sel_doll").append($('<option>', {value: l_id}));
                 $("#sel_doll").val(l_id).trigger('change');
@@ -1293,13 +1316,14 @@
                 if(Number(l_id) > 20000)
                     $("#sel_skill2level").val(l_skill2level).trigger('change');
                 $("#grid" + l_num).click();
+                autobuild = false;
             }
         });
+        $("#submitbtn").trigger('click');
     }
     
     window.onerror = function(msg, url, linenumber) {
         alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber);
-        return true;
     }
     </script>
 	</body>
