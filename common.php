@@ -10,6 +10,9 @@ if(isset($_GET['lang'])) {
 	else if($_GET['lang'] == 'ja') {
 		$_SESSION['lang'] = 'ja';
 	}
+	else if($_GET['lang'] == 'zh') {
+		$_SESSION['lang'] = 'zh';
+	}
 	else if($_GET['lang'] == 'ko') {
 		$_SESSION['lang'] = 'ko';
 	}
@@ -22,6 +25,8 @@ if(isset($_SESSION['lang'])) {
 		$lang = 'en';
 	else if($_SESSION['lang'] == 'ja')
 		$lang = 'ja';
+	else if($_SESSION['lang'] == 'zh')
+		$lang = 'zh';
 	else 
 		$lang = 'ko';
 }
@@ -31,6 +36,8 @@ else {
 		$lang = 'en';
 	else if(strtolower($langs[0]) == "ja" || strtolower($langs[0]) == "ja-jp")
 		$lang = 'ja';
+	else if(strtolower($langs[0]) == "zh" || strtolower($langs[0]) == "zh-hans" || strtolower($langs[0]) == "zh-hant")
+		$lang = 'zh';
 	else 
 		$lang = 'ko';
 }
