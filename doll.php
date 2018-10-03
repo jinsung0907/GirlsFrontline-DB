@@ -329,6 +329,7 @@ $starttime = microtime(true);
 			if($match[2] == "브로냐") $match[2] = "브로냐 자이칙";
 			if($match[2] == "제레") $match[2] = "제레 발레리";
 			if($match[2] == "EVO") $match[2] = "EVO3";
+			if($match[2] == "웰로드 MkⅡ") $match[2] = "Welrod";
 
 			if($match[2] == $doll->name || $match[2] == $doll->krName) {
 				$tmpobj = new stdClass;
