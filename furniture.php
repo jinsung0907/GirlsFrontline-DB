@@ -58,6 +58,48 @@
 		}
 	}
 	*/
+    
+    
+    
+    //제목설정위해 불러옴
+    $header_title;
+    $header_desc;
+    $header_image;
+    $furniture_class = getJson('furniture_class');
+	$furniture_txt = explode(PHP_EOL, getDataFile("furniture_classes", 'ko'));
+    foreach($furniture_class as $i=>$data) {
+        if($data->id == $id) {
+            foreach($furniture_txt as $key=>$line) {
+                $query = $data->name;
+                if(substr($line, 0, strlen($query)) === $query) {
+                    $header_title = str_replace('//n', '', str_replace('//c', ',', str_replace($query . ',', '', $line)));
+                    $header_desc = str_replace('//n', '', str_replace('//c', ',', str_replace($data->description . ',', '', $furniture_txt[$key+1])));
+                    $header_image = "http://gfl.zzzzz.kr/img/furniture/icon/" . $data->code . ".png";
+                    break;
+                }
+            }
+        }
+    }
+    if($lang != 'ko') {
+		$furniture_txt = explode(PHP_EOL, getDataFile("furniture_classes", $lang));
+		
+		foreach($furniture_class as $i=>$data) {
+            if($data->id == $id) {
+                foreach($furniture_txt as $key=>$line) {
+                    $query = $data->name;
+                    if(substr($line, 0, strlen($query)) === $query) {
+                        $header_title = str_replace('//n', '', str_replace('//c', ',', str_replace($query . ',', '', $line)));
+                        $header_desc = str_replace('//n', '', str_replace('//c', ',', str_replace($data->description . ',', '', $furniture_txt[$key+1])));
+                        $header_image = "http://gfl.zzzzz.kr/img/furniture/icon/" . $data->code . ".png";
+                        break;
+                    }
+                }
+            }
+		}
+	}
+    
+    $header_keyword = "소녀전선 가구목록, $header_title 가구 목록, $header_title 가구 리스트";
+    $header_title = $header_title . " 가구 | " . L::sitetitle_short;
 	require_once("header.php");
 ?>
     <main role="main" class="container">
