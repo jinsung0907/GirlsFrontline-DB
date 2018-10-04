@@ -157,7 +157,7 @@
 							<button id="delete"><?=L::sim_delete?></button>
 							<button style="display:none" id="submitbtn"><?=L::sim_calcdps?></button>
 							<button onclick="ScreenCapture()"><?=L::sim_screenshot?></button>
-							<!--<button onclick="export_grid()"><?=L::sim_share?></button>-->
+							<button onclick="export_grid()"><?=L::sim_share?></button>
 							<br>
 						</div>
 					</div>
@@ -299,7 +299,8 @@
 	<script src="dist/html2canvas.min.js"></script>
 	<script>
 		var lang = '<?=$lang?>';
-		
+		var loaded = 0;
+        
 		window.chartColors = {
 			red: 'rgb(255, 99, 132)',
 			orange: 'rgb(255, 159, 64)',
@@ -320,10 +321,16 @@
             
 			window.myLine = new Chart(ctx, config);
             
-            var url_string = window.location.href
-            var url = new URL(url_string);
-            if(url.searchParams.get("q") !== null)
-                import_grid();
+            var loadtimer = setInterval(function(){
+                if(loaded === 3) {
+                    clearInterval(loadtimer);
+                    var url_string = window.location.href
+                    var url = new URL(url_string);
+                    if(url.searchParams.get("q") !== null)
+                        import_grid();
+                }
+            }, 500);
+            
 		};
 		
 		var config = {
@@ -495,6 +502,7 @@
 			
 			if(typeof dollpos[selected_item] === 'undefined') {
 				dollpos[selected_item] = {};
+                dollpos[selected_item].equip = {};
 			}
 			dollpos[selected_item].id = dollid;
 			dollpos[selected_item].level = 100;
@@ -574,6 +582,7 @@
 		var efftype = ['rate', 'pow', 'dodge', 'hit', 'crit', 'cooldown', 'armor'];
 		$.getJSON("data/json/doll.json", function(json) {
 			dolls = json;
+            loaded++;
 		});
 		$.getJSON("data/json/fairy.json", function(json) {
 			fairies = json;
@@ -583,23 +592,25 @@
 					text: val.krName
 				}));
 			});
+            loaded++;
 		});
 		$.getJSON("data/json/equip.json", function(json) {
 			equips = json;
-			equips.forEach(function(eq) {
+			for(var i in equips) {
 				$("#equip_1").append($('<option>', {
-					value: eq.id,
-					text: eq.krName
+					value: equips[i].id,
+					text: equips[i].krName
 				}));
 				$("#equip_2").append($('<option>', {
-					value: eq.id,
-					text: eq.krName
+					value: equips[i].id,
+					text: equips[i].krName
 				}));
 				$("#equip_3").append($('<option>', {
-					value: eq.id,
-					text: eq.krName
+					value: equips[i].id,
+					text: equips[i].krName
 				}));
-			});
+			}
+            loaded++;
 		});
 		
 		$("#delete").on('click', function() {
@@ -1267,22 +1278,32 @@
         for(var i = 1 ; i <= 9 ; i++) {
             if(typeof dollpos[i] !== 'undefined') {
                 var eq = [0,0,0];
-                
                 for(var j=0 ; j<=2 ; j++) {
-                    if(dollpos[i].equip[j] !== 'undefined')
+                    if(typeof dollpos[i].equip[j] !== 'undefined')
                         eq[j] = dollpos[i].equip[j];
                 }
-                
+
                 var str = i + ":" + dollpos[i].id + ":" + dollpos[i].level + ":" + dollpos[i].favor + ":" + dollpos[i].skilllevel + ":" + dollpos[i].skill2level + ":" + eq[0] + ":" + eq[1] + ":" + eq[2] + "|";
                 resultstr += str;
             }
         }
-        resultstr = resultstr.substring(0, resultstr.length, -1);
+        
+        resultstr = resultstr.slice(0, -1);
+
+        fairy_str = '';
+        var fid = $("#sel_fairy").val();
+        if(typeof fid !== 'undefined' && fid != 0) {
+            var f_level = $("#fairylevel").val();
+            var f_rank = $("#fairyrank").val();
+            
+            var str = fid + ":" + f_level + ":" + f_rank;
+            fairy_str = "&f=" + encodeURI(str);
+        }
         
         var url_string = window.location.href
         var url = new URL(url_string);
         var query = url.searchParams.get("lang");
-        prompt("URL을 복사하세요", window.location.origin + window.location.pathname + "?lang=" + query + "&q=" + encodeURI(resultstr));
+        prompt("URL을 복사하세요", window.location.origin + window.location.pathname + "?lang=" + query + "&q=" + encodeURI(resultstr) + fairy_str);
     }
     
     function import_grid() {
@@ -1295,17 +1316,19 @@
         str = str.split("|");
         str.forEach(function(data) {
             data = data.split(":");
-            if(data.length == 6) {
+            console.log(data);
+            if(data.length <= 12) {
                 var l_num = data[0];
                 var l_id = data[1];
                 var l_level = data[2];
                 var l_favor = data[3];
                 var l_skilllevel = data[4];
                 var l_skill2level = data[5];
-                var eq = data[6];
-                var l_skill2level = data[7];
-                var l_skill2level = data[8];
-                
+                if(data.length > 6) {
+                    var l_equip1 = data[6];
+                    var l_equip2 = data[7];
+                    var l_equip3 = data[8];
+                }
                 autobuild = true;
                 $("#grid" + l_num).click();
                 $("#sel_doll").append($('<option>', {value: l_id}));
@@ -1315,16 +1338,40 @@
                 $("#sel_skilllevel").val(l_skilllevel).trigger('change');
                 if(Number(l_id) > 20000)
                     $("#sel_skill2level").val(l_skill2level).trigger('change');
+                
+                if(data.length > 6) {
+                    if(l_equip1 != 0)
+                        $("#equip_1").val(l_equip1).trigger('change');
+                    if(l_equip2 != 0)
+                        $("#equip_2").val(l_equip2).trigger('change');
+                    if(l_equip3 != 0)
+                        $("#equip_3").val(l_equip3).trigger('change');
+                }
                 $("#grid" + l_num).click();
                 autobuild = false;
             }
         });
+        
+        var query = url.searchParams.get("f");
+        if(query !== null) {
+            data = query.split(":");
+            var f_id = data[0];
+            var f_level = data[1];
+            var f_rank = data[2];
+            
+            autobuild = true;
+            $("#sel_fairy").val(f_id).trigger('change');
+            $("#fairyrank").val(f_rank).trigger('change');
+            $("#fairylevel").val(f_level).trigger('change');
+            autobuild = false;
+        }
+        
         $("#submitbtn").trigger('click');
     }
-    
+    /*
     window.onerror = function(msg, url, linenumber) {
         alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber);
-    }
+    }*/
     </script>
 	</body>
 </html>
