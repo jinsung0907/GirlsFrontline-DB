@@ -22,6 +22,11 @@
 			"crit": 20
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [4, 13, 16],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -61,6 +66,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -100,6 +110,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -139,6 +154,11 @@
 			"crit": 40
 		},
 		"grow": 142,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -178,6 +198,11 @@
 			"crit": 20
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -217,6 +242,11 @@
 			"crit": 20
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -256,6 +286,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -295,6 +330,11 @@
 			"crit": 20
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -334,6 +374,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -373,6 +418,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -412,6 +462,11 @@
 			"crit": 20
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -451,6 +506,11 @@
 			"crit": 20
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -490,6 +550,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -529,6 +594,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -568,6 +638,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -607,6 +682,11 @@
 			"crit": 5
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -646,6 +726,11 @@
 			"crit": 5
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -685,6 +770,11 @@
 			"crit": 5
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -723,6 +813,11 @@
 			"crit": 5
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -762,6 +857,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -800,6 +900,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -839,6 +944,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -877,6 +987,11 @@
 			"crit": 5
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -916,6 +1031,11 @@
 			"crit": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -955,6 +1075,11 @@
 			"crit": 5
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -994,6 +1119,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -1033,6 +1163,11 @@
 			"crit": 5
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -1072,6 +1207,11 @@
 			"crit": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -1111,6 +1251,11 @@
 			"crit": 5
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -1150,6 +1295,11 @@
 			"crit": 5
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -1189,6 +1339,11 @@
 			"crit": 5
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -1227,6 +1382,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -1266,6 +1426,11 @@
 			"crit": 40
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1304,6 +1469,11 @@
 			"crit": 40
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1342,6 +1512,11 @@
 			"crit": 40
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1380,6 +1555,11 @@
 			"crit": 40
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1418,6 +1598,11 @@
 			"crit": 40
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1456,6 +1641,11 @@
 			"crit": 40
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1494,6 +1684,11 @@
 			"crit": 40
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1532,6 +1727,11 @@
 			"crit": 40
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1570,6 +1770,11 @@
 			"crit": 40
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1608,6 +1813,11 @@
 			"crit": 40
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1646,6 +1856,11 @@
 			"crit": 40
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1684,6 +1899,11 @@
 			"crit": 40
 		},
 		"grow": 135,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1722,6 +1942,11 @@
 			"crit": 40
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1760,6 +1985,11 @@
 			"crit": 40
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1798,6 +2028,11 @@
 			"crit": 40
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1836,6 +2071,11 @@
 			"crit": 40
 		},
 		"grow": 135,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1874,6 +2114,11 @@
 			"crit": 40
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13, 16],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1912,6 +2157,11 @@
 			"crit": 40
 		},
 		"grow": 95,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1950,6 +2200,11 @@
 			"crit": 40
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -1988,6 +2243,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [8],
+			"2": [9, 10, 11],
+			"3": [9, 10, 11]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2027,6 +2287,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10, 12]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -2066,6 +2331,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13, 16],
+			"2": [1, 2, 3, 4, 13, 16],
+			"3": [8]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2105,6 +2375,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13, 16],
+			"2": [1, 2, 3, 4, 13, 16],
+			"3": [8]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2144,6 +2419,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2182,6 +2462,11 @@
 			"crit": 5
 		},
 		"grow": 103,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -2221,6 +2506,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2260,6 +2550,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2299,6 +2594,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10, 12]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2338,6 +2638,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13, 16],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2377,6 +2682,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2416,6 +2726,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2454,6 +2769,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2493,6 +2813,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2532,6 +2857,11 @@
 			"crit": 20
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2571,6 +2901,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2610,6 +2945,11 @@
 			"crit": 20
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2649,6 +2989,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2687,6 +3032,11 @@
 			"crit": 30
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -2726,6 +3076,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -2766,6 +3121,11 @@
 			"bullet": 8
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -2806,6 +3166,11 @@
 			"bullet": 10
 		},
 		"grow": 95,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -2845,6 +3210,11 @@
 			"bullet": 9
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 3,
@@ -2885,6 +3255,11 @@
 			"bullet": 8
 		},
 		"grow": 135,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -2925,6 +3300,11 @@
 			"bullet": 9
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 1,
@@ -2965,6 +3345,11 @@
 			"bullet": 9
 		},
 		"grow": 95,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -3005,6 +3390,11 @@
 			"bullet": 9
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 1,
@@ -3044,6 +3434,11 @@
 			"bullet": 8
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -3083,6 +3478,11 @@
 			"bullet": 11
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -3122,6 +3522,11 @@
 			"bullet": 10
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 3,
@@ -3161,6 +3566,11 @@
 			"bullet": 10
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 1,
@@ -3200,6 +3610,11 @@
 			"bullet": 10
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -3240,6 +3655,11 @@
 			"bullet": 8
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 16],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 3,
@@ -3279,6 +3699,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -3318,6 +3743,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [4, 13, 16],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -3356,6 +3786,11 @@
 			"crit": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -3394,6 +3829,11 @@
 			"crit": 5
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -3432,6 +3872,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -3470,6 +3915,11 @@
 			"crit": 40
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -3508,6 +3958,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -3547,6 +4002,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -3586,6 +4046,11 @@
 			"crit": 20
 		},
 		"grow": 135,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -3625,6 +4090,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -3663,6 +4133,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -3702,6 +4177,11 @@
 			"crit": 5
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -3741,6 +4221,11 @@
 			"crit": 5
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -3779,6 +4264,11 @@
 			"crit": 5
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13, 16]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -3818,6 +4308,11 @@
 			"crit": 5
 		},
 		"grow": 95,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -3857,6 +4352,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -3896,6 +4396,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -3934,6 +4439,11 @@
 			"crit": 20
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -3973,6 +4483,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -4013,6 +4528,11 @@
 			"bullet": 11
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -4053,6 +4573,11 @@
 			"bullet": 8
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -4092,6 +4617,11 @@
 			"bullet": 10
 		},
 		"grow": 90,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 3,
@@ -4131,6 +4661,11 @@
 			"bullet": 9
 		},
 		"grow": 135,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -4169,6 +4704,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -4208,6 +4748,11 @@
 			"crit": 40
 		},
 		"grow": 140,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -4247,6 +4792,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -4286,6 +4836,11 @@
 			"crit": 5
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -4325,6 +4880,11 @@
 			"crit": 40
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -4363,6 +4923,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -4402,6 +4967,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -4441,6 +5011,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -4481,6 +5056,11 @@
 			"bullet": 10
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 1,
@@ -4519,6 +5099,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -4558,6 +5143,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -4597,6 +5187,11 @@
 			"crit": 40
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -4636,6 +5231,11 @@
 			"bullet": 9
 		},
 		"grow": 135,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -4675,6 +5275,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -4714,6 +5319,11 @@
 			"crit": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -4752,6 +5362,11 @@
 			"crit": 40
 		},
 		"grow": 135,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -4790,6 +5405,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -4829,6 +5449,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -4868,6 +5493,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -4906,6 +5536,11 @@
 			"crit": 20
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -4945,6 +5580,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -4984,6 +5624,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -5023,6 +5668,11 @@
 			"crit": 5
 		},
 		"grow": 95,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -5062,6 +5712,11 @@
 			"crit": 5
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -5100,6 +5755,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -5139,6 +5799,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [5, 8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -5177,6 +5842,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -5216,6 +5886,11 @@
 			"crit": 20
 		},
 		"grow": 135,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -5255,6 +5930,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -5293,6 +5973,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -5332,6 +6017,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -5371,6 +6061,11 @@
 			"crit": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -5410,6 +6105,11 @@
 			"crit": 40
 		},
 		"grow": 135,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -5448,6 +6148,11 @@
 			"crit": 40
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -5486,6 +6191,11 @@
 			"crit": 40
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -5524,6 +6234,11 @@
 			"crit": 40
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -5563,6 +6278,11 @@
 			"bullet": 10
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -5602,6 +6322,11 @@
 			"crit": 5
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -5643,6 +6368,11 @@
 			"bullet": 4
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -5684,6 +6414,11 @@
 			"bullet": 4
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -5724,6 +6459,11 @@
 			"bullet": 4
 		},
 		"grow": 90,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -5764,6 +6504,11 @@
 			"bullet": 4
 		},
 		"grow": 95,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 9,
@@ -5804,6 +6549,11 @@
 			"bullet": 4
 		},
 		"grow": 95,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 7,
@@ -5844,6 +6594,11 @@
 			"bullet": 3
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -5885,6 +6640,11 @@
 			"bullet": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -5925,6 +6685,11 @@
 			"bullet": 3
 		},
 		"grow": 90,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 9,
@@ -5966,6 +6731,11 @@
 			"bullet": 4
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 7,
@@ -6007,6 +6777,11 @@
 			"bullet": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -6047,6 +6822,11 @@
 			"bullet": 3
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -6087,6 +6867,11 @@
 			"bullet": 4
 		},
 		"grow": 90,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -6127,6 +6912,11 @@
 			"bullet": 5
 		},
 		"grow": 106,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -6167,6 +6957,11 @@
 			"bullet": 4
 		},
 		"grow": 96,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 9,
@@ -6208,6 +7003,11 @@
 			"bullet": 4
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 7,
@@ -6246,6 +7046,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -6285,6 +7090,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -6323,6 +7133,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 2,
@@ -6362,6 +7177,11 @@
 			"crit": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -6401,6 +7221,11 @@
 			"crit": 20
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -6439,6 +7264,11 @@
 			"crit": 20
 		},
 		"grow": 135,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -6477,6 +7307,11 @@
 			"crit": 30
 		},
 		"grow": 145,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -6517,6 +7352,11 @@
 			"bullet": 10
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 3,
@@ -6556,6 +7396,11 @@
 			"crit": 40
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -6594,6 +7439,11 @@
 			"crit": 20
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -6633,6 +7483,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 6,
@@ -6672,6 +7527,11 @@
 			"crit": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -6710,6 +7570,11 @@
 			"crit": 5
 		},
 		"grow": 112,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -6749,6 +7614,11 @@
 			"crit": 40
 		},
 		"grow": 138,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 2,
@@ -6787,6 +7657,11 @@
 			"crit": 40
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -6825,6 +7700,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 6,
@@ -6864,6 +7744,11 @@
 			"crit": 40
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -6902,6 +7787,11 @@
 			"crit": 40
 		},
 		"grow": 150,
+		"canequip": {
+			"1": [4, 13],
+			"2": [5, 6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -6941,6 +7831,11 @@
 			"crit": 40
 		},
 		"grow": 117,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -6980,6 +7875,11 @@
 			"bullet": 8
 		},
 		"grow": 145,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -7019,6 +7919,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -7058,6 +7963,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -7099,6 +8009,11 @@
 			"bullet": 4
 		},
 		"grow": 95,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -7140,6 +8055,11 @@
 			"bullet": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -7181,6 +8101,11 @@
 			"bullet": 5
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 9,
@@ -7219,6 +8144,11 @@
 			"crit": 5
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -7258,6 +8188,11 @@
 			"crit": 40
 		},
 		"grow": 136,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -7296,6 +8231,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -7335,6 +8275,11 @@
 			"crit": 20
 		},
 		"grow": 111,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -7375,6 +8320,11 @@
 			"bullet": 9
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -7414,6 +8364,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -7453,6 +8408,11 @@
 			"crit": 40
 		},
 		"grow": 140,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "rf",
 			"effectCenter": 3,
@@ -7491,6 +8451,11 @@
 			"crit": 40
 		},
 		"grow": 140,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "rf",
 			"effectCenter": 1,
@@ -7530,6 +8495,11 @@
 			"bullet": 10
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 1,
@@ -7569,6 +8539,11 @@
 			"crit": 40
 		},
 		"grow": 128,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -7607,6 +8582,11 @@
 			"crit": 40
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -7645,6 +8625,11 @@
 			"crit": 40
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -7683,6 +8668,11 @@
 			"crit": 5
 		},
 		"grow": 90,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 6,
@@ -7722,6 +8712,11 @@
 			"crit": 40
 		},
 		"grow": 142,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -7760,6 +8755,11 @@
 			"crit": 20
 		},
 		"grow": 148,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 6,
@@ -7799,6 +8799,11 @@
 			"crit": 20
 		},
 		"grow": 139,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 4,
@@ -7838,6 +8843,11 @@
 			"crit": 20
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -7878,6 +8888,11 @@
 			"bullet": 10
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -7917,6 +8932,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -7955,6 +8975,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -7994,6 +9019,11 @@
 			"crit": 40
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -8032,6 +9062,11 @@
 			"crit": 40
 		},
 		"grow": 108,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -8071,6 +9106,11 @@
 			"crit": 5
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [9, 10],
+			"2": [5, 6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -8110,6 +9150,11 @@
 			"crit": 20
 		},
 		"grow": 122,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -8149,6 +9194,11 @@
 			"crit": 20
 		},
 		"grow": 112,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -8188,6 +9238,11 @@
 			"crit": 40
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -8226,6 +9281,11 @@
 			"crit": 5
 		},
 		"grow": 98,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -8264,6 +9324,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -8303,6 +9368,11 @@
 			"crit": 20
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -8342,6 +9412,11 @@
 			"crit": 40
 		},
 		"grow": 132,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -8380,6 +9455,11 @@
 			"crit": 20
 		},
 		"grow": 112,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -8419,6 +9499,11 @@
 			"crit": 5
 		},
 		"grow": 114,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -8458,6 +9543,11 @@
 			"crit": 5
 		},
 		"grow": 112,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -8497,6 +9587,11 @@
 			"crit": 40
 		},
 		"grow": 122,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -8535,6 +9630,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 6,
@@ -8572,6 +9672,11 @@
 			"crit": 5
 		},
 		"grow": 115,
+        "canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -8613,6 +9718,11 @@
 			"bullet": 4
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 7,
@@ -8652,6 +9762,11 @@
 			"crit": 40
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -8690,6 +9805,11 @@
 			"crit": 40
 		},
 		"grow": 128,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -8728,6 +9848,11 @@
 			"crit": 20
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -8767,6 +9892,11 @@
 			"crit": 20
 		},
 		"grow": 132,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 6,
@@ -8806,6 +9936,11 @@
 			"crit": 5
 		},
 		"grow": 122,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 6,
@@ -8845,6 +9980,11 @@
 			"crit": 40
 		},
 		"grow": 128,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -8883,6 +10023,11 @@
 			"crit": 20
 		},
 		"grow": 128,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -8922,6 +10067,11 @@
 			"crit": 20
 		},
 		"grow": 100,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -8962,6 +10112,11 @@
 			"bullet": 10
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 1,
@@ -9001,6 +10156,11 @@
 			"crit": 20
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -9040,6 +10200,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -9081,6 +10246,11 @@
 			"bullet": 5
 		},
 		"grow": 95,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -9120,6 +10290,11 @@
 			"crit": 20
 		},
 		"grow": 104,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -9159,6 +10334,11 @@
 			"crit": 40
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -9197,6 +10377,11 @@
 			"crit": 40
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -9234,6 +10419,11 @@
 			"crit": 20
 		},
 		"grow": 104,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -9273,6 +10463,11 @@
 			"crit": 20
 		},
 		"grow": 122,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -9314,6 +10509,11 @@
 			"bullet": 5
 		},
 		"grow": 90,
+		"canequip": {
+			"1": [9, 11],
+			"2": [7],
+			"3": [1, 2, 3, 4]
+		},
 		"effect": {
 			"effectType": "mg",
 			"effectCenter": 8,
@@ -9353,6 +10553,11 @@
 			"crit": 20
 		},
 		"grow": 140,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -9392,6 +10597,11 @@
 			"crit": 20
 		},
 		"grow": 140,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -9427,6 +10637,11 @@
 			"crit": 20
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [4, 13, 16],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -9468,6 +10683,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -9509,6 +10729,11 @@
 			"crit": 20
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [4, 13],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -9550,6 +10775,11 @@
 			"crit": 40
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -9590,6 +10820,11 @@
 			"crit": 40
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -9630,6 +10865,11 @@
 			"crit": 40
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 13, 16],
+			"3": [9, 15]
+		},
 		"effect": {
 			"effectType": "hg",
 			"effectCenter": 5,
@@ -9670,6 +10910,11 @@
 			"crit": 20
 		},
 		"grow": 115,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13],
+			"2": [8],
+			"3": [9, 10, 12]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -9711,6 +10956,11 @@
 			"crit": 30
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13, 16],
+			"2": [1, 2, 3, 4, 13, 16],
+			"3": [8]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -9752,6 +11002,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13, 16],
+			"2": [1, 2, 3, 4, 13, 16],
+			"3": [8]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -9793,6 +11048,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [1, 2, 3, 4, 13, 16],
+			"2": [8],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "smg",
 			"effectCenter": 5,
@@ -9835,6 +11095,11 @@
 			"bullet": 8
 		},
 		"grow": 125,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 2,
@@ -9877,6 +11142,11 @@
 			"bullet": 8
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [5],
+			"2": [1, 2, 3, 16],
+			"3": [9, 14]
+		},
 		"effect": {
 			"effectType": "sg",
 			"effectCenter": 3,
@@ -9918,6 +11188,11 @@
 			"crit": 20
 		},
 		"grow": 120,
+		"canequip": {
+			"1": [4, 13, 16],
+			"2": [6],
+			"3": [9, 10]
+		},
 		"effect": {
 			"effectType": "all",
 			"effectCenter": 5,
@@ -9958,6 +11233,11 @@
 			"crit": 5
 		},
 		"grow": 130,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -9999,6 +11279,11 @@
 			"crit": 5
 		},
 		"grow": 105,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -10039,6 +11324,11 @@
 			"crit": 5
 		},
 		"grow": 110,
+		"canequip": {
+			"1": [9, 10],
+			"2": [6],
+			"3": [1, 2, 3, 4, 13, 16]
+		},
 		"effect": {
 			"effectType": "ar",
 			"effectCenter": 5,
@@ -10060,5 +11350,4 @@
 			"intercd": "",
 			"code": "ShortCircuit"
 		}
-	}
-]
+	}]
