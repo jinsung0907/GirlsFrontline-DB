@@ -106,6 +106,8 @@ function getDollNameLang($doll, $lang) {
 		return isset($doll->jpName)?$doll->jpName:$doll->name;
 	else if($lang == 'en') 
 		return isset($doll->enName)?$doll->enName:$doll->name;
+	else if($lang == 'zh') 
+		return isset($doll->cnName)?$doll->cnName:$doll->name;
 	else
 		return isset($doll->krName)?$doll->krName:$doll->name;
 }
@@ -114,6 +116,8 @@ function getEquipNameLang($equip, $lang) {
 		return isset($equip->jpName)?$equip->jpName:$equip->name;
 	else if($lang == 'en') 
 		return isset($equip->enName)?$equip->enName:$equip->name;
+	else if($lang == 'zh') 
+		return isset($equip->cnName)?$equip->cnName:$equip->name;
 	else
 		return isset($equip->krName)?$equip->krName:$equip->name;
 }
@@ -123,6 +127,8 @@ function getFairyNameLang($fairy, $lang) {
 		return isset($fairy->jpName)?$fairy->jpName:$fairy->name;
 	else if($lang == 'en') 
 		return isset($fairy->enName)?$fairy->enName:$fairy->name;
+	else if($lang == 'zh') 
+		return isset($fairy->cnName)?$fairy->cnName:$fairy->name;
 	else
 		return isset($fairy->krName)?$fairy->krName:$fairy->name;
 }
@@ -134,6 +140,8 @@ function getDollName($doll) {
 		return isset($doll->jpName) && $doll->jpName != ""?$doll->jpName:$doll->name;
 	else if($lang == 'en') 
 		return isset($doll->enName) && $doll->enName != ""?$doll->enName:$doll->name;
+	else if($lang == 'zh') 
+		return isset($doll->cnName) && $doll->cnName != ""?$doll->cnName:$doll->name;
 	else
 		return isset($doll->krName) && $doll->krName != ""?$doll->krName:$doll->name;
 }
@@ -145,6 +153,8 @@ function getEquipName($equip) {
 		return isset($equip->jpName)?$equip->jpName:$equip->name;
 	else if($lang == 'en') 
 		return isset($equip->enName)?$equip->enName:$equip->name;
+	else if($lang == 'zh') 
+		return isset($equip->cnName)?$equip->cnName:$equip->name;
 	else
 		return isset($equip->krName)?$equip->krName:$equip->name;
 }
@@ -156,6 +166,8 @@ function getFairyName($fairy) {
 		return isset($fairy->jpName)?$fairy->jpName:$fairy->name;
 	else if($lang == 'en') 
 		return isset($fairy->enName)?$fairy->enName:$fairy->name;
+	else if($lang == 'zh') 
+		return isset($fairy->cnName)?$fairy->cnName:$fairy->name;
 	else
 		return isset($fairy->krName)?$fairy->krName:$fairy->name;
 }
