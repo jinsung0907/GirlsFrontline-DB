@@ -16,7 +16,7 @@
 		$dolls = getJson('doll');
 		foreach($dolls as $doll) {
 			if($doll->id == $div[0]) {
-				$title = getDollName($doll) . " ". L::story_dollmemory;
+				$title = getDollName($doll) . " ". L::story_dollmemory . " - MOD" . $div[1];
 			}
 		}
 		$file = json_decode(file_get_contents("story_json/{$langdir}memoir/".$div[0]."_".$div[1].".txt"));
