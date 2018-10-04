@@ -1,604 +1,604 @@
-mission-10000001,준비운동
+mission-10000001,热身运动
 mission-20000001,
-mission-10000002,흑색정보
+mission-10000002,黑色情报
 mission-20000002,
-mission-10000003,거점수호
+mission-10000003,守护据点
 mission-20000003,
-mission-10000004,마지막 도전
+mission-10000004,最终挑战
 mission-20000004,
-mission-10000005,연습훈련
+mission-10000005,演习训练
 mission-20000005,
-mission-10000006,부상자 이송
+mission-10000006,转移伤患
 mission-20000006,
-mission-10000007,이변 조사
+mission-10000007,调查异常
 mission-20000007,
-mission-10000008,실종자
+mission-10000008,失踪人口
 mission-20000008,
-mission-10000009,구조신호
+mission-10000009,救援信号
 mission-20000009,
-mission-10000010,제초작전
+mission-10000010,除草行动
 mission-20000010,
-mission-10000011,역량평가 Ⅰ
+mission-10000011,进阶训练Ⅰ
 mission-20000011,
-mission-10000012,역량평가 Ⅱ
+mission-10000012,进阶训练Ⅱ
 mission-20000012,
-mission-10000013,역량평가 Ⅲ
+mission-10000013,进阶训练Ⅲ
 mission-20000013,
-mission-10000014,역량평가 Ⅳ
+mission-10000014,进阶训练Ⅳ
 mission-20000014,
-mission-10000015,추적일지
+mission-10000015,追踪日志
 mission-20000015,
-mission-10000016,긴급지원
+mission-10000016,紧急支援
 mission-20000016,
-mission-10000017,정황조사
+mission-10000017,调查敌情
 mission-20000017,
-mission-10000018,데이터 수집
+mission-10000018,采集数据
 mission-20000018,
-mission-10000019,추가의뢰
+mission-10000019,额外委托
 mission-20000019,
-mission-10000020,작전종료
+mission-10000020,终止作战
 mission-20000020,
-mission-10000021,샘플수집 Ⅰ
+mission-10000021,战地样本Ⅰ
 mission-20000021,
-mission-10000022,샘플수집 Ⅱ
+mission-10000022,战地样本Ⅱ
 mission-20000022,
-mission-10000023,샘플수집 Ⅲ
+mission-10000023,战地样本Ⅲ
 mission-20000023,
-mission-10000024,샘플수집 Ⅳ
+mission-10000024,战地样本Ⅳ
 mission-20000024,
-mission-10000025,입구개통
+mission-10000025,打通入口
 mission-20000025,
-mission-10000026,정보탈취
+mission-10000026,截获情报
 mission-20000026,
-mission-10000027,비밀지원
+mission-10000027,秘密支援
 mission-20000027,
-mission-10000028,방어작전
+mission-10000028,防御作战
 mission-20000028,
-mission-10000029,빠른역습
+mission-10000029,快速反击
 mission-20000029,
-mission-10000030,사냥금지
+mission-10000030,禁止狩猎
 mission-20000030,
-mission-10000031,데이터 회수 Ⅰ
+mission-10000031,回收数据Ⅰ
 mission-20000031,
-mission-10000032,데이터 회수 Ⅱ
+mission-10000032,回收数据Ⅱ
 mission-20000032,
-mission-10000033,데이터 회수 Ⅲ
+mission-10000033,回收数据Ⅲ
 mission-20000033,
-mission-10000034,데이터 회수 Ⅳ
+mission-10000034,回收数据Ⅳ
 mission-20000034,
-mission-10000035,보조용병
+mission-10000035,协助佣兵
 mission-20000035,
-mission-10000036,증원차단
+mission-10000036,切断增援
 mission-20000036,
-mission-10000037,전선돌파
+mission-10000037,突破阵线
 mission-20000037,
-mission-10000038,동료수색
+mission-10000038,搜索同伴
 mission-20000038,
-mission-10000039,좌표측정
+mission-10000039,定位坐标
 mission-20000039,
-mission-10000040,교란수습
+mission-10000040,平息干扰
 mission-20000040,
-mission-10000041,기억회상 Ⅰ
+mission-10000041,记忆回溯Ⅰ
 mission-20000041,
-mission-10000042,기억회상 Ⅱ
+mission-10000042,记忆回溯Ⅱ
 mission-20000042,
-mission-10000043,기억회상 Ⅲ
+mission-10000043,记忆回溯Ⅲ
 mission-20000043,
-mission-10000044,기억회상 Ⅳ
+mission-10000044,记忆回溯Ⅳ
 mission-20000044,
-mission-10000045,훈련참가
+mission-10000045,参加演习
 mission-20000045,
-mission-10000046,기습저지
+mission-10000046,抵挡突袭
 mission-20000046,
-mission-10000047,반격개시
+mission-10000047,反戈一击
 mission-20000047,
-mission-10000048,퇴로확보
+mission-10000048,保证撤离
 mission-20000048,
-mission-10000049,내부현상
+mission-10000049,内部现象
 mission-20000049,
-mission-10000050,추격밀령
+mission-10000050,追击密令
 mission-20000050,
-mission-10000051,퍼즐풀이 Ⅰ
+mission-10000051,谜题破解Ⅰ
 mission-20000051,
-mission-10000052,퍼즐풀이 Ⅱ
+mission-10000052,谜题破解Ⅱ
 mission-20000052,
-mission-10000053,퍼즐풀이 Ⅲ
+mission-10000053,谜题破解Ⅲ
 mission-20000053,
-mission-10000054,퍼즐풀이 Ⅳ
+mission-10000054,谜题破解Ⅳ
 mission-20000054,
-mission-10000055,네게브 소대
+mission-10000055,内格夫小队
 mission-20000055,
-mission-10000056,이중 구조작전
+mission-10000056,双重救援
 mission-20000056,
-mission-10000057,재회
+mission-10000057,重逢
 mission-20000057,
-mission-10000058,감금인
+mission-10000058,监禁者
 mission-20000058,
-mission-10000059,의지
+mission-10000059,意志
 mission-20000059,
-mission-10000060,뒤늦은 이별
+mission-10000060,迟来的告别
 mission-20000060,
-mission-10000061,마지막 소원 Ⅰ
+mission-10000061,最后愿望Ⅰ
 mission-20000061,
-mission-10000062,마지막 소원 Ⅱ
+mission-10000062,最后愿望Ⅱ
 mission-20000062,
-mission-10000063,마지막 소원 Ⅲ
+mission-10000063,最后愿望Ⅲ
 mission-20000063,
-mission-10000064,마지막 소원 Ⅳ
+mission-10000064,最后愿望Ⅳ
 mission-20000064,
-mission-10000065,새로운 일
+mission-10000065,新工作
 mission-20000065,
-mission-10001101,경험특훈 Ⅰ
+mission-10001101,经验特训Ⅰ
 mission-20001101,
-mission-10001102,경험특훈 Ⅱ
+mission-10001102,经验特训Ⅱ
 mission-20001102,
-mission-10001103,경험특훈 Ⅲ
+mission-10001103,经验特训Ⅲ
 mission-20001103,
-mission-10001201,강화연습 Ⅰ
+mission-10001201,强化练习Ⅰ
 mission-20001201,
-mission-10001202,강화연습 Ⅱ
+mission-10001202,强化练习Ⅱ
 mission-20001202,
-mission-10001203,강화연습 Ⅲ
+mission-10001203,强化练习Ⅲ
 mission-20001203,
-mission-10001301,자료추출 Ⅰ
+mission-10001301,资料采样Ⅰ
 mission-20001301,
-mission-10001302,자료추출 Ⅱ
+mission-10001302,资料采样Ⅱ
 mission-20001302,
-mission-10001303,자료추출 Ⅲ
+mission-10001303,资料采样Ⅲ
 mission-20001303,
-mission-10001501,마인드회랑Ⅰ
+mission-10001501,云图回廊Ⅰ
 mission-20001501,
-mission-10001502,마인드회랑Ⅱ
+mission-10001502,云图回廊Ⅱ
 mission-20001502,
-mission-10001503,마인드회랑Ⅲ
+mission-10001503,云图回廊Ⅲ
 mission-20001503,
-mission-10010001,7단계 퍼즐
+mission-10010001,七阶谜题
 mission-20010001,
-mission-10010002,모서리 처리
+mission-10010002,角先破解
 mission-20010002,
-mission-10010003,층계교체
+mission-10010003,层先调换
 mission-20010003,
-mission-10010004,차면붕괴
+mission-10010004,次面崩溃
 mission-20010004,
-mission-10010005,재앙의 울버린 Ⅰ
+mission-10010005,狼獾成灾Ⅰ
 mission-20010005,
-mission-10010006,재앙의 울버린 Ⅱ
+mission-10010006,狼獾成灾Ⅱ
 mission-20010006,
-mission-10010007,재앙의 울버린 Ⅲ
+mission-10010007,狼獾成灾Ⅲ
 mission-20010007,
-mission-10010008,재앙의 울버린 Ⅳ
+mission-10010008,狼獾成灾Ⅳ
 mission-20010008,
-mission-10010009,등화관제 Ⅰ
+mission-10010009,灯火管制Ⅰ
 mission-20010009,
-mission-10010010,등화관제 Ⅱ
+mission-10010010,灯火管制Ⅱ
 mission-20010010,
-mission-10010011,등화관제 Ⅲ
+mission-10010011,灯火管制Ⅲ
 mission-20010011,
-mission-10010012,등화관제 Ⅳ
+mission-10010012,灯火管制Ⅳ
 mission-20010012,
-mission-10010013,귀환작전 Ⅰ
+mission-10010013,归乡行动Ⅰ
 mission-20010013,
-mission-10010014,귀환작전 Ⅱ
+mission-10010014,归乡行动Ⅱ
 mission-20010014,
-mission-10010015,귀환작전 Ⅲ
+mission-10010015,归乡行动Ⅲ
 mission-20010015,
-mission-10010016,귀환작전 Ⅳ
+mission-10010016,归乡行动Ⅳ
 mission-20010016,
-mission-10010017,이상한 나라로
+mission-10010017,坠入兔洞
 mission-20010017,
-mission-10090001,꼬마 집배원 Ⅰ
+mission-10090001,小小邮差Ⅰ
 mission-20090001,
-mission-10090002,꼬마 집배원 Ⅱ
+mission-10090002,小小邮差Ⅱ
 mission-20090002,
-mission-10090003,꼬마 집배원 Ⅲ
+mission-10090003,小小邮差Ⅲ
 mission-20090003,
-mission-10090004,꼬마 집배원 Ⅳ
+mission-10090004,小小邮差Ⅳ
 mission-20090004,
-mission-10090005,전문 서포터 Ⅰ
+mission-10090005,专业帮手Ⅰ
 mission-20090005,
-mission-10090006,전문 서포터 Ⅱ
+mission-10090006,专业帮手Ⅱ
 mission-20090006,
-mission-10090007,전문 서포터 Ⅲ
+mission-10090007,专业帮手Ⅲ
 mission-20090007,
-mission-10090008,전문 서포터 Ⅳ
+mission-10090008,专业帮手Ⅳ
 mission-20090008,
-mission-10090009,익명구조 Ⅰ
+mission-10090009,匿名营救Ⅰ
 mission-20090009,
-mission-10090010,익명구조 Ⅱ
+mission-10090010,匿名营救Ⅱ
 mission-20090010,
-mission-10090011,익명구조 Ⅲ
+mission-10090011,匿名营救Ⅲ
 mission-20090011,
-mission-10090012,익명구조 Ⅳ
+mission-10090012,匿名营救Ⅳ
 mission-20090012,
-mission-10090013,7일간 동료 Ⅰ
+mission-10090013,一周的队友Ⅰ
 mission-20090013,
-mission-10090014,7일간 동료 Ⅱ
+mission-10090014,一周的队友Ⅱ
 mission-20090014,
-mission-10090015,7일간 동료 Ⅲ
+mission-10090015,一周的队友Ⅲ
 mission-20090015,
-mission-10090016,7일간 동료 Ⅳ
+mission-10090016,一周的队友Ⅳ
 mission-20090016,
-mission-10000066,파괴활동
+mission-10000066,破坏活动
 mission-20000066,
-mission-10000067,일과순찰
+mission-10000067,日常巡逻
 mission-20000067,
-mission-10000068,급습
+mission-10000068,突袭
 mission-20000068,
-mission-10000069,술래잡기
+mission-10000069,猫鼠游戏
 mission-20000069,
-mission-10000070,재회
+mission-10000070,重逢
 mission-20000070,
-mission-10000071,회수작전Ⅰ
+mission-10000071,回收行动Ⅰ
 mission-20000071,
-mission-10000072,회수작전Ⅱ
+mission-10000072,回收行动Ⅱ
 mission-20000072,
-mission-10000073,회수작전Ⅲ
+mission-10000073,回收行动Ⅲ
 mission-20000073,
-mission-10000074,회수작전Ⅳ
+mission-10000074,回收行动Ⅳ
 mission-20000074,
-mission-10090017,비상배식Ⅰ
+mission-10090017,非常菜贩Ⅰ
 mission-20090017,
-mission-10090018,비상배식Ⅱ
+mission-10090018,非常菜贩Ⅱ
 mission-20090018,
-mission-10090019,비상배식Ⅲ
+mission-10090019,非常菜贩Ⅲ
 mission-20090019,
-mission-10090020,비상배식Ⅳ
+mission-10090020,非常菜贩Ⅳ
 mission-20090020,
-mission-10010018,7단계 퍼즐
+mission-10010018,七阶谜题
 mission-20010018,
-mission-10010019,모서리 처리
+mission-10010019,角先破解
 mission-20010019,
-mission-10010020,층계교체
+mission-10010020,层先调换
 mission-20010020,
-mission-10010021,차면붕괴
+mission-10010021,次面崩溃
 mission-20010021,
-mission-10010022,십자배치
+mission-10010022,十字基底
 mission-20010022,
-mission-10010023,빗나간 예측
+mission-10010023,错位预判
 mission-20010023,
-mission-10010024,정해진 공식
+mission-10010024,定向算法
 mission-20010024,
-mission-10010025,행렬반전
+mission-10010025,逆转序列
 mission-20010025,
-mission-10000075,발표회
+mission-10000075,报告会
 mission-20000075,
-mission-10000076,최후의만찬
+mission-10000076,最后的晚餐
 mission-20000076,
-mission-10000077,가속
+mission-10000077,加速
 mission-20000077,
-mission-10000078,불청객
+mission-10000078,不速之客
 mission-20000078,
-mission-10000079,하늘에 그림자
+mission-10000079,空中阴影
 mission-20000079,
-mission-10000080,사명
+mission-10000080,使命
 mission-20000080,
-mission-10000081,순례자Ⅰ
+mission-10000081,巡礼者Ⅰ
 mission-20000081,
-mission-10000082,순례자Ⅱ
+mission-10000082,巡礼者Ⅱ
 mission-20000082,
-mission-10000083,순례자Ⅲ
+mission-10000083,巡礼者Ⅲ
 mission-20000083,
-mission-10000084,순례자Ⅳ
+mission-10000084,巡礼者Ⅳ
 mission-20000084,
-mission-10010026,인형섬멸
+mission-10010026,人偶歼灭
 mission-20010026,
-mission-10010027,세인트 엘모
+mission-10010027,圣艾尔蒙
 mission-20010027,
-mission-10010028,사냥 게임
+mission-10010028,狩猎游戏
 mission-20010028,
-mission-10010029,헌팅 래빗 작전
+mission-10010029,猎兔行动
 mission-20010029,
-mission-10090021,호문쿨루스Ⅰ
+mission-10090021,瓶中人Ⅰ
 mission-20090021,
-mission-10090022,호문쿨루스Ⅱ
+mission-10090022,瓶中人Ⅱ
 mission-20090022,
-mission-10090023,호문쿨루스Ⅲ
+mission-10090023,瓶中人Ⅲ
 mission-20090023,
-mission-10090024,호문쿨루스Ⅳ
+mission-10090024,瓶中人Ⅳ
 mission-20090024,
-mission-10010030,심지혼선Ⅰ
+mission-10010030,认知迷云Ⅰ
 mission-20010030,
-mission-10010031,심지혼선Ⅱ
+mission-10010031,认知迷云Ⅱ
 mission-20010031,
-mission-10010032,심지혼선Ⅲ
+mission-10010032,认知迷云Ⅲ
 mission-20010032,
-mission-10010033,심지혼선Ⅳ
+mission-10010033,认知迷云Ⅳ
 mission-20010033,
-mission-10010034,쌍곡함수Ⅰ
+mission-10010034,双曲函数Ⅰ
 mission-20010034,
-mission-10010035,쌍곡함수Ⅱ
+mission-10010035,双曲函数Ⅱ
 mission-20010035,
-mission-10010036,허수미궁
+mission-10010036,虚数迷宫
 mission-20010036,
-mission-10010037,쌍곡함수Ⅲ
+mission-10010037,双曲函数Ⅲ
 mission-20010037,
-mission-10010038,쌍곡함수Ⅳ
+mission-10010038,双曲函数Ⅳ
 mission-20010038,
-mission-10010039,대립행동Ⅰ
+mission-10010039,相对行为Ⅰ
 mission-20010039,
-mission-10010040,대립행동Ⅱ
+mission-10010040,相对行为Ⅱ
 mission-20010040,
-mission-10010041,대립행동Ⅲ
+mission-10010041,相对行为Ⅲ
 mission-20010041,
-mission-10010042,대립행동Ⅳ
+mission-10010042,相对行为Ⅳ
 mission-20010042,
-mission-10000085,야간연회
+mission-10000085,夜间宴会
 mission-20000085,
-mission-10000086,탐색
+mission-10000086,试探
 mission-20000086,
-mission-10000087,토론회
+mission-10000087,讨论会
 mission-20000087,
-mission-10000088,2차 탐색
+mission-10000088,二次检索
 mission-20000088,
-mission-10000089,전주곡
+mission-10000089,前奏曲
 mission-20000089,
-mission-10000090,포위돌파
+mission-10000090,突围
 mission-20000090,
-mission-10000091,매와 개Ⅰ
+mission-10000091,鹰与犬Ⅰ
 mission-20000091,
-mission-10000092,매와 개Ⅱ
+mission-10000092,鹰与犬Ⅱ
 mission-20000092,
-mission-10000093,매와 개Ⅲ
+mission-10000093,鹰与犬Ⅲ
 mission-20000093,
-mission-10000094,매와 개Ⅳ
+mission-10000094,鹰与犬Ⅳ
 mission-20000094,
-mission-10010043,붕괴강림
+mission-10010043,崩坏降临
 mission-20010043,
-mission-10010044,호기해사묘
+mission-10010044,好奇心害死猫
 mission-20010044,
-mission-10010045,키아나 출격
+mission-10010045,琪亚娜出击
 mission-20010045,
-mission-10010046,입장불가
+mission-10010046,禁止入内
 mission-20010046,
-mission-10010047,불길한 징조
+mission-10010047,不祥的雷电
 mission-20010047,
-mission-10010048,커지는 욕망
+mission-10010048,膨胀的欲望
 mission-20010048,
-mission-10010049,원념
+mission-10010049,怨念
 mission-20010049,
-mission-10010050,그 날을 소망하며...
+mission-10010050,只希望有一天…
 mission-20010050,
-mission-10000095,출발일
+mission-10000095,启程日
 mission-20000095,
-mission-10000096,전선으로 가다
+mission-10000096,开往前线
 mission-20000096,
-mission-10000097,중심 지역 도착
+mission-10000097,踏入腹地
 mission-20000097,
-mission-10000098,대토벌
+mission-10000098,大扫荡
 mission-20000098,
-mission-10000099,고군분투
+mission-10000099,疲于奔命
 mission-20000099,
-mission-10000100,목숨을 건 돌파
+mission-10000100,殊死突围
 mission-20000100,
-mission-10000101,배신Ⅰ
+mission-10000101,背叛Ⅰ
 mission-20000101,
-mission-10000102,배신Ⅱ
+mission-10000102,背叛Ⅱ
 mission-20000102,
-mission-10000103,배신Ⅲ
+mission-10000103,背叛Ⅲ
 mission-20000103,
-mission-10000104,배신Ⅳ
+mission-10000104,背叛Ⅳ
 mission-20000104,
-mission-10010051,시작점
-mission-20010051,리벨리온 16:00
-mission-10010052,분기점
-mission-20010052,리벨리온 16:40
-mission-10010053,행정사점 Ⅰ
-mission-20010053,안젤리아 16:55
-mission-10010054,행정사점 Ⅱ
-mission-20010054,안젤리아 17:42
-mission-10010055,행정사점 Ⅲ
-mission-20010055,안젤리아 18:20
-mission-10010056,행정사점 Ⅳ
-mission-20010056,안젤리아 19:30
-mission-10010057,압축시동 Ⅰ
-mission-20010057,리벨리온 16:46
-mission-10010058,압축시동 Ⅱ
-mission-20010058,리벨리온 17:50
-mission-10010059,압축시동 Ⅲ
-mission-20010059,리벨리온 18:20
-mission-10010060,압축시동 Ⅳ
-mission-20010060,리벨리온 19:30
-mission-10010061,재점화 Ⅰ
-mission-20010061,그리폰 18:30
-mission-10010062,재점화 Ⅱ
-mission-20010062,그리폰 19:00
-mission-10010063,재점화 Ⅲ
-mission-20010063,그리폰 19:10
-mission-10010064,재점화 Ⅳ
-mission-20010064,그리폰 19:30
-mission-10010065,분기점
-mission-20010065,안젤리아&리벨리온 20:00
-mission-10010066,퀸즈 갬빗 Ⅰ
-mission-20010066,안젤리아&페르시카 21:20
-mission-10010067,퀸즈 갬빗 Ⅱ
-mission-20010067,안젤리아&페르시카 22:50
-mission-10010068,퀸즈 갬빗 Ⅲ
-mission-20010068,안젤리아&페르시카 00:25
-mission-10010069,퀸즈 갬빗 Ⅳ
-mission-20010069,안젤리아&페르시카 00:30
-mission-10010070,캐슬링 Ⅰ
-mission-20010070,리벨리온 22:30
-mission-10010071,캐슬링 Ⅱ
-mission-20010071,리벨리온 00:05
-mission-10010072,캐슬링 Ⅲ
-mission-20010072,리벨리온 02:14
-mission-10010073,캐슬링 Ⅳ
-mission-20010073,리벨리온 03:15
-mission-10010074,프로모션 Ⅰ
-mission-20010074,404소대 20:10
-mission-10010075,프로모션 Ⅱ
-mission-20010075,404소대 21:50
-mission-10010076,프로모션 Ⅲ
-mission-20010076,404소대 00:30
-mission-10010077,프로모션 Ⅳ
-mission-20010077,404소대 03:15
-mission-10010078,노 메이트 Ⅰ
-mission-20010078,그리폰 22:10
-mission-10010079,노 메이트 Ⅱ
-mission-20010079,그리폰 00:00
-mission-10010080,노 메이트 Ⅲ
-mission-20010080,그리폰 00:30
-mission-10010081,노 메이트 Ⅳ
-mission-20010081,그리폰 01:50
-mission-10010082,최종수단 Ⅰ
+mission-10010051,起点
+mission-20010051,忤逆小队 16:00
+mission-10010052,分歧点
+mission-20010052,忤逆小队 16:40
+mission-10010053,冲程止点 Ⅰ
+mission-20010053,安洁 16:55
+mission-10010054,冲程止点 Ⅱ
+mission-20010054,安洁 17:42
+mission-10010055,冲程止点 Ⅲ
+mission-20010055,安洁 18:20
+mission-10010056,冲程止点 Ⅳ
+mission-20010056,安洁 19:30
+mission-10010057,压缩启动 Ⅰ
+mission-20010057,忤逆小队 16:46
+mission-10010058,压缩启动 Ⅱ
+mission-20010058,忤逆小队 17:50
+mission-10010059,压缩启动 Ⅲ
+mission-20010059,忤逆小队 18:20
+mission-10010060,压缩启动 Ⅳ
+mission-20010060,忤逆小队 19:30
+mission-10010061,再点火 Ⅰ
+mission-20010061,格里芬 18:30
+mission-10010062,再点火 Ⅱ
+mission-20010062,格里芬 19:00
+mission-10010063,再点火 Ⅲ
+mission-20010063,格里芬 19:10
+mission-10010064,再点火 Ⅳ
+mission-20010064,格里芬 19:30
+mission-10010065,分歧点
+mission-20010065,安洁&忤逆小队 20:00
+mission-10010066,后翼弃卒 Ⅰ
+mission-20010066,安洁&帕斯卡 21:20
+mission-10010067,后翼弃卒 Ⅱ
+mission-20010067,安洁&帕斯卡 22:50
+mission-10010068,后翼弃卒 Ⅲ
+mission-20010068,安洁&帕斯卡 00:25
+mission-10010069,后翼弃卒 Ⅳ
+mission-20010069,安洁&帕斯卡 00:30
+mission-10010070,王车易位 Ⅰ
+mission-20010070,忤逆小队 22:30
+mission-10010071,王车易位 Ⅱ
+mission-20010071,忤逆小队 00:05
+mission-10010072,王车易位 Ⅲ
+mission-20010072,忤逆小队 02:14
+mission-10010073,王车易位 Ⅳ
+mission-20010073,忤逆小队 03:15
+mission-10010074,底线升变 Ⅰ
+mission-20010074,404小队 20:10
+mission-10010075,底线升变 Ⅱ
+mission-20010075,404小队 21:50
+mission-10010076,底线升变 Ⅲ
+mission-20010076,404小队 00:30
+mission-10010077,底线升变 Ⅳ
+mission-20010077,404小队 03:15
+mission-10010078,弱子死局 Ⅰ
+mission-20010078,格里芬 22:10
+mission-10010079,弱子死局 Ⅱ
+mission-20010079,格里芬 00:00
+mission-10010080,弱子死局 Ⅲ
+mission-20010080,格里芬 00:30
+mission-10010081,弱子死局 Ⅳ
+mission-20010081,格里芬 01:50
+mission-10010082,最终手段 Ⅰ
 mission-20010082,06:00
-mission-10010083,최종수단 Ⅱ
+mission-10010083,最终手段 Ⅱ
 mission-20010083,08:00
-mission-10010084,최종수단 Ⅲ
+mission-10010084,最终手段 Ⅲ
 mission-20010084,09:00
-mission-10010085,최종수단 Ⅳ
+mission-10010085,最终手段 Ⅳ
 mission-20010085,12:30
-mission-10010086,최종수단 Ⅴ
+mission-10010086,最终手段 Ⅴ
 mission-20010086,13:00
-mission-10010087,엔드 게임
+mission-10010087,终局
 mission-20010087,13:20
-mission-10010088,메신저
+mission-10010088,信使
 mission-20010088,
-mission-10010089,생존자
+mission-10010089,幸存者
 mission-20010089,
-mission-10010090,굿바이 용궁
+mission-10010090,再见了龙宫
 mission-20010090,
-mission-10010091,말벌집
+mission-10010091,马蜂窝
 mission-20010091,
-mission-10010092,엔드 게임
+mission-10010092,终局
 mission-20010092,13:20
-mission-10090025,일방적인 회상 Ⅰ
+mission-10090025,片面回忆Ⅰ
 mission-20090025,
-mission-10090026,일방적인 회상 Ⅱ
+mission-10090026,片面回忆Ⅱ
 mission-20090026,
-mission-10090027,일방적인 회상 Ⅲ
+mission-10090027,片面回忆Ⅲ
 mission-20090027,
-mission-10090028,일방적인 회상 Ⅳ
+mission-10090028,片面回忆Ⅳ
 mission-20090028,
-mission-10010093,Stalker
+mission-10010093,跟踪狂
 mission-20010093,
-mission-10010094,HeartBeat
+mission-10010094,心跳
 mission-20010094,
-mission-10010095,Waiting for you
+mission-10010095,等着你！
 mission-20010095,
-mission-10010096,Sunset Rider
+mission-10010096,薄暮骑士
 mission-20010096,
-mission-10010097,Fate
+mission-10010097,命运
 mission-20010097,
-mission-10010098,End of the Moonlight
+mission-10010098,月光的尽头
 mission-20010098,
-mission-10010099,Stalker EX
+mission-10010099,跟踪狂EX
 mission-20010099,
-mission-10010100,HeartBeat EX
+mission-10010100,心跳EX
 mission-20010100,
-mission-10010101,Waiting for you EX
+mission-10010101,等着你！EX
 mission-20010101,
-mission-10010102,Sunset Rider EX
+mission-10010102,薄暮骑士EX
 mission-20010102,
-mission-10010103,Fate EX
+mission-10010103,命运EX
 mission-20010103,
-mission-10010104,End of the Moonlight EX
+mission-10010104,月光的尽头EX
 mission-20010104,
-mission-10090029,독수리와 갈까마귀Ⅰ
+mission-10090029,巨鹰与寒鸦Ⅰ
 mission-20090029,
-mission-10090030,독수리와 갈까마귀Ⅱ
+mission-10090030,巨鹰与寒鸦Ⅱ
 mission-20090030,
-mission-10090031,독수리와 갈까마귀Ⅲ
+mission-10090031,巨鹰与寒鸦Ⅲ
 mission-20090031,
-mission-10090032,독수리와 갈까마귀Ⅳ
+mission-10090032,巨鹰与寒鸦Ⅳ
 mission-20090032,
-mission-10010105,이상한 나라로+
+mission-10010105,坠入兔洞+
 mission-20010105,
-mission-10010106,폐기물
+mission-10010106,废弃物
 mission-20010106,
-mission-10010107,어두운 밤
+mission-10010107,夜幕
 mission-20010107,
-mission-10010108,세이프 하우스
+mission-10010108,安全屋
 mission-20010108,
-mission-10010109,예비전원
+mission-10010109,备用电源
 mission-20010109,
-mission-10010110,비축거점
+mission-10010110,储备据点
 mission-20010110,
-mission-10010111,잘 가라 허수아비
+mission-10010111,别了，稻草人
 mission-20010111,
-mission-10010113,마지막 날
+mission-10010113,最后一天
 mission-20010113,
-mission-10010112,피 없는 전장
+mission-10010112,没有血的战场
 mission-20010112,
-mission-10010114,평화협상
+mission-10010114,和平谈判
 mission-20010114,
-mission-10010115,행운?
+mission-10010115,幸运？
 mission-20010115,
-mission-10010116,철혈고위거점
+mission-10010116,铁血精英据点
 mission-20010116,
-mission-10010117,마인드 파편
+mission-10010117,心智碎片
 mission-20010117,
-mission-10010118,가장 비겁한 소원
+mission-10010118,最卑鄙的愿望
 mission-20010118,
-mission-10010120,의문의 적
+mission-10010120,未知敌人
 mission-20010120,
-mission-10010121,"지원군"
+mission-10010121,“支援”
 mission-20010121,
-mission-10010122,그리폰 결사대
+mission-10010122,格里芬敢死队
 mission-20010122,
-mission-10010123,2번 수비거점
+mission-10010123,2号防御据点
 mission-20010123,
-mission-10010124,3번 수비거점
+mission-10010124,3号防御据点
 mission-20010124,
-mission-10010125,거친 장난
+mission-10010125,玩笑而已
 mission-20010125,
-mission-10010126,4번 수비거점
+mission-10010126,4号防御据点
 mission-20010126,
-mission-10010127,떠보는 공세
+mission-10010127,试探性的攻势
 mission-20010127,
-mission-10010128,총공격
+mission-10010128,总攻击
 mission-20010128,
-mission-10010129,미래를 위해
+mission-10010129,为了未来
 mission-20010129,
-mission-10010130,검은 인형
+mission-10010130,黑色人偶
 mission-20010130,
-mission-10010131,ELID 감염자
+mission-10010131,ELID感染者
 mission-20010131,
-mission-10010132,신호탄
+mission-10010132,信号弹
 mission-20010132,
-mission-10010133,레드존
+mission-10010133,红区
 mission-20010133,
-mission-10010134,옐로우존
+mission-10010134,黄区
 mission-20010134,
-mission-10010135,복수
+mission-10010135,报仇
 mission-20010135,
-mission-10010136,표식
+mission-10010136,记号
 mission-20010136,
-mission-10010137,희망 출현
+mission-10010137,希望出现
 mission-20010137,
-mission-10010142,모든 울분
+mission-10010142,全部的怒火
 mission-20010142,
-mission-10010138,비열한 생쥐들
+mission-10010138,可耻的老鼠
 mission-20010138,
-mission-10010143,운에 맡기다
+mission-10010143,运气
 mission-20010143,
-mission-10010139,나쁜 소식
+mission-10010139,坏消息
 mission-20010139,
 mission-10010140,IED
 mission-20010140,
-mission-10010141,걸림돌
+mission-10010141,绊脚石
 mission-20010141,
-mission-10010144,하얀 인형
+mission-10010144,白色人偶
 mission-20010144,
-mission-10010146,포효하는 태양
+mission-10010146,咆哮的太阳
 mission-20010146,
-mission-10010147,무서운 굉음
+mission-10010147,恐怖的轰鸣
 mission-20010147,
-mission-10010148,작별 인사
+mission-10010148,彼此平安
 mission-20010148,
-mission-10010149,잠깐만인 평화
+mission-10010149,此刻的和平
 mission-20010149,
-mission-10010150,마지막 티켓
+mission-10010150,最终航班
 mission-20010150,
-mission-10010155,돌풍구출
+mission-10010155,飓风营救
 mission-20010155,
-mission-10010145,다음 목적지
+mission-10010145,后目的地
 mission-20010145,
-mission-10010151,유지
+mission-10010151,遗命
 mission-20010151,
-mission-10010154,승리자
+mission-10010154,胜利者
 mission-20010154,
-mission-10010156,폭심지
+mission-10010156,内爆心
 mission-20010156,
-mission-10010157,추방자
+mission-10010157,流放者
 mission-20010157,
