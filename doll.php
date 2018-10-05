@@ -425,7 +425,7 @@ $starttime = microtime(true);
 
 	$header_title = getDollName($doll) . " | " . L::sitetitle_short;
 	$header_desc = L::title_doll_desc($dollname);
-	$header_keyword = "$dollname, $dollname 보이스, $dollname SD, $dollname 스킨, {$doll->name}, 소녀전선 검열, " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
+	$header_keyword = "$dollname, $dollname 소전, $dollname 소녀전선, $dollname 보이스, $dollname SD, $dollname 스킨, {$doll->name}, 소녀전선 검열, " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
 	$header_image = "http://gfl.zzzzz.kr/img/characters/" .$doll->name . "/pic/pic_" . $doll->name . "_n.jpg";
 
 	
