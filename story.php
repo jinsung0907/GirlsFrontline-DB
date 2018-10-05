@@ -136,12 +136,14 @@
 								$strcount .= ' saying';
 							}
 							$imgdir = getcharimgdir($char, $line->character_emotion[$i]);
-							if($imgdir != "") {
+							if($imgdir != "" && $imgdir != "invisible") {
 								echo "<img class=\"storydoll $strnum $strcount\" src='img/$imgdir.png'>";
 							} 
 							else {
 								$imgdir = getcharimgdir_fairy($char, $line->character_emotion[$i]);
-								echo "<img class=\"storyfairy fairy $strnum $strcount\" src='img/$imgdir.png'>";
+                                if($imgdir != "" && $imgdir != "invisible") {
+                                    echo "<img class=\"storyfairy fairy $strnum $strcount\" src='img/$imgdir.png'>";
+                                }
 							}
 							$i++;
 						}
