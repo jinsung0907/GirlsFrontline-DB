@@ -1,0 +1,936 @@
+[{
+	"id": "BGM_Home",
+	"file": "GF_Lobby_New_loop"
+},
+{
+	"id": "BGM_MissionSelection",
+	"file": "BGM_Sneak"
+},
+{
+	"id": "BGM_Win",
+	"file": "bluestar_1_0(win)"
+},
+{
+	"id": "BGM_Lose",
+	"file": "bluestar_2_0(lose)"
+},
+{
+	"id": "BGM_01",
+	"file": "BGM_Frontline"
+},
+{
+	"id": "BGM_02",
+	"file": "BGM_Frontline"
+},
+{
+	"id": "BGM_03",
+	"file": "BGM_Danger"
+},
+{
+	"id": "BGM_04",
+	"file": "BGM_War"
+},
+{
+	"id": "BGM_War",
+	"file": "BGM_War"
+},
+{
+	"id": "BGM_Boss",
+	"file": "BGM_Boss"
+},
+{
+	"id": "BGM_Boss2",
+	"file": "GF_EV4_Boss2"
+},
+{
+	"id": "BGM_Battle",
+	"file": "BGM_Battle"
+},
+{
+	"id": "BGM_EV3_Map2",
+	"file": "GF_EV3_Map2"
+},
+{
+	"id": "BGM_Sad",
+	"file": "BGM_Sad"
+},
+{
+	"id": "BGM_Room",
+	"file": "BGM_Room"
+},
+{
+	"id": "BGM_Pervaded",
+	"file": "GF_EV4_intermission"
+},
+{
+	"id": "BGM_Reverse",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "UI_top",
+	"file": "GF_Title_loop"
+},
+{
+	"id": "GUN_bossbattledemo",
+	"file": "GF_BOSS_Common"
+},
+{
+	"id": "BGM_simulation",
+	"file": "GUN_combat_simulation_loop"
+},
+{
+	"id": "BGM_factory",
+	"file": "GF_Factory_loop"
+},
+{
+	"id": "BGM_mall",
+	"file": "GF_Shop"
+},
+{
+	"id": "BGM_intermission",
+	"file": "GUN_Intermission_loop"
+},
+{
+	"id": "BGM_illustratedBook",
+	"file": "GF_Achieve_loop"
+},
+{
+	"id": "BGM_stage1",
+	"file": "GF_MAP1_BGM"
+},
+{
+	"id": "BGM_stage2",
+	"file": "GF_MAP2_BGM"
+},
+{
+	"id": "BGM_stage3",
+	"file": "GF_MAP3_BGM"
+},
+{
+	"id": "BGM_stage4",
+	"file": "GF_MAP4_BGM"
+},
+{
+	"id": "BGM_stage5",
+	"file": "GF_MAP5_BGM"
+},
+{
+	"id": "BGM_stage6",
+	"file": "GF_MAP6_BGM"
+},
+{
+	"id": "BGM_stage7",
+	"file": "GF_MAP7_BGM"
+},
+{
+	"id": "BGM_stage8",
+	"file": "GF_MAP8_BGM_old"
+},
+{
+	"id": "BGM_stage9",
+	"file": "GF_MAP9_BGM"
+},
+{
+	"id": "BGM_stage10",
+	"file": "GF_MAP10_BGM"
+},
+{
+	"id": "BGM_Empty",
+	"file": "BGM_Empty"
+},
+{
+	"id": "BGM_Victory",
+	"file": "BGM_Victory"
+},
+{
+	"id": "BGM_PAUSE",
+	"file": ""
+},
+{
+	"id": "BGM_UNPAUSE",
+	"file": ""
+},
+{
+	"id": "GUN_bossbattledemo",
+	"file": "GF_BOSS_Common"
+},
+{
+	"id": "10005",
+	"file": "GF_MAP7_BGM"
+},
+{
+	"id": "10006",
+	"file": "GF_MAP7_BGM"
+},
+{
+	"id": "10007",
+	"file": "GF_MAP7_BGM"
+},
+{
+	"id": "10008",
+	"file": "GF_Boss_Map"
+},
+{
+	"id": "10009",
+	"file": "GF_Winter_Night"
+},
+{
+	"id": "10010",
+	"file": "GF_Winter_Night"
+},
+{
+	"id": "10011",
+	"file": "GF_Winter_Night"
+},
+{
+	"id": "10012",
+	"file": "GF_Boss_Map"
+},
+{
+	"id": "10013",
+	"file": "GF_Winter_Hiru"
+},
+{
+	"id": "10014",
+	"file": "GF_Winter_Hiru"
+},
+{
+	"id": "10015",
+	"file": "GF_Winter_Hiru"
+},
+{
+	"id": "10016",
+	"file": "GF_Boss_Map"
+},
+{
+	"id": "10017",
+	"file": "GF_MAP6_BGM"
+},
+{
+	"id": "10018",
+	"file": "GF_EV1Stage_LoopV2"
+},
+{
+	"id": "10019",
+	"file": "GF_EV1Stage_LoopV2"
+},
+{
+	"id": "10020",
+	"file": "GF_EV1Stage_LoopV2"
+},
+{
+	"id": "10021",
+	"file": "GF_EV1Boss_loop"
+},
+{
+	"id": "10022",
+	"file": "GF_EV1Stage_LoopV2"
+},
+{
+	"id": "10023",
+	"file": "GF_EV1Stage_LoopV2"
+},
+{
+	"id": "10024",
+	"file": "GF_EV1Stage_LoopV2"
+},
+{
+	"id": "10025",
+	"file": "GF_EV1Boss_loop"
+},
+{
+	"id": "10027",
+	"file": "GF_MAP_EX_8_1"
+},
+{
+	"id": "10026",
+	"file": "GF_MAP_EX_8_2"
+},
+{
+	"id": "10028",
+	"file": "GF_MAP_EX_8_3"
+},
+{
+	"id": "10029",
+	"file": "GF_MAP_EX_8_4"
+},
+{
+	"id": "10030",
+	"file": "GF_EV3_Map1_tri"
+},
+{
+	"id": "10031",
+	"file": "GF_EV3_Map1_tri"
+},
+{
+	"id": "10032",
+	"file": "GF_EV3_Map1_tri"
+},
+{
+	"id": "10033",
+	"file": "GF_EV3_Boss_Inst"
+},
+{
+	"id": "10034",
+	"file": "GF_EV3_Map2"
+},
+{
+	"id": "10035",
+	"file": "GF_EV3_Map2"
+},
+{
+	"id": "10037",
+	"file": "GF_EV3_Map2"
+},
+{
+	"id": "10038",
+	"file": "GF_EV3_Boss_Inst"
+},
+{
+	"id": "10039",
+	"file": "GF_EV3_Map3"
+},
+{
+	"id": "10040",
+	"file": "GF_EV3_Map3"
+},
+{
+	"id": "10041",
+	"file": "GF_EV3_Map3"
+},
+{
+	"id": "10042",
+	"file": "GF_EV3_Boss"
+},
+{
+	"id": "10036",
+	"file": "GF_EV3_MapEX"
+},
+{
+	"id": "10043",
+	"file": "GF_xBH2_Map1"
+},
+{
+	"id": "10044",
+	"file": "GF_xBH2_Map2"
+},
+{
+	"id": "10045",
+	"file": "GF_xBH2_Map3"
+},
+{
+	"id": "10046",
+	"file": "GF_xBH2_Map4"
+},
+{
+	"id": "10047",
+	"file": "GF_xBH2_Map5"
+},
+{
+	"id": "10048",
+	"file": "GF_xBH2_Map6"
+},
+{
+	"id": "10049",
+	"file": "GF_xBH2_Map7"
+},
+{
+	"id": "10050",
+	"file": "GF_xBH2_Map8"
+},
+{
+	"id": "10051",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10052",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10053",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10054",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10055",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10056",
+	"file": "GF_EV4_Boss2"
+},
+{
+	"id": "10057",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10058",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10059",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10060",
+	"file": "GF_EV4_Boss2"
+},
+{
+	"id": "10061",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10062",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10063",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10064",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10065",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10066",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10067",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10068",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10069",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10070",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10071",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10072",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10073",
+	"file": "GF_EV4_Boss2"
+},
+{
+	"id": "10074",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10075",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10076",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10077",
+	"file": "GF_EV4_Boss2"
+},
+{
+	"id": "10078",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10079",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10080",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10081",
+	"file": "GF_EV4_Boss2"
+},
+{
+	"id": "10082",
+	"file": "GF_EV4_Map3"
+},
+{
+	"id": "10083",
+	"file": "GF_EV4_Map3"
+},
+{
+	"id": "10084",
+	"file": "GF_EV4_Map3"
+},
+{
+	"id": "10085",
+	"file": "GF_EV4_Map3"
+},
+{
+	"id": "10086",
+	"file": "GF_EV4_Map3"
+},
+{
+	"id": "10087",
+	"file": "GF_EV4_Boss1"
+},
+{
+	"id": "10088",
+	"file": "GF_EV4_Map1"
+},
+{
+	"id": "10089",
+	"file": "GF_EV4_Map2"
+},
+{
+	"id": "10090",
+	"file": "GF_EV4_Map3"
+},
+{
+	"id": "10091",
+	"file": "GF_EV4_Boss1"
+},
+{
+	"id": "10092",
+	"file": "GF_EV4_Boss1"
+},
+{
+	"id": "GF_EV3_Bingocard_loop",
+	"file": "GF_Bingocard_loop"
+},
+{
+	"id": "BGM_SpecialOPS",
+	"file": "GUN_CineTense_loop"
+},
+{
+	"id": "SpecialActivity",
+	"file": "GF_EV5_Intermission"
+},
+{
+	"id": "GF_xBH2_Menu",
+	"file": "GF_xBH2_Menu"
+},
+{
+	"id": "BGM_Sunshine",
+	"file": "home_formation_factory"
+},
+{
+	"id": "BGM_Wedding",
+	"file": "GUN_Wedding"
+},
+{
+	"id": "BGM_Dorm",
+	"file": "dorm"
+},
+{
+	"id": "BGM_Truth",
+	"file": "BGM_Truth"
+},
+{
+	"id": "BGM_Brain",
+	"file": "BGM_Brain"
+},
+{
+	"id": "GF_Song",
+	"file": "GF_Song"
+},
+{
+	"id": "BGM_Wake",
+	"file": "GF_Emotional_Without_Chorus_loop"
+},
+{
+	"id": "BGM_Wake2",
+	"file": "GF_Emotional_Normal_loop"
+},
+{
+	"id": "GF_GGX_BGM_Danger",
+	"file": "GF_GGX_BGM_Danger"
+},
+{
+	"id": "GF_GGX_BGM_Sad",
+	"file": "GF_GGX_BGM_Sad"
+},
+{
+	"id": "GF_GGX_BGM_Sunshine",
+	"file": "GF_GGX_BGM_Sunshine"
+},
+{
+	"id": "GF_GGX_BGM_War",
+	"file": "GF_GGX_BGM_War"
+},
+{
+	"id": "GF_Cafe",
+	"file": "GF_Cafe"
+},
+{
+	"id": "GF_Memorial",
+	"file": "GF_Memorial"
+},
+{
+	"id": "BGM_NightOPS",
+	"file": "GUN_CineTense_loop"
+},
+{
+	"id": "BGM_Moon",
+	"file": "GF_Daily02_loop"
+},
+{
+	"id": "BGM_Hello",
+	"file": "GF_Daily_01_loop"
+},
+{
+	"id": "DJMAX_ArmoredPhantom",
+	"file": "DJMAX_ArmoredPhantom"
+},
+{
+	"id": "DJMAX_AsktoWind",
+	"file": "DJMAX_AsktoWind"
+},
+{
+	"id": "DJMAX_BELL",
+	"file": "DJMAX_BELL"
+},
+{
+	"id": "DJMAX_BeyondYourself",
+	"file": "DJMAX_BeyondYourself"
+},
+{
+	"id": "DJMAX_BlackCat",
+	"file": "DJMAX_BlackCat"
+},
+{
+	"id": "DJMAX_BulletWanted",
+	"file": "DJMAX_BulletWanted"
+},
+{
+	"id": "DJMAX_FallenAngel",
+	"file": "DJMAX_FallenAngel"
+},
+{
+	"id": "DJMAX_FirstKiss",
+	"file": "DJMAX_FirstKiss"
+},
+{
+	"id": "DJMAX_GloryDay",
+	"file": "DJMAX_GloryDay"
+},
+{
+	"id": "DJMAX_Miles",
+	"file": "DJMAX_Miles"
+},
+{
+	"id": "DJMAX_Nightmare",
+	"file": "DJMAX_Nightmare"
+},
+{
+	"id": "DJMAX_OBLIVION",
+	"file": "DJMAX_OBLIVION"
+},
+{
+	"id": "DJMAX_OnlyForYou",
+	"file": "DJMAX_OnlyForYou"
+},
+{
+	"id": "DJMAX_PlasticMethod",
+	"file": "DJMAX_PlasticMethod"
+},
+{
+	"id": "DJMAX_ShadowFlower",
+	"file": "DJMAX_ShadowFlower"
+},
+{
+	"id": "DJMAX_Syriana",
+	"file": "DJMAX_Syriana"
+},
+{
+	"id": "DJMAX_TheLastScene",
+	"file": "DJMAX_TheLastScene"
+},
+{
+	"id": "DJMAX_TheObliterator",
+	"file": "DJMAX_TheObliterator"
+},
+{
+	"id": "DJMAX_Ventilator",
+	"file": "DJMAX_Ventilator"
+},
+{
+	"id": "DJMAX_VirginForce",
+	"file": "DJMAX_VirginForce"
+},
+{
+	"id": "DJMAX_WHY",
+	"file": "DJMAX_WHY"
+},
+{
+	"id": "DJMAX_LadyMadeStar",
+	"file": "DJMAX_LadyMadeStar"
+},
+{
+	"id": "DJMAX_IWantYou",
+	"file": "DJMAX_IWantYou"
+},
+{
+	"id": "DJMAX_ShadowFlowerF",
+	"file": "DJMAX_ShadowFlowerF"
+},
+{
+	"id": "10093",
+	"file": "DJMAX_PlasticMethod"
+},
+{
+	"id": "10094",
+	"file": "DJMAX_ArmoredPhantom"
+},
+{
+	"id": "10095",
+	"file": "DJMAX_Ventilator"
+},
+{
+	"id": "10096",
+	"file": "DJMAX_TheLastScene"
+},
+{
+	"id": "10097",
+	"file": "DJMAX_Nightmare"
+},
+{
+	"id": "10098",
+	"file": "DJMAX_BlackCat"
+},
+{
+	"id": "10099",
+	"file": "DJMAX_PlasticMethod"
+},
+{
+	"id": "10100",
+	"file": "DJMAX_ArmoredPhantom"
+},
+{
+	"id": "10101",
+	"file": "DJMAX_Ventilator"
+},
+{
+	"id": "10102",
+	"file": "DJMAX_TheLastScene"
+},
+{
+	"id": "10103",
+	"file": "DJMAX_Nightmare"
+},
+{
+	"id": "10104",
+	"file": "DJMAX_BlackCat"
+},
+{
+	"id": "10105",
+	"file": "GF_MAP6_BGM"
+},
+{
+	"id": "10106",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10107",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10108",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10109",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10110",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10111",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10113",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10112",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10114",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10115",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10116",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10117",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10118",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10145",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10120",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10121",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10122",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10123",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10124",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10125",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10126",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10127",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10128",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10129",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10130",
+	"file": "GF_EV5_BattleL3"
+},
+{
+	"id": "10146",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10147",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10148",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10149",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10150",
+	"file": "GF_EV5_BattleL1"
+},
+{
+	"id": "10155",
+	"file": "GF_EV5_BattleL3"
+},
+{
+	"id": "10131",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10132",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10133",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10134",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10135",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10136",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10137",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10142",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10138",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10143",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10139",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10140",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10141",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10144",
+	"file": "GF_EV5_Boss"
+},
+{
+	"id": "10151",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10152",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10153",
+	"file": "GF_EV5_BattleL2"
+},
+{
+	"id": "10154",
+	"file": "GF_EV5_BattleL2"
+}]
