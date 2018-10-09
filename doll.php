@@ -42,8 +42,8 @@ $starttime = microtime(true);
 	
 	//인형 보이스 불러오기
 	$audio = [];
-	if(file_exists("audio/doll/" . $doll->name) && is_dir("audio/doll/" . $doll->name)) {
-		$dir = scandir("audio/doll/" . $doll->name);
+	if(file_exists("audio/" . $doll->name) && is_dir("audio/" . $doll->name)) {
+		$dir = scandir("audio/" . $doll->name);
 		array_shift($dir); array_shift($dir);
 		
 		$ext = 'mp3';
@@ -52,10 +52,10 @@ $starttime = microtime(true);
 			if(preg_match ('/.*.acb_000000(.*).mp3/', $filename, $matches)) {
 				$num = $matches[1];
 				if(count($dir) == 40) {
-					$audio[audiohex_to_str($num, 0)] = "audio/doll/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
+					$audio[audiohex_to_str($num, 0)] = "audio/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
 				}
 				else if(count($dir) == 41) {
-					$audio[audiohex_to_str($num, 1)] = "audio/doll/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
+					$audio[audiohex_to_str($num, 1)] = "audio/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
 				}
 			}
 		}
