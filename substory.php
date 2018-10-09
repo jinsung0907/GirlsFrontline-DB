@@ -2,6 +2,8 @@
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
 	
+	$bgms = getJson('bgm');
+	
 	$t = $_GET['t'];
 	$q = $_GET['q'];
 
@@ -136,8 +138,18 @@
 						$line->text = "선택 " . $line->branch . " : " . $line->text;
 					}
 
-					if(isset($line->bgm) && strpos($line->bgm, "DJMAX") !== false) {
-						echo "<audio name='audio_bgm' controls preload='none' controlsList='nodownload'><source src='audio/bg/{$line->bgm}.mp3' type='audio/mp3'></audio>";
+					if(isset($line->bgm)) {
+						if(strtoupper($line->bgm) == "BGM_EMPTY") {
+							echo "<button name='bgmstop' class='btn btn-sm btn-dark' data-toggle='tooltip' data-placement='top' title='bgm이 멈추는 구간'><i class='far fa-stop-circle'></i></button>";
+						}
+						else if(strtoupper($line->bgm) == "BGM_PAUSE") {
+							echo "<button name='bgmpause' class='btn btn-sm btn-dark' data-toggle='tooltip' data-placement='top' title='bgm이 일시정지되는 구간'><i class='far fa-stop-circle'></i></button>";
+						}
+						else if(strtoupper($line->bgm) == "BGM_UNPAUSE") {
+							echo "<button name='bgmunpause' class='btn btn-sm btn-dark' data-toggle='tooltip' data-placement='top' title='bgm이 다시재생되는 구간'><i class='far fa-stop-circle'></i></button>";
+						}
+						else 
+							echo "<audio name='audio_bgm' loop controls preload='none' controlsList='nodownload'><source src='audio/" . getBGM($line->bgm) . "' type='audio/mp3'></audio>";
 					}
 					
 					

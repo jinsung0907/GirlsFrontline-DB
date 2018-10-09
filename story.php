@@ -10,6 +10,7 @@
 		$storys = json_decode(file_get_contents("story_json/story.txt"));
 		$langdir = '/';
 	}
+	$bgms = getJson('bgm');
 	
 	$q = $_GET['q'];
 	
@@ -176,8 +177,18 @@
 						$line->text = "선택 " . $line->branch . " : " . $line->text;
 					}
 
-					if(isset($line->bgm) && strpos($line->bgm, "DJMAX") !== false) {
-						echo "<audio name='audio_bgm' controls preload='none' controlsList='nodownload'><source src='audio/bg/{$line->bgm}.mp3' type='audio/mp3'></audio>";
+					if(isset($line->bgm)) {
+						if(strtoupper($line->bgm) == "BGM_EMPTY") {
+							echo "<button name='bgmstop' class='btn btn-sm btn-dark' data-toggle='tooltip' data-placement='top' title='bgm이 멈추는 구간'><i class='far fa-stop-circle'></i></button>";
+						}
+						else if(strtoupper($line->bgm) == "BGM_PAUSE") {
+							echo "<button name='bgmpause' class='btn btn-sm btn-dark' data-toggle='tooltip' data-placement='top' title='bgm이 일시정지되는 구간'><i class='far fa-stop-circle'></i></button>";
+						}
+						else if(strtoupper($line->bgm) == "BGM_UNPAUSE") {
+							echo "<button name='bgmunpause' class='btn btn-sm btn-dark' data-toggle='tooltip' data-placement='top' title='bgm이 다시재생되는 구간'><i class='far fa-stop-circle'></i></button>";
+						}
+						else 
+							echo "<audio name='audio_bgm' loop controls preload='none' controlsList='nodownload'><source src='audio/" . getBGM($line->bgm) . "' type='audio/mp3'></audio>";
 					}
 					
 					
@@ -248,13 +259,55 @@
 		});
 		
 		var nowplaying;
+		var interval = 50;
 		$("audio[name='audio_bgm']").on('play', function(e) {
-			console.log(nowplaying);
 			if(nowplaying && nowplaying != this) {
 				nowplaying.pause();
 			}
 			nowplaying = this;
-			console.log(nowplaying);
+		});
+		$("button[name='bgmstop']").on('click', function(e) {
+			var vol = nowplaying.volume;
+			var fadeout = setInterval(
+			function() {
+				if (vol > 0) {
+				  vol -= 0.05;
+				  nowplaying.volume = vol;
+				}
+				else {
+				  nowplaying.pause();
+				  clearInterval(fadeout);
+				}
+			}, interval);
+		});
+		$("button[name='bgmpause']").on('click', function(e) {
+			var vol = nowplaying.volume;
+			console.log(vol);
+			var fadeout = setInterval(
+			function() {
+				if (vol > 0) {
+				  vol -= 0.05;
+				  nowplaying.volume = vol;
+				}
+				else {
+				  nowplaying.pause();
+				  clearInterval(fadeout);
+				}
+			}, interval);
+		});
+		$("button[name='bgmunpause']").on('click', function(e) {
+			var vol = nowplaying.volume;
+			nowplaying.play();
+			var fadein = setInterval(
+			function() {
+				if (vol < 1) {
+				  vol += 0.05;
+				  nowplaying.volume = vol;
+				}
+				else {
+				  clearInterval(fadein);
+				}
+			}, interval);
 		});
 	</script>
 </html>

@@ -100,6 +100,14 @@ function getSkinDataFile($lang) {
 	return file_get_contents("data/gamedata/$lang/skin.txt");
 }
 */
+function getBGM($id) {
+	global $bgms;
+	foreach($bgms as $bgm) {
+		if($bgm->id == $id) {
+			return $bgm->file . "/" . $bgm->file .".acb_00000000.mp3";
+		}
+	}
+}
 
 function getDollNameLang($doll, $lang) {
 	if($lang == 'ja') 
