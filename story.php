@@ -194,6 +194,13 @@
 	  <?php } ?>
 	  
 	<div class="my-3 p-3 bg-white rounded box-shadow">
+		<ins class="adsbygoogle"
+		 style="display:block; text-align:center"
+		 data-ad-client="ca-pub-6637664198779025"
+		 data-ad-slot="3111645353"
+		 data-ad-format="auto"
+		 data-full-width-responsive="true"></ins>
+		
 		<!-- 라이브리 시티 설치 코드 -->
 		<div id="lv-container" data-id="city" data-uid="MTAyMC8zNjIyNy8xMjc2Mg==">
 			<script type="text/javascript">
