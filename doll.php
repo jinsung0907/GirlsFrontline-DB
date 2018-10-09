@@ -687,7 +687,9 @@ $starttime = microtime(true);
 			 data-ad-slot="3111645353"
 			 data-ad-format="auto"
 			 data-full-width-responsive="true"></ins>
-			
+				<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
 			<!-- 라이브리 시티 설치 코드 -->
 			<div id="lv-container" data-id="city" data-uid="MTAyMC8zNjIyNy8xMjc2Mg==">
 				<script type="text/javascript">

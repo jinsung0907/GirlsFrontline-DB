@@ -72,6 +72,7 @@
 			})
 		})
 	</script>
+	<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 	<select onchange="sel_lang(this.value)">
 		<option>Languages</option>
 		<option value='ko'>Korean(한국어)</option>

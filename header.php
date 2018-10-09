@@ -18,9 +18,7 @@ if(!isset($header_keyword)) $header_keyword = '';
 	gtag('config', 'UA-45210527-6');
 	</script>
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="<?=$header_desc?>">
