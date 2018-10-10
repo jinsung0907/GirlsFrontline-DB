@@ -57,6 +57,9 @@ $starttime = microtime(true);
 				else if(count($dir) == 41) {
 					$audio[audiohex_to_str($num, 1)] = "audio/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
 				}
+				else {
+					$audio[audiohex_to_str($num, 0)] = "audio/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
+				}
 			}
 		}
 	}
