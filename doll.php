@@ -334,7 +334,7 @@ $starttime = microtime(true);
 			if($match[2] == "EVO") $match[2] = "EVO3";
 			if($match[2] == "웰로드 MkⅡ") $match[2] = "Welrod";
 
-			if($match[2] == $doll->name || $match[2] == $doll->krName) {
+			if(strtolower($match[2]) == strtolower($doll->name) || strtolower($match[2]) == strtolower($doll->krName)) {
 				$tmpobj = new stdClass;
 				$tmpobj->id = $match[1] % 10000000;
 				$tmpobj->name = $match[3];
