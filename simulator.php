@@ -210,6 +210,14 @@
                 </div>
 			</div>
 		</div>
+        <div class="my-3 p-3 bg-white rounded box-shadow">
+            <ins class="adsbygoogle"
+			 style="display:block; text-align:center"
+			 data-ad-client="ca-pub-6637664198779025"
+			 data-ad-slot="3111645353"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+        </div>
 		<div id="history" class="my-3 p-3 bg-white rounded box-shadow">
 			<h3><?=L::sim_history?></h3>
             2.2.2 v (18/10/2) <br>
