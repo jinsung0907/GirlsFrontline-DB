@@ -20,15 +20,24 @@
 	}
 ?>
     <style>
+		.content {
+			font-size:13px;
+			line-height: 22px;
+		}
+		.content p {
+			margin: 0;
+			padding: 0;
+			border: 0;
+		}
         .content img {
             max-width: 100%;
         }
     </style>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">
-			<h4><?=$row['title']?></h4><small>글쓴이 : <?=$row['name']?><?=$nick_icon?>&nbsp;&nbsp;&nbsp;날짜 : <?=date("m/d H:i", $row['date'])?><br><hr>
+			<h4><?=$row['title']?></h4><small>글쓴이 : <?=$row['name']?><?=$nick_icon?>&nbsp;&nbsp;&nbsp;날짜 : <?=date("m/d H:i", $row['date'])?></small><br><hr>
             <span class="content">
-			<small>원본 : <u><a href="<?=$row['orgurl']?>"><?=$row['orgurl']?></a></u>
+			<small>원본 : <u><a href="<?=$row['orgurl']?>"><?=$row['orgurl']?></a></u></small>
             <?=$row['content']?>
             </span>
 			<hr>
