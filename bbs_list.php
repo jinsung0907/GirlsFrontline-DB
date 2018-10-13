@@ -100,8 +100,8 @@
             <?php while($row = mysqli_fetch_array($result)) { 
 					$nick_icon = '';
 					switch($row['idtype']) {
-						case 1: $nick_icon = "<img src='img/fix_nik.gif'>"; break;
-						case 2: $nick_icon = "<img src='img/nik.gif'>"; break;
+						case 2: $nick_icon = "<img src='img/fix_nik.gif'>"; break;
+						case 3: $nick_icon = "<img src='img/nik.gif'>"; break;
 					} ?>
                     <tr>
                         <td class="text-center"><?=$row['id']?></td>
