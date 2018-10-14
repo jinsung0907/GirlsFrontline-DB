@@ -7,12 +7,13 @@
 	if(isset($_POST['url'])) {
 		$board; $no;
 		
+		$requesturl = $_POST['url'];
 		$urls = parse_url($_POST['url']);
 		if($urls === FALSE) exit('정확한 주소를 입력하세요');
 		if($urls['host'] !== "gall.dcinside.com" && $urls['host'] !== "m.dcinside.com") exit ("정확한 주소를 입력하세요"); //호스트 거르기
 		if(!isset($urls['query'])) { //쿼리가 아니라 /(슬래시)라우팅 URL일경우
 			$exp = explode('/', $urls['path']);
-			if($exp[1] !== 'm' && $exp[1] !== 'board') {
+			if($exp[1] == 'm' || $exp[1] == 'board') {
 				if($exp[2] !== 'micateam' && $exp[2] !== 'gfl2')
 					exit('미카팀, 소전2 갤만 가능');
 				if(!isset($exp[3]) || !ctype_digit($exp[3]))
@@ -29,7 +30,7 @@
 				$board = $exp[1];
 				$no = $exp[2];
 			}
-			
+			$requesturl = "http://gall.dcinside.com/mgallery/board/view/?id=$board&no=$no";
 		}
 		else { //쿼리일경우
 			parse_str($urls['query'], $output);
@@ -62,7 +63,7 @@
 		if ($captcha_success->success==true) {
 			$cnt = mysqli_fetch_array(sql_query("select count(*) as cnt from bbs where orgboard = '$board' and orgno = $no"));
 			if($cnt['cnt'] == 0) {
-				$result = reqDCCrawl($_POST['url']);
+				$result = reqDCCrawl($requesturl);
 				echo "<script>alert(\"완료되었습니다. 안나오면 새로고침을 한번 해주세요\");</script>";
 			}
 			else {
