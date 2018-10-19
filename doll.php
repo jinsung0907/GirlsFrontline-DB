@@ -147,19 +147,29 @@ $starttime = microtime(true);
 				else {
 					array_push($voice, [$tmp[1], $tmp[2]]);
 				}
+			}
+			
+			if(substr($data, 0, strlen($doll->name . "_0|")) === $doll->name . "_0|") {
+				$tmp = explode('|', $data);
+				$tmp[2] = str_replace('<>', '<br>', $tmp[2])  . "(No $lang voicedata)";;
+				
+				if($tmp[1] == 'Introduce') {
+					$introduce = $tmp[2];
+					continue;
+				}
 				
 				if(isset($child_audio[$tmp[1]])) {
 					$tmp[2] .= ' <button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'. $child_audio[$tmp[1]] .'"></audio>';
 					unset($child_audio[$tmp[1]]);
-					array_push($child_voice, [$code, $tmp[2]]);
+					array_push($child_voice, [$tmp[1], $tmp[2]]);
 				}
 				else {
-					array_push($child_voice, [$code, $tmp[2]]);
+					array_push($child_voice, [$tmp[1], $tmp[2]]);
 				}
 			}
 		}
 	}
-	
+
 	
 	foreach($audio as $key => $val) {
 		$str = '<button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'.$val.'"></audio>';
