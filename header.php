@@ -30,7 +30,8 @@ if(!isset($header_keyword)) $header_keyword = '';
 	<meta property="og:url" content="http://<?=$_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'] ?>"/>
 	<?=$header_image?>
 	<meta property="og:description" content="<?=$header_desc?>"/>
-	
+	<meta name="twitter:site" content="@gflkr"></meta>
+    
     <title><?=$header_title?></title>
 
     <link rel="stylesheet" href="dist/bootstrap.min.css">
