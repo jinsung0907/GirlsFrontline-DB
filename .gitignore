@@ -6,5 +6,6 @@ testcalc.php
 testdoll.php
 data/lang/cache
 img/
-audio/
+/audio
+
 dbconfig.php
