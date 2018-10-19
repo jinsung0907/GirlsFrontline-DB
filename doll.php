@@ -46,26 +46,30 @@ $starttime = microtime(true);
 		$dir = scandir("audio/" . $doll->name);
 		array_shift($dir); array_shift($dir);
 		
-		$ext = 'mp3';
 		foreach($dir as $filename) {
-			$matches;
-			if(preg_match ('/.*.acb_000000(.*).mp3/', $filename, $matches)) {
-				$num = $matches[1];
-				if(count($dir) == 40) {
-					$audio[audiohex_to_str($num, 0)] = "audio/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
-				}
-				else if(count($dir) == 41) {
-					$audio[audiohex_to_str($num, 1)] = "audio/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
-				}
-				else {
-					$audio[audiohex_to_str($num, 0)] = "audio/{$doll->name}/{$doll->name}.acb_000000$num.$ext";
-				}
+			if(preg_match ('/' . $doll->name . '_(.*)_JP.mp3/', $filename, $matches)) {
+				$code = $matches[1];
+                $audio[$code] = "audio/{$doll->name}/$filename";
+			}
+		}
+	}
+	//아동절 인형 보이스 불러오기
+	$child_audio = [];
+	if(file_exists("audio/" . $doll->name . "_0") && is_dir("audio/" . $doll->name . "_0")) {
+		$dir = scandir("audio/" . $doll->name . "_0");
+		array_shift($dir); array_shift($dir);
+		
+		foreach($dir as $filename) {
+			if(preg_match ('/' . $doll->name . '_0_(.*)_JP.mp3/', $filename, $matches)) {
+				$code = $matches[1];
+                $child_audio[$code] = "audio/{$doll->name}_0/$filename";
 			}
 		}
 	}
 	
 	//대사집 불러오기 및 파싱
 	$voice = [];
+	$child_voice = [];
 	
 	//한국어가 아니면
 	if($lang != "ko") {
@@ -96,6 +100,32 @@ $starttime = microtime(true);
 			}
 		}
 	}
+     //아동절 대사
+    if(!empty($child_audio)) {
+        foreach($voices as $data) {
+            if(substr($data, 0, strlen($doll->name . "_0|")) === $doll->name . "_0|") {
+                $tmp = explode('|', $data);
+                $tmp[2] = str_replace('<>', '<br>', $tmp[2]);
+                
+                if($tmp[1] == 'Introduce') {
+                    $introduce = $tmp[2];
+                    continue;
+                }
+                
+                $code = audiocode_to_str($tmp[1]);
+                if(isset($child_audio[$tmp[1]])) {
+                    $tmp[2] .= ' <button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'. $child_audio[$tmp[1]] .'"></audio>';
+                    unset($child_audio[$tmp[1]]);
+                    array_push($child_voice, [$code, $tmp[2]]);
+                }
+                else {
+                    array_push($child_voice, [$code, $tmp[2]]);
+                }
+            }
+        }
+    }
+	
+	
 	
 	//타 섭에 없는 데이터의 경우 한국데이터를 fallback으로 사용
 	if($introduce == '' || !isset($introduce)) {
@@ -117,6 +147,15 @@ $starttime = microtime(true);
 				else {
 					array_push($voice, [$tmp[1], $tmp[2]]);
 				}
+				
+				if(isset($child_audio[$tmp[1]])) {
+					$tmp[2] .= ' <button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'. $child_audio[$tmp[1]] .'"></audio>';
+					unset($child_audio[$tmp[1]]);
+					array_push($child_voice, [$code, $tmp[2]]);
+				}
+				else {
+					array_push($child_voice, [$code, $tmp[2]]);
+				}
 			}
 		}
 	}
@@ -126,6 +165,12 @@ $starttime = microtime(true);
 		$str = '<button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'.$val.'"></audio>';
 		$code = audiocode_to_str($key);
 		array_push($voice, [$code, $str]);
+	}
+	
+	foreach($child_audio as $key => $val) {
+		$str = '<button name="playvoice" class="btn btn-sm btn-dark"><i class="far fa-play-circle"></i></button><audio preload="none" src="'.$val.'"></audio>';
+		$code = audiocode_to_str($key);
+		array_push($child_voice, [$code, $str]);
 	}
 	
 	//스킬 쿨타임 가져오기
@@ -662,6 +707,24 @@ $starttime = microtime(true);
 							<?php } ?>
 							</tbody>
 						</table>
+						<?php if(!empty($child_voice)) { ?>
+						<table class="table">
+							<thead>
+								<tr style="text-align:center; vertical-align:middle">
+									<th style="width: 15%"><?=L::database_situation?></th>
+									<th><?=L::database_child_dialogue?></th>
+								</tr>
+							</thead>
+							<tbody>
+							<?php foreach($child_voice as $dat) { ?>
+								<tr>
+									<td class="p-1" style="text-align:center; vertical-align:middle"><?=$dat[0]?></td>
+									<td class="p-1"  style="vertical-align:middle"><?=$dat[1]?></td>
+								</tr>
+							<?php } ?>
+							</tbody>
+						</table>
+                        <?php } ?>
 					</div>
 				</div>
 				<div class="col-lg">
