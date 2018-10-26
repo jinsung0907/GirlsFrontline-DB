@@ -104,7 +104,7 @@ function getBGM($id) {
 	global $bgms;
 	foreach($bgms as $bgm) {
 		if($bgm->id == $id || $bgm->file == $id) {
-			return $bgm->file . "/" . $bgm->file .".acb_00000000.mp3";
+			return $bgm->file . "/" . $bgm->file .".mp3";
 		}
 	}
 }
