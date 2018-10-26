@@ -1193,7 +1193,7 @@
 	"rank": 5,
 	"type": "smg",
 	"illust": "戏言咸咸",
-	"voice": "",
+	"voice": "Lynn",
 	"buildTime": 8280,
 	"drop": "203",
 	"stats": {
@@ -3018,7 +3018,7 @@
 	"rank": 5,
 	"type": "ar",
 	"illust": "芙芙酱",
-	"voice": "",
+	"voice": "Azumi Waki",
 	"buildTime": 15120,
 	"drop": "207",
 	"stats": {
@@ -5741,7 +5741,7 @@
 	"rank": 4,
 	"type": "smg",
 	"illust": "熊猫印象",
-	"voice": "Saika fujii",
+	"voice": "Ayaka Fujii",
 	"buildTime": 8280,
 	"drop": "1,2",
 	"stats": {
@@ -6896,7 +6896,7 @@
 	"rank": 5,
 	"type": "sg",
 	"illust": "Silverwing",
-	"voice": "",
+	"voice": "Mariko Honda",
 	"buildTime": 29520,
 	"drop": "2",
 	"stats": {
@@ -6941,7 +6941,7 @@
 	"rank": 5,
 	"type": "sg",
 	"illust": "nineo",
-	"voice": "",
+	"voice": "Manami Numakura",
 	"buildTime": 29160,
 	"drop": "2",
 	"stats": {
@@ -6987,7 +6987,7 @@
 	"rank": 4,
 	"type": "sg",
 	"illust": "DDAL",
-	"voice": "",
+	"voice": "Risa Kubota",
 	"buildTime": 26040,
 	"drop": "2",
 	"stats": {
@@ -7076,7 +7076,7 @@
 	"rank": 3,
 	"type": "hg",
 	"illust": "雪樱樱",
-	"voice": "Saika fujii",
+	"voice": "Ayaka Fujii",
 	"buildTime": 2400,
 	"drop": "1801,105",
 	"stats": {
@@ -8525,7 +8525,7 @@
 	"rank": 4,
 	"type": "rf",
 	"illust": "时辰",
-	"voice": "",
+	"voice": "Chihiro Inamoto",
 	"buildTime": 15600,
 	"drop": "29,30",
 	"stats": {
@@ -8568,7 +8568,7 @@
 	"rank": 3,
 	"type": "rf",
 	"illust": "荒境TS",
-	"voice": "",
+	"voice": "Izumi Chiba",
 	"buildTime": 15600,
 	"drop": "1801",
 	"stats": {
@@ -8611,7 +8611,7 @@
 	"rank": 4,
 	"type": "hg",
 	"illust": "NIN",
-	"voice": "",
+	"voice": "Yuuki Kuwahara",
 	"buildTime": 3600,
 	"drop": "203",
 	"stats": {
@@ -8654,7 +8654,7 @@
 	"rank": 4,
 	"type": "smg",
 	"illust": "HJL",
-	"voice": "",
+	"voice": "Ayaka Fujii",
 	"buildTime": 8280,
 	"drop": "204",
 	"stats": {
@@ -8698,7 +8698,7 @@
 	"rank": 5,
 	"type": "rf",
 	"illust": "水乌龟",
-	"voice": "",
+	"voice": "Mariko Honda",
 	"buildTime": 15600,
 	"drop": "205",
 	"stats": {
@@ -8741,7 +8741,7 @@
 	"rank": 5,
 	"type": "ar",
 	"illust": "多元菌",
-	"voice": "",
+	"voice": "Manami Numakura",
 	"buildTime": 14940,
 	"drop": "1,2",
 	"stats": {
@@ -8785,7 +8785,7 @@
 	"rank": 5,
 	"type": "ar",
 	"illust": "多元菌",
-	"voice": "",
+	"voice": "Azumi Waki",
 	"buildTime": 15120,
 	"drop": "1,2",
 	"stats": {
@@ -8829,7 +8829,7 @@
 	"rank": 4,
 	"type": "ar",
 	"illust": "NoriZC",
-	"voice": "",
+	"voice": "Harumi Sowa",
 	"buildTime": 14100,
 	"drop": "204",
 	"stats": {
@@ -8873,7 +8873,7 @@
 	"rank": 5,
 	"type": "mg",
 	"illust": "小吃",
-	"voice": "",
+	"voice": "Lynn",
 	"buildTime": 22500,
 	"drop": "204",
 	"stats": {
@@ -8918,7 +8918,7 @@
 	"rank": 3,
 	"type": "smg",
 	"illust": "spirtie",
-	"voice": "",
+	"voice": "Harumi Sowa",
 	"buildTime": 6600,
 	"drop": "1803",
 	"stats": {
@@ -8961,7 +8961,7 @@
 	"rank": 3,
 	"type": "hg",
 	"illust": "小吃",
-	"voice": "",
+	"voice": "Asuka Kawakami",
 	"buildTime": 2700,
 	"drop": "1802",
 	"stats": {
@@ -9005,7 +9005,7 @@
 	"rank": 5,
 	"type": "rf",
 	"illust": "neco",
-	"voice": "",
+	"voice": "Arisa Kori",
 	"buildTime": 15600,
 	"drop": "310",
 	"stats": {
@@ -9048,7 +9048,7 @@
 	"rank": 4,
 	"type": "hg",
 	"illust": "Lpip",
-	"voice": "",
+	"voice": "Chihiro Inamoto",
 	"buildTime": 3180,
 	"drop": "1",
 	"stats": {
@@ -9092,7 +9092,7 @@
 	"rank": 5,
 	"type": "smg",
 	"illust": "小吃",
-	"voice": "",
+	"voice": "Haruno Anzu",
 	"buildTime": 8880,
 	"drop": "1,2",
 	"stats": {
@@ -9136,7 +9136,7 @@
 	"rank": 5,
 	"type": "ar",
 	"illust": "RAN",
-	"voice": "",
+	"voice": "Aimi",
 	"buildTime": 13980,
 	"drop": "1,2",
 	"stats": {
@@ -9180,7 +9180,7 @@
 	"rank": 4,
 	"type": "ar",
 	"illust": "かれい",
-	"voice": "",
+	"voice": "Risa Kubota",
 	"buildTime": 12300,
 	"drop": "1,2",
 	"stats": {
@@ -9224,7 +9224,7 @@
 	"rank": 3,
 	"type": "rf",
 	"illust": "Kincora",
-	"voice": "",
+	"voice": "Ayaka Fujii",
 	"buildTime": 15600,
 	"drop": "1804",
 	"stats": {
@@ -9267,7 +9267,7 @@
 	"rank": 3,
 	"type": "smg",
 	"illust": "狂気の君",
-	"voice": "",
+	"voice": "Asuka Kawakami",
 	"buildTime": 6600,
 	"drop": "1805",
 	"stats": {
@@ -9310,7 +9310,7 @@
 	"rank": 3,
 	"type": "hg",
 	"illust": "油库狸",
-	"voice": "",
+	"voice": "Izumi Chiba",
 	"buildTime": 2700,
 	"drop": "1806",
 	"stats": {
@@ -9354,7 +9354,7 @@
 	"rank": 3,
 	"type": "hg",
 	"illust": "AC130",
-	"voice": "",
+	"voice": "Arisa Kori",
 	"buildTime": 2700,
 	"drop": "208",
 	"stats": {
@@ -9398,7 +9398,7 @@
 	"rank": 5,
 	"type": "rf",
 	"illust": "洲川Terras",
-	"voice": "",
+	"voice": "Aimi",
 	"buildTime": 15600,
 	"drop": "209",
 	"stats": {
@@ -10177,6 +10177,91 @@
 		"code": "critBuffSelf"
 	}
 }, {
+	"id": 240,
+	"name": "Mk46",
+	"krName": "Mk46",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "mg",
+	"illust": "Evan揚",
+	"voice": "",
+	"buildTime": 22800,
+	"drop": "31,32",
+	"stats": {
+		"hp": 98,
+		"pow": 90,
+		"hit": 125,
+		"dodge": 132,
+		"speed": 100,
+		"rate": 128,
+		"armorPiercing": 10,
+		"crit": 5,
+		"bullet": 9
+	},
+	"grow": 132,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3],
+		"3": [9, 14]
+	},
+	"effect": {
+		"effectType": "sg",
+		"effectCenter": 3,
+		"effectPos": [7, 9],
+		"gridEffect": {
+			"pow": 10,
+			"hit": 10
+		}
+	},
+	"skill": {
+		"realid": 110094
+	}
+}, {
+	"id": 241,
+	"name": "RT20",
+	"krName": "RT-20",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "rf",
+	"illust": "XQ",
+	"voice": "",
+	"buildTime": 15600,
+	"drop": "1811",
+	"stats": {
+		"hp": 102,
+		"pow": 145,
+		"hit": 115,
+		"dodge": 80,
+		"speed": 100,
+		"rate": 80,
+		"armorPiercing": 10,
+		"crit": 40
+	},
+	"grow": 122,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [8, 9],
+		"gridEffect": {
+			"cooldown": 12
+		}
+	},
+	"skill": {
+		"realid": 102701,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 15,
+		"code": "AimAttackCurrentTarge"
+	}
+}, {
 	"id": 1001,
 	"name": "BB_Noel",
 	"krName": "노엘",
@@ -10269,7 +10354,7 @@
 }, {
 	"id": 1003,
 	"name": "Kiana",
-	"krName": "琪亚娜",
+	"krName": "키아나 카스라나",
 	"enName": "",
 	"jpName": "キアナ",
 	"cnName": "琪亚娜",
@@ -10313,7 +10398,7 @@
 }, {
 	"id": 1004,
 	"name": "RaidenMei",
-	"krName": "雷电芽衣",
+	"krName": "라이덴 메이",
 	"enName": "",
 	"jpName": "雷電 芽衣",
 	"cnName": "雷电芽衣",
@@ -10356,7 +10441,7 @@
 }, {
 	"id": 1005,
 	"name": "Bronya",
-	"krName": "布洛妮娅",
+	"krName": "브로냐 자이칙",
 	"enName": "",
 	"jpName": "ブローニャ",
 	"cnName": "布洛妮娅",
@@ -10398,7 +10483,7 @@
 }, {
 	"id": 1006,
 	"name": "Theresa",
-	"krName": "德丽莎",
+	"krName": "테레사 아포칼립스",
 	"enName": "",
 	"jpName": "テレサ",
 	"cnName": "德丽莎",
@@ -10442,7 +10527,7 @@
 }, {
 	"id": 1007,
 	"name": "Himeko",
-	"krName": "无量塔姬子",
+	"krName": "무라타 히메코",
 	"enName": "",
 	"jpName": "無量塔 姫子",
 	"cnName": "无量塔姬子",
@@ -10486,7 +10571,7 @@
 }, {
 	"id": 1008,
 	"name": "Seele",
-	"krName": "希儿",
+	"krName": "제레 발레리",
 	"enName": "",
 	"jpName": "ゼーレ",
 	"cnName": "希儿",
