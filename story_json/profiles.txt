@@ -162,3 +162,9 @@ BG-Sanatorium
 BG-TemporaryBase
 BG-Beach
 BG-BeachNight
+CG11-1
+CG11-2
+BG-Cybercity
+BG-Sewer
+BG-Slum
+BG-Wall
