@@ -204,6 +204,68 @@
 				$(".container").find("img").show();
 			}
 		});
+		$("#second_round_btn").on('click', function() {
+			if($(this).prop("checked") === true) {
+				$(".second_round.first").hide();
+				$(".second_round.second").show();
+			}
+			else if($(this).prop('checked') === false) {
+				$(".second_round.first").show();
+				$(".second_round.second").hide();
+			}
+		});
+		
+		var nowplaying;
+		var interval = 50;
+		$("audio[name='audio_bgm']").on('play', function(e) {
+			if(nowplaying && nowplaying != this) {
+				nowplaying.pause();
+			}
+			nowplaying = this;
+		});
+		$("button[name='bgmstop']").on('click', function(e) {
+			var vol = nowplaying.volume;
+			var fadeout = setInterval(
+			function() {
+				if (vol > 0) {
+				  vol -= 0.05;
+				  nowplaying.volume = vol;
+				}
+				else {
+				  nowplaying.pause();
+				  clearInterval(fadeout);
+				}
+			}, interval);
+		});
+		$("button[name='bgmpause']").on('click', function(e) {
+			var vol = nowplaying.volume;
+			console.log(vol);
+			var fadeout = setInterval(
+			function() {
+				if (vol > 0) {
+				  vol -= 0.05;
+				  nowplaying.volume = vol;
+				}
+				else {
+				  nowplaying.pause();
+				  clearInterval(fadeout);
+				}
+			}, interval);
+		});
+		$("button[name='bgmunpause']").on('click', function(e) {
+			var vol = nowplaying.volume;
+			nowplaying.play();
+			var fadein = setInterval(
+			function() {
+				if (vol < 1) {
+				  vol += 0.05;
+				  nowplaying.volume = vol;
+				}
+				else {
+				  clearInterval(fadein);
+				}
+			}, interval);
+		});
 	</script>
 	</body>
 </html>
