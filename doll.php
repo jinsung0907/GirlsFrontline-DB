@@ -73,11 +73,11 @@ $starttime = microtime(true);
 	
 	//한국어가 아니면
 	if($lang != "ko") {
-		$voices = explode(PHP_EOL, getDataFile("CharacterVoice", $lang));
-		$voices_fallback = explode(PHP_EOL, getDataFile("CharacterVoice", 'ko'));
+		$voices = explode(PHP_EOL, getDataFile("newCharacterVoice", $lang));
+		$voices_fallback = explode(PHP_EOL, getDataFile("newCharacterVoice", 'ko'));
 	}
 	else 
-		$voices = explode(PHP_EOL, getDataFile("CharacterVoice", $lang));
+		$voices = explode(PHP_EOL, getDataFile("newCharacterVoice", $lang));
 
 	foreach($voices as $data) {
 		if(substr($data, 0, strlen($doll->name . "|")) === $doll->name . "|") {
