@@ -1,5 +1,6 @@
 <?php
 	define("GF_HEADER", "aaaaa");
+	require_once("common.php");
 	require_once("header.php");
 ?>
     <main role="main" class="container">
