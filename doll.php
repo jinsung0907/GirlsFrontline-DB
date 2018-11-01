@@ -629,7 +629,7 @@ $starttime = microtime(true);
 					<hr class="mt-1 mb-1">
 					<div class="row pb-0">
 						<div class="col-md-auto align-self-center">
-							<img class="skillimg" src="img/skill/<?=$doll->skill->code?>.png"> <?=$rskill_name?>
+							<img class="skillimg rounded" src="img/skill/<?=$doll->skill->code?>.png"> <?=$rskill_name?>
 						</div>
 						<div class="col">
 							<select id="skilllevel">
@@ -1092,7 +1092,7 @@ $starttime = microtime(true);
 	<script src="/dist/l2d/LAppDefine.js?v=1"></script>
 	<script src="/dist/l2d/LAppModel.js?v=1"></script>
 	<script src="/dist/l2d/LAppLive2DManager.js?v=1"></script>
-	<script src="/dist/l2d/gfdb_l2d.js?v=3"></script>
+	<script src="/dist/l2d/gfdb_l2d.js?v=4"></script>
 	
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/autolinker/1.7.1/Autolinker.min.js" integrity="sha256-yZXU/f+V8xVBqX0cCVVySvxvjU6h8uuQb1N0e8jRvhE=" crossorigin="anonymous"></script>
 	<script>

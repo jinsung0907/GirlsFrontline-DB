@@ -35,6 +35,17 @@ function startLive2D(no)
     // モデル描画用canvasの初期化
     initL2dCanvas("glcanvas");
     
+	this.l2d_voice = [];
+	$.getJSON("data/json/l2dvoice.json", function(result){
+        result.forEach(field => {
+            var tid = Math.floor(Number(field.id) / 100);
+			var sid = document.getElementById("skinselector").value;
+			if(tid == sid) {
+				thisRef.l2d_voice.push(field);
+			}
+        });
+    });
+	
     // モデル用マトリクスの初期化と描画の開始
     init(no);
 }
@@ -250,6 +261,25 @@ function changeModel(no)
 
 function changeMotion() {
 	selChangeMotion = document.getElementById("l2d_motion_sel");
+	console.log(this.l2d_voice);
+	var l2dvoice_src = '';
+	for(var i in this.l2d_voice) {
+		var field = this.l2d_voice[i];
+		
+		var mnt_name = field.motion_name.slice(8).slice(0,-4);
+		var curname = selChangeMotion.options[selChangeMotion.selectedIndex].innerHTML;
+
+		if(curname === mnt_name) {
+			if($("#damaged_btn").prop("checked") && field.is_hurt === "1")
+				l2dvoice_src = "audio/" + dollname + "/" + dollname + "_" + field.voice.split('|')[1] + "_JP.mp3";
+			else (!$("#damaged_btn").prop("checked") && field.is_hurt === "0")
+				l2dvoice_src = "audio/" + dollname + "/" + dollname + "_" + field.voice.split('|')[1] + "_JP.mp3";
+			break;
+		}
+	}
+	if(l2dvoice_src !== '') {
+		new Audio(l2dvoice_src).play()
+	}
 	this.live2DMgr.changeMotion(selChangeMotion.value);
 }
 
