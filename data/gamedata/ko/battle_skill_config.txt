@@ -18550,3 +18550,79 @@ battle_skill_config-111008301,K11索敌
 battle_skill_config-211008301,
 battle_skill_config-311008301,
 battle_skill_config-411008301,
+battle_skill_config-120143101,RO635十一章-闪避
+battle_skill_config-220143101,
+battle_skill_config-320143101,
+battle_skill_config-420143101,
+battle_skill_config-120143201,M4 SOPMODII十一章-火力
+battle_skill_config-220143201,
+battle_skill_config-320143201,
+battle_skill_config-420143201,
+battle_skill_config-120143301,M4 SOPMODII改造十一章-火力
+battle_skill_config-220143301,
+battle_skill_config-320143301,
+battle_skill_config-420143301,
+battle_skill_config-120143401,M4A1十一章-火力
+battle_skill_config-220143401,
+battle_skill_config-320143401,
+battle_skill_config-420143401,
+battle_skill_config-120143501,M4A1改造十一章-火力
+battle_skill_config-220143501,
+battle_skill_config-320143501,
+battle_skill_config-420143501,
+battle_skill_config-120143601,ST AR-15十一章-火力
+battle_skill_config-220143601,
+battle_skill_config-320143601,
+battle_skill_config-420143601,
+battle_skill_config-120143701,ST AR-15改造十一章-火力
+battle_skill_config-220143701,
+battle_skill_config-320143701,
+battle_skill_config-420143701,
+battle_skill_config-120143801,AN-94十一章-火力
+battle_skill_config-220143801,
+battle_skill_config-320143801,
+battle_skill_config-420143801,
+battle_skill_config-120143901,AK-12十一章-火力
+battle_skill_config-220143901,
+battle_skill_config-320143901,
+battle_skill_config-420143901,
+battle_skill_config-111009401,강습전개MG
+battle_skill_config-211009401,자신의 화력을 20%//c 명중을 30% 상승시킨다//c 지속시간 4초.
+battle_skill_config-311009401,화력 상승치:20%//c명중 상승치:30%//c지속시간:4초
+battle_skill_config-411009401,
+battle_skill_config-111009402,강습전개MG
+battle_skill_config-211009402,자신의 화력을 23%//c 명중을 34% 상승시킨다//c 지속시간 4.2초.
+battle_skill_config-311009402,화력 상승치:23%//c명중 상승치:34%//c지속시간:4.2초
+battle_skill_config-411009402,
+battle_skill_config-111009403,강습전개MG
+battle_skill_config-211009403,자신의 화력을 27%//c 명중을 39% 상승시킨다//c 지속시간 4.4초.
+battle_skill_config-311009403,화력 상승치:27%//c명중 상승치:39%//c지속시간:4.4초
+battle_skill_config-411009403,
+battle_skill_config-111009404,강습전개MG
+battle_skill_config-211009404,자신의 화력을 30%//c 명중을 43% 상승시킨다//c 지속시간 4.7초.
+battle_skill_config-311009404,화력 상승치:30%//c명중 상승치:43%//c지속시간:4.7초
+battle_skill_config-411009404,
+battle_skill_config-111009405,강습전개MG
+battle_skill_config-211009405,자신의 화력을 33%//c 명중을 48% 상승시킨다//c 지속시간 4.9초.
+battle_skill_config-311009405,화력 상승치:33%//c명중 상승치:48%//c지속시간:4.9초
+battle_skill_config-411009405,
+battle_skill_config-111009406,강습전개MG
+battle_skill_config-211009406,자신의 화력을 37%//c 명중을 52% 상승시킨다//c 지속시간 5.1초.
+battle_skill_config-311009406,화력 상승치:37%//c명중 상승치:52%//c지속시간:5.1초
+battle_skill_config-411009406,
+battle_skill_config-111009407,강습전개MG
+battle_skill_config-211009407,자신의 화력을 40%//c 명중을 57% 상승시킨다//c 지속시간 5.3초.
+battle_skill_config-311009407,화력 상승치:40%//c명중 상승치:57%//c지속시간:5.3초
+battle_skill_config-411009407,
+battle_skill_config-111009408,강습전개MG
+battle_skill_config-211009408,자신의 화력을 43%//c 명중을 61% 상승시킨다//c 지속시간 5.6초.
+battle_skill_config-311009408,화력 상승치:43%//c명중 상승치:61%//c지속시간:5.6초
+battle_skill_config-411009408,
+battle_skill_config-111009409,강습전개MG
+battle_skill_config-211009409,자신의 화력을 47%//c 명중을 66% 상승시킨다//c 지속시간 5.8초.
+battle_skill_config-311009409,화력 상승치:47%//c명중 상승치:66%//c지속시간:5.8초
+battle_skill_config-411009409,
+battle_skill_config-111009410,강습전개MG
+battle_skill_config-211009410,자신의 화력을 50%//c 명중을 70% 상승시킨다//c 지속시간 6초.
+battle_skill_config-311009410,화력 상승치:50%//c명중 상승치:70%//c지속시간:6초
+battle_skill_config-411009410,

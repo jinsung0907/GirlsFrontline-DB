@@ -562,3 +562,6 @@ mission_skill_config-30900007,1
 mission_skill_config-10900008,헬리포트 증원
 mission_skill_config-20900008,지원범위 내의 헬리포트의 증원병력 강화
 mission_skill_config-30900008,1
+mission_skill_config-10900009,방공포
+mission_skill_config-20900009,대공관제
+mission_skill_config-30900009,1
