@@ -828,6 +828,7 @@ function getcharimgdir($str, $emo) {
 			case 7: return "story_character/版娘-7"; break;
 			case 8: return "story_character/版娘-8"; break;
 			case 9: return "story_character/版娘Armor"; break;
+			case 10: return "story_character/npc_kalina_203"; break;
 		}
 	}
 	else if($str == "SOPIIDamage") {
@@ -838,6 +839,22 @@ function getcharimgdir($str, $emo) {
 			case 3: return "story_character/M4 SOPMOD IIDamage3"; break;
 		}
 	}
+	else if($str == "RO635-NoArmor") {
+		switch($emo) {
+			case 0: return "story_character/pic_ro635_noarmor0"; break;
+			case 1: return "story_character/pic_ro635_noarmor_1"; break;
+			case 2: return "story_character/pic_ro635_noarmor_2"; break;
+			case 3: return "story_character/pic_ro635_noarmor_3"; break;
+			case 4: return "story_character/pic_ro635_noarmor_4"; break;
+		}
+	}
+	else if($str == "M4 SOPMOD IIMod-Noarmor") {
+		switch($emo) {
+			case 0: return "story_character/pic_m4 sopmod iimod_noarmor1"; break;
+		}
+	}
+	
+	
 	else if($str == "NPC-Zielinski") {
 		switch($emo) {
 			case 0: return "story_character/npc/npc-zielinski"; break;
@@ -914,6 +931,16 @@ function getcharimgdir($str, $emo) {
 	else if($str == "NPC-Deele") {
 		switch($emo) {
 			case 0: return "story_character/npc/pic_NPC-Deele"; break;
+		}
+	}
+	else if($str == "NPC-Maid") {
+		switch($emo) {
+			case 0: return "story_character/npc/npc-maid"; break;
+		}
+	}
+	else if($str == "NPC-Jason") {
+		switch($emo) {
+			case 0: return "story_character/npc/npc-jason"; break;
 		}
 	}
 	
