@@ -506,3 +506,41 @@
 .doll_img img.damaged {
 	display: none;
 }
+
+:-webkit-full-screen.doll_img {
+	text-align: center
+}
+:-moz-full-screen.doll_img {
+	text-align: center
+}
+:-ms-full-screen.doll_img {
+	text-align: center
+} 
+:full-screen.doll_img {
+	text-align: center
+}
+
+:-webkit-full-screen.doll_img img {
+	max-width: 100vw;
+	max-height: 100vh;
+	width: auto;
+	height: auto;
+}
+:-moz-full-screen.doll_img img {
+	max-width: 100vw;
+	max-height: 100vh;
+	width: auto;
+	height: auto;
+}
+:-ms-full-screen.doll_img img {
+	max-width: 100vw;
+	max-height: 100vh;
+	width: auto;
+	height: auto;
+}
+:full-screen.doll_img img {
+	max-width: 100vw;
+	max-height: 100vh;
+	width: auto;
+	height: auto;
+}
