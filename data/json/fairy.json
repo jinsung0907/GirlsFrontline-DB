@@ -253,7 +253,7 @@
       "CD": 1,
       "CP": 1
     },
-	"realid": 14
+	"realid": 13
   },
   "grow": 70,
   "buildTime": 18000
@@ -320,6 +320,15 @@
   "stats": {"pow": 35, "hit": 22, "dodge": 113, "armor": 106, "critDmg": 25},
   "skill": {"id": 1019, "dataPool": {"CD": 0, "CP": 1},"realid": 900151},
   "grow": 250,
+  "buildTime": 0
+}, {
+  "id": 20,
+  "category": "battle",
+  "krName": "폭죽요정",
+  "name": "petard",
+  "stats": {"pow": 115, "hit": 82, "dodge": 44, "armor": 40},
+  "skill": {"realid": 900155},
+  "grow": 260,
   "buildTime": 0
 }, {
   "id": 1001,
