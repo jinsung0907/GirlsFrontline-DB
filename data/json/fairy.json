@@ -327,7 +327,7 @@
   "krName": "폭죽요정",
   "name": "petard",
   "stats": {"pow": 115, "hit": 82, "dodge": 44, "armor": 40},
-  "skill": {"realid": 900155},
+  "skill": {"realid": 900155, "code": "hanabi"},
   "grow": 260,
   "buildTime": 0
 }, {

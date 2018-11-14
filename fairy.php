@@ -225,7 +225,7 @@
 					<hr class="mt-1 mb-1">
 					<div class="row pb-0">
 						<div class="col-md-auto align-self-center">
-							<img class="skillimg" src="img/skill/<?=$skill->path?>.png"> <?=$rskill_name?>
+							<img class="skillimg" src="img/skill/<?=$fairy->skill->code?$fairy->skill->code:$skill->path?>.png"> <?=$rskill_name?>
 						</div>
 						<div class="col">
 							<select id="skilllevel">
