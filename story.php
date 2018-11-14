@@ -240,16 +240,22 @@
 		});
 		
 		var nowplaying;
+		var fadeInterval;
 		var interval = 50;
 		$("audio[name='audio_bgm']").on('play', function(e) {
 			if(nowplaying && nowplaying != this) {
 				nowplaying.pause();
 			}
+			if(fadeInterval) {
+				nowplaying.pause();
+				clearInterval(fadeInterval);
+			}
 			nowplaying = this;
+			nowplaying.volume = 1.0;
 		});
 		$("button[name='bgmstop']").on('click', function(e) {
 			var vol = nowplaying.volume;
-			var fadeout = setInterval(
+			fadeInterval = setInterval(
 			function() {
 				if (vol > 0) {
 				  vol -= 0.05;
@@ -257,14 +263,14 @@
 				}
 				else {
 				  nowplaying.pause();
-				  clearInterval(fadeout);
+				  clearInterval(fadeInterval);
 				}
 			}, interval);
 		});
 		$("button[name='bgmpause']").on('click', function(e) {
 			var vol = nowplaying.volume;
 			console.log(vol);
-			var fadeout = setInterval(
+			fadeInterval = setInterval(
 			function() {
 				if (vol > 0) {
 				  vol -= 0.05;
@@ -272,21 +278,21 @@
 				}
 				else {
 				  nowplaying.pause();
-				  clearInterval(fadeout);
+				  clearInterval(fadeInterval);
 				}
 			}, interval);
 		});
 		$("button[name='bgmunpause']").on('click', function(e) {
 			var vol = nowplaying.volume;
 			nowplaying.play();
-			var fadein = setInterval(
+			fadeInterval = setInterval(
 			function() {
 				if (vol < 1) {
 				  vol += 0.05;
 				  nowplaying.volume = vol;
 				}
 				else {
-				  clearInterval(fadein);
+				  clearInterval(fadeInterval);
 				}
 			}, interval);
 		});
