@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"9","text":"<color=#fff775>데이터를 복구 중입니다, 잠시만 기다려 주세요...</color>"},{"character":["UMP45"],"character_emotion":["0"],"speaker_name":"","speaker":0,"text":"<color=#00CCFF>-404 Not Found-</color>"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":""}]
