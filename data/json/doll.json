@@ -134,7 +134,7 @@
 	"id": 4,
 	"name": "Python",
 	"krName": "콜트 파이슨",
-	"enName": "",
+	"enName": "蟒蛇",
 	"jpName": "",
 	"cnName": "蟒蛇",
 	"rank": 5,
@@ -1187,7 +1187,7 @@
 	"id": 28,
 	"name": "MP7",
 	"krName": "MP7",
-	"enName": "",
+	"enName": "MP7",
 	"jpName": "Gr MP7",
 	"cnName": "MP7",
 	"rank": 5,
@@ -1557,7 +1557,7 @@
 	"grow": 110,
 	"canequip": {
 		"1": [5],
-		"2": [1, 2, 3, 13],
+		"2": [1, 2, 3, 13, 16],
 		"3": [9, 15]
 	},
 	"effect": {
@@ -1707,7 +1707,7 @@
 	"id": 41,
 	"name": "SKS",
 	"krName": "시모노프",
-	"enName": "Simonova",
+	"enName": "SKS",
 	"jpName": "SKS",
 	"cnName": "西蒙诺夫",
 	"rank": 2,
@@ -2442,7 +2442,7 @@
 	"id": 59,
 	"name": "AK74U",
 	"krName": "AK-74U",
-	"enName": "",
+	"enName": "AKS-74U",
 	"jpName": "",
 	"cnName": "AK-74U",
 	"rank": 5,
@@ -2668,7 +2668,7 @@
 	"rank": 4,
 	"type": "ar",
 	"illust": "薯子Imoko",
-	"voice": "Koshimizu Ami",
+	"voice": "Ami Koshimizu",
 	"buildTime": 13200,
 	"drop": "1,2",
 	"stats": {
@@ -3012,7 +3012,7 @@
 	"id": 73,
 	"name": "AUG",
 	"krName": "AUG",
-	"enName": "",
+	"enName": "AUG",
 	"jpName": "AUG",
 	"cnName": "AUG",
 	"rank": 5,
@@ -4513,7 +4513,7 @@
 	"rank": 5,
 	"type": "mg",
 	"illust": "音符",
-	"voice": "Koshimizu Ami",
+	"voice": "Ami Koshimizu",
 	"buildTime": 24300,
 	"drop": "1,3,2",
 	"stats": {
@@ -5735,7 +5735,7 @@
 	"id": 137,
 	"name": "PP1901",
 	"krName": "PP-19-01",
-	"enName": "",
+	"enName": "PP-19-01",
 	"jpName": "PP-19-01",
 	"cnName": "PP-19-01",
 	"rank": 4,
@@ -6890,7 +6890,7 @@
 	"id": 163,
 	"name": "AA12",
 	"krName": "AA-12",
-	"enName": "",
+	"enName": "AA-12",
 	"jpName": "",
 	"cnName": "AA-12",
 	"rank": 5,
@@ -6935,7 +6935,7 @@
 	"id": 164,
 	"name": "FP6",
 	"krName": "FP-6",
-	"enName": "",
+	"enName": "FP-6",
 	"jpName": "",
 	"cnName": "FP-6",
 	"rank": 5,
@@ -6981,7 +6981,7 @@
 	"id": 165,
 	"name": "M1014",
 	"krName": "M1014",
-	"enName": "",
+	"enName": "M1014",
 	"jpName": "",
 	"cnName": "M1014",
 	"rank": 4,
@@ -8211,7 +8211,7 @@
 	"id": 193,
 	"name": "T65",
 	"krName": "T65",
-	"enName": "",
+	"enName": "T65",
 	"jpName": "T65",
 	"cnName": "T65",
 	"rank": 3,
@@ -8255,7 +8255,7 @@
 	"id": 194,
 	"name": "K2",
 	"krName": "K2",
-	"enName": "",
+	"enName": "K2",
 	"jpName": "K2",
 	"cnName": "K2",
 	"rank": 5,
@@ -8299,7 +8299,7 @@
 	"id": 195,
 	"name": "HK23",
 	"krName": "HK23",
-	"enName": "",
+	"enName": "HK23",
 	"jpName": "Gr MK23",
 	"cnName": "HK23",
 	"rank": 3,
@@ -8344,7 +8344,7 @@
 	"id": 196,
 	"name": "ZastavaM21",
 	"krName": "Zas M21",
-	"enName": "",
+	"enName": "Zas M21",
 	"jpName": "Zas M21",
 	"cnName": "Zas M21",
 	"rank": 5,
@@ -8388,7 +8388,7 @@
 	"id": 197,
 	"name": "Carcano1891",
 	"krName": "카르카노M1891",
-	"enName": "",
+	"enName": "卡尔卡诺M1891",
 	"jpName": "カルカノM1891",
 	"cnName": "卡尔卡诺M1891",
 	"rank": 5,
@@ -8431,7 +8431,7 @@
 	"id": 198,
 	"name": "Carcano1938",
 	"krName": "카르카노M91/38",
-	"enName": "",
+	"enName": "卡尔卡诺M91/38",
 	"jpName": "カルカノM91/38",
 	"cnName": "卡尔卡诺M91/38",
 	"rank": 5,
@@ -8474,7 +8474,7 @@
 	"id": 199,
 	"name": "80type",
 	"krName": "80식",
-	"enName": "",
+	"enName": "80式",
 	"jpName": "80式",
 	"cnName": "80式",
 	"rank": 4,
@@ -8519,7 +8519,7 @@
 	"id": 200,
 	"name": "xm3",
 	"krName": "XM3",
-	"enName": "",
+	"enName": "XM3",
 	"jpName": "XM3",
 	"cnName": "XM3",
 	"rank": 4,
@@ -8562,7 +8562,7 @@
 	"id": 201,
 	"name": "GepardM1",
 	"krName": "게파드 M1",
-	"enName": "",
+	"enName": "猎豹M1",
 	"jpName": "ゲパードM1",
 	"cnName": "猎豹M1",
 	"rank": 3,
@@ -8605,7 +8605,7 @@
 	"id": 202,
 	"name": "Thunder50",
 	"krName": "썬더",
-	"enName": "",
+	"enName": "雷电",
 	"jpName": "サンダー",
 	"cnName": "雷电",
 	"rank": 4,
@@ -8648,7 +8648,7 @@
 	"id": 203,
 	"name": "PDW",
 	"krName": "허니뱃저",
-	"enName": "",
+	"enName": "蜜獾",
 	"jpName": "ハニー・バジャー",
 	"cnName": "蜜獾",
 	"rank": 4,
@@ -8692,7 +8692,7 @@
 	"id": 204,
 	"name": "Ballista",
 	"krName": "발리스타",
-	"enName": "",
+	"enName": "芭莉斯塔",
 	"jpName": "バリスタ",
 	"cnName": "芭莉斯塔",
 	"rank": 5,
@@ -8735,7 +8735,7 @@
 	"id": 205,
 	"name": "AN94",
 	"krName": "AN-94",
-	"enName": "",
+	"enName": "AN-94",
 	"jpName": "AN-94",
 	"cnName": "AN-94",
 	"rank": 5,
@@ -8779,7 +8779,7 @@
 	"id": 206,
 	"name": "AK12",
 	"krName": "AK-12",
-	"enName": "",
+	"enName": "AK-12",
 	"jpName": "AK-12",
 	"cnName": "AK-12",
 	"rank": 5,
@@ -8823,7 +8823,7 @@
 	"id": 207,
 	"name": "CZ2000",
 	"krName": "CZ2000",
-	"enName": "",
+	"enName": "CZ2000",
 	"jpName": "CZ2000",
 	"cnName": "CZ2000",
 	"rank": 4,
@@ -8867,7 +8867,7 @@
 	"id": 208,
 	"name": "HK21",
 	"krName": "HK21",
-	"enName": "",
+	"enName": "HK21",
 	"jpName": "HMG21",
 	"cnName": "HK21",
 	"rank": 5,
@@ -8912,7 +8912,7 @@
 	"id": 209,
 	"name": "OTs39",
 	"krName": "OTs-39",
-	"enName": "",
+	"enName": "OTs-39",
 	"jpName": "OTs-39",
 	"cnName": "OTs-39",
 	"rank": 3,
@@ -8955,7 +8955,7 @@
 	"id": 210,
 	"name": "CZ52",
 	"krName": "CZ52",
-	"enName": "",
+	"enName": "CZ52",
 	"jpName": "CZ52",
 	"cnName": "CZ52",
 	"rank": 3,
@@ -8999,7 +8999,7 @@
 	"id": 211,
 	"name": "DTASRS",
 	"krName": "SRS",
-	"enName": "",
+	"enName": "SRS",
 	"jpName": "SRS",
 	"cnName": "SRS",
 	"rank": 5,
@@ -9042,7 +9042,7 @@
 	"id": 212,
 	"name": "K5",
 	"krName": "K5",
-	"enName": "",
+	"enName": "K5",
 	"jpName": "K5",
 	"cnName": "K5",
 	"rank": 4,
@@ -9086,7 +9086,7 @@
 	"id": 213,
 	"name": "CBJMS",
 	"krName": "C-MS",
-	"enName": "",
+	"enName": "C-MS",
 	"jpName": "C-MS",
 	"cnName": "C-MS",
 	"rank": 5,
@@ -9130,7 +9130,7 @@
 	"id": 215,
 	"name": "MDR",
 	"krName": "MDR",
-	"enName": "",
+	"enName": "MDR",
 	"jpName": "MDR",
 	"cnName": "MDR",
 	"rank": 5,
@@ -9174,7 +9174,7 @@
 	"id": 216,
 	"name": "XM8",
 	"krName": "XM8",
-	"enName": "",
+	"enName": "XM8",
 	"jpName": "XM8",
 	"cnName": "XM8",
 	"rank": 4,
@@ -9218,7 +9218,7 @@
 	"id": 217,
 	"name": "HEZISM1",
 	"krName": "SM-1",
-	"enName": "",
+	"enName": "SM-1",
 	"jpName": "SM-1",
 	"cnName": "SM-1",
 	"rank": 3,
@@ -9261,7 +9261,7 @@
 	"id": 218,
 	"name": "T77",
 	"krName": "T77",
-	"enName": "",
+	"enName": "T77",
 	"jpName": "T77",
 	"cnName": "T77",
 	"rank": 3,
@@ -9304,7 +9304,7 @@
 	"id": 220,
 	"name": "MP443",
 	"krName": "MP-443",
-	"enName": "",
+	"enName": "MP-443",
 	"jpName": "",
 	"cnName": "MP-443",
 	"rank": 3,
@@ -9348,7 +9348,7 @@
 	"id": 221,
 	"name": "GSH18",
 	"krName": "GSh-18",
-	"enName": "",
+	"enName": "GSh-18",
 	"jpName": "",
 	"cnName": "GSh-18",
 	"rank": 3,
@@ -9392,7 +9392,7 @@
 	"id": 222,
 	"name": "TAC50",
 	"krName": "TAC-50",
-	"enName": "",
+	"enName": "TAC-50",
 	"jpName": "",
 	"cnName": "TAC-50",
 	"rank": 5,
@@ -9435,7 +9435,7 @@
 	"id": 223,
 	"name": "CETME556",
 	"krName": "Model L",
-	"enName": "",
+	"enName": "Model L",
 	"jpName": "",
 	"cnName": "Model L",
 	"rank": 3,
@@ -9479,7 +9479,7 @@
 	"id": 224,
 	"name": "PM06",
 	"krName": "PM-06",
-	"enName": "",
+	"enName": "PM-06",
 	"jpName": "",
 	"cnName": "PM-06",
 	"rank": 5,
@@ -9523,7 +9523,7 @@
 	"id": 225,
 	"name": "Cx4Storm",
 	"krName": "Cx4 스톰",
-	"enName": "",
+	"enName": "Cx4 Storm",
 	"jpName": "",
 	"cnName": "Cx4 风暴",
 	"rank": 4,
@@ -9567,7 +9567,7 @@
 	"id": 226,
 	"name": "Mk12",
 	"krName": "Mk 12",
-	"enName": "",
+	"enName": "Mk.12 Mod 01",
 	"jpName": "",
 	"cnName": "Mk 12",
 	"rank": 4,
@@ -9610,7 +9610,7 @@
 	"id": 227,
 	"name": "A91",
 	"krName": "A-91",
-	"enName": "",
+	"enName": "A-91",
 	"jpName": "",
 	"cnName": "A-91",
 	"rank": 4,
@@ -9661,6 +9661,7 @@
 	"type": "smg",
 	"illust": "",
 	"voice": "",
+
 	"stats": {
 		"hp": 120,
 		"pow": 105,
@@ -9672,10 +9673,11 @@
 		"crit": 5
 	},
 	"grow": 115,
-    "canequip": {
+	"canequip": {
 		"1": [9, 10],
 		"2": [6],
 		"3": [1, 2, 3, 4, 13]
+
 	},
 	"effect": {
 		"effectType": "ar",
@@ -9683,7 +9685,9 @@
 		"effectPos": [1, 3],
 		"gridEffect": {
 			"pow": 12,
+
 			"hit": 35
+
 		}
 	},
 	"skill": {
@@ -9696,7 +9700,7 @@
 	"id": 229,
 	"name": "M870P",
 	"krName": "M870",
-	"enName": "",
+	"enName": "雷明顿M870P",
 	"jpName": "",
 	"cnName": "M870",
 	"rank": 5,
@@ -9742,7 +9746,7 @@
 	"id": 230,
 	"name": "OBR",
 	"krName": "OBR",
-	"enName": "",
+	"enName": "OBR",
 	"jpName": "",
 	"cnName": "OBR",
 	"rank": 3,
@@ -9785,7 +9789,7 @@
 	"id": 231,
 	"name": "M82A1",
 	"krName": "M82A1",
-	"enName": "",
+	"enName": "巴雷特M82A1",
 	"jpName": "",
 	"cnName": "M82A1",
 	"rank": 5,
@@ -10262,6 +10266,48 @@
 		"code": "AimAttackCurrentTarge"
 	}
 }, {
+	"id": 249,
+	"name": "Type62",
+	"krName": "62식",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "mg",
+	"illust": "かれい",
+	"voice": "",
+	"buildTime": 19500,
+	"drop": "1812",
+	"stats": {
+		"hp": 102,
+		"pow": 108,
+		"hit": 125,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 115,
+		"armorPiercing": 10,
+		"crit": 5,
+		"bullet": 9
+	},
+	"grow": 118,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3],
+		"3": [9, 14]
+	},
+	"effect": {
+		"effectType": "sg",
+		"effectCenter": 1,
+		"effectPos": [8, 9],
+		"gridEffect": {
+			"hit": 18,
+			"armor": 8
+		}
+	},
+	"skill": {
+		"realid": 110104
+	}
+}, {
 	"id": 1001,
 	"name": "BB_Noel",
 	"krName": "노엘",
@@ -10355,7 +10401,7 @@
 	"id": 1003,
 	"name": "Kiana",
 	"krName": "키아나 카스라나",
-	"enName": "",
+	"enName": "琪亚娜",
 	"jpName": "キアナ",
 	"cnName": "琪亚娜",
 	"rank": 5,
@@ -10399,7 +10445,7 @@
 	"id": 1004,
 	"name": "RaidenMei",
 	"krName": "라이덴 메이",
-	"enName": "",
+	"enName": "雷电芽衣",
 	"jpName": "雷電 芽衣",
 	"cnName": "雷电芽衣",
 	"rank": 5,
@@ -10442,7 +10488,7 @@
 	"id": 1005,
 	"name": "Bronya",
 	"krName": "브로냐 자이칙",
-	"enName": "",
+	"enName": "布洛妮娅",
 	"jpName": "ブローニャ",
 	"cnName": "布洛妮娅",
 	"rank": 5,
@@ -10484,7 +10530,7 @@
 	"id": 1006,
 	"name": "Theresa",
 	"krName": "테레사 아포칼립스",
-	"enName": "",
+	"enName": "德丽莎",
 	"jpName": "テレサ",
 	"cnName": "德丽莎",
 	"rank": 5,
@@ -10528,7 +10574,7 @@
 	"id": 1007,
 	"name": "Himeko",
 	"krName": "무라타 히메코",
-	"enName": "",
+	"enName": "无量塔姬子",
 	"jpName": "無量塔 姫子",
 	"cnName": "无量塔姬子",
 	"rank": 5,
@@ -10572,7 +10618,7 @@
 	"id": 1008,
 	"name": "Seele",
 	"krName": "제레 발레리",
-	"enName": "",
+	"enName": "希儿",
 	"jpName": "ゼーレ",
 	"cnName": "希儿",
 	"rank": 5,
@@ -10618,7 +10664,7 @@
 	"id": 1009,
 	"name": "CLEAR",
 	"krName": "클리어",
-	"enName": "",
+	"enName": "克莉尔",
 	"jpName": "El_clear",
 	"cnName": "克莉尔",
 	"rank": 5,
@@ -10662,7 +10708,7 @@
 	"id": 1010,
 	"name": "FAIL",
 	"krName": "페일",
-	"enName": "",
+	"enName": "菲尔",
 	"jpName": "El_fail",
 	"cnName": "菲尔",
 	"rank": 5,
@@ -10839,6 +10885,85 @@
 		"cd": "",
 		"intercd": "",
 		"code": "powBuff"
+	}
+}, {
+	"id": 20029,
+	"name": "StenMK2Mod",
+	"rank": 4,
+	"type": "smg",
+	"illust": "真名",
+	"voice": "Kami Daimon",
+	"buildTime": 6000,
+	"drop": "35",
+	"stats": {
+		"hp": 108,
+		"pow": 100,
+		"hit": 120,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 105,
+		"armorPiercing": 10,
+		"crit": 5
+	},
+	"grow": 125,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 5,
+		"effectPos": [1, 2, 3],
+		"gridEffect": {
+			"hit": 30,
+			"dodge": 40
+		}
+	},
+	"skill": {
+		"realid": 802001
+	},
+	"skill2": {
+		"realid": 802002
+	}
+}, {
+	"id": 20037,
+	"name": "M14Mod",
+	"rank": 4,
+	"type": "rf",
+	"illust": "Rain Lan",
+	"voice": "Saori Onishi",
+	"buildTime": 13200,
+	"drop": "35",
+	"stats": {
+		"hp": 95,
+		"pow": 105,
+		"hit": 115,
+		"dodge": 85,
+		"speed": 100,
+		"rate": 130,
+		"armorPiercing": 10,
+		"crit": 40
+	},
+	"grow": 110,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13, 16],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [7, 9],
+		"gridEffect": {
+			"cooldown": 15
+		}
+	},
+	"skill": {
+		"realid": 801901
+	},
+	"skill2": {
+		"realid": 801902
 	}
 }, {
 	"id": 20039,
@@ -11154,10 +11279,50 @@
 		"code": "RifleGrenade"
 	},
 	"skill2": {
-		"realid": 801301,
+		"realid": 801303,
 		"cd": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
 		"intercd": 0,
-		"code": "RifleGrenade"
+		"code": "powBuffSelf"
+	}
+}, {
+	"id": 20064,
+	"name": "G36Mod",
+	"rank": 5,
+	"type": "ar",
+	"illust": "薯子Imoko",
+	"voice": "Ami Koshimizu",
+	"buildTime": 13200,
+	"drop": "35",
+	"stats": {
+		"hp": 115,
+		"pow": 114,
+		"hit": 120,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 114,
+		"armorPiercing": 10,
+		"crit": 20
+	},
+	"grow": 110,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [7, 8],
+		"gridEffect": {
+			"pow": 30,
+			"rate": 15
+		}
+	},
+	"skill": {
+		"realid": 802101
+	},
+	"skill2": {
+		"realid": 802102
 	}
 }, {
 	"id": 20075,
@@ -11205,6 +11370,47 @@
 		"cd": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
 		"intercd": 0,
 		"code": "M1918"
+	}
+}, {
+	"id": 20081,
+	"name": "LWMMGMod",
+	"rank": 4,
+	"type": "mg",
+	"illust": "RFF",
+	"voice": "Hiyori Nitta",
+	"buildTime": 18600,
+	"drop": "35",
+	"stats": {
+		"hp": 105,
+		"pow": 138,
+		"hit": 120,
+		"dodge": 105,
+		"speed": 100,
+		"rate": 90,
+		"armorPiercing": 10,
+		"crit": 5,
+		"bullet": 10
+	},
+	"grow": 100,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3],
+		"3": [9, 14]
+	},
+	"effect": {
+		"effectType": "sg",
+		"effectCenter": 2,
+		"effectPos": [8],
+		"gridEffect": {
+			"pow": 15,
+			"rate": 15
+		}
+	},
+	"skill": {
+		"realid": 802201
+	},
+	"skill2": {
+		"realid": 802203
 	}
 }, {
 	"id": 20089,
