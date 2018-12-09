@@ -9659,9 +9659,10 @@
 	"cnName": "Type100",
 	"rank": 5,
 	"type": "smg",
-	"illust": "",
-	"voice": "",
-
+	"illust": "かれい",
+	"voice": "Ai Kakuma",
+	"buildTime": 8340,
+	"drop": "1,2",
 	"stats": {
 		"hp": 120,
 		"pow": 105,
@@ -9692,8 +9693,8 @@
 	},
 	"skill": {
 		"realid": 110029,
-		"cd": [600, 588, 573, 561, 546, 534, 519, 507, 492, 480],
-		"intercd": 240,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 8,
 		"code": "shield"
 	}
 }, {
@@ -10267,6 +10268,169 @@
 		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
 		"intercd": 15,
 		"code": "AimAttackCurrentTarge"
+	}
+}, {
+	"id": 243,
+	"name": "Type64-AR",
+	"krName": "64식 소총",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "ar",
+	"illust": "Parsley",
+	"voice": "",
+	"buildTime": 14760,
+	"drop": "1,2",
+	"stats": {
+		"hp": 113,
+		"pow": 132,
+		"hit": 130,
+		"dodge": 90,
+		"speed": 100,
+		"rate": 88,
+		"armorPiercing": 10,
+		"crit": 20
+	},
+	"grow": 140,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [7, 8],
+		"gridEffect": {
+			"pow": 18,
+			"dodge": 18
+		}
+	},
+	"skill": {
+		"realid": 110501
+	}
+}, {
+	"id": 245,
+	"name": "P90",
+	"krName": "P90",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "smg",
+	"illust": "LM7",
+	"voice": "",
+	"buildTime": 8940,
+	"drop": "1,2",
+	"stats": {
+		"hp": 108,
+		"pow": 112,
+		"hit": 120,
+		"dodge": 126,
+		"speed": 100,
+		"rate": 115,
+		"armorPiercing": 10,
+		"crit": 5
+	},
+	"grow": 118,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 5,
+		"effectPos": [1, 2, 3],
+		"gridEffect": {
+			"pow": 12,
+			"hit": 30
+		}
+	},
+	"skill": {
+		"realid": 110301
+	}
+}, {
+	"id": 247,
+	"name": "K31",
+	"krName": "K31",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "rf",
+	"illust": "AIKO",
+	"voice": "",
+	"buildTime": 15300,
+	"drop": "1,2",
+	"stats": {
+		"hp": 88,
+		"pow": 115,
+		"hit": 115,
+		"dodge": 108,
+		"speed": 100,
+		"rate": 112,
+		"armorPiercing": 10,
+		"crit": 40
+	},
+	"grow": 122,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [8, 9],
+		"gridEffect": {
+			"cooldown": 15
+		}
+	},
+	"skill": {
+		"realid": 110201
+	}
+}, {
+	"id": 248,
+	"name": "Jericho",
+	"krName": "제리코",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "hg",
+	"illust": "十月十日奏",
+	"voice": "",
+	"buildTime": 2940,
+	"drop": "1",
+	"stats": {
+		"hp": 115,
+		"pow": 122,
+		"hit": 112,
+		"dodge": 95,
+		"speed": 100,
+		"rate": 115,
+		"armorPiercing": 10,
+		"crit": 20
+	},
+	"grow": 106,
+	"canequip": {
+		"1": [4, 13],
+		"2": [6],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 5,
+		"effectPos": [2, 3, 8, 9],
+		"gridEffect": {
+			"pow": 12,
+			"hit": 25
+		}
+	},
+	"skill": {
+		"realid": 110401
 	}
 }, {
 	"id": 249,
