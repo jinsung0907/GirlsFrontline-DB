@@ -94,7 +94,9 @@ ModelSettingJson.prototype.getPhysicsFile = function()
 
 ModelSettingJson.prototype.getPoseFile = function()
 {
-    return this.json[this.POSE];
+    //return this.json[this.POSE];
+	//changed by Jinsung for uncensored l2d;
+	return "pose.json";
 }
 
 
