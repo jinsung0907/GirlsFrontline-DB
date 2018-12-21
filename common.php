@@ -394,6 +394,112 @@ function getcharimgdir_fairy($str, $emo) {
 		}
 	}
 }
+/*
+function parseStoryFile($line) {
+	$s_line = []
+	$tmp = explode(":", $line);
+	$tmp1 = explode("||", $tmp[0]);
+	$result = [];
+	
+	$s_line[0] = $tmp1[0]; //아바타 및 speaker 자리
+	$s_line[1] = $tmp1[1]; //BGM, 특수효과등 자리
+	$s_line[2] = $tmp[1]; //대사자리
+	
+	//특수문자들 통일
+	$line = str_replace("，", ",", str_replace("》", ">", str_replace("《", "<", str_replace("（", "(", str_replace("；", ";", str_replace("）", ")", $line))))));
+	
+	//아바타, 스피커 처리
+	$sp_data = explode(';', $s_line[0]);
+	$result['character'] = []; //캐릭터 정보 저장
+	$result['character_emotion'] = []; //캐릭터 스킨 정보 저장
+	
+	//화면에 표시될 캐릭터의 수대로 for문
+	for($i = 0 ; $i < sizeof($sp_data) ; $i++) {
+		
+		$pos = strpos($mystring, $findme);
+		
+		
+		array_push($result['character'], substr($sp_data[$i], 0, strpos($sp_data[$i], "(")); //캐릭터 이름 잘라서 저장 
+		array_push($result['character_emotion'], substr($sp_data[$i], strpos($sp_data[$i], "(")+1, strpos($sp_data[$i], ")")); //스킨정보도 잘라서 저장
+		
+		if(sp_data[i].includes("<Speaker>")) {
+			if(sp_data[i].includes("</Speaker>")) {
+				result.speaker_name = sp_data[i].match("<Speaker>(.*)</Speaker>")[1];
+				result.speaker = i;
+			}
+			else {
+				result.speaker_name = sp_data[i].substring(0, sp_data[i].indexOf("("));
+				result.speaker = i;
+			}
+		}
+		else {
+			if(sp_data.length === 1 && typeof result.speaker_name === 'undefined') {
+				result.speaker_name = sp_data[i].substring(0, sp_data[i].indexOf("("));
+				result.speaker = i;
+			}
+			else if(typeof result.speaker_name === 'undefined') {
+				result.speaker_name = '';
+				result.speaker = i;
+			}
+		}
+		
+	}
+		
+	//효과들 파싱
+	if(s_line[1].includes("<BGM>")) { //BGM
+		result.bgm = s_line[1].match("<BGM>(.*)</BGM>")[1];
+	}
+	if(s_line[1].includes("<BIN>")) { //배경화면
+		result.bg = s_line[1].match("<BIN>(.*)</BIN>")[1];
+	}
+	if(s_line[1].includes("<Pic>")) { //사진효과(난류연속에서 처음 사용)
+		result.pic = [];
+		var tbr = s_line[1].match("<Pic>(.*)</Pic>")[1];
+		var tmp = tbr.split("],[");
+		tmp.forEach(function(dat) {
+			result.pic.push(dat.replace(']', '').replace('[', '').split('&'));
+		});
+	}
+	if(s_line[1].includes("<分支>")) { //대사 분기(난류연속에서 처음 사용)
+		result.branch = s_line[1].match("<分支>(.*)</分支>")[1];
+	}
+	
+	if(s_line[1].includes("<Night>")) {
+		result.isnight = 1;
+	}
+	
+	//대사 파싱
+	if(isInt(s_line[2])) {
+		if(typeof LangData[s_line[2]] === 'undefined') {
+			if(typeof LangData_fallback[s_line[2]] === 'undefined') {
+				result.text = "no text data avaliable(no ko, cn data)";
+			}
+			else {
+				result.text = LangData_fallback[s_line[2]].replace(/\+/gi, "\n") + "(no korean text data)";
+			}
+		}
+		else {
+			result.text = LangData[s_line[2]].replace(/\+/gi, "\n");
+		}
+	}
+	else if(typeof s_line[2] === 'undefined' || s_line[2] == "") {
+		result.text = '';
+	}
+	else {
+		result.text = s_line[2].replace(/\/\/n/gi, "\n").replace(/\+/gi, "\n");
+	}
+	return result;
+}
+*/
+function iscontains($str, $str1) {
+	if(strpos($str, $str1 !== false)) {
+		return true;
+	}
+	else {
+		return false;
+	}
+	return false;
+}
 
 //스토리용 인형 이미지 불러오기
 function getcharimgdir($str, $emo) {
@@ -762,7 +868,19 @@ function getcharimgdir($str, $emo) {
 	}
 	
 	//dolls.json에 없는것들 (NPC, 스토리전용 이미지)
-	if($str == "M16") {
+	if($str == "FAMASHalloween") {
+		switch($emo) {
+			case 0: $result = "dolls/69_1"; break;
+			case 1: $result = "dolls/69_1_D"; break;
+		}
+	}
+	else if($str == "AR") {
+		switch($emo) {
+			case 0: $result = ""; break;
+			case 1: $result = ""; break;
+		}
+	}
+	else if($str == "M16") {
 		switch($emo) {
 			case 0: $result = "dolls/54"; break;
 			case 1: $result = "dolls/54_D"; break;
