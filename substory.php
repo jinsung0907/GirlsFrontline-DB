@@ -89,6 +89,11 @@
 							case 3: $strnum = 'three'; break;
 						}
 						foreach($line->character as $char) {
+							if($q == 2606) {
+								if($char == "AR") {
+									continue;
+								}
+							}
 							$strcount = '';
 							switch($i) {
 								case 0: $strcount .= 'first'; break;
