@@ -19478,3 +19478,43 @@ battle_skill_config-111050610,64式小于3
 battle_skill_config-211050610,
 battle_skill_config-311050610,
 battle_skill_config-411050610,
+battle_skill_config-111130101,기선제압N
+battle_skill_config-211130101,야간작전에서 적군 전체 화력을 22% 감소시킨다. (주간 보정치 : 13%)//c 지속시간 5초(주간 보정치 : 3초)
+battle_skill_config-311130101,쿨타임:15초//c화력 감소치:22%//c지속시간:5초
+battle_skill_config-411130101,
+battle_skill_config-111130102,기선제압N
+battle_skill_config-211130102,야간작전에서 적군 전체 화력을 24 감소시킨다. (주간 보정치 : 14%)//c 지속시간 5.3초(주간 보정치 : 3.2초)
+battle_skill_config-311130102,쿨타임:14.7초//c화력 감소치:24%//c지속시간:5.3초
+battle_skill_config-411130102,
+battle_skill_config-111130103,기선제압N
+battle_skill_config-211130103,야간작전에서 적군 전체 화력을 26 감소시킨다. (주간 보정치 : 15%)//c 지속시간 5.7초(주간 보정치 :3.4초).
+battle_skill_config-311130103,쿨타임:14.3초//c화력 감소치:26%//c지속시간:5.7초
+battle_skill_config-411130103,
+battle_skill_config-111130104,기선제압N
+battle_skill_config-211130104,야간작전에서 적군 전체 화력을 28 감소시킨다. (주간 보정치 : 16%)//c 지속시간 6초(주간 보정치 :3.7초).
+battle_skill_config-311130104,쿨타임:14초//c화력 감소치:28%//c지속시간:6초
+battle_skill_config-411130104,
+battle_skill_config-111130105,기선제압N
+battle_skill_config-211130105,야간작전에서 적군 전체 화력을 30 감소시킨다. (주간 보정치 : 17%)//c 지속시간 6.3초(주간 보정치 :3.9초).
+battle_skill_config-311130105,쿨타임:13.7초//c화력 감소치:30%//c지속시간:6.3초
+battle_skill_config-411130105,
+battle_skill_config-111130106,기선제압N
+battle_skill_config-211130106,야간작전에서 적군 전체 화력을 32 감소시킨다. (주간 보정치 : 18%)//c 지속시간 6.7초(주간 보정치 :4.1초).
+battle_skill_config-311130106,쿨타임:13.3초//c화력 감소치:32%//c지속시간:6.7초
+battle_skill_config-411130106,
+battle_skill_config-111130107,기선제압N
+battle_skill_config-211130107,야간작전에서 적군 전체 화력을 34 감소시킨다. (주간 보정치 : 19%)//c 지속시간 7초(주간 보정치 :4.3초).
+battle_skill_config-311130107,쿨타임:13초//c화력 감소치:34%//c지속시간:7초
+battle_skill_config-411130107,
+battle_skill_config-111130108,기선제압N
+battle_skill_config-211130108,야간작전에서 적군 전체 화력을 36 감소시킨다. (주간 보정치 : 20%)//c 지속시간 7.3초(주간 보정치 :4.6초).
+battle_skill_config-311130108,쿨타임:12.7초//c화력 감소치:36%//c지속시간:7.3초
+battle_skill_config-411130108,
+battle_skill_config-111130109,기선제압N
+battle_skill_config-211130109,야간작전에서 적군 전체 화력을 38 감소시킨다. (주간 보정치 : 21%)//c 지속시간 7.7초(주간 보정치 :4.8초).
+battle_skill_config-311130109,쿨타임:12.3초//c화력 감소치:38%//c지속시간:7.7초
+battle_skill_config-411130109,
+battle_skill_config-111130110,기선제압N
+battle_skill_config-211130110,야간작전에서 적군 전체 화력을 40 감소시킨다. (주간 보정치 : 22%)//c 지속시간 8초(주간 보정치 :5초).
+battle_skill_config-311130110,쿨타임:12초//c화력 감소치:40%//c지속시간:8초
+battle_skill_config-411130110,
