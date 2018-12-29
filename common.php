@@ -391,6 +391,12 @@ function getcharimgdir_fairy($str, $emo) {
 	else if($str == "FairyGold") {
 		switch($emo) {
 			case 0: return "fairy/golden_1"; break;
+			case 1: return "fairy/golden_2"; break;
+		}
+	}
+	else if($str == "FairyShield") {
+		switch($emo) {
+			case 0: return "fairy/shield_1"; break;
 		}
 	}
 }
@@ -515,6 +521,7 @@ function getcharimgdir($str, $emo) {
 		
 		if(strtoupper($doll->name) == strtoupper($str)) {
 			$result = $doll->id;
+			$emo = intval($emo);
 			/*
 			if($doll->id > 20000) {
 				$result = $result - 20000 . "_U";
@@ -656,8 +663,8 @@ function getcharimgdir($str, $emo) {
 					case 1: $result = "dolls/" . $result . "_D"; break;
 					case 2: $result = "dolls/" . $result . "_2"; break;
 					case 3: $result = "dolls/" . $result . "_2_D"; break;
-					case 4: $result = "dolls/" . $result . "_1"; break;
-					case 5: $result = "dolls/" . $result . "_1_D"; break;
+					case 4: $result = "dolls/" . $result . "_4"; break;
+					case 5: $result = "dolls/" . $result . "_4_D"; break;
 					case 6: $result = "dolls/" . $result . "_3"; break;
 					case 7: $result = "dolls/" . $result . "_3_D"; break;
 				}
@@ -673,6 +680,8 @@ function getcharimgdir($str, $emo) {
 					case 7: $result = "dolls/" . $result . "_3_D"; break;
 					case 8: $result = "dolls/" . $result . "_4"; break;
 					case 9: $result = "dolls/" . $result . "_4_D"; break;
+					case 10: $result = "dolls/" . $result . "_5"; break;
+					case 11: $result = "dolls/" . $result . "_5_D"; break;
 				}
 			}
 			else if($str == "M1903") {
@@ -860,6 +869,8 @@ function getcharimgdir($str, $emo) {
 					case 7: $result = "dolls/" . $result . "_3_D"; break;
 					case 8: $result = "dolls/" . $result . "_4"; break;
 					case 9: $result = "dolls/" . $result . "_4_D"; break;
+					case 10: $result = "dolls/" . $result . "_5_D"; break;
+					case 11: $result = "dolls/" . $result . "_5_D"; break;
 				}
 			}
 			
