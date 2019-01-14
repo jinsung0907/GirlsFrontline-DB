@@ -448,34 +448,34 @@ mission_skill_config-30001509,命中+27%//c視野+１
 mission_skill_config-10001510,ナイトライト
 mission_skill_config-20001510,夜間戦闘時、2ターン内の各戦闘で全隊の視野+2、命中+30%、持続20秒。
 mission_skill_config-30001510,命中+30%//c視野+2
-mission_skill_config-10001601,ゴールド
+mission_skill_config-10001601,黄金妖精
 mission_skill_config-20001601,運命の啓示が決心を固める。
 mission_skill_config-30001601,次の戦闘で妖精がキラキラと輝く
-mission_skill_config-10001602,ゴールド
+mission_skill_config-10001602,黄金妖精
 mission_skill_config-20001602,運命の啓示が決心を固める。
 mission_skill_config-30001602,次の戦闘で妖精がキラキラと輝く
-mission_skill_config-10001603,ゴールド
+mission_skill_config-10001603,黄金妖精
 mission_skill_config-20001603,運命の啓示が決心を固める。
 mission_skill_config-30001603,次の戦闘で妖精がキラキラと輝く
-mission_skill_config-10001604,ゴールド
+mission_skill_config-10001604,黄金妖精
 mission_skill_config-20001604,運命の啓示が決心を固める。
 mission_skill_config-30001604,次の戦闘で妖精がキラキラと輝く
-mission_skill_config-10001605,ゴールド
+mission_skill_config-10001605,黄金妖精
 mission_skill_config-20001605,運命の啓示が決心を固める。
 mission_skill_config-30001605,次の戦闘で妖精がキラキラと輝く
-mission_skill_config-10001606,ゴールド
+mission_skill_config-10001606,黄金妖精
 mission_skill_config-20001606,運命の啓示が決心を固める。
 mission_skill_config-30001606,次の戦闘で妖精がキラキラと輝く
-mission_skill_config-10001607,ゴールド
+mission_skill_config-10001607,黄金妖精
 mission_skill_config-20001607,運命の啓示が決心を固める。
 mission_skill_config-30001607,次の戦闘で妖精がキラキラと輝く
-mission_skill_config-10001608,ゴールド
+mission_skill_config-10001608,黄金妖精
 mission_skill_config-20001608,運命の啓示が決心を固める。
 mission_skill_config-30001608,次の戦闘で妖精がキラキラと輝く
-mission_skill_config-10001609,ゴールド
+mission_skill_config-10001609,黄金妖精
 mission_skill_config-20001609,運命の啓示が決心を固める。
 mission_skill_config-30001609,次の戦闘で妖精がキラキラと輝く
-mission_skill_config-10001610,ゴールド
+mission_skill_config-10001610,黄金妖精
 mission_skill_config-20001610,運命の啓示が決心を固める。
 mission_skill_config-30001610,次の戦闘で妖精がキラキラと輝く
 mission_skill_config-10100201,八咫の光
@@ -538,3 +538,30 @@ mission_skill_config-30100409,火力上昇：18%、命中上昇：18%、回避�
 mission_skill_config-10100410,I want you
 mission_skill_config-20100410,隣接する敵のいない指定マスに花を撒く//c味方がそこで戦う場合、2ターン内は//c火力、命中、回避、防御力、会心率+20%。
 mission_skill_config-30100410,火力上昇：20%、命中上昇：20%、回避上昇：20%、防御上昇：20%、会心率上昇：20%
+mission_skill_config-10900001,飛行場集結
+mission_skill_config-20900001,支援範囲内の飛行場の効率を上昇させる。
+mission_skill_config-30900001,1
+mission_skill_config-10900002,防空砲
+mission_skill_config-20900002,空域規制
+mission_skill_config-30900002,1
+mission_skill_config-10900003,汚染源
+mission_skill_config-20900003,ダメージを受け
+mission_skill_config-30900003,1
+mission_skill_config-10900004,飛行場集結
+mission_skill_config-20900004,支援範囲内の飛行場の効率を上昇させる。
+mission_skill_config-30900004,1
+mission_skill_config-10900005,飛行場集結
+mission_skill_config-20900005,支援範囲内の飛行場の効率を上昇させる。
+mission_skill_config-30900005,1
+mission_skill_config-10900006,防空砲
+mission_skill_config-20900006,空域規制
+mission_skill_config-30900006,1
+mission_skill_config-10900007,汚染源
+mission_skill_config-20900007,支援小隊を秒殺
+mission_skill_config-30900007,1
+mission_skill_config-10900008,飛行場集結
+mission_skill_config-20900008,支援範囲内の飛行場の効率を上昇させる。
+mission_skill_config-30900008,1
+mission_skill_config-10900009,防空砲
+mission_skill_config-20900009,空域規制
+mission_skill_config-30900009,1
