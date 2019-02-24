@@ -1,0 +1,1 @@
+[{"character":["AN94"],"character_emotion":["0"],"speaker_name":"AN94","speaker":0,"bg":"10","text":"적의 공습이 접근 중.\nM4A1, 내가 신호를 보내면 엄호해라. 날 믿어라.\n【<color=#FE0000FF>AN94의 스킬을 터치해, QTE 성공 시 연속 공습을 피할 수 있습니다.</color>】"}]
