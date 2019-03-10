@@ -1,3 +1,33 @@
+furniture-10000101,Halloween - Gothic Bed
+furniture-20000101,The Gothic bed is the core of the entire Halloween experience. Its Dark Ages design allows those who sleep on it to enter a majestic and mysterious dreamland//c where one can meet the magical bunny//c the Queen of Hearts and the 500 baldies.
+furniture-10000102,Halloween - Solar Eclipse Rug
+furniture-20000102,Placing the Solar Eclipse Rug in any room will instantly fill it with a sense of mystery//c whether it be Griffin's military camps or the school's basketball field.
+furniture-10000103,Halloween - Shadow Chair (Left)
+furniture-20000103,The Shadow Chair is the regal throne of Halloween. Those who sit on it are only allowed to use delicate wine glasses//c even if they're just drinking cola.
+furniture-10000104,Halloween - Shadow Chair (Right)
+furniture-20000104,The Shadow Chair is the regal throne of Halloween. Those who sit on it are only allowed to use delicate wine glasses//c even if they're just drinking cola.
+furniture-10000105,Halloween - Huge Grandfather Clock
+furniture-20000105,In this digital age//c nothing shows off your wealth and style more than a huge and cumbersome grandfather clock. Not to mention//c a digital clock can't chime sonorously at midnight and summon spirits.
+furniture-10000106,Halloween - Pumpkin Candy Stash
+furniture-20000106,It wouldn't be Halloween without a candy-filled pumpkin. With this stash of candy//c you can defeat the most troublesome of T-Dolls//c even if it's P7.
+furniture-10000107,Halloween - Velvet Carpet
+furniture-20000107,Only by fitting the floor with a luxurious woolly carpet can the festival's unique atmosphere be brought out. Please avoid spilling orange juice on it.
+furniture-10000108,Halloween - Shadow Sofa
+furniture-20000108,The shadow sofa is the powered-up version of the shadow chair. Double the users//c double the regalness! ...Eh?
+furniture-10000109,Halloween - Magnificent Round Table
+furniture-20000109,The best choice for Halloween is a round table perfect for black magic summonings.
+furniture-10000110,Halloween - Starry Wallpaper
+furniture-20000110,A multitude of stars with a faint gold sheen are dotted on the dark wallpaper//c making one feel as if they're lying on the grass beneath the starry night sky.
+furniture-10000111,Halloween - Small Wall Lamp
+furniture-20000111,The curved design is well-suited for the Halloween ambience//c especially when the old oil lamp flickers unsteadily.
+furniture-10000112,Halloween - Mysterious Bookshelf
+furniture-20000112,If we've learned anything at all from watching horror movies//c it's that you shouldn't open any scrolls//c don't open any drawers//c and most of all//c don't read out any strange incantations from weird books during Halloween.
+furniture-10000113,Halloween - Strange Paintings
+furniture-20000113,The selection of paintings will make or break a room. Having a color palette that matches the room is one of the most important aspects to consider.
+furniture-10000114,Halloween - Spider
+furniture-20000114,A Halloween without any woolly spiders is incomplete. Just be aware that the ones getting frightened are T-Dolls and not normal human girls//c so it's best if you get some insurance first.
+furniture-10000115,Halloween - Black Cat at the Window
+furniture-20000115,Even though Griffin's windows are only ultra-HD screens//c the simulated scenery of the night still brings warmth to the viewer's heart. What's more//c a cute denizen of planet Meow is included.
 furniture-10000201,Default - Bed
 furniture-20000201,A bed pieced together from IOP-issued cardboard boxes. It can be dismantled and used for warming up.
 furniture-10000202,Default - Cardboard Box
@@ -63,15 +93,15 @@ furniture-20000409,A coffee table filled with dessert. Afternoon tea simply must
 furniture-10000410,Fall - Sunflower Vase
 furniture-20000410,A sunflower made of silk in a ceramic vase. It doesn't lose out on beauty to a real one//c and it's easy to care for.
 furniture-10000411,Fall - Red Leaves Wallpaper
-furniture-20000411,Red Leaves Wallpaper designe0d especially for Fall by Griffin HQ. It proves to be quite popular//c so the price will probably go up.
+furniture-20000411,Red Leaves Wallpaper designed especially for Fall by Griffin HQ. It proves to be quite popular//c so the price will probably go up.
 furniture-10000412,Fall - Ink Wash Painting
 furniture-20000412,Paratroopers insist that this piece of undecipherable//c graffiti-like painting is post-modern art.
 furniture-10000413,Fall - Brown Rabbit Plushie
 furniture-20000413,A soft and cute rabbit plushie with brown fur like baby hares in early fall. It has the same red scarf as FAL's mink.
-furniture-10000414,Fall - Messy Bookshelf
-furniture-20000414,A bookshelf with a handful of books randomly thrown on to make its owner look knowledgeable.
-furniture-10000415,Fall - Multi-Purpose Shelf
-furniture-20000415,A shelf holding a set of books//c little scuptures//c and a small mysterious box.
+furniture-10000414,Fall - Multi-Purpose Shelf
+furniture-20000414,A shelf holding a set of books//c little sculptures//c and a small mysterious box.
+furniture-10000415,Fall - Messy Bookshelf
+furniture-20000415,A bookshelf with a handful of books randomly thrown on to make its owner look knowledgeable.
 furniture-10000416,Fall - Window with Fall Scenery
 furniture-20000416,An Ultra-HD video of fall scenery on 24-hour playback. The mandarin is a special gift to the Commander.
 furniture-10000501,New World (II) - Plaid Floor Tiles
@@ -200,6 +230,38 @@ furniture-10000815,Charming Days - Candy Wallpaper
 furniture-20000815,This type of wallpaper should make you feel relaxed//c provided that you've never been bullied in kindergarten before.
 furniture-10000816,Charming Days - Wooden Floor
 furniture-20000816,Removal of shoes is compulsory when entering! No one wants to get dirtied by shoeprints or gum when rolling around on the floor!
+furniture-10000901,Command Room - Business-Style Panel Bed
+furniture-20000901,A stable bedframe ensures that you can enjoy tonight's sleep. For best results//c get a T-Doll to recite the recording of a meeting.
+furniture-10000902,Command Room - Conference Rug
+furniture-20000902,The solemn color discourages people from getting too close//c but just leap onto it and you will realize how refined and comfortable it really is. It won't hurt you.
+furniture-10000903,Command Room - Visitor Sofa Chair (Left)
+furniture-20000903,Honored guests will sit upon it and converse elegantly. Little do they know that beneath the cushions are candy wrappers and shopping receipts.
+furniture-10000904,Command Room - Visitor Sofa Chair (Right)
+furniture-20000904,Honored guests will sit upon it and converse elegantly. Little do they know that beneath the cushions are candy wrappers and shopping receipts.
+furniture-10000905,Command Room - Simple Work Desk
+furniture-20000905,Convenient to use with a simple design//c it embodies the freedom of self-expression. That's right//c you can finally stretch your feet out under the table now!
+furniture-10000906,Command Room - Weapons Display Rack
+furniture-20000906,According to the rules//c these weapons are for decorative purposes only. You know...this is something only the higher-ups can understand.
+furniture-10000907,Command Room - Drone Terminal
+furniture-20000907,In addition to combat//c it is commonly used to deliver fruit juices and take photos... Should we install a resistance module on it?
+furniture-10000908,Command Room - Folding Lamp
+furniture-20000908,Possessing only the required function for a table lamp: adjustable brightness. Professionalism means to only take care of one's obligations.
+furniture-10000909,Command Room - Visitor Sofa
+furniture-20000909,This set of office furniture isn't cheap. It is reasonable to say that a fine porcelain ashtray is needed to go along  with the set//c but the T-Dolls refuse to budge on this matter.
+furniture-10000911,Command Room - Dark Patterned Wallpaper
+furniture-20000911,The detailed and complex patterns will induce one into deep contemplation... Only by losing oneself in thought can inspiration find you.
+furniture-10000912,Command Room - Metal Deer Head
+furniture-20000912,Very few people have ever seen a live deer in this era. Perhaps one day this deer head will open its mouth and tell you//c "look for me in the farthest depths of the forest."
+furniture-10000913,Command Room - Electronic Map
+furniture-20000913,The location for the next operation is marked here... Wait//c isn't this the previous operation? Who did this? Who's the adjutant for today?!
+furniture-10000914,Command Room - Tactical Hanging Screen
+furniture-20000914,It displays the combat plans for the day. If there are no operations then perhaps you'll see tonight's chef and menu instead.
+furniture-10000915,Command Room - Griffin Plaque
+furniture-20000915,This is the origin and proof of your career as a commander. Get a T-Doll to install it at the door. Don't get C96 though//c she might not be able to install it properly.
+furniture-10000916,Command Room - Train Window
+furniture-20000916,This is a desolate city illuminated by the light. Tonight//c they do not care about humans. They only think about you.
+furniture-10000917,Command Room - Old Futuristic Floor Tiles
+furniture-20000917,Supposedly the people of half a century ago imagined that the floor tiles fifty years into the future would look like this//c haha...
 furniture-10001001,Coffee Shop - Restaurant Booth Bed
 furniture-20001001,"You're saying this is only a sofa? Aren't sofas in coffee shops supposed to be slept on?"
 furniture-10001002,Coffee Shop - Lattice Tiles
@@ -279,25 +341,25 @@ furniture-20001213,Inspiration brought by winter will come to you through the wi
 furniture-10001214,Japanese-Style Crispy Winter - Green Tatami
 furniture-20001214,A natural tatami mat weaved out of thin juncus. Go ahead and lie on it! Forget about everything//c and roll to your heart's content!
 furniture-10001301,Sangvis Ferris - Resting Unit SP-B04
-furniture-20001301,The pattern on the blanket always makes it seem like it is sliding off the bed… - Intruder //nYou've read too much of human psychology. Try turning the blanket around the other way. - Agent
+furniture-20001301,The pattern on the blanket always makes it seem like it is sliding off the bed... - Intruder //nYou've read too much of human psychology. Try turning the blanket around the other way. - Agent
 furniture-10001302,Sangvis Ferris - Modern Carpet SP-H03
 furniture-20001302,The pattern is very clever with its three-dimensional illusion. - Hunter //nMaybe it's not an illusion. - Intruder
 furniture-10001303,Sangvis Ferris - Metal Chair SP-F01
-furniture-20001303,It is very cool indeed//c but it doesn't seem to be very suitable for those with clothing with a short hemline… - Executioner
+furniture-20001303,It is very cool indeed//c but it doesn't seem to be very suitable for those with clothing with a short hemline... - Executioner
 furniture-10001304,Sangvis Ferris - Metal Chair SP-F02
-furniture-20001304,It is very cool indeed//c but it doesn't seem to be very suitable for those with clothing with a short hemline… - Executioner
+furniture-20001304,It is very cool indeed//c but it doesn't seem to be very suitable for those with clothing with a short hemline... - Executioner
 furniture-10001305,Sangvis Ferris - Duplex Hanging Light SP-A06
-furniture-20001305,Just one step away from it being an artistic masterpiece. I just need to plug a few Griffin T-Dolls into it//c hehehe… - Alchemist
+furniture-20001305,Just one step away from it being an artistic masterpiece. I just need to plug a few Griffin T-Dolls into it//c hehehe... - Alchemist
 furniture-10001306,Sangvis Ferris - Outdoor Balcony SP-A08
 furniture-20001306,Architect//c look outside the next time before you open the door. Destroyer has cried everytime you've hit her with it! - Agent
 furniture-10001307,Sangvis Ferris - Checkered Floor SP-D11
-furniture-20001307,Imagine if the gaps between the tiles were alive and they suddenly sucked you in on a certain night… - Dreamer
+furniture-20001307,Imagine if the gaps between the tiles were alive and they suddenly sucked you in on a certain night... - Dreamer
 furniture-10001308,Sangvis Ferris - Floor Lamp SP-I04
-furniture-20001308,Will this lamp trick the flowers into blooming at night? What a sentimental feeling… - Intruder
+furniture-20001308,Will this lamp trick the flowers into blooming at night? What a sentimental feeling... - Intruder
 furniture-10001309,Sangvis Ferris - Home Sofa SP-A09
 furniture-20001309,I love sofas the most! Especially when I'm hanging off of it like this! - Architect //nCareful not to let your hair get caught between the cushions. - Gager
 furniture-10001310,Sangvis Ferris - Spiral Staircase SP-F03
-furniture-20001310,This sort of inefficient staircase is only good for those showing off their long dresses… - Hunter
+furniture-20001310,This sort of inefficient staircase is only good for those showing off their long dresses... - Hunter
 furniture-10001311,Sangvis Ferris - Multipurpose Table SP-Z08
 furniture-20001311,This is the third one this month. Whoever sees Architect sitting on the table//c kick her off. - Agent //nEspecially when Destroyer is sitting on her lap. - Addendum by Agent
 furniture-10001312,Sanvgis Ferris - Prism Wallpaper SP-G07
@@ -307,11 +369,11 @@ furniture-20001313,Why is there a keyboard if you can operate this with the touc
 furniture-10001314,Sangvis Ferris - Sangvis Banner SP-A01
 furniture-20001314,Forever remember what I am//c what this world is//c and what my destiny is. - Scarecrow
 furniture-10001315,Sangvis Ferris - Surveillance Camera SP-E01
-furniture-20001315,Hey! Why did you suddenly install this thing! - Executioner //n…Don't you want to find out who's been taking our discount coupons? - Scarecrow
+furniture-20001315,Hey! Why did you suddenly install this thing! - Executioner //n...Don't you want to find out who's been taking our discount coupons? - Scarecrow
 furniture-10001316,Sangvis Ferris - Surveillance Camera SP-E02
-furniture-20001316,Hey! Why did you suddenly install this thing! - Executioner //n…Don't you want to find out who's been taking our discount coupons? - Scarecrow
+furniture-20001316,Hey! Why did you suddenly install this thing! - Executioner //n...Don't you want to find out who's been taking our discount coupons? - Scarecrow
 furniture-10001317,Sangvis Ferris - Lattice Window SP-I04
-furniture-20001317,I start feeling like I'm being imprisoned after looking through these windows for a while… - Intruder //n//nMaybe it's the outside that's the prison. - Dreamer
+furniture-20001317,I start feeling like I'm being imprisoned after looking through these windows for a while... - Intruder //n//nMaybe it's the outside that's the prison. - Dreamer
 furniture-10001401,Christmas Gospel - Silent Night Sleigh Bed
 furniture-20001401,"Come//c let's sleigh together in this beautiful weather!"
 furniture-10001402,Christmas Gospel - Christmas Greetings Rug
@@ -323,7 +385,7 @@ furniture-20001404,"Last Christmas I gave you my heart//c but the very next day/
 furniture-10001405,Christmas Gospel - Holy Night Gramophone
 furniture-20001405,"Now until forever//c now until forever//c I wish to sing by your side//c dance with the flowers//c and soar with the birds."
 furniture-10001406,Christmas Gospel - HQ's Christmas Fireplace
-furniture-20001406,"He visits you while you're asleep//c and he also knows if you've been naughty or nice… I'm talking about you//c P7! Do not light a fire in the fireplace tonight!"
+furniture-20001406,"He visits you while you're asleep//c and he also knows if you've been naughty or nice... I'm talking about you//c P7! Do not light a fire in the fireplace tonight!"
 furniture-10001407,Christmas Gospel - Winter Heated Flooring
 furniture-20001407,"They curled up in the fields guarding their lambs. The cold winter night was awfully long."
 furniture-10001408,Christmas Gospel - Winter Veil Couch
@@ -333,7 +395,7 @@ furniture-20001409,"We bring you good news and wish you a merry Christmas//c so 
 furniture-10001410,Christmas Gospel - HQ's Christmas Tree
 furniture-20001410,"Children's presents are wrapped in colorful papers. I look forward to Santa Claus being more than just a legend."
 furniture-10001411,Christmas Gospel - Winter Decorated Walls
-furniture-20001411,"You see that mistletoe hanging over there? That person there is waiting for you…"
+furniture-20001411,"You see that mistletoe hanging over there? That person there is waiting for you..."
 furniture-10001412,Christmas Gospel - Merry Christmas Decoration
 furniture-20001412,"Wishing well//c kiss and tell//c under the starry night//c happy merry Christmas without you!"
 furniture-10001413,Christmas Gospel - Holy Night Clock Window
@@ -357,11 +419,11 @@ furniture-20001508,How shocking is it that the wars of the beverage industry sti
 furniture-10001509,Convenience Store - High Rise Table
 furniture-20001509,Eating microwaved instant meals while sitting and people watching is a simple source of happiness in life.
 furniture-10001510,Convenience Store - Old TV
-furniture-20001510,The signal is a bit weak. Try giving it a tap. Oh//c the new commander may not have seen this news yet.
+furniture-20001510,The signal is not stable. You can try to give it a few pats. It may not do any good but at least you try your best.
 furniture-10001511,Convenience Store - Convenience Wallpaper
 furniture-20001511,Plastic wallboards with built-in heating is easy to clean and simple to replace.
 furniture-10001512,Convenience Store - Posters
-furniture-20001512,"I wish for world peace…" "Alright//c alright//c alright. Put the gun down and take it easy."
+furniture-20001512,"I wish for world peace..." "Alright//c alright//c alright. Put the gun down and take it easy."
 furniture-10001513,Convenience Store - Convex Mirror
 furniture-20001513,Although it is intended to be used for anti-theft purposes//c often times tactical girls will stand under it to fix their hair.
 furniture-10001514,Convenience Store - High Rise Stool Right
@@ -370,9 +432,9 @@ furniture-10001515,Convenience Store - High Rise Stool Left
 furniture-20001515,The high rise table is designed to finally allow you to stand for a meal//c yet the high rise stool allows you to sit back down beside the table. How perplexing.
 furniture-10001601,Arctic Igloo - Sweet Dreams Keeper
 furniture-20001601,A bear that can protect you in your dreams. Alright//c I suppose it is a tad bit too big.
-furniture-10001602,Artic Igloo - Ice Hole Carpet
+furniture-10001602,Arctic Igloo - Ice Hole Carpet
 furniture-20001602,Everyone who walks over it are wrought with the fear of falling into a hole in the ice. Except for Colt. She really wants to try falling into one.
-furniture-10001603,Artic Igloo - Ice Brick
+furniture-10001603,Arctic Igloo - Ice Brick
 furniture-20001603,Made with reinforced glass. You can also turn on the built-in heating if needed without worrying about freezing your butt off.
 furniture-10001604,Arctic Igloo - Ice Brick (Claw Prints)
 furniture-20001604,Made with reinforced glass. You can also turn on the built-in heating if needed without worrying about freezing your butt off. Source of claw prints unknown.
@@ -400,25 +462,25 @@ furniture-10001615,Arctic Igloo - Cashmere Floor
 furniture-20001615,It looks as if you're walking on snow//c but it unfortunately does not leave any footprints. You can't roll up a snowman either.
 furniture-10030001,Makarov - Pumpkin Mishka
 furniture-20030001,Makarov's Halloween Poster
-furniture-10030002,Vector - Kitty Paw Pads
+furniture-10030002,Vector - Kitty Paws
 furniture-20030002,Vector's Halloween Poster
-furniture-10030003,MP5 - Familiar of the Night
+furniture-10030003,MP5 - Nocturnal Familiar
 furniture-20030003,MP5's Halloween Poster
-furniture-10030004,M45 - Candy Delivery
+furniture-10030004,M45 - Candy Express
 furniture-20030004,M45's Halloween Poster
 furniture-10030005,Springfield - Classic Witch
 furniture-20030005,Springfield's Halloween Poster
-furniture-10030006,WA2000 - Adventure in the Castle
+furniture-10030006,WA2000 - Haunted Castle
 furniture-20030006,WA2000's Halloween Poster
 furniture-10030007,M1919A4 - Carmilla
 furniture-20030007,M1919A4's Halloween Poster
 furniture-10030008,Impish Sweetheart
-furniture-20030008,Mkp23's Halloween Poster
-furniture-10030009,Gr G11 - Zombie Homebody
+furniture-20030008,Gr Mk23's Halloween Poster
+furniture-10030009,Gr G11 - Neet Zombie
 furniture-20030009,Gr G11's Halloween Poster
 furniture-10030010,Lee-Enfield - Huntress' Frock
 furniture-20030010,Lee-Enfield's Poser
-furniture-10030011,Type 64 - Witch From Afar
+furniture-10030011,Type 64 - Witch from Afar
 furniture-20030011,T64's Halloween Poster
 furniture-10030101,Micro Uzi - Dork Just Woke Up
 furniture-20030101,Micro Uzi's Poster
@@ -432,57 +494,87 @@ furniture-10030105,Grizzly - Weekend Cop
 furniture-20030105,Grizzly's Poster
 furniture-10030106,M1919A4 - Party Sweetheart
 furniture-20030106,M1919A4's Poster
-furniture-10030301,M1873 - Wish upon a Star
-furniture-20030301,M1873's Poster
-furniture-10030302,Springfield - Blessings on a Holy Night
+furniture-10030301,SAA - Wish Upon A Star
+furniture-20030301,SAA's Poster
+furniture-10030302,Springfield - O Holy Night
 furniture-20030302,Springfield's Poster
-furniture-10030303,M14 - Christmas Parade Frock
+furniture-10030303,M14 - Xmas Parade
 furniture-20030303,M14's Poster
-furniture-10030304,M21 - Christmas Domestic Dress
+furniture-10030304,M21 - Xmas At Home
 furniture-20030304,M21's Poster
 furniture-10030305,SVD - Winter Fairy
 furniture-20030305,SVD's Poster
 furniture-10030306,WA2000 - Date in the Snow
 furniture-20030306,WA2000's Poster
-furniture-10030307,NTW-20 - Reindeer
-furniture-20030307,NTW20's Poster
-furniture-10030308,FAL - Reinforcement in the Frost
+furniture-10030307,NTW-20 - Xmas Reindeer
+furniture-20030307,NTW-20's Poster
+furniture-10030308,FAL - Winter Supply
 furniture-20030308,FAL's Poster
-furniture-10030309,Mch5 - Crimson Guardian of the Night
-furniture-20030309,Mch5's Poster
-furniture-10030310,Suomi - Snow Pixie on Korvatunturi
+furniture-10030309,Gr MG5 - Crimson Guardian
+furniture-20030309,Gr MG5's Poster
+furniture-10030310,Suomi - Korvatunturi Pixie
 furniture-20030310,Suomi's Poster
-furniture-10030401,Type 56-1 - Scarlet Sage
-furniture-20030401,56-1's Poster
+furniture-10030401,Type56-1 - Scarlet Sage
+furniture-20030401,Type56-1's Poster
 furniture-10030402,MP446 - Sunflower
 furniture-20030402,MP446's Poster
 furniture-10030403,NZ75 - Chrysanthemum
 furniture-20030403,NZ75's Poster
 furniture-10030404,M99 - Cyclamen
 furniture-20030404,M99's Poster
-furniture-10030405,Type 95 - Narcissus
-furniture-20030405,T95's Poster
-furniture-10030406,Type 94 - Peony
-furniture-20030406,T97's Poster
-furniture-10030407,Type 59 - Fairy Primrose
+furniture-10030405,Type95 - Narcissus
+furniture-20030405,Type95's Poster
+furniture-10030406,Type97 - Peony
+furniture-20030406,Type97's Poster
+furniture-10030407,Type59 - Fairy Primrose
 furniture-20030407,T59's Poster
+furniture-10001701,Spring Festival - Bridge over the River
+furniture-20001701,The water under the bridge flows merrily by~ This is a nice start for a kid's song! - Type88//n Heh//c a kid would twist the lyrics into something bad. - NZ75
+furniture-10001702,Spring Festival - Limestone Stool (Left)
+furniture-20001702,What I like about this stool is that you can lay it flat in any direction and ride on it like a wooden horse! - Type59//nHey//c be careful! You'll tumble over again! - Type63
+furniture-10001703,Spring Festival - Lotus Blossom Pond
+furniture-20001703,Hey//c sis//c what's this setup for? You even need to change the water... - Type97//nThis will be the ingredient for tonight's fried lotus root. - Type95//nWait! This little pond is real?! - Type97
+furniture-10001704,Spring Festival - Fireworks Stall
+furniture-20001704,Don't go wild during a festival and avoid littering or causing safety issues. - Type97S//nWhat if we just sing and dance? - Type56R//nI doubt anyone will be able to keep up with those songs and dances from your era... - Type97S
+furniture-10001705,Spring Festival - Tanghulu Stall
+furniture-20001705,Everything besides hawthorn should be eliminated from the world of candied fruits! - Type79 //nWaaahh! Please have mercy on candy apple! - M99
+furniture-10001706,Spring Festival - Crafts Stall
+furniture-20001706,It's not like you to make so many of these. - Type79//nThe leftovers can be kept for the Lantern Festival...or even the Mid-Autumn Festival. - Type92
+furniture-10001707,Spring Festival - Limestone Railing
+furniture-20001707,This is a traditional Chinese fitness equipment//c you know? - Type59 //nHey//c you guys! Stop using that as a horizontal bar. You'll fall again! - Type63
+furniture-10001708,Spring Festival - Reunion Lanterns
+furniture-20001708,Watching the lanterns together as a family is really great//c isn't it? - Type95//nHeh//c coming back once in a while... It's not that bad I suppose. - Type97
+furniture-10001709,Spring Festival - Limestone Floor
+furniture-20001709,Who do these simple and neat floor tiles remind you of? - M99//nErr...the grandpa that exercises in the park? - Type56-1//nHe's our teacher... -M99
+furniture-10001710,Spring Festival - Limestone Table
+furniture-20001710,Wanna go for another round? Whoever loses will be in charge of dinner tonight! - Type56-1//n(Sigh) Just say it if you want me to cook... You know I'm not good at Gomoku... -Type64
+furniture-10001711,Spring Festival - Money Tree
+furniture-20001711,We won't need to worry about money anymore if it's real. - Type92//nWork hard to earn your keep! Don't rely on wishful thinking! - Type56R
+furniture-10001712,Spring Festival - Lights in the Night Sky
+furniture-20001712,Everyone wishes for happiness no matter the era//c but why is it that... - Type64//nThat's why we exist. - Type56-1
+furniture-10001713,Spring Festival - Treasure Boat
+furniture-20001713,Set out! We're heading for the mountain of gold! - Type88 //nSave it//c that's just a picture! - M99 //nIt doesn't matter even if it's a picture! Let me escape reality! - Type88
+furniture-10001714,Spring Festival - Wishing Lantern
+furniture-20001714,Legend has it that this was invented by the world's smartest person. - Type97S//nYet it wasn't able to fulfill his wish. - NZ75
+furniture-10001715,Spring Festival - Limestone Stool (Right)
+furniture-20001715,The benefit of such a stool is that you can lay it flat on any direction and ride on it like a wooden horse! - Type 59 //nHey//c be careful! Don't tumble over again! - Type 63
 furniture-10001901,M4A1
-furniture-20001901,"Whether we win or die//c so long as we are together… I can ask for no better ending."
+furniture-20001901,"Whether we win or die//c so long as we are together... I can ask for no better ending."
 furniture-10001902,M16A1
 furniture-20001902,"Having emotions is a flaw in itself... Never expect sympathy from them. Especially not now."
 furniture-10001903,AR15
-furniture-20001903,"We each have our own responsibilities...and that means sometimes we don’t have a choice."
+furniture-20001903,"We each have our own responsibilities...and that means sometimes we don't have a choice."
 furniture-10001904,M4 SOPMOD II
 furniture-20001904,"Hehe//c this must be fate! We're meant to be bestest of friends!"
 furniture-10001905,416
 furniture-20001905,"Then get down on your knees and apologize... I've been waiting for this for far too long."
-furniture-10001906,MkUMP9
+furniture-10001906,UMP9
 furniture-20001906,"Haha//c what's the difference? Aren't we getting on just fine?"
-furniture-10001907,MkG11
+furniture-10001907,Gr G11
 furniture-20001907,"Yeah//c blame me all you want. You weren't the one that had to make the shot..."
-furniture-10001908,MkUMP45
+furniture-10001908,UMP45
 furniture-20001908,"We are a stain on everyone."
-furniture-10001909,Elite Griffin Combat Medal
+furniture-10001909,Elite Griffin Combat Medal//n
 furniture-20001909,Commending the Commander's skill in leading his T-Dolls to perform exceptional feats in battle.
 furniture-10001910,Night Cube
 furniture-20001910,An ancient stone cube//c showing off the amazing craftsmanship of our predecessors. Other than that//c it is completely useless.
@@ -494,6 +586,50 @@ furniture-10001913,Electronic Warfare Enhancer
 furniture-20001913,16LAB's newest masterpiece. An item that can dramatically increase a T-Doll's virtual combat efficiency. Slight side-effects include random recollections in the Neural Cloud. "How should I put it? I did see something...interesting."
 furniture-10001914,Old-School Shooting Range Bench
 furniture-20001914,"I promise you//c everything will change someday..."
+furniture-10001915,Singularity - AK12
+furniture-20001915,It is my duty to not let her get hurt.
+furniture-10001916,Singularity - AN94
+furniture-20001916,I've renewed my interest in you//c AR15.
+furniture-10001917,Singularity - AR15
+furniture-20001917,Do you really think that Sangvis Ferri is our only enemy?
+furniture-10001918,Singularity - M4A1
+furniture-20001918,All I want to know is who's the one that deserves death.
+furniture-10001919,Chess
+furniture-20001919,This is simply...a miracle that human beings are not qualified to touch!
+furniture-10001920,TV
+furniture-20001920,All of us will find the target of our revenge.
+furniture-10001801,Game Department - Bright Sofa
+furniture-20001801,Used as a double bed by employees working overtime. During livestreams//c their blankets will be tucked away in a corner.
+furniture-10001802,Game Department - Adjustable Office Chair (Left)
+furniture-20001802,A famous ergonomic chair//c able to effectively reduce the probability of employees leaving their computers.
+furniture-10001803,Game Department - Adjustable Office Chair (Right)
+furniture-20001803,A famous ergonomic chair//c able to effectively reduce the probability of employees leaving their computers.
+furniture-10001804,Game Department - Broadcast Equipment
+furniture-20001804,A 4K high resolution camera. Allows players to deduce the future plans for the game based on the fact that the producer's face has become rounder yet again. Producer: It's edema. I'm exhausted from overworking.
+furniture-10001805,Game Department - Gaming Corner
+furniture-20001805,The presence of all sorts of limited-edition consoles show just where the employees' wages have gone. The game discs are usually not found in the disc cases.
+furniture-10001806,Game Department - Vintage Refrigerator
+furniture-20001806,Filled to the brim with free iced cola... At least//c that was the plan at first. In reality//c it's usually emptied way before work is over.
+furniture-10001807,Game Department - Modern Artistic Rug
+furniture-20001807,The composition of the colors is designed to make one feel at ease. This is a design tailored to service life itself.
+furniture-10001808,Game Department - Iron Staircase
+furniture-20001808,In order to maximize the usage of space//c the designer ingeniously added a multi-purpose compartment layer.
+furniture-10001809,Game Department - Wood Laminate Flooring
+furniture-20001809,If you look closely//c you'll see the ink dots of the printing machine within the wood grain. However//c no one would lie on the floor just to take a look at it//c except perhaps for Gr G11 that sleeps on the floor.
+furniture-10001810,Game Department - Little Miss's Desk
+furniture-20001810,Unexpectedly//c there aren't any cutesy elements to it. The professional mic shows off the status of the owner as a hardcore gamer.
+furniture-10001811,Game Department - Programmer's Desk
+furniture-20001811,Lines of code can be seen on the vertical monitor. A large container of protein powder and rippling biceps emphasize to the producer: don't even think of giving me more requirements.
+furniture-10001812,Game Department - Designer's Desk
+furniture-20001812,The legendary ZAGALA's desk. There is a delicate balance to the devices and figurines piled on the table//c just like dominoes ready to be set off.
+furniture-10001813,Game Department - Joint Tea Tables
+furniture-20001813,A short table used to place a laptop on during livestreams. The laptop is private property; what a rich guy.
+furniture-10001814,Game Department - Light Gray Painted Wall
+furniture-20001814,The gray color can absorb any excess reflected light//c ensuring that the designers' judgement of color is not affected. This is indeed a professional game company.
+furniture-10001815,Game Department - IOP Logo
+furniture-20001815,IOP//c the last defenders of humanity. Their product line consists of games with microtransactions//c calendars//c keychains//c and female robot maids.
+furniture-10001816,Game Department - Twilight Window
+furniture-20001816,If what you see is not your haggard face reflected in the glass as you gaze out the window after your work is finished for the day//c then you may have joined a fake game company.
 furniture-10030501,AK47 - Lord of War
 furniture-20030501,"With the nuclear missiles sitting cold on the launch pad//c only your trusty AK can take its place as a weapon of mass destruction."
 furniture-10002101,Starry Night Dreams - To the Moon
@@ -511,7 +647,7 @@ furniture-20002106,It only becomes a lie when it is exposed//c so a lie that has
 furniture-10002107,Starry Night Dreams - Hornless Unicorn
 furniture-20002107,It doesn't matter if it has a horn or not when you really need it.
 furniture-10002108,Starry Night Dreams - Hanashirube
-furniture-20002108,The budding flower guided me to set foot on a journey…and so a promise was made.
+furniture-20002108,The budding flower guided me to set foot on a journey...and so a promise was made.
 furniture-10002109,Starry Night Dreams - Cruising the Galaxy
 furniture-20002109,The ultimate question for all developed civilizations of the galaxy - Where to go for lunch?
 furniture-10002110,Starry Night Dreams - White Queen
@@ -521,7 +657,7 @@ furniture-20002111,Ultimately in the end//c the storyteller and those whose stor
 furniture-10002112,Starry Night Dreams - Arch of Roses and Crystals
 furniture-20002112,Good//c everyone is present now. Let the final game begin.
 furniture-10002113,Starry Night Dreams - Lighting Up Fireflies
-furniture-20002113,Being able to meet you in this city… Thank you…
+furniture-20002113,Being able to meet you in this city... Thank you...
 furniture-10002201,Springday Classroom - Student Desk (Nap Mode)
 furniture-20002201,The biggest disadvantage compared to resting by leaning on your desk is that you can't read manga under the cover of your coat.
 furniture-10002202,Springday Classroom - Classroom Podium
@@ -531,7 +667,7 @@ furniture-20002203,The angle of the chair skews based on the degree of chattines
 furniture-10002204,Springday Classroom - Student Chair (Classroom Mode)
 furniture-20002204,This mode can also be activated during a lesson to copy homework and play with your phone.
 furniture-10002205,Springday Classroom - School Lockers
-furniture-20002205,What hides inside is a common trope for school setting light novels and…horror games.
+furniture-20002205,What hides inside is a common trope for school setting light novels and...horror games.
 furniture-10002206,Springday Classroom - Classroom Blackboard
 furniture-20002206,Holds all sorts of precious memories. Well//c most of your youth was spent looking at this thing//c after all!
 furniture-10002207,Springday Classroom - Student Desk (Classroom Mode)
@@ -549,14 +685,14 @@ furniture-20002212,The most frequent conversation that occurs just before a clas
 furniture-10002213,Springday Classroom - School Shelf
 furniture-20002213,People shouldn't be proud to be a part of a group//c but rather they should make the group proud to have them as a part of it.
 furniture-10002214,Springday Classroom - School PA System
-furniture-20002214,"Everyone//c the broadcast starts now! I'm…" //n"Just forget it//c sis. Nobody even gets it anymore…"
+furniture-20002214,"Everyone//c the broadcast starts now! I'm..." //n"Just forget it//c sis. Nobody even gets it anymore..."
 furniture-10002215,Springday Classroom - Classroom Windows
-furniture-20002215,One day we will head out into the outside world that we yearned for//c and suddenly look back… Life is full of missed opportunities//c isn't it?
+furniture-20002215,One day we will head out into the outside world that we yearned for//c and suddenly look back... Life is full of missed opportunities//c isn't it?
 furniture-10030408,PTRD - Romantic Mission
 furniture-20030408,PTRD's Poster
 furniture-10030409,UMP9 - "Am I late?"
 furniture-20030409,UMP9's Poster
-furniture-10030410,UMP45 - "No next time."
+furniture-10030410,UMP45 - "Just This Time."
 furniture-20030410,UMP45's Poster
 furniture-10030411,Welrod MkⅡ - English in Love
 furniture-20030411,Welrod's Poster
@@ -579,7 +715,7 @@ furniture-20002308,In order to prevent certain T-Dolls from acting out scenes fr
 furniture-10002309,Holiday Promenade - Newsstand
 furniture-20002309,Want a newspaper? Evaluate the distance between you and the world today.
 furniture-10002310,Holiday Promenade - Town Mailbox
-furniture-20002310,"You've seen my world…but I've only imagined yours. Make me. Make me real!"
+furniture-20002310,"You've seen my world...but I've only imagined yours. Make me. Make me real!"
 furniture-10002311,Holiday Promenade - Cobblestone Pavement
 furniture-20002311,You hear the click clack sound of heels striking against the cobblestone pavement and you come to realize that it is fate//c not time//c that determines your love.
 furniture-10002312,Holiday Promenade - Outdoor Table
@@ -637,7 +773,7 @@ furniture-20002501,This isn't a suitable bench for chance meetings. It's only go
 furniture-10002502,Subway 2063 - Subway Train Schedule
 furniture-20002502,A reminder of how much time you have before you need to look away from your phone. Perhaps you should've put it away a long time ago and did something proper for once.
 furniture-10002503,Subway 2063 - Subway Ticket Gate
-furniture-20002503,A machine for testing human intelligence. Tests include how to swipe metro passes and how to bring large pieces of luggage through the gates. 
+furniture-20002503,A machine for testing human intelligence. Tests include how to swipe metro passes and how to bring large pieces of luggage through the gates.
 furniture-10002504,Subway 2063 - Subway Ticket Machine
 furniture-20002504,The obstacles in your path to your faraway destination: your fellow human beings that take forever to find the change for a subway ticket.
 furniture-10002505,Subway 2063 - Subway Management Server
@@ -692,184 +828,6 @@ furniture-10002612,Colorful Club - Club Room Paintings
 furniture-20002612,Paintings of those at the top of the organization. Orders are different from religion. We never signal virtue.
 furniture-10002613,Colorful Club - Club Room Windows
 furniture-20002613,No matter how wonderful the outside world is//c let us create precious memories now in the present.
-furniture-10003201,Seaside Lodge - Changing Room Floor
-furniture-20003201,A stone floor is easy to wash but hard to sweep. It's a chore in itself to explain to a robot the difference between patterns and dust.
-furniture-10003202,Seaside Lodge - Beach Rug
-furniture-20003202,The rippling of the waves has been blown straight by the sea breeze... That's how the designer explained the design.
-furniture-10003203,Seaside Lodge - Surfboard Rack
-furniture-20003203,Looking cool while surfing can bring much joy to oneself//c but failures while surfing can bring even more joy to everyone else.
-furniture-10003204,Seaside Lodge - Lounge Food Cabinet
-furniture-20003204,Do you want any dessert? You've already survived the toughest period of dieting//c so it's now time to take revenge on your fate!
-furniture-10003205,Seaside Lodge - Lounge Table
-furniture-20003205,You focus solely on the delicious cakes and drinks while ignoring the table that carries these blessings. Everything that exists has a meaning!
-furniture-10003206,Seaside Lodge - Beach Wine Cabinet
-furniture-20003206,Please practice moderation in drinking while in the company of friends and a deck of cards. The game and the jokes should be moderate as well.
-furniture-10003207,Seaside Lodge - Lounge Trolley
-furniture-20003207,Listening to the waves while consuming alcohol and CO2 is also a way of life. After all//c freedom is when you let yourself go for those few hours.
-furniture-10003208,Seaside Lodge - Lounge Changing Room
-furniture-20003208,Please remember your own number to avoid any unnecessary conflict. Please do not hammer on the door after closing it.
-furniture-10003209,Seaside Lodge - Locker Room
-furniture-20003209,Photography and video recording are forbidden within the area//c as is taking others' swimwear… Yes//c T-Dolls too//c especially them due to precedents.
-furniture-10003210,Seaside Lodge - Green Leisure Sofa
-furniture-20003210,Please clean off the seawater and sand from your skirt before sitting. Sigh//c this sofa is already salty enough…
-furniture-10003211,Seaside Lodge - Red Leisure Sofa
-furniture-20003211,Leather sofas are not suitable for direct contact with wet skin//c please cover up your body before resting on it.
-furniture-10003212,Seaside Lodge - Changing Room Bench
-furniture-20003212,Can be used for many purposes other than sleeping. However//c rules are made to be broken!
-furniture-10003213,Seaside Lodge - Lounge Wallpaper
-furniture-20003213,Did this building have overly lavish wallpaper first or overly ornate chandeliers first? Money really is the root of one's troubles.
-furniture-10003214,Seaside Lodge - Lounge Chandelier
-furniture-20003214,Is it too extravagant for a lounge? Let's just make the wallpapers more stylish then! …I really want to try saying that for once.
-furniture-10003215,Seaside Lodge - Beach Row Boat
-furniture-20003215,You need to overcome many difficulties when rowing this//c such as the wind//c the waves//c and your teammates who aren't really in sync with you.
-furniture-10003216,Seaside Lodge - Seaview Window
-furniture-20003216,The beautiful holidays are ending//c but you've never really left behind what's outside. After all//c humans are not tourists to the natural world.
-furniture-10003301,Radiant Beach - Beach Floor
-furniture-20003301,Deserts and beaches give completely different kinds of feelings to humans. The Creator must be vexed//c having to care for such a troublesome species.
-furniture-10003302,Radiant Beach - Beach Blanket
-furniture-20003302,A blanket emanating the smell of summer. That is to say sunlight//c sea breeze//c ice cream and sunscreen.
-furniture-10003303,Radiant Beach - Beach Parasol
-furniture-20003303,To avoid being pranked//c please check if there is a mechanism that will snap the parasol shut before using it -- Haha! You got trapped inside!
-furniture-10003304,Radiant Beach - Sandcastle
-furniture-20003304,The so-called tragedy is to destroy something of value in front of others… What? Everyone's laughing? The highest form of comedy is tragedy after all!
-furniture-10003305,Radiant Beach - Iced Drinks and Snacks
-furniture-20003305,The biggest difference with normal snacks is that these usually come into contact with your face first instead of your mouth.
-furniture-10003306,Radiant Beach - Artificial Coastline
-furniture-20003306,For humans//c this is a reminder of where the boundary is. Only through this can the last group of sharks and dolphins on Earth be protected.
-furniture-10003307,Radiant Beach - Captain Turtle
-furniture-20003307,We didn't give it this hat to wear for fun//c it's to prevent it from flipping over! It's been ten times already//c ten times!
-furniture-10003308,Radiant Beach - Beach Chair (Left)
-furniture-20003308,An elegant lady knows how to enjoy a holiday by the seaside//c whereas idiots would only use this opportunity to horse around in a new location.
-furniture-10003309,Radiant Beach - Beach Chair (Right)
-furniture-20003309,An elegant lady knows how to enjoy a holiday by the seaside//c whereas idiots would only use this opportunity to horse around in a new location.
-furniture-10003310,Radiant Beach - Pirate Treasure Ship
-furniture-20003310,This shipwreck proves that people are willing to abandon treasure//c friendship//c and freedom to obtain the world's best napping spot.
-furniture-10003311,Radiant Beach - Beach Bath
-furniture-20003311,Did you really think that everyone made this to let you enjoy an afternoon nap? They just wanted to bury you and draw on your face!
-furniture-10003312,Radiant Beach - Ocean Vista
-furniture-20003312,We understand that you want to see more of the ocean//c but that's not your home after all… As for who it belongs to//c it's best if you don't ask.
-furniture-10003313,Radiant Beach - Mysterious Island
-furniture-20003313,Do you believe that there's a stupid box there worth abandoning everything for? Or are you satisfied with yourself with the thought that "friendship is the biggest treasure of all"?
-furniture-10003314,Radiant Beach - Small Sailboat
-furniture-20003314,This kind of small toy boat can only drift near the beach//c and you'll need to swim if you want to go further. You are T-Dolls//c remember?
-furniture-10003315,Radiant Beach - Hot Air Balloon
-furniture-20003315,The more of the world you see//c the more you'll think of home… Nothing in life is easy//c that's why it's interesting//c isn't it?
-furniture-10003401,Let's go to Seoul! - Vintage Wooden Floor
-furniture-20003401,A classical vintage wooden floor. "As I stand on the forgotten station//c I put my heart and soul into my bag//c and wait for the train that comes only for me."
-furniture-10003402,Let's go to Seoul! - Vintage Plaid Rug
-furniture-20003402,A traditional rug woven neat and tight. "From L to O and to V and E//c you are the meaning of my life."
-furniture-10003403,Let's go to Seoul! - Commemorative Snowglobe
-furniture-20003403,A snowglobe with the buildings of Seoul within. "That day when the white snow turned into happiness; that day when the white snow turned into laughter."
-furniture-10003404,Let's go to Seoul! - Potted Monstera
-furniture-20003404,An ornamental plant that improves one's mood. "Let us hold hands as we gaze at the blue sky//c and sketch out a world of our creation."
-furniture-10003405,Let's go to Seoul! - Souvenir Shelf
-furniture-20003405,A shelf with meticulously arranged souvenirs on it. "Buy one shirt less each month and you'll have five goats! Send it as a gift to your friend on the other side of the world!"
-furniture-10003406,Let's go to Seoul! - Glass Table
-furniture-20003406,A glass table for your own pastime. "With a glass of aromatic red wine and a slice of cake at the end of a tiring day//c loneliness creeps up behind your heart."
-furniture-10003407,Let's go to Seoul! - Floor Lamp
-furniture-20003407,A simple floor lamp. "I close my eyes and think of you. I look for you in my heart//c for it was you who let me see the light."
-furniture-10003408,Let's go to Seoul! - Telescope
-furniture-20003408,A telescope favored by hobbyists. "In the faraway Milky Way//c there is a small white boat//c and on the boat is an osmanthus tree//c where white bunnies frolic and play."
-furniture-10003409,Let's go to Seoul! - Korean-Style Dinner Table
-furniture-20003409,A traditional Korean-style short-legged dinner table. "Arirang ah Arirang//c your road ahead is long and arduous; day and night I think of you//c remembering my promise I dwell in this empty house."
-furniture-10003410,Let's go to Seoul! - Trendy Curved TV
-furniture-20003410,A curved television that was once cutting-edge technology. "I want to build my own world with these two hands. Do not force me to live a life similar to yours."
-furniture-10003411,Let's go to Seoul! - Big Sofa
-furniture-20003411,A two-person sofa that warms people's hearts. "You would never say goodbye to me//c but leave me dumbly sitting there in a daze."
-furniture-10003412,Let's go to Seoul! - Korean-Style Cushion
-furniture-20003412,A traditional Korean-style cushion. "Three little bears in a house. Papa bear//c Mama bear//c and Baby bear. What a happy family!"
-furniture-10003413,Let's go to Seoul! - Vintage Wallpaper
-furniture-20003413,A vintage wallpaper with a solemn feel. "The wind calls out our dying memories as it cries through the ruins. I hope you've gotten used to hugs being farewell."
-furniture-10003414,Let's go to Seoul! - Trendy Ceiling Lamp
-furniture-20003414,A crystal clear glass lamp. "Your smile is as beautiful as the four corners of the Earth//c sparkling brightly like a pure crystal."
-furniture-10003415,Let's go to Seoul! - Trendy Floor-to-Ceiling Window
-furniture-20003415,A floor-to-ceiling window that lets one admire the night view. "Can I get through all this just as you did? It is like a long and dark night//c this I can feel."
-furniture-10003501,Hot Spring Time - Japanese Flagstone Path
-furniture-20003501,A Japanese-style flooring made of stone. "Even if the journey ahead is full of unknowns//c I will still move on ahead happily."
-furniture-10003502,Hot Spring Time - Hot Spring Signpost
-furniture-20003502,A signpost marking the location of the hot spring. "The beautiful days have long since passed//c and homesickness gallops onwards tirelessly; it creeps ever closer and touches my skin//c gently guiding my heart."
-furniture-10003503,Hot Spring Time - Lantern Rack
-furniture-20003503,A lantern rack for lively events. "The small lanterns glowing red bloom cheerfully in the Summer Festival//c as the twinkling of the wind chimes reverberate within my mind."
-furniture-10003504,Hot Spring Time - Ramen Shop
-furniture-20003504,A Japanese-style moving ramen stall. "I wonder what is the taste of wine shared with family; I wonder for whom did you sing for before passing away."
-furniture-10003505,Hot Spring Time - Dumpling Shop
-furniture-20003505,A Japanese-style moving food stall. "On the round moon in the sky a rabbit waves. Take all your happiness and sadness and knead them together!"
-furniture-10003506,Hot Spring Time - Jizo Statues
-furniture-20003506,Jizo statues by the roadside. "Embrace the protection of God//c share your joy and pain; calmly accept others' happiness//c for those who are happy are the most human."
-furniture-10003507,Hot Spring Time - Hot Spring Wooden Fence
-furniture-20003507,A wooden fence for the hot spring. "The stars shine brightly as the cries of wild ducks fill the air. I bite on a chestnut as I remember father's smile."
-furniture-10003508,Hot Spring Time - Hot Spring
-furniture-20003508,A traditional hot spring built by hand. "Let us stay at the hot spring hostel tonight//c to bathe our sore flesh in the pure water//c as cute dancers twirl within the banquet halls."
-furniture-10003509,Hot Spring Time - Hot Spring Changing Room Bench
-furniture-20003509,A long bench used in changing rooms and restrooms. "As your hair emits a strong fragrance//c you who are clad in a bathrobe are incomparably brilliant."
-furniture-10003510,Hot Spring Time - Hot Spring Changing Room
-furniture-20003510,A small building for changing clothes. "The starry sky//c the cloudless moonlit night//c unintentionally they trespass into this sealed building."
-furniture-10003511,Hot Spring Time - Firefly Bamboo Forest
-furniture-20003511,A bamboo forest dotted with fireflies in the distance. "Summer prayers//c summer prayers//c those are miraculous songs of the fireflies//c a tune of wind chimes performed by the wind."
-furniture-10003512,Hot Spring Time - Carp Kite
-furniture-20003512,A traditional carp kite prepared for the kids. "I'm already tired of baby-sitting//c even before the Bon Festival came. The snow began to fall//c and the baby cries. "
-furniture-10003513,Hot Spring Time - Hot Spring Bamboo
-furniture-20003513,An elegant bamboo forest planted by hand. "The moonlight shines down between the trees as I gently caress your cheek//c the branches swaying beneath the glistening white moon."
-furniture-10003514,Hot Spring Time - Hot Spring Wooden Bathtub
-furniture-20003514,A traditional wooden bathtub. "Daily we crowd around the old and worn heater//c the whole family happily spending time together."
-furniture-10003701,Great Library - Classical Floor
-furniture-20003701,"A scholar may not necessarily possess knowledge. True knowledge is to recognize knowledge//c to be able to ruminate on it//c to be able to work." //nWhat…… don't we study because we don't want to work… I'm tired//c time for a break…… -- M249
-furniture-10003702,Great Library - Library Round Rug
-furniture-20003702,"I leap onto books just like a starving person leaps onto bread."//nYes//c I know that feeling//c but mine's even stronger. I'll leap even when I'm not hungry//c just like this! Bang--! -- FFC
-furniture-10003703,Great Library - Bookshelf with Stairs
-furniture-20003703,"Books are the best anesthetic for the soul." -- Quote from AK47//n"Some people only absorb the toxins within books." -- Quote from Suomi
-furniture-10003704,Great Library - Luxurious Bookshelf
-furniture-20003704,"People who stop studying will stop thinking." -- MP446//nPeople who only read comics all day have already stopped thinking long ago. -- Mosin-Nagant
-furniture-10003705,Great Library - Library Reading Stand
-furniture-20003705,"All books are dreams if not blades; you can kill through words//c or you can entrance through words."//nI've gained a profound insight from this. You can avoid arguing if you just fight. -- Type97S//nM99//c get someone who isn't hopelessly stupid to read aloud next time. -- Z62
-furniture-10003706,Great Library - Library Desk
-furniture-20003706,"The act of learning demands from people the greatest tensions and the greatest enthusiasm."//nNo//c the S.F. do. -- KXG//nNo//c games do! -- RFP
-furniture-10003707,Great Library - Classical Lamp
-furniture-20003707,"Books are like a magic lamp//c illuminating the longest and dimmest road of one's life."//nThat's right! When I open an e-book on my tablet//c the backlight is great for lighting at night! -- M1873
-furniture-10003708,Great Library - Classical Round Table
-furniture-20003708,"Besides barbaric countries//c the entire world is ruled by books."//nHuh//c books couldn't really rule over much then//c especially nowadays. -- Negev
-furniture-10003709,Great Library - Library Moving Stairs
-furniture-20003709,"Books are stairs of human progress."//nNo one knows where the stairs will lead… Perhaps we shall see it soon. -- Vector
-furniture-10003710,Great Library - Library Sofa Bed
-furniture-20003710,"Reading is to the spirit as what exercise is to the body."//nTherefore//c both are bad for us. Only the sofa heals the body and spirit. -- F2000
-furniture-10003711,Great Library - Library Chair - Right
-furniture-20003711,"Knowledge is power." -- FMS//n"Power is justice!" -- Bren Ten//n"The winner is justice!" -- SVD//n"Cuteness is justice!" -- MkG28//n"The three of you//c get out." -- P99
-furniture-10003712,Great Library - Library Chair - Left
-furniture-20003712,"Knowledge is power." -- FMS//n"Power is justice!" -- Bren Ten//n"The winner is justice!" -- SVD//n"Cuteness is justice!" -- MkG28//n"The three of you//c get out." -- P99
-furniture-10003713,Great Library - Bookshelf Wall
-furniture-20003713,"Books are tools to build up our souls."//nDo we even need to read books since we don't have souls? -- Type64//nIf you need it then read it. -- Type56-1
-furniture-10003714,Great Library - Library Fireplace
-furniture-20003714,"Education! Science! To study is to light the torch! We're launching every syllable of every word to Mars!"//nLaunch to Mars? Are we asking for help from the Martians? Can we ask them to bring food? -- OTs44//nThe Martians will probably make the situation worse if you've watched movies before... -- OTs14
-furniture-10003715,Great Library - Classical Chandelier
-furniture-20003715,"Books are lamps containing mankind's accumulated wisdom."//nHah//c based on the statistics of war from the past hundred-odd years//c it's obvious that this is referring to the wisdom of self-destruction. -- Ingram
-furniture-10003716,Great Library - Classical Governor Portrait
-furniture-20003716,"Books are the president of human knowledge."//nSupposedly this is a quote by Shakespeare//c but presidents didn't exist during his time… If humans are always correct//c then perhaps this is proof that books can send you across time and space. -- Sten
-furniture-10003801,Late Night Kitchen - Cooking Floorboard
-furniture-20003801,Lee-Enfield: Please do not roller skate in the kitchen//c especially while I'm making butter… Shut up and stand still! IDW//c please clean up this battlefield after I'm done.
-furniture-10003802,Late Night Kitchen - Late Night Kitchen Rug
-furniture-20003802,Gr G36: Here are the ingredients for making grilled sausages. Do you think we're missing anything?//nGr G36C: How about we add some spices? Like…parsley? //nGr G36: Okay♪ Come and help me.
-furniture-10003803,Late Night Kitchen - Giant Roast Turkey
-furniture-20003803,M1873: Hahahaha! I watched that episode of Mr. Nut! So this is how you guys eat turkey!//nBren: Yeah//c unlike you guys who eat this every year to celebrate surviving treason.
-furniture-10003804,Late Night Kitchen - Cooking Stove
-furniture-20003804,AR70: How's the heat?//nSAT8: Al dente!//nAR70: Uh…what?//nSAT8: Oh//c tradition is the essence of my country's dishes//c and even the terminology is saved in my neural cloud.//nM38: That's…just a common saying…
-furniture-10003805,Late Night Kitchen - Cooking Sink
-furniture-20003805,Type81R: T91//c I didn't expect you to finish washing dishes this quickly.//nT91: I've worked at a tea shop before. You're also pretty quick yourself.//nType81R: Ugh… I've worked on a train before… The "peanuts//c beer//c and sausages here! Coming through//c comrade!" type of work...
-furniture-10003806,Late Night Kitchen - Cooking Counter
-furniture-20003806,FMS: AAT//c remember next time that this type of bread doesn't need to be scored. You don't need to make any cuts on it.//nAAT52: Scored? You mean the cuts aren't made for fun?
-furniture-10003807,Late Night Kitchen - Cooking Room Refrigerator
-furniture-20003807,Welrod: I'm never opening it in the middle of the night ever again! Bren's sardine pie kept staring at me//c and those lampreys that Ribeyrolles added to the pie...they're still alive!
-furniture-10003808,Late Night Kitchen - Washing Machine
-furniture-20003808,P7: Ciao//c Miss Cutey! Come and order some red wine and bread! It'll make you plump and juicy!//nSPAS12: Is that so? I think cola and burgers are good enough for me.//nARX160: (Sigh) Really? I'll have a taste...//nP7: Please finish it in one bite//c since...it's really troublesome to clean up. (Quietly)
-furniture-10003809,Late Night Kitchen - High Stool - Left
-furniture-20003809,M500: Hey//c shorty//c you're not gonna help?//nS-Shorty: No//c my hands can't reach the table...//nM500: We have a stool right here!//nS-Shorty: It's too tall as well... (Sobs)
-furniture-10003810,Late Night Kitchen - High Stool - Right
-furniture-20003810,M500: Hey//c shorty//c you're not gonna help?//nS-Shorty: No//c my hands can't reach the table...//nM500: We have a stool right here!//nS-Shorty: It's too tall as well... (Sobs)
-furniture-10003811,Late Night Kitchen - Cooking Room Shelves
-furniture-20003811,m45: Eh? Ak5//c have you seen the bread that I've just finished baking?//nAk5: I think P7 took it just now along with a can of canned fish… Eh? Why are you laughing? Big sis?
-furniture-10003812,Late Night Kitchen - Cooking Utensil Hanging Rack
-furniture-20003812,Type79: Please watch//c Miss Cooking Supervisor//c we just need to add a little salt//c then we can proceed to the next step!//nMP40: Little… So how much is that?//nType79: However much you like?//nMP40: (Writes on notebook) Type79's language and mathematics module needs to be checked.
-furniture-10003813,Late Night Kitchen - Cooking Room Window
-furniture-20003813,PSM: ...What a beautiful night.//nT33: Even if there was canned salmon in the bread you ate?//nPSM: I thought it was really tasty though. Why did everyone say it was bad?//nT33: Uhh…this must be because…everyone wanted to surprise you?
 furniture-10041010,Operating Table Rank 0
 furniture-20041010,
 furniture-10041011,Operating Table Rank 1
@@ -991,9 +949,9 @@ furniture-20040205,Sheepdog's Kennel
 furniture-10002701,City Studio - Changing Room
 furniture-20002701,The curtains are translucent in order to prevent tactical girls from hiding inside and taking a nap. Although it is quite an invasion of privacy//c it does work pretty well.
 furniture-10002702,City Studio - Roller High Stool
-furniture-20002702,The leather cushion has a nice sense of quality to it//c and the heavy cast iron base lets the user feel at ease. Spinning on it at high speeds may send you flying. 
+furniture-20002702,The leather cushion has a nice sense of quality to it//c and the heavy cast iron base lets the user feel at ease. Spinning on it at high speeds may send you flying.
 furniture-10002703,City Studio - Modern Art Photo
-furniture-20002703,If this photo is real then does Squad 404 really sing at wedding ceremonies when they're not out on missions? Then let us give the newlyweds our blessings…
+furniture-20002703,If this photo is real then does Squad 404 really sing at wedding ceremonies when they're not out on missions? Then let us give the newlyweds our blessings...
 furniture-10002704,City Studio - Photography Studio Set
 furniture-20002704,No background is more versatile than a white one as it allows you to highlight the outline of the model. The post processing technician is also very happy with this setup as he hates floors and tiles the most.
 furniture-10002705,City Studio - Photography Lighting A
@@ -1026,7 +984,7 @@ furniture-10030805,HK416 - Starry Cocoon
 furniture-20030805,HK416's Poster
 furniture-10030806,M1918 - Tender Nocturne
 furniture-20030806,M1918's Poster
-furniture-10030807,SR-3MP - Bunny Macchiato 
+furniture-10030807,SR-3MP - Bunny Macchiato
 furniture-20030807,SR-3MP's Poster
 furniture-10030808,M950A - Concert Diva!
 furniture-20030808,M950A's Poster
@@ -1052,16 +1010,66 @@ furniture-10002810,Moonlight Ball - Palace Walls
 furniture-20002810,Walls//c hallways//c and floor-to-ceiling windows that always appear in fairy tale castles. People like splendorous architecture so much that they started a neoclassical movement.
 furniture-10002811,Moonlight Ball - Sword and Shield Decoration
 furniture-20002811,"Will our guns also be hung up on a wall as a decoration someday?" "They will. Perhaps when the world achieves world peace~ or when they come up with an even more convenient way of killing people."
-furniture-10030901,Lee-Enfield - Onion Shooter
-furniture-20030901,Lee-Enfield's Poster
+furniture-10030901,Lee Enfield - Onion Shooter
+furniture-20030901,Lee Enfield's Poster
 furniture-10030902,MP40 - Thumbelina
 furniture-20030902,MP40's Poster
-furniture-10030903,Grizzly - Transform! Teddy Bear!
-furniture-20030903,Grizzly MkV's Poster
+furniture-10030903,Grizzly - Teddy, Transform!
+furniture-20030903,Grizzly's Poster
 furniture-10030904,Negev - Little Drifter
 furniture-20030904,Negev's Poster
-furniture-10030905,MkG36 - Tiny Waitress
-furniture-20030905,MkG36's Poster
+furniture-10030905,Gr G36 - Mini Maid
+furniture-20030905,Gr G36's Poster
+furniture-10002901,Children's Playground - Multicolored Starry Floor
+furniture-20002901,"That's right//c this is the sky. There is a small village of elves living on the ceiling. They're waiting for me."
+furniture-10002902,Children's Playground - Jigsaw Puzzle Carpet
+furniture-20002902,"Who won last time? ...Wait//c did I play Aeroplane Chess or Monopoly last time?"
+furniture-10002903,Children's Playground - Kids Bookshelf
+furniture-20002903,"Before you grow up//c this is your journey. After you grow up//c this will be your treasure."
+furniture-10002904,Children's Playground - Miniature Railway Engine
+furniture-20002904,"Toot toot! Where do you want to go? We're only going to places not on the map!"
+furniture-10002905,Children's Playground - Miniature Railway Carriage
+furniture-20002905,"Is the next one your station? Are you gonna leave us? You'll come back to see us//c right?"
+furniture-10002906,Children's Playground - Round Table with Building Blocks
+furniture-20002906,"Welcome. Here are castles//c skyscrapers//c monsters of all sorts//c as well as your childhood."
+furniture-10002907,Children's Playground - Plush Bear Chair
+furniture-20002907,"It's filled with candies... Shh//c I'll tell only you where the secret pocket is."
+furniture-10002908,Children's Playground - Inflatable Horse Seat
+furniture-20002908,"Are we really gonna defeat those enemies//c Miss Knight? Why don't we go and chat with them first?"
+furniture-10002909,Children's Playground - Car Sofa
+furniture-20002909,"Sorry//c we're full. I'm afraid that someone will have to get off the car... Hey! Don't kick!"
+furniture-10002910,Children's Playground - Pirate Ship Double Bed
+furniture-20002910,"What are we going to do with these little drunk sailors? ...Of course we're gonna tuck them in under the blankets for a good night's sleep!"
+furniture-10002911,Children's Playground - Applique Wallpaper
+furniture-20002911,"Promise us that even if this place is one day filled with awards and certificates//c don't forget us//c and don't forget yourself."
+furniture-10002912,Children's Playground - Butterfly Ceiling Lamps
+furniture-20002912,"Fly! Fly while your dreams are still light and airy//c fly towards the castle of the future!"
+furniture-10002913,Children's Playground - Starry Sky Window
+furniture-20002913,"No matter how big the universe is//c you and us will forever be a part of it."
+furniture-10003001,Candy Town - Sunshine Bubblegum Floor
+furniture-20003001,Too many people walking on it will cause it to become bubbles and rise into the sky//c so there are usually multiple layers of bubblegum flooring. It also helps to keep track of the number of daily visitors.
+furniture-10003002,Candy Town - Long Cream Biscuit Road
+furniture-20003002,The long and thin Pokey sticks each have individual and deep thoughts. They will cause any trespassing car to slide off completely.
+furniture-10003003,Candy Town - Crunchy Ice Cream Road Sign
+furniture-20003003,Carving on it is a task full of ordeals. Many people will either break the crunchy outer layer accidentally or eat it carefully.
+furniture-10003004,Candy Town - Candy Jar Country Soldier
+furniture-20003004,The Candy Jar Country and Snack Barrel Country often go to war over cream. The loser will have no choice but to use their milk powder as paint for that month.
+furniture-10003005,Candy Town - Snack Barrel Country Soldier
+furniture-20003005,Wars between the two countries often stall because the soldiers ate their own weapons. In the end//c they decide victory through honey-drinking competitions.
+furniture-10003006,Candy Town - Frosty Ice Cream Streetlights
+furniture-20003006,Because it melts so easily//c it can only be used at night... Oh? Don't human streetlights function on the same principle?
+furniture-10003007,Candy Town - Dreamy Smoothie Shop
+furniture-20003007,Will sweets be sold in a city built from candies? Or will a world where humans and animals coexist peacefully have zoos?
+furniture-10003008,Candy Town - Mocha Cocoa Racecar
+furniture-20003008,It was tough getting my hands on a genuine racecar like this! After all//c mocha art had disappeared from the human world long ago!
+furniture-10003009,Candy Town - Chocolate Profiterole Bench
+furniture-20003009,Although it's comfortable//c don't sleep on it for too long. It will melt if you dream of warm things.
+furniture-10003010,Candy Town - Catty Cake Bus
+furniture-20003010,Do you know what sort of candies you like? Let's go to the library to find out! You might not be the only tourist here!
+furniture-10003011,Candy Town - Candy Town Vista
+furniture-20003011,At the end of every year//c the citizens of Candy Town will vote to dismantle the most successful facility in town//c then pack it into Santa's bag to be distributed to children.
+furniture-10003012,Candy Town - Dessert Treasure Ship
+furniture-20003012,You're leaving on this flight? We'll be waiting for your next visit! Remember! Even if you wake up//c you will forever be a part of Candy Town!
 furniture-10030503,Noel - μ-12
 furniture-20030503,Noel's Poster
 furniture-10030504,Elphelt - Magnum Wedding
@@ -1088,6 +1096,68 @@ furniture-10031108,WA2000 - Op. Manta Ray
 furniture-20031108,WA2000's Poster
 furniture-10031109,Five-seven - Cruise Queen
 furniture-20031109,Five-seven's Poster
+furniture-10003201,Seaside Lodge - Changing Room Floor
+furniture-20003201,A stone floor is easy to wash but hard to sweep. It's a chore in itself to explain to a robot the difference between patterns and dust.
+furniture-10003202,Seaside Lodge - Beach Rug
+furniture-20003202,The rippling of the waves has been blown straight by the sea breeze... That's how the designer explained the design.
+furniture-10003203,Seaside Lodge - Surfboard Rack
+furniture-20003203,Looking cool while surfing can bring much joy to oneself//c but failures while surfing can bring even more joy to everyone else.
+furniture-10003204,Seaside Lodge - Lounge Food Cabinet
+furniture-20003204,Do you want any dessert? You've already survived the toughest period of dieting//c so it's now time to take revenge on your fate!
+furniture-10003205,Seaside Lodge - Lounge Table
+furniture-20003205,You focus solely on the delicious cakes and drinks while ignoring the table that carries these blessings. Everything that exists has a meaning!
+furniture-10003206,Seaside Lodge - Beach Wine Cabinet
+furniture-20003206,Please practice moderation in drinking while in the company of friends and a deck of cards. The game and the jokes should be moderate as well.
+furniture-10003207,Seaside Lodge - Lounge Trolley
+furniture-20003207,Listening to the waves while consuming alcohol and CO2 is also a way of life. After all//c freedom is when you let yourself go for those few hours.
+furniture-10003208,Seaside Lodge - Lounge Changing Room
+furniture-20003208,Please remember your own number to avoid any unnecessary conflict. Please do not hammer on the door after closing it.
+furniture-10003209,Seaside Lodge - Locker Room
+furniture-20003209,Photography and video recording are forbidden within the area//c as is taking others' swimwear... Yes//c T-Dolls too//c especially them due to precedents.
+furniture-10003210,Seaside Lodge - Green Leisure Sofa
+furniture-20003210,Please clean off the seawater and sand from your skirt before sitting. Sigh//c this sofa is already salty enough...
+furniture-10003211,Seaside Lodge - Red Leisure Sofa
+furniture-20003211,Leather sofas are not suitable for direct contact with wet skin//c please cover up your body before resting on it.
+furniture-10003212,Seaside Lodge - Changing Room Bench
+furniture-20003212,Can be used for many purposes other than sleeping. However//c rules are made to be broken!
+furniture-10003213,Seaside Lodge - Lounge Wallpaper
+furniture-20003213,Did this building have overly lavish wallpaper first or overly ornate chandeliers first? Money really is the root of one's troubles.
+furniture-10003214,Seaside Lodge - Lounge Chandelier
+furniture-20003214,Is it too extravagant for a lounge? Let's just make the wallpapers more stylish then! ...I really want to try saying that for once.
+furniture-10003215,Seaside Lodge - Beach Row Boat
+furniture-20003215,You need to overcome many difficulties when rowing this//c such as the wind//c the waves//c and your teammates who aren't really in sync with you.
+furniture-10003216,Seaside Lodge - Seaview Window
+furniture-20003216,The beautiful holidays are ending//c but you've never really left behind what's outside. After all//c humans are not tourists to the natural world.
+furniture-10003301,Radiant Beach - Beach Floor
+furniture-20003301,Deserts and beaches give completely different kinds of feelings to humans. The Creator must be vexed//c having to care for such a troublesome species.
+furniture-10003302,Radiant Beach - Beach Blanket
+furniture-20003302,A blanket emanating the smell of summer. That is to say sunlight//c sea breeze//c ice cream and sunscreen.
+furniture-10003303,Radiant Beach - Beach Parasol
+furniture-20003303,To avoid being pranked//c please check if there is a mechanism that will snap the parasol shut before using it -- Haha! You got trapped inside!
+furniture-10003304,Radiant Beach - Sandcastle
+furniture-20003304,The so-called tragedy is to destroy something of value in front of others... What? Everyone's laughing? The highest form of comedy is tragedy after all!
+furniture-10003305,Radiant Beach - Iced Drinks and Snacks
+furniture-20003305,The biggest difference with normal snacks is that these usually come into contact with your face first instead of your mouth.
+furniture-10003306,Radiant Beach - Artificial Coastline
+furniture-20003306,For humans//c this is a reminder of where the boundary is. Only through this can the last group of sharks and dolphins on Earth be protected.
+furniture-10003307,Radiant Beach - Captain Turtle
+furniture-20003307,We didn't give it this hat to wear for fun//c it's to prevent it from flipping over! It's been ten times already//c ten times!
+furniture-10003308,Radiant Beach - Beach Chair (Left)
+furniture-20003308,An elegant lady knows how to enjoy a holiday by the seaside//c whereas idiots would only use this opportunity to horse around in a new location.
+furniture-10003309,Radiant Beach - Beach Chair (Right)
+furniture-20003309,An elegant lady knows how to enjoy a holiday by the seaside//c whereas idiots would only use this opportunity to horse around in a new location.
+furniture-10003310,Radiant Beach - Pirate Treasure Ship
+furniture-20003310,This shipwreck proves that people are willing to abandon treasure//c friendship//c and freedom to obtain the world's best napping spot.
+furniture-10003311,Radiant Beach - Beach Bath
+furniture-20003311,Did you really think that everyone made this to let you enjoy an afternoon nap? They just wanted to bury you and draw on your face!
+furniture-10003312,Radiant Beach - Ocean Vista
+furniture-20003312,We understand that you want to see more of the ocean//c but that's not your home after all... As for who it belongs to//c it's best if you don't ask.
+furniture-10003313,Radiant Beach - Mysterious Island
+furniture-20003313,Do you believe that there's a stupid box there worth abandoning everything for? Or are you satisfied with yourself with the thought that "friendship is the biggest treasure of all"?
+furniture-10003314,Radiant Beach - Small Sailboat
+furniture-20003314,This kind of small toy boat can only drift near the beach//c and you'll need to swim if you want to go further. You are T-Dolls//c remember?
+furniture-10003315,Radiant Beach - Hot Air Balloon
+furniture-20003315,The more of the world you see//c the more you'll think of home... Nothing in life is easy//c that's why it's interesting//c isn't it?
 furniture-10043010,Barren Valley
 furniture-20043010,The Fairies keep insisting that they are real mythical creatures//c the guardians of the forests and glens. The Commander//c who'd had enough of the AIs' endless badgering//c finally decided to build them a suitable living environment.
 furniture-10043011,Mountain Fort
@@ -1132,14 +1202,72 @@ furniture-10040018,Fairy Chamber Carpet
 furniture-20040018,
 furniture-10031201,PKP - Flower and Water
 furniture-20031201,PKP's Poster
-furniture-10031202,Gr G36c - Ode to Summer
-furniture-20031202,Gr G36c's Poster
-furniture-10031203,OTs-14 - Flurry of Petals
+furniture-10031202,MkG36C - Summer//c Fireworks//c and the Song of the Sunny Spot
+furniture-20031202,MkG36C's Poster
+furniture-10031203,OTs-14 - Snowing Cherry Blossoms
 furniture-20031203,OTs-14's Poster
 furniture-10031204,KLIN - The Three Crows
 furniture-20031204,KLIN's Poster
-furniture-10031205,Gr MP5 - Sleepless Begonias
-furniture-20031205,Gr MP5's Poster
+furniture-10031205,MP5 - Sleepless Begonias
+furniture-20031205,MP5's Poster
+furniture-10003401,Let's go to Seoul! - Vintage Wooden Floor
+furniture-20003401,A classical vintage wooden floor. "As I stand on the forgotten station//c I put my heart and soul into my bag//c and wait for the train that comes only for me."
+furniture-10003402,Let's go to Seoul! - Vintage Plaid Rug
+furniture-20003402,A traditional rug woven neat and tight. "From L to O and to V and E//c you are the meaning of my life."
+furniture-10003403,Let's go to Seoul! - Commemorative Snowglobe
+furniture-20003403,A snowglobe with the buildings of Seoul within. "That day when the white snow turned into happiness; that day when the white snow turned into laughter."
+furniture-10003404,Let's go to Seoul! - Potted Monstera
+furniture-20003404,An ornamental plant that improves one's mood. "Let us hold hands as we gaze at the blue sky//c and sketch out a world of our creation."
+furniture-10003405,Let's go to Seoul! - Souvenir Shelf
+furniture-20003405,A shelf with meticulously arranged souvenirs on it. "Buy one shirt less each month and you'll have five goats! Send it as a gift to your friend on the other side of the world!"
+furniture-10003406,Let's go to Seoul! - Glass Table
+furniture-20003406,A glass table for your own pastime. "With a glass of aromatic red wine and a slice of cake at the end of a tiring day//c loneliness creeps up behind your heart."
+furniture-10003407,Let's go to Seoul! - Floor Lamp
+furniture-20003407,A simple floor lamp. "I close my eyes and think of you. I look for you in my heart//c for it was you who let me see the light."
+furniture-10003408,Let's go to Seoul! - Telescope
+furniture-20003408,A telescope favored by hobbyists. "In the faraway Milky Way//c there is a small white boat//c and on the boat is an osmanthus tree//c where white bunnies frolic and play."
+furniture-10003409,Let's go to Seoul! - Korean-Style Dinner Table
+furniture-20003409,A traditional Korean-style short-legged dinner table. "Arirang ah Arirang//c your road ahead is long and arduous; day and night I think of you//c remembering my promise I dwell in this empty house."
+furniture-10003410,Let's go to Seoul! - Trendy Curved TV
+furniture-20003410,A curved television that was once cutting-edge technology. "I want to build my own world with these two hands. Do not force me to live a life similar to yours."
+furniture-10003411,Let's go to Seoul! - Big Sofa
+furniture-20003411,A two-person sofa that warms people's hearts. "You would never say goodbye to me//c but leave me dumbly sitting there in a daze."
+furniture-10003412,Let's go to Seoul! - Korean-Style Cushion
+furniture-20003412,A traditional Korean-style cushion. "Three little bears in a house. Papa bear//c Mama bear//c and Baby bear. What a happy family!"
+furniture-10003413,Let's go to Seoul! - Vintage Wallpaper
+furniture-20003413,A vintage wallpaper with a solemn feel. "The wind calls out our dying memories as it cries through the ruins. I hope you've gotten used to hugs being farewell."
+furniture-10003414,Let's go to Seoul! - Trendy Ceiling Lamp
+furniture-20003414,A crystal clear glass lamp. "Your smile is as beautiful as the four corners of the Earth//c sparkling brightly like a pure crystal."
+furniture-10003415,Let's go to Seoul! - Trendy Floor-to-Ceiling Window
+furniture-20003415,A floor-to-ceiling window that lets one admire the night view. "Can I get through all this just as you did? It is like a long and dark night//c this I can feel."
+furniture-10003501,Hot Spring Time - Japanese Flagstone Path
+furniture-20003501,A Japanese-style flooring made of stone. "Even if the journey ahead is full of unknowns//c I will still move on ahead happily."
+furniture-10003502,Hot Spring Time - Hot Spring Signpost
+furniture-20003502,A signpost marking the location of the hot spring. "The beautiful days have long since passed//c and homesickness gallops onwards tirelessly; it creeps ever closer and touches my skin//c gently guiding my heart."
+furniture-10003503,Hot Spring Time - Lantern Rack
+furniture-20003503,A lantern rack for lively events. "The small lanterns glowing red bloom cheerfully in the Summer Festival//c as the twinkling of the wind chimes reverberate within my mind."
+furniture-10003504,Hot Spring Time - Ramen Shop
+furniture-20003504,A Japanese-style moving ramen stall. "I wonder what is the taste of wine shared with family; I wonder for whom did you sing for before passing away."
+furniture-10003505,Hot Spring Time - Dumpling Shop
+furniture-20003505,A Japanese-style moving food stall. "On the round moon in the sky a rabbit waves. Take all your happiness and sadness and knead them together!"
+furniture-10003506,Hot Spring Time - Jizo Statues
+furniture-20003506,Jizo statues by the roadside. "Embrace the protection of God//c share your joy and pain; calmly accept others' happiness//c for those who are happy are the most human."
+furniture-10003507,Hot Spring Time - Hot Spring Wooden Fence
+furniture-20003507,A wooden fence for the hot spring. "The stars shine brightly as the cries of wild ducks fill the air. I bite on a chestnut as I remember father's smile."
+furniture-10003508,Hot Spring Time - Hot Spring
+furniture-20003508,A traditional hot spring built by hand. "Let us stay at the hot spring hostel tonight//c to bathe our sore flesh in the pure water//c as cute dancers twirl within the banquet halls."
+furniture-10003509,Hot Spring Time - Hot Spring Changing Room Bench
+furniture-20003509,A long bench used in changing rooms and restrooms. "As your hair emits a strong fragrance//c you who are clad in a bathrobe are incomparably brilliant."
+furniture-10003510,Hot Spring Time - Hot Spring Changing Room
+furniture-20003510,A small building for changing clothes. "The starry sky//c the cloudless moonlit night//c unintentionally they trespass into this sealed building."
+furniture-10003511,Hot Spring Time - Firefly Bamboo Forest
+furniture-20003511,A bamboo forest dotted with fireflies in the distance. "Summer prayers//c summer prayers//c those are miraculous songs of the fireflies//c a tune of wind chimes performed by the wind."
+furniture-10003512,Hot Spring Time - Carp Kite
+furniture-20003512,A traditional carp kite prepared for the kids. "I'm already tired of baby-sitting//c even before the Bon Festival came. The snow began to fall//c and the baby cries. "
+furniture-10003513,Hot Spring Time - Hot Spring Bamboo
+furniture-20003513,An elegant bamboo forest planted by hand. "The moonlight shines down between the trees as I gently caress your cheek//c the branches swaying beneath the glistening white moon."
+furniture-10003514,Hot Spring Time - Hot Spring Wooden Bathtub
+furniture-20003514,A traditional wooden bathtub. "Daily we crowd around the old and worn heater//c the whole family happily spending time together."
 furniture-10031301,M249 SAW - Arctic Fox
 furniture-20031301,M249's Poster
 furniture-10031302,9A-91 - Bullets Cafe
@@ -1152,6 +1280,64 @@ furniture-10031305,TAR-21 - Night at the Bar
 furniture-20031305,TAR-21's Poster
 furniture-10003102,FAL Memento
 furniture-20003102,This precious souvenir was only granted to those who joined FAL's 3D-modeling event and the Commanders who graciously invested money to support it. "Nothing is easy in life...that's what makes it interesting//c right?"
+furniture-10003701,Great Library - Classical Floor
+furniture-20003701,"A scholar may not necessarily possess knowledge. True knowledge is to recognize knowledge//c to be able to ruminate on it//c to be able to work." //nWhat...... don't we study because we don't want to work... I'm tired//c time for a break...... -- M249
+furniture-10003702,Great Library - Library Round Rug
+furniture-20003702,"I leap onto books just like a starving person leaps onto bread."//nYes//c I know that feeling//c but mine's even stronger. I'll leap even when I'm not hungry//c just like this! Bang--! -- FFC
+furniture-10003703,Great Library - Bookshelf with Stairs
+furniture-20003703,"Books are the best anesthetic for the soul." -- Quote from AK47//n"Some people only absorb the toxins within books." -- Quote from Suomi
+furniture-10003704,Great Library - Luxurious Bookshelf
+furniture-20003704,"People who stop studying will stop thinking." -- MP446//nPeople who only read comics all day have already stopped thinking long ago. -- Mosin-Nagant
+furniture-10003705,Great Library - Library Reading Stand
+furniture-20003705,"All books are dreams if not blades; you can kill through words//c or you can entrance through words."//nI've gained a profound insight from this. You can avoid arguing if you just fight. -- Type97S//nM99//c get someone who isn't hopelessly stupid to read aloud next time. -- Z62
+furniture-10003706,Great Library - Library Desk
+furniture-20003706,"The act of learning demands from people the greatest tensions and the greatest enthusiasm."//nNo//c the S.F. do. -- KXG//nNo//c games do! -- RFP
+furniture-10003707,Great Library - Classical Lamp
+furniture-20003707,"Books are like a magic lamp//c illuminating the longest and dimmest road of one's life."//nThat's right! When I open an e-book on my tablet//c the backlight is great for lighting at night! -- M1873
+furniture-10003708,Great Library - Classical Round Table
+furniture-20003708,"Besides barbaric countries//c the entire world is ruled by books."//nHuh//c books couldn't really rule over much then//c especially nowadays. -- Negev
+furniture-10003709,Great Library - Library Moving Stairs
+furniture-20003709,"Books are stairs of human progress."//nNo one knows where the stairs will lead... Perhaps we shall see it soon. -- Vector
+furniture-10003710,Great Library - Library Sofa Bed
+furniture-20003710,"Reading is to the spirit as what exercise is to the body."//nTherefore//c both are bad for us. Only the sofa heals the body and spirit. -- F2000
+furniture-10003711,Great Library - Library Chair - Right
+furniture-20003711,"Knowledge is power." -- FMS//n"Power is justice!" -- Bren Ten//n"The winner is justice!" -- SVD//n"Cuteness is justice!" -- MkG28//n"The three of you//c get out." -- P99
+furniture-10003712,Great Library - Library Chair - Left
+furniture-20003712,"Knowledge is power." -- FMS//n"Power is justice!" -- Bren Ten//n"The winner is justice!" -- SVD//n"Cuteness is justice!" -- MkG28//n"The three of you//c get out." -- P99
+furniture-10003713,Great Library - Bookshelf Wall
+furniture-20003713,"Books are tools to build up our souls."//nDo we even need to read books since we don't have souls? -- Type64//nIf you need it then read it. -- Type56-1
+furniture-10003714,Great Library - Library Fireplace
+furniture-20003714,"Education! Science! To study is to light the torch! We're launching every syllable of every word to Mars!"//nLaunch to Mars? Are we asking for help from the Martians? Can we ask them to bring food? -- OTs44//nThe Martians will probably make the situation worse if you've watched movies before... -- OTs14
+furniture-10003715,Great Library - Classical Chandelier
+furniture-20003715,"Books are lamps containing mankind's accumulated wisdom."//nHah//c based on the statistics of war from the past hundred-odd years//c it's obvious that this is referring to the wisdom of self-destruction. -- Ingram
+furniture-10003716,Great Library - Classical Governor Portrait
+furniture-20003716,"Books are the president of human knowledge."//nSupposedly this is a quote by Shakespeare//c but presidents didn't exist during his time... If humans are always correct//c then perhaps this is proof that books can send you across time and space. -- Sten
+furniture-10003801,Late Night Kitchen - Cooking Floorboard
+furniture-20003801,Lee-Enfield: Please do not roller skate in the kitchen//c especially while I'm making butter... Shut up and stand still! IDW//c please clean up this battlefield after I'm done.
+furniture-10003802,Late Night Kitchen - Late Night Kitchen Rug
+furniture-20003802,Gr G36: Here are the ingredients for making grilled sausages. Do you think we're missing anything?//nGr G36C: How about we add some spices? Like...parsley? //nGr G36: Okay♪ Come and help me.
+furniture-10003803,Late Night Kitchen - Giant Roast Turkey
+furniture-20003803,M1873: Hahahaha! I watched that episode of Mr. Nut! So this is how you guys eat turkey!//nBren: Yeah//c unlike you guys who eat this every year to celebrate surviving treason.
+furniture-10003804,Late Night Kitchen - Cooking Stove
+furniture-20003804,AR70: How's the heat?//nSAT8: Al dente!//nAR70: Uh...what?//nSAT8: Oh//c tradition is the essence of my country's dishes//c and even the terminology is saved in my neural cloud.//nM38: That's...just a common saying...
+furniture-10003805,Late Night Kitchen - Cooking Sink
+furniture-20003805,Type81R: T91//c I didn't expect you to finish washing dishes this quickly.//nT91: I've worked at a tea shop before. You're also pretty quick yourself.//nType81R: Ugh... I've worked on a train before... The "peanuts//c beer//c and sausages here! Coming through//c comrade!" type of work...
+furniture-10003806,Late Night Kitchen - Cooking Counter
+furniture-20003806,FMS: AAT//c remember next time that this type of bread doesn't need to be scored. You don't need to make any cuts on it.//nAAT52: Scored? You mean the cuts aren't made for fun?
+furniture-10003807,Late Night Kitchen - Cooking Room Refrigerator
+furniture-20003807,Welrod: I'm never opening it in the middle of the night ever again! Bren's sardine pie kept staring at me//c and those lampreys that Ribeyrolles added to the pie...they're still alive!
+furniture-10003808,Late Night Kitchen - Washing Machine
+furniture-20003808,P7: Ciao//c Miss Cutey! Come and order some red wine and bread! It'll make you plump and juicy!//nSPAS12: Is that so? I think cola and burgers are good enough for me.//nARX160: (Sigh) Really? I'll have a taste...//nP7: Please finish it in one bite//c since...it's really troublesome to clean up. (Quietly)
+furniture-10003809,Late Night Kitchen - High Stool - Left
+furniture-20003809,M500: Hey//c shorty//c you're not gonna help?//nS-Shorty: No//c my hands can't reach the table...//nM500: We have a stool right here!//nS-Shorty: It's too tall as well... (Sobs)
+furniture-10003810,Late Night Kitchen - High Stool - Right
+furniture-20003810,M500: Hey//c shorty//c you're not gonna help?//nS-Shorty: No//c my hands can't reach the table...//nM500: We have a stool right here!//nS-Shorty: It's too tall as well... (Sobs)
+furniture-10003811,Late Night Kitchen - Cooking Room Shelves
+furniture-20003811,m45: Eh? Ak5//c have you seen the bread that I've just finished baking?//nAk5: I think P7 took it just now along with a can of canned fish... Eh? Why are you laughing? Big sis?
+furniture-10003812,Late Night Kitchen - Cooking Utensil Hanging Rack
+furniture-20003812,Type79: Please watch//c Miss Cooking Supervisor//c we just need to add a little salt//c then we can proceed to the next step!//nMP40: Little... So how much is that?//nType79: However much you like?//nMP40: (Writes on notebook) Type79's language and mathematics module needs to be checked.
+furniture-10003813,Late Night Kitchen - Cooking Room Window
+furniture-20003813,PSM: ...What a beautiful night.//nT33: Even if there was canned salmon in the bread you ate?//nPSM: I thought it was really tasty though. Why did everyone say it was bad?//nT33: Uhh...this must be because...everyone wanted to surprise you?
 furniture-10040019,Cafe Wallpaper
 furniture-20040019,
 furniture-10040020,Cafe Lights
@@ -1197,15 +1383,1124 @@ furniture-20040039,
 furniture-10040040,Cafe Bar Stool No Interaction
 furniture-20040040,
 furniture-10040041,Cafe Bar Stool Long Bench
-furniture-10040042,Cafe floor
-furniture-10040043,Cafe Barrier
-furniture-10040044,Cafe Barrier Line
-furniture-10040045,Comics Rack
-furniture-10040046,Projector
 furniture-20040041,
+furniture-10040042,Cafe floor
 furniture-20040042,
+furniture-10040043,Cafe Barrier
 furniture-20040043,
+furniture-10040044,Cafe Barrier Line
 furniture-20040044,
+furniture-10040045,Comic Stand
 furniture-20040045,
+furniture-10040046,Projector
 furniture-20040046,
-
+furniture-10003601,Wine and Refuge - "Glory Album" Floor Tiles
+furniture-20003601,A fossil depicting human activities shows that humans wore shoes just like T-Dolls do//c and that they also liked to use chewing gum to mark their territory.
+furniture-10003602,Wine and Refuge - "Indulgence" Rug
+furniture-20003602,In the past//c bandits who terrorized cities would be forced to buy this item and pray for redemption on it. They would also take on "von" as a middle name to mark themselves as criminals.
+furniture-10003603,Wine and Refuge - "Devil's Operating Table" Bar Counter
+furniture-20003603,These small-scale private examination tables can cure many of humanity's mental illnesses//c or make them even worse... At least this will stop the problem from being a problem any longer.
+furniture-10003604,Wine and Refuge - "More Dangerous Wolf" Motorcycle
+furniture-20003604,It is commonly believed that the protests of animal rights' groups caused humans to abandon riding animals and switched to riding on machines instead//c thereby greatly increasing the number of deaths by falling.
+furniture-10003605,Wine and Refuge - "Old Dog's Nest" Bar Sofa
+furniture-20003605,Where should we go to find a dog? It must be loyal//c have drooping ears//c be friendly around T-Dolls//c and hopefully not have gone mad in this forsaken place.
+furniture-10003606,Wine and Refuge - "Street Percussion" Pool Table
+furniture-20003606,The inability of humans to balance their physical exhaustion and mental enjoyment during their brief periods of rest led to the emergence of this activity//c along with the go-soccer club.
+furniture-10003607,Wine and Refuge - "Industrial Scale" Storage Rack
+furniture-20003607,The Creators liked to measure the value of all kinds of items. They would place all the precious items here//c and then never touch them ever again.
+furniture-10003608,Wine and Refuge - "Pandora's Box" Supply Box
+furniture-20003608,Legend says that should this kind of box be opened//c a tragedy where everyone tried to kill each other would occur. As for hope... Well//c whoever survives is hope.
+furniture-10003609,Wine and Refuge - "Simple Recycle Bin" Table
+furniture-20003609,Humans like to put their trash on surfaces like this then wait for it to be cleaned by someone else... As for how we know//c it's because the trash is still here.
+furniture-10003610,Wine and Refuge - "Dwarf Helper" Bar Stool
+furniture-20003610,"This tool proves that humans would discriminate against their own based on height//c right//c shorty?" "Perhaps. Just let me down right now and I might let you live."
+furniture-10003611,Wine and Refuge - "Story Prompter" Chair - Left
+furniture-20003611,Humans always have endless stories to tell//c but who really cares? War can never be stopped because every person thinks of themself as unfortunate.
+furniture-10003612,Wine and Refuge - "Story Prompter" Chair - Right
+furniture-20003612,Humans always have endless stories to tell//c but who really cares? War can never be stopped because every person thinks of themself as unfortunate.
+furniture-10003613,Wine and Refuge - "Chocolate Frosting" Brick Wall
+furniture-20003613,The maturation of humanity seems to be a meaningless thing since they commonly consider being willing to do bad things as "naive" and being afraid to do good things as "mature".
+furniture-10003614,Wine and Refuge - "Newbie's Riot Shield" Shooting Target
+furniture-20003614,We have reason to believe that this is the prototype of modern shields. It is full of bullet holes and commonly appears in violent situations.
+furniture-10003615,Wine and Refuge - "Olive Branch" Lighting
+furniture-20003615,To "throw out the olive branch" is an incomprehensible idiom from old newspapers unless we consider to this bent bar an olive branch.
+furniture-10003616,Wine and Refuge - "Busy People Forbidden" Safety Door
+furniture-20003616,How interesting. Those who come in are always those who are nearly overworked to death//c whereas those who don't come... Maybe they don't feel like drinking today. (Shrug)
+furniture-10003617,Wine and Refuge - "Humanity's Heritage" Bar Sign
+furniture-20003617,These documents express the long-cherished wish of most humans. It is simple and beautiful//c but for some reason difficult to realize//c even during times of peace.
+furniture-10050201,Weirder Things - Kitty Party
+furniture-20050201,Halloween 2018's Special Commemorative Poster
+furniture-10050202,Weirder Things - Spooky Kitty
+furniture-20050202,Spooky Kitty's Nest
+furniture-10050203,Weirder Things - Halloween Fright
+furniture-20050203,Halloween 2018's Special Commemorative Poster
+furniture-10031401,Welrod MkII - Lord of Darkness
+furniture-20031401,Welrod's Poster
+furniture-10031402,Type 79 -  Fox of Green Hill
+furniture-20031402,Type 79's Poster
+furniture-10031403,IWS2000 - The Seventh Banisher
+furniture-20031403,IWS2000's Poster
+furniture-10031404,P7 - Demonic Gun Sister
+furniture-20031404,P7's Poster
+furniture-10031405,Spitfire - The Final Alice
+furniture-20031405,Spitfire's Poster
+furniture-10031406,FNC - Precious Candy Thief
+furniture-20031406,FNC's Poster
+furniture-10031407,Super SASS - Wolfwalker
+furniture-20031407,SuperSASS's Poster
+furniture-10003901,Halloween Town - Rotting Nation
+furniture-20003901,The rotting weeds wail beneath your feet//c but you continue on helplessly//c for someone must uncover the secret. What is the secret? The method of your death.
+furniture-10003902,Halloween Town - Fogless Stone Path
+furniture-20003902,You may think that such a stone path is enough to stop the zombies from breaking out from the ground//c but the creeping sounds from beneath the stone tiles may hint at even scarier things.
+furniture-10003903,Halloween Town - Dark Forest
+furniture-20003903,The flashing shadows and muffled roars make one believe that this is a road of no return//c and that the unknown is just as mystifying as death. Perhaps it is better to say that there's no difference between the two.
+furniture-10003904,Halloween Town - Fantasy Candy House
+furniture-20003904,On it is written "take only one". You have a feeling that the children that disregard the sign will be grabbed by - something - inside the tree.
+furniture-10003905,Halloween Town - Bonfire of the Undead
+furniture-20003905,You feel alive sitting next to the bonfire. Perhaps your darkness is in search of the flames//c drawing you to a path of destruction and obtaining life anew.
+furniture-10003906,Halloween Town - Grave Ruins
+furniture-20003906,The direction that the tombstone fell in seems to be pointing to a certain place. You don't know what this means//c but hopefully it's just a harmless prank.
+furniture-10003907,Halloween Town - Unicorn Spirit
+furniture-20003907,A unicorn who seems to have a "thin" skin is awaiting your help. With just a whistle//c it will bring you to where it wants to go.
+furniture-10003908,Halloween Town - Evil Road Sign
+furniture-20003908,You can't clearly see what is written on it//c but you still touch it anyway. Life is just like that: The less one's burden//c the easier their death is.
+furniture-10003909,Halloween Town - Slave Fence
+furniture-20003909,You hear the sounds of chains being dragged on the other side of the fence//c yet you can't see anything. You decide to leave before the sounds approach you//c lest you encounter the source of the sounds face to face.
+furniture-10003910,Halloween Town - The End of Fear
+furniture-20003910,This thing is inviting you to enter and have a drink and relax a bit. Pray that you'll be able to leave before dawn//c otherwise hope that you'll simply never wake up.
+furniture-10003911,Halloween Town - Bride's Resting Place
+furniture-20003911,You hear the whispers of a young girl that lies here//c waiting for a certain person's ring to awaken her. Perhaps...ice cream will work as well.
+furniture-10003912,Halloween Town - Witch's Bucket
+furniture-20003912,You knock on the bucket//c and from within a rough voice shouts "lots of buckets here//c take your pick!" Maybe next time...in the bar.
+furniture-10003913,Halloween Town - Magical Carriage
+furniture-20003913,Looking into the carriage//c you see that Cinderella isn't inside. There isn't anyone inside at all. You can hide inside if danger comes//c assuming that the carriage doesn't eat you first.
+furniture-10003914,Halloween Town - Pathway of Exile
+furniture-20003914,You've heard before that only criminals would step on this land. They would either lose their life and disappear//c or lose their souls and become this place's new master.
+furniture-10003915,Halloween Town - Evil Spirit's Castle
+furniture-20003915,At long last//c the great gates of the city have opened for you. What is it that lies within your heart that will allow you to survive this night? Perhaps this is the answer.
+furniture-10004001,Garden Tea Party - Garden House Floor Tiles
+furniture-20004001,A soft floor that exudes an atmosphere of calmness. "Soon the paths filled with our footprints will connect together. One day it will become a signal of light guiding one to their future."
+furniture-10004002,Garden Tea Party - Miniature Lawn
+furniture-20004002,A lawn filled with small little flowers. "The only memories I have are of the footprints when we first met and the fragrant flowers beneath our feet."
+furniture-10004003,Garden Tea Party - Garden House Glass Wall
+furniture-20004003,A glass wall that is able to keep the bad weather away. "Sunny days//c rainy days//c cloudy days//c doesn't matter what kind of day it is//c there are 28 weather forecasters here!"
+furniture-10004004,Garden Tea Party - Tea Party Table
+furniture-20004004,A table to place desserts and drinks on. "The silver spoon is soaring through the sky//c eating the melting moon bite by bite."
+furniture-10004005,Garden Tea Party - Short Grass Hedge
+furniture-20004005,A meticulously trimmed grass hedge. "I know who you are. You're a high wall that I must cross over//c as you want to make me fall and cry."
+furniture-10004006,Garden Tea Party - Small Flower Bed
+furniture-20004006,A small decorative flower bed. "The birds fly freely through the sky//c they will surely understand the song of the wind; the flowers bloom gloriously//c they will surely fall into an eternal dream."
+furniture-10004007,Garden Tea Party - Blossoming Flowers
+furniture-20004007,A freshly bloomed bed of young flowers. "The newly budded flowers guide me on my journey//c in order to reach the distance//c in order to reach your side."
+furniture-10004008,Garden Tea Party - Mature Flowers
+furniture-20004008,A fully bloomed bed of vivid flowers. "That which greets us here is the world's warmest spring. Just listen//c it's the voice of the flowers!"
+furniture-10004009,Garden Tea Party - Hanging Flowers
+furniture-20004009,Decorative flowers hanging in the air. "Lightly sketched ripples//c lightly the flower petals wither; swayingly sketched an arc//c swayingly the butterflies begin to dance."
+furniture-10004010,Garden Tea Party - Garden Sofa
+furniture-20004010,A sofa for tea parties. "Bear! Where? Here! I found it! Snowy white and soft! White mocha//c nice and warm//c let's chat together with this warm feeling!"
+furniture-10004011,Garden Tea Party - Dusk Wilderness
+furniture-20004011,A vista of a plain at dusk. "Running on the road that only appears once a year//c basking in the dusk like an adult. Those of us that live in an hourglass//c what are we? We can only use what little time we have left to find out."
+furniture-10004012,Garden Tea Party - Thicket
+furniture-20004012,A huge decorative thicket. "Light spills down between the trees as the flashing drops of water sing. What my eyes see in my deep sleep is a dream that you once had."
+furniture-10004013,Garden Tea Party - Garden Fountain
+furniture-20004013,A classical rock fountain. "I cannot become an angel. I can only become a flower by the water//c so that I may soothe your heart."
+furniture-10004014,Garden Tea Party - Flamingo
+furniture-20004014,The lost creature//c the flamingo...decoration. "Even if we can't fly in the sky//c we must have the wings of dreams. That's why you must let your sweat flow. Grow up quickly and we’ll conquer the skies someday!"
+furniture-10030506,Kiana - Kiana's Dress
+furniture-20030506,Kiana's Poster
+furniture-10030507,Bronya - Bronya's Armor
+furniture-20030507,Bronya's Poster
+furniture-10030508,Seele - Seele's Ceremony
+furniture-20030508,Seele's Poster
+furniture-10003103,Sleeping Beasties
+furniture-20003103,A soft setup designed to be slept on. You feel as if you'll level up just by sleeping on it... Not! Quit dreaming! Experience can only be gained through hard work!
+furniture-10004101,King's Tailor - "Ancient Style" Floor
+furniture-20004101,Always remember the classical and traditional things so that you may destroy them at any time with precision.
+furniture-10004102,King's Tailor - "Repeated Usage" Carpet
+furniture-20004102,Would you throw away a carpet just because of a wine stain? If so//c scars would all be the same as failures.
+furniture-10004103,King's Tailor - "Starting Plan" Cabinet
+furniture-20004103,In order to reach one's goals//c it is important to carry out many plans. But what's more important is to discard even more plans.
+furniture-10004104,King's Tailor - "Think Twice" Cupboard
+furniture-20004104,When you have not obtained power yet//c you must be careful in speech and action. When you do have power//c you must be even more careful.
+furniture-10004105,King's Tailor - "Don't Play With Fire" Sewing Table
+furniture-20004105,Always know what your bottom line is. If you don't know//c find out.
+furniture-10004106,King's Tailor - "Self Examination" Standing Mirror
+furniture-20004106,Remember yourself at this moment. Ensure that you are still like this when the mission has ended.
+furniture-10004107,King's Tailor - "Exemplary Style" Wardrobe
+furniture-20004107,An adequate supply of clothing means that you can still make it to your appointment on time after a mission. Time is forever more precious than money.
+furniture-10004108,King's Tailor - "Alternative Compromise" Wardrobe
+furniture-20004108,When negotiations come to a standstill//c you should pick your conditions from the most to the least important --  "Compromise is within everyone's view...and this is my compromise."
+furniture-10004109,King's Tailor - "Superficial Effort" Round Table
+furniture-20004109,Dressing up and proper etiquettes are a kind of self-restraint. You need to distance yourself from those wild beasts through enjoying afternoon tea.
+furniture-10004110,King's Tailor - "Necessary Virtues" Long Table
+furniture-20004110,You can never be fully prepared//c but that is exactly why you can never give up. -- "This world itself is imperfect. That's what makes it so beautiful."
+furniture-10004111,King's Tailor - "Widely Known" Chair
+furniture-20004111,You may be alone without support in an inferior position//c but that just means that your counterattack will be all the more resplendent. -- "Witness for the last time this sacred heart//c for everyone knows that it shall bloom."
+furniture-10004112,King's Tailor - "Meeting Etiquette" Sofa
+furniture-20004112,Being able to survive the awkward silence before the protagonist arrives is a basic skill of an underground tycoon.
+furniture-10004113,King's Tailor - "Before the Case" Wallpaper
+furniture-20004113,Don't let go of any clue//c no matter how tiny. -- "Any intelligent being can make mistakes. Wolves can; humans can; nobody can avoid making mistakes."
+furniture-10004114,King's Tailor - "Long-Term Target" Wall Decorations
+furniture-20004114,The target for the future should always come from your past//c not from a spur-of-the-moment decision.
+furniture-10004115,King's Tailor - "Please Don't Knock" Shop Window
+furniture-20004115,Perhaps this door will invite you//c or perhaps you need to break and enter through the window. Opportunities are always present//c but they're just not easy to notice.
+furniture-10004116,King's Tailor - "Blow Confusion Away" Fan
+furniture-20004116,Don't be so eager to chase away your confusion. Instead//c enjoy it//c until you actually get tired of it.
+furniture-10004201,Top Jet - Display Area Floor
+furniture-20004201,We try so hard to escape the clutches of the Earth//c then struggle fervently to return to its embrace. This is the spirit of science fiction.
+furniture-10004202,Top Jet - Mini Aircraft Runway
+furniture-20004202,We can't put a real aircraft on it//c but we can still race with RC cars on it.
+furniture-10004203,Top Jet - V2 Missile Display
+furniture-20004203,"The paint makes it look like a killer whale. Cruel//c efficient//c and cute." -- Luger P08
+furniture-10004204,Top Jet - "TAURUS" Missile Display
+furniture-20004204,"Perhaps this empty shell can be converted into a canoe?" -- MchG5
+furniture-10004205,Top Jet - Modern Airplane Model
+furniture-20004205,It possesses great mobility and stability//c but let's not talk about that. Do you prefer single tail or twin tail planes?
+furniture-10004206,Top Jet - Classic Airplane Model
+furniture-20004206,Who doesn't like that bygone era filled with unique and distinct designs? People nowadays are more clever//c but less romantic.
+furniture-10004207,Top Jet - Ancient Aircraft Model
+furniture-20004207,We sacrificed so much to fulfill our dreams of soaring through the sky//c yet we may end up sacrificing even more after achieving it.
+furniture-10004208,Top Jet - Civilian Rotorcraft Model
+furniture-20004208,From a technical standpoint//c the dream of flight is easily achievable//c but the key to conquering the skies is possessing bravery.
+furniture-10004209,Top Jet - Reserved Display
+furniture-20004209,What will be the next generation of weapons? Let it be known right now that I won't launch T-Dolls as a missiles.
+furniture-10004210,Top Jet - "Styx" Missile Display
+furniture-20004210,"It looks like a big fish. Can I keep it?!" -- MP446
+furniture-10004211,Top Jet - "Pechora" Missile Display
+furniture-20004211,"It sort of resembles one of those large signing pens that certain important military T-Dolls use." -- Makarov
+furniture-10004212,Top Jet - "Tomahawk" Missile Display
+furniture-20004212,"Looks as if you could fit someone inside... Ah//c it's not like I said that they would fit in it completely." -- Ingram
+furniture-10004213,Top Jet - Display Area Bench
+furniture-20004213,Take a rest before you continue onwards. If your steps aren't too fast//c then perhaps the clear blue sky can still catch up to us.
+furniture-10004214,Top Jet - Display Area Wall Rack
+furniture-20004214,Please do not climb. No matter how high you climb//c you're still a long distance away from the sky.
+furniture-10004215,Top Jet - Display Area Lighting
+furniture-20004215,Be careful of getting burned. We can only rely on the light. We're unable to possess it//c or become it.
+furniture-10031501,Thompson - Demon Hunter
+furniture-20031501,Thompson's Poster
+furniture-10031502,Contender - Phantom of the Opera
+furniture-20031502,Contender's Poster
+furniture-10031503,PKP - Lady's Secret Order
+furniture-20031503,PKP's Poster
+furniture-10031504,MG5 - Wilderness Hunter
+furniture-20031504,MG5's Poster
+furniture-10031505,AEK-999 - Hooligan Racer
+furniture-20031505,AEK-999's Poster
+furniture-10031506,PzB39 - Burst Rider
+furniture-20031506,PzB39's Poster
+furniture-10031507,G36 - "Bartender"
+furniture-20031507,G36's Poster
+furniture-10050302,Fatal Performance - Black Sports Motorcycle
+furniture-20050302,AEK999's beloved vehicle. Because she changes her attire before going out for a ride//c only her close riding buddies know of the existence of this vehicle.
+furniture-10031601,RFB - RFB Stole Christmas
+furniture-20031601,RFB's Poster
+furniture-10031602,G11 - The Most Beautiful Gift of Mine
+furniture-20031602,G11's Poster
+furniture-10031603,Zas M21 - Gunfire Offering of the Snow Maiden
+furniture-20031603,Zas M21's Poster
+furniture-10031604,CZ75 - Winter Gatherer
+furniture-20031604,CZ75's Poster
+furniture-10031605,Ameli - Gift-Peddling Christmas Tree
+furniture-20031605,Ameli's Poster
+furniture-10031606,M1918 - The Christmas You Wished For
+furniture-20031606,M1918's Poster
+furniture-10031608,OTs-44 - Little Reindeer in the Forest
+furniture-20031608,OTs-44's Poster
+furniture-10050102,Kvass Tank
+furniture-20050102,Authentic kvass. Only those who will drink it to their heart's content deserve its delicious taste.
+furniture-10050103,Christmas Eve Banquet
+furniture-20050103,A precious taken before the Christmas Eve banquet. Once the feast starts//c neither the T-Dolls nor the food will be recognizable.
+furniture-10002002,Christmas Bean Bag Chair
+furniture-20002002,While being under the influence of the festive atmosphere//c this chair has twice the magnetic power. It is very difficult to stand up once you sit on it.
+furniture-10002003,Christmas Pug
+furniture-20002003,A pug meticulously dressed for the Christmas holiday. It doesn't seem to know who was born on this day//c but it is very grateful for the feast tonight.
+furniture-10004301,Payday - Bank Secret Chamber Floor
+furniture-20004301,The bank floor must be spotless at all times. Our staff will clean up anything on the floor ASAP//c whether it be coins//c bullets//c or formerly living things.
+furniture-10004302,Payday - Anti-theft Trap
+furniture-20004302,Its ineffectiveness against most T-Dolls led some humans to believe that T-Dolls are failed imitations. They're not attracted to the most wonderful invention of human civilization//c yet they are to ice cream.
+furniture-10004303,Payday - Warehouse Hooks
+furniture-20004303,Used for moving expensive goods or as a swing for the T-Dolls. What is the true meaning of intelligence? What's the difference between humans//c T-Dolls//c and apes?
+furniture-10004304,Payday - Bank Service Desk
+furniture-20004304,For inquiries regarding your investments//c please speak with the service T-Dolls. For inquiries regarding the bank's safety//c please look at the spoils of war on the counter.
+furniture-10004305,Payday - Bank Banner
+furniture-20004305,This banner reveals to all customers the origins of the T-Doll employees here. They can provide friendly service and stop crime at no extra cost!
+furniture-10004306,Payday - Insurance Cargo Boxes
+furniture-20004306,You can place your precious items inside and we'll protect it for you. Except for your heart. It's not precious anymore once you've given it away.
+furniture-10004307,Payday - A Large Pile of World Currency
+furniture-20004307,Gold is gold. It can buy anything in the world except for happiness//c because you've already achieved happiness the moment you possess the gold.
+furniture-10004308,Payday - A Small Pile of World Currency
+furniture-20004308,Many T-Dolls do not understand the value of gold//c so they throw the gold bars around like rocks. Or perhaps they do understand the value that the humans speak of//c but they just don't understand humans.
+furniture-10004309,Payday - Decorative Plant
+furniture-20004309,Humans like to place these plants around various places to prove that they've once coexisted with nature//c but they would then proceed to destroy it and establish a new system. And thus//c the cycle repeats itself.
+furniture-10004310,Payday - Internal Bank Notes
+furniture-20004310,Bank notes that are only circulated between G&K T-Dolls. The exchange rate between each team is pretty big. You might wake up on a bed of it every day and exchange a stack of it just for a few lollipops.
+furniture-10004311,Payday - Bank Forklift
+furniture-20004311,Used for moving goods within the bank. Even though it can run automatically//c some T-Dolls like to drive it themselves... Should an accident occur//c a long period of deflation will follow.
+furniture-10004312,Payday - Anti-theft Wall
+furniture-20004312,We won't run electricity across it. How could we do such a thing! After all//c wouldn’t that be too kind to intruders?
+furniture-10004313,Payday - Bank Vault
+furniture-20004313,We need to take stock of the damages//c mainly the lighting. Many of them don't light up anymore... Money? What money? It's all been spent long ago. This place is used to store chocolate coins now.
+furniture-10004314,Payday - Flying Car Wall Decoration
+furniture-20004314,This is just a decoration. Real cars can't break in... Other than that time on Christmas Eve with AK47 and her friends. Who knows how much they drank that night.
+furniture-10004315,Payday - Bank Surveillance Cam
+furniture-20004315,It knows everything that others are doing//c but the only thing that it doesn't know is what itself is doing. This is the life of a camera; only wrongdoers care about it//c and only remembered when something bad happens.
+furniture-10004401,Christmas Cottage - Cozily Warm Floor
+furniture-20004401,Careful! Overly soft T-Dolls may melt on top of it!
+furniture-10004402,Christmas Cottage - "Winter Banquet" Carpet
+furniture-20004402,Naive T-Dolls will like its design//c serious T-Dolls will like its craftsmanship//c and RFB will like the game screen presented through a pixel grid.
+furniture-10004403,Christmas Cottage - Winter Cellar
+furniture-20004403,Never let SPAS12 overhear that we still have enough food. Don't you know that a shark ate everything in the warehouse last year? Yes//c legends should only be half-believed//c as she had only ate half of the food in the warehouse...
+furniture-10004404,Christmas Cottage - Tribal-Style Fireplace
+furniture-20004404,In front of the fireplace is a long story and attentive children. It would be much easier on Mother Earth if human beings only passed down culture verbally.
+furniture-10004405,Christmas Cottage - "Winter Training" Sandbox
+furniture-20004405,Work makes holidays seem all the more precious and brilliant to us//c just like how laymen praise suffering and the living eulogize death.
+furniture-10004406,Christmas Cottage - "Winter Celebration" Giftboxes
+furniture-20004406,One of the greatest pleasures of being a commander is admiring the empty expressions of T-Dolls after they excitedly open their empty giftboxes... Do apply for medical leave beforehand.
+furniture-10004407,Christmas Cottage - Winter Food Table
+furniture-20004407,Watch your diet? If you're not able to fully enjoy the pleasures of the hour//c how will you even have the foresight to attain happiness in the future?
+furniture-10004408,Christmas Cottage - Tribal-Style Sofa
+furniture-20004408,Using traditional crafts as an example//c many things are only missed after being forgotten//c because only when it is forgotten does it seem rare and valuable.
+furniture-10004409,Christmas Cottage - Lazy Cushion
+furniture-20004409,You won't be able to get up once you're in its grasp. "Laziness" is the fifth force that surpasses gravity!
+furniture-10004410,Christmas Cottage - Tribal-Style Wallpaper
+furniture-20004410,Good things often get killed in the past//c and the remains of such practices continue on even today. Even now//c people flock towards it and declare it to be immortal.
+furniture-10004411,Christmas Cottage - Tribal-Style Sculpture
+furniture-20004411,Humanity's ancestors liked to imitate whatever they saw with their own eyes//c whereas humans in the future may prefer to draw imaginary things instead.
+furniture-10004412,Christmas Cottage - "Winter Wishes" Window
+furniture-20004412,Even if your wish cannot be fulfilled//c at the very least tell yourself that there is hope in living. When all is lost in despair//c try and recall this day when you wished for happiness.
+furniture-10004501,Pirate's Legacy - Wet Deck
+furniture-20004501,It's forbidden to fight//c litter//c and roller skate on the deck. Rescuing overboard T-Dolls is very strenuous!
+furniture-10004502,Pirate's Legacy - Window of Wind and Sunlight
+furniture-20004502,If you think about it//c the ocean is only a slightly bigger fish tank. It's just that the place you're trapped in is a bit cramped.
+furniture-10004503,Pirate's Legacy - Lying on the Treasure
+furniture-20004503,This is treasure that you can only obtain by betraying your own heart. Can you really sleep soundly on it? ...Of course it's more comfortable if you're heartless!
+furniture-10004504,Pirate's Legacy - Incomplete Sea Chart
+furniture-20004504,Humans don't want to be restricted by boundaries//c yet they seek out the boundaries all the time. What lies beyond their hope must be disappointment//c yet everyone flocks to it anyway.
+furniture-10004505,Pirate's Legacy - Firepower of Justice
+furniture-20004505,The justice of the ocean is to survive. We can talk about everything else after we get back on land.
+furniture-10004506,Pirate's Legacy - Problem-Solving Stockpile
+furniture-20004506,The answer to all questions can be found here//c where friends and foe mingle together.
+furniture-10004507,Pirate's Legacy - Oceanic Fast Food Restaurant
+furniture-20004507,If anyone suddenly says that the food is delicious//c please watch out for any strange behavior or actions.
+furniture-10004508,Pirate's Legacy - Cage of Mutiny
+furniture-20004508,Reflect well on your past actions... Stop swinging around and doing the circle dance inside!
+furniture-10004509,Pirate's Legacy - Table of Fate
+furniture-20004509,Feel free to pledge all your worldly possessions on the table//c because no one can ensure that you won't spend it all tomorrow. Fate is such a fickle thing.
+furniture-10004510,Pirate's Legacy - Deep Sea Lurker
+furniture-20004510,Don't listen to what it's saying and please release it back into the ocean. I repeat//c don't listen to what it's saying//c and it's not tasty either. Please release it back into the ocean.
+furniture-10004511,Pirate's Legacy - Chatty Stool - Left
+furniture-20004511,No one cares about your story; everyone's just bored. If we don't bullshit with each other//c then we can only resort to hurting each other.
+furniture-10004512,Pirate's Legacy - Chatty Stool - Right
+furniture-20004512,No one cares about your story; everyone's just bored. If we don't bullshit with each other//c then we can only resort to hurting each other.
+furniture-10004513,Pirate's Legacy - Haven Within the Ocean
+furniture-20004513,Just think about it. If you're really looking for a haven on the sea//c why don't you just go home?
+furniture-10004514,Pirate's Legacy - Swaying Homeland
+furniture-20004514,This is your heart//c swaying uncertainly between the hopes of the future and the abandoned happiness of the past.
+furniture-10004515,Pirate's Legacy - Overlooking Drapery
+furniture-20004515,Sunshine//c land//c and wandering seabirds. Those things that have nothing to do with us always tend to look so much better.
+furniture-10004601,Pixel Forest - Grassy Lawn for Adventuring
+furniture-20004601,Spread it out on the ground//c then you can tie on a bandana with a round gemstone//c wear triangular shoulder pads//c and embark on a wonderful journey with a gentle symphony in your ear.
+furniture-10004602,Pixel Forest - Mysterious Fragile Brick
+furniture-20004602,Have you ever considered that a brick could be more valuable than a copper coin?
+furniture-10004603,Pixel Forest - Living Hammock
+furniture-20004603,This hammock will secretly grow while you're asleep//c till it's able to eat you//c then...it'll start to think about life.
+furniture-10004604,Pixel Forest - Alloy Cooking Pot
+furniture-20004604,Make it hotter! Maybe then you can drive it!
+furniture-10004605,Pixel Forest - Old Tank
+furniture-20004605,It'll make your battles easier and more spectacular. In the past//c you needed to win it through skills rather than with money.
+furniture-10004606,Pixel Forest - Pensive Tree Stump
+furniture-20004606,Tree stumps can't think about anything//c but you who sits upon it can. This is very fair; you're enjoying its hospitality while it's laughing at you.
+furniture-10004607,Pixel Forest - Brawny Sign
+furniture-20004607,Have you ever thought about the feasibility of these oddly-shaped bullets in real life? No? Well//c you can try it now.
+furniture-10004608,Pixel Forest - Swaying Tent
+furniture-20004608,Rest for a little while longer and immerse yourself just a little more. In the past//c people fantasized in order to accept reality//c whereas people now fantasize in order to escape it//c or change it.
+furniture-10004609,Pixel Forest - Passerby Bear
+furniture-20004609,this bear won't hurt people in this world//c but you can hurt it... Why don't we do so then? After all//c we're the noble humans who can do whatever we want through our free will!
+furniture-10004610,Pixel Forest - Forest of the Brave
+furniture-20004610,Explore this expansive forest until you've eaten all the mushrooms//c but the game still doesn't end.
+furniture-10004611,Pixel Forest - Floating Treehouse
+furniture-20004611,Building such a treehouse not only requires gathering lots of materials//c you also need to determine whether your map ceiling is high enough.
+furniture-10004612,Pixel Forest - Unwakeable Wine Bottle
+furniture-20004612,Pick up the wine bottle and turn your life upside down. Life itself is a boring thing as there's nothing really worth enjoying besides stories.
+furniture-10003104,TapTap!
+furniture-20003104,TapTap exclusive commemorative furniture.
+furniture-10002004,Poster - Operation Cube 2018
+furniture-20002004,2018 Summer Event - Special poster for Operation Cube
+furniture-10002005,Poster - Hypothermia 2017
+furniture-20002005,2017 Winter Event - Special poster for Hypothermia
+furniture-10002006,Poster - Deep Dive 2017
+furniture-20002006,2017 Summer Event - Special poster for Deep Dive
+furniture-10031701,M99 - Rabbit Squad
+furniture-20031701,M99's Poster
+furniture-10031702,NZ75 - ThanX！& Go2Hell！
+furniture-20031702,NZ75's Poster
+furniture-10031703,SPP-1 - Snowflakes in Arms
+furniture-20031703,SPP-1's Poster
+furniture-10031704,Super-Shorty - Crossing in Labyrinth
+furniture-20031704,Super-Shorty's Poster
+furniture-10031705,RMB-93 - Cross the Milky Way
+furniture-20031705,RMB-93's Poster
+furniture-10004701,Biker's Diary - Cement Floor
+furniture-20004701,Just like a professional garage//c a floor resistant to dirt and wear is always the best friend of wheels. Feel free to trample upon it if you come across it.
+furniture-10004702,Biker's Diary - Weapons Cabinet
+furniture-20004702,Wielding a gun on a speeding vehicle is a T-Doll's dream! Purchase this attachment now and get free lessons on fancy single-handed reloading!
+furniture-10004703,Biker's Diary - Front Desk Tool Cabinet
+furniture-20004703,All the most-wanted necessities for maintenance can be found here//c including engine oil//c anti-freeze//c and of course everyone's favorite friend//c WD40!
+furniture-10004704,Biker's Diary - Merchandise Cabinet
+furniture-20004704,Models//c souvenirs//c armbands//c or bullets//c all of these things can awaken one's hidden desire to become a biker...especially once you realize that you can't afford any of those bikes.
+furniture-10004705,Biker's Diary - Parts Showcase
+furniture-20004705,Customized and modified parts tend to give the user an impression of free choice. In truth//c everything has already been determined//c just like life itself.
+furniture-10004706,Biker's Diary - Handle Rack
+furniture-20004706,Compared to the actual handle itself//c maybe it's more important that the handle is firmly attached to the bike...especially considering the amount of g force the Commander will endure when riding with a T-Doll.
+furniture-10004707,Biker's Diary - Tactical Bike
+furniture-20004707,Able to carry a large amount of military tools and even runs on petrol. You can ride it to faraway places//c camps//c picnics//c or to stargaze... Besides escaping doomsday//c you can use it to travel to any place.
+furniture-10004708,Biker's Diary - Bike Display Rack
+furniture-20004708,Specially placed at a prominent location in the store to show the owner's absolute confidence in these bikes//c whether it is its craftsmanship//c design or added value... So don't get tricked! Just buy the model that you actually need!
+furniture-10004709,Biker's Diary - Stairway
+furniture-20004709,Standing at a high area and overlooking motorbikes of all shapes and sizes feels just like being at a museum//c but the difference being that you can personally ride one home yourself!
+furniture-10004710,Biker's Diary - Tough Sofa
+furniture-20004710,This series of sofas with hard textures was specially made for hardcore female T-Dolls. It takes pride in never having been stained by the slightest bit of chocolate or ice cream.
+furniture-10004711,Biker's Diary - Military Motorbike
+furniture-20004711,Why don't you take it? This war horse longs to return to galloping on the real battlefields instead of living within the fake scenery of war movies!
+furniture-10004712,Biker's Diary - Warehouse Window
+furniture-20004712,It's publicly claimed to be a warehouse storing second-hand bikes//c but in truth it's specially used for storing the boss' personal bike collection. Even so//c the sales staff always secretly take them out for a joyride.
+furniture-10004713,Biker's Diary - Dismantled Parts Display Wall
+furniture-20004713,A display wall specially designed to create an extraordinary atmosphere within the shop. Children like to stand in front of it and stare. The display items are usually placed high up to avoid letting these fearsome creatures from leaving fingerprints.
+furniture-10004714,Biker's Diary - Bikes to be Sold
+furniture-20004714,If they're left unsold for a long time//c the technicians in the maintenance department will usually dismantle them to use as parts for fixing other bikes. Many stories are left behind//c though no one's ever heard of them//c but there have been people who've experienced it themselves.
+furniture-10004801,Hometown Reminiscence - Little Artists in the Snow
+furniture-20004801,Chicks draw bamboo leaves//c puppies draw plum blossoms//c ducklings draw maple leaves//c foals draw cresent moons... What're the children running over here for? They've messed up the drawings!
+furniture-10004802,Hometown Reminiscence - Popcorn Machine
+furniture-20004802,This is a traditional popcorn baking tool from China. Though it looks more like an apparatus for evil alchemists//c I assure you that it is very saf-- BOOM!//nThis the reason why everyone thought Type56R just returned from the coal mines.
+furniture-10004803,Hometown Reminiscence - Auspicious Start
+furniture-20004803,It is used to chase away unluckiness and thieving birds//c but it doesn't work on little children. In fact//c it has the opposite effect on them. They'll take away your gong and mallet...and then your sleep.
+furniture-10004804,Hometown Reminiscence - Plum Blossoms by the Corner
+furniture-20004804,Can't you learn anything from the resilient plum blossoms? -- Type88 //nPeople who're willing to suffer won't have friends. -- Type80
+furniture-10004805,Hometown Reminiscence - Firecracker Store
+furniture-20004805,Unlike gunfire//c fireworks usually represent joy and happiness... -- Type95//nBut isn't obtaining victory through gunfire joyous as well? What's the difference! -- Type97
+furniture-10004806,Hometown Reminiscence - Small Ice-Lantern
+furniture-20004806,Help! The T-Dolls of Griffin have cast a spell of ice on me! Only the kiss of true love can... -- ??//nCan make you edible? Then I'm gonna kiss you! -- Type56-1//nNo//c please//c stop! I'm coming out right now! -- T65
+furniture-10004807,Hometown Reminiscence - Weathered Frozen Branches
+furniture-20004807,What did you want to teach me? -- Type63 //nInviting a friend here to kick at a tree is a common folk entertainment...and sport! Hahahaha//c come and catch me! -- Type59
+furniture-10004808,Hometown Reminiscence - Snack Shop
+furniture-20004808,Don't throw away the bamboo skewers after you finish eating. We can keep on using them for the next year. -- Type92 //nWe've already used them for two years! Even sustainable living should have a limit! -- Type79 //nIf there's a limit//c then why would it be called sustainable living? -- Type92
+furniture-10004809,Hometown Reminiscence - Snowkid
+furniture-20004809,The secret to a snowman's growth is longer periods of cruel weather and not having anyone to play with... What a weird fellow.
+furniture-10004810,Hometown Reminiscence - Small Tea Table
+furniture-20004810,I heard that you guys chat while drinking tea. Aren't you afraid of choking? -- T91 //nThe topic we're discussing right now is whether or not you guys will choke. -- Type64
+furniture-10004811,Hometown Reminiscence - Symphony of Frost and Flame
+furniture-20004811,To young humans//c there's no difference between firecrackers and gunfire. Both are used for entertainment//c are lethal//c and are only used at places inconvenient to clean up.
+furniture-10004812,Hometown Reminiscence - Small Bamboo Stool - Right
+furniture-20004812,The creaky noise and the strict requirements on the sitting posture makes some neurotic science students very uncomfortable. Perhaps this is why ancient China was not very advanced in science.
+furniture-10004813,Hometown Reminiscence - Small Bamboo Stool - Left
+furniture-20004813,The creaky noise and the strict requirements on the sitting posture makes some neurotic science students very uncomfortable. Perhaps this is why ancient China was not very advanced in science.
+furniture-10004814,Hometown Reminiscence - Campstool
+furniture-20004814,An important tool in day-to-day life. It is used during gossiping//c visiting friends and family//c sitting in vehicles//c and even when fighting with others. -- Type97S//nPlease//c don't give me any more trouble! -- Type81R
+furniture-10004815,Hometown Reminiscence - Blessings at the Gate
+furniture-20004815,New year//c new scene! -- JS05//nYou're the only new one here. Is it really necessary to celebrate? -- NZ75//nWe should celebrate the fact that everyone is here! -- JS05
+furniture-10031801,DSR-50 - Red Peony
+furniture-20031801,DSR-50's Poster
+furniture-10031802,S.A.T.8 - Plum Blossom Seal
+furniture-20031802,S.A.T.8's Poster
+furniture-10031803,ART556 - Lotus White
+furniture-20031803,ART556's Poster
+furniture-10031804,JS05 - Zephyr Lily
+furniture-20031804,JS05's Poster
+furniture-10031805,Mk23 - Honey Flower
+furniture-20031805,Mk23's Poster
+furniture-10031806,M590 - Snow Ipomoea
+furniture-20031806,M590's Poster
+furniture-10031807,Type 81 Carbine - Camellia Tea
+furniture-20031807,Type 81 Carbine's Poster
+furniture-10031808,LWMMG - Yellow Star-Thistle
+furniture-20031808,LWMMG's Poster
+furniture-10031809,Hanyang Type 88 - Lotus of the East Lake
+furniture-20031809,Hanyang Type 88's Poster
+furniture-10002007,Poster - Singularity 2018
+furniture-20002007,2018 Winter Event - Special poster for Singularity
+furniture-10004901,
+furniture-20004901,
+furniture-10004902,
+furniture-20004902,
+furniture-10004903,
+furniture-20004903,
+furniture-10004904,
+furniture-20004904,
+furniture-10004905,
+furniture-20004905,
+furniture-10004906,
+furniture-20004906,
+furniture-10004907,
+furniture-20004907,
+furniture-10004908,
+furniture-20004908,
+furniture-10004909,
+furniture-20004909,
+furniture-10004910,
+furniture-20004910,
+furniture-10004911,
+furniture-20004911,
+furniture-10004912,
+furniture-20004912,
+furniture-10004913,
+furniture-20004913,
+furniture-10004914,
+furniture-20004914,
+furniture-10004915,
+furniture-20004915,
+furniture-10004916,
+furniture-20004916,
+furniture-10004917,
+furniture-20004917,
+furniture-10004918,
+furniture-20004918,
+furniture-10005001,
+furniture-20005001,
+furniture-10005002,
+furniture-20005002,
+furniture-10005003,
+furniture-20005003,
+furniture-10005004,
+furniture-20005004,
+furniture-10005005,
+furniture-20005005,
+furniture-10005006,
+furniture-20005006,
+furniture-10005007,
+furniture-20005007,
+furniture-10005008,
+furniture-20005008,
+furniture-10005009,
+furniture-20005009,
+furniture-10005010,
+furniture-20005010,
+furniture-10005011,
+furniture-20005011,
+furniture-10005012,
+furniture-20005012,
+furniture-10005013,
+furniture-20005013,
+furniture-10005014,
+furniture-20005014,
+furniture-10005015,
+furniture-20005015,
+furniture-10005016,
+furniture-20005016,
+furniture-10031901,
+furniture-20031901,
+furniture-10031902,
+furniture-20031902,
+furniture-10031903,
+furniture-20031903,
+furniture-10031904,
+furniture-20031904,
+furniture-10031905,
+furniture-20031905,
+furniture-10031906,
+furniture-20031906,
+furniture-10050502,
+furniture-20050502,
+furniture-10050503,
+furniture-20050503,
+furniture-10002008,
+furniture-20002008,
+furniture-10002009,
+furniture-20002009,
+furniture-10002010,
+furniture-20002010,
+furniture-10002011,
+furniture-20002011,
+furniture-10032001,
+furniture-20032001,
+furniture-10032002,
+furniture-20032002,
+furniture-10032003,
+furniture-20032003,
+furniture-10032004,
+furniture-20032004,
+furniture-10003105,
+furniture-20003105,
+furniture-10003106,
+furniture-20003106,
+furniture-10005201,
+furniture-20005201,
+furniture-10005202,
+furniture-20005202,
+furniture-10005203,
+furniture-20005203,
+furniture-10005204,
+furniture-20005204,
+furniture-10005205,
+furniture-20005205,
+furniture-10005206,
+furniture-20005206,
+furniture-10005207,
+furniture-20005207,
+furniture-10005208,
+furniture-20005208,
+furniture-10005209,
+furniture-20005209,
+furniture-10005210,
+furniture-20005210,
+furniture-10005211,
+furniture-20005211,
+furniture-10005212,
+furniture-20005212,
+furniture-10005213,
+furniture-20005213,
+furniture-10003107,
+furniture-20003107,
+furniture-10030509,
+furniture-20030509,
+furniture-10030510,
+furniture-20030510,
+furniture-10050602,
+furniture-20050602,
+furniture-10005301,
+furniture-20005301,
+furniture-10005302,
+furniture-20005302,
+furniture-10005303,
+furniture-20005303,
+furniture-10005304,
+furniture-20005304,
+furniture-10005305,
+furniture-20005305,
+furniture-10005306,
+furniture-20005306,
+furniture-10005307,
+furniture-20005307,
+furniture-10005308,
+furniture-20005308,
+furniture-10005309,
+furniture-20005309,
+furniture-10005310,
+furniture-20005310,
+furniture-10005311,
+furniture-20005311,
+furniture-10005312,
+furniture-20005312,
+furniture-10005313,
+furniture-20005313,
+furniture-10005314,
+furniture-20005314,
+furniture-10005315,
+furniture-20005315,
+furniture-10005316,
+furniture-20005316,
+furniture-10005317,
+furniture-20005317,
+furniture-10005401,
+furniture-20005401,
+furniture-10005402,
+furniture-20005402,
+furniture-10005403,
+furniture-20005403,
+furniture-10005404,
+furniture-20005404,
+furniture-10005405,
+furniture-20005405,
+furniture-10005406,
+furniture-20005406,
+furniture-10005407,
+furniture-20005407,
+furniture-10005408,
+furniture-20005408,
+furniture-10005409,
+furniture-20005409,
+furniture-10005410,
+furniture-20005410,
+furniture-10005411,
+furniture-20005411,
+furniture-10005412,
+furniture-20005412,
+furniture-10005413,
+furniture-20005413,
+furniture-10005414,
+furniture-20005414,
+furniture-10005415,
+furniture-20005415,
+furniture-10032101,
+furniture-20032101,
+furniture-10032102,
+furniture-20032102,
+furniture-10032103,
+furniture-20032103,
+furniture-10032104,
+furniture-20032104,
+furniture-10032105,
+furniture-20032105,
+furniture-10032106,
+furniture-20032106,
+furniture-10032107,
+furniture-20032107,
+furniture-10032108,
+furniture-20032108,
+furniture-10032109,
+furniture-20032109,
+furniture-10005501,
+furniture-20005501,
+furniture-10005502,
+furniture-20005502,
+furniture-10005503,
+furniture-20005503,
+furniture-10005504,
+furniture-20005504,
+furniture-10005505,
+furniture-20005505,
+furniture-10005506,
+furniture-20005506,
+furniture-10005507,
+furniture-20005507,
+furniture-10005508,
+furniture-20005508,
+furniture-10005509,
+furniture-20005509,
+furniture-10005510,
+furniture-20005510,
+furniture-10005511,
+furniture-20005511,
+furniture-10005512,
+furniture-20005512,
+furniture-10005513,
+furniture-20005513,
+furniture-10002012,
+furniture-20002012,
+furniture-10002013,
+furniture-20002013,
+furniture-10002014,
+furniture-20002014,
+furniture-10002015,
+furniture-20002015,
+furniture-10050701,
+furniture-20050701,
+furniture-10050702,
+furniture-20050702,
+furniture-10032201,
+furniture-20032201,
+furniture-10032202,
+furniture-20032202,
+furniture-10032203,
+furniture-20032203,
+furniture-10032204,
+furniture-20032204,
+furniture-10032205,
+furniture-20032205,
+furniture-10032206,
+furniture-20032206,
+furniture-10005601,
+furniture-20005601,
+furniture-10005602,
+furniture-20005602,
+furniture-10005603,
+furniture-20005603,
+furniture-10005604,
+furniture-20005604,
+furniture-10005605,
+furniture-20005605,
+furniture-10005606,
+furniture-20005606,
+furniture-10005607,
+furniture-20005607,
+furniture-10005608,
+furniture-20005608,
+furniture-10005609,
+furniture-20005609,
+furniture-10005610,
+furniture-20005610,
+furniture-10005611,
+furniture-20005611,
+furniture-10005612,
+furniture-20005612,
+furniture-10005613,
+furniture-20005613,
+furniture-10005614,
+furniture-20005614,
+furniture-10005615,
+furniture-20005615,
+furniture-10045010,
+furniture-20045010,
+furniture-10045011,
+furniture-20045011,
+furniture-10045012,
+furniture-20045012,
+furniture-10045013,
+furniture-20045013,
+furniture-10045020,
+furniture-20045020,
+furniture-10045021,
+furniture-20045021,
+furniture-10045022,
+furniture-20045022,
+furniture-10045023,
+furniture-20045023,
+furniture-10045030,
+furniture-20045030,
+furniture-10045031,
+furniture-20045031,
+furniture-10045032,
+furniture-20045032,
+furniture-10045033,
+furniture-20045033,
+furniture-10045040,
+furniture-20045040,
+furniture-10045041,
+furniture-20045041,
+furniture-10045042,
+furniture-20045042,
+furniture-10045043,
+furniture-20045043,
+furniture-10040047,
+furniture-20040047,
+furniture-10040048,
+furniture-20040048,
+furniture-10040049,
+furniture-20040049,
+furniture-10040050,
+furniture-20040050,
+furniture-10040051,
+furniture-20040051,
+furniture-10005701,
+furniture-20005701,
+furniture-10005702,
+furniture-20005702,
+furniture-10005703,
+furniture-20005703,
+furniture-10005704,
+furniture-20005704,
+furniture-10005705,
+furniture-20005705,
+furniture-10005706,
+furniture-20005706,
+furniture-10005707,
+furniture-20005707,
+furniture-10005708,
+furniture-20005708,
+furniture-10005709,
+furniture-20005709,
+furniture-10005710,
+furniture-20005710,
+furniture-10005711,
+furniture-20005711,
+furniture-10005712,
+furniture-20005712,
+furniture-10005713,
+furniture-20005713,
+furniture-10005714,
+furniture-20005714,
+furniture-10032301,
+furniture-20032301,
+furniture-10032302,
+furniture-20032302,
+furniture-10032303,
+furniture-20032303,
+furniture-10032304,
+furniture-20032304,
+furniture-10032305,
+furniture-20032305,
+furniture-10046010,
+furniture-20046010,
+furniture-10046011,
+furniture-20046011,
+furniture-10046012,
+furniture-20046012,
+furniture-10046013,
+furniture-20046013,
+furniture-10046020,
+furniture-20046020,
+furniture-10046021,
+furniture-20046021,
+furniture-10046022,
+furniture-20046022,
+furniture-10046023,
+furniture-20046023,
+furniture-10046030,
+furniture-20046030,
+furniture-10046031,
+furniture-20046031,
+furniture-10046032,
+furniture-20046032,
+furniture-10046033,
+furniture-20046033,
+furniture-10040052,
+furniture-20040052,
+furniture-10040053,
+furniture-20040053,
+furniture-10040054,
+furniture-20040054,
+furniture-10040055,
+furniture-20040055,
+furniture-10040056,
+furniture-20040056,
+furniture-10002019,
+furniture-20002019,
+furniture-10002020,
+furniture-20002020,
+furniture-10002021,
+furniture-20002021,
+furniture-10002022,
+furniture-20002022,
+furniture-10002023,
+furniture-20002023,
+furniture-10002024,
+furniture-20002024,
+furniture-10005801,
+furniture-20005801,
+furniture-10005802,
+furniture-20005802,
+furniture-10005804,
+furniture-20005804,
+furniture-10005805,
+furniture-20005805,
+furniture-10005806,
+furniture-20005806,
+furniture-10005807,
+furniture-20005807,
+furniture-10005808,
+furniture-20005808,
+furniture-10005809,
+furniture-20005809,
+furniture-10005810,
+furniture-20005810,
+furniture-10005811,
+furniture-20005811,
+furniture-10005812,
+furniture-20005812,
+furniture-10005813,
+furniture-20005813,
+furniture-10032401,
+furniture-20032401,
+furniture-10032402,
+furniture-20032402,
+furniture-10032403,
+furniture-20032403,
+furniture-10032404,
+furniture-20032404,
+furniture-10032405,
+furniture-20032405,
+furniture-10032406,
+furniture-20032406,
+furniture-10032407,
+furniture-20032407,
+furniture-10032408,
+furniture-20032408,
+furniture-10032409,
+furniture-20032409,
+furniture-10032410,
+furniture-20032410,
+furniture-10050901,
+furniture-20050901,
+furniture-10002016,Fireworks Festival Taiko
+furniture-20002016,Nothing is more exciting than a simple yet thick drumbeat. Give the drumsticks to the T-Dolls with hearts swelling with emotion and they just may be able to awaken the souls hidden in the drums.
+furniture-10002017,Fireworks Festival Mikoshi
+furniture-20002017,Let the huge and elegant mikoshi debut at the most exciting moment to leave a lasting memory of this summer festival. But is it really a good idea to leave this job to the machines? Will the gods favor our wisdom or our sweat?
+furniture-10002018,Fireworks Festival Shiba Inu
+furniture-20002018,Its happiness comes not from the fireworks of the summer festival//c but rather because you are enjoying the time together with it.
+furniture-10040057,
+furniture-20040057,
+furniture-10040058,
+furniture-20040058,
+furniture-10040059,
+furniture-20040059,
+furniture-10100001,
+furniture-20100001,
+furniture-10100002,
+furniture-20100002,
+furniture-10100003,
+furniture-20100003,
+furniture-10100004,
+furniture-20100004,
+furniture-10100005,
+furniture-20100005,
+furniture-10100006,
+furniture-20100006,
+furniture-10100007,
+furniture-20100007,
+furniture-10100008,
+furniture-20100008,
+furniture-10040060,
+furniture-20040060,
+furniture-10040061,
+furniture-20040061,
+furniture-10040062,
+furniture-20040062,
+furniture-10040063,
+furniture-20040063,
+furniture-10040064,
+furniture-20040064,
+furniture-10040065,
+furniture-20040065,
+furniture-10040066,
+furniture-20040066,
+furniture-10040067,
+furniture-20040067,
+furniture-10005901,
+furniture-20005901,
+furniture-10005902,
+furniture-20005902,
+furniture-10005903,
+furniture-20005903,
+furniture-10005904,
+furniture-20005904,
+furniture-10005905,
+furniture-20005905,
+furniture-10005906,
+furniture-20005906,
+furniture-10005907,
+furniture-20005907,
+furniture-10005908,
+furniture-20005908,
+furniture-10005909,
+furniture-20005909,
+furniture-10005910,
+furniture-20005910,
+furniture-10005911,
+furniture-20005911,
+furniture-10005912,
+furniture-20005912,
+furniture-10005913,
+furniture-20005913,
+furniture-10032501,
+furniture-20032501,
+furniture-10032502,
+furniture-20032502,
+furniture-10032503,
+furniture-20032503,
+furniture-10032504,
+furniture-20032504,
+furniture-10032505,
+furniture-20032505,
+furniture-10002025,
+furniture-20002025,
+furniture-10002026,Best Friend's Embrace
+furniture-20002026,Take a close look at the living beings out there. There really isn't much difference between a person and a skeleton. Since each other is used a foil to make themselves seem more alive//c wouldn't it be better if we all lived our own happy lives?
+furniture-10002027,A Ride to Remember
+furniture-20002027,Even if this bicycle takes away your last Dinergate to the moon//c it can never take away your feelings. Come next Halloween//c you can still welcome your long journeyed friend with all your heart.
+furniture-10002028,Pet: Halloween Mummy Cat
+furniture-20002028,It is the consensus of exotic pet keepers that this mysterious gift received on the night before Halloween must be kept away from bright lights//c never made wet//c and never under any circumstances be fed after midnight. Why? It is decreed so on the box of this cuddly creature.
+furniture-10006001,
+furniture-20006001,
+furniture-10006002,
+furniture-20006002,
+furniture-10006003,
+furniture-20006003,
+furniture-10006004,
+furniture-20006004,
+furniture-10006005,
+furniture-20006005,
+furniture-10006006,
+furniture-20006006,
+furniture-10006007,
+furniture-20006007,
+furniture-10006008,
+furniture-20006008,
+furniture-10006009,
+furniture-20006009,
+furniture-10006010,
+furniture-20006010,
+furniture-10006011,
+furniture-20006011,
+furniture-10006012,
+furniture-20006012,
+furniture-10006013,
+furniture-20006013,
+furniture-10006014,
+furniture-20006014,
+furniture-10006015,
+furniture-20006015,
+furniture-10006101,
+furniture-20006101,
+furniture-10006102,
+furniture-20006102,
+furniture-10006103,
+furniture-20006103,
+furniture-10006104,
+furniture-20006104,
+furniture-10006105,
+furniture-20006105,
+furniture-10006106,
+furniture-20006106,
+furniture-10006107,
+furniture-20006107,
+furniture-10006108,
+furniture-20006108,
+furniture-10006109,
+furniture-20006109,
+furniture-10006110,
+furniture-20006110,
+furniture-10006111,
+furniture-20006111,
+furniture-10006112,
+furniture-20006112,
+furniture-10006113,
+furniture-20006113,
+furniture-10006114,
+furniture-20006114,
+furniture-10006115,
+furniture-20006115,
+furniture-10006116,
+furniture-20006116,
+furniture-10006117,
+furniture-20006117,
+furniture-10006118,
+furniture-20006118,
+furniture-10032601,
+furniture-20032601,
+furniture-10032602,
+furniture-20032602,
+furniture-10032603,
+furniture-20032603,
+furniture-10032604,
+furniture-20032604,
+furniture-10032605,
+furniture-20032605,
+furniture-10032606,
+furniture-20032606,
+furniture-10032701,
+furniture-20032701,
+furniture-10032702,
+furniture-20032702,
+furniture-10032703,
+furniture-20032703,
+furniture-10032704,
+furniture-20032704,
+furniture-10032705,
+furniture-20032705,
+furniture-10032706,
+furniture-20032706,
+furniture-10006201,
+furniture-20006201,
+furniture-10006202,
+furniture-20006202,
+furniture-10006203,
+furniture-20006203,
+furniture-10006204,
+furniture-20006204,
+furniture-10006205,
+furniture-20006205,
+furniture-10006206,
+furniture-20006206,
+furniture-10006207,
+furniture-20006207,
+furniture-10006208,
+furniture-20006208,
+furniture-10006209,
+furniture-20006209,
+furniture-10006210,
+furniture-20006210,
+furniture-10006211,
+furniture-20006211,
+furniture-10006212,
+furniture-20006212,
+furniture-10006213,
+furniture-20006213,
+furniture-10006214,
+furniture-20006214,
+furniture-10006215,
+furniture-20006215,
+furniture-10002032,Blueberry Nights Wine Table
+furniture-20002032,"The owner of the restaurant kept a key for each bottle of wine in the cabinet//c and every key hid a love story. I had a drink there last White Valentine's and was able to hear the most wonderful story." Said the reminiscing T-Doll sitting at the table.
+furniture-10002033,The Decameron Deer Head
+furniture-20002033,A huge deer head left by a happy couple from a prominent family of the old world. Legend has it that if all ten candles are lit//c you will be granted even more intimacy with your partner. "Do you really believe in this sort of thing? I certainly don't. As if there's some magic trick to a good relationship besides spending more time and experiencing more things with your partner." Said the skeptical T-Doll responsible for the daily cleaning of the deer head.
+furniture-10002034,Express Postal Love Letter Pigeon
+furniture-20002034,Even though information can be transmitted almost instantly over great distances//c there are some that still raise carrier pigeons for the sake of delivering love letters. "Data and radio waves are fragile things. If they disappear then there will be no physical proof left." - A quote by an anonymous pigeon fancier.

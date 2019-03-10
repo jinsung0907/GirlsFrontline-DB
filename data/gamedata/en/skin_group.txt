@@ -1,2 +1,18 @@
+skin_group-10000002,Weirder Things
+skin_group-20000002,Halloween is coming. Behind the fanciful and mysterious costume party lurks the undercurrent of horror. Will the Commander be able to identify the culprits in time and defuse the crisis that is to befall the parade event?
+skin_group-10000003,Fatal Performance
+skin_group-20000003,Thanks to Contender's connections//c the Commander was invited to a grand opera performance. However//c behind the gorgeous stage lies a dangerous murderous intent. What will prove to be fatal against the Commander? A deadly ambush? Or the T-Dolls in costumes?
 skin_group-10000001,Santa Claus Hunt
-skin_group-20000001,Grifon is about to celebrate its first Christmas//c and while everyone is busy with the feast and entertainment program//c several dangerous T-Dolls are hatching a crazy plan...
+skin_group-20000001,Griffin is about to celebrate its first Christmas//c and while everyone is busy with the feast and entertainment program//c several dangerous T-Dolls are hatching a crazy plan...
+skin_group-10000004,Year of Memories
+skin_group-20000004,When the Eastern T-Dolls are out of the base//c how can those left behind at Griffin recreate an authentic celebration of the magnificent Spring Festival? After unexpected commotions//c the new year will surely be better… Probably.
+skin_group-10000005,Honey Sweet Moment
+skin_group-20000005,The T-Dolls who took on an ad shoot mission reveal a rarely seen side of themselves. Will the moment of wearing a wedding dress be a special memory for them?
+skin_group-10000006,Anniversary Party
+skin_group-20000006,Compared to Griffin's anniversary banquet//c the internal party is certainly more relaxing. On this night of commemoration//c I'm sure the Commander wouldn't mind if we're a bit rowdy//c right?
+skin_group-10000007,Unstealable Gems
+skin_group-20000007,The Commander and T-Dolls receive a special mission on the anniversary day. The gems to be guarded by everyone are not so easy to steal. The same goes for memories.
+skin_group-10000008,Maid Training Camp
+skin_group-20000008,In order to undertake an important mission//c the T-Dolls are going through additional special training. Although there may be some surprises along the way to becoming an exemplary maid//c it shouldn't be too much trouble for them…right?
+skin_group-10000009,
+skin_group-20000009,

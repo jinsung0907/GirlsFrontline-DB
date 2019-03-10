@@ -4,7 +4,7 @@ story_util-10000002,M4A1's Report: The AR Team has located the data in Safe Hous
 story_util-20000002,Dark Information
 story_util-10000003,M4A1's Report: We managed to stay until the data transfer was complete//c but were chased into a blind alley before we could evacuate from the safe house.
 story_util-20000003,Defend the Base
-story_util-10000004,M4A1's Report: We were separated as we fled the battlefield with the assistance of a local Grifon squad//c and were only reunited today...
+story_util-10000004,M4A1's Report: We were separated as we fled the battlefield with the assistance of a local Grifon squad//c and were only reunited today…
 story_util-20000004,Final Challenge
 story_util-10000005,Today//c our commander officially reported for duty and started our first drill with my assistance.
 story_util-20000005,Drill
@@ -76,11 +76,11 @@ story_util-10000038,Hunter's base fell into disarray all of a sudden//c then AR-
 story_util-20000038,No Hunting
 story_util-10000039,I applied for this mission without consulting the commander//c but the commander still decided to accept the challenge even though it was much harder than I expected. All the best!
 story_util-20000039,Data Retrieval I
-story_util-10000040,We've recovered a few military hard disks but can't read the content... I'm dying to know what's in there... 
+story_util-10000040,We've recovered a few military hard disks but can't read the content... I'm dying to know what's in there...
 story_util-20000040,Data Retrieval II
 story_util-10000041,Sangvis forces came after the hard disks//c which means they're a big deal to them. They must contain some kind of important data!
 story_util-20000041,Data Retrieval III
-story_util-10000042,The commander listened to some of the recordings on the hard disks after the mission and looked a bit grave... Have S.F. still got many aces up their sleeve? 
+story_util-10000042,The commander listened to some of the recordings on the hard disks after the mission and looked a bit grave... Have S.F. still got many aces up their sleeve?
 story_util-20000042,Data Retrieval IV
 story_util-10000043,Makarov requested the commander to assist her in infiltrating Sangvis territory to rescue the trapped Nagant M1895.
 story_util-20000043,Anonymous Rescue I
@@ -134,7 +134,7 @@ story_util-10000067,A few days later//c Squad Negev of Grifon was ordered to sea
 story_util-20000067,Squad Negev
 story_util-10000068,The AR Team went in to investigate//c and successfully rendezvoused with the squad member dispatched by Negev to send the distress signal. We then lanched the rescue mission.
 story_util-20000068,Double Rescue
-story_util-10000069,We fended off "Alchemist". Squad Negev got out of danger//c but we've lost track of M4A1 and SOP-II when their signal got blocked again...
+story_util-10000069,We fended off "Alchemist". Squad Negev got out of danger//c but we've lost track of M4A1 and SOP-II when their signal got blocked again…
 story_util-20000069,Reunion
 story_util-10000070,M16A1 found SOP-II unconscious//c but a large amount of Sangvis forces have suddenly swarmed into Area S08 so we must move out immediately!
 story_util-20000070,Prisoner
@@ -146,7 +146,7 @@ story_util-10000073,AR-15 was trapped by Alchemist during the withdrawal. Meanwh
 story_util-20000073,Final Wish I
 story_util-10000074,SOP-II took the risk of heading onto the battlefiled and created an opening for AR-15 just in time. She also bought time for the rest of our troops to retreat safely.
 story_util-20000074,Final Wish II
-story_util-10000075,M16A1 returned with a message from AR-15. As the host of "Parapluie"//c there's no coming back for her. The only thing she can do is...
+story_util-10000075,M16A1 returned with a message from AR-15. As the host of "Parapluie"//c there's no coming back for her. The only thing she can do is…
 story_util-20000075,Final Wish III
 story_util-10000076,AR-15... The commander and I have no idea what you did in the end... All we know is that...you saved all of us...
 story_util-20000076,Final Wish IV
@@ -154,7 +154,7 @@ story_util-10000077,RO's Report: I am back at Grifon//c leading an ad-hoc squad 
 story_util-20000077,One-Week Teammates I
 story_util-10000078,RO's Report: This is the only human left who knows about Document 36. We must find him ASAP! Come on//c RO//c you can do it!
 story_util-20000078,One-Week Teammates II
-story_util-10000079,RO's Report: Sangvis Ferri destroyed the city with artillery//c and the status of my teammates is unclear. I don't want to lose any more friends. I have to do something...
+story_util-10000079,RO's Report: Sangvis Ferri destroyed the city with artillery//c and the status of my teammates is unclear. I don't want to lose any more friends. I have to do something…
 story_util-20000079,One-Week Teammates III
 story_util-10000080,RO's Report: Mission accomplished. I hope we will have all the fun we can tonight...as I shall be heading over to the AR Team tomorrow to take over from HER.
 story_util-20000080,One-Week Teammates IV
@@ -222,9 +222,9 @@ story_util-10000112,M4A1's Report: ......Where...am I?
 story_util-20000112,Cross Base
 story_util-10000113,M4A1's Report: I hate responsibility//c yet it has found me once again. P08//c I will lead everyone here to safety.
 story_util-20000113,Bearing Miscalculation
-story_util-10000114,M4A1's Report: Why is Architect here of all places? ...I can't get psyched out. I must achieve victory...
+story_util-10000114,M4A1's Report: Why is Architect here of all places? ...I can't get psyched out. I must achieve victory…
 story_util-20000114,Directional Algorithm
-story_util-10000115,M4A1's Report: Ouroboros...what in the world is going on...what...is this place...can we...survive...
+story_util-10000115,M4A1's Report: Ouroboros...what in the world is going on...what...is this place...can we...survive…
 story_util-20000115,Reverse Sequence
 story_util-10000116,RO635's Report: After attending a military party//c Mister Kruger has decided to pressure Miss Persica to speed up the collection of Lyco's documents.
 story_util-20000116,Report Meeting
@@ -232,19 +232,19 @@ story_util-10000117,RO635's Report: M16A1 suggests that I should gather some int
 story_util-20000117,The Last Supper
 story_util-10000118,RO635's Report: I've found the location of Document 7. It's time for me to contact Miss Persica.
 story_util-20000118,Acceleration
-story_util-10000119,RO635's Report: We've started downloading Document 7. I wonder what sort of danger lies in wait for us...
+story_util-10000119,RO635's Report: We've started downloading Document 7. I wonder what sort of danger lies in wait for us…
 story_util-20000119,Unwelcomed Guest
 story_util-10000120,RO635's Report: Dreamer has us pinned down with bombardment. The only thing we can do at this point is to wait for Document 7 to finish downloading.
 story_util-20000120,Shadow in the Sky
-story_util-10000121,RO635's Report: It's time to retreat! But//c the exfil route has been...
+story_util-10000121,RO635's Report: It's time to retreat! But//c the exfil route has been…
 story_util-20000121,Mission
 story_util-10000122,Persica's Report: RO and SOP2 have been successfully extracted. Commander//c start the search for M16A1.
 story_util-20000122,Parader I
 story_util-10000123,Persica's Report: The Commander's search is still ongoing. I must continue my work as well.
 story_util-20000123,Parader II
-story_util-10000124,Persica's Report: Let's take a look at M4A1's condition...I'll give her a try with a new memory...
+story_util-10000124,Persica's Report: Let's take a look at M4A1's condition...I'll give her a try with a new memory…
 story_util-20000124,Parader III
-story_util-10000125,Persica's Report: The experiment is at its final step. That person...should be almost ready by now...
+story_util-10000125,Persica's Report: The experiment is at its final step. That person...should be almost ready by now…
 story_util-20000125,Parader IV
 story_util-10000126,FAL's Report: The FN squad has begun to investigate the recent missing T-Doll incidents in the area.
 story_util-20000126,People in the Flask I
@@ -252,7 +252,7 @@ story_util-10000127,FAL's Report: The FN squad has dispatched two T-Dolls//c FNC
 story_util-20000127,People in the Flask II
 story_util-10000128,FAL's Report: The FN squad dispatches an elite T-Doll once again. I think the plan is coming to its final stages.
 story_util-20000128,People in the Flask III
-story_util-10000129,FAL's Report: The final step in intercepting Alchemist shall begin with me. I hope 57 and her squad will arrive on time...
+story_util-10000129,FAL's Report: The final step in intercepting Alchemist shall begin with me. I hope 57 and her squad will arrive on time…
 story_util-20000129,People in the Flask IV
 story_util-10000130,M16A1 has been missing for a week//c but RO and SOP2 are still fervently searching for her. However//c the Commander has left the base after receiving an urgent assignment...
 story_util-20000130,Banquet after Dark
@@ -264,13 +264,93 @@ story_util-10000133,RO has urgently reported the incident that had just happened
 story_util-20000133,Double Search
 story_util-10000134,The Commander complained that the food at the banquet was not as good as he thought it would be//c but look at me! I had to eat take-out on base! Meanwhile//c it seems like RO just encountered another new Sangvis Ringleader. This overtime is killing me!
 story_util-20000134,Prelude
-story_util-10000135,Newly encountered Sangvis Ringleader "Judge" is hunting down RO and SOP2. It's up to them themselves to come up with an escape plan...
+story_util-10000135,Newly encountered Sangvis Ringleader "Judge" is hunting down RO and SOP2. It's up to them themselves to come up with an escape plan…
 story_util-20000135,Breakthrough
-story_util-10000136,RO's Report: SOP2 once again finds herself in trouble as we are pursuing Judge. I hope reinforcements from the Commander will arrive in time...
+story_util-10000136,RO's Report: SOP2 once again finds herself in trouble as we are pursuing Judge. I hope reinforcements from the Commander will arrive in time…
 story_util-20000136,Hawk and Hound I
-story_util-10000137,RO's Report: The Commander said that the banquet he's at right now is a precursor of a large event to come//c but the immediate focus is still on the little incidents around us right now...
+story_util-10000137,RO's Report: The Commander said that the banquet he's at right now is a precursor of a large event to come//c but the immediate focus is still on the little incidents around us right now…
 story_util-20000137,Hawk and Hound II
-story_util-10000138,RO's Report: SOP2 began opening up to me...we'll get along well//c and things will slowly turn out for the better...I'm sure of it...
+story_util-10000138,RO's Report: SOP2 began opening up to me...we'll get along well//c and things will slowly turn out for the better...I'm sure of it…
 story_util-20000138,Hawk and Hound III
-story_util-10000139,RO's Report: We're right on Judge's tail! If we had some more help right now...
+story_util-10000139,RO's Report: We're right on Judge's tail! If we had some more help right now…
 story_util-20000139,Hawk and Hound IV
+story_util-10000140,The joint operation with the military has officially started. While the Commander is waiting for his first order//c something happens…
+story_util-20000140,Departure Day
+story_util-10000141,We linked up with M4A1 and came under Sangvis attack. The Commander is too far away to assist us//c so we can only ask the military for help.
+story_util-20000141,Toward the Frontlines
+story_util-10000142,AR Team reassembles and charges with us to the frontline. We are now pushing toward the core stronghold of Sangvis Ferri!
+story_util-20000142,Into the Hinterland
+story_util-10000143,The next task is to protect the military's anti-jammer equipment. This task is tough//c but M4A1 has a bold proposal.
+story_util-20000143,Cleanup
+story_util-10000144,The military is pushing too quickly and we can't keep up with the rearguard formation//c but M4A1 comes up with another plan. The new M4A1 seems to be much more proactive than before.
+story_util-20000144,On the Run
+story_util-10000145,Due to miscommunications with military intelligence (I don't know why)//c AR Team finds themselves in grave danger. The Commander is on the way with reinforcements. Just hold on!
+story_util-20000145,Desperate Breakout
+story_util-10000146,AR Team is fighting desperately to resist the Sangvis forces while the Commander is trying to break the encirclement from the outside. I hope everything will be alright…
+story_util-20000146,Betrayal I
+story_util-10000147,What is the situation with M4A1? The Commander and I are both very worried. Does RO know of a way to restore her…?
+story_util-20000147,Betrayal II
+story_util-10000148,The military forces have finally shown up. Although we still can't establish comms with them//c they should be able to join the fray very soon. We are very close to rescuing AR Team!
+story_util-20000148,Betrayal III
+story_util-10000149,Hey! Hey! What is going on?! Everything is a mess! What happened to AR Team? What about our base? What should I do//c Commander?!
+story_util-20000149,Betrayal IV
+story_util-10000150,UMP45 has received a new task from her employer. For this task//c they will need to undergo a new kind of training.
+story_util-20000150,Cognitive Conundrum I
+story_util-10000151,Cyberwarfare training is going smoothly//c but UMP45 finds a message from the past…
+story_util-20000151,Cognitive Conundrum II
+story_util-10000152,As they dive deeper into the training session//c UMP45 unlocks a memory that was sealed in her neural system.
+story_util-20000152,Cognitive Conundrum III
+story_util-10000153,A Griffin T-Doll is ensnared in a data trap. The opportunity to put the cyberwarfare training into practice has come.
+story_util-20000153,Cognitive Conundrum IV
+story_util-10000154,The search mission has begun. The keen Sangvis forces have also quickly acted in response.
+story_util-20000154,Hyperbolic Function I
+story_util-10000155,The Sangvis Ringleader unceasingly provokes Squad 404//c but UMP45's attention is focused on something else…
+story_util-20000155,Hyperbolic Function II
+story_util-10000156,UMP45 is not afraid of Sangvis Ferri and decides to go on alone. Meanwhile//c Destroyer finally reveals her new form in front of everyone...
+story_util-20000156,Hyperbolic Function III
+story_util-10000157,The decisive battle against Destroyer//c or rather//c Cerberus//c has begun!
+story_util-20000157,Hyperbolic Function IV
+story_util-10000158,UMP45's neural system is under Sangvis intrusion. 404 must collect enough pieces of memories to wake her up before Sangvis succeeds in their attack.
+story_util-20000158,Relative Behavior I
+story_util-10000159,More and more pieces of 45's memories are being uncovered. Dreamer has also begun remodeling Destroyer for the second time…
+story_util-20000159,Relative Behavior II
+story_util-10000160,The cyberwarfare battles have left 404 exhausted. Yet at this time//c Destroyer shows up in a brand new form!
+story_util-20000160,Relative Behavior III
+story_util-10000161,The final battle to escape has begun. Can 404 awaken UMP45//c shake off Perfect Form (self-proclaimed) Destroyer//c and safely escape?
+story_util-20000161,Relative Behavior IV
+story_util-10000162,
+story_util-20000162,
+story_util-10000163,
+story_util-20000163,
+story_util-10000164,
+story_util-20000164,
+story_util-10000165,
+story_util-20000165,
+story_util-10000166,
+story_util-20000166,
+story_util-10000167,
+story_util-20000167,
+story_util-10000168,
+story_util-20000168,
+story_util-10000169,
+story_util-20000169,
+story_util-10000170,
+story_util-20000170,
+story_util-10000171,
+story_util-20000171,
+story_util-10000172,
+story_util-20000172,
+story_util-10000173,
+story_util-20000173,
+story_util-10000174,
+story_util-20000174,
+story_util-10000175,
+story_util-20000175,
+story_util-10000176,
+story_util-20000176,
+story_util-10000177,
+story_util-20000177,
+story_util-10000178,
+story_util-20000178,
+story_util-10000179,
+story_util-20000179,
