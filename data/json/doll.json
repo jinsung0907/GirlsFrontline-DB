@@ -18,7 +18,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 130,
@@ -62,7 +62,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -106,7 +106,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -134,7 +134,7 @@
 	"id": 4,
 	"name": "Python",
 	"krName": "콜트 파이슨",
-	"enName": "蟒蛇",
+	"enName": "",
 	"jpName": "パイソン",
 	"cnName": "蟒蛇",
 	"rank": 5,
@@ -150,7 +150,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 142,
@@ -194,7 +194,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 80,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 130,
@@ -238,7 +238,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 105,
@@ -282,7 +282,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -326,7 +326,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 130,
@@ -370,7 +370,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -414,7 +414,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -458,7 +458,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 130,
@@ -502,7 +502,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 100,
@@ -546,7 +546,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -590,7 +590,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -634,7 +634,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -678,7 +678,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 110,
@@ -722,7 +722,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 115,
@@ -766,7 +766,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 110,
@@ -809,7 +809,7 @@
 		"dodge": 140,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 115,
@@ -853,7 +853,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 130,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -896,7 +896,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -940,7 +940,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -983,7 +983,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 120,
@@ -1027,7 +1027,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 100,
@@ -1071,7 +1071,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 115,
@@ -1115,7 +1115,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -1159,7 +1159,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 115,
@@ -1187,7 +1187,7 @@
 	"id": 28,
 	"name": "MP7",
 	"krName": "MP7",
-	"enName": "MP7",
+	"enName": "",
 	"jpName": "Gr MP7",
 	"cnName": "MP7",
 	"rank": 5,
@@ -1195,7 +1195,7 @@
 	"illust": "戏言咸咸",
 	"voice": "Lynn",
 	"buildTime": 8280,
-	"drop": "203",
+	"drop": "403,2",
 	"stats": {
 		"hp": 112,
 		"pow": 120,
@@ -1203,7 +1203,7 @@
 		"dodge": 122,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 100,
@@ -1247,7 +1247,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 125,
@@ -1291,7 +1291,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 110,
@@ -1335,7 +1335,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 130,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 115,
@@ -1378,7 +1378,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -1422,7 +1422,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 105,
@@ -1465,7 +1465,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 115,
@@ -1508,7 +1508,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 125,
@@ -1551,7 +1551,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 130,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 110,
@@ -1594,7 +1594,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 110,
@@ -1637,7 +1637,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 130,
@@ -1680,7 +1680,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 105,
@@ -1707,7 +1707,7 @@
 	"id": 41,
 	"name": "SKS",
 	"krName": "시모노프",
-	"enName": "SKS",
+	"enName": "Simonova",
 	"jpName": "SKS",
 	"cnName": "西蒙诺夫",
 	"rank": 2,
@@ -1723,7 +1723,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 105,
@@ -1766,7 +1766,7 @@
 		"dodge": 80,
 		"speed": 100,
 		"rate": 80,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 130,
@@ -1809,7 +1809,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 120,
@@ -1852,7 +1852,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 115,
@@ -1895,7 +1895,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 135,
@@ -1938,7 +1938,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 115,
@@ -1981,7 +1981,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 120,
@@ -2024,7 +2024,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 110,
@@ -2067,7 +2067,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 135,
@@ -2110,7 +2110,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 115,
@@ -2153,7 +2153,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 95,
@@ -2196,7 +2196,7 @@
 		"dodge": 80,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 130,
@@ -2239,7 +2239,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -2283,7 +2283,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -2327,7 +2327,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -2371,7 +2371,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -2415,7 +2415,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -2442,7 +2442,7 @@
 	"id": 59,
 	"name": "AK74U",
 	"krName": "AK-74U",
-	"enName": "AKS-74U",
+	"enName": "",
 	"jpName": "AK-74U",
 	"cnName": "AK-74U",
 	"rank": 5,
@@ -2458,7 +2458,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 108,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 103,
@@ -2502,7 +2502,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -2546,7 +2546,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -2590,7 +2590,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -2634,7 +2634,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -2678,7 +2678,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -2722,7 +2722,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -2765,7 +2765,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -2809,7 +2809,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -2853,7 +2853,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 105,
@@ -2897,7 +2897,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -2941,7 +2941,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 130,
@@ -2985,7 +2985,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -3012,7 +3012,7 @@
 	"id": 73,
 	"name": "AUG",
 	"krName": "AUG",
-	"enName": "AUG",
+	"enName": "",
 	"jpName": "AUG",
 	"cnName": "AUG",
 	"rank": 5,
@@ -3028,7 +3028,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 30
 	},
 	"grow": 125,
@@ -3072,7 +3072,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -3116,7 +3116,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 8
 	},
@@ -3161,7 +3161,7 @@
 		"dodge": 75,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -3205,7 +3205,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 9
 	},
@@ -3250,7 +3250,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 8
 	},
@@ -3295,7 +3295,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 9
 	},
@@ -3340,7 +3340,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 9
 	},
@@ -3385,7 +3385,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 9
 	},
@@ -3429,7 +3429,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 8
 	},
@@ -3473,7 +3473,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 80,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 11
 	},
@@ -3517,7 +3517,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -3561,7 +3561,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -3605,7 +3605,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -3650,7 +3650,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 8
 	},
@@ -3695,7 +3695,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -3739,7 +3739,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -3782,7 +3782,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 100,
@@ -3825,7 +3825,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 130,
@@ -3868,7 +3868,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -3911,7 +3911,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 120,
@@ -3954,7 +3954,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -3998,7 +3998,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 135,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -4042,7 +4042,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 135,
@@ -4086,7 +4086,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -4129,7 +4129,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -4173,7 +4173,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 110,
@@ -4217,7 +4217,7 @@
 		"dodge": 122,
 		"speed": 100,
 		"rate": 108,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 110,
@@ -4260,7 +4260,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 110,
@@ -4304,7 +4304,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 95,
@@ -4348,7 +4348,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -4392,7 +4392,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 108,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -4435,7 +4435,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 105,
@@ -4479,7 +4479,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -4523,7 +4523,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 11
 	},
@@ -4568,7 +4568,7 @@
 		"dodge": 135,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 8
 	},
@@ -4612,7 +4612,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -4656,7 +4656,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 9
 	},
@@ -4692,7 +4692,7 @@
 	"illust": "能登ツグミ",
 	"voice": "Minami Tanaka",
 	"buildTime": 2100,
-	"drop": "0",
+	"drop": "102",
 	"stats": {
 		"hp": 105,
 		"pow": 125,
@@ -4700,7 +4700,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -4744,7 +4744,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 140,
@@ -4788,7 +4788,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -4824,7 +4824,7 @@
 	"illust": "ALLENES",
 	"voice": "Iori Nomizu",
 	"buildTime": 7500,
-	"drop": "2",
+	"drop": "2,102",
 	"stats": {
 		"hp": 95,
 		"pow": 100,
@@ -4832,7 +4832,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 120,
@@ -4868,7 +4868,7 @@
 	"illust": "CanceR",
 	"voice": "Asami Imai",
 	"buildTime": 15600,
-	"drop": "2",
+	"drop": "2,102",
 	"stats": {
 		"hp": 105,
 		"pow": 120,
@@ -4876,7 +4876,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 105,
@@ -4919,7 +4919,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -4955,7 +4955,7 @@
 	"illust": "ASK",
 	"voice": "Marina Inoue",
 	"buildTime": 14520,
-	"drop": "202,25",
+	"drop": "0",
 	"stats": {
 		"hp": 100,
 		"pow": 105,
@@ -4963,7 +4963,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -4999,7 +4999,7 @@
 	"illust": "死盖",
 	"voice": "Ami Hagihara",
 	"buildTime": 11700,
-	"drop": "2",
+	"drop": "2,102",
 	"stats": {
 		"hp": 90,
 		"pow": 110,
@@ -5007,7 +5007,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -5051,7 +5051,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -5095,7 +5095,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 145,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -5139,7 +5139,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -5175,7 +5175,7 @@
 	"illust": "受菟",
 	"voice": "Ricca Tachibana",
 	"buildTime": 14400,
-	"drop": "1711,103",
+	"drop": "101",
 	"stats": {
 		"hp": 100,
 		"pow": 115,
@@ -5183,7 +5183,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 105,
@@ -5226,7 +5226,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 9
 	},
@@ -5263,7 +5263,7 @@
 	"illust": "音符",
 	"voice": "Shiki Aoki",
 	"buildTime": 3900,
-	"drop": "1,103",
+	"drop": "1",
 	"stats": {
 		"hp": 110,
 		"pow": 115,
@@ -5271,7 +5271,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -5315,7 +5315,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 100,
@@ -5358,7 +5358,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 135,
@@ -5401,7 +5401,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -5445,7 +5445,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -5481,7 +5481,7 @@
 	"illust": "钉田西瓜",
 	"voice": "Nozomi Yamamoto",
 	"buildTime": 6600,
-	"drop": "103",
+	"drop": "101",
 	"stats": {
 		"hp": 110,
 		"pow": 90,
@@ -5489,7 +5489,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -5524,7 +5524,7 @@
 	"illust": "麻将",
 	"voice": "Emiri Katou",
 	"buildTime": 2700,
-	"drop": "1710,103",
+	"drop": "101",
 	"stats": {
 		"hp": 90,
 		"pow": 95,
@@ -5532,7 +5532,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 130,
@@ -5576,7 +5576,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -5612,7 +5612,7 @@
 	"illust": "NoriZC",
 	"voice": "Nozomi Yamamoto",
 	"buildTime": 11400,
-	"drop": "103",
+	"drop": "101",
 	"stats": {
 		"hp": 100,
 		"pow": 110,
@@ -5620,7 +5620,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -5664,7 +5664,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 95,
@@ -5708,7 +5708,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 110,
@@ -5735,7 +5735,7 @@
 	"id": 137,
 	"name": "PP1901",
 	"krName": "PP-19-01",
-	"enName": "PP-19-01",
+	"enName": "",
 	"jpName": "PP-19-01",
 	"cnName": "PP-19-01",
 	"rank": 4,
@@ -5751,7 +5751,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -5795,7 +5795,7 @@
 		"dodge": 75,
 		"speed": 100,
 		"rate": 80,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -5838,7 +5838,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -5882,7 +5882,7 @@
 		"dodge": 135,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 135,
@@ -5926,7 +5926,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -5969,7 +5969,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -6013,7 +6013,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -6057,7 +6057,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 100,
@@ -6093,7 +6093,7 @@
 	"illust": "rosele",
 	"voice": "Rie Takahashi",
 	"buildTime": 13800,
-	"drop": "2,103",
+	"drop": "2,101",
 	"stats": {
 		"hp": 90,
 		"pow": 135,
@@ -6101,7 +6101,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 135,
@@ -6136,7 +6136,7 @@
 	"illust": "工口牛",
 	"voice": "Nozomi Yamamoto",
 	"buildTime": 15600,
-	"drop": "2,103",
+	"drop": "2,101",
 	"stats": {
 		"hp": 100,
 		"pow": 110,
@@ -6144,7 +6144,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 120,
@@ -6187,7 +6187,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 120,
@@ -6230,7 +6230,7 @@
 		"dodge": 80,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 130,
@@ -6273,7 +6273,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -6318,7 +6318,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 115,
@@ -6354,7 +6354,7 @@
 	"illust": "REALMBW",
 	"voice": "Hitomi Nabatame",
 	"buildTime": 29100,
-	"drop": "104",
+	"drop": "0",
 	"stats": {
 		"hp": 125,
 		"pow": 125,
@@ -6363,7 +6363,7 @@
 		"speed": 100,
 		"rate": 80,
 		"armor": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -6409,7 +6409,7 @@
 		"speed": 100,
 		"rate": 100,
 		"armor": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -6454,7 +6454,7 @@
 		"speed": 100,
 		"rate": 105,
 		"armor": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -6499,7 +6499,7 @@
 		"speed": 100,
 		"rate": 115,
 		"armor": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -6544,7 +6544,7 @@
 		"speed": 100,
 		"rate": 120,
 		"armor": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -6589,7 +6589,7 @@
 		"speed": 100,
 		"rate": 110,
 		"armor": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 3
 	},
@@ -6635,7 +6635,7 @@
 		"speed": 100,
 		"rate": 115,
 		"armor": 130,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 5
 	},
@@ -6680,7 +6680,7 @@
 		"speed": 100,
 		"rate": 95,
 		"armor": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 3
 	},
@@ -6726,7 +6726,7 @@
 		"speed": 100,
 		"rate": 110,
 		"armor": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -6772,7 +6772,7 @@
 		"speed": 100,
 		"rate": 135,
 		"armor": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 5
 	},
@@ -6817,7 +6817,7 @@
 		"speed": 100,
 		"rate": 105,
 		"armor": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 3
 	},
@@ -6862,7 +6862,7 @@
 		"speed": 100,
 		"rate": 125,
 		"armor": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -6890,7 +6890,7 @@
 	"id": 163,
 	"name": "AA12",
 	"krName": "AA-12",
-	"enName": "AA-12",
+	"enName": "",
 	"jpName": "AA-12",
 	"cnName": "AA-12",
 	"rank": 5,
@@ -6907,7 +6907,7 @@
 		"speed": 100,
 		"rate": 150,
 		"armor": 122,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 5
 	},
@@ -6935,7 +6935,7 @@
 	"id": 164,
 	"name": "FP6",
 	"krName": "FP-6",
-	"enName": "FP-6",
+	"enName": "",
 	"jpName": "FP-6",
 	"cnName": "FP-6",
 	"rank": 5,
@@ -6952,7 +6952,7 @@
 		"speed": 100,
 		"rate": 110,
 		"armor": 130,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -6981,7 +6981,7 @@
 	"id": 165,
 	"name": "M1014",
 	"krName": "M1014",
-	"enName": "M1014",
+	"enName": "",
 	"jpName": "M1014",
 	"cnName": "M1014",
 	"rank": 4,
@@ -6998,7 +6998,7 @@
 		"speed": 100,
 		"rate": 120,
 		"armor": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -7042,7 +7042,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -7078,7 +7078,7 @@
 	"illust": "雪樱樱",
 	"voice": "Ayaka Fujii",
 	"buildTime": 2400,
-	"drop": "1801,105",
+	"drop": "105",
 	"stats": {
 		"hp": 100,
 		"pow": 130,
@@ -7086,7 +7086,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -7129,7 +7129,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -7173,7 +7173,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 100,
@@ -7217,7 +7217,7 @@
 		"dodge": 80,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 130,
@@ -7260,7 +7260,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 135,
@@ -7303,7 +7303,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 75,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 30
 	},
 	"grow": 145,
@@ -7347,7 +7347,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -7392,7 +7392,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 125,
@@ -7435,7 +7435,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 130,
@@ -7471,7 +7471,7 @@
 	"illust": "废人",
 	"voice": "Kibune Sachiho",
 	"buildTime": 7800,
-	"drop": "0",
+	"drop": "403",
 	"stats": {
 		"hp": 85,
 		"pow": 110,
@@ -7479,7 +7479,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -7523,7 +7523,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 100,
@@ -7566,7 +7566,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 112,
@@ -7602,7 +7602,7 @@
 	"illust": "liduke",
 	"voice": "Yuka Saito",
 	"buildTime": 17100,
-	"drop": "25",
+	"drop": "0",
 	"stats": {
 		"hp": 93,
 		"pow": 138,
@@ -7610,7 +7610,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 138,
@@ -7653,7 +7653,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 130,
@@ -7696,7 +7696,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -7732,7 +7732,7 @@
 	"illust": "zui",
 	"voice": "Kotomi Aihara",
 	"buildTime": 13800,
-	"drop": "0",
+	"drop": "403",
 	"stats": {
 		"hp": 110,
 		"pow": 110,
@@ -7740,7 +7740,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 110,
@@ -7783,7 +7783,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 75,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 150,
@@ -7827,7 +7827,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 117,
@@ -7870,7 +7870,7 @@
 		"dodge": 140,
 		"speed": 100,
 		"rate": 130,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 8
 	},
@@ -7907,7 +7907,7 @@
 	"illust": "PHI",
 	"voice": "Ryouko Maekawa",
 	"buildTime": 2100,
-	"drop": "1709",
+	"drop": "1709,403",
 	"stats": {
 		"hp": 110,
 		"pow": 110,
@@ -7915,7 +7915,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -7959,7 +7959,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 112,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -8004,7 +8004,7 @@
 		"speed": 100,
 		"rate": 130,
 		"armor": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -8050,7 +8050,7 @@
 		"speed": 100,
 		"rate": 140,
 		"armor": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 5
 	},
@@ -8096,7 +8096,7 @@
 		"speed": 100,
 		"rate": 105,
 		"armor": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 5
 	},
@@ -8132,7 +8132,7 @@
 	"illust": "猫头神",
 	"voice": "Akane Hanazawa",
 	"buildTime": 6900,
-	"drop": "1710",
+	"drop": "1710,403",
 	"stats": {
 		"hp": 115,
 		"pow": 95,
@@ -8140,7 +8140,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 115,
@@ -8184,7 +8184,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 136,
@@ -8211,7 +8211,7 @@
 	"id": 193,
 	"name": "T65",
 	"krName": "T65",
-	"enName": "T65",
+	"enName": "",
 	"jpName": "T65",
 	"cnName": "T65",
 	"rank": 3,
@@ -8219,7 +8219,7 @@
 	"illust": "PHI",
 	"voice": "Arisa Ida",
 	"buildTime": 11100,
-	"drop": "1711",
+	"drop": "1711,403",
 	"stats": {
 		"hp": 112,
 		"pow": 120,
@@ -8227,7 +8227,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -8255,7 +8255,7 @@
 	"id": 194,
 	"name": "K2",
 	"krName": "K2",
-	"enName": "K2",
+	"enName": "",
 	"jpName": "K2",
 	"cnName": "K2",
 	"rank": 5,
@@ -8271,7 +8271,7 @@
 		"dodge": 108,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 111,
@@ -8299,7 +8299,7 @@
 	"id": 195,
 	"name": "HK23",
 	"krName": "HK23",
-	"enName": "HK23",
+	"enName": "",
 	"jpName": "Gr MG23",
 	"cnName": "HK23",
 	"rank": 3,
@@ -8307,7 +8307,7 @@
 	"illust": "Rain Lan",
 	"voice": "Satomi Satou",
 	"buildTime": 19500,
-	"drop": "1712",
+	"drop": "1712,403",
 	"stats": {
 		"hp": 90,
 		"pow": 95,
@@ -8315,7 +8315,7 @@
 		"dodge": 132,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 9
 	},
@@ -8344,7 +8344,7 @@
 	"id": 196,
 	"name": "ZastavaM21",
 	"krName": "Zas M21",
-	"enName": "Zas M21",
+	"enName": "",
 	"jpName": "Zas M21",
 	"cnName": "Zas M21",
 	"rank": 5,
@@ -8360,7 +8360,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 108,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -8388,7 +8388,7 @@
 	"id": 197,
 	"name": "Carcano1891",
 	"krName": "카르카노M1891",
-	"enName": "卡尔卡诺M1891",
+	"enName": "",
 	"jpName": "カルカノ M1891",
 	"cnName": "卡尔卡诺M1891",
 	"rank": 5,
@@ -8404,7 +8404,7 @@
 		"dodge": 108,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 140,
@@ -8431,7 +8431,7 @@
 	"id": 198,
 	"name": "Carcano1938",
 	"krName": "카르카노M91/38",
-	"enName": "卡尔卡诺M91/38",
+	"enName": "",
 	"jpName": "カルカノ M91/38",
 	"cnName": "卡尔卡诺M91/38",
 	"rank": 5,
@@ -8447,7 +8447,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 140,
@@ -8474,7 +8474,7 @@
 	"id": 199,
 	"name": "80type",
 	"krName": "80식",
-	"enName": "80式",
+	"enName": "",
 	"jpName": "80式",
 	"cnName": "80式",
 	"rank": 4,
@@ -8490,7 +8490,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -8519,7 +8519,7 @@
 	"id": 200,
 	"name": "xm3",
 	"krName": "XM3",
-	"enName": "XM3",
+	"enName": "",
 	"jpName": "XM3",
 	"cnName": "XM3",
 	"rank": 4,
@@ -8535,7 +8535,7 @@
 		"dodge": 88,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 128,
@@ -8562,7 +8562,7 @@
 	"id": 201,
 	"name": "GepardM1",
 	"krName": "게파드 M1",
-	"enName": "猎豹M1",
+	"enName": "",
 	"jpName": "ゲパード M1",
 	"cnName": "猎豹M1",
 	"rank": 3,
@@ -8578,7 +8578,7 @@
 		"dodge": 82,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 120,
@@ -8605,7 +8605,7 @@
 	"id": 202,
 	"name": "Thunder50",
 	"krName": "썬더",
-	"enName": "雷电",
+	"enName": "",
 	"jpName": "Thunder",
 	"cnName": "雷电",
 	"rank": 4,
@@ -8613,7 +8613,7 @@
 	"illust": "NIN",
 	"voice": "Yuuki Kuwahara",
 	"buildTime": 3600,
-	"drop": "203",
+	"drop": "403",
 	"stats": {
 		"hp": 130,
 		"pow": 160,
@@ -8621,7 +8621,7 @@
 		"dodge": 75,
 		"speed": 100,
 		"rate": 65,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 130,
@@ -8648,7 +8648,7 @@
 	"id": 203,
 	"name": "PDW",
 	"krName": "허니뱃저",
-	"enName": "蜜獾",
+	"enName": "",
 	"jpName": "Honey Badger",
 	"cnName": "蜜獾",
 	"rank": 4,
@@ -8664,7 +8664,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 90,
@@ -8692,7 +8692,7 @@
 	"id": 204,
 	"name": "Ballista",
 	"krName": "발리스타",
-	"enName": "芭莉斯塔",
+	"enName": "",
 	"jpName": "Ballista",
 	"cnName": "芭莉斯塔",
 	"rank": 5,
@@ -8708,7 +8708,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 142,
@@ -8735,7 +8735,7 @@
 	"id": 205,
 	"name": "AN94",
 	"krName": "AN-94",
-	"enName": "AN-94",
+	"enName": "",
 	"jpName": "AN-94",
 	"cnName": "AN-94",
 	"rank": 5,
@@ -8751,7 +8751,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 148,
@@ -8779,7 +8779,7 @@
 	"id": 206,
 	"name": "AK12",
 	"krName": "AK-12",
-	"enName": "AK-12",
+	"enName": "",
 	"jpName": "AK-12",
 	"cnName": "AK-12",
 	"rank": 5,
@@ -8795,7 +8795,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 139,
@@ -8823,7 +8823,7 @@
 	"id": 207,
 	"name": "CZ2000",
 	"krName": "CZ2000",
-	"enName": "CZ2000",
+	"enName": "",
 	"jpName": "CZ2000",
 	"cnName": "CZ2000",
 	"rank": 4,
@@ -8839,7 +8839,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 118,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -8867,7 +8867,7 @@
 	"id": 208,
 	"name": "HK21",
 	"krName": "HK21",
-	"enName": "HK21",
+	"enName": "",
 	"jpName": "HMG21",
 	"cnName": "HK21",
 	"rank": 5,
@@ -8883,7 +8883,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -8912,7 +8912,7 @@
 	"id": 209,
 	"name": "OTs39",
 	"krName": "OTs-39",
-	"enName": "OTs-39",
+	"enName": "",
 	"jpName": "OTs-39",
 	"cnName": "OTs-39",
 	"rank": 3,
@@ -8928,7 +8928,7 @@
 		"dodge": 122,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -8955,7 +8955,7 @@
 	"id": 210,
 	"name": "CZ52",
 	"krName": "CZ52",
-	"enName": "CZ52",
+	"enName": "",
 	"jpName": "CZ52",
 	"cnName": "CZ52",
 	"rank": 3,
@@ -8971,7 +8971,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -8999,7 +8999,7 @@
 	"id": 211,
 	"name": "DTASRS",
 	"krName": "SRS",
-	"enName": "SRS",
+	"enName": "",
 	"jpName": "SRS",
 	"cnName": "SRS",
 	"rank": 5,
@@ -9015,7 +9015,7 @@
 		"dodge": 98,
 		"speed": 100,
 		"rate": 98,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 130,
@@ -9042,7 +9042,7 @@
 	"id": 212,
 	"name": "K5",
 	"krName": "K5",
-	"enName": "K5",
+	"enName": "",
 	"jpName": "K5",
 	"cnName": "K5",
 	"rank": 4,
@@ -9058,7 +9058,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 118,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 108,
@@ -9086,7 +9086,7 @@
 	"id": 213,
 	"name": "CBJMS",
 	"krName": "C-MS",
-	"enName": "C-MS",
+	"enName": "",
 	"jpName": "C-MS",
 	"cnName": "C-MS",
 	"rank": 5,
@@ -9102,7 +9102,7 @@
 		"dodge": 122,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 110,
@@ -9130,7 +9130,7 @@
 	"id": 215,
 	"name": "MDR",
 	"krName": "MDR",
-	"enName": "MDR",
+	"enName": "",
 	"jpName": "MDR",
 	"cnName": "MDR",
 	"rank": 5,
@@ -9146,7 +9146,7 @@
 		"dodge": 98,
 		"speed": 100,
 		"rate": 112,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 122,
@@ -9174,7 +9174,7 @@
 	"id": 216,
 	"name": "XM8",
 	"krName": "XM8",
-	"enName": "XM8",
+	"enName": "",
 	"jpName": "XM8",
 	"cnName": "XM8",
 	"rank": 4,
@@ -9190,7 +9190,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 112,
@@ -9218,7 +9218,7 @@
 	"id": 217,
 	"name": "HEZISM1",
 	"krName": "SM-1",
-	"enName": "SM-1",
+	"enName": "",
 	"jpName": "SM-1",
 	"cnName": "SM-1",
 	"rank": 3,
@@ -9234,7 +9234,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 115,
@@ -9261,7 +9261,7 @@
 	"id": 218,
 	"name": "T77",
 	"krName": "T77",
-	"enName": "T77",
+	"enName": "",
 	"jpName": "T77",
 	"cnName": "T77",
 	"rank": 3,
@@ -9277,7 +9277,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 122,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 98,
@@ -9304,7 +9304,7 @@
 	"id": 220,
 	"name": "MP443",
 	"krName": "MP-443",
-	"enName": "MP-443",
+	"enName": "",
 	"jpName": "MP-443",
 	"cnName": "MP-443",
 	"rank": 3,
@@ -9320,7 +9320,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -9348,7 +9348,7 @@
 	"id": 221,
 	"name": "GSH18",
 	"krName": "GSh-18",
-	"enName": "GSh-18",
+	"enName": "",
 	"jpName": "GSh-18",
 	"cnName": "GSh-18",
 	"rank": 3,
@@ -9364,7 +9364,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 105,
@@ -9392,7 +9392,7 @@
 	"id": 222,
 	"name": "TAC50",
 	"krName": "TAC-50",
-	"enName": "TAC-50",
+	"enName": "",
 	"jpName": "TAC-50",
 	"cnName": "TAC-50",
 	"rank": 5,
@@ -9408,7 +9408,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 132,
@@ -9435,7 +9435,7 @@
 	"id": 223,
 	"name": "CETME556",
 	"krName": "Model L",
-	"enName": "Model L",
+	"enName": "",
 	"jpName": "Model L",
 	"cnName": "Model L",
 	"rank": 3,
@@ -9451,7 +9451,7 @@
 		"dodge": 102,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 112,
@@ -9479,7 +9479,7 @@
 	"id": 224,
 	"name": "PM06",
 	"krName": "PM-06",
-	"enName": "PM-06",
+	"enName": "",
 	"jpName": "PM-06",
 	"cnName": "PM-06",
 	"rank": 5,
@@ -9495,7 +9495,7 @@
 		"dodge": 118,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 114,
@@ -9523,7 +9523,7 @@
 	"id": 225,
 	"name": "Cx4Storm",
 	"krName": "Cx4 스톰",
-	"enName": "Cx4 Storm",
+	"enName": "",
 	"jpName": "Cx4 Storm",
 	"cnName": "Cx4 风暴",
 	"rank": 4,
@@ -9539,7 +9539,7 @@
 		"dodge": 118,
 		"speed": 100,
 		"rate": 80,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 112,
@@ -9567,7 +9567,7 @@
 	"id": 226,
 	"name": "Mk12",
 	"krName": "Mk 12",
-	"enName": "Mk.12 Mod 01",
+	"enName": "",
 	"jpName": "Mk 12",
 	"cnName": "Mk 12",
 	"rank": 4,
@@ -9583,7 +9583,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 135,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 122,
@@ -9610,7 +9610,7 @@
 	"id": 227,
 	"name": "A91",
 	"krName": "A-91",
-	"enName": "A-91",
+	"enName": "",
 	"jpName": "A-91",
 	"cnName": "A-91",
 	"rank": 4,
@@ -9626,7 +9626,7 @@
 		"dodge": 92,
 		"speed": 100,
 		"rate": 112,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -9670,7 +9670,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 115,
@@ -9698,7 +9698,7 @@
 	"id": 229,
 	"name": "M870P",
 	"krName": "M870",
-	"enName": "雷明顿M870P",
+	"enName": "",
 	"jpName": "M870",
 	"cnName": "M870",
 	"rank": 5,
@@ -9715,7 +9715,7 @@
 		"speed": 100,
 		"rate": 110,
 		"armor": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 4
 	},
@@ -9744,7 +9744,7 @@
 	"id": 230,
 	"name": "OBR",
 	"krName": "OBR",
-	"enName": "OBR",
+	"enName": "",
 	"jpName": "OBR",
 	"cnName": "OBR",
 	"rank": 3,
@@ -9760,7 +9760,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 120,
@@ -9787,7 +9787,7 @@
 	"id": 231,
 	"name": "M82A1",
 	"krName": "M82A1",
-	"enName": "巴雷特M82A1",
+	"enName": "",
 	"jpName": "M82A1",
 	"cnName": "M82A1",
 	"rank": 5,
@@ -9803,7 +9803,7 @@
 		"dodge": 82,
 		"speed": 100,
 		"rate": 96,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 128,
@@ -9846,7 +9846,7 @@
 		"dodge": 128,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 125,
@@ -9890,7 +9890,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 102,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 132,
@@ -9934,7 +9934,7 @@
 		"dodge": 128,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 122,
@@ -9978,7 +9978,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 98,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 128,
@@ -10021,7 +10021,7 @@
 		"dodge": 82,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 128,
@@ -10065,7 +10065,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 100,
@@ -10109,7 +10109,7 @@
 		"dodge": 130,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -10154,7 +10154,7 @@
 		"dodge": 102,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 105,
@@ -10198,7 +10198,7 @@
 		"dodge": 132,
 		"speed": 100,
 		"rate": 128,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 9
 	},
@@ -10243,7 +10243,7 @@
 		"dodge": 80,
 		"speed": 100,
 		"rate": 80,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 122,
@@ -10267,6 +10267,50 @@
 		"code": "AimAttackCurrentTarge"
 	}
 }, {
+	"id": 242,
+	"name": "P22",
+	"krName": "P22",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "hg",
+	"illust": "音符",
+	"voice": "",
+	"buildTime": 4200,
+	"drop": "215",
+	"stats": {
+		"hp": 105,
+		"pow": 95,
+		"hit": 122,
+		"dodge": 138,
+		"speed": 100,
+		"rate": 112,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 130,
+	"canequip": {
+		"1": [4, 13],
+		"2": [6],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 4,
+		"effectPos": [1, 2, 3, 5, 8],
+		"gridEffect": {
+			"pow": 15,
+			"hit": 25
+		}
+	},
+	"skill": {
+		"realid": 111001,
+		"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
+		"intercd": 6,
+		"code": "powBuffShield"
+	}
+}, {
 	"id": 243,
 	"name": "Type64-AR",
 	"krName": "64식 소총",
@@ -10286,7 +10330,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 88,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 140,
@@ -10313,13 +10357,13 @@
 }, {
 	"id": 244,
 	"name": "TEC9",
-	"krName": "",
+	"krName": "TEC-9",
 	"enName": "",
 	"jpName": "",
 	"cnName": "",
 	"rank": 3,
 	"type": "hg",
-	"illust": "",
+	"illust": "十三天",
 	"voice": "",
 	"buildTime": 2700,
 	"drop": "1901",
@@ -10330,7 +10374,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 105,
@@ -10348,7 +10392,10 @@
 		}
 	},
 	"skill": {
-		"realid": 111301
+		"realid": 111301,
+		"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
+		"intercd": 6,
+		"code": "nightpowDebuff"
 	}
 }, {
 	"id": 245,
@@ -10370,7 +10417,7 @@
 		"dodge": 126,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 118,
@@ -10414,7 +10461,7 @@
 		"dodge": 108,
 		"speed": 100,
 		"rate": 112,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 122,
@@ -10457,7 +10504,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 106,
@@ -10501,7 +10548,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 9
 	},
@@ -10527,6 +10574,313 @@
 		"code": "powBuffSelf"
 	}
 }, {
+	"id": 250,
+	"name": "HS2000",
+	"krName": "HS2000",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "hg",
+	"illust": "水熊",
+	"voice": "",
+	"buildTime": 4200,
+	"drop": "217",
+	"stats": {
+		"hp": 108,
+		"pow": 125,
+		"hit": 125,
+		"dodge": 120,
+		"speed": 100,
+		"rate": 115,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 116,
+	"canequip": {
+		"1": [4, 13],
+		"2": [6],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 4,
+		"effectPos": [2, 3, 5, 6, 8, 9],
+		"gridEffect": {
+			"rate": 15,
+			"dodge": 10
+		}
+	},
+	"skill": {
+		"realid": 110701,
+		"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
+		"intercd": 6,
+		"code": "LWMMGShield"
+	}
+}, {
+	"id": 251,
+	"name": "X95",
+	"krName": "X95",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "smg",
+	"illust": "十月十日奏",
+	"voice": "",
+	"buildTime": 14760,
+	"drop": "215",
+	"stats": {
+		"hp": 110,
+		"pow": 138,
+		"hit": 116,
+		"dodge": 118,
+		"speed": 100,
+		"rate": 118,
+		"armorPiercing": 15,
+		"crit": 5
+	},
+	"grow": 100,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 6,
+		"effectPos": [1, 2, 3],
+		"gridEffect": {
+			"rate": 15,
+			"hit": 25
+		}
+	},
+	"skill": {
+		"realid": 110801,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 4,
+		"code": "X95"
+	}
+}, {
+	"id": 252,
+	"name": "KSVK",
+	"krName": "KSVK",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "rf",
+	"illust": "Pandea_work",
+	"voice": "",
+	"buildTime": 15000,
+	"drop": "216",
+	"stats": {
+		"hp": 100,
+		"pow": 140,
+		"hit": 112,
+		"dodge": 82,
+		"speed": 100,
+		"rate": 88,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 128,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [7, 8],
+		"gridEffect": {
+			"cooldown": 15
+		}
+	},
+	"skill": {
+		"realid": 111101,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 10,
+		"code": "KVSKShoot"
+	}
+}, {
+	"id": 253,
+	"name": "Lewis",
+	"krName": "루이스",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "mg",
+	"illust": "STAR影法师",
+	"voice": "",
+	"buildTime": 23280,
+	"drop": "216",
+	"stats": {
+		"hp": 115,
+		"pow": 118,
+		"hit": 110,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 105,
+		"armorPiercing": 15,
+		"crit": 5,
+		"bullet": 10
+	},
+	"grow": 132,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3],
+		"3": [9, 14]
+	},
+	"effect": {
+		"effectType": "sg",
+		"effectCenter": 2,
+		"effectPos": [7, 8, 9],
+		"gridEffect": {
+			"hit": 10,
+			"armor": 15
+		}
+	},
+	"skill": {
+		"realid": 111201,
+		"cd": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
+		"intercd": 8,
+		"code": "Lewis"
+	}
+}, {
+	"id": 254,
+	"name": "UKM2000",
+	"krName": "UKM-2000",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "mg",
+	"illust": "DSマイル",
+	"voice": "",
+	"buildTime": 22500,
+	"drop": "215",
+	"stats": {
+		"hp": 102,
+		"pow": 120,
+		"hit": 112,
+		"dodge": 115,
+		"speed": 100,
+		"rate": 112,
+		"armorPiercing": 15,
+		"crit": 5,
+		"bullet": 11
+	},
+	"grow": 105,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3],
+		"3": [9, 14]
+	},
+	"effect": {
+		"effectType": "sg",
+		"effectCenter": 3,
+		"effectPos": [7, 9],
+		"gridEffect": {
+			"pow": 10,
+			"hit": 15
+		}
+	},
+	"skill": {
+		"realid": 110901,
+		"cd": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
+		"intercd": 8,
+		"code": "UKM2000"
+	}
+}, {
+	"id": 255,
+	"name": "scout",
+	"krName": "스카웃",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "rf",
+	"illust": "小叶有喜",
+	"voice": "",
+	"buildTime": 15600,
+	"drop": "1902",
+	"stats": {
+		"hp": 102,
+		"pow": 110,
+		"hit": 125,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 105,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 112,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [8, 9],
+		"gridEffect": {
+			"cooldown": 12
+		}
+	},
+	"skill": {
+		"realid": 100102,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 5,
+		"code": "powBuffSelf"
+	}
+}, {
+	"id": 256,
+	"name": "Falcon",
+	"krName": "팔콘",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "rf",
+	"illust": "八才",
+	"voice": "",
+	"buildTime": 15600,
+	"drop": "1903",
+	"stats": {
+		"hp": 100,
+		"pow": 132,
+		"hit": 110,
+		"dodge": 85,
+		"speed": 100,
+		"rate": 95,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 116,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [7, 8],
+		"gridEffect": {
+			"cooldown": 12
+		}
+	},
+	"skill": {
+		"realid": 102702,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 10,
+		"code": "AimAttackCurrentTarge"
+	}
+}, {
 	"id": 1001,
 	"name": "BB_Noel",
 	"krName": "노엘",
@@ -10538,7 +10892,7 @@
 	"illust": "水熊",
 	"voice": "Kanako Kondo",
 	"buildTime": 3600,
-	"drop": "305,304",
+	"drop": "0",
 	"stats": {
 		"hp": 90,
 		"pow": 140,
@@ -10546,7 +10900,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -10582,7 +10936,7 @@
 	"illust": "ZAGALA",
 	"voice": "Aya Suzaki",
 	"buildTime": 30600,
-	"drop": "303",
+	"drop": "0",
 	"stats": {
 		"hp": 125,
 		"pow": 130,
@@ -10591,7 +10945,7 @@
 		"speed": 100,
 		"rate": 110,
 		"armor": 125,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40,
 		"bullet": 5
 	},
@@ -10617,273 +10971,10 @@
 		"code": "GG_Elfeldt"
 	}
 }, {
-	"id": 1003,
-	"name": "Kiana",
-	"krName": "키아나 카스라나",
-	"enName": "琪亚娜",
-	"jpName": "キアナ",
-	"cnName": "琪亚娜",
-	"rank": 5,
-	"type": "hg",
-	"illust": "水乌龟",
-	"voice": "",
-	"buildTime": 3600,
-	"drop": "309",
-	"stats": {
-		"hp": 105,
-		"pow": 125,
-		"hit": 118,
-		"dodge": 115,
-		"speed": 100,
-		"rate": 125,
-		"armorPiercing": 10,
-		"crit": 20
-	},
-	"grow": 104,
-	"canequip": {
-		"1": [4, 13],
-		"2": [6],
-		"3": [9, 10]
-	},
-	"effect": {
-		"effectType": "all",
-		"effectCenter": 5,
-		"effectPos": [4, 6, 7, 9],
-		"gridEffect": {
-			"pow": 10,
-			"dodge": 15
-		}
-	},
-	"skill": {
-		"realid": 107301,
-		"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
-		"intercd": 6,
-		"code": "Kiana"
-	}
-}, {
-	"id": 1004,
-	"name": "RaidenMei",
-	"krName": "라이덴 메이",
-	"enName": "雷电芽衣",
-	"jpName": "雷電 芽衣",
-	"cnName": "雷电芽衣",
-	"rank": 5,
-	"type": "rf",
-	"illust": "NIN",
-	"voice": "",
-	"buildTime": 17400,
-	"drop": "307",
-	"stats": {
-		"hp": 95,
-		"pow": 135,
-		"hit": 105,
-		"dodge": 95,
-		"speed": 100,
-		"rate": 98,
-		"armorPiercing": 10,
-		"crit": 40
-	},
-	"grow": 120,
-	"canequip": {
-		"1": [5],
-		"2": [1, 2, 3, 13],
-		"3": [9, 15]
-	},
-	"effect": {
-		"effectType": "hg",
-		"effectCenter": 5,
-		"effectPos": [6, 9],
-		"gridEffect": {
-			"cooldown": 18
-		}
-	},
-	"skill": {
-		"realid": 107401,
-		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
-		"intercd": 6,
-		"code": "RaidenMei"
-	}
-}, {
-	"id": 1005,
-	"name": "Bronya",
-	"krName": "브로냐 자이칙",
-	"enName": "布洛妮娅",
-	"jpName": "ブローニャ",
-	"cnName": "布洛妮娅",
-	"rank": 5,
-	"type": "rf",
-	"illust": "水熊",
-	"voice": "",
-	"buildTime": 17400,
-	"drop": "307",
-	"stats": {
-		"hp": 92,
-		"pow": 122,
-		"hit": 115,
-		"dodge": 100,
-		"speed": 100,
-		"rate": 110,
-		"armorPiercing": 10,
-		"crit": 40
-	},
-	"grow": 120,
-	"canequip": {
-		"1": [5],
-		"2": [1, 2, 3, 13],
-		"3": [9, 15]
-	},
-	"effect": {
-		"effectType": "hg",
-		"effectCenter": 5,
-		"effectPos": [4, 7],
-		"gridEffect": {
-			"cooldown": 18
-		}
-	},
-	"skill": {
-		"realid": 107101,
-		"intercd": 5,
-		"code": "Bronya"
-	}
-}, {
-	"id": 1006,
-	"name": "Theresa",
-	"krName": "테레사 아포칼립스",
-	"enName": "德丽莎",
-	"jpName": "テレサ",
-	"cnName": "德丽莎",
-	"rank": 5,
-	"type": "hg",
-	"illust": "咩爆",
-	"voice": "",
-	"buildTime": 3600,
-	"drop": "306",
-	"stats": {
-		"hp": 125,
-		"pow": 120,
-		"hit": 105,
-		"dodge": 120,
-		"speed": 100,
-		"rate": 105,
-		"armorPiercing": 10,
-		"crit": 20
-	},
-	"grow": 104,
-	"canequip": {
-		"1": [4, 13],
-		"2": [6],
-		"3": [9, 10]
-	},
-	"effect": {
-		"effectType": "all",
-		"effectCenter": 5,
-		"effectPos": [1, 3, 4, 6],
-		"gridEffect": {
-			"rate": 15,
-			"hit": 25
-		}
-	},
-	"skill": {
-		"realid": 107501,
-		"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
-		"intercd": 1,
-		"code": "Theresa"
-	}
-}, {
-	"id": 1007,
-	"name": "Himeko",
-	"krName": "무라타 히메코",
-	"enName": "无量塔姬子",
-	"jpName": "無量塔 姫子",
-	"cnName": "无量塔姬子",
-	"rank": 5,
-	"type": "ar",
-	"illust": "DOGALA",
-	"voice": "",
-	"buildTime": 14100,
-	"drop": "308",
-	"stats": {
-		"hp": 110,
-		"pow": 126,
-		"hit": 105,
-		"dodge": 100,
-		"speed": 100,
-		"rate": 95,
-		"armorPiercing": 10,
-		"crit": 20
-	},
-	"grow": 122,
-	"canequip": {
-		"1": [1, 2, 3, 4, 13],
-		"2": [8],
-		"3": [9, 10]
-	},
-	"effect": {
-		"effectType": "smg",
-		"effectCenter": 5,
-		"effectPos": [8],
-		"gridEffect": {
-			"pow": 20,
-			"rate": 20
-		}
-	},
-	"skill": {
-		"realid": 107601,
-		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
-		"intercd": 1,
-		"code": "Himeko"
-	}
-}, {
-	"id": 1008,
-	"name": "Seele",
-	"krName": "제레 발레리",
-	"enName": "希儿",
-	"jpName": "ゼーレ",
-	"cnName": "希儿",
-	"rank": 5,
-	"type": "sg",
-	"illust": "DOGALA",
-	"voice": "",
-	"buildTime": 28800,
-	"drop": "306",
-	"stats": {
-		"hp": 112,
-		"pow": 128,
-		"hit": 110,
-		"dodge": 130,
-		"speed": 100,
-		"rate": 108,
-		"armor": 120,
-		"armorPiercing": 10,
-		"crit": 40,
-		"bullet": 5
-	},
-	"grow": 90,
-	"canequip": {
-		"1": [9, 11],
-		"2": [7],
-		"3": [1, 2, 3, 4]
-	},
-	"effect": {
-		"effectType": "mg",
-		"effectCenter": 8,
-		"effectPos": [1, 3],
-		"gridEffect": {
-			"pow": 20,
-			"hit": 10
-		}
-	},
-	"skill": {
-		"realid": 107001,
-		"cd": [3.3, 3.3, 3.3, 3.3, 3.3, 3.3, 3.3, 3.3, 3.3, 3.3],
-		"intercd": 1,
-		"code": "Seele"
-	}
-}, {
 	"id": 1009,
 	"name": "CLEAR",
 	"krName": "클리어",
-	"enName": "克莉尔",
+	"enName": "",
 	"jpName": "El_clear",
 	"cnName": "克莉尔",
 	"rank": 5,
@@ -10899,7 +10990,7 @@
 		"dodge": 103,
 		"speed": 100,
 		"rate": 106,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 140,
@@ -10927,7 +11018,7 @@
 	"id": 1010,
 	"name": "FAIL",
 	"krName": "페일",
-	"enName": "菲尔",
+	"enName": "",
 	"jpName": "El_fail",
 	"cnName": "菲尔",
 	"rank": 5,
@@ -10943,7 +11034,7 @@
 		"dodge": 103,
 		"speed": 100,
 		"rate": 106,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 140,
@@ -10983,7 +11074,7 @@
 		"dodge": 95,
 		"speed": 100,
 		"rate": 89,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 130,
@@ -11029,7 +11120,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 106,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -11075,7 +11166,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 80,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 130,
@@ -11121,7 +11212,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 125,
@@ -11167,7 +11258,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 130,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 110,
@@ -11212,7 +11303,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 85,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 130,
@@ -11257,7 +11348,7 @@
 		"dodge": 85,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 115,
@@ -11302,7 +11393,7 @@
 		"dodge": 100,
 		"speed": 100,
 		"rate": 100,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 40
 	},
 	"grow": 115,
@@ -11347,7 +11438,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 115,
@@ -11393,7 +11484,7 @@
 		"dodge": 115,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 30
 	},
 	"grow": 110,
@@ -11439,7 +11530,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 115,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -11485,7 +11576,7 @@
 		"dodge": 90,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -11531,7 +11622,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 114,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 110,
@@ -11577,7 +11668,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 8
 	},
@@ -11624,7 +11715,7 @@
 		"dodge": 105,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 10
 	},
@@ -11671,7 +11762,7 @@
 		"dodge": 110,
 		"speed": 100,
 		"rate": 95,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5,
 		"bullet": 8
 	},
@@ -11718,7 +11809,7 @@
 		"dodge": 102,
 		"speed": 100,
 		"rate": 110,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 20
 	},
 	"grow": 120,
@@ -11763,7 +11854,7 @@
 		"dodge": 125,
 		"speed": 100,
 		"rate": 90,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 130,
@@ -11809,7 +11900,7 @@
 		"dodge": 113,
 		"speed": 100,
 		"rate": 120,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 105,
@@ -11854,7 +11945,7 @@
 		"dodge": 120,
 		"speed": 100,
 		"rate": 105,
-		"armorPiercing": 10,
+		"armorPiercing": 15,
 		"crit": 5
 	},
 	"grow": 110,
