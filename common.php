@@ -832,6 +832,15 @@ function getcharimgdir($str, $emo) {
 					case 8: $result = "dolls/" . $result . "_3_D"; break;
 				}
 			}
+			else if($str == "AR15Mod") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "story_character/AR15Mod_紧张"; break;
+					case 3: $result = "story_character/AR15Mod_无奈"; break;
+					case 4: $result = "story_character/AR15Mod_微笑"; break;
+					case 5: $result = "story_character/AR15Mod_伤心"; break;
+				}
+			}
 			else if($str == "M1918") {
 				switch($emo) {
 					case 1: $result = "dolls/" . $result . "_D"; break;
@@ -1007,6 +1016,11 @@ function getcharimgdir($str, $emo) {
 			case 0: return "story_character/npc/NPC-Ange"; break;
 		}
 	}
+	else if($str == "NPC-AngeStreet") {
+		switch($emo) {
+			case 0: return "story_character/npc/NPC-AngeStreet"; break;
+		}
+	}
 	else if($str == "NPC-Yegor") {
 		switch($emo) {
 			case 0: return "story_character/npc/NPC-Yegor"; break;
@@ -1070,6 +1084,46 @@ function getcharimgdir($str, $emo) {
 	else if($str == "NPC-Jason") {
 		switch($emo) {
 			case 0: return "story_character/npc/npc-jason"; break;
+		}
+	}
+	else if($str == "NPC-Mercurows") {
+		switch($emo) {
+			case 0: return "story_character/npc/npc-Mercurows"; break;
+		}
+	}
+	else if($str == "NPC-Nimogen") {
+		switch($emo) {
+			case 0: return "story_character/npc/npc-Nimogen"; break;
+		}
+	}
+	else if($str == "NPC-Bodyguard1") {
+		switch($emo) {
+			case 0: return "story_character/npc/npc-Bodyguard1"; break;
+		}
+	}
+	else if($str == "NPC-Bodyguard2") {
+		switch($emo) {
+			case 0: return "story_character/npc/npc-Bodyguard2"; break;
+		}
+	}
+	else if($str == "NPC-KalinReporter") {
+		switch($emo) {
+			case 0: return "story_character/npc/npc-KalinReporter"; break;
+		}
+	}
+	else if($str == "NPC-KalinReporter") {
+		switch($emo) {
+			case 0: return "story_character/npc/npc-KalinReporter"; break;
+		}
+	}
+	else if($str == "NPC-NPC-PasserbyF") {
+		switch($emo) {
+			case 0: return "story_character/npc/npc-NPC-PasserbyF"; break;
+		}
+	}
+	else if($str == "NPC-NPC-PasserbyM") {
+		switch($emo) {
+			case 0: return "story_character/npc/npc-NPC-PasserbyM"; break;
 		}
 	}
 	

@@ -23,12 +23,15 @@
 			</div>
 		</div>
 	<?php foreach($storys as $story) {
-		if($story->num == -16) echo '<div class="my-3 p-3 bg-white rounded box-shadow"><h2 style="display: inline;margin-right:10px">특이점</h2><h6 class="border-bottom border-gray pb-2 mb-0"></h6><div class="media text-muted pt-3">
+		if($story->num == -16) echo '<div class="my-3 p-3 bg-white rounded box-shadow"><h2 style="display: inline;margin-right:10px">(대형이벤트) 특이점</h2><h6 class="border-bottom border-gray pb-2 mb-0"></h6><div class="media text-muted pt-3">
 		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray"><a target="_blank" href="singularity.php"><strong class="d-block text-dark">특이점</strong></a></p></div></div>';
 		if($story->num == -16 || $story->num == -17 || $story->num == -18) continue;
-		if($story->num == -24) echo '<div class="my-3 p-3 bg-white rounded box-shadow"><h2 style="display: inline;margin-right:10px">난류연속</h2><h6 class="border-bottom border-gray pb-2 mb-0"></h6><div class="media text-muted pt-3">
+		if($story->num == -24) echo '<div class="my-3 p-3 bg-white rounded box-shadow"><h2 style="display: inline;margin-right:10px">(대형이벤트) 난류연속</h2><h6 class="border-bottom border-gray pb-2 mb-0"></h6><div class="media text-muted pt-3">
 		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray"><a target="_blank" href="continuum_turbulence.php"><strong class="d-block text-dark">난류연속</strong></a></p></div></div>';
 		if($story->num == -24 || $story->num == -25 || $story->num == -26 || $story->num == -27 || $story->num == -28) continue;
+    if($story->num == -31) echo '<div class="my-3 p-3 bg-white rounded box-shadow"><h2 style="display: inline;margin-right:10px">(대형이벤트) 이성질체</h2><h6 class="border-bottom border-gray pb-2 mb-0"></h6><div class="media text-muted pt-3">
+		<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray"><a target="_blank" href="isomer.php"><strong class="d-block text-dark">이성질체</strong></a></p></div></div>';
+    if($story->num == -31) continue;
 		?>
 		<div class="my-3 p-3 bg-white rounded box-shadow">
 			<h3 id="<?=$story->name?>" style="display: inline;margin-right:10px"><?=$story->name?> : <?=$story->keyword?></h3><b><i><?=$story->desc?></i></b>
