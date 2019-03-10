@@ -387,7 +387,8 @@ $starttime = microtime(true);
 			if($match[2] == "브로냐") $match[2] = "브로냐 자이칙";
 			if($match[2] == "제레") $match[2] = "제레 발레리";
 			if($match[2] == "EVO") $match[2] = "EVO3";
-			if($match[2] == "웰로드 MkⅡ") $match[2] = "Welrod";
+			if($match[2] == "카르카노 M1891") $match[2] = "카르카노M1891";
+			if($match[2] == "카르카노 M91/38") $match[2] = "카르카노M91/38";
 
 			if(strtolower($match[2]) == strtolower($doll->name) || strtolower($match[2]) == strtolower($doll->krName)) {
 				$tmpobj = new stdClass;
@@ -757,6 +758,8 @@ $starttime = microtime(true);
 			</div>
 		</div>	
 		<div class="my-3 p-3 bg-white rounded box-shadow">
+			<?php 
+			if($_GET['id'] != 179) { ?>
 			<ins class="adsbygoogle"
 			 style="display:block; text-align:center"
 			 data-ad-client="ca-pub-6637664198779025"
@@ -764,6 +767,7 @@ $starttime = microtime(true);
 			 data-ad-format="auto"
 			 data-full-width-responsive="true"></ins>
 		</div>
+		<?php } ?>
     </main>
 <?php
 	require_once("footer.php");
@@ -1068,12 +1072,12 @@ $starttime = microtime(true);
 	<script src="/dist/l2d/Live2DFramework.js"></script>
 	<!-- User's Script -->
 	<script src="/dist/l2d/utils/MatrixStack.js"></script>
-	<script src="/dist/l2d/utils/ModelSettingJson.js"></script>
+	<script src="/dist/l2d/utils/ModelSettingJson.js?v=1"></script>
 	<script src="/dist/l2d/PlatformManager.js"></script>
 	<script src="/dist/l2d/LAppDefine.js?v=1"></script>
 	<script src="/dist/l2d/LAppModel.js?v=1"></script>
-	<script src="/dist/l2d/LAppLive2DManager.js?v=1"></script>
-	<script src="/dist/l2d/gfdb_l2d.js?v=4"></script>
+	<script src="/dist/l2d/LAppLive2DManager.js"></script>
+	<script src="/dist/l2d/gfdb_l2d.js"></script>
 	
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/autolinker/1.7.1/Autolinker.min.js" integrity="sha256-yZXU/f+V8xVBqX0cCVVySvxvjU6h8uuQb1N0e8jRvhE=" crossorigin="anonymous"></script>
 	<script>
