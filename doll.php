@@ -759,7 +759,7 @@ $starttime = microtime(true);
 		</div>	
 		<div class="my-3 p-3 bg-white rounded box-shadow">
 			<?php 
-			if($_GET['id'] != 179) { ?>
+			if($_GET['id'] != 179 && $_GET['id'] != 42) { ?>
 			<ins class="adsbygoogle"
 			 style="display:block; text-align:center"
 			 data-ad-client="ca-pub-6637664198779025"
