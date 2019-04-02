@@ -446,6 +446,8 @@
 	background-position: 0% 0%;
 	background-size: 30vh;
 	background-repeat: no-repeat;
+	transition: all 0.5s;
+	transition-timing-function: ease;
 }
 .portrait.fairy {
 	background-color: #FFFFFF;
@@ -455,6 +457,8 @@
 	background-size: 100%;
 }
 .portrait.damaged {
+	transition: all 0.5s;
+	transition-timing-function: ease;
 	background-position: 98% 0%;
 }
 .portrait_name {
