@@ -24,11 +24,11 @@ furniture-10030101,마이크로 우지 - 잠에서 깬 바보
 furniture-20030101,마이크로 우지의 포스터.
 furniture-10030102,M1918 - 바니 걸
 furniture-20030102,M1918의 포스터.
-furniture-10030103,MP446 - 고집 센 악동
+furniture-10030103,MP-446 - 고집 센 악동
 furniture-20030103,MP-446의 포스터.
 furniture-10030104,64식 - 물 선녀복
 furniture-20030104,64식의 포스터.
-furniture-10030105,그리즐리 - 주말 경비원
+furniture-10030105,그리즐리 MkⅤ - 주말 경비원
 furniture-20030105,그리즐리의 포스터.
 furniture-10030106,M1919A4 - 파티의 연인
 furniture-20030106,M1919A4의 포스터.
@@ -54,7 +54,7 @@ furniture-10030310,수오미 - 코르바툰투리의 눈 요정
 furniture-20030310,수오미의 포스터.
 furniture-10030401,56-1식 - 샐비어
 furniture-20030401,56-1식의 포스터.
-furniture-10030402,MP446 - 해바라기
+furniture-10030402,MP-446 - 해바라기
 furniture-20030402,MP446의 포스터.
 furniture-10030403,NZ75 - 국화꽃 소녀
 furniture-20030403,NZ75의 포스터.
@@ -66,7 +66,7 @@ furniture-10030406,97식 - 화려한 모란
 furniture-20030406,97식의 포스터.
 furniture-10030407,59식 - 앵초
 furniture-20030407,59식의 포스터.
-furniture-10030501,AK47 - 전쟁의 왕
+furniture-10030501,AK-47 - 전쟁의 왕
 furniture-20030501,핵미사일은 모두 발사대위에 조용히 잠들어 있어. 너의 AK야말로 대량살상무기지.
 furniture-10030408,PTRD - 로맨틱 임무
 furniture-20030408,PTRD의 포스터.
@@ -74,7 +74,7 @@ furniture-10030409,UMP9 - "내가 좀 늦었지?"
 furniture-20030409,UMP9의 포스터.
 furniture-10030410,UMP45 - "이번만 봐줄게"
 furniture-20030410,UMP45의 포스터.
-furniture-10030411,웰로드MKII - 영국 연인
+furniture-10030411,웰로드MkⅡ - 영국 연인
 furniture-20030411,웰로드의 포스터.
 furniture-10030502,SV98 - 웨이트리스
 furniture-20030502,SV-98의 포스터.
@@ -82,8 +82,8 @@ furniture-10030601,토카레프 - 두 사람의 인생
 furniture-20030601,토카레프의 포스터.
 furniture-10030602,PPsh-41 - 계약 시간
 furniture-20030602,PPsh-41의 포스터.
-furniture-10030603,스텐 MkII - 마음의 대답
-furniture-20030603,스텐 MkII의 포스터.
+furniture-10030603,스텐 MkⅡ - 마음의 대답
+furniture-20030603,스텐 MkⅡ의 포스터.
 furniture-10030604,리-엔필드 - 평생의 수호자
 furniture-20030604,리-엔필드의 포스터.
 furniture-10030605,PK - 당신과 함께
@@ -104,7 +104,7 @@ furniture-10030801,스콜피온 - 붉은 은하수
 furniture-20030801,스콜피온의 포스터.
 furniture-10030802,스프링필드 - 등불 아래의 여왕
 furniture-20030802,스프링필드의 포스터.
-furniture-10030803,모신나강 - 달빛 바다
+furniture-10030803,모신-나강 - 달빛 바다
 furniture-20030803,모신나강의 포스터.
 furniture-10030804,WA2000 - 무도회의 쉼표
 furniture-20030804,WA2000의 포스터.
@@ -120,7 +120,7 @@ furniture-10030901,리-엔필드 - 양파 저격수
 furniture-20030901,리-엔필드의 포스터.
 furniture-10030902,MP40 - 엄지공주
 furniture-20030902,MP40의 포스터.
-furniture-10030903,그리즐리 - 변신! 테디베어!
+furniture-10030903,그리즐리 MkⅤ - 변신! 테디베어!
 furniture-20030903,그리즐리mkv 의 포스터.
 furniture-10030904,네게브 - 조그만 방랑자
 furniture-20030904,네게브의 포스터.
@@ -174,16 +174,16 @@ furniture-10031401,웰로드MkⅡ - 그림자의 왕
 furniture-20031401,웰로드MkⅡ의 포스터.
 furniture-10031402,79식 - 구미호
 furniture-20031402,79식의 포스터.
-furniture-10031403,IWS2000 - 일곱 번째 봉인자
-furniture-20031403,IWS2000의 포스터.
+furniture-10031403,IWS 2000 - 일곱 번째 봉인자
+furniture-20031403,IWS 2000의 포스터.
 furniture-10031404,P7 - 마총의 수녀
 furniture-20031404,P7의 포스터.
 furniture-10031405,Spitfire - 마지막 앨리스
 furniture-20031405,Spitfire의 포스터.
 furniture-10031406,FNC - 이 사탕은 이제 내 거!
 furniture-20031406,FNC의 포스터.
-furniture-10031407,SuperSASS - 늑대 소녀
-furniture-20031407,SuperSASS의 포스터.
+furniture-10031407,Super SASS - 늑대 소녀
+furniture-20031407,Super SASS의 포스터.
 furniture-10031501,톰슨 - 데빌 헌터
 furniture-20031501,톰슨의 포스터.
 furniture-10031502,컨텐더 - 오페라의 유령
@@ -410,12 +410,14 @@ furniture-10033102,PKP - 실버 스타
 furniture-20033102,PKP의 포스터.
 furniture-10033103,G36C - 행복을 향해서
 furniture-20033103,G36C의 포스터.
-furniture-10033105,MK23 - 전해진 마음
-furniture-20033105,MK23의 포스터.
+furniture-10033105,Mk23 - 전해진 마음
+furniture-20033105,Mk23의 포스터.
 furniture-10033106,T-5000 - 웨딩 레인저
 furniture-20033106,T-5000의 포스터.
 furniture-10033107,게파드 M1 - 기대되는 내일
 furniture-20033107,게파드 M1의 포스터.
+furniture-10030522,SPAS-12 - 헌병 군악대
+furniture-20030522,SPAS-12의 포스터
 furniture-10000101,할로윈 - 고딕 침대
 furniture-20000101,고딕풍 침대는 모든 할로윈 소품 중에서 가장 핵심적인 요소야. 암흑시대에서부터 전해져 온 디자인은 침대에서 잠을 자는 사람들 모두에게 신비롭고 아름다움 꿈의 세계로 초대해줘. 마법의 토끼//c 하트 여왕 그리고 500개의 머리를 볼 수 있어.
 furniture-10000102,할로윈 - 일식 카펫
@@ -2439,14 +2441,16 @@ furniture-10100003,액자3 - 개방
 furniture-20100003,액자3 - 개방
 furniture-10100004,액자4 - 개방
 furniture-20100004,액자4 - 개방
-furniture-10100005,액자1 - 미개방
-furniture-20100005,액자1 - 미개방
-furniture-10100006,액자2 - 미개방
-furniture-20100006,액자2 - 미개방
-furniture-10100007,액자3 - 미개방
-furniture-20100007,액자3 - 미개방
-furniture-10100008,액자4 - 미개방
-furniture-20100008,액자4 - 미개방
+furniture-10100001,액자1 - 미개방
+furniture-20100001,액자1 - 미개방
+furniture-10100002,액자2 - 미개방
+furniture-20100002,액자2 - 미개방
+furniture-10100003,액자3 - 미개방
+furniture-20100003,액자3 - 미개방
+furniture-10100004,액자4 - 미개방
+furniture-20100004,액자4 - 미개방
+furniture-10100005,액자5 - 개방
+furniture-20100005,액자5 - 개방
 furniture-10040060,액자1 - 미추가
 furniture-20040060,액자1 - 미추가
 furniture-10040061,액자2 - 미추가
@@ -2733,3 +2737,7 @@ furniture-10006612,초콜릿 사장 - 굿즈 코너
 furniture-20006612,가게에서는 초콜릿만이 아니라 여러 굿즈도 판매하고 있습니다. 이건 먹을 수 있는 게 아니에요. 궁금하시면 사서 직접 깨물어보세요.
 furniture-10006613,초콜릿 사장 - 스위트 네온 사인
 furniture-20006613,"이 무슨 종족차별적인 문구람!" 구석에 있던 강아지가 탄식하며 말했습니다.
+furniture-10051301,마법 화장대
+furniture-20051301,과학기술이 발달해 마법과 구분할 수 없게 될 때//c 그 어떤 인형도 이 아름다워지는 마법을 거부하지 못하고//c 여기에 언제까지고 앉아있게 됩니다.
+furniture-10051302,달콤한 선택
+furniture-20051302,인생에 운명이란 것은 없다//c 오직 수많은 선택이 있을뿐. 하지만 자주 선택하기 싫어질 때가 있다... 어쩌면 전부를 고르는 것도 하나의 선택이겠지.

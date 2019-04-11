@@ -21255,43 +21255,43 @@ battle_skill_config-211150501,
 battle_skill_config-311150501,
 battle_skill_config-411150501,
 battle_skill_config-111150601,석양의 송골매
-battle_skill_config-211150601,액티브:특수한 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 1.5배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 10초마다 1발씩 특수 탄환을 얻는다//c 최대 2발 보유 가능. 보유한 특수 탄환 1발마다 화력과 명중이 6% 상승한다.//n패시브 2:1초마다 일반 탄환 1발을 소모해 일반 공격을 1번 하여//c 가장 멀리 있는 적에게 1.5배 피해를 준다. 일반 탄환은 최대 2발 보유할 수 있으며//c 일반 탄환을 소진하면 재장전한다//c 재장전 시간은 사속이 높을수록 짧아진다.
+battle_skill_config-211150601,액티브:특수 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 1.5배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 8초마다 특수 탄환 1발 획득//c 최대 2발 보유 가능. 보유한 특수 탄환 1발당 화력과 명중 6% 상승.//n일반 공격:1초마다 제일 뒤에 있는 적에게 1.5배의 화력으로 사격. 2발 사격 후 탄알집 교체//c 사속이 높을수록 빠르게 교체.
 battle_skill_config-311150601,대미지 배율:1.5배//c화력 상승치:6%//c명중 상승치:6%
 battle_skill_config-411150601,
 battle_skill_config-111150602,석양의 송골매
-battle_skill_config-211150602,액티브:특수한 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 1.61배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 10초마다 1발씩 특수 탄환을 얻는다//c 최대 2발 보유 가능. 보유한 특수 탄환 1발마다 화력과 명중이 7% 상승한다.//n패시브 2:1초마다 일반 탄환 1발을 소모해 일반 공격을 1번 하여//c 가장 멀리 있는 적에게 1.5배 피해를 준다. 일반 탄환은 최대 2발 보유할 수 있으며//c 일반 탄환을 소진하면 재장전한다//c 재장전 시간은 사속이 높을수록 짧아진다.
+battle_skill_config-211150602,액티브:특수 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 1.61배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 8초마다 특수 탄환 1발 획득//c 최대 2발 보유 가능. 보유한 특수 탄환 1발당 화력과 명중 7% 상승.//n일반 공격:1초마다 제일 뒤에 있는 적에게 1.5배의 화력으로 사격. 2발 사격 후 탄알집 교체//c 사속이 높을수록 빠르게 교체.
 battle_skill_config-311150602,대미지 배율:1.61배//c화력 상승치:7%//c명중 상승치:7%
 battle_skill_config-411150602,
 battle_skill_config-111150603,석양의 송골매
-battle_skill_config-211150603,액티브:특수한 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 1.72배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 10초마다 1발씩 특수 탄환을 얻는다//c 최대 2발 보유 가능. 보유한 특수 탄환 1발마다 화력과 명중이 9% 상승한다.//n패시브 2:1초마다 일반 탄환 1발을 소모해 일반 공격을 1번 하여//c 가장 멀리 있는 적에게 1.5배 피해를 준다. 일반 탄환은 최대 2발 보유할 수 있으며//c 일반 탄환을 소진하면 재장전한다//c 재장전 시간은 사속이 높을수록 짧아진다.
+battle_skill_config-211150603,액티브:특수 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 1.72배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 8초마다 특수 탄환 1발 획득//c 최대 2발 보유 가능. 보유한 특수 탄환 1발당 화력과 명중 9% 상승.//n일반 공격:1초마다 제일 뒤에 있는 적에게 1.5배의 화력으로 사격. 2발 사격 후 탄알집 교체//c 사속이 높을수록 빠르게 교체.
 battle_skill_config-311150603,대미지 배율:1.72배//c화력 상승치:9%//c명중 상승치:9%
 battle_skill_config-411150603,
 battle_skill_config-111150604,석양의 송골매
-battle_skill_config-211150604,액티브:특수한 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 1.83배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 10초마다 1발씩 특수 탄환을 얻는다//c 최대 2발 보유 가능. 보유한 특수 탄환 1발마다 화력과 명중이 10% 상승한다.//n패시브 2:1초마다 일반 탄환 1발을 소모해 일반 공격을 1번 하여//c 가장 멀리 있는 적에게 1.5배 피해를 준다. 일반 탄환은 최대 2발 보유할 수 있으며//c 일반 탄환을 소진하면 재장전한다//c 재장전 시간은 사속이 높을수록 짧아진다.
+battle_skill_config-211150604,액티브:특수 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 1.83배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 8초마다 특수 탄환 1발 획득//c 최대 2발 보유 가능. 보유한 특수 탄환 1발당 화력과 명중 10% 상승.//n일반 공격:1초마다 제일 뒤에 있는 적에게 1.5배의 화력으로 사격. 2발 사격 후 탄알집 교체//c 사속이 높을수록 빠르게 교체.
 battle_skill_config-311150604,대미지 배율:1.83배//c화력 상승치:10%//c명중 상승치:10%
 battle_skill_config-411150604,
 battle_skill_config-111150605,석양의 송골매
-battle_skill_config-211150605,액티브:특수한 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 1.94배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 10초마다 1발씩 특수 탄환을 얻는다//c 최대 2발 보유 가능. 보유한 특수 탄환 1발마다 화력과 명중이 11% 상승한다.//n패시브 2:1초마다 일반 탄환 1발을 소모해 일반 공격을 1번 하여//c 가장 멀리 있는 적에게 1.5배 피해를 준다. 일반 탄환은 최대 2발 보유할 수 있으며//c 일반 탄환을 소진하면 재장전한다//c 재장전 시간은 사속이 높을수록 짧아진다.
+battle_skill_config-211150605,액티브:특수 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 1.94배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 8초마다 특수 탄환 1발 획득//c 최대 2발 보유 가능. 보유한 특수 탄환 1발당 화력과 명중 11% 상승.//n일반 공격:1초마다 제일 뒤에 있는 적에게 1.5배의 화력으로 사격. 2발 사격 후 탄알집 교체//c 사속이 높을수록 빠르게 교체.
 battle_skill_config-311150605,대미지 배율:1.94배//c화력 상승치:11%//c명중 상승치:11%
 battle_skill_config-411150605,
 battle_skill_config-111150606,석양의 송골매
-battle_skill_config-211150606,액티브:특수한 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 2.06배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 10초마다 1발씩 특수 탄환을 얻는다//c 최대 2발 보유 가능. 보유한 특수 탄환 1발마다 화력과 명중이 13% 상승한다.//n패시브 2:1초마다 일반 탄환 1발을 소모해 일반 공격을 1번 하여//c 가장 멀리 있는 적에게 1.5배 피해를 준다. 일반 탄환은 최대 2발 보유할 수 있으며//c 일반 탄환을 소진하면 재장전한다//c 재장전 시간은 사속이 높을수록 짧아진다.
+battle_skill_config-211150606,액티브:특수 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 2.06배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 8초마다 특수 탄환 1발 획득//c 최대 2발 보유 가능. 보유한 특수 탄환 1발당 화력과 명중 13% 상승.//n일반 공격:1초마다 제일 뒤에 있는 적에게 1.5배의 화력으로 사격. 2발 사격 후 탄알집 교체//c 사속이 높을수록 빠르게 교체.
 battle_skill_config-311150606,대미지 배율:2.06배//c화력 상승치:13%//c명중 상승치:13%
 battle_skill_config-411150606,
 battle_skill_config-111150607,석양의 송골매
-battle_skill_config-211150607,액티브:특수한 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 2.17배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 10초마다 1발씩 특수 탄환을 얻는다//c 최대 2발 보유 가능. 보유한 특수 탄환 1발마다 화력과 명중이 14% 상승한다.//n패시브 2:1초마다 일반 탄환 1발을 소모해 일반 공격을 1번 하여//c 가장 멀리 있는 적에게 1.5배 피해를 준다. 일반 탄환은 최대 2발 보유할 수 있으며//c 일반 탄환을 소진하면 재장전한다//c 재장전 시간은 사속이 높을수록 짧아진다.
+battle_skill_config-211150607,액티브:특수 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 2.17배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 8초마다 특수 탄환 1발 획득//c 최대 2발 보유 가능. 보유한 특수 탄환 1발당 화력과 명중 14% 상승.//n일반 공격:1초마다 제일 뒤에 있는 적에게 1.5배의 화력으로 사격. 2발 사격 후 탄알집 교체//c 사속이 높을수록 빠르게 교체.
 battle_skill_config-311150607,대미지 배율:2.17배//c화력 상승치:14%//c명중 상승치:14%
 battle_skill_config-411150607,
 battle_skill_config-111150608,석양의 송골매
-battle_skill_config-211150608,액티브:특수한 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 2.28배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 10초마다 1발씩 특수 탄환을 얻는다//c 최대 2발 보유 가능. 보유한 특수 탄환 1발마다 화력과 명중이 15% 상승한다.//n패시브 2:1초마다 일반 탄환 1발을 소모해 일반 공격을 1번 하여//c 가장 멀리 있는 적에게 1.5배 피해를 준다. 일반 탄환은 최대 2발 보유할 수 있으며//c 일반 탄환을 소진하면 재장전한다//c 재장전 시간은 사속이 높을수록 짧아진다.
+battle_skill_config-211150608,액티브:특수 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 2.28배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 8초마다 특수 탄환 1발 획득//c 최대 2발 보유 가능. 보유한 특수 탄환 1발당 화력과 명중 15% 상승.//n일반 공격:1초마다 제일 뒤에 있는 적에게 1.5배의 화력으로 사격. 2발 사격 후 탄알집 교체//c 사속이 높을수록 빠르게 교체.
 battle_skill_config-311150608,대미지 배율:2.28배//c화력 상승치:15%//c명중 상승치:15%
 battle_skill_config-411150608,
 battle_skill_config-111150609,석양의 송골매
-battle_skill_config-211150609,액티브:특수한 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 2.39배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 10초마다 1발씩 특수 탄환을 얻는다//c 최대 2발 보유 가능. 보유한 특수 탄환 1발마다 화력과 명중이 17% 상승한다.//n패시브 2:1초마다 일반 탄환 1발을 소모해 일반 공격을 1번 하여//c 가장 멀리 있는 적에게 1.5배 피해를 준다. 일반 탄환은 최대 2발 보유할 수 있으며//c 일반 탄환을 소진하면 재장전한다//c 재장전 시간은 사속이 높을수록 짧아진다.
+battle_skill_config-211150609,액티브:특수 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 2.39배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 8초마다 특수 탄환 1발 획득//c 최대 2발 보유 가능. 보유한 특수 탄환 1발당 화력과 명중 17% 상승.//n일반 공격:1초마다 제일 뒤에 있는 적에게 1.5배의 화력으로 사격. 2발 사격 후 탄알집 교체//c 사속이 높을수록 빠르게 교체.
 battle_skill_config-311150609,대미지 배율:2.39배//c화력 상승치:17%//c명중 상승치:17%
 battle_skill_config-411150609,
 battle_skill_config-111150610,석양의 송골매
-battle_skill_config-211150610,액티브:특수한 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 2.5배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 10초마다 1발씩 특수 탄환을 얻는다//c 최대 2발 보유 가능. 보유한 특수 탄환 1발마다 화력과 명중이 18% 상승한다.//n패시브 2:1초마다 일반 탄환 1발을 소모해 일반 공격을 1번 하여//c 가장 멀리 있는 적에게 1.5배 피해를 준다. 일반 탄환은 최대 2발 보유할 수 있으며//c 일반 탄환을 소진하면 재장전한다//c 재장전 시간은 사속이 높을수록 짧아진다.
+battle_skill_config-211150610,액티브:특수 탄환을 1발 소모해 2초간 조준 후//c 체력이 가장 많은 적에게 치명타가 가능한 2.5배 피해를 준다.//n패시브 1:전투 개시 6초 후 1발//c 그 후 8초마다 특수 탄환 1발 획득//c 최대 2발 보유 가능. 보유한 특수 탄환 1발당 화력과 명중 18% 상승.//n일반 공격:1초마다 제일 뒤에 있는 적에게 1.5배의 화력으로 사격. 2발 사격 후 탄알집 교체//c 사속이 높을수록 빠르게 교체.
 battle_skill_config-311150610,대미지 배율:2.5배//c화력 상승치:18%//c명중 상승치:18%
 battle_skill_config-411150610,
 battle_skill_config-111150701,隼技能弹链[*]
@@ -21422,3 +21422,327 @@ battle_skill_config-111151101,隼弹药标识0
 battle_skill_config-211151101,
 battle_skill_config-311151101,
 battle_skill_config-411151101,
+battle_skill_config-170200101,국지전 우세인형-NTW20//c95식//c9A91
+battle_skill_config-270200101,冬活优势人形
+battle_skill_config-370200101,
+battle_skill_config-470200101,
+battle_skill_config-170200201,국지전 우세인형-HK21//cDSR-50
+battle_skill_config-270200201,冬活优势人形
+battle_skill_config-370200201,
+battle_skill_config-470200201,
+battle_skill_config-170200301,국지전 우세인형-USAS12
+battle_skill_config-270200301,冬活优势人形
+battle_skill_config-370200301,
+battle_skill_config-470200301,
+battle_skill_config-170200401,국지전 우세인형-K2//c98K
+battle_skill_config-270200401,冬活优势人形
+battle_skill_config-370200401,
+battle_skill_config-470200401,
+battle_skill_config-170200501,국지전 우세인형-수오미
+battle_skill_config-270200501,冬活优势人形
+battle_skill_config-370200501,
+battle_skill_config-470200501,
+battle_skill_config-170200601,국지전 우세인형-79식
+battle_skill_config-270200601,冬活优势人形
+battle_skill_config-370200601,
+battle_skill_config-470200601,
+battle_skill_config-170200701,국지전 우세인형-언니카노
+battle_skill_config-270200701,冬活优势人形
+battle_skill_config-370200701,
+battle_skill_config-470200701,
+battle_skill_config-170200801,국지전 우세인형-SPAS12
+battle_skill_config-270200801,冬活优势人形
+battle_skill_config-370200801,
+battle_skill_config-470200801,
+battle_skill_config-170200901,국지전 우세인형-M99//c썬더
+battle_skill_config-270200901,冬活优势人形
+battle_skill_config-370200901,
+battle_skill_config-470200901,
+battle_skill_config-170201001,국지전 우세인형-100식
+battle_skill_config-270201001,冬活优势人形
+battle_skill_config-370201001,
+battle_skill_config-470201001,
+battle_skill_config-170201101,국지전 우세인형-P7//cMP5
+battle_skill_config-270201101,冬活优势人形
+battle_skill_config-370201101,
+battle_skill_config-470201101,
+battle_skill_config-170201201,국지전 우세인형-스프링필드
+battle_skill_config-270201201,冬活优势人形
+battle_skill_config-370201201,
+battle_skill_config-470201201,
+battle_skill_config-151020101,충격 확산
+battle_skill_config-251020101,왜곡방벽을 지닌 유닛을 공격 시 50%의 확률로 반경 2.5 범위 안의 적에게 추가로 1배의 피해를 준다.
+battle_skill_config-351020101,살상력 배율:1배//c발동 확률:50%
+battle_skill_config-451020101,
+battle_skill_config-151020102,충격 확산
+battle_skill_config-251020102,왜곡방벽을 지닌 유닛을 공격 시 56%의 확률로 반경 2.5 범위 안의 적에게 추가로 1.11배의 피해를 준다.
+battle_skill_config-351020102,살상력 배율:1.11배//c발동 확률:56%
+battle_skill_config-451020102,
+battle_skill_config-151020103,충격 확산
+battle_skill_config-251020103,왜곡방벽을 지닌 유닛을 공격 시 61%의 확률로 반경 2.5 범위 안의 적에게 추가로 1.22배의 피해를 준다.
+battle_skill_config-351020103,살상력 배율:1.22배//c발동 확률:61%
+battle_skill_config-451020103,
+battle_skill_config-151020104,충격 확산
+battle_skill_config-251020104,왜곡방벽을 지닌 유닛을 공격 시 67%의 확률로 반경 2.5 범위 안의 적에게 추가로 1.33배의 피해를 준다.
+battle_skill_config-351020104,살상력 배율:1.33배//c발동 확률:67%
+battle_skill_config-451020104,
+battle_skill_config-151020105,충격 확산
+battle_skill_config-251020105,왜곡방벽을 지닌 유닛을 공격 시 72%의 확률로 반경 2.5 범위 안의 적에게 추가로 1.44배의 피해를 준다.
+battle_skill_config-351020105,살상력 배율:1.44배//c발동 확률:72%
+battle_skill_config-451020105,
+battle_skill_config-151020106,충격 확산
+battle_skill_config-251020106,왜곡방벽을 지닌 유닛을 공격 시 78%의 확률로 반경 2.5 범위 안의 적에게 추가로 1.56배의 피해를 준다.
+battle_skill_config-351020106,살상력 배율:1.56배//c발동 확률:78%
+battle_skill_config-451020106,
+battle_skill_config-151020107,충격 확산
+battle_skill_config-251020107,왜곡방벽을 지닌 유닛을 공격 시 83%의 확률로 반경 2.5 범위 안의 적에게 추가로 1.67배의 피해를 준다.
+battle_skill_config-351020107,살상력 배율:1.67배//c발동 확률:83%
+battle_skill_config-451020107,
+battle_skill_config-151020108,충격 확산
+battle_skill_config-251020108,왜곡방벽을 지닌 유닛을 공격 시 89%의 확률로 반경 2.5 범위 안의 적에게 추가로 1.78배의 피해를 준다.
+battle_skill_config-351020108,살상력 배율:1.78배//c발동 확률:89%
+battle_skill_config-451020108,
+battle_skill_config-151020109,충격 확산
+battle_skill_config-251020109,왜곡방벽을 지닌 유닛을 공격 시 94%의 확률로 반경 2.5 범위 안의 적에게 추가로 1.89배의 피해를 준다.
+battle_skill_config-351020109,살상력 배율:1.89배//c발동 확률:94%
+battle_skill_config-451020109,
+battle_skill_config-151020110,충격 확산
+battle_skill_config-251020110,왜곡방벽을 지닌 유닛을 공격 시 100%의 확률로 반경 2.5 범위 안의 적에게 추가로 2배의 피해를 준다.
+battle_skill_config-351020110,살상력 배율:2배//c발동 확률:100%
+battle_skill_config-451020110,
+battle_skill_config-151020201,AT4随机命运牌[*}
+battle_skill_config-251020201,
+battle_skill_config-351020201,
+battle_skill_config-451020201,
+battle_skill_config-151020202,AT4随机命运牌[*}
+battle_skill_config-251020202,
+battle_skill_config-351020202,
+battle_skill_config-451020202,
+battle_skill_config-151020203,AT4随机命运牌[*}
+battle_skill_config-251020203,
+battle_skill_config-351020203,
+battle_skill_config-451020203,
+battle_skill_config-151020204,AT4随机命运牌[*}
+battle_skill_config-251020204,
+battle_skill_config-351020204,
+battle_skill_config-451020204,
+battle_skill_config-151020205,AT4随机命运牌[*}
+battle_skill_config-251020205,
+battle_skill_config-351020205,
+battle_skill_config-451020205,
+battle_skill_config-151020206,AT4随机命运牌[*}
+battle_skill_config-251020206,
+battle_skill_config-351020206,
+battle_skill_config-451020206,
+battle_skill_config-151020207,AT4随机命运牌[*}
+battle_skill_config-251020207,
+battle_skill_config-351020207,
+battle_skill_config-451020207,
+battle_skill_config-151020208,AT4随机命运牌[*}
+battle_skill_config-251020208,
+battle_skill_config-351020208,
+battle_skill_config-451020208,
+battle_skill_config-151020209,AT4随机命运牌[*}
+battle_skill_config-251020209,
+battle_skill_config-351020209,
+battle_skill_config-451020209,
+battle_skill_config-151020210,AT4随机命运牌[*}
+battle_skill_config-251020210,
+battle_skill_config-351020210,
+battle_skill_config-451020210,
+battle_skill_config-151020301,눈부신 섬광
+battle_skill_config-251020301,공격 시 실명 효과를 부여해//c 일반 공격 범위 안의 적의 명중을 10% 감소시킨다//c 지속시간 4초//c 중첩 불가능.
+battle_skill_config-351020301,명중 감소치:10%//c지속시간:4초
+battle_skill_config-451020301,
+battle_skill_config-151020302,눈부신 섬광
+battle_skill_config-251020302,공격 시 실명 효과를 부여해//c 일반 공격 범위 안의 적의 명중을 11% 감소시킨다//c 지속시간 4.2초//c 중첩 불가능.
+battle_skill_config-351020302,명중 감소치:11%//c지속시간:4.2초
+battle_skill_config-451020302,
+battle_skill_config-151020303,눈부신 섬광
+battle_skill_config-251020303,공격 시 실명 효과를 부여해//c 일반 공격 범위 안의 적의 명중을 12% 감소시킨다//c 지속시간 4.4초//c 중첩 불가능.
+battle_skill_config-351020303,명중 감소치:12%//c지속시간:4.4초
+battle_skill_config-451020303,
+battle_skill_config-151020304,눈부신 섬광
+battle_skill_config-251020304,공격 시 실명 효과를 부여해//c 일반 공격 범위 안의 적의 명중을 13% 감소시킨다//c 지속시간 4.7초//c 중첩 불가능.
+battle_skill_config-351020304,명중 감소치:13%//c지속시간:4.7초
+battle_skill_config-451020304,
+battle_skill_config-151020305,눈부신 섬광
+battle_skill_config-251020305,공격 시 실명 효과를 부여해//c 일반 공격 범위 안의 적의 명중을 14% 감소시킨다//c 지속시간 4.9초//c 중첩 불가능.
+battle_skill_config-351020305,명중 감소치:14%//c지속시간:4.9초
+battle_skill_config-451020305,
+battle_skill_config-151020306,눈부신 섬광
+battle_skill_config-251020306,공격 시 실명 효과를 부여해//c 일반 공격 범위 안의 적의 명중을 16% 감소시킨다//c 지속시간 5.1초//c 중첩 불가능.
+battle_skill_config-351020306,명중 감소치:16%//c지속시간:5.1초
+battle_skill_config-451020306,
+battle_skill_config-151020307,눈부신 섬광
+battle_skill_config-251020307,공격 시 실명 효과를 부여해//c 일반 공격 범위 안의 적의 명중을 17% 감소시킨다//c 지속시간 5.3초//c 중첩 불가능.
+battle_skill_config-351020307,명중 감소치:17%//c지속시간:5.3초
+battle_skill_config-451020307,
+battle_skill_config-151020308,눈부신 섬광
+battle_skill_config-251020308,공격 시 실명 효과를 부여해//c 일반 공격 범위 안의 적의 명중을 18% 감소시킨다//c 지속시간 5.6초//c 중첩 불가능.
+battle_skill_config-351020308,명중 감소치:18%//c지속시간:5.6초
+battle_skill_config-451020308,
+battle_skill_config-151020309,눈부신 섬광
+battle_skill_config-251020309,공격 시 실명 효과를 부여해//c 일반 공격 범위 안의 적의 명중을 19% 감소시킨다//c 지속시간 5.8초//c 중첩 불가능.
+battle_skill_config-351020309,명중 감소치:19%//c지속시간:5.8초
+battle_skill_config-451020309,
+battle_skill_config-151020310,눈부신 섬광
+battle_skill_config-251020310,공격 시 실명 효과를 부여해//c 일반 공격 범위 안의 적의 명중을 20% 감소시킨다//c 지속시간 6초//c 중첩 불가능.
+battle_skill_config-351020310,명중 감소치:20%//c지속시간:6초
+battle_skill_config-451020310,
+battle_skill_config-151020401,고폭소이탄
+battle_skill_config-251020401,공격 시 불을 질러//c 일반 공격 범위 안의 적에게 0.5초마다 0.1배의 지속 피해를 준다//c 지속시간 3초.
+battle_skill_config-351020401,지속 살상력:0.1배//c지속시간:3초
+battle_skill_config-451020401,
+battle_skill_config-151020402,고폭소이탄
+battle_skill_config-251020402,공격 시 불을 질러//c 일반 공격 범위 안의 적에게 0.5초마다 0.11배의 지속 피해를 준다//c 지속시간 3.2초.
+battle_skill_config-351020402,지속 살상력:0.11배//c지속시간:3.2초
+battle_skill_config-451020402,
+battle_skill_config-151020403,고폭소이탄
+battle_skill_config-251020403,공격 시 불을 질러//c 일반 공격 범위 안의 적에게 0.5초마다 0.12배의 지속 피해를 준다//c 지속시간 3.4초.
+battle_skill_config-351020403,지속 살상력:0.12배//c지속시간:3.4초
+battle_skill_config-451020403,
+battle_skill_config-151020404,고폭소이탄
+battle_skill_config-251020404,공격 시 불을 질러//c 일반 공격 범위 안의 적에게 0.5초마다 0.13배의 지속 피해를 준다//c 지속시간 3.7초.
+battle_skill_config-351020404,지속 살상력:0.13배//c지속시간:3.7초
+battle_skill_config-451020404,
+battle_skill_config-151020405,고폭소이탄
+battle_skill_config-251020405,공격 시 불을 질러//c 일반 공격 범위 안의 적에게 0.5초마다 0.14배의 지속 피해를 준다//c 지속시간 3.9초.
+battle_skill_config-351020405,지속 살상력:0.14배//c지속시간:3.9초
+battle_skill_config-451020405,
+battle_skill_config-151020406,고폭소이탄
+battle_skill_config-251020406,공격 시 불을 질러//c 일반 공격 범위 안의 적에게 0.5초마다 0.16배의 지속 피해를 준다//c 지속시간 4.1초.
+battle_skill_config-351020406,지속 살상력:0.16배//c지속시간:4.1초
+battle_skill_config-451020406,
+battle_skill_config-151020407,고폭소이탄
+battle_skill_config-251020407,공격 시 불을 질러//c 일반 공격 범위 안의 적에게 0.5초마다 0.17배의 지속 피해를 준다//c 지속시간 4.3초.
+battle_skill_config-351020407,지속 살상력:0.17배//c지속시간:4.3초
+battle_skill_config-451020407,
+battle_skill_config-151020408,고폭소이탄
+battle_skill_config-251020408,공격 시 불을 질러//c 일반 공격 범위 안의 적에게 0.5초마다 0.18배의 지속 피해를 준다//c 지속시간 4.6초.
+battle_skill_config-351020408,지속 살상력:0.18배//c지속시간:4.6초
+battle_skill_config-451020408,
+battle_skill_config-151020409,고폭소이탄
+battle_skill_config-251020409,공격 시 불을 질러//c 일반 공격 범위 안의 적에게 0.5초마다 0.19배의 지속 피해를 준다//c 지속시간 4.8초.
+battle_skill_config-351020409,지속 살상력:0.19배//c지속시간:4.8초
+battle_skill_config-451020409,
+battle_skill_config-151020410,고폭소이탄
+battle_skill_config-251020410,공격 시 불을 질러//c 일반 공격 범위 안의 적에게 0.5초마다 0.2배의 지속 피해를 준다//c 지속시간 5초.
+battle_skill_config-351020410,지속 살상력:0.2배//c지속시간:5초
+battle_skill_config-451020410,
+battle_skill_config-149000101,战区法官防御护盾[*]
+battle_skill_config-249000101,
+battle_skill_config-349000101,
+battle_skill_config-449000101,
+battle_skill_config-149000201,战区法官护盾爆发[*]
+battle_skill_config-249000201,
+battle_skill_config-349000201,
+battle_skill_config-449000201,
+battle_skill_config-150102901,战区boss特效
+battle_skill_config-250102901,
+battle_skill_config-350102901,
+battle_skill_config-450102901,
+battle_skill_config-149000301,战区刽子手特殊攻击[*]
+battle_skill_config-249000301,刽子手特殊攻击
+battle_skill_config-349000301,
+battle_skill_config-449000301,
+battle_skill_config-149000401,战区猎手特殊攻击[*]
+battle_skill_config-249000401,猎手特殊攻击
+battle_skill_config-349000401,
+battle_skill_config-449000401,
+battle_skill_config-149000501,战区辉之牙Rebirth1[*]
+battle_skill_config-249000501,번뜩이는 송곳니
+battle_skill_config-349000501,
+battle_skill_config-449000501,
+battle_skill_config-130011901,丝巾专属普攻[*]
+battle_skill_config-230011901,手枪的普通攻击
+battle_skill_config-330011901,
+battle_skill_config-430011901,
+battle_skill_config-130012001,丝巾触发蟒蛇被动
+battle_skill_config-230012001,
+battle_skill_config-330012001,
+battle_skill_config-430012001,
+battle_skill_config-190000801,AT4小队cutin
+battle_skill_config-290000801,
+battle_skill_config-390000801,
+battle_skill_config-490000801,
+battle_skill_config-110080501,진압신호
+battle_skill_config-210080501,아군 전체 사속을 12% 상승시킨다.("APS 전용 개머리판" 장착 시 추가로 화력을 4% 상승시킨다.) 지속시간 5초.
+battle_skill_config-310080501,쿨타임:15초//c사속 상승치:12%//c지속시간:5초
+battle_skill_config-410080501,
+battle_skill_config-110080502,진압신호
+battle_skill_config-210080502,아군 전체 사속을 13% 상승시킨다.("APS 전용 개머리판" 장착 시 추가로 화력을 4% 상승시킨다.) 지속시간 6초.
+battle_skill_config-310080502,쿨타임:14.7초//c사속 상승치:13%//c지속시간:6초
+battle_skill_config-410080502,
+battle_skill_config-110080503,진압신호
+battle_skill_config-210080503,아군 전체 사속을 14% 상승시킨다.("APS 전용 개머리판" 장착 시 추가로 화력을 4% 상승시킨다.) 지속시간 6초.
+battle_skill_config-310080503,쿨타임:14.3초//c사속 상승치:14%//c지속시간:6초
+battle_skill_config-410080503,
+battle_skill_config-110080504,진압신호
+battle_skill_config-210080504,아군 전체 사속을 15% 상승시킨다.("APS 전용 개머리판" 장착 시 추가로 화력을 4% 상승시킨다.) 지속시간 6초.
+battle_skill_config-310080504,쿨타임:14초//c사속 상승치:15%//c지속시간:6초
+battle_skill_config-410080504,
+battle_skill_config-110080505,진압신호
+battle_skill_config-210080505,아군 전체 사속을 16% 상승시킨다.("APS 전용 개머리판" 장착 시 추가로 화력을 4% 상승시킨다.) 지속시간 7초.
+battle_skill_config-310080505,쿨타임:13.7초//c사속 상승치:16%//c지속시간:7초
+battle_skill_config-410080505,
+battle_skill_config-110080506,진압신호
+battle_skill_config-210080506,아군 전체 사속을 17% 상승시킨다.("APS 전용 개머리판" 장착 시 추가로 화력을 4% 상승시킨다.) 지속시간 7초.
+battle_skill_config-310080506,쿨타임:13.3초//c사속 상승치:17%//c지속시간:7초
+battle_skill_config-410080506,
+battle_skill_config-110080507,진압신호
+battle_skill_config-210080507,아군 전체 사속을 18% 상승시킨다.("APS 전용 개머리판" 장착 시 추가로 화력을 4% 상승시킨다.) 지속시간 7초.
+battle_skill_config-310080507,쿨타임:13초//c사속 상승치:18%//c지속시간:7초
+battle_skill_config-410080507,
+battle_skill_config-110080508,진압신호
+battle_skill_config-210080508,아군 전체 사속을 19% 상승시킨다.("APS 전용 개머리판" 장착 시 추가로 화력을 4% 상승시킨다.) 지속시간 8초.
+battle_skill_config-310080508,쿨타임:12.7초//c사속 상승치:19%//c지속시간:8초
+battle_skill_config-410080508,
+battle_skill_config-110080509,진압신호
+battle_skill_config-210080509,아군 전체 사속을 20% 상승시킨다.("APS 전용 개머리판" 장착 시 추가로 화력을 4% 상승시킨다.) 지속시간 8초.
+battle_skill_config-310080509,쿨타임:12.3초//c사속 상승치:20%//c지속시간:8초
+battle_skill_config-410080509,
+battle_skill_config-110080510,진압신호
+battle_skill_config-210080510,아군 전체 사속을 22% 상승시킨다.("APS 전용 개머리판" 장착 시 추가로 화력을 4% 상승시킨다.) 지속시간 8초.
+battle_skill_config-310080510,쿨타임:12초//c사속 상승치:22%//c지속시간:8초
+battle_skill_config-410080510,
+battle_skill_config-110170501,강행돌파
+battle_skill_config-210170501,자신의 화력을 35%//c 사속을 12% 상승시킨다. 지속시간 6초.
+battle_skill_config-310170501,쿨타임:20초//c화력 상승치:35%//c사속 상승치:12%//c지속시간:6초
+battle_skill_config-410170501,
+battle_skill_config-110170502,강행돌파
+battle_skill_config-210170502,자신의 화력을 37%//c 사속을 13% 상승시킨다. 지속시간 6.4초.
+battle_skill_config-310170502,쿨타임:19.6초//c화력 상승치:37%//c사속 상승치:13%//c지속시간:6.4초
+battle_skill_config-410170502,
+battle_skill_config-110170503,강행돌파
+battle_skill_config-210170503,자신의 화력을 38%//c 사속을 14% 상승시킨다. 지속시간 6.9초.
+battle_skill_config-310170503,쿨타임:19.1초//c화력 상승치:38%//c사속 상승치:14%//c지속시간:6.9초
+battle_skill_config-410170503,
+battle_skill_config-110170504,강행돌파
+battle_skill_config-210170504,자신의 화력을 40%//c 사속을 15% 상승시킨다. 지속시간 7.3초.
+battle_skill_config-310170504,쿨타임:18.7초//c화력 상승치:40%//c사속 상승치:15%//c지속시간:7.3초
+battle_skill_config-410170504,
+battle_skill_config-110170505,강행돌파
+battle_skill_config-210170505,자신의 화력을 42%//c 사속을 16% 상승시킨다. 지속시간 7.8초.
+battle_skill_config-310170505,쿨타임:18.2초//c화력 상승치:42%//c사속 상승치:16%//c지속시간:7.8초
+battle_skill_config-410170505,
+battle_skill_config-110170506,강행돌파
+battle_skill_config-210170506,자신의 화력을 43%//c 사속을 16% 상승시킨다. 지속시간 8.2초.
+battle_skill_config-310170506,쿨타임:17.8초//c화력 상승치:43%//c사속 상승치:16%//c지속시간:8.2초
+battle_skill_config-410170506,
+battle_skill_config-110170507,강행돌파
+battle_skill_config-210170507,자신의 화력을 45%//c 사속을 17% 상승시킨다. 지속시간 8.7초.
+battle_skill_config-310170507,쿨타임:17.3초//c화력 상승치:45%//c사속 상승치:17%//c지속시간:8.7초
+battle_skill_config-410170507,
+battle_skill_config-110170508,강행돌파
+battle_skill_config-210170508,자신의 화력을 47%//c 사속을 18% 상승시킨다. 지속시간 9.1초.
+battle_skill_config-310170508,쿨타임:16.9초//c화력 상승치:47%//c사속 상승치:18%//c지속시간:9.1초
+battle_skill_config-410170508,
+battle_skill_config-110170509,강행돌파
+battle_skill_config-210170509,자신의 화력을 48%//c 사속을 19% 상승시킨다. 지속시간 9.6초.
+battle_skill_config-310170509,쿨타임:16.4초//c화력 상승치:48%//c사속 상승치:19%//c지속시간:9.6초
+battle_skill_config-410170509,
+battle_skill_config-110170510,강행돌파
+battle_skill_config-210170510,자신의 화력을 50%//c 사속을 20% 상승시킨다. 지속시간 10초.
+battle_skill_config-310170510,쿨타임:16초//c화력 상승치:50%//c사속 상승치:20%//c지속시간:10초
+battle_skill_config-410170510,
