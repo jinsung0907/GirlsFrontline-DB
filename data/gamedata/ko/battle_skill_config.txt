@@ -2799,44 +2799,44 @@ battle_skill_config-210190410,자신의 화력을 160%//c 회피를 40% 상승�
 battle_skill_config-310190410,쿨타임 : 8초//c화력 상승치 : 160%//c회피 상승치 : 40%//c지속시간 : 5초
 battle_skill_config-410190410,
 battle_skill_config-110190501,전술기동
-battle_skill_config-210190501,자신의 명중을 100%//c 회피를 25% 상승시킨다. 지속시간 3초
-battle_skill_config-310190501,쿨타임 : 20초//c명중 상승치 : 100%//c회피 상승치 : 25%//c지속시간 : 3초
+battle_skill_config-210190501,
+battle_skill_config-310190501,
 battle_skill_config-410190501,
 battle_skill_config-110190502,전술기동
-battle_skill_config-210190502,자신의 명중을 106%//c 회피를 27% 상승시킨다. 지속시간 3.2초
-battle_skill_config-310190502,쿨타임 : 19.6초//c명중 상승치 : 106%//c회피 상승치 : 27%//c지속시간 : 3.2초
+battle_skill_config-210190502,
+battle_skill_config-310190502,
 battle_skill_config-410190502,
 battle_skill_config-110190503,전술기동
-battle_skill_config-210190503,자신의 명중을 111%//c 회피를 28% 상승시킨다. 지속시간 3.4초
-battle_skill_config-310190503,쿨타임 : 19.1초//c명중 상승치 : 111%//c회피 상승치 : 28%//c지속시간 : 3.4초
+battle_skill_config-210190503,
+battle_skill_config-310190503,
 battle_skill_config-410190503,
 battle_skill_config-110190504,전술기동
-battle_skill_config-210190504,자신의 명중을 117%//c 회피를 30% 상승시킨다. 지속시간 3.7초
-battle_skill_config-310190504,쿨타임 : 18.7초//c명중 상승치 : 117%//c회피 상승치 : 30%//c지속시간 : 3.7초
+battle_skill_config-210190504,
+battle_skill_config-310190504,
 battle_skill_config-410190504,
 battle_skill_config-110190505,전술기동
-battle_skill_config-210190505,자신의 명중을 122%//c 회피를 32% 상승시킨다. 지속시간 3.9초
-battle_skill_config-310190505,쿨타임 : 18.2초//c명중 상승치 : 122%//c회피 상승치 : 32%//c지속시간 : 3.9초
+battle_skill_config-210190505,
+battle_skill_config-310190505,
 battle_skill_config-410190505,
 battle_skill_config-110190506,전술기동
-battle_skill_config-210190506,자신의 명중을 128%//c 회피를 33% 상승시킨다. 지속시간 4.1초
-battle_skill_config-310190506,쿨타임 : 17.8초//c명중 상승치 : 128%//c회피 상승치 : 33%//c지속시간 : 4.1초
+battle_skill_config-210190506,
+battle_skill_config-310190506,
 battle_skill_config-410190506,
 battle_skill_config-110190507,전술기동
-battle_skill_config-210190507,자신의 명중을 133%//c 회피를 35% 상승시킨다. 지속시간 4.3초
-battle_skill_config-310190507,쿨타임 : 17.3초//c명중 상승치 : 133%//c회피 상승치 : 35%//c지속시간 : 4.3초
+battle_skill_config-210190507,
+battle_skill_config-310190507,
 battle_skill_config-410190507,
 battle_skill_config-110190508,전술기동
-battle_skill_config-210190508,자신의 명중을 139%//c 회피를 37% 상승시킨다. 지속시간 4.6초
-battle_skill_config-310190508,쿨타임 : 16.9초//c명중 상승치 : 139%//c회피 상승치 : 37%//c지속시간 : 4.6초
+battle_skill_config-210190508,
+battle_skill_config-310190508,
 battle_skill_config-410190508,
 battle_skill_config-110190509,전술기동
-battle_skill_config-210190509,자신의 명중을 144%//c 회피를 38% 상승시킨다. 지속시간 4.8초
-battle_skill_config-310190509,쿨타임 : 16.4초//c명중 상승치 : 144%//c회피 상승치 : 38%//c지속시간 : 4.8초
+battle_skill_config-210190509,
+battle_skill_config-310190509,
 battle_skill_config-410190509,
 battle_skill_config-110190510,전술기동
-battle_skill_config-210190510,자신의 명중을 150%//c 회피를 40% 상승시킨다. 지속시간 5초
-battle_skill_config-310190510,쿨타임 : 16초//c명중 상승치 : 150%//c회피 상승치 : 40%//c지속시간 : 5초
+battle_skill_config-210190510,
+battle_skill_config-310190510,
 battle_skill_config-410190510,
 battle_skill_config-110200201,돌격개시
 battle_skill_config-210200201,아군 전체의 화력과 사속을 각각 6% 씩 상승시킨다. 지속시간 5초
@@ -9200,7 +9200,7 @@ battle_skill_config-320010101,
 battle_skill_config-420010101,
 battle_skill_config-120010201,혈류가속
 battle_skill_config-220010201,네게브스킬cutin
-battle_skill_config-320010201,内格夫技能cutin
+battle_skill_config-320010201,
 battle_skill_config-420010201,
 battle_skill_config-120020101,혈류가속
 battle_skill_config-220020101,재장전 할 때 마다 25초간 자신의 화력이 25% 상승하는 버프를 받는다 (각 버프는 중첩가능)
@@ -14600,43 +14600,43 @@ battle_skill_config-399900510,쿨타임:8초//c사속 상승치:60%//c지속시�
 battle_skill_config-499900510,
 battle_skill_config-199900601,지원스킬연출
 battle_skill_config-299900601,유탄을 발사하여 반경 1.5 범위 내의 적에게 4배의 피해를 준다.
-battle_skill_config-399900601,쿨타임:20초//c대미지 배율:4배
+battle_skill_config-399900601,
 battle_skill_config-499900601,
 battle_skill_config-199900602,지원스킬연출
 battle_skill_config-299900602,유탄을 발사하여 반경 1.5 범위 내의 적에게 4.7배의 피해를 준다.
-battle_skill_config-399900602,쿨타임:19.6초//c대미지 배율:4.7배
+battle_skill_config-399900602,
 battle_skill_config-499900602,
 battle_skill_config-199900603,지원스킬연출
 battle_skill_config-299900603,유탄을 발사하여 반경 1.5 범위 내의 적에게 5.3배의 피해를 준다.
-battle_skill_config-399900603,쿨타임:19.1초//c대미지 배율:5.3배
+battle_skill_config-399900603,
 battle_skill_config-499900603,
 battle_skill_config-199900604,지원스킬연출
 battle_skill_config-299900604,유탄을 발사하여 반경 1.5 범위 내의 적에게 6배의 피해를 준다.
-battle_skill_config-399900604,쿨타임:18.7초//c대미지 배율:6배
+battle_skill_config-399900604,
 battle_skill_config-499900604,
 battle_skill_config-199900605,지원스킬연출
 battle_skill_config-299900605,유탄을 발사하여 반경 1.5 범위 내의 적에게 6.7배의 피해를 준다.
-battle_skill_config-399900605,쿨타임:18.2초//c대미지 배율:6.7배
+battle_skill_config-399900605,
 battle_skill_config-499900605,
 battle_skill_config-199900606,지원스킬연출
 battle_skill_config-299900606,유탄을 발사하여 반경 1.5 범위 내의 적에게 7.3배의 피해를 준다.
-battle_skill_config-399900606,쿨타임:17.8초//c대미지 배율:7.3배
+battle_skill_config-399900606,
 battle_skill_config-499900606,
 battle_skill_config-199900607,지원스킬연출
 battle_skill_config-299900607,유탄을 발사하여 반경 1.5 범위 내의 적에게 8배의 피해를 준다.
-battle_skill_config-399900607,쿨타임:17.3초//c대미지 배율:8배
+battle_skill_config-399900607,
 battle_skill_config-499900607,
 battle_skill_config-199900608,지원스킬연출
 battle_skill_config-299900608,유탄을 발사하여 반경 1.5 범위 내의 적에게 8.7배의 피해를 준다.
-battle_skill_config-399900608,쿨타임:16.9초//c대미지 배율:8.7배
+battle_skill_config-399900608,
 battle_skill_config-499900608,
 battle_skill_config-199900609,지원스킬연출
 battle_skill_config-299900609,유탄을 발사하여 반경 1.5 범위 내의 적에게 9.3배의 피해를 준다.
-battle_skill_config-399900609,쿨타임:16.4초//c대미지 배율:9.3배
+battle_skill_config-399900609,
 battle_skill_config-499900609,
 battle_skill_config-199900610,지원스킬연출
 battle_skill_config-299900610,유탄을 발사하여 반경 1.5 범위 내의 적에게 10배의 피해를 준다.
-battle_skill_config-399900610,쿨타임:16초//c대미지 배율:10배
+battle_skill_config-399900610,
 battle_skill_config-499900610,
 battle_skill_config-111002901,거울 속 벚꽃
 battle_skill_config-211002901,5초간 자신의 피해를 15 흡수하는 보호막을 생성한다. 보호막이 지속시간 안에 깨질 경우//c 자신의 회피를 30% 상승시키고//c 안 깨졌을 경우 자신의 화력을 40% 상승시킨다//c지속시간 3초.
@@ -15643,8 +15643,8 @@ battle_skill_config-240400101,
 battle_skill_config-340400101,
 battle_skill_config-440400101,
 battle_skill_config-140400201,하약점프병평타[*]
-battle_skill_config-240400201,적에게 돌진해//c작은 범위 내의 적에게 8번 1.2배의 피해를 준다.
-battle_skill_config-340400201,쿨타임:12초//c타격당대미지 배율:1.2배
+battle_skill_config-240400201,
+battle_skill_config-340400201,
 battle_skill_config-440400201,
 battle_skill_config-140400301,근거리탱크단발[*]
 battle_skill_config-240400301,
@@ -16136,7 +16136,7 @@ battle_skill_config-340500201,
 battle_skill_config-440500201,
 battle_skill_config-140500301,아군미사일 시설
 battle_skill_config-240500301,유탄을 발사하여 반경 1.5범위 내의 적에게 4배의 피해를 준다.
-battle_skill_config-340500301,쿨타임:20초//c대미지 배율:4배
+battle_skill_config-340500301,
 battle_skill_config-440500301,
 battle_skill_config-140500401,미사일 시설
 battle_skill_config-240500401,미사일을 발사하여 반경 1.5범위 내의 적에게 3점의 피해를 준다.
@@ -16279,44 +16279,44 @@ battle_skill_config-280130701,
 battle_skill_config-380130701,
 battle_skill_config-480130701,
 battle_skill_config-180140101,진 확인사살
-battle_skill_config-280140101,1.5초간 조준 후//c 가장 가까운 타깃에게 공격력의 3배의 피해를 입힌다.
-battle_skill_config-380140101,쿨타임:20초//c대미지 배율:3배
+battle_skill_config-280140101,
+battle_skill_config-380140101,
 battle_skill_config-480140101,
 battle_skill_config-180140102,진 확인사살
-battle_skill_config-280140102,1.5초간 조준 후//c 가장 가까운 타깃에게 공격력의 3.3배의 피해를 입힌다.
-battle_skill_config-380140102,쿨타임:19.6초//c대미지 배율:3.3배
+battle_skill_config-280140102,
+battle_skill_config-380140102,
 battle_skill_config-480140102,
 battle_skill_config-180140103,진 확인사살
-battle_skill_config-280140103,1.5초간 조준 후//c 가장 가까운 타깃에게 공격력의 3.7배의 피해를 입힌다.
-battle_skill_config-380140103,쿨타임:19.1초//c대미지 배율:3.7배
+battle_skill_config-280140103,
+battle_skill_config-380140103,
 battle_skill_config-480140103,
 battle_skill_config-180140104,진 확인사살
-battle_skill_config-280140104,1.5초간 조준 후//c 가장 가까운 타깃에게 공격력의 4배의 피해를 입힌다.
-battle_skill_config-380140104,쿨타임:18.7초//c대미지 배율:4배
+battle_skill_config-280140104,
+battle_skill_config-380140104,
 battle_skill_config-480140104,
 battle_skill_config-180140105,진 확인사살
-battle_skill_config-280140105,1.5초간 조준 후//c 가장 가까운 타깃에게 공격력의 4.3배의 피해를 입힌다.
-battle_skill_config-380140105,쿨타임:18.2초//c대미지 배율:4.3배
+battle_skill_config-280140105,
+battle_skill_config-380140105,
 battle_skill_config-480140105,
 battle_skill_config-180140106,진 확인사살
-battle_skill_config-280140106,1.5초간 조준 후//c 가장 가까운 타깃에게 공격력의 4.7배의 피해를 입힌다.
-battle_skill_config-380140106,쿨타임:17.8초//c대미지 배율:4.7배
+battle_skill_config-280140106,
+battle_skill_config-380140106,
 battle_skill_config-480140106,
 battle_skill_config-180140107,진 확인사살
-battle_skill_config-280140107,1.5초간 조준 후//c 가장 가까운 타깃에게 공격력의 5배의 피해를 입힌다.
-battle_skill_config-380140107,쿨타임:17.3초//c대미지 배율:5배
+battle_skill_config-280140107,
+battle_skill_config-380140107,
 battle_skill_config-480140107,
 battle_skill_config-180140108,진 확인사살
-battle_skill_config-280140108,1.5초간 조준 후//c 가장 가까운 타깃에게 공격력의 5.3배의 피해를 입힌다.
-battle_skill_config-380140108,쿨타임:16.9초//c대미지 배율:5.3배
+battle_skill_config-280140108,
+battle_skill_config-380140108,
 battle_skill_config-480140108,
 battle_skill_config-180140109,진 확인사살
-battle_skill_config-280140109,1.5초간 조준 후//c 가장 가까운 타깃에게 공격력의 5.7배의 피해를 입힌다.
-battle_skill_config-380140109,쿨타임:16.4초//c대미지 배율:5.7배
+battle_skill_config-280140109,
+battle_skill_config-380140109,
 battle_skill_config-480140109,
 battle_skill_config-180140110,진 확인사살
-battle_skill_config-280140110,1.5초간 조준 후//c 가장 가까운 타깃에게 공격력의 6배의 피해를 입힌다.
-battle_skill_config-380140110,쿨타임:16초//c대미지 배율:6배
+battle_skill_config-280140110,
+battle_skill_config-380140110,
 battle_skill_config-480140110,
 battle_skill_config-180140201,SV-98위장개시
 battle_skill_config-280140201,
@@ -16531,44 +16531,44 @@ battle_skill_config-280140910,1.5초간 조준 후//c 가장 가까운 타깃에
 battle_skill_config-380140910,쿨타임:16초//c대미지 배율:5.5배
 battle_skill_config-480140910,
 battle_skill_config-180141001,sv98확인사살개조전
-battle_skill_config-280141001,1.5초간 조준 후//c 가장 가까운 타깃에게 2.8배의 피해를 입힌다.
-battle_skill_config-380141001,쿨타임:20초//c대미지 배율:2.8배
+battle_skill_config-280141001,
+battle_skill_config-380141001,
 battle_skill_config-480141001,
 battle_skill_config-180141002,sv98확인사살개조전
-battle_skill_config-280141002,1.5초간 조준 후//c 가장 가까운 타깃에게 3.1배의 피해를 입힌다.
-battle_skill_config-380141002,쿨타임:19.6초//c대미지 배율:3.1배
+battle_skill_config-280141002,
+battle_skill_config-380141002,
 battle_skill_config-480141002,
 battle_skill_config-180141003,sv98확인사살개조전
-battle_skill_config-280141003,1.5초간 조준 후//c 가장 가까운 타깃에게 3.4배의 피해를 입힌다.
-battle_skill_config-380141003,쿨타임:19.1초//c대미지 배율:3.4배
+battle_skill_config-280141003,
+battle_skill_config-380141003,
 battle_skill_config-480141003,
 battle_skill_config-180141004,sv98확인사살개조전
-battle_skill_config-280141004,1.5초간 조준 후//c 가장 가까운 타깃에게 3.7배의 피해를 입힌다.
-battle_skill_config-380141004,쿨타임:18.7초//c대미지 배율:3.7배
+battle_skill_config-280141004,
+battle_skill_config-380141004,
 battle_skill_config-480141004,
 battle_skill_config-180141005,sv98확인사살개조전
-battle_skill_config-280141005,1.5초간 조준 후//c 가장 가까운 타깃에게 4배의 피해를 입힌다.
-battle_skill_config-380141005,쿨타임:18.2초//c대미지 배율:4배
+battle_skill_config-280141005,
+battle_skill_config-380141005,
 battle_skill_config-480141005,
 battle_skill_config-180141006,sv98확인사살개조전
-battle_skill_config-280141006,1.5초간 조준 후//c 가장 가까운 타깃에게 4.3배의 피해를 입힌다.
-battle_skill_config-380141006,쿨타임:17.8초//c대미지 배율:4.3배
+battle_skill_config-280141006,
+battle_skill_config-380141006,
 battle_skill_config-480141006,
 battle_skill_config-180141007,sv98확인사살개조전
-battle_skill_config-280141007,1.5초간 조준 후//c 가장 가까운 타깃에게 4.6배의 피해를 입힌다.
-battle_skill_config-380141007,쿨타임:17.3초//c대미지 배율:4.6배
+battle_skill_config-280141007,
+battle_skill_config-380141007,
 battle_skill_config-480141007,
 battle_skill_config-180141008,sv98확인사살개조전
-battle_skill_config-280141008,1.5초간 조준 후//c 가장 가까운 타깃에게 4.9배의 피해를 입힌다.
-battle_skill_config-380141008,쿨타임:16.9초//c대미지 배율:4.9배
+battle_skill_config-280141008,
+battle_skill_config-380141008,
 battle_skill_config-480141008,
 battle_skill_config-180141009,sv98확인사살개조전
-battle_skill_config-280141009,1.5초간 조준 후//c 가장 가까운 타깃에게 5.2배의 피해를 입힌다.
-battle_skill_config-380141009,쿨타임:16.4초//c대미지 배율:5.2배
+battle_skill_config-280141009,
+battle_skill_config-380141009,
 battle_skill_config-480141009,
 battle_skill_config-180141010,sv98확인사살개조전
-battle_skill_config-280141010,1.5초간 조준 후//c 가장 가까운 타깃에게 5.5배의 피해를 입힌다.
-battle_skill_config-380141010,쿨타임:16초//c대미지 배율:5.5배
+battle_skill_config-280141010,
+battle_skill_config-380141010,
 battle_skill_config-480141010,
 battle_skill_config-180150101,준비만전
 battle_skill_config-280150101,6초 동안 자신의 화력을 18% 상승시키며//c 사격 중 장탄수를 1발 추가한다.
@@ -16859,44 +16859,44 @@ battle_skill_config-280170210,아군 전체 화력을 25% 상승시킨다. 지�
 battle_skill_config-380170210,쿨타임:12초//c화력 상승치:25%//c지속시간:8초
 battle_skill_config-480170210,
 battle_skill_config-180170301,콜트개조스킬
-battle_skill_config-280170301,5초마다 아군 전체의 사속을 3%//c 명중을 3% 상승시킨다. 최대 5회 중첩 가능
-battle_skill_config-380170301,발동 간격:5초//c사속 상승치:3%//c명중 상승치:3%
+battle_skill_config-280170301,
+battle_skill_config-380170301,
 battle_skill_config-480170301,
 battle_skill_config-180170302,콜트개조스킬
-battle_skill_config-280170302,4.8초마다 아군 전체의 사속을 3%//c 명중을 3% 상승시킨다. 최대 5회 중첩 가능
-battle_skill_config-380170302,발동 간격:4.8초//c사속 상승치:3%//c명중 상승치:3%
+battle_skill_config-280170302,
+battle_skill_config-380170302,
 battle_skill_config-480170302,
 battle_skill_config-180170303,콜트개조스킬
-battle_skill_config-280170303,4.6초마다 아군 전체의 사속을 3%//c 명중을 3% 상승시킨다. 최대 5회 중첩 가능
-battle_skill_config-380170303,발동 간격:4.6초//c사속 상승치:3%//c명중 상승치:3%
+battle_skill_config-280170303,
+battle_skill_config-380170303,
 battle_skill_config-480170303,
 battle_skill_config-180170304,콜트개조스킬
-battle_skill_config-280170304,4.3초마다 아군 전체의 사속을 4%//c 명중을 4% 상승시킨다. 최대 5회 중첩 가능
-battle_skill_config-380170304,발동 간격:4.3초//c사속 상승치:4%//c명중 상승치:4%
+battle_skill_config-280170304,
+battle_skill_config-380170304,
 battle_skill_config-480170304,
 battle_skill_config-180170305,콜트개조스킬
-battle_skill_config-280170305,4.1초마다 아군 전체의 사속을 4%//c 명중을 4% 상승시킨다. 최대 5회 중첩 가능
-battle_skill_config-380170305,발동 간격:4.1초//c사속 상승치:4%//c명중 상승치:4%
+battle_skill_config-280170305,
+battle_skill_config-380170305,
 battle_skill_config-480170305,
 battle_skill_config-180170306,콜트개조스킬
-battle_skill_config-280170306,3.9초마다 아군 전체의 사속을 4%//c 명중을 4% 상승시킨다. 최대 5회 중첩 가능
-battle_skill_config-380170306,발동 간격:3.9초//c사속 상승치:4%//c명중 상승치:4%
+battle_skill_config-280170306,
+battle_skill_config-380170306,
 battle_skill_config-480170306,
 battle_skill_config-180170307,콜트개조스킬
-battle_skill_config-280170307,3.7초마다 아군 전체의 사속을 4%//c 명중을 4% 상승시킨다. 최대 5회 중첩 가능
-battle_skill_config-380170307,발동 간격:3.7초//c사속 상승치:4%//c명중 상승치:4%
+battle_skill_config-280170307,
+battle_skill_config-380170307,
 battle_skill_config-480170307,
 battle_skill_config-180170308,콜트개조스킬
-battle_skill_config-280170308,3.4초마다 아군 전체의 사속을 5%//c 명중을 5% 상승시킨다. 최대 5회 중첩 가능
-battle_skill_config-380170308,발동 간격:3.4초//c사속 상승치:5%//c명중 상승치:5%
+battle_skill_config-280170308,
+battle_skill_config-380170308,
 battle_skill_config-480170308,
 battle_skill_config-180170309,콜트개조스킬
-battle_skill_config-280170309,3.2초마다 아군 전체의 사속을 5%//c 명중을 5% 상승시킨다. 최대 5회 중첩 가능
-battle_skill_config-380170309,발동 간격:3.2초//c사속 상승치:5%//c명중 상승치:5%
+battle_skill_config-280170309,
+battle_skill_config-380170309,
 battle_skill_config-480170309,
 battle_skill_config-180170310,콜트개조스킬
-battle_skill_config-280170310,3초마다 아군 전체의 사속을 5%//c 명중을 5% 상승시킨다. 최대 5회 중첩 가능
-battle_skill_config-380170310,발동 간격:3초//c사속 상승치:5%//c명중 상승치:5%
+battle_skill_config-280170310,
+battle_skill_config-380170310,
 battle_skill_config-480170310,
 battle_skill_config-180180101,연막탄
 battle_skill_config-280180101,연막탄을 투척하여 반경 2.5범위 내의 적들의 공격속도를 25%//c 이동속도를 32% 감소시킨다. 지속시간 2.5초.
@@ -18364,43 +18364,43 @@ battle_skill_config-311006801,
 battle_skill_config-411006801,
 battle_skill_config-111006901,K11 유탄 초탄
 battle_skill_config-211006901,
-battle_skill_config-311006901,쿨타임:20초//c대미지 배율:5배
+battle_skill_config-311006901,
 battle_skill_config-411006901,
 battle_skill_config-111006902,K11 유탄 초탄
 battle_skill_config-211006902,
-battle_skill_config-311006902,쿨타임:19.6초//c대미지 배율:5.8배
+battle_skill_config-311006902,
 battle_skill_config-411006902,
 battle_skill_config-111006903,K11 유탄 초탄
 battle_skill_config-211006903,
-battle_skill_config-311006903,쿨타임:19.1초//c대미지 배율:6.6배
+battle_skill_config-311006903,
 battle_skill_config-411006903,
 battle_skill_config-111006904,K11 유탄 초탄
 battle_skill_config-211006904,
-battle_skill_config-311006904,쿨타임:18.7초//c대미지 배율:7.3배
+battle_skill_config-311006904,
 battle_skill_config-411006904,
 battle_skill_config-111006905,K11 유탄 초탄
 battle_skill_config-211006905,
-battle_skill_config-311006905,쿨타임:18.2초//c대미지 배율:8.1배
+battle_skill_config-311006905,
 battle_skill_config-411006905,
 battle_skill_config-111006906,K11 유탄 초탄
 battle_skill_config-211006906,
-battle_skill_config-311006906,쿨타임:17.8초//c대미지 배율:8.9배
+battle_skill_config-311006906,
 battle_skill_config-411006906,
 battle_skill_config-111006907,K11 유탄 초탄
 battle_skill_config-211006907,
-battle_skill_config-311006907,쿨타임:17.3초//c대미지 배율:9.7배
+battle_skill_config-311006907,
 battle_skill_config-411006907,
 battle_skill_config-111006908,K11 유탄 초탄
 battle_skill_config-211006908,
-battle_skill_config-311006908,쿨타임:16.9초//c대미지 배율:10.4배
+battle_skill_config-311006908,
 battle_skill_config-411006908,
 battle_skill_config-111006909,K11 유탄 초탄
 battle_skill_config-211006909,
-battle_skill_config-311006909,쿨타임:16.4초//c대미지 배율:11.2배
+battle_skill_config-311006909,
 battle_skill_config-411006909,
 battle_skill_config-111006910,K11 유탄 초탄
 battle_skill_config-211006910,
-battle_skill_config-311006910,쿨타임:16초//c대미지 배율:12배
+battle_skill_config-311006910,
 battle_skill_config-411006910,
 battle_skill_config-111007001,K11 추가 피해
 battle_skill_config-211007001,
@@ -21746,3 +21746,51 @@ battle_skill_config-110170510,강행돌파
 battle_skill_config-210170510,자신의 화력을 50%//c 사속을 20% 상승시킨다. 지속시간 10초.
 battle_skill_config-310170510,쿨타임:16초//c화력 상승치:50%//c사속 상승치:20%//c지속시간:10초
 battle_skill_config-410170510,
+battle_skill_config-111160101,미라지 슈팅
+battle_skill_config-211160101,자신의 회피가 50% 상승하고//c 화력과 명중이 50% 감소한다//c 동시에 1회 공격이 2회 피해를 입힌다//c 지속시간 3초.
+battle_skill_config-311160101,쿨타임:10초//c회피 상승치:50%//c화력 감소치:50%//c명중 감소치:50%//c지속시간:3초
+battle_skill_config-411160101,
+battle_skill_config-111160102,미라지 슈팅
+battle_skill_config-211160102,자신의 회피가 56% 상승하고//c 화력과 명중이 48% 감소한다//c 동시에 1회 공격이 2회 피해를 입힌다//c 지속시간 3.2초.
+battle_skill_config-311160102,쿨타임:9.8초//c회피 상승치:56%//c화력 감소치:48%//c명중 감소치:48%//c지속시간:3.2초
+battle_skill_config-411160102,
+battle_skill_config-111160103,미라지 슈팅
+battle_skill_config-211160103,자신의 회피가 61% 상승하고//c 화력과 명중이 46% 감소한다//c 동시에 1회 공격이 2회 피해를 입힌다//c 지속시간 3.4초.
+battle_skill_config-311160103,쿨타임:9.6초//c회피 상승치:61%//c화력 감소치:46%//c명중 감소치:46%//c지속시간:3.4초
+battle_skill_config-411160103,
+battle_skill_config-111160104,미라지 슈팅
+battle_skill_config-211160104,자신의 회피가 67% 상승하고//c 화력과 명중이 43% 감소한다//c 동시에 1회 공격이 2회 피해를 입힌다//c 지속시간 3.7초.
+battle_skill_config-311160104,쿨타임:9.3초//c회피 상승치:67%//c화력 감소치:43%//c명중 감소치:43%//c지속시간:3.7초
+battle_skill_config-411160104,
+battle_skill_config-111160105,미라지 슈팅
+battle_skill_config-211160105,자신의 회피가 72% 상승하고//c 화력과 명중이 41% 감소한다//c 동시에 1회 공격이 2회 피해를 입힌다//c 지속시간 3.9초.
+battle_skill_config-311160105,쿨타임:9.1초//c회피 상승치:72%//c화력 감소치:41%//c명중 감소치:41%//c지속시간:3.9초
+battle_skill_config-411160105,
+battle_skill_config-111160106,미라지 슈팅
+battle_skill_config-211160106,자신의 회피가 78% 상승하고//c 화력과 명중이 39% 감소한다//c 동시에 1회 공격이 2회 피해를 입힌다//c 지속시간 4.1초.
+battle_skill_config-311160106,쿨타임:8.9초//c회피 상승치:78%//c화력 감소치:39%//c명중 감소치:39%//c지속시간:4.1초
+battle_skill_config-411160106,
+battle_skill_config-111160107,미라지 슈팅
+battle_skill_config-211160107,자신의 회피가 83% 상승하고//c 화력과 명중이 37% 감소한다//c 동시에 1회 공격이 2회 피해를 입힌다//c 지속시간 4.3초.
+battle_skill_config-311160107,쿨타임:8.7초//c회피 상승치:83%//c화력 감소치:37%//c명중 감소치:37%//c지속시간:4.3초
+battle_skill_config-411160107,
+battle_skill_config-111160108,미라지 슈팅
+battle_skill_config-211160108,자신의 회피가 89% 상승하고//c 화력과 명중이 34% 감소한다//c 동시에 1회 공격이 2회 피해를 입힌다//c 지속시간 4.6초.
+battle_skill_config-311160108,쿨타임:8.4초//c회피 상승치:89%//c화력 감소치:34%//c명중 감소치:34%//c지속시간:4.6초
+battle_skill_config-411160108,
+battle_skill_config-111160109,미라지 슈팅
+battle_skill_config-211160109,자신의 회피가 94% 상승하고//c 화력과 명중이 32% 감소한다//c 동시에 1회 공격이 2회 피해를 입힌다//c 지속시간 4.8초.
+battle_skill_config-311160109,쿨타임:8.2초//c회피 상승치:94%//c화력 감소치:32%//c명중 감소치:32%//c지속시간:4.8초
+battle_skill_config-411160109,
+battle_skill_config-111160110,미라지 슈팅
+battle_skill_config-211160110,자신의 회피가 100% 상승하고//c 화력과 명중이 30% 감소한다//c 동시에 1회 공격이 2회 피해를 입힌다//c 지속시간 5초.
+battle_skill_config-311160110,쿨타임:8초//c회피 상승치:100%//c화력 감소치:30%//c명중 감소치:30%//c지속시간:5초
+battle_skill_config-411160110,
+battle_skill_config-111160201,PM-9普攻[*]
+battle_skill_config-211160201,冲锋枪的普通攻击
+battle_skill_config-311160201,
+battle_skill_config-411160201,
+battle_skill_config-111160301,PM-9技能普攻[*]
+battle_skill_config-211160301,冲锋枪的普通攻击
+battle_skill_config-311160301,
+battle_skill_config-411160301,

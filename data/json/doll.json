@@ -10925,6 +10925,50 @@
 		"code": "powBuffSelf"
 	}
 }, {
+	"id": 259,
+	"name": "PM9",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "smg",
+	"illust": "",
+	"voice": "",
+	"buildTime": 8880,
+	"drop": "218",
+	"stats": {
+		"hp": 100,
+		"pow": 95,
+		"hit": 95,
+		"dodge": 125,
+		"speed": 100,
+		"rate": 125,
+		"armorPiercing": 15,
+		"crit": 5
+	},
+	"grow": 125,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 6,
+		"effectPos": [1, 3],
+		"gridEffect": {
+			"rate": 15,
+			"hit": 30
+		}
+	},
+	"skill": {
+		"realid": 111601,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 6,
+		"code": "comboBuffSelf"
+	}
+}, {
 	"id": 1001,
 	"name": "BB_Noel",
 	"krName": "노엘",
