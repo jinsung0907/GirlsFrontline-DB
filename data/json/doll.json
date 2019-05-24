@@ -10881,15 +10881,58 @@
 		"code": "falcon"
 	}
 }, {
+	"id": 257,
+	"name": "M200",
+	"krName": "",
+	"enName": "M200",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "rf",
+	"illust": "",
+	"voice": "",
+	"buildTime": 16320,
+	"drop": "1,2",
+	"stats": {
+		"hp": 100,
+		"pow": 127,
+		"hit": 135,
+		"dodge": 85,
+		"speed": 100,
+		"rate": 95,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 131,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [7, 8],
+		"gridEffect": {
+			"cooldown": 18
+		}
+	},
+	"skill": {
+		"realid": 111401,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 6,
+		"code": "M200Shot"
+	}
+}, {
 	"id": 258,
 	"name": "Magal",
-	"krName": "",
+	"krName": "마갈",
 	"enName": "",
 	"jpName": "",
 	"cnName": "",
 	"rank": 3,
 	"type": "ar",
-	"illust": "",
+	"illust": "XIN",
 	"voice": "",
 	"buildTime": 12000,
 	"drop": "1904",
@@ -10927,13 +10970,13 @@
 }, {
 	"id": 259,
 	"name": "PM9",
-	"krName": "",
+	"krName": "PM-9",
 	"enName": "",
 	"jpName": "",
 	"cnName": "",
 	"rank": 5,
 	"type": "smg",
-	"illust": "",
+	"illust": "音符",
 	"voice": "",
 	"buildTime": 8880,
 	"drop": "218",
@@ -10967,6 +11010,313 @@
 		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
 		"intercd": 6,
 		"code": "comboBuffSelf"
+	}
+}, {
+	"id": 260,
+	"name": "PA15",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "hg",
+	"illust": "",
+	"voice": "",
+	"buildTime": 4500,
+	"drop": "1",
+	"stats": {
+		"hp": 105,
+		"pow": 120,
+		"hit": 120,
+		"dodge": 95,
+		"speed": 100,
+		"rate": 115,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 130,
+	"canequip": {
+		"1": [4, 13],
+		"2": [6],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 6,
+		"effectPos": [2, 3, 4, 5, 8, 9],
+		"gridEffect": {
+			"rate": 15,
+			"hit": 25
+		}
+	},
+	"skill": {
+		"realid": 112001,
+		"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
+		"intercd": 6,
+		"code": "PA15"
+	}
+}, {
+	"id": 261,
+	"name": "QBU88",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "rf",
+	"illust": "",
+	"voice": "",
+	"buildTime": 17280,
+	"drop": "1,2",
+	"stats": {
+		"hp": 95,
+		"pow": 108,
+		"hit": 118,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 118,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 135,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 1,
+		"effectPos": [3, 4, 5, 6],
+		"gridEffect": {
+			"cooldown": 18
+		}
+	},
+	"skill": {
+		"realid": 111801,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 8,
+		"code": "88sniper"
+	}
+}, {
+	"id": 262,
+	"name": "EM2",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "ar",
+	"illust": "",
+	"voice": "",
+	"buildTime": 12900,
+	"drop": "1,2",
+	"stats": {
+		"hp": 108,
+		"pow": 128,
+		"hit": 120,
+		"dodge": 120,
+		"speed": 100,
+		"rate": 92,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 115,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [7, 9],
+		"gridEffect": {
+			"pow": 20,
+			"hit": 55
+		}
+	},
+	"skill": {
+		"realid": 112101,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 6,
+		"code": "EM2"
+	}
+}, {
+	"id": 263,
+	"name": "MG36",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "mg",
+	"illust": "",
+	"voice": "",
+	"buildTime": 23760,
+	"drop": "1,2",
+	"stats": {
+		"hp": 110,
+		"pow": 95,
+		"hit": 120,
+		"dodge": 128,
+		"speed": 100,
+		"rate": 115,
+		"armorPiercing": 15,
+		"crit": 5,
+		"bullet": 10
+	},
+	"grow": 138,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3],
+		"3": [9, 14]
+	},
+	"effect": {
+		"effectCenter": 2,
+		"effectPos": [5, 8, 9],
+		"gridEffect": {
+			"pow": 10,
+			"hit": 15
+		}
+	},
+	"skill": {
+		"realid": 111901,
+		"cd": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
+		"intercd": 8,
+		"code": "MG36"
+	}
+}, {
+	"id": 264,
+	"name": "ChauchatM1915",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "mg",
+	"illust": "",
+	"voice": "",
+	"buildTime": 23100,
+	"drop": "1,2",
+	"stats": {
+		"hp": 105,
+		"pow": 122,
+		"hit": 132,
+		"dodge": 112,
+		"speed": 100,
+		"rate": 75,
+		"armorPiercing": 15,
+		"crit": 5,
+		"bullet": 9
+	},
+	"grow": 125,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3],
+		"3": [9, 14]
+	},
+	"effect": {
+		"effectType": "sg",
+		"effectCenter": 3,
+		"effectPos": [8, 9],
+		"gridEffect": {
+			"rate": 12,
+			"armor": 12
+		}
+	},
+	"skill": {
+		"realid": 111701,
+		"cd": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+		"intercd": 6,
+		"code": "ChauchatM1915"
+	}
+}, {
+	"id": 265,
+	"name": "HK33",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "ar",
+	"illust": "",
+	"voice": "",
+	"buildTime": 11400,
+	"drop": "1905",
+	"stats": {
+		"hp": 95,
+		"pow": 110,
+		"hit": 125,
+		"dodge": 115,
+		"speed": 100,
+		"rate": 110,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 115,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [7, 9],
+		"gridEffect": {
+			"pow": 10,
+			"dodge": 10
+		}
+	},
+	"skill": {
+		"realid": 100406,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 4,
+		"code": "rateBuffSelf"
+	}
+}, {
+	"id": 266,
+	"name": "R93",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "rf",
+	"illust": "",
+	"voice": "",
+	"buildTime": 17400,
+	"drop": "219",
+	"stats": {
+		"hp": 92,
+		"pow": 114,
+		"hit": 132,
+		"dodge": 92,
+		"speed": 100,
+		"rate": 110,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 135,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [7, 8, 9],
+		"gridEffect": {
+			"cooldown": 18
+		}
+	},
+	"skill": {
+		"realid": 100404,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 5,
+		"code": "rateBuffSelf"
 	}
 }, {
 	"id": 1001,
