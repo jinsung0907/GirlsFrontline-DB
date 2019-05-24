@@ -181,3 +181,4 @@ BG-Fortress
 BG-Mullet
 BG-Monument
 BG-Guildhall
+fullwhite
