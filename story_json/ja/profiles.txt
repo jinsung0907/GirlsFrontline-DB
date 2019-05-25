@@ -168,3 +168,17 @@ BG-Cybercity
 BG-Sewer
 BG-Slum
 BG-Wall
+19WinterCG1
+19WinterCG2
+19WinterCG3
+19WinterCG4
+19WinterCG5
+19WinterCG5-1
+19WinterCG6
+19WinterCG7
+19WinterCG7-1
+BG-Fortress
+BG-Mullet
+BG-Monument
+BG-Guildhall
+fullwhite

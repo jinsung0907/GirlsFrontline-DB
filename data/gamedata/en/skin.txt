@@ -12,7 +12,7 @@ skin-20000004,I'm an expert at snacks when it comes to Halloween. Huh? Cosplay? 
 skin-30000004,I'll let you off this time//c but you'll have to bring me the best baking powder next time.
 skin-10000005,Classic Witch
 skin-20000005,Tee-hee//c it's Halloween. M14//c as always//c is on cloud nine over there...
-skin-30000005,Where are you looking at? …You are staring a bit too much.
+skin-30000005,Where are you looking at? ...You are staring a bit too much.
 skin-10000006,Haunted Castle
 skin-20000006,Eek! I wasn't scared or anything! Ah! Don't bring that jack-o'-lantern any closer!
 skin-30000006,It's all fake! How can it be scary?! There's no such thing as…
@@ -25,12 +25,12 @@ skin-30000008,Hm? You like it//c Darling? I prepared it just for you.
 skin-10000009,Neet Zombie
 skin-20000009,I don't mind joining in if I can get candies... Huh? There's more to it? Then I'll pass.
 skin-30000009,Life…isn't a bed of roses…
-skin-10000010,Huntress' Frock
+skin-10000010,Huntress' Frock 
 skin-20000010,I shall bring glory to your name on both the battlefield and the hunting ground.
 skin-30000010,
 skin-10000011,Witch from Afar
 skin-20000011,Oh//c who's at the door? Halloween...? The candies aren't ready yet... Will green tea ice cream do?
-skin-30000011,Ah…I suppose you could say it's a hobby of mine. As for that teapot//c it is used as a counterweight.
+skin-30000011,Ah...I suppose you could say it's a hobby of mine. As for that teapot//c it is used as a counterweight.
 skin-10000101,Dorky Sleepyhead
 skin-20000101,What//c you're happy with how I dress? Idiots have such unfathomable tastes...
 skin-30000101,
@@ -67,7 +67,7 @@ skin-30000205,
 skin-10000206,Winter Party
 skin-20000206,
 skin-30000206,
-skin-10000207,
+skin-10000207,Miss Black Kitty
 skin-20000207,
 skin-30000207,
 skin-10000208,Lover's Discourse
@@ -84,7 +84,7 @@ skin-20000303,Merry Christmas! Santa Claus is coming//c right? RIGHT?
 skin-30000303,If you accidentally lose your gift//c don't worry! M14 will help you find it!
 skin-10000304,Xmas At Home
 skin-20000304,Merry Christmas//c Commander! I was invited to the Santa Claus hunt//c but I've decided to stay cozy here at home after all!
-skin-30000304,It's so hard to tell jokes… But for the sake of the promise with the Commander//c I won't give up!
+skin-30000304,It's so hard to tell jokes... But for the sake of the promise with the Commander//c I won't give up!
 skin-10000305,Winter Fairy
 skin-20000305,How's my Christmas gown? ...Of course it's exceptional! You'd better enjoy the view on this marvelous festive day.
 skin-30000305,Authentic kvass is the best. Too bad it's so hard to come by. It'd be great if we had a chance to drink to our heart's content.
@@ -93,10 +93,10 @@ skin-20000306,You've got nothing to do anyway. I take pity on your being all alo
 skin-30000306,I'm only keeping this wine label because I rarely come across things from my country! Don't think I'm saving it because I'm grateful to you!
 skin-10000307,Xmas Reindeer
 skin-20000307,Will it snow on Christmas Day? I've never seen snow. It's on my bucket list...
-skin-30000307,This is my first time seeing snow; it's really beautiful…but it's too cold.
+skin-30000307,This is my first time seeing snow; it's really beautiful...but it's too cold.
 skin-10000308,Winter Supply
 skin-20000308,Merry Christmas//c Commander... Please end the ball early. It feels a bit chilly...wearing this dress the entire night...
-skin-30000308,People with refined tastes can derive a special kind of enjoyment from shopping. You need to develop yourself//c Commander//c in both taste and physical fitness.
+skin-30000308,People with refined tastes can draw a special kind of enjoyment from shopping. You need to develop yourself//c Commander//c in both taste and physical fitness.
 skin-10000309,Crimson Guardian
 skin-20000309,Merry Christmas//c Commander. Let me help with cleaning the windows. It is a little dangerous//c after all. It is safer to leave it to me.
 skin-30000309,Being able to spend Christmas with everyone is really fun. I hope that we'll be able to do the same for every other holiday in the future.
@@ -137,7 +137,7 @@ skin-10000409,"Am I Late?"
 skin-20000409,You've received quite a pile of chocolate today//c haven't you//c Commander? ...So getting another box won't hurt//c right? Tee-hee ♪
 skin-30000409,
 skin-10000410,"Just This Time."
-skin-20000410,Here's some chocolate I made//c Commander. I'm sure everyone made some for you//c but isn't mine better?
+skin-20000410,Here's some chocolate I made//c Commander. I'm sure everyone made some for you//c but isn't mine better? 
 skin-30000410,
 skin-10000411,English in Love
 skin-20000411,Please inspect these chocolates... They're confirmed to be free of poison//c so please take them//c Commander.
@@ -183,13 +183,13 @@ skin-20000802,The spotlights in the ball tonight...will definitely bear witness 
 skin-30000802,I have had a very enjoyable year and hope that more children will be able attend the formal banquet in the coming year.
 skin-10000803,Moonlit Ocean
 skin-20000803,I never realized how much we've been through together. I'm sure you'll always be by my side.
-skin-30000803,How did I get back to my dorm? I don't really remember… Whatever//c I haven't had that much fun drinking in a long time.
+skin-30000803,How did I get back to my dorm? I don't really remember... Whatever//c I haven't had that much fun drinking in a long time.
 skin-10000804,Ballroom Interlude
 skin-20000804,Commander promised to dance with me//c so where on earth is... Oh! W-What is it?! You're late! Just shut up!
-skin-30000804,I thought carrying a gun within a violin case was a good idea//c but it brought about unexpected troubles… What should I do next time?
+skin-30000804,I thought carrying a gun within a violin case was a good idea//c but it brought about unexpected troubles... What should I do next time?
 skin-10000805,Starry Cocoon
 skin-20000805,Commander//c may the dancefloor...become a place for just the two of us tonight.
-skin-30000805,Why does everyone look at me with such fearful eyes? …Did something happen last night?
+skin-30000805,Why does everyone look at me with such fearful eyes? ...Did something happen last night?
 skin-10000806,Tender Nocturne
 skin-20000806,Is the red carpet ready? You'd better not let me trip//c you hear?
 skin-30000806,Huuuu… Although they said the party last night was supposed to be a time to unwind//c I'm still feeling pretty tired. I think I'll sleep for a while longer…
@@ -280,22 +280,22 @@ skin-30001304,
 skin-10001305,Night at the Bar
 skin-20001305,Take care not to drink too much//c Commander... But leave it to me if you do get drunk.
 skin-30001305,
-skin-10001401,Lord of Darkness
-skin-20001401,These sort of costumes won't scare me. Things that are already dead…will simply return to the darkness.
+skin-10001401,Lord of Shadow
+skin-20001401,These sort of costumes won't scare me. Things that are already dead...will simply return to the darkness.
 skin-30001401,
-skin-10001402,Fox of Green Hill
+skin-10001402,Nine-Tail Fox
 skin-20001402,Tonight's candies are ready. Call everyone over//c but not too many at once.
 skin-30001402,
-skin-10001403,The Seventh Banisher
+skin-10001403,The Seventh Sealer
 skin-20001403,What do you want to do tonight? I've prepared a hundred ghost stories for the occasion.
 skin-30001403,
-skin-10001404,Demonic Gun Sister
+skin-10001404,Sister Gunslinger
 skin-20001404,No trick no treat! Hehe//c I've received a lot of candies tonight. Why? Because I'm cute of course!
 skin-30001404,
-skin-10001405,The Final Alice
+skin-10001405,The Last Alice
 skin-20001405,Rest assured. Leave the deathrock to me for the ball tonight.
 skin-30001405,
-skin-10001406,Precious Candy Thief
+skin-10001406,Candy Thief
 skin-20001406,Trick or treat! Trick or treat! Trick or treat!
 skin-30001406,
 skin-10001407,Wolf Walker
@@ -313,43 +313,43 @@ skin-30000508,
 skin-10001501,Demon Hunter
 skin-20001501,You must dress appropriately with class when you're entering high-end venues. This is the rule of the industry.//n
 skin-30001501,It's a shame that I couldn't see the entire opera performance. I'll go again the next time when no one is going to interrupt me.
-skin-10001502,Fantôme de l'Opera
+skin-10001502,Opera Ghost
 skin-20001502,Exquisite clothing is a component of a successful stage performance//c so…I suppose clothing is an element of your strength as well?//n
 skin-30001502,The theatre gave me a still photo after the mission//c but it would've been better if it was from the front...
-skin-10001503,Lady's Secret Order
+skin-10001503,L.A.D.Y
 skin-20001503,Hm//c the correct attire makes my victory that much more perfect.//n
 skin-30001503,You look a little pale after viewing the invoice… Why?
-skin-10001504,Wilderness Hunter
+skin-10001504,Call of the Hunter
 skin-20001504,I'm more adapted for wilderness warfare with these clothes. …Hm//c I can better protect my allies as well.//n
 skin-30001504,In the lulls between battles//c even a cup of instant coffee is heaven on earth.
-skin-10001505,Hooligan Racer
+skin-10001505,Babe Driver
 skin-20001505,Hey! I'm still very cool with a new melody♪
 skin-30001505,Mmm… I'm gonna try a new rhythm the next time I go on a ride♪
-skin-10001506,Burst Rider
+skin-10001506,Raging Rider
 skin-20001506,Um…my clothes are also very expensive//c be careful!//n
 skin-30001506,Commander//c I'll lend you a copy of the key for the motorcycle. Don't forget about the practice you promised me!
-skin-10001507,"Bartender"
+skin-10001507,"Sommelier"
 skin-20001507,Guten Tag//c my Commander. G36 is here to serve. Do I...look more like an attendant like this?//n
 skin-30001507,This is the bomb's fuse. …How dangerous. But don't worry//c I will protect everyone.
 skin-10001608,Little Reindeer in the Forest
 skin-20001608,Merry Christmas//c Commander! There will be many events tonight. Want me to be your guide?
 skin-30001608,
-skin-10001601,RFP Stole Christmas
+skin-10001601,How RFP Stole Xmas
 skin-20001601,The Christmas DLC is on sale! Commander//c buy it for me as a present//c please?
 skin-30001601,
-skin-10001602,The Most Beautiful Gift of Mine
+skin-10001602,Schönstes Geschenk
 skin-20001602,Merry Christmas… Commander//c did you finish setting up for the banquet? I'll head over to eat in a bit.
 skin-30001602,
-skin-10001603,Gunfire Offering of the Snow Maiden
+skin-10001603,Gunshot in the Snow
 skin-20001603,How can you convince me that Santa Claus exists? If I get to shoot at him… Just kidding.
 skin-30001603,
-skin-10001604,Winter Gatherer
+skin-10001604,Winter Forager
 skin-20001604,Commander//c look! I tore off Santa's beard! Hahahahaa! This is too much fun!
 skin-30001604,
-skin-10001605,Gift-Peddling Christmas Tree
+skin-10001605,Little Gift Tree
 skin-20001605,Merry Christmas//c Commander. Why don't you leave a button in the stocking for Santa Claus?...
 skin-30001605,
-skin-10001606,The Christmas You Wished For
+skin-10001606,War Is Over
 skin-20001606,Christmas? I love it~ There's cake to eat too!
 skin-30001606,
 skin-10005000,Original
@@ -394,24 +394,24 @@ skin-30005012,Original Costume
 skin-10005013,Bren - Original
 skin-20005013,Original Costume
 skin-30005013,Original Costume
-skin-10005014,
-skin-20005014,
-skin-30005014,
-skin-10005015,
-skin-20005015,
-skin-30005015,
-skin-10005016,
-skin-20005016,
-skin-30005016,
-skin-10005017,
-skin-20005017,
-skin-30005017,
-skin-10005018,
-skin-20005018,
-skin-30005018,
-skin-10005019,
-skin-20005019,
-skin-30005019,
+skin-10005014,M4 SOPMOD II - Original
+skin-20005014,Original Costume
+skin-30005014,Original Costume
+skin-10005015,UMP45 - Original
+skin-20005015,Original Costume
+skin-30005015,Original Costume
+skin-10005016,STEN MkⅡ - Original
+skin-20005016,Original Costume
+skin-30005016,Original Costume
+skin-10005017,M14 - Original
+skin-20005017,Original Costume
+skin-30005017,Original Costume
+skin-10005018,Gr G36 - Original
+skin-20005018,Original Costume
+skin-30005018,Original Costume
+skin-10005019,LWMMG - Original
+skin-20005019,Original Costume
+skin-30005019,Original Costume
 skin-10001701,Rabbit Squad
 skin-20001701,Hehe~ Commander//c wanna know my phone number? You'd better call me a lot~
 skin-30001701,
@@ -419,135 +419,135 @@ skin-10001702,ThanX! & Go2Hell!
 skin-20001702,This is the most popular style right now! This is the real deal gotten from my secret supplier… If you want to compliment me then let it all out!
 skin-30001702,
 skin-10001703,Snowflakes in Arms
-skin-20001703,After being accustomed to the underwater coldness…being warm like this makes me feel even more blessed.
+skin-20001703,After being accustomed to the underwater coldness...being warm like this makes me feel even more blessed.
 skin-30001703,
 skin-10001704,Crossing in Labyrinth
 skin-20001704,Let's head out now before our path turns into a labyrinth.
 skin-30001704,
 skin-10001705,Cross the Milky Way
-skin-20001705,It's alright even if I'm dressed in my work clothes? …Hehe//c alright//c if this is what you want as a part of the service.
+skin-20001705,It's alright even if I'm dressed in my work clothes? ...Hehe//c alright//c if this is what you want as a part of the service.
 skin-30001705,
 skin-10001801,Red Peony
-skin-20001801,Commander//c your plans for Chinese New Year…will there be any chances for me to shine?
+skin-20001801,Commander//c your plans for Chinese New Year...will there be any chances for me to shine?
 skin-30001801,It's a shame that I couldn't put as much money as I had wanted to in the red packets… But I still got to see interesting reactions…
-skin-10001802,Plum Blossom Seal
+skin-10001802,Wintersweet
 skin-20001802,A year has passed in the blink of an eye//c Commander. Are we one step closer to our ideal future?
-skin-30001802,Aww…this design is so cute//c I can't bear to ignite it! I think I'll save one… You mustn't let ART556 find out!
-skin-10001803,Lotus White
+skin-30001802,Aww...this design is so cute//c I can't bear to ignite it! I think I'll save one... You mustn't let ART556 find out!
+skin-10001803,White Cabbage
 skin-20001803,Commander//c it's so boring to stay cooped up at home during Chinese New Year. Let's go on an adventure outside!
-skin-30001803,Uwaa… Help//c Commander! I'm going to get eaten by a plush monster!
-skin-10001804,Zephyr Lily
+skin-30001803,Uwaa... Help//c Commander! I'm going to get eaten by a plush monster!
+skin-10001804,Fairy Lily
 skin-20001804,Any Chinese New Year events this year? They'd better be fun!
-skin-30001804,Human beings are so forgetful… This spare button//c I'm going to hold onto it for the Commander!
+skin-30001804,Human beings are so forgetful... This spare button//c I'm going to hold onto it for the Commander!
 skin-10001805,Honey Flower
 skin-20001805,It's a new year//c Darling! Did you notice that I look different today? I'll give you ten seconds to tell me which seven things that are different.
 skin-30001805,Darling//c you seem to enjoy these things called "dumplings". Give me the recipe and I'll make more for you later//c Darling~
-skin-10001806,Snow Ipomoea
+skin-10001806,Angel's Trumpet
 skin-20001806,Happy new year//c Commander. Please enjoy the holiday!
 skin-30001806,The art of paper cutting is quite interesting//c and it helps you exercise your patience too. It really is rewarding to have participated in the preparations for the festival.
-skin-10001807,Camellia Tea
+skin-10001807,White Camellia
 skin-20001807,Commander//c what is your destination this year? Let me continue to accompany you on your journey.
-skin-30001807,This is a train ticket template from a pawn shop. How nostalgic… I'd better keep it safe.
-skin-10001808,Yellow Star-Thistle
+skin-30001807,This is a train ticket template from a pawn shop. How nostalgic... I'd better keep it safe.
+skin-10001808,Golden Starthistle
 skin-20001808,Happy Chinese New Year//c Commander. Last year's financial statement is out and it looks like we weren't wasteful. Please keep it up.
-skin-30001808,This festival of extravagance and wastefulness… Although everyone is enjoying themselves//c we should still keep frugality in mind.
-skin-10001809,Lotus of the East Lake
+skin-30001808,This festival of extravagance and wastefulness... Although everyone is enjoying themselves//c we should still keep frugality in mind.
+skin-10001809,East Lake Lotus
 skin-20001809,Master//c happy Chinese New Year! Did you make any plans for this holiday? Wanna think it over a cup of coffee?~
 skin-30001809,
-skin-10001901,Vector - Ardent Devotion
+skin-10001901,Ardent Devotion
 skin-20001901,Since I've always been difficult with you//c I'll take it as my loss this time.
-skin-30001901,To have kept this gloomy photo//c I'm truly sorry. But that was what I truly felt when the photo was taken…more or less.
-skin-10001902,Five-seveN - Smile of Acceptance
+skin-30001901,To have this gloomy photo taken of me//c I'm truly sorry. But that was what I truly felt when the photo was taken...more or less.
+skin-10001902,Smile of Acceptance
 skin-20001902,Thank you. Please let me stay with you from now on and become your most trusted partner.//n
-skin-30001902,If you can send out wedding invitations someday…then please use this wax seal stamp.
-skin-10001903,MP5 - A Small Step
+skin-30001902,If you can send out wedding invitations someday...then please use this wax seal stamp.
+skin-10001903,A Small Step
 skin-20001903,Can someone like me who is insignificant in everything really stay by your side?
-skin-30001903,I want to wear those long skirts that other girls wear… I will work hard to grow taller to achieve this goal!
-skin-10001904,Gr G36 - Pure White Cornflower
+skin-30001903,I want to wear those long skirts that other girls wear... I will work hard to grow taller to achieve this goal!
+skin-10001904,Pure White Cornflower
 skin-20001904,There is nothing for me to be afraid of anymore. As long as I am by your side//c I can find the courage to face off against any adversity!
 skin-30001904,I didn't even realize there was a flower ornament in my hair. I'll keep it as a memento.
-skin-10001905,Type56-1 - 'Til Death Do Us Part
+skin-10001905,'Til Death Do Us Part
 skin-20001905,It's too late to regret your choice now//c ahaha! I'm not going to let you go!
-skin-30001905,This seal is quite straightforward. It would be great if there are more opportunities to use it in the future… Haha//c although that's probably not happening.
-skin-10001906,SV-98 - Pierce Your Heart!
+skin-30001905,This seal is quite straightforward. It would be great if there are more opportunities to use it in the future... Haha//c although that's probably not happening.
+skin-10001906,Pierce Your Heart!
 skin-20001906,I don't need to make any notes//c right? After all//c it's a once-in-a-lifetime thing.
 skin-30001906,You even get a small token of appreciation from the photo studio? I don't know what a real wedding feels like//c but I feel a little embarrassed accepting this gift…
-skin-10002001,K2 - Far East Princess
+skin-10002001,Far East Princess
 skin-20002001,Don't underestimate the princess on the battlefield. Put up a nice fight before kneeling before me//c okay?
 skin-30002001,
-skin-10002002,K5 - Dome Moonlight
+skin-10002002,Dome Moonlight
 skin-20002002,How many reccuring fates has the moonlight witnessed from the past to the present?
 skin-30002002,
-skin-10002003,KLIN - Waning Winter
+skin-10002003,Waning Winter
 skin-20002003,I want to burn the entire winter away//c leaving my own ashes in this frozen world.
 skin-30002003,
-skin-10002004,Type63- Yellow Dark Pheonix
+skin-10002004,Dusk Phoenix
 skin-20002004,Everything between heaven and earth is within my range. Come after me if you dare!
 skin-30002004,
-skin-10000509,El Clear - Pocket City Queen the Second
-skin-20000509,Hoho~ So this is the so-called popular music? I can be a chart topper with even this genre~
+skin-10000509,Pocket City Queen the Second
+skin-20000509,Hoho~ So this is the so-called popular music? I can be a chart topper with this genre too~
 skin-30000509,
-skin-10000510,El Fail - Pocket City Queen the Third
-skin-20000510,Is it the next song already? …Ah! This is…hehe~ This one is my best song~
+skin-10000510,Pocket City Queen the Third
+skin-20000510,Is it the next song already? ...Ah! This is...hehe~ This one is my best song~
 skin-30000510,
-skin-10002101,Gd DSR-50 - Highest Bid
-skin-20002101,Cherish our encounter tonight. This fine wine will certainly leave you with a memorable taste//c huhu…
-skin-30002101,Women with secrets are the most feminine… Will you satisfy the curiosity in your heart//c or will you protect yourself from the truth?
-skin-10002102,Grizzly - Starry Night Ball
+skin-10002101,Highest Bid
+skin-20002101,Cherish our encounter tonight. This fine wine will certainly leave you with a memorable taste//c hehe…
+skin-30002101,Women with secrets are the most feminine... Will you satisfy the curiosity in your heart//c or will you protect yourself from the truth?
+skin-10002102,Starry Night Ball
 skin-20002102,Commander//c would you like to have a dance with me on the stage? No skills needed as long as you're enthusiastic.
-skin-30002102,I really can't make heads or tails of this… Whatever. It's more important to ask the Commander for an allowance than to dwell on those things!
-skin-10002103,Welrod MkⅡ - Night Veil Crisis
+skin-30002102,I really can't make heads or tails of this... Whatever. It's more important to ask the Commander for an allowance than to dwell on those things!
+skin-10002103,Nightfall Crisis
 skin-20002103,It seems like there are uninvited guests looking to cause trouble in our grand night ceremony. We must stay vigilant.
-skin-30002103,Even if one has already fallen into a sinful swamp//c those by the water will still try to save their companion by casting him a rope. People call this kind of childish and uncontrollable impulse "friendship"
-skin-10002104,Zas M21 - White Queen
-skin-20002104,The time has reset to zero once again. Everything we've experienced during this period will push us another step closer to the future…right?
+skin-30002103,Even if one has already fallen into a sinful swamp//c those by the water will still try to save their companion by casting him a rope. People call this kind of childish and uncontrollable impulse "friendship".
+skin-10002104,White Queen
+skin-20002104,The time has reset to zero once again. Everything we've experienced during this period will push us another step closer to the future...right?
 skin-30002104,The truth is quite expensive//c Commander. So//c did you buy the nail polish I wanted yet?
-skin-10002105,SAA - Queen of Miracles
+skin-10002105,Queen of Miracles
 skin-20002105,Everyone! Raise the cola in your hand! Cheers for the miracles to befall us tonight!
 skin-30002105,The moment you used cola as a bet was the moment you lost to me.
-skin-10002106,UMP9 - The World's Melody
+skin-10002106,The World's Melody
 skin-20002106,The venue is so lively that I can't even find big sis 45! Do you think she ran off by herself to grab a bite?
-skin-30002106,A wish for the coming year? Hm…I hope that all my missions in the future are as easy and interesting as tonight!
-skin-10002107,UMP45 - Diamond Flower
-skin-20002107,A banquet//c huh… An atmosphere like this is really fresh for me. Do you enjoy this atmosphere//c Commander?
-skin-30002107,I've brought you misfortune. …But being able to say this here may be a fortunate thing in itself.
-skin-10002108,IDW - Cat in the Box
+skin-30002106,A wish for the coming year? Hm...I hope that all my missions in the future are as easy and interesting as tonight!
+skin-10002107,Diamond Flower
+skin-20002107,A banquet//c huh... An atmosphere like this is really fresh for me. Do you enjoy this atmosphere//c Commander?
+skin-30002107,I've brought you misfortune. ...But being able to say this here may be a fortunate thing in itself.
+skin-10002108,Cat in the Box
 skin-20002108,Nyahaha~ If you want to get the treasure in the venue then you'll have to get through me first!
-skin-30002108,Although I've lost this time//c I'll be back next time da nya! …What? That's a villain's line? I don't believe you!
-skin-10002109,EVO 3 - White Night Star
+skin-30002108,Although I've lost this time//c I'll be back next time da nya! ...What? That's a villain's line? I don't believe you!
+skin-10002109,White Night Star
 skin-20002109,Commander//c will there be a small celebration feast after this banquet mission?
-skin-30002109,The real importance lies in our performance… Jeez//c I can't help but feel like I'm glowing after hearing you say that.
-skin-10002201,Carcano M1891 - Little Brave Cano
+skin-30002109,The real importance lies in our performance... Jeez//c I can't help but feel like I'm glowing after hearing you say that.
+skin-10002201,Little Brave Cano
 skin-20002201,Sister~ I'm over here! Follow me closely or you'll get left behind!
 skin-30002201,
-skin-10002202,Carcano M91/38 - Miss Pinocchio
+skin-10002202,Miss Pinocchio
 skin-20002202,W-Wait up//c big sister! You're going so slow that I can't catch up!
 skin-30002202,
-skin-10002203,Five-seven - Adventures of Little Finn
+skin-10002203,Adventures of Little Finn
 skin-20002203,Hold firmly onto my hand//c okay//c Commander? Otherwise//c I'll be very worried if you get lost~
 skin-30002203,
-skin-10002204,PP-19 - Frog Princess
-skin-20002204,Posing like this in combat…may just shock the enemy into breaking formation. It's worth a try!
+skin-10002204,Frog Princess
+skin-20002204,Posing like this in combat...may just shock the enemy into breaking formation. It's worth a try!
 skin-30002204,
-skin-10002205,C-MS - The Wonderful Adventures of Geese
-skin-20002205,I'm a growing girl after all//c so even fish bones shouldn't go to waste… Ouch//c a bone pricked my mouth.
+skin-10002205,The Wonderful Adventures of Geese
+skin-20002205,I'm a growing girl after all//c so even fish bones shouldn't go to waste... Ouch//c a bone pricked my mouth.
 skin-30002205,
-skin-10002206,Thunder - Lenore's Raven
-skin-20002206,Are we really "children"…if we do not have "parents"?
+skin-10002206,Lenore's Raven
+skin-20002206,Are we really "children"...if we do not have "parents"?
 skin-30002206,
-skin-10002301,NTW-20 - The Aristocrat Experience
-skin-20002301,Hm…is it too sweet? Maybe it would be better if it's a little more bitter. Which do you prefer//c Master?
-skin-30002301,Making tea is such an effortful job…but it's fun. Give it a try if you have the time.
-skin-10002302,Contender - Flowerful Maid
-skin-20002302,Um… Um//c welcome back//c Comman- ah//c no! M-Master! …Sorry//c I should be able to do better.
-skin-30002302,What? Take a commemoration photo? I think I'll pass…... Hm…how should I pose for the camera in these clothes?
-skin-10002303,M950A - Home Ec Training
+skin-10002301,The Aristocrat Experience
+skin-20002301,Hm...is it too sweet? Maybe it would be better if it's a little more bitter. Which do you prefer//c Master?
+skin-30002301,Making tea is such an effortful job...but it's fun. Give it a try if you have the time.
+skin-10002302,Flowerful Maid
+skin-20002302,Um... Um//c welcome back//c Comman- ah//c no! M-Master! ...Sorry//c I should be able to do better.
+skin-30002302,What? Take a commemoration photo? I think I'll pass... Hm...how should I pose for the camera in these clothes?
+skin-10002303,Home Ec Training
 skin-20002303,Excuse me//c coming through! Lift your legs! I will not allow any new footprints in here until I can see my own reflection on the floor!
 skin-30002303,After a thorough cleaning//c both your spirit and your room are renewed in a sparkling sensation! Yup//c this training is very suitable for mass adoption across the entire dormitory. I'm gonna talk to the Commander about it when I have time~
-skin-10002304,Gr G28 - Beer Ranch
-skin-20002304,Hehe~ Master//c your beer is here! …The other glass? Oh//c that's just for balancing the weight.
-skin-30002304,Ahaha… Big sis Gr G36//c sorry! Give me another chance! Didn't I promise you when I asked to borrow your notes? I will never slack off in training anymore!
-skin-10002305,Gepard M1 - Contracted Today
+skin-10002304,Beer Ranch
+skin-20002304,Hehe~ Master//c your beer is here! ...The other glass? That's just a counterweight.
+skin-30002304,Ahaha... Big sis Gr G36//c sorry! Give me another chance! Didn't I promise you when I asked to borrow your notes? I will never slack off in training anymore!
+skin-10002305,Contracted Today
 skin-20002305,There's no end to sorting out these documents. I should've known that maids don't get vacations…
 skin-30002305,When will the vacation promised by the Commander be approved? Ah... I'm so tired...
 skin-10002401,
@@ -631,3 +631,111 @@ skin-30002705,
 skin-10002706,
 skin-20002706,
 skin-30002706,
+skin-10002801,
+skin-20002801,
+skin-30002801,
+skin-10002802,
+skin-20002802,
+skin-30002802,
+skin-10002803,
+skin-20002803,
+skin-30002803,
+skin-10002804,
+skin-20002804,
+skin-30002804,
+skin-10002805,
+skin-20002805,
+skin-30002805,
+skin-10002806,
+skin-20002806,
+skin-30002806,
+skin-10002807,
+skin-20002807,
+skin-30002807,
+skin-10002901,
+skin-20002901,
+skin-30002901,
+skin-10002902,
+skin-20002902,
+skin-30002902,
+skin-10002903,
+skin-20002903,
+skin-30002903,
+skin-10002904,
+skin-20002904,"Are you mistaken
+skin-30002904,
+skin-10002905,
+skin-20002905,"Do you want New Year's clothes
+skin-30002905,
+skin-10002906,
+skin-20002906,"I have investigated various New Year's customs
+skin-30002906,
+skin-10002907,
+skin-20002907,
+skin-30002907,
+skin-10002908,
+skin-20002908,I'm dedicating the entire day today to cleaning up the dormitory! Should I clean the Commander's room as well?
+skin-30002908,
+skin-10000521,
+skin-20000521,
+skin-30000521,
+skin-10003001,
+skin-20003001,
+skin-30003001,
+skin-10003002,
+skin-20003002,
+skin-30003002,
+skin-10003003,
+skin-20003003,
+skin-30003003,
+skin-10003004,
+skin-20003004,
+skin-30003004,
+skin-10003005,
+skin-20003005,
+skin-30003005,
+skin-10003006,
+skin-20003006,
+skin-30003006,
+skin-10003007,
+skin-20003007,
+skin-30003007,
+skin-10003101,
+skin-20003101,
+skin-30003101,
+skin-10003102,
+skin-20003102,
+skin-30003102,
+skin-10003103,
+skin-20003103,
+skin-30003103,
+skin-10003105,
+skin-20003105,
+skin-30003105,
+skin-10003106,
+skin-20003106,
+skin-30003106,
+skin-10003107,
+skin-20003107,
+skin-30003107,
+skin-10000522,
+skin-20000522,
+skin-30000522,
+skin-10000523,
+skin-20000523,
+skin-30000523,
+skin-10003201,
+skin-20003201,
+skin-30003201,
+skin-10003202,
+skin-20003202,
+skin-30003202,
+skin-10003203,
+skin-20003203,
+skin-30003203,
+skin-10003204,
+skin-20003204,
+skin-30003204,
+skin-10003205,
+skin-20003205,
+skin-30003205,

@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"游戏提示","speaker":0,"text":"占领雷达站将干扰敌方单位行动的路线。"}]

@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"遊戲提示","speaker":0,"text":"占領雷達站將干擾敵方單位行動的路線。"}]

@@ -76,11 +76,11 @@ story_util-10000038,Hunter's base fell into disarray all of a sudden//c then AR-
 story_util-20000038,No Hunting
 story_util-10000039,I applied for this mission without consulting the commander//c but the commander still decided to accept the challenge even though it was much harder than I expected. All the best!
 story_util-20000039,Data Retrieval I
-story_util-10000040,We've recovered a few military hard disks but can't read the content... I'm dying to know what's in there...
+story_util-10000040,We have recovered a few military hard disks but can't read the content... I'm dying to know what's inside... 
 story_util-20000040,Data Retrieval II
 story_util-10000041,Sangvis forces came after the hard disks//c which means they're a big deal to them. They must contain some kind of important data!
 story_util-20000041,Data Retrieval III
-story_util-10000042,The commander listened to some of the recordings on the hard disks after the mission and looked a bit grave... Have S.F. still got many aces up their sleeve?
+story_util-10000042,The commander listened to some of the recordings on the hard disks after the mission and looked a bit grave... Does S.F. still have many aces up their sleeve? 
 story_util-20000042,Data Retrieval IV
 story_util-10000043,Makarov requested the commander to assist her in infiltrating Sangvis territory to rescue the trapped Nagant M1895.
 story_util-20000043,Anonymous Rescue I
@@ -295,45 +295,45 @@ story_util-20000148,Betrayal III
 story_util-10000149,Hey! Hey! What is going on?! Everything is a mess! What happened to AR Team? What about our base? What should I do//c Commander?!
 story_util-20000149,Betrayal IV
 story_util-10000150,UMP45 has received a new task from her employer. For this task//c they will need to undergo a new kind of training.
-story_util-20000150,Cognitive Conundrum I
+story_util-20000150,Cognitive Conundrum I  
 story_util-10000151,Cyberwarfare training is going smoothly//c but UMP45 finds a message from the past…
-story_util-20000151,Cognitive Conundrum II
+story_util-20000151,Cognitive Conundrum II  
 story_util-10000152,As they dive deeper into the training session//c UMP45 unlocks a memory that was sealed in her neural system.
 story_util-20000152,Cognitive Conundrum III
 story_util-10000153,A Griffin T-Doll is ensnared in a data trap. The opportunity to put the cyberwarfare training into practice has come.
-story_util-20000153,Cognitive Conundrum IV
+story_util-20000153,Cognitive Conundrum IV  
 story_util-10000154,The search mission has begun. The keen Sangvis forces have also quickly acted in response.
-story_util-20000154,Hyperbolic Function I
+story_util-20000154,Hyperbolic Function I  
 story_util-10000155,The Sangvis Ringleader unceasingly provokes Squad 404//c but UMP45's attention is focused on something else…
 story_util-20000155,Hyperbolic Function II
 story_util-10000156,UMP45 is not afraid of Sangvis Ferri and decides to go on alone. Meanwhile//c Destroyer finally reveals her new form in front of everyone...
 story_util-20000156,Hyperbolic Function III
 story_util-10000157,The decisive battle against Destroyer//c or rather//c Cerberus//c has begun!
-story_util-20000157,Hyperbolic Function IV
+story_util-20000157,Hyperbolic Function IV 
 story_util-10000158,UMP45's neural system is under Sangvis intrusion. 404 must collect enough pieces of memories to wake her up before Sangvis succeeds in their attack.
-story_util-20000158,Relative Behavior I
+story_util-20000158,Relative Behavior I  
 story_util-10000159,More and more pieces of 45's memories are being uncovered. Dreamer has also begun remodeling Destroyer for the second time…
 story_util-20000159,Relative Behavior II
 story_util-10000160,The cyberwarfare battles have left 404 exhausted. Yet at this time//c Destroyer shows up in a brand new form!
 story_util-20000160,Relative Behavior III
 story_util-10000161,The final battle to escape has begun. Can 404 awaken UMP45//c shake off Perfect Form (self-proclaimed) Destroyer//c and safely escape?
-story_util-20000161,Relative Behavior IV
-story_util-10000162,
-story_util-20000162,
-story_util-10000163,
-story_util-20000163,
-story_util-10000164,
-story_util-20000164,
-story_util-10000165,
-story_util-20000165,
-story_util-10000166,
-story_util-20000166,
-story_util-10000167,
-story_util-20000167,
-story_util-10000168,
-story_util-20000168,
-story_util-10000169,
-story_util-20000169,
+story_util-20000161,Relative Behavior IV 
+story_util-10000162,Negev: In a small corner of an unknown battlefield//c Jericho and I are huddled up//c waiting for a rescue that may never come…
+story_util-20000162,One-Sided Memory I
+story_util-10000163,Negev: In the darkness engulfed by fear and despair//c I reminisce about a glorious victory of the past…
+story_util-20000163,One-Sided Memory II
+story_util-10000164,Negev: We rekindle our hearts with this memory and reach for an already-irresversible future…
+story_util-20000164,One-Sided Memory III
+story_util-10000165,Negev: In the end//c I woke up and remembered everything…
+story_util-20000165,One-Sided Memory IV
+story_util-10000166,IWS 2000 report: We suspect Sangvis Ferri may be in possession of CBRN weapons. We must let go of our past setbacks and take the initiative against them.
+story_util-20000166,Eagle and Jackdaw I
+story_util-10000167,IWS 2000 report: We have discovered a nuclear weapon in a S.F. base. Although it is a crude thing//c Sangvis Ferri does not seem to be willing to give it up without a fight.
+story_util-20000167,Eagle and Jackdaw II
+story_util-10000168,IWS 2000 report: It was a trap! Sangvis Ferri tricked us with a cheap bait! Their true goal is to plant poison onto a T-Doll to kill the Commander!
+story_util-20000168,Eagle and Jackdaw III
+story_util-10000169,IWS 2000 report: If the sacrifice of my life alone can stop an atrocity//c then isn't that a worthwhile exchange?
+story_util-20000169,Eagle and Jackdaw IV
 story_util-10000170,
 story_util-20000170,
 story_util-10000171,
@@ -354,3 +354,349 @@ story_util-10000178,
 story_util-20000178,
 story_util-10000179,
 story_util-20000179,
+story_util-10000192,
+story_util-20000192,Down the Rabbit Hole
+story_util-10000193,
+story_util-20000193,T-Doll Annihilation
+story_util-10000194,
+story_util-20000194,St. Elmo
+story_util-10000195,
+story_util-20000195,Hunting Game
+story_util-10000196,
+story_util-20000196,Operation Rabbit Hunt
+story_util-10000197,
+story_util-20000197,Imaginary Maze
+story_util-10000198,
+story_util-20000198,Imminent Collapse
+story_util-10000199,
+story_util-20000199,Curiosity Killed the Cat
+story_util-10000200,
+story_util-20000200,Kiana Strikes
+story_util-10000201,
+story_util-20000201,Do Not Enter
+story_util-10000202,
+story_util-20000202,Ominous Thunder
+story_util-10000203,
+story_util-20000203,Swelling Desire
+story_util-10000204,
+story_util-20000204,Resentment
+story_util-10000205,
+story_util-20000205,I Only Hope That One Day…
+story_util-10000206,
+story_util-20000206,Starting Point
+story_util-10000207,
+story_util-20000207,Splinter Point
+story_util-10000208,
+story_util-20000208,Exhaust I
+story_util-10000209,
+story_util-20000209,Exhaust II
+story_util-10000210,
+story_util-20000210,Exhaust III
+story_util-10000211,
+story_util-20000211,Exhaust IV
+story_util-10000212,
+story_util-20000212,Compression I
+story_util-10000213,
+story_util-20000213,Compression II
+story_util-10000214,
+story_util-20000214,Compression III
+story_util-10000215,
+story_util-20000215,Compression IV
+story_util-10000216,
+story_util-20000216,Ignition I
+story_util-10000217,
+story_util-20000217,Ignition II
+story_util-10000218,
+story_util-20000218,Ignition III
+story_util-10000219,
+story_util-20000219,Ignition IV
+story_util-10000220,
+story_util-20000220,Splinter Point
+story_util-10000221,
+story_util-20000221,Queen's Gambit I
+story_util-10000222,
+story_util-20000222,Queen's Gambit II
+story_util-10000223,
+story_util-20000223,Queen's Gambit III
+story_util-10000224,
+story_util-20000224,Queen's Gambit IV
+story_util-10000225,
+story_util-20000225,Castling I
+story_util-10000226,
+story_util-20000226,Castling II
+story_util-10000227,
+story_util-20000227,Castling III
+story_util-10000228,
+story_util-20000228,Castling IV
+story_util-10000229,
+story_util-20000229,Promotion I
+story_util-10000230,
+story_util-20000230,Promotion II
+story_util-10000231,
+story_util-20000231,Promotion III
+story_util-10000232,
+story_util-20000232,Promotion IV
+story_util-10000233,
+story_util-20000233,Weakling's End I
+story_util-10000234,
+story_util-20000234,Weakling's End II
+story_util-10000235,
+story_util-20000235,Weakling's End III
+story_util-10000236,
+story_util-20000236,Weakling's End IV
+story_util-10000237,
+story_util-20000237,Last Resort I
+story_util-10000238,
+story_util-20000238,Last Resort II
+story_util-10000239,
+story_util-20000239,Last Resort III
+story_util-10000240,
+story_util-20000240,Last Resort IV
+story_util-10000241,
+story_util-20000241,Last Resort V
+story_util-10000242,
+story_util-20000242,Endgame
+story_util-10000243,
+story_util-20000243,Messenger
+story_util-10000244,
+story_util-20000244,Survivor
+story_util-10000245,
+story_util-20000245,Goodbye//c Dragon Palace
+story_util-10000246,
+story_util-20000246,Hornet's Nest
+story_util-10000247,
+story_util-20000247,Endgame
+story_util-10000248,
+story_util-20000248,Stalker
+story_util-10000249,
+story_util-20000249,HeartBeat
+story_util-10000250,
+story_util-20000250,Waiting For You!
+story_util-10000251,
+story_util-20000251,Sunset Rider
+story_util-10000252,
+story_util-20000252,Fate
+story_util-10000253,
+story_util-20000253,End of the Moonlight
+story_util-10000254,
+story_util-20000254,Stalker EX
+story_util-10000255,
+story_util-20000255,HeartBeat EX
+story_util-10000256,
+story_util-20000256,Waiting For You! EX
+story_util-10000257,
+story_util-20000257,Sunset Rider EX
+story_util-10000258,
+story_util-20000258,Fate EX
+story_util-10000259,
+story_util-20000259,End of the Moonlight EX
+story_util-10000260,
+story_util-20000260,Down the Rabbit Hole+
+story_util-10000261,
+story_util-20000261,
+story_util-10000262,
+story_util-20000262,
+story_util-10000263,
+story_util-20000263,
+story_util-10000264,
+story_util-20000264,
+story_util-10000265,
+story_util-20000265,
+story_util-10000266,
+story_util-20000266,
+story_util-10000267,
+story_util-20000267,
+story_util-10000268,
+story_util-20000268,
+story_util-10000269,
+story_util-20000269,
+story_util-10000270,
+story_util-20000270,
+story_util-10000271,
+story_util-20000271,
+story_util-10000272,
+story_util-20000272,
+story_util-10000273,
+story_util-20000273,
+story_util-10000274,
+story_util-20000274,
+story_util-10000275,
+story_util-20000275,
+story_util-10000276,
+story_util-20000276,Griffin Expendables
+story_util-10000277,
+story_util-20000277,
+story_util-10000278,
+story_util-20000278,
+story_util-10000279,
+story_util-20000279,
+story_util-10000280,
+story_util-20000280,
+story_util-10000281,
+story_util-20000281,
+story_util-10000282,
+story_util-20000282,
+story_util-10000283,
+story_util-20000283,
+story_util-10000284,
+story_util-20000284,
+story_util-10000285,
+story_util-20000285,
+story_util-10000286,
+story_util-20000286,
+story_util-10000287,
+story_util-20000287,
+story_util-10000288,
+story_util-20000288,
+story_util-10000289,
+story_util-20000289,
+story_util-10000290,
+story_util-20000290,
+story_util-10000291,
+story_util-20000291,
+story_util-10000292,
+story_util-20000292,
+story_util-10000293,
+story_util-20000293,
+story_util-10000294,
+story_util-20000294,
+story_util-10000295,
+story_util-20000295,
+story_util-10000296,
+story_util-20000296,
+story_util-10000297,
+story_util-20000297,
+story_util-10000298,
+story_util-20000298,
+story_util-10000299,
+story_util-20000299,
+story_util-10000300,
+story_util-20000300,
+story_util-10000301,
+story_util-20000301,
+story_util-10000302,
+story_util-20000302,
+story_util-10000303,
+story_util-20000303,
+story_util-10000304,
+story_util-20000304,
+story_util-10000305,
+story_util-20000305,
+story_util-10000306,
+story_util-20000306,
+story_util-10000307,
+story_util-20000307,
+story_util-10000308,
+story_util-20000308,
+story_util-10000309,
+story_util-20000309,
+story_util-10000310,
+story_util-20000310,
+story_util-10000311,
+story_util-20000311,Souvenir
+story_util-10000312,
+story_util-20000312,
+story_util-10000313,
+story_util-20000313,
+story_util-10000314,
+story_util-20000314,
+story_util-10000315,
+story_util-20000315,
+story_util-10000316,
+story_util-20000316,
+story_util-10000317,
+story_util-20000317,
+story_util-10000318,
+story_util-20000318,
+story_util-10000319,
+story_util-20000319,
+story_util-10000320,
+story_util-20000320,
+story_util-10000321,
+story_util-20000321,
+story_util-10000322,
+story_util-20000322,
+story_util-10000323,
+story_util-20000323,
+story_util-10000324,
+story_util-20000324,
+story_util-10000325,
+story_util-20000325,
+story_util-10000326,
+story_util-20000326,
+story_util-10000327,
+story_util-20000327,
+story_util-10000328,
+story_util-20000328,
+story_util-10000329,
+story_util-20000329,
+story_util-10000330,
+story_util-20000330,
+story_util-10000331,
+story_util-20000331,
+story_util-10000332,
+story_util-20000332,
+story_util-10000333,
+story_util-20000333,
+story_util-10000334,
+story_util-20000334,
+story_util-10000335,
+story_util-20000335,
+story_util-10000336,
+story_util-20000336,
+story_util-10000337,
+story_util-20000337,
+story_util-10000338,
+story_util-20000338,
+story_util-10000339,
+story_util-20000339,
+story_util-10000340,
+story_util-20000340,
+story_util-10000341,
+story_util-20000341,
+story_util-10000342,
+story_util-20000342,
+story_util-10000343,
+story_util-20000343,
+story_util-10000344,
+story_util-20000344,
+story_util-10000345,
+story_util-20000345,
+story_util-10000346,
+story_util-20000346,
+story_util-10000347,
+story_util-20000347,
+story_util-10000348,
+story_util-20000348,
+story_util-10000349,
+story_util-20000349,
+story_util-10000350,
+story_util-20000350,
+story_util-10000351,
+story_util-20000351,
+story_util-10000352,
+story_util-20000352,
+story_util-10000353,
+story_util-20000353,
+story_util-10000354,
+story_util-20000354,
+story_util-10000355,
+story_util-20000355,
+story_util-10000356,
+story_util-20000356,
+story_util-10000357,
+story_util-20000357,
+story_util-10000358,
+story_util-20000358,
+story_util-10000359,
+story_util-20000359,
+story_util-10000360,
+story_util-20000360,
+story_util-10000361,
+story_util-20000361,
+story_util-10000362,
+story_util-20000362,
+story_util-10000363,
+story_util-20000363,
+story_util-10000364,
+story_util-20000364,

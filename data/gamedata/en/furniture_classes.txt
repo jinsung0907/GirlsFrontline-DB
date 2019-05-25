@@ -128,13 +128,13 @@ furniture_classes-10000038,Late Night Kitchen
 furniture_classes-20000038,A set of furniture themed after a kitchen. T-Dolls will come in groups to busy themselves here//c and leave behind their own cozy stories...sometimes.
 furniture_classes-30000038,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
 furniture_classes-10000039,Halloween Town
-furniture_classes-20000039,Furniture set inspired by Halloween. Investigate everything so that you can escape from this dreaded place. If not… Well//c it won't be that big of a deal if you can get used to living here.
+furniture_classes-20000039,Furniture set inspired by Halloween. Investigate everything so that you can escape from this dreaded place. If not... Well//c it won't be that big of a deal if you can get used to living here.
 furniture_classes-30000039,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000040,Garden Tea Party
 furniture_classes-20000040,Furniture set modeled after a flower house in the wild. "I hope that when you are loved someday//c you will first fall in love with that nameless flower!"
 furniture_classes-30000040,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
 furniture_classes-10000041,King's Tailor
-furniture_classes-20000041,Furniture set modeled after a tailor shop. Accepting a mission and then completing it gracefully. Maintaining world peace is as simple as that.
+furniture_classes-20000041,Furniture set modeled after an agent tailor shop. Accepting a mission and then completing it gracefully. Maintaining world peace is as simple as that.
 furniture_classes-30000041,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
 furniture_classes-10000042,Top Jet
 furniture_classes-20000042,Furniture set inspired by aircrafts. We've tried to conquer the sky//c and we've tried to conquer each other within the sky. This is a record of our aerial history.
@@ -149,7 +149,7 @@ furniture_classes-10000045,Pirate's Legacy
 furniture_classes-20000045,Furniture set modeled after a pirate ship cabin. This used to be a part of some people's lives several hundred years ago. They drifted through life//c enjoyed it//c and struggled to live or died; exactly the same as the people now.
 furniture_classes-30000045,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
 furniture_classes-10000046,Pixel Forest
-furniture_classes-20000046,Furniture set depicting a pixel forest. A grand adventure is about to start! Even if in the eyes of others that this is a game for children…isn't being a child the most enviable of all?
+furniture_classes-20000046,Furniture set depicting a pixel forest. A grand adventure is about to start! Even if in the eyes of others that this is a game for children...isn't being a child the most enviable of all?
 furniture_classes-30000046,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000047,Biker's Diary
 furniture_classes-20000047,Furniture set modeled after a bicycle and motorcycle shop. Everyone has thought of travelling to a faraway place at least once in their life. However//c in addition to dreams//c you need the ability to make it happen.
@@ -157,42 +157,57 @@ furniture_classes-30000047,You can gain additional Comfort by placing 8 pieces o
 furniture_classes-10000048,Hometown Reminiscence
 furniture_classes-20000048,Furniture set themed after a snowy New Year. There once was a group of people who lived only for the New Year greetings//c so enjoy your life while you're still young.
 furniture_classes-30000048,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000049,
-furniture_classes-20000049,
-furniture_classes-30000049,
-furniture_classes-10000050,
-furniture_classes-20000050,
-furniture_classes-30000050,
+furniture_classes-10000049,Echelon Collection
+furniture_classes-20000049,A furniture set of an otaku collection. Whether you enjoy collecting male hobby merchandise or moe merchandise//c this is your unique hobby and the most valuable aspect of your life.
+furniture_classes-30000049,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000050,Wedding Scenery
+furniture_classes-20000050,A furniture set based on a wedding photo shoot. As you can see//c this is just a stage set. Photos//c ceremony//c and a married life... Are any of these real?
+furniture_classes-30000050,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000052,
 furniture_classes-20000052,
-furniture_classes-30000052,
-furniture_classes-10000053,
-furniture_classes-20000053,
-furniture_classes-30000053,
-furniture_classes-10000054,
-furniture_classes-20000054,
-furniture_classes-30000054,
+furniture_classes-30000052,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000053,Convention Craze
+furniture_classes-20000053,A furniture set based on an anime convention. What would the world look like if Dolls were introduced 50 years earlier? Collect everything to find out.
+furniture_classes-30000053,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
+furniture_classes-10000054,Saturday Night Fever
+furniture_classes-20000054,A furniture set based on the anniversary party. Celebrations are not bound to tonight of all nights//c but can we ascertain where we'll end up tomorrow night?
+furniture_classes-30000054,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000055,
 furniture_classes-20000055,
-furniture_classes-30000055,
+furniture_classes-30000055,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000056,
 furniture_classes-20000056,
-furniture_classes-30000056,
+furniture_classes-30000056,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000057,
 furniture_classes-20000057,
-furniture_classes-30000057,
+furniture_classes-30000057,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
 furniture_classes-10000058,
 furniture_classes-20000058,
-furniture_classes-30000058,
+furniture_classes-30000058,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000059,
 furniture_classes-20000059,
-furniture_classes-30000059,
+furniture_classes-30000059,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000060,
 furniture_classes-20000060,
-furniture_classes-30000060,
+furniture_classes-30000060,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000061,
 furniture_classes-20000061,
-furniture_classes-30000061,
+furniture_classes-30000061,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
 furniture_classes-10000062,
 furniture_classes-20000062,
-furniture_classes-30000062,
+furniture_classes-30000062,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000063,
+furniture_classes-20000063,
+furniture_classes-30000063,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000064,
+furniture_classes-20000064,
+furniture_classes-30000064,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000065,
+furniture_classes-20000065,
+furniture_classes-30000065,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000066,
+furniture_classes-20000066,
+furniture_classes-30000066,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
+furniture_classes-10000067,
+furniture_classes-20000067,
+furniture_classes-30000067,

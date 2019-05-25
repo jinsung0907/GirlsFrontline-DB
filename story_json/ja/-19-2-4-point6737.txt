@@ -1,1 +1,1 @@
-[{"character":["K2"],"character_emotion":["0"],"speaker_name":"K2","speaker":0,"bg":"10","text":"no text data avaliable(no jp, ko data)"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"no text data avaliable(no jp, ko data)"}]
+[{"character":["K2"],"character_emotion":["0"],"speaker_name":"K2","speaker":0,"bg":"10","text":"26108"},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"26109"}]

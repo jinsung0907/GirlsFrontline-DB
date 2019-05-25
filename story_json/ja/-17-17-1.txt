@@ -1,1 +1,1 @@
-[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bgm":"BGM_Boss","bg":"98","text":"no text data avaliable(no jp, ko data)"},{"character":["BOSS-8"],"character_emotion":["0"],"speaker_name":"代理人","speaker":0,"text":"no text data avaliable(no jp, ko data)"}]
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bgm":"BGM_Boss","bg":"98","text":"16992"},{"character":["BOSS-8"],"character_emotion":["0"],"speaker_name":"代理人","speaker":0,"text":"16993"}]

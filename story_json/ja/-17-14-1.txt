@@ -1,1 +1,1 @@
-[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bgm":"BGM_stage10","bg":"99","isnight":1,"text":"no text data avaliable(no jp, ko data)"},{"character":["NPC-Kalin"],"character_emotion":["4"],"speaker_name":"格琳","speaker":0,"text":"no text data avaliable(no jp, ko data)"}]
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bgm":"BGM_stage10","bg":"99","isnight":1,"text":"16890"},{"character":["NPC-Kalin"],"character_emotion":["4"],"speaker_name":"格琳","speaker":0,"text":"16891"}]

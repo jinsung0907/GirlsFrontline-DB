@@ -1,1 +1,1 @@
-[{"character":[],"character_emotion":[""],"speaker":0,"speaker_name":"","bg":"10","text":"Click."}]
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"...Click."},{"character":["NPC-Seele"],"character_emotion":["0"],"speaker_name":"Zeele","speaker":0,"text":"Miss 45, we'll be readjusting the emission structure of your analog signal shortly. Please keep the signal plugged in the network for a while. \nAlso, be careful of the offensive firewall. Deele didn't shut it down to save time, so if you run into it, feel free to destroy it."}]
