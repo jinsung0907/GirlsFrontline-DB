@@ -383,6 +383,7 @@ $starttime = microtime(true);
 			if($match[2] == "그리즐리") $match[2] = "Grizzly";
 			if($match[2] == "스텐 MkII") $match[2] = "StenMK2";
 			if($match[2] == "리-엔필드") $match[2] = "리엔필드";
+      if($match[2] == "모신-나강") $match[2] = "모신나강";
 			if($match[2] == "키아나") $match[2] = "키아나 카스라나";
 			if($match[2] == "브로냐") $match[2] = "브로냐 자이칙";
 			if($match[2] == "제레") $match[2] = "제레 발레리";
