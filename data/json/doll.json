@@ -1353,7 +1353,7 @@
 		}
 	},
 	"skill": {
-		"realid": 102302,
+		"realid": 802708,
 		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
 		"intercd": 3,
 		"code": "Napalm"
@@ -2565,7 +2565,7 @@
 		}
 	},
 	"skill": {
-		"realid": 102116,
+		"realid": 802506,
 		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
 		"intercd": 8,
 		"code": "RifleGrenade"
@@ -11313,10 +11313,54 @@
 		}
 	},
 	"skill": {
-		"realid": 100404,
+		"realid": 112201,
 		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
-		"intercd": 5,
-		"code": "rateBuffSelf"
+		"intercd": 6,
+		"code": "R93"
+	}
+}, {
+	"id": 267,
+	"name": "MP41",
+	"krName": "MP41",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "smg",
+	"illust": "狂気の君",
+	"voice": "",
+	"buildTime": 7500,
+	"drop": "1906",
+	"stats": {
+		"hp": 110,
+		"pow": 105,
+		"hit": 100,
+		"dodge": 90,
+		"speed": 100,
+		"rate": 95,
+		"armorPiercing": 15,
+		"crit": 5
+	},
+	"grow": 120,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 5,
+		"effectPos": [1, 2],
+		"gridEffect": {
+			"pow": 12,
+			"dodge": 10
+		}
+	},
+	"skill": {
+		"realid": 102402,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 1,
+		"code": "Smoke"
 	}
 }, {
 	"id": 1001,
@@ -11681,6 +11725,52 @@
 		"code": "StenMK2"
 	}
 }, {
+	"id": 20032,
+	"name": "MicroUZIMod",
+	"rank": 4,
+	"type": "smg",
+	"illust": "死盖",
+	"voice": "Saori Onishi",
+	"buildTime": 6000,
+	"drop": "35",
+	"stats": {
+		"hp": 98,
+		"pow": 93,
+		"hit": 95,
+		"dodge": 125,
+		"speed": 100,
+		"rate": 130,
+		"armorPiercing": 15,
+		"crit": 5
+	},
+	"grow": 115,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 5,
+		"effectPos": [4, 6, 2],
+		"gridEffect": {
+			"pow": 18,
+			"hit": 15
+		}
+	},
+	"skill": {
+		"realid": 802701,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 3,
+		"code": "Napalm"
+	},
+	"skill2": {
+		"realid": 802710,
+		"cd": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+		"intercd": 0,
+		"code": "UZImod"
+	}
+}, {
 	"id": 20037,
 	"name": "M14Mod",
 	"rank": 4,
@@ -11997,6 +12087,97 @@
 		"cd": "",
 		"intercd": "",
 		"code": "AR15_Shot"
+	}
+}, {
+	"id": 20060,
+	"name": "ASVALMod",
+	"rank": 5,
+	"type": "ar",
+	"illust": "防弹乳牛",
+	"voice": "Uesaka Sumire",
+	"buildTime": 12600,
+	"drop": "35",
+	"stats": {
+		"hp": 120,
+		"pow": 94,
+		"hit": 125,
+		"dodge": 125,
+		"speed": 100,
+		"rate": 115,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 110,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [6, 8],
+		"gridEffect": {
+			"pow": 25,
+			"rate": 15
+		}
+	},
+	"skill": {
+		"realid": 802601,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 5,
+		"code": "nightpowBuffSelf"
+	},
+	"skill2": {
+		"realid": 802602,
+		"cd": "",
+		"intercd": "",
+		"code": "AS VALmod"
+	}
+}, {
+	"id": 20061,
+	"name": "STG44Mod",
+	"rank": 4,
+	"type": "ar",
+	"illust": "八才",
+	"voice": "Ai Kayano",
+	"buildTime": 10800,
+	"drop": "35",
+	"stats": {
+		"hp": 115,
+		"pow": 125,
+		"hit": 115,
+		"dodge": 85,
+		"speed": 100,
+		"rate": 96,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 120,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectCenter": 5,
+		"effectPos": [4, 6, 8],
+		"gridEffect": {
+			"dodge": 20,
+			"hit": 60
+		}
+	},
+	"skill": {
+		"realid": 802502,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 8,
+		"code": "RifleGrenade"
+	},
+	"skill2": {
+		"realid": 802504,
+		"cd": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+		"intercd": 0,
+		"code": "Stg44mod"
 	}
 }, {
 	"id": 20063,
