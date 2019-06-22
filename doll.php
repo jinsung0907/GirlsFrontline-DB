@@ -1042,7 +1042,7 @@ $starttime = microtime(true);
 		$(".doll_img img").on('load', function() {
 			$(this).show().next().remove();
 		});
-		
+		/*
 		$.ajax({
 			url: 'doll_ajax.php?id=' + dollid,
 			success: function(data) {
@@ -1064,6 +1064,7 @@ $starttime = microtime(true);
 				return;
 			}
 		});
+    */
 	</script>
 
 	<!-- Live2D Library -->
