@@ -93,17 +93,11 @@ if(!isset($header_keyword)) $header_keyword = '';
 			  </div>
 			</li>
 			<li class="nav-item">
-              <a class="nav-link" href="/cartoon.php"><?=L::navigation_title_cartoon?></a>
-            </li>
-			<li class="nav-item dropdown">
-			 <a class="nav-link dropdown-toggle" href="#" id="storyDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-			  Contact
-			 </a>
-			  <div class="dropdown-menu" aria-labelledby="storyDropdown">
-			   <a class="dropdown-item" href="https://twitter.com/gflkr"><i class="fab fa-twitter" style='color:#00aced'></i> Twitter</a>
-			   <a class="dropdown-item" href="https://discord.gg/D35j44V"><i style='color:#7289DA' class="fab fa-discord"></i> Discord</a>
-			  </div>
-			</li>
+        <a class="nav-link" href="/cartoon.php"><?=L::navigation_title_cartoon?></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://discord.gg/D35j44V"><i style='color:#7289DA' class="fab fa-discord"></i> Discord</a></a>
+      </li>
           </ul>
         </div>
       </div>
