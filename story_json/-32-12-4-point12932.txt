@@ -1,0 +1,1 @@
+[{"character":["AnnaAVG"],"character_emotion":["0"],"speaker_name":"안나","speaker":0,"bg":"10","text":"뭐야? 모니터가 잘 작동 안 해?\n이 제어콘솔, 조금 이상하지 않아?"},{"character":[""],"character_emotion":[""],"speaker_name":"힌트","speaker":0,"text":"<color=#FFFF00>제어콘솔 II를 개방하면 차단문 II형 5번과 6번이 자동으로 개방됩니다. 나머지 차단문 II형은 특정 순서대로 지령을 전송해야 전부 개방할 수 있습니다.</color>"}]

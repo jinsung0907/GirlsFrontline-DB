@@ -242,7 +242,7 @@ SkeletonBinary.prototype = {
         }
 
         // Events.
-        this.json.events = [];
+        this.json.events = {};
         this.json.eventsName = [];
         var events = this.json.events;
         for(var i = 0, n = this.readInt(true); i < n; i++){

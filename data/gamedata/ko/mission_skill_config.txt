@@ -1789,3 +1789,294 @@ mission_skill_config-32000009,
 mission_skill_config-12000010,(일반형I)정화탑 효과 설명
 mission_skill_config-22000010,오염을 정화할 수 있는 시설. 어떤 시설과 비슷하게 생겼지만 전혀 다르다.
 mission_skill_config-32000010,
+mission_skill_config-11020126,문 열기(차단문 I형①)
+mission_skill_config-21020126,차단문 I형①을 연다.
+mission_skill_config-31020126,
+mission_skill_config-11020127,문 닫기(차단문 I형①)
+mission_skill_config-21020127,차단문 I형①을 닫는다
+mission_skill_config-31020127,
+mission_skill_config-11020218,문 열기(차단문 I형②)
+mission_skill_config-21020218,차단문 I형②을 연다.
+mission_skill_config-31020218,
+mission_skill_config-11020219,문 닫기(차단문 I형②)
+mission_skill_config-21020219,차단문 I형②을 닫는다
+mission_skill_config-31020219,
+mission_skill_config-11020313,문 열기(차단문 I형③)
+mission_skill_config-21020313,차단문 I형③을 연다.
+mission_skill_config-31020313,
+mission_skill_config-11020314,문 닫기(차단문 I형③)
+mission_skill_config-21020314,차단문 I형③을 닫는다
+mission_skill_config-31020314,
+mission_skill_config-11020410,문 열기(차단문 I형④)
+mission_skill_config-21020410,차단문 I형④을 연다.
+mission_skill_config-31020410,
+mission_skill_config-11020411,문 닫기(차단문 I형④)
+mission_skill_config-21020411,차단문 I형④을 닫는다
+mission_skill_config-31020411,
+mission_skill_config-11020700,防御门VII标记
+mission_skill_config-21020700,防御门VII标记
+mission_skill_config-31020700,
+mission_skill_config-11020701,防御门VII预设生效标记
+mission_skill_config-21020701,防御门VII预设生效标记
+mission_skill_config-31020701,
+mission_skill_config-11020702,防御门VII失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21020702,防御门VII失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31020702,
+mission_skill_config-11020703,防御门VI生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21020703,防御门VII生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31020703,
+mission_skill_config-11020704,关防御门VII伤害(对敌方)
+mission_skill_config-21020704,关防御门VII伤害(对敌方)
+mission_skill_config-31020704,
+mission_skill_config-11020705,关防御门VII伤害(对我方/人质)
+mission_skill_config-21020705,关防御门VII伤害(对我方/人质)
+mission_skill_config-31020705,
+mission_skill_config-11020706,문 열기(차단문 VII)
+mission_skill_config-21020706,차단문 VII을 연다.
+mission_skill_config-31020706,
+mission_skill_config-11020707,문 닫기(차단문 VII)
+mission_skill_config-21020707,차단문 VII을 닫는다
+mission_skill_config-31020707,
+mission_skill_config-11020708,문 열기(차단문 I형⑤)
+mission_skill_config-21020708,차단문 I형⑤을 연다.
+mission_skill_config-31020708,
+mission_skill_config-11020709,문 닫기(차단문 I형⑤)
+mission_skill_config-21020709,차단문 I형⑤을 닫는다
+mission_skill_config-31020709,
+mission_skill_config-11020800,防御门VIII标记
+mission_skill_config-21020800,防御门VIII标记
+mission_skill_config-31020800,
+mission_skill_config-11020801,防御门VIII预设生效标记
+mission_skill_config-21020801,防御门VIII预设生效标记
+mission_skill_config-31020801,
+mission_skill_config-11020802,防御门VIII失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21020802,防御门VIII失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31020802,
+mission_skill_config-11020803,防御门VIII生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21020803,防御门VIII生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31020803,
+mission_skill_config-11020804,关防御门VIII伤害(对敌方)
+mission_skill_config-21020804,关防御门VIII伤害(对敌方)
+mission_skill_config-31020804,
+mission_skill_config-11020805,关防御门VIII伤害(对我方/人质)
+mission_skill_config-21020805,关防御门VIII伤害(对我方/人质)
+mission_skill_config-31020805,
+mission_skill_config-11020806,문 열기(차단문 VIII)
+mission_skill_config-21020806,차단문 VIII을 연다.
+mission_skill_config-31020806,
+mission_skill_config-11020807,문 닫기(차단문 VIII)
+mission_skill_config-21020807,차단문 VIII을 닫는다
+mission_skill_config-31020807,
+mission_skill_config-11020900,防御门IX标记
+mission_skill_config-21020900,防御门IX标记
+mission_skill_config-31020900,
+mission_skill_config-11020901,防御门IX预设生效标记
+mission_skill_config-21020901,防御门IX预设生效标记
+mission_skill_config-31020901,
+mission_skill_config-11020902,防御门IX失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21020902,防御门IX失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31020902,
+mission_skill_config-11020903,防御门IX生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21020903,防御门IX生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31020903,
+mission_skill_config-11020904,关防御门IX伤害(对敌方)
+mission_skill_config-21020904,关防御门IX伤害(对敌方)
+mission_skill_config-31020904,
+mission_skill_config-11020905,关防御门IX伤害(对我方/人质)
+mission_skill_config-21020905,关防御门IX伤害(对我方/人质)
+mission_skill_config-31020905,
+mission_skill_config-11020906,문 열기(차단문 IX)
+mission_skill_config-21020906,차단문 IX를 연다.
+mission_skill_config-31020906,
+mission_skill_config-11020907,문 닫기(차단문 IX)
+mission_skill_config-21020907,차단문 IX를 닫는다
+mission_skill_config-31020907,
+mission_skill_config-11021000,防御门X标记
+mission_skill_config-21021000,防御门X标记
+mission_skill_config-31021000,
+mission_skill_config-11021001,防御门X预设生效标记
+mission_skill_config-21021001,防御门X预设生效标记
+mission_skill_config-31021001,
+mission_skill_config-11021002,防御门X失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21021002,防御门X失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31021002,
+mission_skill_config-11021003,防御门X生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21021003,防御门X生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31021003,
+mission_skill_config-11021004,关防御门X伤害(对敌方)
+mission_skill_config-21021004,关防御门X伤害(对敌方)
+mission_skill_config-31021004,
+mission_skill_config-11021005,关防御门X伤害(对我方/人质)
+mission_skill_config-21021005,关防御门X伤害(对我方/人质)
+mission_skill_config-31021005,
+mission_skill_config-11021006,문 열기(차단문 X)
+mission_skill_config-21021006,차단문 X을 연다.
+mission_skill_config-31021006,
+mission_skill_config-11021007,문 닫기(차단문 X)
+mission_skill_config-21021007,차단문 X을 닫는다
+mission_skill_config-31021007,
+mission_skill_config-11021100,防御门XI标记
+mission_skill_config-21021100,防御门XI标记
+mission_skill_config-31021100,
+mission_skill_config-11021101,防御门XI预设生效标记
+mission_skill_config-21021101,防御门XI预设生效标记
+mission_skill_config-31021101,
+mission_skill_config-11021102,防御门XI失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21021102,防御门XI失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31021102,
+mission_skill_config-11021103,防御门XI生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21021103,防御门XI生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31021103,
+mission_skill_config-11021104,关防御门XI伤害(对敌方)
+mission_skill_config-21021104,关防御门XI伤害(对敌方)
+mission_skill_config-31021104,
+mission_skill_config-11021105,关防御门XI伤害(对我方/人质)
+mission_skill_config-21021105,关防御门XI伤害(对我方/人质)
+mission_skill_config-31021105,
+mission_skill_config-11021106,문 열기(차단문 XI)
+mission_skill_config-21021106,차단문 XI을 연다.
+mission_skill_config-31021106,
+mission_skill_config-11021107,문 닫기(차단문 XI)
+mission_skill_config-21021107,차단문 XI을 닫는다
+mission_skill_config-31021107,
+mission_skill_config-11021200,防御门XII标记
+mission_skill_config-21021200,防御门XII标记
+mission_skill_config-31021200,
+mission_skill_config-11021201,防御门XII预设生效标记
+mission_skill_config-21021201,防御门XII预设生效标记
+mission_skill_config-31021201,
+mission_skill_config-11021202,防御门XII失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21021202,防御门XII失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31021202,
+mission_skill_config-11021203,防御门XII生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21021203,防御门XII生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31021203,
+mission_skill_config-11021204,关防御门XII伤害(对敌方)
+mission_skill_config-21021204,关防御门XII伤害(对敌方)
+mission_skill_config-31021204,
+mission_skill_config-11021205,关防御门XII伤害(对我方/人质)
+mission_skill_config-21021205,关防御门XII伤害(对我方/人质)
+mission_skill_config-31021205,
+mission_skill_config-11021206,문 열기(차단문 XII)
+mission_skill_config-21021206,차단문 XII를 연다.
+mission_skill_config-31021206,
+mission_skill_config-11021207,문 닫기(차단문 XII)
+mission_skill_config-21021207,차단문 XII를 닫는다
+mission_skill_config-31021207,
+mission_skill_config-11021300,防御门XIII标记
+mission_skill_config-21021300,防御门XIII标记
+mission_skill_config-31021300,
+mission_skill_config-11021301,防御门XIII预设生效标记
+mission_skill_config-21021301,防御门XIII预设生效标记
+mission_skill_config-31021301,
+mission_skill_config-11021302,防御门XIII失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21021302,防御门XIII失效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31021302,
+mission_skill_config-11021303,防御门XIII生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-21021303,防御门XIII生效标记(对所有的控制台，若控制台的个体有增加，则这条技能的target_id也要一并增加一个"或||"条件的目标)
+mission_skill_config-31021303,
+mission_skill_config-11021304,关防御门XIII伤害(对敌方)
+mission_skill_config-21021304,关防御门XIII伤害(对敌方)
+mission_skill_config-31021304,
+mission_skill_config-11021305,关防御门XIII伤害(对我方/人质)
+mission_skill_config-21021305,关防御门XIII伤害(对我方/人质)
+mission_skill_config-31021305,
+mission_skill_config-11021306,문 열기(차단문 XIII)
+mission_skill_config-21021306,차단문 XIII을 연다.
+mission_skill_config-31021306,
+mission_skill_config-11021307,문 닫기(차단문 XIII)
+mission_skill_config-21021307,차단문 XIII을 닫는다
+mission_skill_config-31021307,
+mission_skill_config-19321201,난수 지시A(차단문 II형①)
+mission_skill_config-29321201,차단문 II형①을 연다.
+mission_skill_config-39321201,
+mission_skill_config-19321202,난수 지시B(차단문 II형①//c ②)
+mission_skill_config-29321202,차단문 II형①을 닫는다//c 그리고 차단문 II형②을 연다.
+mission_skill_config-39321202,
+mission_skill_config-19321203,난수 지시C(차단문 II형②//c ③)
+mission_skill_config-29321203,차단문 II형②//c ③을 연다.
+mission_skill_config-39321203,
+mission_skill_config-19321204,
+mission_skill_config-29321204,
+mission_skill_config-39321204,
+mission_skill_config-19321205,
+mission_skill_config-29321205,
+mission_skill_config-39321205,
+mission_skill_config-19321206,난수 지시D(차단문 II형②//c ③)
+mission_skill_config-29321206,차단문 II형②을 닫는다//c 그리고 차단문 II형③을 연다.
+mission_skill_config-39321206,
+mission_skill_config-19321207,
+mission_skill_config-29321207,
+mission_skill_config-39321207,
+mission_skill_config-19321208,난수 지시E(차단문 II형①//c ②)
+mission_skill_config-29321208,차단문 II형①//c ②을 닫는다
+mission_skill_config-39321208,
+mission_skill_config-19321209,
+mission_skill_config-29321209,
+mission_skill_config-39321209,
+mission_skill_config-19321210,난수 지시F(차단문 II형②//c ③)
+mission_skill_config-29321210,차단문 II형②//c ③을 닫는다
+mission_skill_config-39321210,
+mission_skill_config-19321211,
+mission_skill_config-29321211,
+mission_skill_config-39321211,
+mission_skill_config-19321212,난수 지시G(차단문 II형③//c ④)
+mission_skill_config-29321212,차단문 II형③//c ④을 닫는다
+mission_skill_config-39321212,
+mission_skill_config-19321213,
+mission_skill_config-29321213,
+mission_skill_config-39321213,
+mission_skill_config-19321214,난수 지시H(차단문 II형①//c ③)
+mission_skill_config-29321214,차단문 II형①//c ③을 닫는다
+mission_skill_config-39321214,
+mission_skill_config-19321215,난수 지시I(차단문 II형①//c ④)
+mission_skill_config-29321215,차단문 II형①//c ④을 닫는다
+mission_skill_config-39321215,
+mission_skill_config-19321216,난수 지시J(차단문 II형②//c ④)
+mission_skill_config-29321216,차단문 II형②//c ④을 닫는다
+mission_skill_config-39321216,
+mission_skill_config-19321217,권한 개방
+mission_skill_config-29321217,제어 콘솔 II의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39321217,
+mission_skill_config-19321218,권한 개방
+mission_skill_config-29321218,제어 콘솔 II의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39321218,
+mission_skill_config-19321219,消除9321220标记点
+mission_skill_config-29321219,
+mission_skill_config-39321219,
+mission_skill_config-19321220,预设9321220标记点
+mission_skill_config-29321220,
+mission_skill_config-39321220,
+mission_skill_config-19321221,消除9321220标记点
+mission_skill_config-29321221,
+mission_skill_config-39321221,
+mission_skill_config-19321222,标记_已弃用
+mission_skill_config-29321222,제어 콘솔 II의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39321222,
+mission_skill_config-19321223,난수 지시K(차단문 II형③//c ④)
+mission_skill_config-29321223,차단문 II형③을 닫는다//c 그리고 차단문 II형④을 연다.
+mission_skill_config-39321223,
+mission_skill_config-19321224,
+mission_skill_config-29321224,
+mission_skill_config-39321224,
+mission_skill_config-19321225,난수 지시L(차단문 II형)
+mission_skill_config-29321225,모든 차단문 II을 닫는다
+mission_skill_config-39321225,
+mission_skill_config-19321226,
+mission_skill_config-29321226,
+mission_skill_config-39321226,
+mission_skill_config-19321501,标记1
+mission_skill_config-29321501,标记用（取两种标记的重叠范围
+mission_skill_config-39321501,
+mission_skill_config-19321502,标记2
+mission_skill_config-29321502,标记用（取两种标记的重叠范围
+mission_skill_config-39321502,
+mission_skill_config-19321503,축하하라!
+mission_skill_config-29321503,새로운 왕의 탄생을 위하여 축포를 울려라!
+mission_skill_config-39321503,
+mission_skill_config-19321504,标记3
+mission_skill_config-29321504,标记用（取两种标记的重叠范围
+mission_skill_config-39321504,
+mission_skill_config-19321601,标记_有第三方友方梯队时创生堵路点
+mission_skill_config-29321601,
+mission_skill_config-39321601,

@@ -1,0 +1,1 @@
+[{"character":["AnnaAVG"],"character_emotion":["0"],"speaker_name":"안나","speaker":0,"bg":"10","text":"어머, 새로운 임무가 생긴 것 같네."},{"character":[""],"character_emotion":[""],"speaker_name":"힌트","speaker":0,"text":"<color=#FFFF00>레이더 거점에서 더 많은 기억 파편을 복구할 수 있습니다.</color>"}]

@@ -11541,6 +11541,271 @@
 		"code": "Fail"
 	}
 }, {
+	"id": 1017,
+	"name": "Jill",
+	"krName": "질 스팅레이",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "hg",
+	"illust": "小吃",
+	"voice": "",
+	"buildTime": 3600,
+	"drop": "221",
+	"stats": {
+		"hp": 120,
+		"pow": 102,
+		"hit": 100,
+		"dodge": 120,
+		"speed": 100,
+		"rate": 100,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 130,
+	"canequip": {
+		"1": [4, 13, 16],
+		"2": [6, 17],
+		"3": [9, 10, 12]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 5,
+		"effectPos": [1, 4, 7, 2, 8, 3, 6, 9],
+		"gridEffect": {
+			"pow": 20,
+			"hit": 20
+		}
+	},
+	"skill": {
+		"realid": 710101,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 6,
+		"code": "Jill"
+	}
+}, {
+	"id": 1018,
+	"name": "SEI",
+	"krName": "세이 아사기리",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "hg",
+	"illust": "NIN",
+	"voice": "",
+	"buildTime": 3600,
+	"drop": "222",
+	"stats": {
+		"hp": 128,
+		"pow": 108,
+		"hit": 120,
+		"dodge": 105,
+		"speed": 100,
+		"rate": 100,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 118,
+	"canequip": {
+		"1": [4, 13],
+		"2": [6],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 5,
+		"effectPos": [1, 4, 8, 3, 6],
+		"gridEffect": {
+			"pow": 15,
+			"dodge": 10
+		}
+	},
+	"skill": {
+		"realid": 710401,
+		"cd": [15, 14.4, 13.9, 13.3, 12.8, 12.2, 11.7, 11.1, 10.6, 10],
+		"intercd": 6,
+		"code": "Sei"
+	}
+}, {
+	"id": 1019,
+	"name": "Dorothy",
+	"krName": "도로시 헤이즈",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "smg",
+	"illust": "废人",
+	"voice": "",
+	"buildTime": 8880,
+	"drop": "223",
+	"stats": {
+		"hp": 100,
+		"pow": 95,
+		"hit": 105,
+		"dodge": 122,
+		"speed": 100,
+		"rate": 96,
+		"armorPiercing": 15,
+		"crit": 5
+	},
+	"grow": 130,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectCenter": 5,
+		"effectPos": [1, 3],
+		"gridEffect": {
+			"pow": 15,
+			"hit": 25
+		}
+	},
+	"skill": {
+		"realid": 710301,
+		"cd": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+		"intercd": 1,
+		"code": "dorothy"
+	}
+}, {
+	"id": 1020,
+	"name": "Stella",
+	"krName": "스텔라 호시이",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "rf",
+	"illust": "暖森",
+	"voice": "",
+	"buildTime": 17400,
+	"drop": "222",
+	"stats": {
+		"hp": 102,
+		"pow": 102,
+		"hit": 118,
+		"dodge": 100,
+		"speed": 100,
+		"rate": 102,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 130,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15, 12]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [7, 9],
+		"gridEffect": {
+			"cooldown": 18
+		}
+	},
+	"skill": {
+		"realid": 710501,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 6,
+		"code": "stella"
+	}
+}, {
+	"id": 1021,
+	"name": "Alma",
+	"krName": "알마 알머스",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "mg",
+	"illust": "洲川Terras",
+	"voice": "",
+	"buildTime": 23760,
+	"drop": "223",
+	"stats": {
+		"hp": 118,
+		"pow": 108,
+		"hit": 120,
+		"dodge": 90,
+		"speed": 100,
+		"rate": 120,
+		"armorPiercing": 15,
+		"crit": 5,
+		"bullet": 9
+	},
+	"grow": 122,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3],
+		"3": [9, 14, 12]
+	},
+	"effect": {
+		"effectType": "sg",
+		"effectCenter": 2,
+		"effectPos": [8, 9],
+		"gridEffect": {
+			"pow": 15,
+			"armor": 15
+		}
+	},
+	"skill": {
+		"realid": 710601,
+		"cd": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
+		"intercd": 8,
+		"code": "Alma"
+	}
+}, {
+	"id": 1022,
+	"name": "Dana",
+	"krName": "다나 제인",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "sg",
+	"illust": "DOGALA",
+	"voice": "",
+	"buildTime": 28800,
+	"drop": "220",
+	"stats": {
+		"hp": 122,
+		"pow": 128,
+		"hit": 132,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 95,
+		"armor": 122,
+		"armorPiercing": 15,
+		"crit": 40,
+		"bullet": 1
+	},
+	"grow": 105,
+	"canequip": {
+		"1": [9, 11, 12],
+		"2": [7],
+		"3": [1, 2, 3, 4]
+	},
+	"effect": {
+		"effectType": "mg",
+		"effectCenter": 8,
+		"effectPos": [1, 2, 3],
+		"gridEffect": {
+			"pow": 15,
+			"hit": 15
+		}
+	},
+	"skill": {
+		"realid": 710201,
+		"cd": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
+		"intercd": 8,
+		"code": "Dana"
+	}
+}, {
 	"id": 20001,
 	"name": "M1873Mod",
 	"rank": 5,
