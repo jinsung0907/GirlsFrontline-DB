@@ -595,8 +595,9 @@ function getcharimgdir($str, $emo) {
 					case 7: $result = "dolls/" . $result . "_1_D"; break;
 					case 8: $result = "dolls/" . $result . "_2"; break;
 					case 9: $result = "dolls/" . $result . "_2_D"; break;
-					case 10: $result = "dolls/" . $result . "_3"; break;
-					case 11: $result = "dolls/" . $result . "_3_D"; break;
+					case 10: $result = "story_character/pic_an94_3303_story"; break;
+					case 11: $result = "dolls/" . $result . "_3"; break;
+					case 12: $result = "dolls/" . $result . "_3_D"; break;
 				}
 			}
 			else if($str == "AK12") {
@@ -610,8 +611,9 @@ function getcharimgdir($str, $emo) {
 					case 7: $result = "story_character/pic_ak12_2402_story"; break;
 					case 8: $result = "dolls/" . $result . "_2"; break;
 					case 9: $result = "dolls/" . $result . "_2_D"; break;
-					case 10: $result = "dolls/" . $result . "_3"; break;
-					case 11: $result = "dolls/" . $result . "_3_D"; break;
+					case 10: $result = "story_character/pic_ak12_3302_story"; break;
+					case 11: $result = "dolls/" . $result . "_3"; break;
+					case 12: $result = "dolls/" . $result . "_3_D"; break;
 				}
 			}
 			else if($str == "G28") {
@@ -959,6 +961,21 @@ function getcharimgdir($str, $emo) {
 					case 6: $result = "dolls/" . $result . "_1_D"; break;
 				
         }
+			}
+			else if($str == 'Thunder50') {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "dolls/" . $result . "_2"; break;
+					case 3: $result = "dolls/" . $result . "_2_D"; break;
+					case 4: $result = "dolls/" . $result . "_1"; break;
+					case 5: $result = "dolls/" . $result . "_1_D"; break;
+					case 6: $result = "dolls/" . $result . "_3"; break;
+					case 7: $result = "dolls/" . $result . "_3_D"; break;
+					case 8: $result = "dolls/" . $result . "_4"; break;
+					case 9: $result = "dolls/" . $result . "_4_D"; break;
+					case 10: $result = "dolls/" . $result . "_5_D"; break;
+					case 11: $result = "dolls/" . $result . "_5_D"; break;
+				}
 			}
 			else {
 				switch($emo) {
