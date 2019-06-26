@@ -102,9 +102,11 @@ function getSkinDataFile($lang) {
 */
 function getBGM($id) {
 	global $bgms;
-	foreach($bgms as $bgm) {
-		if($bgm->id == $id || $bgm->file == $id) {
-			return $bgm->file . "/" . $bgm->file .".mp3";
+  $list = explode(PHP_EOL, $bgms);
+	foreach($list as $bgm) {
+    $tmp = explode('|', $bgm);
+		if($tmp[1] == $id || $tmp[2] == $id) {
+			return $tmp[2] . "/" . $tmp[2] .".mp3";
 		}
 	}
 }
@@ -906,6 +908,55 @@ function getcharimgdir($str, $emo) {
 					case 9: $result = "dolls/" . $result . "_4_D"; break;				
 				}
 			}
+			else if($str == "Sei") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "story_character/pic_sei_1"; break;
+					case 3: $result = "story_character/pic_sei_2"; break;
+					case 4: $result = "story_character/pic_sei_3"; break;
+					case 5: $result = "story_character/pic_sei_4"; break;
+        }
+			}
+			else if($str == "Stella") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "story_character/pic_stella_angry"; break;
+					case 3: $result = "story_character/pic_stella_smile"; break;
+        }
+			}
+			else if($str == "Dorothy") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "story_character/pic_dorothy_cry"; break;
+					case 3: $result = "story_character/pic_dorothy_fear"; break;
+					case 4: $result = "story_character/pic_dorothy_sad"; break;
+					case 5: $result = "story_character/pic_dorothy_shy"; break;
+					case 6: $result = "story_character/pic_dorothy_smile"; break;
+        }
+			}
+			else if($str == "Dana") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "story_character/pic_dana_serious"; break;
+					case 3: $result = "story_character/pic_dana_smile"; break;
+        }
+			}
+			else if($str == "Alma") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "story_character/pic_alma_amazed"; break;
+					case 3: $result = "story_character/pic_alma_normal"; break;
+					case 4: $result = "story_character/pic_alma_sad"; break;
+        }
+			}
+			else if($str == "Jill") {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "story_character/pic_jill_talk"; break;
+					case 3: $result = "story_character/pic_jill_smile"; break;
+					case 4: $result = "story_character/pic_jill_shy"; break;
+        }
+			}
 			else {
 				switch($emo) {
 					case 1: $result = "dolls/" . $result . "_D"; break;
@@ -1222,6 +1273,11 @@ function getcharimgdir($str, $emo) {
 			case 0: return "story_character/BOSS-11"; break;
 		}
 	}	
+	else if($str == "BOSS-12") {
+		switch($emo) {
+			case 0: return "story_character/伊莱莎无武器"; break;
+		}
+	}	
 	
 	else if($str == "BossJustice") {
 		switch($emo) {
@@ -1286,6 +1342,11 @@ function getcharimgdir($str, $emo) {
 	else if($str == "NytoWhite") {
 		switch($emo) {
 			case 0: return "story_character/npc/nyto_white"; break;
+		}
+	}
+	else if($str == "Jillmagic") {
+		switch($emo) {
+			case 0: return "dolls/1017_1"; break;
 		}
 	}
 	

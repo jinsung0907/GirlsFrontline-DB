@@ -10,7 +10,7 @@
 		$storys = json_decode(file_get_contents("story_json/story.txt"));
 		$langdir = '/';
 	}
-	$bgms = getJson('bgm');
+	$bgms = getDataFile('audiotemplate', 'ko');
 	
 	$q = $_GET['q'];
 	
@@ -55,7 +55,13 @@
 	} else if($q == 1002) {
 		$filelist = ['battleavg/-18-Day3-6B','battleavg/-18-Day3-6C'];
 		$fieldname = L::story_prologue;
-	}
+	} else if(strpos($q, 'va11') !== false) {
+    $num = str_replace('va11-', '', $q);
+    $filelist = ['va11/va11_' . $num];
+    $fieldname = '발할라 콜라보';
+    $name = '카페스토리';
+    $div = ['va11', $num];
+  }
 	
 	$files = [];
 	foreach($filelist as $filename) {
