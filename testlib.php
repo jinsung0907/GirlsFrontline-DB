@@ -282,7 +282,8 @@ function getAtkPoint($doll, $isNight) {
 	  $dataFromStringArray3 = 200;
 	  $dataFromStringArray4 = 23;
 	  $dataFromStringArray5 = 8;
-	  $dataFromStringArray6 = 2;
+	  //$dataFromStringArray6 = 2;
+	  $dataFromStringArray6 = 3;
 	  return ceil(($dataFromStringArray1 * ceil($num5 / $maxHp * getLink($doll->pos)) * ($num7 * ($pow + $piercing / $dataFromStringArray6) * ($num4 / 100.0 * $crit / 100.0 + 1.0) / ($num7 / 3.0 + $dataFromStringArray2 + $dataFromStringArray3 / $rate) * $num8 / ($num8 + $dataFromStringArray4) + $dataFromStringArray5)));
 	case "sg":
 	  /*
@@ -301,7 +302,8 @@ function getAtkPoint($doll, $isNight) {
 	  $dataFromStringArray8 = 23;
 	  $dataFromStringArray9 = 8;
 	  $dataFromStringArray10 = 50;
-	  $dataFromStringArray11 = 2;
+	  //$dataFromStringArray11 = 2;
+	  $dataFromStringArray11 = 3;
 	  $dataFromStringArray12 = 3;
 	  $dataFromStringArray13 = 1.5;
 	  $dataFromStringArray14 = 0.5;
@@ -320,7 +322,8 @@ function getAtkPoint($doll, $isNight) {
 	  $dataFromStringArray16 = 23;
 	  $dataFromStringArray17 = 8;
 	  $dataFromStringArray18 = 50;
-	  $dataFromStringArray19 = 2;
+	  //$dataFromStringArray19 = 2;
+	  $dataFromStringArray19 = 3;
 	  return ceil(($dataFromStringArray15 * ceil($num5 / $maxHp * getLink($doll->pos)) * (($pow + $piercing / $dataFromStringArray19) * ($num4 / 100.0 * $crit / 100.0 + 1.0) * $rate / $dataFromStringArray18 * $num8 / ($num8 + $dataFromStringArray16) + $dataFromStringArray17)));
   }
 }
