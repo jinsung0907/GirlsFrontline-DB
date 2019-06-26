@@ -23219,43 +23219,43 @@ battle_skill_config-280271201,
 battle_skill_config-380271201,
 battle_skill_config-480271201,
 battle_skill_config-111220101,럭키 트리거
-battle_skill_config-211220101,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 5% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브:자신의 화력을 20% 상승시킨다//c 지속시간 3초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
+battle_skill_config-211220101,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 5% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브: 자신의 화력을 20% 상승시킨다//c 지속시간 3초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
 battle_skill_config-311220101,쿨타임:10초//c사속 상승치:5%//c화력 상승치:20%//c지속시간:3초
 battle_skill_config-411220101,
 battle_skill_config-111220102,럭키 트리거
-battle_skill_config-211220102,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 6% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브:자신의 화력을 22% 상승시킨다//c 지속시간 3.2초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
+battle_skill_config-211220102,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 6% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브: 자신의 화력을 22% 상승시킨다//c 지속시간 3.2초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
 battle_skill_config-311220102,쿨타임:9.8초//c사속 상승치:6%//c화력 상승치:22%//c지속시간:3.2초
 battle_skill_config-411220102,
 battle_skill_config-111220103,럭키 트리거
-battle_skill_config-211220103,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 6% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브:자신의 화력을 24% 상승시킨다//c 지속시간 3.4초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
+battle_skill_config-211220103,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 6% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브: 자신의 화력을 24% 상승시킨다//c 지속시간 3.4초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
 battle_skill_config-311220103,쿨타임:9.6초//c사속 상승치:6%//c화력 상승치:24%//c지속시간:3.4초
 battle_skill_config-411220103,
 battle_skill_config-111220104,럭키 트리거
-battle_skill_config-211220104,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 7% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브:자신의 화력을 27% 상승시킨다//c 지속시간 3.7초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
+battle_skill_config-211220104,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 7% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브: 자신의 화력을 27% 상승시킨다//c 지속시간 3.7초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
 battle_skill_config-311220104,쿨타임:9.3초//c사속 상승치:7%//c화력 상승치:27%//c지속시간:3.7초
 battle_skill_config-411220104,
 battle_skill_config-111220105,럭키 트리거
-battle_skill_config-211220105,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 7% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브:자신의 화력을 29% 상승시킨다//c 지속시간 3.9초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
+battle_skill_config-211220105,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 7% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브: 자신의 화력을 29% 상승시킨다//c 지속시간 3.9초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
 battle_skill_config-311220105,쿨타임:9.1초//c사속 상승치:7%//c화력 상승치:29%//c지속시간:3.9초
 battle_skill_config-411220105,
 battle_skill_config-111220106,럭키 트리거
-battle_skill_config-211220106,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 8% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브:자신의 화력을 31% 상승시킨다//c 지속시간 4.1초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
+battle_skill_config-211220106,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 8% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브: 자신의 화력을 31% 상승시킨다//c 지속시간 4.1초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
 battle_skill_config-311220106,쿨타임:8.9초//c사속 상승치:8%//c화력 상승치:31%//c지속시간:4.1초
 battle_skill_config-411220106,
 battle_skill_config-111220107,럭키 트리거
-battle_skill_config-211220107,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 8% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브:자신의 화력을 33% 상승시킨다//c 지속시간 4.3초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
+battle_skill_config-211220107,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 8% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브: 자신의 화력을 33% 상승시킨다//c 지속시간 4.3초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
 battle_skill_config-311220107,쿨타임:8.7초//c사속 상승치:8%//c화력 상승치:33%//c지속시간:4.3초
 battle_skill_config-411220107,
 battle_skill_config-111220108,럭키 트리거
-battle_skill_config-211220108,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 9% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브:자신의 화력을 36% 상승시킨다//c 지속시간 4.6초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
+battle_skill_config-211220108,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 9% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브: 자신의 화력을 36% 상승시킨다//c 지속시간 4.6초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
 battle_skill_config-311220108,쿨타임:8.4초//c사속 상승치:9%//c화력 상승치:36%//c지속시간:4.6초
 battle_skill_config-411220108,
 battle_skill_config-111220109,럭키 트리거
-battle_skill_config-211220109,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 9% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브:자신의 화력을 38% 상승시킨다//c 지속시간 4.8초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
+battle_skill_config-211220109,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 9% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브: 자신의 화력을 38% 상승시킨다//c 지속시간 4.8초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
 battle_skill_config-311220109,쿨타임:8.2초//c사속 상승치:9%//c화력 상승치:38%//c지속시간:4.8초
 battle_skill_config-411220109,
 battle_skill_config-111220110,럭키 트리거
-battle_skill_config-211220110,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 10% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브:자신의 화력을 40% 상승시킨다//c 지속시간 5초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
+battle_skill_config-211220110,패시브:공격한 표적을 3초 안에 다시 공격 시 사속이 10% 상승한다//c 지속시간 3초//c최대 3회 중첩 가능//c 표적을 바꿀 시 즉시 해제.//n액티브: 자신의 화력을 40% 상승시킨다//c 지속시간 5초. 발동 시 공격 대상을 가장 멀리 있는 적으로 고정한다. 지속 시간 동안 공격할 때마다 패시브가 발동하며 표적이 변해도 해제되지 않는다.
 battle_skill_config-311220110,쿨타임:8초//c사속 상승치:10%//c화력 상승치:40%//c지속시간:5초
 battle_skill_config-411220110,
 battle_skill_config-111220201,R93普攻[*]
@@ -23362,3 +23362,1635 @@ battle_skill_config-111220901,R93标识0
 battle_skill_config-211220901,
 battle_skill_config-311220901,
 battle_skill_config-411220901,
+battle_skill_config-171010101,믹스타임
+battle_skill_config-271010101,발동 시 3초 동안 음료를 섞는다. 장착중인 장비에 따라 다른 음료가 완성되어 해당 버프효과를 제공한다.//n질은 공격이 불가능하며 기본 화력 1마다 스킬 쿨타임이 1%씩//c 최대 30% 감소한다.(초기 쿨타임 제외)//n<color=#db3d3d>A</color>아델하이드  <color=#70ad47>F</color>프래너자이드   <color=#91c1f0>K</color>카모트린//n<color=#ffb400>B</color>브론순 추출액   <color=#2e74b5>D</color>델타 가루//n╔∷∷∷∷∷∷∷∷♪♪Menu♪♪∷∷∷∷∷∷∷∷╗//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#91c1f0>K</color>큰 맥주 //n SG의 장갑이 10%//c 화력과 명중이 15% 상승//c 지속 5초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#2e74b5>D</color>브랜티니//n MG의 화력과 명중이 10% 상승//c 지속 5초.//n <color=#db3d3d>A</color><color=#ffb400>B</color><color=#91c1f0>K</color>피아노 우먼//n 가장 앞에 배치한 인형의 회피가 35% 상승//c 나머지 인형은 화력이 10% 상승//c 지속 5초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#91c1f0>K</color>문블라스트//n 아군 전체 사속이 10% 상승//c 지속 5초.//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#2e74b5>D</color>블리딩 제인//n AR과 RF의 치명률이 10% 상승하고//c 100%를 초과한 부분은 60%의 수치로 치명타 피해 상승치로 전환//c 지속 5초.//n <color=#91c1f0>K</color><color=#91c1f0>K</color><color=#91c1f0>K</color>프린지 위버 //n 아군 전체 화력이 15% 상승//c 지속 3초. 버프효과 종료 후 술에 취해 화력과 명중이 20% 감소//c 지속 3초.//n <color=#db3d3d>❈❈❈</color>기초 음료 - 슈가 러쉬//n 아군 전체 화력이 10% 상승//c 지속 5초.//n╚∷∷∷∷∷∷∷♪♪Night Night♪♪∷∷∷∷∷∷╝
+battle_skill_config-371010101,쿨타임20초//c큰 맥주 장갑:10%//c큰 맥주 화력 명중:10%//c큰 맥주 지속시간:5초//c브랜티니 화력 명중:10%//c브랜티니 지속시간:5초//c피아노 우먼 화력:10%//c피아노 우먼 회피:35%//c피아노 우먼 지속시간:5초//c문블라스트 사속:10%//c문블라스트 지속시간:5초//c블리딩 제인 치명률:10%//c블리딩 제인 지속시간:5초//c프린지 위버 화력15%//c숙취 디버프:20%//c프린지 위버 지속시간:3초
+battle_skill_config-471010101,
+battle_skill_config-171010102,믹스타임
+battle_skill_config-271010102,발동 시 3초 동안 음료를 섞는다. 장착중인 장비에 따라 다른 음료가 완성되어 해당 버프효과를 제공한다.//n질은 공격이 불가능하며 기본 화력 1마다 스킬 쿨타임이 1%씩//c 최대 30% 감소한다.(초기 쿨타임 제외)//n<color=#db3d3d>A</color>아델하이드  <color=#70ad47>F</color>프래너자이드   <color=#91c1f0>K</color>카모트린//n<color=#ffb400>B</color>브론순 추출액   <color=#2e74b5>D</color>델타 가루//n╔∷∷∷∷∷∷∷∷♪♪Menu♪♪∷∷∷∷∷∷∷∷╗//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#91c1f0>K</color>큰 맥주 //n SG의 장갑이 11%//c 화력과 명중이 17% 상승//c 지속 5.3초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#2e74b5>D</color>브랜티니//n MG의 화력과 명중이 12% 상승//c 지속 5.3초.//n <color=#db3d3d>A</color><color=#ffb400>B</color><color=#91c1f0>K</color>피아노 우먼//n 가장 앞에 배치한 인형의 회피가 38% 상승//c 나머지 인형은 화력이 11% 상승//c 지속 5.3초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#91c1f0>K</color>문블라스트//n 아군 전체 사속이 11% 상승//c 지속 5.3초.//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#2e74b5>D</color>블리딩 제인//n AR과 RF의 치명률이 12% 상승하고//c 100%를 초과한 부분은 60%의 수치로 치명타 피해 상승치로 전환//c 지속 5.3초.//n <color=#91c1f0>K</color><color=#91c1f0>K</color><color=#91c1f0>K</color>프린지 위버 //n 아군 전체 화력이 17% 상승//c 지속 3.2초. 버프효과 종료 후 술에 취해 화력과 명중이 19% 감소//c 지속 3초.//n <color=#db3d3d>❈❈❈</color>기초 음료 - 슈가 러쉬//n 아군 전체 화력이 11% 상승//c 지속 6초.//n╚∷∷∷∷∷∷∷♪♪Night Night♪♪∷∷∷∷∷∷╝
+battle_skill_config-371010102,쿨타임19.6초//c큰 맥주 장갑:11%//c큰 맥주 화력 명중:12%//c큰 맥주 지속시간:5.3초//c브랜티니 화력 명중:12%//c브랜티니 지속시간:5.3초//c피아노 우먼 화력:11%//c피아노 우먼 회피:38%//c피아노 우먼 지속시간:5.3초//c문블라스트 사속:11%//c문블라스트 지속시간:5.3초//c블리딩 제인 치명률:12%//c블리딩 제인 지속시간:5.3초//c프린지 위버 화력17%//c숙취 디버프:19%//c프린지 위버 지속시간:3.2초
+battle_skill_config-471010102,
+battle_skill_config-171010103,믹스타임
+battle_skill_config-271010103,발동 시 3초 동안 음료를 섞는다. 장착중인 장비에 따라 다른 음료가 완성되어 해당 버프효과를 제공한다.//n질은 공격이 불가능하며 기본 화력 1마다 스킬 쿨타임이 1%씩//c 최대 30% 감소한다.(초기 쿨타임 제외)//n<color=#db3d3d>A</color>아델하이드  <color=#70ad47>F</color>프래너자이드   <color=#91c1f0>K</color>카모트린//n<color=#ffb400>B</color>브론순 추출액   <color=#2e74b5>D</color>델타 가루//n╔∷∷∷∷∷∷∷∷♪♪Menu♪♪∷∷∷∷∷∷∷∷╗//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#91c1f0>K</color>큰 맥주 //n SG의 장갑이 12%//c 화력과 명중이 18% 상승//c 지속 5.7초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#2e74b5>D</color>브랜티니//n MG의 화력과 명중이 13% 상승//c 지속 5.7초.//n <color=#db3d3d>A</color><color=#ffb400>B</color><color=#91c1f0>K</color>피아노 우먼//n 가장 앞에 배치한 인형의 회피가 41% 상승//c 나머지 인형은 화력이 12% 상승//c 지속 5.7초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#91c1f0>K</color>문블라스트//n 아군 전체 사속이 13% 상승//c 지속 5.7초.//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#2e74b5>D</color>블리딩 제인//n AR과 RF의 치명률이 13% 상승하고//c 100%를 초과한 부분은 60%의 수치로 치명타 피해 상승치로 전환//c 지속 5.7초.//n <color=#91c1f0>K</color><color=#91c1f0>K</color><color=#91c1f0>K</color>프린지 위버 //n 아군 전체 화력이 19% 상승//c 지속 3.4초. 버프효과 종료 후 술에 취해 화력과 명중이 19% 감소//c 지속 3초.//n <color=#db3d3d>❈❈❈</color>기초 음료 - 슈가 러쉬//n 아군 전체 화력이 12% 상승//c 지속 6초.//n╚∷∷∷∷∷∷∷♪♪Night Night♪♪∷∷∷∷∷∷╝
+battle_skill_config-371010103,쿨타임19.1초//c큰 맥주 장갑:12%//c큰 맥주 화력 명중:13%//c큰 맥주 지속시간:5.7초//c브랜티니 화력 명중:13%//c브랜티니 지속시간:5.7초//c피아노 우먼 화력:12%//c피아노 우먼 회피:41%//c피아노 우먼 지속시간:5.7초//c문블라스트 사속:13%//c문블라스트 지속시간:5.7초//c블리딩 제인 치명률:13%//c블리딩 제인 지속시간:5.7초//c프린지 위버 화력19%//c숙취 디버프:19%//c프린지 위버 지속시간:3.4초
+battle_skill_config-471010103,
+battle_skill_config-171010104,믹스타임
+battle_skill_config-271010104,발동 시 3초 동안 음료를 섞는다. 장착중인 장비에 따라 다른 음료가 완성되어 해당 버프효과를 제공한다.//n질은 공격이 불가능하며 기본 화력 1마다 스킬 쿨타임이 1%씩//c 최대 30% 감소한다.(초기 쿨타임 제외)//n<color=#db3d3d>A</color>아델하이드  <color=#70ad47>F</color>프래너자이드   <color=#91c1f0>K</color>카모트린//n<color=#ffb400>B</color>브론순 추출액   <color=#2e74b5>D</color>델타 가루//n╔∷∷∷∷∷∷∷∷♪♪Menu♪♪∷∷∷∷∷∷∷∷╗//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#91c1f0>K</color>큰 맥주 //n SG의 장갑이 13%//c 화력과 명중이 20% 상승//c 지속 6초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#2e74b5>D</color>브랜티니//n MG의 화력과 명중이 15% 상승//c 지속 6초.//n <color=#db3d3d>A</color><color=#ffb400>B</color><color=#91c1f0>K</color>피아노 우먼//n 가장 앞에 배치한 인형의 회피가 43% 상승//c 나머지 인형은 화력이 13% 상승//c 지속 6초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#91c1f0>K</color>문블라스트//n 아군 전체 사속이 14% 상승//c 지속 6초.//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#2e74b5>D</color>블리딩 제인//n AR과 RF의 치명률이 15% 상승하고//c 100%를 초과한 부분은 60%의 수치로 치명타 피해 상승치로 전환//c 지속 6초.//n <color=#91c1f0>K</color><color=#91c1f0>K</color><color=#91c1f0>K</color>프린지 위버 //n 아군 전체 화력이 22% 상승//c 지속 3.7초. 버프효과 종료 후 술에 취해 화력과 명중이 18% 감소//c 지속 3초.//n <color=#db3d3d>❈❈❈</color>기초 음료 - 슈가 러쉬//n 아군 전체 화력이 13% 상승//c 지속 6초.//n╚∷∷∷∷∷∷∷♪♪Night Night♪♪∷∷∷∷∷∷╝
+battle_skill_config-371010104,쿨타임18.7초//c큰 맥주 장갑:13%//c큰 맥주 화력 명중:15%//c큰 맥주 지속시간:6초//c브랜티니 화력 명중:15%//c브랜티니 지속시간:6초//c피아노 우먼 화력:13%//c피아노 우먼 회피:43%//c피아노 우먼 지속시간:6초//c문블라스트 사속:14%//c문블라스트 지속시간:6초//c블리딩 제인 치명률:15%//c블리딩 제인 지속시간:6초//c프린지 위버 화력22%//c숙취 디버프:18%//c프린지 위버 지속시간:3.7초
+battle_skill_config-471010104,
+battle_skill_config-171010105,믹스타임
+battle_skill_config-271010105,발동 시 3초 동안 음료를 섞는다. 장착중인 장비에 따라 다른 음료가 완성되어 해당 버프효과를 제공한다.//n질은 공격이 불가능하며 기본 화력 1마다 스킬 쿨타임이 1%씩//c 최대 30% 감소한다.(초기 쿨타임 제외)//n<color=#db3d3d>A</color>아델하이드  <color=#70ad47>F</color>프래너자이드   <color=#91c1f0>K</color>카모트린//n<color=#ffb400>B</color>브론순 추출액   <color=#2e74b5>D</color>델타 가루//n╔∷∷∷∷∷∷∷∷♪♪Menu♪♪∷∷∷∷∷∷∷∷╗//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#91c1f0>K</color>큰 맥주 //n SG의 장갑이 14%//c 화력과 명중이 22% 상승//c 지속 6.3초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#2e74b5>D</color>브랜티니//n MG의 화력과 명중이 17% 상승//c 지속 6.3초.//n <color=#db3d3d>A</color><color=#ffb400>B</color><color=#91c1f0>K</color>피아노 우먼//n 가장 앞에 배치한 인형의 회피가 46% 상승//c 나머지 인형은 화력이 14% 상승//c 지속 6.3초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#91c1f0>K</color>문블라스트//n 아군 전체 사속이 15% 상승//c 지속 6.3초.//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#2e74b5>D</color>블리딩 제인//n AR과 RF의 치명률이 17% 상승하고//c 100%를 초과한 부분은 60%의 수치로 치명타 피해 상승치로 전환//c 지속 6.3초.//n <color=#91c1f0>K</color><color=#91c1f0>K</color><color=#91c1f0>K</color>프린지 위버 //n 아군 전체 화력이 24% 상승//c 지속 3.9초. 버프효과 종료 후 술에 취해 화력과 명중이 18% 감소//c 지속 3초.//n <color=#db3d3d>❈❈❈</color>기초 음료 - 슈가 러쉬//n 아군 전체 화력이 14% 상승//c 지속 7초.//n╚∷∷∷∷∷∷∷♪♪Night Night♪♪∷∷∷∷∷∷╝
+battle_skill_config-371010105,쿨타임18.2초//c큰 맥주 장갑:14%//c큰 맥주 화력 명중:17%//c큰 맥주 지속시간:6.3초//c브랜티니 화력 명중:17%//c브랜티니 지속시간:6.3초//c피아노 우먼 화력:14%//c피아노 우먼 회피:46%//c피아노 우먼 지속시간:6.3초//c문블라스트 사속:15%//c문블라스트 지속시간:6.3초//c블리딩 제인 치명률:17%//c블리딩 제인 지속시간:6.3초//c프린지 위버 화력24%//c숙취 디버프:18%//c프린지 위버 지속시간:3.9초
+battle_skill_config-471010105,
+battle_skill_config-171010106,믹스타임
+battle_skill_config-271010106,발동 시 3초 동안 음료를 섞는다. 장착중인 장비에 따라 다른 음료가 완성되어 해당 버프효과를 제공한다.//n질은 공격이 불가능하며 기본 화력 1마다 스킬 쿨타임이 1%씩//c 최대 30% 감소한다.(초기 쿨타임 제외)//n<color=#db3d3d>A</color>아델하이드  <color=#70ad47>F</color>프래너자이드   <color=#91c1f0>K</color>카모트린//n<color=#ffb400>B</color>브론순 추출액   <color=#2e74b5>D</color>델타 가루//n╔∷∷∷∷∷∷∷∷♪♪Menu♪♪∷∷∷∷∷∷∷∷╗//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#91c1f0>K</color>큰 맥주 //n SG의 장갑이 16%//c 화력과 명중이 23% 상승//c 지속 6.7초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#2e74b5>D</color>브랜티니//n MG의 화력과 명중이 18% 상승//c 지속 6.7초.//n <color=#db3d3d>A</color><color=#ffb400>B</color><color=#91c1f0>K</color>피아노 우먼//n 가장 앞에 배치한 인형의 회피가 49% 상승//c 나머지 인형은 화력이 16% 상승//c 지속 6.7초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#91c1f0>K</color>문블라스트//n 아군 전체 사속이 17% 상승//c 지속 6.7초.//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#2e74b5>D</color>블리딩 제인//n AR과 RF의 치명률이 18% 상승하고//c 100%를 초과한 부분은 60%의 수치로 치명타 피해 상승치로 전환//c 지속 6.7초.//n <color=#91c1f0>K</color><color=#91c1f0>K</color><color=#91c1f0>K</color>프린지 위버 //n 아군 전체 화력이 26% 상승//c 지속 4.1초. 버프효과 종료 후 술에 취해 화력과 명중이 17% 감소//c 지속 3초.//n <color=#db3d3d>❈❈❈</color>기초 음료 - 슈가 러쉬//n 아군 전체 화력이 14% 상승//c 지속 7초.//n╚∷∷∷∷∷∷∷♪♪Night Night♪♪∷∷∷∷∷∷╝
+battle_skill_config-371010106,쿨타임17.8초//c큰 맥주 장갑:16%//c큰 맥주 화력 명중:18%//c큰 맥주 지속시간:6.7초//c브랜티니 화력 명중:18%//c브랜티니 지속시간:6.7초//c피아노 우먼 화력:16%//c피아노 우먼 회피:49%//c피아노 우먼 지속시간:6.7초//c문블라스트 사속:17%//c문블라스트 지속시간:6.7초//c블리딩 제인 치명률:18%//c블리딩 제인 지속시간:6.7초//c프린지 위버 화력26%//c숙취 디버프:17%//c프린지 위버 지속시간:4.1초
+battle_skill_config-471010106,
+battle_skill_config-171010107,믹스타임
+battle_skill_config-271010107,발동 시 3초 동안 음료를 섞는다. 장착중인 장비에 따라 다른 음료가 완성되어 해당 버프효과를 제공한다.//n질은 공격이 불가능하며 기본 화력 1마다 스킬 쿨타임이 1%씩//c 최대 30% 감소한다.(초기 쿨타임 제외)//n<color=#db3d3d>A</color>아델하이드  <color=#70ad47>F</color>프래너자이드   <color=#91c1f0>K</color>카모트린//n<color=#ffb400>B</color>브론순 추출액   <color=#2e74b5>D</color>델타 가루//n╔∷∷∷∷∷∷∷∷♪♪Menu♪♪∷∷∷∷∷∷∷∷╗//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#91c1f0>K</color>큰 맥주 //n SG의 장갑이 17%//c 화력과 명중이 25% 상승//c 지속 7초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#2e74b5>D</color>브랜티니//n MG의 화력과 명중이 20% 상승//c 지속 7초.//n <color=#db3d3d>A</color><color=#ffb400>B</color><color=#91c1f0>K</color>피아노 우먼//n 가장 앞에 배치한 인형의 회피가 52% 상승//c 나머지 인형은 화력이 17% 상승//c 지속 7초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#91c1f0>K</color>문블라스트//n 아군 전체 사속이 18% 상승//c 지속 7초.//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#2e74b5>D</color>블리딩 제인//n AR과 RF의 치명률이 20% 상승하고//c 100%를 초과한 부분은 60%의 수치로 치명타 피해 상승치로 전환//c 지속 7초.//n <color=#91c1f0>K</color><color=#91c1f0>K</color><color=#91c1f0>K</color>프린지 위버 //n 아군 전체 화력이 28% 상승//c 지속 4.3초. 버프효과 종료 후 술에 취해 화력과 명중이 17% 감소//c 지속 3초.//n <color=#db3d3d>❈❈❈</color>기초 음료 - 슈가 러쉬//n 아군 전체 화력이 15% 상승//c 지속 7초.//n╚∷∷∷∷∷∷∷♪♪Night Night♪♪∷∷∷∷∷∷╝
+battle_skill_config-371010107,쿨타임17.3초//c큰 맥주 장갑:17%//c큰 맥주 화력 명중:20%//c큰 맥주 지속시간:7초//c브랜티니 화력 명중:20%//c브랜티니 지속시간:7초//c피아노 우먼 화력:17%//c피아노 우먼 회피:52%//c피아노 우먼 지속시간:7초//c문블라스트 사속:18%//c문블라스트 지속시간:7초//c블리딩 제인 치명률:20%//c블리딩 제인 지속시간:7초//c프린지 위버 화력28%//c숙취 디버프:17%//c프린지 위버 지속시간:4.3초
+battle_skill_config-471010107,
+battle_skill_config-171010108,믹스타임
+battle_skill_config-271010108,발동 시 3초 동안 음료를 섞는다. 장착중인 장비에 따라 다른 음료가 완성되어 해당 버프효과를 제공한다.//n질은 공격이 불가능하며 기본 화력 1마다 스킬 쿨타임이 1%씩//c 최대 30% 감소한다.(초기 쿨타임 제외)//n<color=#db3d3d>A</color>아델하이드  <color=#70ad47>F</color>프래너자이드   <color=#91c1f0>K</color>카모트린//n<color=#ffb400>B</color>브론순 추출액   <color=#2e74b5>D</color>델타 가루//n╔∷∷∷∷∷∷∷∷♪♪Menu♪♪∷∷∷∷∷∷∷∷╗//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#91c1f0>K</color>큰 맥주 //n SG의 장갑이 18%//c 화력과 명중이 27% 상승//c 지속 7.3초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#2e74b5>D</color>브랜티니//n MG의 화력과 명중이 22% 상승//c 지속 7.3초.//n <color=#db3d3d>A</color><color=#ffb400>B</color><color=#91c1f0>K</color>피아노 우먼//n 가장 앞에 배치한 인형의 회피가 54% 상승//c 나머지 인형은 화력이 18% 상승//c 지속 7.3초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#91c1f0>K</color>문블라스트//n 아군 전체 사속이 19% 상승//c 지속 7.3초.//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#2e74b5>D</color>블리딩 제인//n AR과 RF의 치명률이 22% 상승하고//c 100%를 초과한 부분은 60%의 수치로 치명타 피해 상승치로 전환//c 지속 7.3초.//n <color=#91c1f0>K</color><color=#91c1f0>K</color><color=#91c1f0>K</color>프린지 위버 //n 아군 전체 화력이 31% 상승//c 지속 4.6초. 버프효과 종료 후 술에 취해 화력과 명중이 16% 감소//c 지속 3초.//n <color=#db3d3d>❈❈❈</color>기초 음료 - 슈가 러쉬//n 아군 전체 화력이 16% 상승//c 지속 8초.//n╚∷∷∷∷∷∷∷♪♪Night Night♪♪∷∷∷∷∷∷╝
+battle_skill_config-371010108,쿨타임16.9초//c큰 맥주 장갑:18%//c큰 맥주 화력 명중:22%//c큰 맥주 지속시간:7.3초//c브랜티니 화력 명중:22%//c브랜티니 지속시간:7.3초//c피아노 우먼 화력:18%//c피아노 우먼 회피:54%//c피아노 우먼 지속시간:7.3초//c문블라스트 사속:19%//c문블라스트 지속시간:7.3초//c블리딩 제인 치명률:22%//c블리딩 제인 지속시간:7.3초//c프린지 위버 화력31%//c숙취 디버프:16%//c프린지 위버 지속시간:4.6초
+battle_skill_config-471010108,
+battle_skill_config-171010109,믹스타임
+battle_skill_config-271010109,발동 시 3초 동안 음료를 섞는다. 장착중인 장비에 따라 다른 음료가 완성되어 해당 버프효과를 제공한다.//n질은 공격이 불가능하며 기본 화력 1마다 스킬 쿨타임이 1%씩//c 최대 30% 감소한다.(초기 쿨타임 제외)//n<color=#db3d3d>A</color>아델하이드  <color=#70ad47>F</color>프래너자이드   <color=#91c1f0>K</color>카모트린//n<color=#ffb400>B</color>브론순 추출액   <color=#2e74b5>D</color>델타 가루//n╔∷∷∷∷∷∷∷∷♪♪Menu♪♪∷∷∷∷∷∷∷∷╗//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#91c1f0>K</color>큰 맥주 //n SG의 장갑이 19%//c 화력과 명중이 28% 상승//c 지속 7.7초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#2e74b5>D</color>브랜티니//n MG의 화력과 명중이 23% 상승//c 지속 7.7초.//n <color=#db3d3d>A</color><color=#ffb400>B</color><color=#91c1f0>K</color>피아노 우먼//n 가장 앞에 배치한 인형의 회피가 57% 상승//c 나머지 인형은 화력이 19% 상승//c 지속 7.7초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#91c1f0>K</color>문블라스트//n 아군 전체 사속이 21% 상승//c 지속 7.7초.//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#2e74b5>D</color>블리딩 제인//n AR과 RF의 치명률이 23% 상승하고//c 100%를 초과한 부분은 60%의 수치로 치명타 피해 상승치로 전환//c 지속 7.7초.//n <color=#91c1f0>K</color><color=#91c1f0>K</color><color=#91c1f0>K</color>프린지 위버 //n 아군 전체 화력이 33% 상승//c 지속 4.8초. 버프효과 종료 후 술에 취해 화력과 명중이 16% 감소//c 지속 3초.//n <color=#db3d3d>❈❈❈</color>기초 음료 - 슈가 러쉬//n 아군 전체 화력이 17% 상승//c 지속 8초.//n╚∷∷∷∷∷∷∷♪♪Night Night♪♪∷∷∷∷∷∷╝
+battle_skill_config-371010109,쿨타임16.4초//c큰 맥주 장갑:19%//c큰 맥주 화력 명중:23%//c큰 맥주 지속시간:7.7초//c브랜티니 화력 명중:23%//c브랜티니 지속시간:7.7초//c피아노 우먼 화력:19%//c피아노 우먼 회피:57%//c피아노 우먼 지속시간:7.7초//c문블라스트 사속:21%//c문블라스트 지속시간:7.7초//c블리딩 제인 치명률:23%//c블리딩 제인 지속시간:7.7초//c프린지 위버 화력33%//c숙취 디버프:16%//c프린지 위버 지속시간:4.8초
+battle_skill_config-471010109,
+battle_skill_config-171010110,믹스타임
+battle_skill_config-271010110,발동 시 3초 동안 음료를 섞는다. 장착중인 장비에 따라 다른 음료가 완성되어 해당 버프효과를 제공한다.//n질은 공격이 불가능하며 기본 화력 1마다 스킬 쿨타임이 1%씩//c 최대 30% 감소한다.(초기 쿨타임 제외)//n<color=#db3d3d>A</color>아델하이드  <color=#70ad47>F</color>프래너자이드   <color=#91c1f0>K</color>카모트린//n<color=#ffb400>B</color>브론순 추출액   <color=#2e74b5>D</color>델타 가루//n╔∷∷∷∷∷∷∷∷♪♪Menu♪♪∷∷∷∷∷∷∷∷╗//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#91c1f0>K</color>큰 맥주 //n SG의 장갑이 20%//c 화력과 명중이 30% 상승//c 지속 8초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#2e74b5>D</color>브랜티니//n MG의 화력과 명중이 25% 상승//c 지속 8초.//n <color=#db3d3d>A</color><color=#ffb400>B</color><color=#91c1f0>K</color>피아노 우먼//n 가장 앞에 배치한 인형의 회피가 60% 상승//c 나머지 인형은 화력이 20% 상승//c 지속 8초.//n <color=#db3d3d>A</color><color=#db3d3d>A</color><color=#91c1f0>K</color>문블라스트//n 아군 전체 사속이 22% 상승//c 지속 8초.//n <color=#70ad47>F</color><color=#ffb400>B</color><color=#2e74b5>D</color>블리딩 제인//n AR과 RF의 치명률이 25% 상승하고//c 100%를 초과한 부분은 60%의 수치로 치명타 피해 상승치로 전환//c 지속 8초.//n <color=#91c1f0>K</color><color=#91c1f0>K</color><color=#91c1f0>K</color>프린지 위버 //n 아군 전체 화력이 35% 상승//c 지속 5초. 버프효과 종료 후 술에 취해 화력과 명중이 15% 감소//c 지속 3초.//n <color=#db3d3d>❈❈❈</color>기초 음료 - 슈가 러쉬//n 아군 전체 화력이 18% 상승//c 지속 8초.//n╚∷∷∷∷∷∷∷♪♪Night Night♪♪∷∷∷∷∷∷╝
+battle_skill_config-371010110,쿨타임16초//c큰 맥주 장갑:20%//c큰 맥주 화력 명중:25%//c큰 맥주 지속시간:8초//c브랜티니 화력 명중:25%//c브랜티니 지속시간:8초//c피아노 우먼 화력:20%//c피아노 우먼 회피:60%//c피아노 우먼 지속시간:8초//c문블라스트 사속:22%//c문블라스트 지속시간:8초//c블리딩 제인 치명률:25%//c블리딩 제인 지속시간:8초//c프린지 위버 화력35%//c숙취 디버프:15%//c프린지 위버 지속시간:5초
+battle_skill_config-471010110,
+battle_skill_config-171010201,甜味Adelhyde
+battle_skill_config-271010201,
+battle_skill_config-371010201,
+battle_skill_config-471010201,
+battle_skill_config-171010301,苦味Bronson Extract
+battle_skill_config-271010301,
+battle_skill_config-371010301,
+battle_skill_config-471010301,
+battle_skill_config-171010401,酸味Powdered Delta
+battle_skill_config-271010401,
+battle_skill_config-371010401,
+battle_skill_config-471010401,
+battle_skill_config-171010501,辣味Flanegide
+battle_skill_config-271010501,
+battle_skill_config-371010501,
+battle_skill_config-471010501,
+battle_skill_config-171012201,甜味Adelhyde-2
+battle_skill_config-271012201,
+battle_skill_config-371012201,
+battle_skill_config-471012201,
+battle_skill_config-171010601,酒精Karmotrine-1
+battle_skill_config-271010601,
+battle_skill_config-371010601,
+battle_skill_config-471010601,
+battle_skill_config-171012001,酒精Karmotrine-2
+battle_skill_config-271012001,
+battle_skill_config-371012001,
+battle_skill_config-471012001,
+battle_skill_config-171012101,酒精Karmotrine-3
+battle_skill_config-271012101,
+battle_skill_config-371012101,
+battle_skill_config-471012101,
+battle_skill_config-171010701,Beer效果[*]
+battle_skill_config-271010701,
+battle_skill_config-371010701,
+battle_skill_config-471010701,
+battle_skill_config-171010702,Beer效果[*]
+battle_skill_config-271010702,
+battle_skill_config-371010702,
+battle_skill_config-471010702,
+battle_skill_config-171010703,Beer效果[*]
+battle_skill_config-271010703,
+battle_skill_config-371010703,
+battle_skill_config-471010703,
+battle_skill_config-171010704,Beer效果[*]
+battle_skill_config-271010704,
+battle_skill_config-371010704,
+battle_skill_config-471010704,
+battle_skill_config-171010705,Beer效果[*]
+battle_skill_config-271010705,
+battle_skill_config-371010705,
+battle_skill_config-471010705,
+battle_skill_config-171010706,Beer效果[*]
+battle_skill_config-271010706,
+battle_skill_config-371010706,
+battle_skill_config-471010706,
+battle_skill_config-171010707,Beer效果[*]
+battle_skill_config-271010707,
+battle_skill_config-371010707,
+battle_skill_config-471010707,
+battle_skill_config-171010708,Beer效果[*]
+battle_skill_config-271010708,
+battle_skill_config-371010708,
+battle_skill_config-471010708,
+battle_skill_config-171010709,Beer效果[*]
+battle_skill_config-271010709,
+battle_skill_config-371010709,
+battle_skill_config-471010709,
+battle_skill_config-171010710,Beer效果[*]
+battle_skill_config-271010710,
+battle_skill_config-371010710,
+battle_skill_config-471010710,
+battle_skill_config-171010801,브랜티니效果[*]
+battle_skill_config-271010801,
+battle_skill_config-371010801,
+battle_skill_config-471010801,
+battle_skill_config-171010802,브랜티니效果[*]
+battle_skill_config-271010802,
+battle_skill_config-371010802,
+battle_skill_config-471010802,
+battle_skill_config-171010803,브랜티니效果[*]
+battle_skill_config-271010803,
+battle_skill_config-371010803,
+battle_skill_config-471010803,
+battle_skill_config-171010804,브랜티니效果[*]
+battle_skill_config-271010804,
+battle_skill_config-371010804,
+battle_skill_config-471010804,
+battle_skill_config-171010805,브랜티니效果[*]
+battle_skill_config-271010805,
+battle_skill_config-371010805,
+battle_skill_config-471010805,
+battle_skill_config-171010806,브랜티니效果[*]
+battle_skill_config-271010806,
+battle_skill_config-371010806,
+battle_skill_config-471010806,
+battle_skill_config-171010807,브랜티니效果[*]
+battle_skill_config-271010807,
+battle_skill_config-371010807,
+battle_skill_config-471010807,
+battle_skill_config-171010808,브랜티니效果[*]
+battle_skill_config-271010808,
+battle_skill_config-371010808,
+battle_skill_config-471010808,
+battle_skill_config-171010809,브랜티니效果[*]
+battle_skill_config-271010809,
+battle_skill_config-371010809,
+battle_skill_config-471010809,
+battle_skill_config-171010810,브랜티니效果[*]
+battle_skill_config-271010810,
+battle_skill_config-371010810,
+battle_skill_config-471010810,
+battle_skill_config-171010901,피아노 우먼效果[*]
+battle_skill_config-271010901,
+battle_skill_config-371010901,
+battle_skill_config-471010901,
+battle_skill_config-171010902,피아노 우먼效果[*]
+battle_skill_config-271010902,
+battle_skill_config-371010902,
+battle_skill_config-471010902,
+battle_skill_config-171010903,피아노 우먼效果[*]
+battle_skill_config-271010903,
+battle_skill_config-371010903,
+battle_skill_config-471010903,
+battle_skill_config-171010904,피아노 우먼效果[*]
+battle_skill_config-271010904,
+battle_skill_config-371010904,
+battle_skill_config-471010904,
+battle_skill_config-171010905,피아노 우먼效果[*]
+battle_skill_config-271010905,
+battle_skill_config-371010905,
+battle_skill_config-471010905,
+battle_skill_config-171010906,피아노 우먼效果[*]
+battle_skill_config-271010906,
+battle_skill_config-371010906,
+battle_skill_config-471010906,
+battle_skill_config-171010907,피아노 우먼效果[*]
+battle_skill_config-271010907,
+battle_skill_config-371010907,
+battle_skill_config-471010907,
+battle_skill_config-171010908,피아노 우먼效果[*]
+battle_skill_config-271010908,
+battle_skill_config-371010908,
+battle_skill_config-471010908,
+battle_skill_config-171010909,피아노 우먼效果[*]
+battle_skill_config-271010909,
+battle_skill_config-371010909,
+battle_skill_config-471010909,
+battle_skill_config-171010910,피아노 우먼效果[*]
+battle_skill_config-271010910,
+battle_skill_config-371010910,
+battle_skill_config-471010910,
+battle_skill_config-171011001,문블라스트效果[*]
+battle_skill_config-271011001,
+battle_skill_config-371011001,
+battle_skill_config-471011001,
+battle_skill_config-171011002,문블라스트效果[*]
+battle_skill_config-271011002,
+battle_skill_config-371011002,
+battle_skill_config-471011002,
+battle_skill_config-171011003,문블라스트效果[*]
+battle_skill_config-271011003,
+battle_skill_config-371011003,
+battle_skill_config-471011003,
+battle_skill_config-171011004,문블라스트效果[*]
+battle_skill_config-271011004,
+battle_skill_config-371011004,
+battle_skill_config-471011004,
+battle_skill_config-171011005,문블라스트效果[*]
+battle_skill_config-271011005,
+battle_skill_config-371011005,
+battle_skill_config-471011005,
+battle_skill_config-171011006,문블라스트效果[*]
+battle_skill_config-271011006,
+battle_skill_config-371011006,
+battle_skill_config-471011006,
+battle_skill_config-171011007,문블라스트效果[*]
+battle_skill_config-271011007,
+battle_skill_config-371011007,
+battle_skill_config-471011007,
+battle_skill_config-171011008,문블라스트效果[*]
+battle_skill_config-271011008,
+battle_skill_config-371011008,
+battle_skill_config-471011008,
+battle_skill_config-171011009,문블라스트效果[*]
+battle_skill_config-271011009,
+battle_skill_config-371011009,
+battle_skill_config-471011009,
+battle_skill_config-171011010,문블라스트效果[*]
+battle_skill_config-271011010,
+battle_skill_config-371011010,
+battle_skill_config-471011010,
+battle_skill_config-171011101,블리딩 제인效果[*]
+battle_skill_config-271011101,
+battle_skill_config-371011101,
+battle_skill_config-471011101,
+battle_skill_config-171011102,블리딩 제인效果[*]
+battle_skill_config-271011102,
+battle_skill_config-371011102,
+battle_skill_config-471011102,
+battle_skill_config-171011103,블리딩 제인效果[*]
+battle_skill_config-271011103,
+battle_skill_config-371011103,
+battle_skill_config-471011103,
+battle_skill_config-171011104,블리딩 제인效果[*]
+battle_skill_config-271011104,
+battle_skill_config-371011104,
+battle_skill_config-471011104,
+battle_skill_config-171011105,블리딩 제인效果[*]
+battle_skill_config-271011105,
+battle_skill_config-371011105,
+battle_skill_config-471011105,
+battle_skill_config-171011106,블리딩 제인效果[*]
+battle_skill_config-271011106,
+battle_skill_config-371011106,
+battle_skill_config-471011106,
+battle_skill_config-171011107,블리딩 제인效果[*]
+battle_skill_config-271011107,
+battle_skill_config-371011107,
+battle_skill_config-471011107,
+battle_skill_config-171011108,블리딩 제인效果[*]
+battle_skill_config-271011108,
+battle_skill_config-371011108,
+battle_skill_config-471011108,
+battle_skill_config-171011109,블리딩 제인效果[*]
+battle_skill_config-271011109,
+battle_skill_config-371011109,
+battle_skill_config-471011109,
+battle_skill_config-171011110,블리딩 제인效果[*]
+battle_skill_config-271011110,
+battle_skill_config-371011110,
+battle_skill_config-471011110,
+battle_skill_config-171011201,프린지 위버效果[*]
+battle_skill_config-271011201,
+battle_skill_config-371011201,
+battle_skill_config-471011201,
+battle_skill_config-171011202,프린지 위버效果[*]
+battle_skill_config-271011202,
+battle_skill_config-371011202,
+battle_skill_config-471011202,
+battle_skill_config-171011203,프린지 위버效果[*]
+battle_skill_config-271011203,
+battle_skill_config-371011203,
+battle_skill_config-471011203,
+battle_skill_config-171011204,프린지 위버效果[*]
+battle_skill_config-271011204,
+battle_skill_config-371011204,
+battle_skill_config-471011204,
+battle_skill_config-171011205,프린지 위버效果[*]
+battle_skill_config-271011205,
+battle_skill_config-371011205,
+battle_skill_config-471011205,
+battle_skill_config-171011206,프린지 위버效果[*]
+battle_skill_config-271011206,
+battle_skill_config-371011206,
+battle_skill_config-471011206,
+battle_skill_config-171011207,프린지 위버效果[*]
+battle_skill_config-271011207,
+battle_skill_config-371011207,
+battle_skill_config-471011207,
+battle_skill_config-171011208,프린지 위버效果[*]
+battle_skill_config-271011208,
+battle_skill_config-371011208,
+battle_skill_config-471011208,
+battle_skill_config-171011209,프린지 위버效果[*]
+battle_skill_config-271011209,
+battle_skill_config-371011209,
+battle_skill_config-471011209,
+battle_skill_config-171011210,프린지 위버效果[*]
+battle_skill_config-271011210,
+battle_skill_config-371011210,
+battle_skill_config-471011210,
+battle_skill_config-171011301,SugerRush效果[*]
+battle_skill_config-271011301,
+battle_skill_config-371011301,
+battle_skill_config-471011301,
+battle_skill_config-171011302,SugerRush效果[*]
+battle_skill_config-271011302,
+battle_skill_config-371011302,
+battle_skill_config-471011302,
+battle_skill_config-171011303,SugerRush效果[*]
+battle_skill_config-271011303,
+battle_skill_config-371011303,
+battle_skill_config-471011303,
+battle_skill_config-171011304,SugerRush效果[*]
+battle_skill_config-271011304,
+battle_skill_config-371011304,
+battle_skill_config-471011304,
+battle_skill_config-171011305,SugerRush效果[*]
+battle_skill_config-271011305,
+battle_skill_config-371011305,
+battle_skill_config-471011305,
+battle_skill_config-171011306,SugerRush效果[*]
+battle_skill_config-271011306,
+battle_skill_config-371011306,
+battle_skill_config-471011306,
+battle_skill_config-171011307,SugerRush效果[*]
+battle_skill_config-271011307,
+battle_skill_config-371011307,
+battle_skill_config-471011307,
+battle_skill_config-171011308,SugerRush效果[*]
+battle_skill_config-271011308,
+battle_skill_config-371011308,
+battle_skill_config-471011308,
+battle_skill_config-171011309,SugerRush效果[*]
+battle_skill_config-271011309,
+battle_skill_config-371011309,
+battle_skill_config-471011309,
+battle_skill_config-171011310,SugerRush效果[*]
+battle_skill_config-271011310,
+battle_skill_config-371011310,
+battle_skill_config-471011310,
+battle_skill_config-171011401,블리딩 제인溢出效果[*]
+battle_skill_config-271011401,
+battle_skill_config-371011401,
+battle_skill_config-471011401,
+battle_skill_config-171011402,블리딩 제인溢出效果[*]
+battle_skill_config-271011402,
+battle_skill_config-371011402,
+battle_skill_config-471011402,
+battle_skill_config-171011403,블리딩 제인溢出效果[*]
+battle_skill_config-271011403,
+battle_skill_config-371011403,
+battle_skill_config-471011403,
+battle_skill_config-171011404,블리딩 제인溢出效果[*]
+battle_skill_config-271011404,
+battle_skill_config-371011404,
+battle_skill_config-471011404,
+battle_skill_config-171011405,블리딩 제인溢出效果[*]
+battle_skill_config-271011405,
+battle_skill_config-371011405,
+battle_skill_config-471011405,
+battle_skill_config-171011406,블리딩 제인溢出效果[*]
+battle_skill_config-271011406,
+battle_skill_config-371011406,
+battle_skill_config-471011406,
+battle_skill_config-171011407,블리딩 제인溢出效果[*]
+battle_skill_config-271011407,
+battle_skill_config-371011407,
+battle_skill_config-471011407,
+battle_skill_config-171011408,블리딩 제인溢出效果[*]
+battle_skill_config-271011408,
+battle_skill_config-371011408,
+battle_skill_config-471011408,
+battle_skill_config-171011409,블리딩 제인溢出效果[*]
+battle_skill_config-271011409,
+battle_skill_config-371011409,
+battle_skill_config-471011409,
+battle_skill_config-171011410,블리딩 제인溢出效果[*]
+battle_skill_config-271011410,
+battle_skill_config-371011410,
+battle_skill_config-471011410,
+battle_skill_config-171011501,블리딩 제인清除[*]
+battle_skill_config-271011501,
+battle_skill_config-371011501,
+battle_skill_config-471011501,
+battle_skill_config-171011601,블리딩 제인判定
+battle_skill_config-271011601,
+battle_skill_config-371011601,
+battle_skill_config-471011601,
+battle_skill_config-171011701,피아노 우먼前排效果[*]
+battle_skill_config-271011701,
+battle_skill_config-371011701,
+battle_skill_config-471011701,
+battle_skill_config-171011702,피아노 우먼前排效果[*]
+battle_skill_config-271011702,
+battle_skill_config-371011702,
+battle_skill_config-471011702,
+battle_skill_config-171011703,피아노 우먼前排效果[*]
+battle_skill_config-271011703,
+battle_skill_config-371011703,
+battle_skill_config-471011703,
+battle_skill_config-171011704,피아노 우먼前排效果[*]
+battle_skill_config-271011704,
+battle_skill_config-371011704,
+battle_skill_config-471011704,
+battle_skill_config-171011705,피아노 우먼前排效果[*]
+battle_skill_config-271011705,
+battle_skill_config-371011705,
+battle_skill_config-471011705,
+battle_skill_config-171011706,피아노 우먼前排效果[*]
+battle_skill_config-271011706,
+battle_skill_config-371011706,
+battle_skill_config-471011706,
+battle_skill_config-171011707,피아노 우먼前排效果[*]
+battle_skill_config-271011707,
+battle_skill_config-371011707,
+battle_skill_config-471011707,
+battle_skill_config-171011708,피아노 우먼前排效果[*]
+battle_skill_config-271011708,
+battle_skill_config-371011708,
+battle_skill_config-471011708,
+battle_skill_config-171011709,피아노 우먼前排效果[*]
+battle_skill_config-271011709,
+battle_skill_config-371011709,
+battle_skill_config-471011709,
+battle_skill_config-171011710,피아노 우먼前排效果[*]
+battle_skill_config-271011710,
+battle_skill_config-371011710,
+battle_skill_config-471011710,
+battle_skill_config-171011801,피아노 우먼其余效果[*]
+battle_skill_config-271011801,
+battle_skill_config-371011801,
+battle_skill_config-471011801,
+battle_skill_config-171011802,피아노 우먼其余效果[*]
+battle_skill_config-271011802,
+battle_skill_config-371011802,
+battle_skill_config-471011802,
+battle_skill_config-171011803,피아노 우먼其余效果[*]
+battle_skill_config-271011803,
+battle_skill_config-371011803,
+battle_skill_config-471011803,
+battle_skill_config-171011804,피아노 우먼其余效果[*]
+battle_skill_config-271011804,
+battle_skill_config-371011804,
+battle_skill_config-471011804,
+battle_skill_config-171011805,피아노 우먼其余效果[*]
+battle_skill_config-271011805,
+battle_skill_config-371011805,
+battle_skill_config-471011805,
+battle_skill_config-171011806,피아노 우먼其余效果[*]
+battle_skill_config-271011806,
+battle_skill_config-371011806,
+battle_skill_config-471011806,
+battle_skill_config-171011807,피아노 우먼其余效果[*]
+battle_skill_config-271011807,
+battle_skill_config-371011807,
+battle_skill_config-471011807,
+battle_skill_config-171011808,피아노 우먼其余效果[*]
+battle_skill_config-271011808,
+battle_skill_config-371011808,
+battle_skill_config-471011808,
+battle_skill_config-171011809,피아노 우먼其余效果[*]
+battle_skill_config-271011809,
+battle_skill_config-371011809,
+battle_skill_config-471011809,
+battle_skill_config-171011810,피아노 우먼其余效果[*]
+battle_skill_config-271011810,
+battle_skill_config-371011810,
+battle_skill_config-471011810,
+battle_skill_config-171011901,瓦尔哈拉Jill普攻
+battle_skill_config-271011901,
+battle_skill_config-371011901,
+battle_skill_config-471011901,
+battle_skill_config-171012301,瓦尔哈拉Jillemoji
+battle_skill_config-271012301,
+battle_skill_config-371012301,
+battle_skill_config-471012301,
+battle_skill_config-171012401,瓦尔哈拉Jillemoji
+battle_skill_config-271012401,
+battle_skill_config-371012401,
+battle_skill_config-471012401,
+battle_skill_config-171012501,瓦尔哈拉Jillemoji
+battle_skill_config-271012501,
+battle_skill_config-371012501,
+battle_skill_config-471012501,
+battle_skill_config-171012601,瓦尔哈拉Jillemoji
+battle_skill_config-271012601,
+battle_skill_config-371012601,
+battle_skill_config-471012601,
+battle_skill_config-171012701,瓦尔哈拉Jillemoji随机
+battle_skill_config-271012701,
+battle_skill_config-371012701,
+battle_skill_config-471012701,
+battle_skill_config-171012801,瓦尔哈拉Jillemoji
+battle_skill_config-271012801,
+battle_skill_config-371012801,
+battle_skill_config-471012801,
+battle_skill_config-171012901,瓦尔哈拉Jillemoji
+battle_skill_config-271012901,
+battle_skill_config-371012901,
+battle_skill_config-471012901,
+battle_skill_config-171013001,瓦尔哈拉Jillemoji
+battle_skill_config-271013001,
+battle_skill_config-371013001,
+battle_skill_config-471013001,
+battle_skill_config-171013101,瓦尔哈拉Jillemoji
+battle_skill_config-271013101,
+battle_skill_config-371013101,
+battle_skill_config-471013101,
+battle_skill_config-171013201,瓦尔哈拉Jillemoji
+battle_skill_config-271013201,
+battle_skill_config-371013201,
+battle_skill_config-471013201,
+battle_skill_config-171013301,Jill冷却缩减
+battle_skill_config-271013301,
+battle_skill_config-371013301,
+battle_skill_config-471013301,
+battle_skill_config-171020101,레드 게이저
+battle_skill_config-271020101,뛰어올라 땅을 내리쳐 폭발을 일으켜//c 반경 2 범위 안의 적에게 0.3배의 피해를 주고 밀어낸다. 자신의 장갑 1마다 스킬 피해가 1% 상승한다.//n선호 음료: 큰 맥주의 효과를 받을 시//c 자신의 장갑 1마다 보호막을 0.5 얻는다.//n일반 공격: 적 하나에게 폭발하는 로켓 펀치를 발사해 1.2배의 피해를 주고//c 5%의 확률로 밀어낸다.(슬러그 탄의 효과와 중첩되지 않는다.)
+battle_skill_config-371020101,피해 배율:0.3배//c펀치 위력:1.2배//c넉백 확률:5%
+battle_skill_config-471020101,
+battle_skill_config-171020102,레드 게이저
+battle_skill_config-271020102,뛰어올라 땅을 내리쳐 폭발을 일으켜//c 반경 2 범위 안의 적에게 0.33배의 피해를 주고 밀어낸다. 자신의 장갑 1마다 스킬 피해가 1% 상승한다.//n선호 음료: 큰 맥주의 효과를 받을 시//c 자신의 장갑 1마다 보호막을 0.5 얻는다.//n일반 공격: 적 하나에게 폭발하는 로켓 펀치를 발사해 1.27배의 피해를 주고//c 6%의 확률로 밀어낸다.(슬러그 탄의 효과와 중첩되지 않는다.)
+battle_skill_config-371020102,피해 배율:0.33배//c펀치 위력:1.27배//c넉백 확률:6%
+battle_skill_config-471020102,
+battle_skill_config-171020103,레드 게이저
+battle_skill_config-271020103,뛰어올라 땅을 내리쳐 폭발을 일으켜//c 반경 2 범위 안의 적에게 0.37배의 피해를 주고 밀어낸다. 자신의 장갑 1마다 스킬 피해가 1% 상승한다.//n선호 음료: 큰 맥주의 효과를 받을 시//c 자신의 장갑 1마다 보호막을 0.5 얻는다.//n일반 공격: 적 하나에게 폭발하는 로켓 펀치를 발사해 1.33배의 피해를 주고//c 6%의 확률로 밀어낸다.(슬러그 탄의 효과와 중첩되지 않는다.)
+battle_skill_config-371020103,피해 배율:0.37배//c펀치 위력:1.33배//c넉백 확률:6%
+battle_skill_config-471020103,
+battle_skill_config-171020104,레드 게이저
+battle_skill_config-271020104,뛰어올라 땅을 내리쳐 폭발을 일으켜//c 반경 2 범위 안의 적에게 0.4배의 피해를 주고 밀어낸다. 자신의 장갑 1마다 스킬 피해가 1% 상승한다.//n선호 음료: 큰 맥주의 효과를 받을 시//c 자신의 장갑 1마다 보호막을 0.5 얻는다.//n일반 공격: 적 하나에게 폭발하는 로켓 펀치를 발사해 1.4배의 피해를 주고//c 7%의 확률로 밀어낸다.(슬러그 탄의 효과와 중첩되지 않는다.)
+battle_skill_config-371020104,피해 배율:0.4배//c펀치 위력:1.4배//c넉백 확률:7%
+battle_skill_config-471020104,
+battle_skill_config-171020105,레드 게이저
+battle_skill_config-271020105,뛰어올라 땅을 내리쳐 폭발을 일으켜//c 반경 2 범위 안의 적에게 0.43배의 피해를 주고 밀어낸다. 자신의 장갑 1마다 스킬 피해가 1% 상승한다.//n선호 음료: 큰 맥주의 효과를 받을 시//c 자신의 장갑 1마다 보호막을 0.5 얻는다.//n일반 공격: 적 하나에게 폭발하는 로켓 펀치를 발사해 1.47배의 피해를 주고//c 7%의 확률로 밀어낸다.(슬러그 탄의 효과와 중첩되지 않는다.)
+battle_skill_config-371020105,피해 배율:0.43배//c펀치 위력:1.47배//c넉백 확률:7%
+battle_skill_config-471020105,
+battle_skill_config-171020106,레드 게이저
+battle_skill_config-271020106,뛰어올라 땅을 내리쳐 폭발을 일으켜//c 반경 2 범위 안의 적에게 0.47배의 피해를 주고 밀어낸다. 자신의 장갑 1마다 스킬 피해가 1% 상승한다.//n선호 음료: 큰 맥주의 효과를 받을 시//c 자신의 장갑 1마다 보호막을 0.5 얻는다.//n일반 공격: 적 하나에게 폭발하는 로켓 펀치를 발사해 1.53배의 피해를 주고//c 8%의 확률로 밀어낸다.(슬러그 탄의 효과와 중첩되지 않는다.)
+battle_skill_config-371020106,피해 배율:0.47배//c펀치 위력:1.53배//c넉백 확률:8%
+battle_skill_config-471020106,
+battle_skill_config-171020107,레드 게이저
+battle_skill_config-271020107,뛰어올라 땅을 내리쳐 폭발을 일으켜//c 반경 2 범위 안의 적에게 0.5배의 피해를 주고 밀어낸다. 자신의 장갑 1마다 스킬 피해가 1% 상승한다.//n선호 음료: 큰 맥주의 효과를 받을 시//c 자신의 장갑 1마다 보호막을 0.5 얻는다.//n일반 공격: 적 하나에게 폭발하는 로켓 펀치를 발사해 1.6배의 피해를 주고//c 8%의 확률로 밀어낸다.(슬러그 탄의 효과와 중첩되지 않는다.)
+battle_skill_config-371020107,피해 배율:0.5배//c펀치 위력:1.6배//c넉백 확률:8%
+battle_skill_config-471020107,
+battle_skill_config-171020108,레드 게이저
+battle_skill_config-271020108,뛰어올라 땅을 내리쳐 폭발을 일으켜//c 반경 2 범위 안의 적에게 0.53배의 피해를 주고 밀어낸다. 자신의 장갑 1마다 스킬 피해가 1% 상승한다.//n선호 음료: 큰 맥주의 효과를 받을 시//c 자신의 장갑 1마다 보호막을 0.5 얻는다.//n일반 공격: 적 하나에게 폭발하는 로켓 펀치를 발사해 1.67배의 피해를 주고//c 9%의 확률로 밀어낸다.(슬러그 탄의 효과와 중첩되지 않는다.)
+battle_skill_config-371020108,피해 배율:0.53배//c펀치 위력:1.67배//c넉백 확률:9%
+battle_skill_config-471020108,
+battle_skill_config-171020109,레드 게이저
+battle_skill_config-271020109,뛰어올라 땅을 내리쳐 폭발을 일으켜//c 반경 2 범위 안의 적에게 0.57배의 피해를 주고 밀어낸다. 자신의 장갑 1마다 스킬 피해가 1% 상승한다.//n선호 음료: 큰 맥주의 효과를 받을 시//c 자신의 장갑 1마다 보호막을 0.5 얻는다.//n일반 공격: 적 하나에게 폭발하는 로켓 펀치를 발사해 1.73배의 피해를 주고//c 9%의 확률로 밀어낸다.(슬러그 탄의 효과와 중첩되지 않는다.)
+battle_skill_config-371020109,피해 배율:0.57배//c펀치 위력:1.73배//c넉백 확률:9%
+battle_skill_config-471020109,
+battle_skill_config-171020110,레드 게이저
+battle_skill_config-271020110,뛰어올라 땅을 내리쳐 폭발을 일으켜//c 반경 2 범위 안의 적에게 0.6배의 피해를 주고 밀어낸다. 자신의 장갑 1마다 스킬 피해가 1% 상승한다.//n선호 음료: 큰 맥주의 효과를 받을 시//c 자신의 장갑 1마다 보호막을 0.5 얻는다.//n일반 공격: 적 하나에게 폭발하는 로켓 펀치를 발사해 1.8배의 피해를 주고//c 10%의 확률로 밀어낸다.(슬러그 탄의 효과와 중첩되지 않는다.)
+battle_skill_config-371020110,피해 배율:0.6배//c펀치 위력:1.8배//c넉백 확률:10%
+battle_skill_config-471020110,
+battle_skill_config-171020201,Boss霰弹枪普攻[*]
+battle_skill_config-271020201,霰弹枪的普通攻击
+battle_skill_config-371020201,
+battle_skill_config-471020201,
+battle_skill_config-171020202,Boss霰弹枪普攻[*]
+battle_skill_config-271020202,霰弹枪的普通攻击
+battle_skill_config-371020202,
+battle_skill_config-471020202,
+battle_skill_config-171020203,Boss霰弹枪普攻[*]
+battle_skill_config-271020203,霰弹枪的普通攻击
+battle_skill_config-371020203,
+battle_skill_config-471020203,
+battle_skill_config-171020204,Boss霰弹枪普攻[*]
+battle_skill_config-271020204,霰弹枪的普通攻击
+battle_skill_config-371020204,
+battle_skill_config-471020204,
+battle_skill_config-171020205,Boss霰弹枪普攻[*]
+battle_skill_config-271020205,霰弹枪的普通攻击
+battle_skill_config-371020205,
+battle_skill_config-471020205,
+battle_skill_config-171020206,Boss霰弹枪普攻[*]
+battle_skill_config-271020206,霰弹枪的普通攻击
+battle_skill_config-371020206,
+battle_skill_config-471020206,
+battle_skill_config-171020207,Boss霰弹枪普攻[*]
+battle_skill_config-271020207,霰弹枪的普通攻击
+battle_skill_config-371020207,
+battle_skill_config-471020207,
+battle_skill_config-171020208,Boss霰弹枪普攻[*]
+battle_skill_config-271020208,霰弹枪的普通攻击
+battle_skill_config-371020208,
+battle_skill_config-471020208,
+battle_skill_config-171020209,Boss霰弹枪普攻[*]
+battle_skill_config-271020209,霰弹枪的普通攻击
+battle_skill_config-371020209,
+battle_skill_config-471020209,
+battle_skill_config-171020210,Boss霰弹枪普攻[*]
+battle_skill_config-271020210,霰弹枪的普通攻击
+battle_skill_config-371020210,
+battle_skill_config-471020210,
+battle_skill_config-171020301,Boss-Beer效果
+battle_skill_config-271020301,
+battle_skill_config-371020301,
+battle_skill_config-471020301,
+battle_skill_config-171020401,Boss假普攻[*]
+battle_skill_config-271020401,
+battle_skill_config-371020401,
+battle_skill_config-471020401,
+battle_skill_config-171020501,Boss换弹[*]
+battle_skill_config-271020501,霰弹枪战斗中换弹
+battle_skill_config-371020501,
+battle_skill_config-471020501,
+battle_skill_config-171020601,Boss技能期间换弹[*]
+battle_skill_config-271020601,霰弹枪战斗中换弹
+battle_skill_config-371020601,
+battle_skill_config-471020601,
+battle_skill_config-171020701,Boss专属技能
+battle_skill_config-271020701,
+battle_skill_config-371020701,
+battle_skill_config-471020701,
+battle_skill_config-171030101,비밀 개조
+battle_skill_config-271030101,스킬을 발동할 때마다 두 가지 상태 사이에서 전환한다://nMIRD113: 자신의 화력을 50% 상승시키고//c 같은 열의 아군 인형의 명중을 60% 감소시키는 대신 회피를 50% 상승시킨다.//n나노 미채: 자신의 회피를 50% 상승시키고 //c 같은 열의 아군 인형의 회피를 60% 감소시키는 대신 명중을 50% 상승시킨다.//n도로시를 중간줄에 배치 시 기본적으로 나노 미채를 적용하고//c 위아래줄에선 MIRD113을 적용한다.//n선호 음료: 피아노 우먼의 효과를 받을 시//c 자신 스킬의 부정적 효과를 50% 완화한다. (같은 열의 인형에게 주는 효과는 버프를 받을 시 발동하는 패시브를 발동시키지 않는다.)
+battle_skill_config-371030101,자신 능력 상승치:50%//c같은 열 능력 상승치:50%//c같은 열 능력 감소치:60%
+battle_skill_config-471030101,
+battle_skill_config-171030102,비밀 개조
+battle_skill_config-271030102,스킬을 발동할 때마다 두 가지 상태 사이에서 전환한다://nMIRD113: 자신의 화력을 56% 상승시키고//c 같은 열의 아군 인형의 명중을 58% 감소시키는 대신 회피를 53% 상승시킨다.//n나노 미채: 자신의 회피를 56% 상승시키고 //c 같은 열의 아군 인형의 회피를 58% 감소시키는 대신 명중을 53% 상승시킨다.//n도로시를 중간줄에 배치 시 기본적으로 나노 미채를 적용하고//c 위아래줄에선 MIRD113을 적용한다.//n선호 음료: 피아노 우먼의 효과를 받을 시//c 자신 스킬의 부정적 효과를 50% 완화한다. (같은 열의 인형에게 주는 효과는 버프를 받을 시 발동하는 패시브를 발동시키지 않는다.)
+battle_skill_config-371030102,자신 능력 상승치:56%//c같은 열 능력 상승치:53%//c같은 열 능력 감소치:58%
+battle_skill_config-471030102,
+battle_skill_config-171030103,비밀 개조
+battle_skill_config-271030103,스킬을 발동할 때마다 두 가지 상태 사이에서 전환한다://nMIRD113: 자신의 화력을 61% 상승시키고//c 같은 열의 아군 인형의 명중을 56% 감소시키는 대신 회피를 57% 상승시킨다.//n나노 미채: 자신의 회피를 61% 상승시키고 //c 같은 열의 아군 인형의 회피를 56% 감소시키는 대신 명중을 57% 상승시킨다.//n도로시를 중간줄에 배치 시 기본적으로 나노 미채를 적용하고//c 위아래줄에선 MIRD113을 적용한다.//n선호 음료: 피아노 우먼의 효과를 받을 시//c 자신 스킬의 부정적 효과를 50% 완화한다. (같은 열의 인형에게 주는 효과는 버프를 받을 시 발동하는 패시브를 발동시키지 않는다.)
+battle_skill_config-371030103,자신 능력 상승치:61%//c같은 열 능력 상승치:57%//c같은 열 능력 감소치:56%
+battle_skill_config-471030103,
+battle_skill_config-171030104,비밀 개조
+battle_skill_config-271030104,스킬을 발동할 때마다 두 가지 상태 사이에서 전환한다://nMIRD113: 자신의 화력을 67% 상승시키고//c 같은 열의 아군 인형의 명중을 53% 감소시키는 대신 회피를 60% 상승시킨다.//n나노 미채: 자신의 회피를 67% 상승시키고 //c 같은 열의 아군 인형의 회피를 53% 감소시키는 대신 명중을 60% 상승시킨다.//n도로시를 중간줄에 배치 시 기본적으로 나노 미채를 적용하고//c 위아래줄에선 MIRD113을 적용한다.//n선호 음료: 피아노 우먼의 효과를 받을 시//c 자신 스킬의 부정적 효과를 50% 완화한다. (같은 열의 인형에게 주는 효과는 버프를 받을 시 발동하는 패시브를 발동시키지 않는다.)
+battle_skill_config-371030104,자신 능력 상승치:67%//c같은 열 능력 상승치:60%//c같은 열 능력 감소치:53%
+battle_skill_config-471030104,
+battle_skill_config-171030105,비밀 개조
+battle_skill_config-271030105,스킬을 발동할 때마다 두 가지 상태 사이에서 전환한다://nMIRD113: 자신의 화력을 72% 상승시키고//c 같은 열의 아군 인형의 명중을 51% 감소시키는 대신 회피를 63% 상승시킨다.//n나노 미채: 자신의 회피를 72% 상승시키고 //c 같은 열의 아군 인형의 회피를 51% 감소시키는 대신 명중을 63% 상승시킨다.//n도로시를 중간줄에 배치 시 기본적으로 나노 미채를 적용하고//c 위아래줄에선 MIRD113을 적용한다.//n선호 음료: 피아노 우먼의 효과를 받을 시//c 자신 스킬의 부정적 효과를 50% 완화한다. (같은 열의 인형에게 주는 효과는 버프를 받을 시 발동하는 패시브를 발동시키지 않는다.)
+battle_skill_config-371030105,자신 능력 상승치:72%//c같은 열 능력 상승치:63%//c같은 열 능력 감소치:51%
+battle_skill_config-471030105,
+battle_skill_config-171030106,비밀 개조
+battle_skill_config-271030106,스킬을 발동할 때마다 두 가지 상태 사이에서 전환한다://nMIRD113: 자신의 화력을 78% 상승시키고//c 같은 열의 아군 인형의 명중을 49% 감소시키는 대신 회피를 68% 상승시킨다.//n나노 미채: 자신의 회피를 78% 상승시키고 //c 같은 열의 아군 인형의 회피를 49% 감소시키는 대신 명중을 68% 상승시킨다.//n도로시를 중간줄에 배치 시 기본적으로 나노 미채를 적용하고//c 위아래줄에선 MIRD113을 적용한다.//n선호 음료: 피아노 우먼의 효과를 받을 시//c 자신 스킬의 부정적 효과를 50% 완화한다. (같은 열의 인형에게 주는 효과는 버프를 받을 시 발동하는 패시브를 발동시키지 않는다.)
+battle_skill_config-371030106,자신 능력 상승치:78%//c같은 열 능력 상승치:68%//c같은 열 능력 감소치:49%
+battle_skill_config-471030106,
+battle_skill_config-171030107,비밀 개조
+battle_skill_config-271030107,스킬을 발동할 때마다 두 가지 상태 사이에서 전환한다://nMIRD113: 자신의 화력을 83% 상승시키고//c 같은 열의 아군 인형의 명중을 47% 감소시키는 대신 회피를 70% 상승시킨다.//n나노 미채: 자신의 회피를 83% 상승시키고 //c 같은 열의 아군 인형의 회피를 47% 감소시키는 대신 명중을 70% 상승시킨다.//n도로시를 중간줄에 배치 시 기본적으로 나노 미채를 적용하고//c 위아래줄에선 MIRD113을 적용한다.//n선호 음료: 피아노 우먼의 효과를 받을 시//c 자신 스킬의 부정적 효과를 50% 완화한다. (같은 열의 인형에게 주는 효과는 버프를 받을 시 발동하는 패시브를 발동시키지 않는다.)
+battle_skill_config-371030107,자신 능력 상승치:83%//c같은 열 능력 상승치:70%//c같은 열 능력 감소치:47%
+battle_skill_config-471030107,
+battle_skill_config-171030108,비밀 개조
+battle_skill_config-271030108,스킬을 발동할 때마다 두 가지 상태 사이에서 전환한다://nMIRD113: 자신의 화력을 89% 상승시키고//c 같은 열의 아군 인형의 명중을 44% 감소시키는 대신 회피를 73% 상승시킨다.//n나노 미채: 자신의 회피를 89% 상승시키고 //c 같은 열의 아군 인형의 회피를 44% 감소시키는 대신 명중을 73% 상승시킨다.//n도로시를 중간줄에 배치 시 기본적으로 나노 미채를 적용하고//c 위아래줄에선 MIRD113을 적용한다.//n선호 음료: 피아노 우먼의 효과를 받을 시//c 자신 스킬의 부정적 효과를 50% 완화한다. (같은 열의 인형에게 주는 효과는 버프를 받을 시 발동하는 패시브를 발동시키지 않는다.)
+battle_skill_config-371030108,자신 능력 상승치:89%//c같은 열 능력 상승치:73%//c같은 열 능력 감소치:44%
+battle_skill_config-471030108,
+battle_skill_config-171030109,비밀 개조
+battle_skill_config-271030109,스킬을 발동할 때마다 두 가지 상태 사이에서 전환한다://nMIRD113: 자신의 화력을 94% 상승시키고//c 같은 열의 아군 인형의 명중을 42% 감소시키는 대신 회피를 77% 상승시킨다.//n나노 미채: 자신의 회피를 94% 상승시키고 //c 같은 열의 아군 인형의 회피를 42% 감소시키는 대신 명중을 77% 상승시킨다.//n도로시를 중간줄에 배치 시 기본적으로 나노 미채를 적용하고//c 위아래줄에선 MIRD113을 적용한다.//n선호 음료: 피아노 우먼의 효과를 받을 시//c 자신 스킬의 부정적 효과를 50% 완화한다. (같은 열의 인형에게 주는 효과는 버프를 받을 시 발동하는 패시브를 발동시키지 않는다.)
+battle_skill_config-371030109,자신 능력 상승치:94%//c같은 열 능력 상승치:77%//c같은 열 능력 감소치:42%
+battle_skill_config-471030109,
+battle_skill_config-171030110,비밀 개조
+battle_skill_config-271030110,스킬을 발동할 때마다 두 가지 상태 사이에서 전환한다://nMIRD113: 자신의 화력을 100% 상승시키고//c 같은 열의 아군 인형의 명중을 40% 감소시키는 대신 회피를 80% 상승시킨다.//n나노 미채: 자신의 회피를 100% 상승시키고 //c 같은 열의 아군 인형의 회피를 40% 감소시키는 대신 명중을 80% 상승시킨다.//n도로시를 중간줄에 배치 시 기본적으로 나노 미채를 적용하고//c 위아래줄에선 MIRD113을 적용한다.//n선호 음료: 피아노 우먼의 효과를 받을 시//c 자신 스킬의 부정적 효과를 50% 완화한다. (같은 열의 인형에게 주는 효과는 버프를 받을 시 발동하는 패시브를 발동시키지 않는다.)
+battle_skill_config-371030110,자신 능력 상승치:100%//c같은 열 능력 상승치:80%//c같은 열 능력 감소치:40%
+battle_skill_config-471030110,
+battle_skill_config-171030201,Dorothy切换[*]
+battle_skill_config-271030201,
+battle_skill_config-371030201,
+battle_skill_config-471030201,
+battle_skill_config-171030301,Dorothy纳米迷彩效果[*]
+battle_skill_config-271030301,
+battle_skill_config-371030301,
+battle_skill_config-471030301,
+battle_skill_config-171030302,Dorothy纳米迷彩效果[*]
+battle_skill_config-271030302,
+battle_skill_config-371030302,
+battle_skill_config-471030302,
+battle_skill_config-171030303,Dorothy纳米迷彩效果[*]
+battle_skill_config-271030303,
+battle_skill_config-371030303,
+battle_skill_config-471030303,
+battle_skill_config-171030304,Dorothy纳米迷彩效果[*]
+battle_skill_config-271030304,
+battle_skill_config-371030304,
+battle_skill_config-471030304,
+battle_skill_config-171030305,Dorothy纳米迷彩效果[*]
+battle_skill_config-271030305,
+battle_skill_config-371030305,
+battle_skill_config-471030305,
+battle_skill_config-171030306,Dorothy纳米迷彩效果[*]
+battle_skill_config-271030306,
+battle_skill_config-371030306,
+battle_skill_config-471030306,
+battle_skill_config-171030307,Dorothy纳米迷彩效果[*]
+battle_skill_config-271030307,
+battle_skill_config-371030307,
+battle_skill_config-471030307,
+battle_skill_config-171030308,Dorothy纳米迷彩效果[*]
+battle_skill_config-271030308,
+battle_skill_config-371030308,
+battle_skill_config-471030308,
+battle_skill_config-171030309,Dorothy纳米迷彩效果[*]
+battle_skill_config-271030309,
+battle_skill_config-371030309,
+battle_skill_config-471030309,
+battle_skill_config-171030310,Dorothy纳米迷彩效果[*]
+battle_skill_config-271030310,
+battle_skill_config-371030310,
+battle_skill_config-471030310,
+battle_skill_config-171030401,DorothyMIRD113[*]
+battle_skill_config-271030401,
+battle_skill_config-371030401,
+battle_skill_config-471030401,
+battle_skill_config-171030402,DorothyMIRD113[*]
+battle_skill_config-271030402,
+battle_skill_config-371030402,
+battle_skill_config-471030402,
+battle_skill_config-171030403,DorothyMIRD113[*]
+battle_skill_config-271030403,
+battle_skill_config-371030403,
+battle_skill_config-471030403,
+battle_skill_config-171030404,DorothyMIRD113[*]
+battle_skill_config-271030404,
+battle_skill_config-371030404,
+battle_skill_config-471030404,
+battle_skill_config-171030405,DorothyMIRD113[*]
+battle_skill_config-271030405,
+battle_skill_config-371030405,
+battle_skill_config-471030405,
+battle_skill_config-171030406,DorothyMIRD113[*]
+battle_skill_config-271030406,
+battle_skill_config-371030406,
+battle_skill_config-471030406,
+battle_skill_config-171030407,DorothyMIRD113[*]
+battle_skill_config-271030407,
+battle_skill_config-371030407,
+battle_skill_config-471030407,
+battle_skill_config-171030408,DorothyMIRD113[*]
+battle_skill_config-271030408,
+battle_skill_config-371030408,
+battle_skill_config-471030408,
+battle_skill_config-171030409,DorothyMIRD113[*]
+battle_skill_config-271030409,
+battle_skill_config-371030409,
+battle_skill_config-471030409,
+battle_skill_config-171030410,DorothyMIRD113[*]
+battle_skill_config-271030410,
+battle_skill_config-371030410,
+battle_skill_config-471030410,
+battle_skill_config-171030501,Dorothy菌毯
+battle_skill_config-271030501,
+battle_skill_config-371030501,
+battle_skill_config-471030501,
+battle_skill_config-171030601,Dorothy切换特效
+battle_skill_config-271030601,
+battle_skill_config-371030601,
+battle_skill_config-471030601,
+battle_skill_config-171030701,Dorothy普攻[*]
+battle_skill_config-271030701,冲锋枪的普通攻击
+battle_skill_config-371030701,
+battle_skill_config-471030701,
+battle_skill_config-171040101,백기사의 방패
+battle_skill_config-271040101,아군 SG//c SMG//c HG 인형에게 보호막을 14 부여하고//c 각각 손실한 체력 비율에 따라 추가로 기준치의 0.8~1.8배의 보호막을 부여한다. 지속시간 3초.//n스텔라가 있을 경우//c 세이의 공격 횟수도 스텔라의 패시브에 집계된다.//n선호 음료: 문블라스트 효과를 받는 중 스킬 발동 시//c 손실 체력에 따른 추가 보호막을 2배로 부여한다.
+battle_skill_config-371040101,쿨타임:15초//c보호막 기준치:14//c지속시간:3초
+battle_skill_config-471040101,
+battle_skill_config-171040102,백기사의 방패
+battle_skill_config-271040102,아군 SG//c SMG//c HG 인형에게 보호막을 16 부여하고//c 각각 손실한 체력 비율에 따라 추가로 기준치의 0.8~1.8배의 보호막을 부여한다. 지속시간 3.2초.//n스텔라가 있을 경우//c 세이의 공격 횟수도 스텔라의 패시브에 집계된다.//n선호 음료: 문블라스트 효과를 받는 중 스킬 발동 시//c 손실 체력에 따른 추가 보호막을 2배로 부여한다.
+battle_skill_config-371040102,쿨타임:14.4초//c보호막 기준치:16//c지속시간:3.2초
+battle_skill_config-471040102,
+battle_skill_config-171040103,백기사의 방패
+battle_skill_config-271040103,아군 SG//c SMG//c HG 인형에게 보호막을 18 부여하고//c 각각 손실한 체력 비율에 따라 추가로 기준치의 0.8~1.8배의 보호막을 부여한다. 지속시간 3.4초.//n스텔라가 있을 경우//c 세이의 공격 횟수도 스텔라의 패시브에 집계된다.//n선호 음료: 문블라스트 효과를 받는 중 스킬 발동 시//c 손실 체력에 따른 추가 보호막을 2배로 부여한다.
+battle_skill_config-371040103,쿨타임:13.9초//c보호막 기준치:18//c지속시간:3.4초
+battle_skill_config-471040103,
+battle_skill_config-171040104,백기사의 방패
+battle_skill_config-271040104,아군 SG//c SMG//c HG 인형에게 보호막을 20 부여하고//c 각각 손실한 체력 비율에 따라 추가로 기준치의 0.8~1.8배의 보호막을 부여한다. 지속시간 3.7초.//n스텔라가 있을 경우//c 세이의 공격 횟수도 스텔라의 패시브에 집계된다.//n선호 음료: 문블라스트 효과를 받는 중 스킬 발동 시//c 손실 체력에 따른 추가 보호막을 2배로 부여한다.
+battle_skill_config-371040104,쿨타임:13.3초//c보호막 기준치:20//c지속시간:3.7초
+battle_skill_config-471040104,
+battle_skill_config-171040105,백기사의 방패
+battle_skill_config-271040105,아군 SG//c SMG//c HG 인형에게 보호막을 22 부여하고//c 각각 손실한 체력 비율에 따라 추가로 기준치의 0.8~1.8배의 보호막을 부여한다. 지속시간 3.9초.//n스텔라가 있을 경우//c 세이의 공격 횟수도 스텔라의 패시브에 집계된다.//n선호 음료: 문블라스트 효과를 받는 중 스킬 발동 시//c 손실 체력에 따른 추가 보호막을 2배로 부여한다.
+battle_skill_config-371040105,쿨타임:12.8초//c보호막 기준치:22//c지속시간:3.9초
+battle_skill_config-471040105,
+battle_skill_config-171040106,백기사의 방패
+battle_skill_config-271040106,아군 SG//c SMG//c HG 인형에게 보호막을 24 부여하고//c 각각 손실한 체력 비율에 따라 추가로 기준치의 0.8~1.8배의 보호막을 부여한다. 지속시간 4.1초.//n스텔라가 있을 경우//c 세이의 공격 횟수도 스텔라의 패시브에 집계된다.//n선호 음료: 문블라스트 효과를 받는 중 스킬 발동 시//c 손실 체력에 따른 추가 보호막을 2배로 부여한다.
+battle_skill_config-371040106,쿨타임:12.2초//c보호막 기준치:24//c지속시간:4.1초
+battle_skill_config-471040106,
+battle_skill_config-171040107,백기사의 방패
+battle_skill_config-271040107,아군 SG//c SMG//c HG 인형에게 보호막을 26 부여하고//c 각각 손실한 체력 비율에 따라 추가로 기준치의 0.8~1.8배의 보호막을 부여한다. 지속시간 4.3초.//n스텔라가 있을 경우//c 세이의 공격 횟수도 스텔라의 패시브에 집계된다.//n선호 음료: 문블라스트 효과를 받는 중 스킬 발동 시//c 손실 체력에 따른 추가 보호막을 2배로 부여한다.
+battle_skill_config-371040107,쿨타임:11.7초//c보호막 기준치:26//c지속시간:4.3초
+battle_skill_config-471040107,
+battle_skill_config-171040108,백기사의 방패
+battle_skill_config-271040108,아군 SG//c SMG//c HG 인형에게 보호막을 28 부여하고//c 각각 손실한 체력 비율에 따라 추가로 기준치의 0.8~1.8배의 보호막을 부여한다. 지속시간 4.6초.//n스텔라가 있을 경우//c 세이의 공격 횟수도 스텔라의 패시브에 집계된다.//n선호 음료: 문블라스트 효과를 받는 중 스킬 발동 시//c 손실 체력에 따른 추가 보호막을 2배로 부여한다.
+battle_skill_config-371040108,쿨타임:11.1초//c보호막 기준치:28//c지속시간:4.6초
+battle_skill_config-471040108,
+battle_skill_config-171040109,백기사의 방패
+battle_skill_config-271040109,아군 SG//c SMG//c HG 인형에게 보호막을 30 부여하고//c 각각 손실한 체력 비율에 따라 추가로 기준치의 0.8~1.8배의 보호막을 부여한다. 지속시간 4.8초.//n스텔라가 있을 경우//c 세이의 공격 횟수도 스텔라의 패시브에 집계된다.//n선호 음료: 문블라스트 효과를 받는 중 스킬 발동 시//c 손실 체력에 따른 추가 보호막을 2배로 부여한다.
+battle_skill_config-371040109,쿨타임:10.6초//c보호막 기준치:30//c지속시간:4.8초
+battle_skill_config-471040109,
+battle_skill_config-171040110,백기사의 방패
+battle_skill_config-271040110,아군 SG//c SMG//c HG 인형에게 보호막을 32 부여하고//c 각각 손실한 체력 비율에 따라 추가로 기준치의 0.8~1.8배의 보호막을 부여한다. 지속시간 5초.//n스텔라가 있을 경우//c 세이의 공격 횟수도 스텔라의 패시브에 집계된다.//n선호 음료: 문블라스트 효과를 받는 중 스킬 발동 시//c 손실 체력에 따른 추가 보호막을 2배로 부여한다.
+battle_skill_config-371040110,쿨타임:10초//c보호막 기준치:32//c지속시간:5초
+battle_skill_config-471040110,
+battle_skill_config-171040201,Sei普攻[*]
+battle_skill_config-271040201,手枪的普通攻击
+battle_skill_config-371040201,
+battle_skill_config-471040201,
+battle_skill_config-171040301,Sei溢出效果[*]
+battle_skill_config-271040301,
+battle_skill_config-371040301,
+battle_skill_config-471040301,
+battle_skill_config-171040302,Sei溢出效果[*]
+battle_skill_config-271040302,
+battle_skill_config-371040302,
+battle_skill_config-471040302,
+battle_skill_config-171040303,Sei溢出效果[*]
+battle_skill_config-271040303,
+battle_skill_config-371040303,
+battle_skill_config-471040303,
+battle_skill_config-171040304,Sei溢出效果[*]
+battle_skill_config-271040304,
+battle_skill_config-371040304,
+battle_skill_config-471040304,
+battle_skill_config-171040305,Sei溢出效果[*]
+battle_skill_config-271040305,
+battle_skill_config-371040305,
+battle_skill_config-471040305,
+battle_skill_config-171040306,Sei溢出效果[*]
+battle_skill_config-271040306,
+battle_skill_config-371040306,
+battle_skill_config-471040306,
+battle_skill_config-171040307,Sei溢出效果[*]
+battle_skill_config-271040307,
+battle_skill_config-371040307,
+battle_skill_config-471040307,
+battle_skill_config-171040308,Sei溢出效果[*]
+battle_skill_config-271040308,
+battle_skill_config-371040308,
+battle_skill_config-471040308,
+battle_skill_config-171040309,Sei溢出效果[*]
+battle_skill_config-271040309,
+battle_skill_config-371040309,
+battle_skill_config-471040309,
+battle_skill_config-171040310,Sei溢出效果[*]
+battle_skill_config-271040310,
+battle_skill_config-371040310,
+battle_skill_config-471040310,
+battle_skill_config-171040401,Sei清除[*]
+battle_skill_config-271040401,
+battle_skill_config-371040401,
+battle_skill_config-471040401,
+battle_skill_config-171040501,Sei判定
+battle_skill_config-271040501,
+battle_skill_config-371040501,
+battle_skill_config-471040501,
+battle_skill_config-171040601,Sei无酒
+battle_skill_config-271040601,
+battle_skill_config-371040601,
+battle_skill_config-471040601,
+battle_skill_config-171040602,Sei无酒
+battle_skill_config-271040602,
+battle_skill_config-371040602,
+battle_skill_config-471040602,
+battle_skill_config-171040603,Sei无酒
+battle_skill_config-271040603,
+battle_skill_config-371040603,
+battle_skill_config-471040603,
+battle_skill_config-171040604,Sei无酒
+battle_skill_config-271040604,
+battle_skill_config-371040604,
+battle_skill_config-471040604,
+battle_skill_config-171040605,Sei无酒
+battle_skill_config-271040605,
+battle_skill_config-371040605,
+battle_skill_config-471040605,
+battle_skill_config-171040606,Sei无酒
+battle_skill_config-271040606,
+battle_skill_config-371040606,
+battle_skill_config-471040606,
+battle_skill_config-171040607,Sei无酒
+battle_skill_config-271040607,
+battle_skill_config-371040607,
+battle_skill_config-471040607,
+battle_skill_config-171040608,Sei无酒
+battle_skill_config-271040608,
+battle_skill_config-371040608,
+battle_skill_config-471040608,
+battle_skill_config-171040609,Sei无酒
+battle_skill_config-271040609,
+battle_skill_config-371040609,
+battle_skill_config-471040609,
+battle_skill_config-171040610,Sei无酒
+battle_skill_config-271040610,
+battle_skill_config-371040610,
+battle_skill_config-471040610,
+battle_skill_config-171040701,Sei-문블라스트
+battle_skill_config-271040701,
+battle_skill_config-371040701,
+battle_skill_config-471040701,
+battle_skill_config-171040702,Sei-문블라스트
+battle_skill_config-271040702,
+battle_skill_config-371040702,
+battle_skill_config-471040702,
+battle_skill_config-171040703,Sei-문블라스트
+battle_skill_config-271040703,
+battle_skill_config-371040703,
+battle_skill_config-471040703,
+battle_skill_config-171040704,Sei-문블라스트
+battle_skill_config-271040704,
+battle_skill_config-371040704,
+battle_skill_config-471040704,
+battle_skill_config-171040705,Sei-문블라스트
+battle_skill_config-271040705,
+battle_skill_config-371040705,
+battle_skill_config-471040705,
+battle_skill_config-171040706,Sei-문블라스트
+battle_skill_config-271040706,
+battle_skill_config-371040706,
+battle_skill_config-471040706,
+battle_skill_config-171040707,Sei-문블라스트
+battle_skill_config-271040707,
+battle_skill_config-371040707,
+battle_skill_config-471040707,
+battle_skill_config-171040708,Sei-문블라스트
+battle_skill_config-271040708,
+battle_skill_config-371040708,
+battle_skill_config-471040708,
+battle_skill_config-171040709,Sei-문블라스트
+battle_skill_config-271040709,
+battle_skill_config-371040709,
+battle_skill_config-471040709,
+battle_skill_config-171040710,Sei-문블라스트
+battle_skill_config-271040710,
+battle_skill_config-371040710,
+battle_skill_config-471040710,
+battle_skill_config-171040801,Sei-无酒溢出效果[*]
+battle_skill_config-271040801,
+battle_skill_config-371040801,
+battle_skill_config-471040801,
+battle_skill_config-171040802,Sei-无酒溢出效果[*]
+battle_skill_config-271040802,
+battle_skill_config-371040802,
+battle_skill_config-471040802,
+battle_skill_config-171040803,Sei-无酒溢出效果[*]
+battle_skill_config-271040803,
+battle_skill_config-371040803,
+battle_skill_config-471040803,
+battle_skill_config-171040804,Sei-无酒溢出效果[*]
+battle_skill_config-271040804,
+battle_skill_config-371040804,
+battle_skill_config-471040804,
+battle_skill_config-171040805,Sei-无酒溢出效果[*]
+battle_skill_config-271040805,
+battle_skill_config-371040805,
+battle_skill_config-471040805,
+battle_skill_config-171040806,Sei-无酒溢出效果[*]
+battle_skill_config-271040806,
+battle_skill_config-371040806,
+battle_skill_config-471040806,
+battle_skill_config-171040807,Sei-无酒溢出效果[*]
+battle_skill_config-271040807,
+battle_skill_config-371040807,
+battle_skill_config-471040807,
+battle_skill_config-171040808,Sei-无酒溢出效果[*]
+battle_skill_config-271040808,
+battle_skill_config-371040808,
+battle_skill_config-471040808,
+battle_skill_config-171040809,Sei-无酒溢出效果[*]
+battle_skill_config-271040809,
+battle_skill_config-371040809,
+battle_skill_config-471040809,
+battle_skill_config-171040810,Sei-无酒溢出效果[*]
+battle_skill_config-271040810,
+battle_skill_config-371040810,
+battle_skill_config-471040810,
+battle_skill_config-171040901,Sei-Stella[*]
+battle_skill_config-271040901,
+battle_skill_config-371040901,
+battle_skill_config-471040901,
+battle_skill_config-171041001,Sei冷却缩减
+battle_skill_config-271041001,
+battle_skill_config-371041001,
+battle_skill_config-471041001,
+battle_skill_config-171050101,꼭두각시 가면
+battle_skill_config-271050101,액티브: 자신의 화력을 30% 상승시킨다//c 지속시간 3초.//n패시브: 작은 인형이 20회 이상 공격할 때마다//c 다음 공격의 치명타 피해가 50% 상승한다.//n세이가 있을 경우 세이의 스킬 쿨타임을 10% 감소시킨다.(초기 쿨타임 제외).//n선호 음료: 블리딩 제인의 효과를 받고 있을 경우 패시브 발동 필요 횟수가 14회로 감소한다.
+battle_skill_config-371050101,쿨타임:10초//c화력 상승치:30%//c지속시간:3초//c공격 횟수:20회
+battle_skill_config-471050101,
+battle_skill_config-171050102,꼭두각시 가면
+battle_skill_config-271050102,액티브: 자신의 화력을 32% 상승시킨다//c 지속시간 3.2초.//n패시브: 작은 인형이 20회 이상 공격할 때마다//c 다음 공격의 치명타 피해가 50% 상승한다.//n세이가 있을 경우 세이의 스킬 쿨타임을 10% 감소시킨다.(초기 쿨타임 제외).//n선호 음료: 블리딩 제인의 효과를 받고 있을 경우 패시브 발동 필요 횟수가 14회로 감소한다.
+battle_skill_config-371050102,쿨타임:9.8초//c화력 상승치:32%//c지속시간:3.2초//c공격 횟수:20회
+battle_skill_config-471050102,
+battle_skill_config-171050103,꼭두각시 가면
+battle_skill_config-271050103,액티브: 자신의 화력을 34% 상승시킨다//c 지속시간 3.4초.//n패시브: 작은 인형이 20회 이상 공격할 때마다//c 다음 공격의 치명타 피해가 50% 상승한다.//n세이가 있을 경우 세이의 스킬 쿨타임을 10% 감소시킨다.(초기 쿨타임 제외).//n선호 음료: 블리딩 제인의 효과를 받고 있을 경우 패시브 발동 필요 횟수가 14회로 감소한다.
+battle_skill_config-371050103,쿨타임:9.6초//c화력 상승치:34%//c지속시간:3.4초//c공격 횟수:20회
+battle_skill_config-471050103,
+battle_skill_config-171050104,꼭두각시 가면
+battle_skill_config-271050104,액티브: 자신의 화력을 37% 상승시킨다//c 지속시간 3.7초.//n패시브: 작은 인형이 20회 이상 공격할 때마다//c 다음 공격의 치명타 피해가 50% 상승한다.//n세이가 있을 경우 세이의 스킬 쿨타임을 10% 감소시킨다.(초기 쿨타임 제외).//n선호 음료: 블리딩 제인의 효과를 받고 있을 경우 패시브 발동 필요 횟수가 14회로 감소한다.
+battle_skill_config-371050104,쿨타임:9.3초//c화력 상승치:37%//c지속시간:3.7초//c공격 횟수:20회
+battle_skill_config-471050104,
+battle_skill_config-171050105,꼭두각시 가면
+battle_skill_config-271050105,액티브: 자신의 화력을 39% 상승시킨다//c 지속시간 3.9초.//n패시브: 작은 인형이 18회 이상 공격할 때마다//c 다음 공격의 치명타 피해가 50% 상승한다.//n세이가 있을 경우 세이의 스킬 쿨타임을 10% 감소시킨다.(초기 쿨타임 제외).//n선호 음료: 블리딩 제인의 효과를 받고 있을 경우 패시브 발동 필요 횟수가 12회로 감소한다.
+battle_skill_config-371050105,쿨타임:9.1초//c화력 상승치:39%//c지속시간:3.9초//c공격 횟수:18회
+battle_skill_config-471050105,
+battle_skill_config-171050106,꼭두각시 가면
+battle_skill_config-271050106,액티브: 자신의 화력을 41% 상승시킨다//c 지속시간 4.1초.//n패시브: 작은 인형이 18회 이상 공격할 때마다//c 다음 공격의 치명타 피해가 50% 상승한다.//n세이가 있을 경우 세이의 스킬 쿨타임을 10% 감소시킨다.(초기 쿨타임 제외).//n선호 음료: 블리딩 제인의 효과를 받고 있을 경우 패시브 발동 필요 횟수가 12회로 감소한다.
+battle_skill_config-371050106,쿨타임:8.9초//c화력 상승치:41%//c지속시간:4.1초//c공격 횟수:18회
+battle_skill_config-471050106,
+battle_skill_config-171050107,꼭두각시 가면
+battle_skill_config-271050107,액티브: 자신의 화력을 43% 상승시킨다//c 지속시간 4.3초.//n패시브: 작은 인형이 18회 이상 공격할 때마다//c 다음 공격의 치명타 피해가 50% 상승한다.//n세이가 있을 경우 세이의 스킬 쿨타임을 10% 감소시킨다.(초기 쿨타임 제외).//n선호 음료: 블리딩 제인의 효과를 받고 있을 경우 패시브 발동 필요 횟수가 12회로 감소한다.
+battle_skill_config-371050107,쿨타임:8.7초//c화력 상승치:43%//c지속시간:4.3초//c공격 횟수:18회
+battle_skill_config-471050107,
+battle_skill_config-171050108,꼭두각시 가면
+battle_skill_config-271050108,액티브: 자신의 화력을 46% 상승시킨다//c 지속시간 4.6초.//n패시브: 작은 인형이 16회 이상 공격할 때마다//c 다음 공격의 치명타 피해가 50% 상승한다.//n세이가 있을 경우 세이의 스킬 쿨타임을 10% 감소시킨다.(초기 쿨타임 제외).//n선호 음료: 블리딩 제인의 효과를 받고 있을 경우 패시브 발동 필요 횟수가 10회로 감소한다.
+battle_skill_config-371050108,쿨타임:8.4초//c화력 상승치:46%//c지속시간:4.6초//c공격 횟수:16회
+battle_skill_config-471050108,
+battle_skill_config-171050109,꼭두각시 가면
+battle_skill_config-271050109,액티브: 자신의 화력을 48% 상승시킨다//c 지속시간 4.8초.//n패시브: 작은 인형이 16회 이상 공격할 때마다//c 다음 공격의 치명타 피해가 50% 상승한다.//n세이가 있을 경우 세이의 스킬 쿨타임을 10% 감소시킨다.(초기 쿨타임 제외).//n선호 음료: 블리딩 제인의 효과를 받고 있을 경우 패시브 발동 필요 횟수가 10회로 감소한다.
+battle_skill_config-371050109,쿨타임:8.2초//c화력 상승치:48%//c지속시간:4.8초//c공격 횟수:16회
+battle_skill_config-471050109,
+battle_skill_config-171050110,꼭두각시 가면
+battle_skill_config-271050110,액티브: 자신의 화력을 50% 상승시킨다//c 지속시간 5초.//n패시브: 작은 인형이 16회 이상 공격할 때마다//c 다음 공격의 치명타 피해가 50% 상승한다.//n세이가 있을 경우 세이의 스킬 쿨타임을 10% 감소시킨다.(초기 쿨타임 제외).//n선호 음료: 블리딩 제인의 효과를 받고 있을 경우 패시브 발동 필요 횟수가 10회로 감소한다.
+battle_skill_config-371050110,쿨타임:8초//c화력 상승치:50%//c지속시간:5초//c공격 횟수:16회
+battle_skill_config-471050110,
+battle_skill_config-171050201,Stella普攻[*]
+battle_skill_config-271050201,
+battle_skill_config-371050201,
+battle_skill_config-471050201,
+battle_skill_config-171050301,Stella二次普攻[*]
+battle_skill_config-271050301,
+battle_skill_config-371050301,
+battle_skill_config-471050301,
+battle_skill_config-171050401,Stella层数判定[*]
+battle_skill_config-271050401,
+battle_skill_config-371050401,
+battle_skill_config-471050401,
+battle_skill_config-171050402,Stella层数判定[*]
+battle_skill_config-271050402,
+battle_skill_config-371050402,
+battle_skill_config-471050402,
+battle_skill_config-171050403,Stella层数判定[*]
+battle_skill_config-271050403,
+battle_skill_config-371050403,
+battle_skill_config-471050403,
+battle_skill_config-171050404,Stella层数判定[*]
+battle_skill_config-271050404,
+battle_skill_config-371050404,
+battle_skill_config-471050404,
+battle_skill_config-171050405,Stella层数判定[*]
+battle_skill_config-271050405,
+battle_skill_config-371050405,
+battle_skill_config-471050405,
+battle_skill_config-171050406,Stella层数判定[*]
+battle_skill_config-271050406,
+battle_skill_config-371050406,
+battle_skill_config-471050406,
+battle_skill_config-171050407,Stella层数判定[*]
+battle_skill_config-271050407,
+battle_skill_config-371050407,
+battle_skill_config-471050407,
+battle_skill_config-171050408,Stella层数判定[*]
+battle_skill_config-271050408,
+battle_skill_config-371050408,
+battle_skill_config-471050408,
+battle_skill_config-171050409,Stella层数判定[*]
+battle_skill_config-271050409,
+battle_skill_config-371050409,
+battle_skill_config-471050409,
+battle_skill_config-171050410,Stella层数判定[*]
+battle_skill_config-271050410,
+battle_skill_config-371050410,
+battle_skill_config-471050410,
+battle_skill_config-171050501,Stella-블리딩 제인层数判定[*]
+battle_skill_config-271050501,
+battle_skill_config-371050501,
+battle_skill_config-471050501,
+battle_skill_config-171050502,Stella-블리딩 제인层数判定[*]
+battle_skill_config-271050502,
+battle_skill_config-371050502,
+battle_skill_config-471050502,
+battle_skill_config-171050503,Stella-블리딩 제인层数判定[*]
+battle_skill_config-271050503,
+battle_skill_config-371050503,
+battle_skill_config-471050503,
+battle_skill_config-171050504,Stella-블리딩 제인层数判定[*]
+battle_skill_config-271050504,
+battle_skill_config-371050504,
+battle_skill_config-471050504,
+battle_skill_config-171050505,Stella-블리딩 제인层数判定[*]
+battle_skill_config-271050505,
+battle_skill_config-371050505,
+battle_skill_config-471050505,
+battle_skill_config-171050506,Stella-블리딩 제인层数判定[*]
+battle_skill_config-271050506,
+battle_skill_config-371050506,
+battle_skill_config-471050506,
+battle_skill_config-171050507,Stella-블리딩 제인层数判定[*]
+battle_skill_config-271050507,
+battle_skill_config-371050507,
+battle_skill_config-471050507,
+battle_skill_config-171050508,Stella-블리딩 제인层数判定[*]
+battle_skill_config-271050508,
+battle_skill_config-371050508,
+battle_skill_config-471050508,
+battle_skill_config-171050509,Stella-블리딩 제인层数判定[*]
+battle_skill_config-271050509,
+battle_skill_config-371050509,
+battle_skill_config-471050509,
+battle_skill_config-171050510,Stella-블리딩 제인层数判定[*]
+battle_skill_config-271050510,
+battle_skill_config-371050510,
+battle_skill_config-471050510,
+battle_skill_config-171050601,Stella-Sei冷却缩减
+battle_skill_config-271050601,
+battle_skill_config-371050601,
+battle_skill_config-471050601,
+battle_skill_config-171060101,꿈과 사랑
+battle_skill_config-271060101,본체 20%의 화력을 가진 드론을 2기 소환해 공격한다//c 지속시간 2초.//n선호 음료: 브렌티니의 효과를 받을 시 드론 지속시간이 1초 연장된다.
+battle_skill_config-371060101,드론 화력:20%//c지속시간:2초
+battle_skill_config-471060101,
+battle_skill_config-171060102,꿈과 사랑
+battle_skill_config-271060102,본체 22%의 화력을 가진 드론을 2기 소환해 공격한다//c 지속시간 2.2초.//n선호 음료: 브렌티니의 효과를 받을 시 드론 지속시간이 1초 연장된다.
+battle_skill_config-371060102,드론 화력:22%//c지속시간:2.2초
+battle_skill_config-471060102,
+battle_skill_config-171060103,꿈과 사랑
+battle_skill_config-271060103,본체 24%의 화력을 가진 드론을 2기 소환해 공격한다//c 지속시간 2.4초.//n선호 음료: 브렌티니의 효과를 받을 시 드론 지속시간이 1초 연장된다.
+battle_skill_config-371060103,드론 화력:24%//c지속시간:2.4초
+battle_skill_config-471060103,
+battle_skill_config-171060104,꿈과 사랑
+battle_skill_config-271060104,본체 27%의 화력을 가진 드론을 2기 소환해 공격한다//c 지속시간 2.7초.//n선호 음료: 브렌티니의 효과를 받을 시 드론 지속시간이 1초 연장된다.
+battle_skill_config-371060104,드론 화력:27%//c지속시간:2.7초
+battle_skill_config-471060104,
+battle_skill_config-171060105,꿈과 사랑
+battle_skill_config-271060105,본체 29%의 화력을 가진 드론을 2기 소환해 공격한다//c 지속시간 2.9초.//n선호 음료: 브렌티니의 효과를 받을 시 드론 지속시간이 1초 연장된다.
+battle_skill_config-371060105,드론 화력:29%//c지속시간:2.9초
+battle_skill_config-471060105,
+battle_skill_config-171060106,꿈과 사랑
+battle_skill_config-271060106,본체 31%의 화력을 가진 드론을 2기 소환해 공격한다//c 지속시간 3.1초.//n선호 음료: 브렌티니의 효과를 받을 시 드론 지속시간이 1초 연장된다.
+battle_skill_config-371060106,드론 화력:31%//c지속시간:3.1초
+battle_skill_config-471060106,
+battle_skill_config-171060107,꿈과 사랑
+battle_skill_config-271060107,본체 33%의 화력을 가진 드론을 2기 소환해 공격한다//c 지속시간 3.3초.//n선호 음료: 브렌티니의 효과를 받을 시 드론 지속시간이 1초 연장된다.
+battle_skill_config-371060107,드론 화력:33%//c지속시간:3.3초
+battle_skill_config-471060107,
+battle_skill_config-171060108,꿈과 사랑
+battle_skill_config-271060108,본체 36%의 화력을 가진 드론을 2기 소환해 공격한다//c 지속시간 3.6초.//n선호 음료: 브렌티니의 효과를 받을 시 드론 지속시간이 1초 연장된다.
+battle_skill_config-371060108,드론 화력:36%//c지속시간:3.6초
+battle_skill_config-471060108,
+battle_skill_config-171060109,꿈과 사랑
+battle_skill_config-271060109,본체 38%의 화력을 가진 드론을 2기 소환해 공격한다//c 지속시간 3.8초.//n선호 음료: 브렌티니의 효과를 받을 시 드론 지속시간이 1초 연장된다.
+battle_skill_config-371060109,드론 화력:38%//c지속시간:3.8초
+battle_skill_config-471060109,
+battle_skill_config-171060110,꿈과 사랑
+battle_skill_config-271060110,본체 40%의 화력을 가진 드론을 2기 소환해 공격한다//c 지속시간 4초.//n선호 음료: 브렌티니의 효과를 받을 시 드론 지속시간이 1초 연장된다.
+battle_skill_config-371060110,드론 화력:40%//c지속시간:4초
+battle_skill_config-471060110,
+battle_skill_config-171060201,Alma召唤物[*]
+battle_skill_config-271060201,
+battle_skill_config-371060201,
+battle_skill_config-471060201,
+battle_skill_config-171060301,Alma-브랜티니召唤物[*]
+battle_skill_config-271060301,
+battle_skill_config-371060301,
+battle_skill_config-471060301,
+battle_skill_config-171060401,Alm召唤物普攻
+battle_skill_config-271060401,
+battle_skill_config-371060401,
+battle_skill_config-471060401,
+battle_skill_config-171060501,Alm召唤物自毁屏蔽[*]
+battle_skill_config-271060501,
+battle_skill_config-371060501,
+battle_skill_config-471060501,
+battle_skill_config-171060502,Alm召唤物自毁屏蔽[*]
+battle_skill_config-271060502,
+battle_skill_config-371060502,
+battle_skill_config-471060502,
+battle_skill_config-171060503,Alm召唤物自毁屏蔽[*]
+battle_skill_config-271060503,
+battle_skill_config-371060503,
+battle_skill_config-471060503,
+battle_skill_config-171060504,Alm召唤物自毁屏蔽[*]
+battle_skill_config-271060504,
+battle_skill_config-371060504,
+battle_skill_config-471060504,
+battle_skill_config-171060505,Alm召唤物自毁屏蔽[*]
+battle_skill_config-271060505,
+battle_skill_config-371060505,
+battle_skill_config-471060505,
+battle_skill_config-171060506,Alm召唤物自毁屏蔽[*]
+battle_skill_config-271060506,
+battle_skill_config-371060506,
+battle_skill_config-471060506,
+battle_skill_config-171060507,Alm召唤物自毁屏蔽[*]
+battle_skill_config-271060507,
+battle_skill_config-371060507,
+battle_skill_config-471060507,
+battle_skill_config-171060508,Alm召唤物自毁屏蔽[*]
+battle_skill_config-271060508,
+battle_skill_config-371060508,
+battle_skill_config-471060508,
+battle_skill_config-171060509,Alm召唤物自毁屏蔽[*]
+battle_skill_config-271060509,
+battle_skill_config-371060509,
+battle_skill_config-471060509,
+battle_skill_config-171060510,Alm召唤物自毁屏蔽[*]
+battle_skill_config-271060510,
+battle_skill_config-371060510,
+battle_skill_config-471060510,
+battle_skill_config-171060601,Alm召唤物自毁[*]
+battle_skill_config-271060601,
+battle_skill_config-371060601,
+battle_skill_config-471060601,
+battle_skill_config-171060701,Alm-브랜티니召唤物自毁屏蔽[*]
+battle_skill_config-271060701,
+battle_skill_config-371060701,
+battle_skill_config-471060701,
+battle_skill_config-171060702,Alm-브랜티니召唤物自毁屏蔽[*]
+battle_skill_config-271060702,
+battle_skill_config-371060702,
+battle_skill_config-471060702,
+battle_skill_config-171060703,Alm-브랜티니召唤物自毁屏蔽[*]
+battle_skill_config-271060703,
+battle_skill_config-371060703,
+battle_skill_config-471060703,
+battle_skill_config-171060704,Alm-브랜티니召唤物自毁屏蔽[*]
+battle_skill_config-271060704,
+battle_skill_config-371060704,
+battle_skill_config-471060704,
+battle_skill_config-171060705,Alm-브랜티니召唤物自毁屏蔽[*]
+battle_skill_config-271060705,
+battle_skill_config-371060705,
+battle_skill_config-471060705,
+battle_skill_config-171060706,Alm-브랜티니召唤物自毁屏蔽[*]
+battle_skill_config-271060706,
+battle_skill_config-371060706,
+battle_skill_config-471060706,
+battle_skill_config-171060707,Alm-브랜티니召唤物自毁屏蔽[*]
+battle_skill_config-271060707,
+battle_skill_config-371060707,
+battle_skill_config-471060707,
+battle_skill_config-171060708,Alm-브랜티니召唤物自毁屏蔽[*]
+battle_skill_config-271060708,
+battle_skill_config-371060708,
+battle_skill_config-471060708,
+battle_skill_config-171060709,Alm-브랜티니召唤物自毁屏蔽[*]
+battle_skill_config-271060709,
+battle_skill_config-371060709,
+battle_skill_config-471060709,
+battle_skill_config-171060710,Alm-브랜티니召唤物自毁屏蔽[*]
+battle_skill_config-271060710,
+battle_skill_config-371060710,
+battle_skill_config-471060710,
+battle_skill_config-171060801,alma机枪普攻[*]
+battle_skill_config-271060801,机枪的普通攻击
+battle_skill_config-371060801,
+battle_skill_config-471060801,
+battle_skill_config-171060901,alma技能普攻[*]
+battle_skill_config-271060901,机枪的普通攻击
+battle_skill_config-371060901,
+battle_skill_config-471060901,
+battle_skill_config-171060902,alma技能普攻[*]
+battle_skill_config-271060902,
+battle_skill_config-371060902,
+battle_skill_config-471060902,
+battle_skill_config-171060903,alma技能普攻[*]
+battle_skill_config-271060903,
+battle_skill_config-371060903,
+battle_skill_config-471060903,
+battle_skill_config-171060904,alma技能普攻[*]
+battle_skill_config-271060904,
+battle_skill_config-371060904,
+battle_skill_config-471060904,
+battle_skill_config-171060905,alma技能普攻[*]
+battle_skill_config-271060905,
+battle_skill_config-371060905,
+battle_skill_config-471060905,
+battle_skill_config-171060906,alma技能普攻[*]
+battle_skill_config-271060906,
+battle_skill_config-371060906,
+battle_skill_config-471060906,
+battle_skill_config-171060907,alma技能普攻[*]
+battle_skill_config-271060907,
+battle_skill_config-371060907,
+battle_skill_config-471060907,
+battle_skill_config-171060908,alma技能普攻[*]
+battle_skill_config-271060908,
+battle_skill_config-371060908,
+battle_skill_config-471060908,
+battle_skill_config-171060909,alma技能普攻[*]
+battle_skill_config-271060909,
+battle_skill_config-371060909,
+battle_skill_config-471060909,
+battle_skill_config-171060910,alma技能普攻[*]
+battle_skill_config-271060910,
+battle_skill_config-371060910,
+battle_skill_config-471060910,
+battle_skill_config-190015801,나노 유령
+battle_skill_config-290015801,다음 전투에서 가장 앞에 배치한 인형의 회피가 10% 상승하고 화력이 10% 감소한다. 나머지 인형은 화력이 10% 상승하고 회피가 10% 감소한다//c 지속시간 20초.
+battle_skill_config-390015801,
+battle_skill_config-490015801,
+battle_skill_config-190015802,나노 유령
+battle_skill_config-290015802,다음 전투에서 가장 앞에 배치한 인형의 회피가 12% 상승하고 화력이 11% 감소한다. 나머지 인형은 화력이 11% 상승하고 회피가 12% 감소한다//c 지속시간 20초.
+battle_skill_config-390015802,
+battle_skill_config-490015802,
+battle_skill_config-190015803,나노 유령
+battle_skill_config-290015803,다음 전투에서 가장 앞에 배치한 인형의 회피가 14% 상승하고 화력이 12% 감소한다. 나머지 인형은 화력이 12% 상승하고 회피가 14% 감소한다//c 지속시간 20초.
+battle_skill_config-390015803,
+battle_skill_config-490015803,
+battle_skill_config-190015804,나노 유령
+battle_skill_config-290015804,다음 전투에서 가장 앞에 배치한 인형의 회피가 16% 상승하고 화력이 13% 감소한다. 나머지 인형은 화력이 13% 상승하고 회피가 16% 감소한다//c 지속시간 20초.
+battle_skill_config-390015804,
+battle_skill_config-490015804,
+battle_skill_config-190015805,나노 유령
+battle_skill_config-290015805,다음 전투에서 가장 앞에 배치한 인형의 회피가 18% 상승하고 화력이 14% 감소한다. 나머지 인형은 화력이 14% 상승하고 회피가 18% 감소한다//c 지속시간 20초.
+battle_skill_config-390015805,
+battle_skill_config-490015805,
+battle_skill_config-190015806,나노 유령
+battle_skill_config-290015806,다음 전투에서 가장 앞에 배치한 인형의 회피가 20% 상승하고 화력이 16% 감소한다. 나머지 인형은 화력이 16% 상승하고 회피가 20% 감소한다//c 지속시간 20초.
+battle_skill_config-390015806,
+battle_skill_config-490015806,
+battle_skill_config-190015807,나노 유령
+battle_skill_config-290015807,다음 전투에서 가장 앞에 배치한 인형의 회피가 22% 상승하고 화력이 17% 감소한다. 나머지 인형은 화력이 17% 상승하고 회피가 22% 감소한다//c 지속시간 20초.
+battle_skill_config-390015807,
+battle_skill_config-490015807,
+battle_skill_config-190015808,나노 유령
+battle_skill_config-290015808,다음 전투에서 가장 앞에 배치한 인형의 회피가 24% 상승하고 화력이 18% 감소한다. 나머지 인형은 화력이 18% 상승하고 회피가 24% 감소한다//c 지속시간 20초.
+battle_skill_config-390015808,
+battle_skill_config-490015808,
+battle_skill_config-190015809,나노 유령
+battle_skill_config-290015809,다음 전투에서 가장 앞에 배치한 인형의 회피가 27% 상승하고 화력이 19% 감소한다. 나머지 인형은 화력이 19% 상승하고 회피가 27% 감소한다//c 지속시간 20초.
+battle_skill_config-390015809,
+battle_skill_config-490015809,
+battle_skill_config-190015810,나노 유령
+battle_skill_config-290015810,다음 전투에서 가장 앞에 배치한 인형의 회피가 30% 상승하고 화력이 20% 감소한다. 나머지 인형은 화력이 20% 상승하고 회피가 30% 감소한다//c 지속시간 20초.
+battle_skill_config-390015810,
+battle_skill_config-490015810,
+battle_skill_config-171090201,Anna前排效果[*]
+battle_skill_config-271090201,
+battle_skill_config-371090201,
+battle_skill_config-471090201,
+battle_skill_config-171090301,Anna前排效果[*]
+battle_skill_config-271090301,
+battle_skill_config-371090301,
+battle_skill_config-471090301,
+battle_skill_config-171090401,Anna前排效果[*]
+battle_skill_config-271090401,
+battle_skill_config-371090401,
+battle_skill_config-471090401,
+battle_skill_config-171090501,Anna前排效果[*]
+battle_skill_config-271090501,
+battle_skill_config-371090501,
+battle_skill_config-471090501,
+battle_skill_config-171090601,Anna前排效果[*]
+battle_skill_config-271090601,
+battle_skill_config-371090601,
+battle_skill_config-471090601,
+battle_skill_config-171090701,Anna前排效果[*]
+battle_skill_config-271090701,
+battle_skill_config-371090701,
+battle_skill_config-471090701,
+battle_skill_config-171090801,Anna前排效果[*]
+battle_skill_config-271090801,
+battle_skill_config-371090801,
+battle_skill_config-471090801,
+battle_skill_config-171090901,Anna前排效果[*]
+battle_skill_config-271090901,
+battle_skill_config-371090901,
+battle_skill_config-471090901,
+battle_skill_config-171091001,Anna前排效果[*]
+battle_skill_config-271091001,
+battle_skill_config-371091001,
+battle_skill_config-471091001,
+battle_skill_config-171091101,Anna前排效果[*]
+battle_skill_config-271091101,
+battle_skill_config-371091101,
+battle_skill_config-471091101,
+battle_skill_config-171091201,Anna其余效果[*]
+battle_skill_config-271091201,
+battle_skill_config-371091201,
+battle_skill_config-471091201,
+battle_skill_config-171091301,Anna其余效果[*]
+battle_skill_config-271091301,
+battle_skill_config-371091301,
+battle_skill_config-471091301,
+battle_skill_config-171091401,Anna其余效果[*]
+battle_skill_config-271091401,
+battle_skill_config-371091401,
+battle_skill_config-471091401,
+battle_skill_config-171091501,Anna其余效果[*]
+battle_skill_config-271091501,
+battle_skill_config-371091501,
+battle_skill_config-471091501,
+battle_skill_config-171091601,Anna其余效果[*]
+battle_skill_config-271091601,
+battle_skill_config-371091601,
+battle_skill_config-471091601,
+battle_skill_config-171091701,Anna其余效果[*]
+battle_skill_config-271091701,
+battle_skill_config-371091701,
+battle_skill_config-471091701,
+battle_skill_config-171091801,Anna其余效果[*]
+battle_skill_config-271091801,
+battle_skill_config-371091801,
+battle_skill_config-471091801,
+battle_skill_config-171091901,Anna其余效果[*]
+battle_skill_config-271091901,
+battle_skill_config-371091901,
+battle_skill_config-471091901,
+battle_skill_config-171092001,Anna其余效果[*]
+battle_skill_config-271092001,
+battle_skill_config-371092001,
+battle_skill_config-471092001,
+battle_skill_config-171092101,Anna其余效果[*]
+battle_skill_config-271092101,
+battle_skill_config-371092101,
+battle_skill_config-471092101,
+battle_skill_config-171092201,Anna判定自毁[*]
+battle_skill_config-271092201,
+battle_skill_config-371092201,
+battle_skill_config-471092201,
+battle_skill_config-171100101,酗酒的龙骑普攻[*]
+battle_skill_config-271100101,敌方龙骑普攻
+battle_skill_config-371100101,
+battle_skill_config-471100101,
+battle_skill_config-171100201,酗酒的피아노 우먼[*]
+battle_skill_config-271100201,
+battle_skill_config-371100201,
+battle_skill_config-471100201,
+battle_skill_config-171100301,酗酒的Beer[*]
+battle_skill_config-271100301,
+battle_skill_config-371100301,
+battle_skill_config-471100301,
+battle_skill_config-171100401,酗酒的브랜티니[*]
+battle_skill_config-271100401,
+battle_skill_config-371100401,
+battle_skill_config-471100401,
+battle_skill_config-171100501,酗酒的문블라스트[*]
+battle_skill_config-271100501,
+battle_skill_config-371100501,
+battle_skill_config-471100501,
+battle_skill_config-171100601,酗酒的블리딩 제인[*]
+battle_skill_config-271100601,
+battle_skill_config-371100601,
+battle_skill_config-471100601,
+battle_skill_config-171110101,酗酒的白色重型兵榴弹普攻[*]
+battle_skill_config-271110101,
+battle_skill_config-371110101,
+battle_skill_config-471110101,
+battle_skill_config-171110201,酗酒的白色重型兵技能[*]
+battle_skill_config-271110201,
+battle_skill_config-371110201,
+battle_skill_config-471110201,
+battle_skill_config-171110301,酗酒的高达프린지 위버[*]
+battle_skill_config-271110301,
+battle_skill_config-371110301,
+battle_skill_config-471110301,
+battle_skill_config-171070101,DanaBOSS醉酒值
+battle_skill_config-271070101,
+battle_skill_config-371070101,
+battle_skill_config-471070101,
+battle_skill_config-171070201,DanaBOSS击败[*]
+battle_skill_config-271070201,
+battle_skill_config-371070201,
+battle_skill_config-471070201,
+battle_skill_config-171070301,DanaBOSS技能
+battle_skill_config-271070301,
+battle_skill_config-371070301,
+battle_skill_config-471070301,
+battle_skill_config-171070401,DanaBOSS普攻[*]
+battle_skill_config-271070401,霰弹枪的普通攻击
+battle_skill_config-371070401,
+battle_skill_config-471070401,
+battle_skill_config-171070501,DanaBOSS醉酒值转换
+battle_skill_config-271070501,
+battle_skill_config-371070501,
+battle_skill_config-471070501,
+battle_skill_config-171070601,DanaBOSS开场
+battle_skill_config-271070601,
+battle_skill_config-371070601,
+battle_skill_config-471070601,
+battle_skill_config-171070701,DanaBOSS醉酒值转换2
+battle_skill_config-271070701,
+battle_skill_config-371070701,
+battle_skill_config-471070701,
+battle_skill_config-171070801,计数测试[*]
+battle_skill_config-271070801,
+battle_skill_config-371070801,
+battle_skill_config-471070801,
+battle_skill_config-171070901,计数基准OblivioN[*]
+battle_skill_config-271070901,
+battle_skill_config-371070901,
+battle_skill_config-471070901,
+battle_skill_config-171071001,个位数1[*]
+battle_skill_config-271071001,
+battle_skill_config-371071001,
+battle_skill_config-471071001,
+battle_skill_config-171071101,个位数2[*]
+battle_skill_config-271071101,
+battle_skill_config-371071101,
+battle_skill_config-471071101,
+battle_skill_config-171071201,个位数3[*]
+battle_skill_config-271071201,
+battle_skill_config-371071201,
+battle_skill_config-471071201,
+battle_skill_config-171071301,个位数4[*]
+battle_skill_config-271071301,
+battle_skill_config-371071301,
+battle_skill_config-471071301,
+battle_skill_config-171071401,个位数5[*]
+battle_skill_config-271071401,
+battle_skill_config-371071401,
+battle_skill_config-471071401,
+battle_skill_config-171071501,个位数6[*]
+battle_skill_config-271071501,
+battle_skill_config-371071501,
+battle_skill_config-471071501,
+battle_skill_config-171071601,个位数7[*]
+battle_skill_config-271071601,
+battle_skill_config-371071601,
+battle_skill_config-471071601,
+battle_skill_config-171071701,个位数8[*]
+battle_skill_config-271071701,
+battle_skill_config-371071701,
+battle_skill_config-471071701,
+battle_skill_config-171071801,个位数9[*]
+battle_skill_config-271071801,
+battle_skill_config-371071801,
+battle_skill_config-471071801,
+battle_skill_config-171071901,个位数0[*]
+battle_skill_config-271071901,
+battle_skill_config-371071901,
+battle_skill_config-471071901,
+battle_skill_config-171072001,十位数1[*]
+battle_skill_config-271072001,
+battle_skill_config-371072001,
+battle_skill_config-471072001,
+battle_skill_config-171072101,十位数2[*]
+battle_skill_config-271072101,
+battle_skill_config-371072101,
+battle_skill_config-471072101,
+battle_skill_config-171072201,十位数3[*]
+battle_skill_config-271072201,
+battle_skill_config-371072201,
+battle_skill_config-471072201,
+battle_skill_config-171072301,十位数4[*]
+battle_skill_config-271072301,
+battle_skill_config-371072301,
+battle_skill_config-471072301,
+battle_skill_config-171072401,十位数5[*]
+battle_skill_config-271072401,
+battle_skill_config-371072401,
+battle_skill_config-471072401,
+battle_skill_config-171072501,十位数6[*]
+battle_skill_config-271072501,
+battle_skill_config-371072501,
+battle_skill_config-471072501,
+battle_skill_config-171072601,十位数7[*]
+battle_skill_config-271072601,
+battle_skill_config-371072601,
+battle_skill_config-471072601,
+battle_skill_config-171072701,十位数8[*]
+battle_skill_config-271072701,
+battle_skill_config-371072701,
+battle_skill_config-471072701,
+battle_skill_config-171072801,十位数9[*]
+battle_skill_config-271072801,
+battle_skill_config-371072801,
+battle_skill_config-471072801,
+battle_skill_config-171072901,十位数0[*]
+battle_skill_config-271072901,
+battle_skill_config-371072901,
+battle_skill_config-471072901,
+battle_skill_config-171073001,联动bossBGM
+battle_skill_config-271073001,
+battle_skill_config-371073001,
+battle_skill_config-471073001,
+battle_skill_config-171073101,Dana召唤
+battle_skill_config-271073101,
+battle_skill_config-371073101,
+battle_skill_config-471073101,
+battle_skill_config-171080101,杰里科瓦尔哈拉-回避
+battle_skill_config-271080101,冬活优势人形
+battle_skill_config-371080101,
+battle_skill_config-471080101,
+battle_skill_config-171080201,MP5瓦尔哈拉-回避
+battle_skill_config-271080201,冬活优势人形
+battle_skill_config-371080201,
+battle_skill_config-471080201,
+battle_skill_config-171080301,Super-Shorty瓦尔哈拉-护甲
+battle_skill_config-271080301,冬活优势人形
+battle_skill_config-371080301,
+battle_skill_config-471080301,
+battle_skill_config-171080401,G28瓦尔哈拉-伤害
+battle_skill_config-271080401,冬活优势人形
+battle_skill_config-371080401,
+battle_skill_config-471080401,
+battle_skill_config-171080501,MP-446瓦尔哈拉-回避
+battle_skill_config-271080501,冬活优势人形
+battle_skill_config-371080501,
+battle_skill_config-471080501,
+battle_skill_config-171080601,IDW瓦尔哈拉-回避
+battle_skill_config-271080601,冬活优势人形
+battle_skill_config-371080601,
+battle_skill_config-471080601,
+battle_skill_config-171080701,WA2000瓦尔哈拉-伤害
+battle_skill_config-271080701,冬活优势人形
+battle_skill_config-371080701,
+battle_skill_config-471080701,
+battle_skill_config-171080801,史黛拉瓦尔哈拉-伤害
+battle_skill_config-271080801,冬活优势人形
+battle_skill_config-371080801,
+battle_skill_config-471080801,
+battle_skill_config-171080901,达娜瓦尔哈拉-护甲
+battle_skill_config-271080901,冬活优势人形
+battle_skill_config-371080901,
+battle_skill_config-471080901,
+battle_skill_config-171081001,多萝西瓦尔哈拉-回避
+battle_skill_config-271081001,冬活优势人形
+battle_skill_config-371081001,
+battle_skill_config-471081001,
+battle_skill_config-171081101,阿尔玛瓦尔哈拉-伤害
+battle_skill_config-271081101,冬活优势人形
+battle_skill_config-371081101,
+battle_skill_config-471081101,
+battle_skill_config-171081201,塞伊瓦尔哈拉-回避
+battle_skill_config-271081201,冬活优势人形
+battle_skill_config-371081201,
+battle_skill_config-471081201,
+battle_skill_config-171081301,吉尔瓦尔哈拉-回避
+battle_skill_config-271081301,冬活优势人形
+battle_skill_config-371081301,
+battle_skill_config-471081301,
