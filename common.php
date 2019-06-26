@@ -955,6 +955,9 @@ function getcharimgdir($str, $emo) {
 					case 2: $result = "story_character/pic_jill_talk"; break;
 					case 3: $result = "story_character/pic_jill_smile"; break;
 					case 4: $result = "story_character/pic_jill_shy"; break;
+					case 5: $result = "dolls/" . $result . "_1"; break;
+					case 6: $result = "dolls/" . $result . "_1_D"; break;
+				
         }
 			}
 			else {
@@ -1347,6 +1350,21 @@ function getcharimgdir($str, $emo) {
 	else if($str == "Jillmagic") {
 		switch($emo) {
 			case 0: return "dolls/1017_1"; break;
+		}
+	}
+	else if($str == "G36bar") {
+		switch($emo) {
+			case 0: return "dolls/64_2"; break;
+		}
+	}
+	else if($str == "G36little") {
+		switch($emo) {
+			case 0: return "dolls/64_1"; break;
+		}
+	}
+	else if($str == "M1903bar") {
+		switch($emo) {
+			case 0: return "story_character/m1903_bartender"; break;
 		}
 	}
 	
