@@ -182,3 +182,13 @@ BG-Mullet
 BG-Monument
 BG-Guildhall
 fullwhite
+va11_cg1
+va11_cg2
+va11_BAR
+Desert
+va11_cg3
+va11_cg4
+va11_cg3_1
+va11_cg3_2
+va11_end
+va11_end_1

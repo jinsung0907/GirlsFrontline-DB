@@ -334,27 +334,27 @@ story_util-10000168,IWS 2000 report: It was a trap! Sangvis Ferri tricked us wit
 story_util-20000168,Eagle and Jackdaw III
 story_util-10000169,IWS 2000 report: If the sacrifice of my life alone can stop an atrocity//c then isn't that a worthwhile exchange?
 story_util-20000169,Eagle and Jackdaw IV
-story_util-10000170,
-story_util-20000170,
-story_util-10000171,
-story_util-20000171,
-story_util-10000172,
-story_util-20000172,
-story_util-10000173,
-story_util-20000173,
-story_util-10000174,
-story_util-20000174,
-story_util-10000175,
-story_util-20000175,
-story_util-10000176,
-story_util-20000176,
-story_util-10000177,
-story_util-20000177,
-story_util-10000178,
-story_util-20000178,
-story_util-10000179,
-story_util-20000179,
-story_util-10000192,
+story_util-10000170,Just a few months ago//c I would never have thought I'd be here//c facing circumstances such as these... 
+story_util-20000170,Torrent Breaker
+story_util-10000171,To find our target informant//c we have come to this unfamiliar city and commenced a low-profile hacking operation.
+story_util-20000171,Electronic Eye
+story_util-10000172,While we were trawling through the records//c a civilian Doll dressed as a maid caught our eye. In fact//c not just ours...
+story_util-20000172,Silent Pursuit
+story_util-10000173,We're running out of time! Her neural cloud is about to... This is our last hope! We mustn't -
+story_util-20000173,Prior to Destruction
+story_util-10000174,Following instructions//c we arrived at our destination - the hiding place of our informant. I hope we aren't too late//c but things aren't looking good...
+story_util-20000174,House in the Street
+story_util-10000175,After extensive investigation//c we have confirmed that the informant has been brought...underground. That will be where this mission ends.
+story_util-20000175,Underworld
+story_util-10000176,To find out Ange's whereabouts//c the Commander has led us to the train station. We'll be taking the train bound for Belgrade//c where we are to find the only person with this information.
+story_util-20000176,Strange Journey
+story_util-10000177,We have confirmed the informant's location. All that's left is to seize the outpost and rescue our target. But first//c we must prepare.
+story_util-20000177,Plan of Attack
+story_util-10000178,The preparation is complete. A huge commotion has been created so that we can take over the control room. Now let's finally storm this outpost in the sewers!
+story_util-20000178,Fishing in Troubled Waters
+story_util-10000179,Just a few months ago//c I would never have thought I'd be here//c facing circumstances such as these//c with our faith...placed entirely on...
+story_util-20000179,Great Escape
+story_util-10000192,Though the AR Team survived the crisis//c Persica has made a final request - to capture a Jupiter mortar. Defend against the Sangvis onslaught while the mission is underway!
 story_util-20000192,Down the Rabbit Hole
 story_util-10000193,
 story_util-20000193,T-Doll Annihilation
@@ -364,7 +364,7 @@ story_util-10000195,
 story_util-20000195,Hunting Game
 story_util-10000196,
 story_util-20000196,Operation Rabbit Hunt
-story_util-10000197,
+story_util-10000197,According to Helian's broadcast//c Griffin forces are in grave danger on the battlefield. UMP45 has decided to help with the retreat - for a price//c of course...
 story_util-20000197,Imaginary Maze
 story_util-10000198,
 story_util-20000198,Imminent Collapse
@@ -382,9 +382,9 @@ story_util-10000204,
 story_util-20000204,Resentment
 story_util-10000205,
 story_util-20000205,I Only Hope That One Day…
-story_util-10000206,
+story_util-10000206,"I have no eyes for this. All Griffin forces are retreating. Leaving her here would only mean certain death for her. What do you think...?"
 story_util-20000206,Starting Point
-story_util-10000207,
+story_util-10000207,"Where...exactly am I...?"
 story_util-20000207,Splinter Point
 story_util-10000208,
 story_util-20000208,Exhaust I

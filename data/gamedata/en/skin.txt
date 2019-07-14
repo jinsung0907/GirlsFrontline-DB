@@ -412,6 +412,15 @@ skin-30005018,Original Costume
 skin-10005019,LWMMG - Original
 skin-20005019,Original Costume
 skin-30005019,Original Costume
+skin-10005020,
+skin-20005020,
+skin-30005020,
+skin-10005021,
+skin-20005021,
+skin-30005021,
+skin-10005022,
+skin-20005022,
+skin-30005022,
 skin-10001701,Rabbit Squad
 skin-20001701,Hehe~ Commander//c wanna know my phone number? You'd better call me a lot~
 skin-30001701,
@@ -491,7 +500,7 @@ skin-10000510,Pocket City Queen the Third
 skin-20000510,Is it the next song already? ...Ah! This is...hehe~ This one is my best song~
 skin-30000510,
 skin-10002101,Highest Bid
-skin-20002101,Cherish our encounter tonight. This fine wine will certainly leave you with a memorable taste//c hehe…
+skin-20002101,Cherish our encounter tonight. This fine wine will certainly leave you with a memorable taste//c hehe...
 skin-30002101,Women with secrets are the most feminine... Will you satisfy the curiosity in your heart//c or will you protect yourself from the truth?
 skin-10002102,Starry Night Ball
 skin-20002102,Commander//c would you like to have a dance with me on the stage? No skills needed as long as you're enthusiastic.
@@ -550,38 +559,38 @@ skin-30002304,Ahaha... Big sis Gr G36//c sorry! Give me another chance! Didn't I
 skin-10002305,Contracted Today
 skin-20002305,There's no end to sorting out these documents. I should've known that maids don't get vacations…
 skin-30002305,When will the vacation promised by the Commander be approved? Ah... I'm so tired...
-skin-10002401,
-skin-20002401,
-skin-30002401,
-skin-10002402,
-skin-20002402,
-skin-30002402,
-skin-10002403,
-skin-20002403,
-skin-30002403,
-skin-10002404,
-skin-20002404,
-skin-30002404,
-skin-10002405,
-skin-20002405,
-skin-30002405,
-skin-10002406,
-skin-20002406,
-skin-30002406,
-skin-10002407,
-skin-20002407,
-skin-30002407,
-skin-10002408,
-skin-20002408,
-skin-30002408,
-skin-10002409,
-skin-20002409,
-skin-30002409,
-skin-10002410,
-skin-20002410,
-skin-30002410,
-skin-10002501,
-skin-20002501,
+skin-10002401,Beach Punk 2064
+skin-20002401,Oh//c a water fight...? But my ears will get wet...and so will my clothes...
+skin-30002401,The beach is so much fun! And so is the sea! I don't know what that black board is for//c but volleyball is also hella fun!
+skin-10002402,Age of Slushies
+skin-20002402,Quiet things aren't really worth one's attention. Will you be the one who stirs up howling winds and devastating waves in the ocean//c Commander?
+skin-30002402,Reflexive pain towards iced sustenance is indeed a flaw. Guess I'll take a trip to the Repair Bay when I'm off-duty.
+skin-10002403,The Sun Never Rises
+skin-20002403,I hate the sun... But I hate myself even more for going to the beach even though I hate the sun...
+skin-30002403,Nothing good comes out of eating too much candy...but nothing good comes out of not eating any either after such serious talk. Crap. Gotta top up my sugar intake...
+skin-10002404,The Diving Bell and the Doll
+skin-20002404,Suit-up complete. Whatever needs to come up from underwater or remain buried there forever is entirely at your discretion.
+skin-30002404,Everything is stationary under the sea//c and that is exactly how it feels when AK-12 asks me to "relax"... Not that I hate it.
+skin-10002405,Candy Ammo
+skin-20002405,Hey "Feeder"//c what's that face you're giving me...? Isn't it okay...to start learning how to swim when I'm actually in the water?
+skin-30002405,Can't believe there are others who love sour candy. Perhaps we can have a longer chat...? You should really take a leaf out of her book//c "Feeder".
+skin-10002406,FAL's Summer
+skin-20002406,It's hurtful that you brought up Five-seven at a time like this. Now//c tell me what you think about "red"? ...Hmm? Anything else you'd like to say?
+skin-30002406,Heheh//c this water pistol is a symbol of "peace" and has even got me a "hug" from the Commander! Guess I'll keep the label...as a precious memento of this summer.
+skin-10002407,50 Days with Gr G36
+skin-20002407,Would you like some slushie//c fruit//c or cold drinks? Whichever you choose//c please take care not to get heatstroke in this weather.
+skin-30002407,Hmm... Not only did I faint//c I'd also caused trouble for everyone... I must improve on my cooling strategy next time.
+skin-10002408,Midsummer Fruit
+skin-20002408,We're at the seaside//c so a surfing board modified from a shield should come in useful//c right? Watermelon...? But it's summer!
+skin-30002408,Modifying an old object into a surfing board WAS challenging//c but now it's only useful in summer...
+skin-10002409,Ameli's Receive
+skin-20002409,Really...?! You wanna play volleyball with me? I've done my homework this time!
+skin-30002409,Something good will certainly happen with enough patience//c right? I-I managed to pop some buttons today too!
+skin-10002410,Apprentice Witch
+skin-20002410,What you're about to see is an exclusive summer freebie. No photography or recording!
+skin-30002410,Perhaps what I saw wasn't a sea monster//c but the guardian of the sea? The concert must've gone so smoothly thanks to His blessings!
+skin-10002501,Plague Knight
+skin-20002501,Sometimes you don't have to understand the lyrics. Rock is the kind of music that's all about "watching". My performance will enlighten you.
 skin-30002501,
 skin-10002502,
 skin-20002502,
@@ -739,3 +748,30 @@ skin-30003204,
 skin-10003205,
 skin-20003205,
 skin-30003205,
+skin-10003301,
+skin-20003301,
+skin-30003301,
+skin-10003302,
+skin-20003302,
+skin-30003302,
+skin-10003303,
+skin-20003303,
+skin-30003303,
+skin-10003304,
+skin-20003304,
+skin-30003304,
+skin-10003305,
+skin-20003305,
+skin-30003305,
+skin-10003306,
+skin-20003306,
+skin-30003306,
+skin-10003307,
+skin-20003307,
+skin-30003307,
+skin-10003308,
+skin-20003308,
+skin-30003308,
+skin-10003309,
+skin-20003309,
+skin-30003309,

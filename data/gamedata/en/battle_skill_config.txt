@@ -18190,45 +18190,45 @@ battle_skill_config-111005910,
 battle_skill_config-211005910,
 battle_skill_config-311005910,
 battle_skill_config-411005910,
-battle_skill_config-111006201,
-battle_skill_config-211006201,
-battle_skill_config-311006201,
+battle_skill_config-111006201,Arrogance
+battle_skill_config-211006201,Mark current target for 5 seconds. After aiming for 1.5 second//c shoot the marked target for 2.8x damage. If the target dies while marked//c increase rate of fire by 15% for 5 seconds.
+battle_skill_config-311006201,Cooldown: 20s//cDamage Multiplier: 2.8x//cRate of Fire Increase: 15%
 battle_skill_config-411006201,
-battle_skill_config-111006202,
-battle_skill_config-211006202,
-battle_skill_config-311006202,
+battle_skill_config-111006202,Arrogance
+battle_skill_config-211006202,Mark current target for 5 seconds. After aiming for 1.5 second//c shoot the marked target for 3.1x damage. If the target dies while marked//c increase rate of fire by 16% for 5 seconds.
+battle_skill_config-311006202,Cooldown: 19.6s//cDamage Multiplier: 3.1x//cRate of Fire Increase: 16%
 battle_skill_config-411006202,
-battle_skill_config-111006203,
-battle_skill_config-211006203,
-battle_skill_config-311006203,
+battle_skill_config-111006203,Arrogance
+battle_skill_config-211006203,Mark current target for 5 seconds. After aiming for 1.5 second//c shoot the marked target for 3.4x damage. If the target dies while marked//c increase rate of fire by 17% for 5 seconds.
+battle_skill_config-311006203,Cooldown: 19.1s//cDamage Multiplier: 3.4x//cRate of Fire Increase: 17%
 battle_skill_config-411006203,
-battle_skill_config-111006204,
-battle_skill_config-211006204,
-battle_skill_config-311006204,
+battle_skill_config-111006204,Arrogance
+battle_skill_config-211006204,Mark current target for 5 seconds. After aiming for 1.5 second//c shoot the marked target for 3.7x damage. If the target dies while marked//c increase rate of fire by 18% for 5 seconds.
+battle_skill_config-311006204,Cooldown: 18.7s//cDamage Multiplier: 3.7x//cRate of Fire Increase: 18%
 battle_skill_config-411006204,
-battle_skill_config-111006205,
-battle_skill_config-211006205,
-battle_skill_config-311006205,
+battle_skill_config-111006205,Arrogance
+battle_skill_config-211006205,Mark current target for 5 seconds. After aiming for 1.5 second//c shoot the marked target for 4x damage. If the target dies while marked//c increase rate of fire by 19% for 5 seconds.
+battle_skill_config-311006205,Cooldown: 18.2s//cDamage Multiplier: 4x//cRate of Fire Increase: 19%
 battle_skill_config-411006205,
-battle_skill_config-111006206,
-battle_skill_config-211006206,
-battle_skill_config-311006206,
+battle_skill_config-111006206,Arrogance
+battle_skill_config-211006206,Mark current target for 5 seconds. After aiming for 1.5 second//c shoot the marked target for 4.3x damage. If the target dies while marked//c increase rate of fire by 21% for 5 seconds.
+battle_skill_config-311006206,Cooldown: 17.8s//cDamage Multiplier: 4.3x//cRate of Fire Increase: 21%
 battle_skill_config-411006206,
-battle_skill_config-111006207,
-battle_skill_config-211006207,
-battle_skill_config-311006207,
+battle_skill_config-111006207,Arrogance
+battle_skill_config-211006207,Mark current target for 5 seconds. After aiming for 1.5 second//c shoot the marked target for 4.6x damage. If the target dies while marked//c increase rate of fire by 22% for 5 seconds.
+battle_skill_config-311006207,Cooldown: 17.3s//cDamage Multiplier: 4.6x//cRate of Fire Increase: 22%
 battle_skill_config-411006207,
-battle_skill_config-111006208,
-battle_skill_config-211006208,
-battle_skill_config-311006208,
+battle_skill_config-111006208,Arrogance
+battle_skill_config-211006208,Mark current target for 5 seconds. After aiming for 1.5 second//c shoot the marked target for 4.9x damage. If the target dies while marked//c increase rate of fire by 23% for 5 seconds.
+battle_skill_config-311006208,Cooldown: 16.9s//cDamage Multiplier: 4.9x//cRate of Fire Increase: 23%
 battle_skill_config-411006208,
-battle_skill_config-111006209,
-battle_skill_config-211006209,
-battle_skill_config-311006209,
+battle_skill_config-111006209,Arrogance
+battle_skill_config-211006209,Mark current target for 5 seconds. After aiming for 1.5 second//c shoot the marked target for 5.2x damage. If the target dies while marked//c increase rate of fire by 24% for 5 seconds.
+battle_skill_config-311006209,Cooldown: 16.4s//cDamage Multiplier: 5.2x//cRate of Fire Increase: 24%
 battle_skill_config-411006209,
-battle_skill_config-111006210,
-battle_skill_config-211006210,
-battle_skill_config-311006210,
+battle_skill_config-111006210,Arrogance
+battle_skill_config-211006210,Mark current target for 5 seconds. After aiming for 1.5 second//c shoot the marked target for 5.5x damage. If the target dies while marked//c increase rate of fire by 25% for 5 seconds.
+battle_skill_config-311006210,Cooldown: 16s//cDamage Multiplier: 5.5x//cRate of Fire Increase: 25%
 battle_skill_config-411006210,
 battle_skill_config-111006301,FN SPR判定普攻[*]
 battle_skill_config-211006301,
@@ -18318,45 +18318,45 @@ battle_skill_config-111006610,
 battle_skill_config-211006610,
 battle_skill_config-311006610,Cooldown: 12s//cCritical Rate Increase: 20%//cRate of Fire Increase: 20%//cDuration: 8s
 battle_skill_config-411006610,
-battle_skill_config-111006701,
-battle_skill_config-211006701,
+battle_skill_config-111006701,Terror Grenade
+battle_skill_config-211006701,Launch grenades based on the number of Dummies that deal 2x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3 seconds. Further grenade hits on marked enemies deal an additional 2x damage.
 battle_skill_config-311006701,Cooldown: 20s//cDamage Multiplier: 2x
 battle_skill_config-411006701,
-battle_skill_config-111006702,
-battle_skill_config-211006702,
+battle_skill_config-111006702,Terror Grenade
+battle_skill_config-211006702,Launch grenades based on the number of Dummies that deal 2.2x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3 seconds. Further grenade hits on marked enemies deal an additional 2x damage.
 battle_skill_config-311006702,Cooldown: 19.6s//cDamage Multiplier: 2.2x
 battle_skill_config-411006702,
-battle_skill_config-111006703,
-battle_skill_config-211006703,
-battle_skill_config-311006703,Cooldown: 19.1s//cDamage Multiplier: 2.9x
+battle_skill_config-111006703,Terror Grenade
+battle_skill_config-211006703,Launch grenades based on the number of Dummies that deal 2.4x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3 seconds. Further grenade hits on marked enemies deal an additional 2x damage.
+battle_skill_config-311006703,Cooldown: 19.1s//cDamage Multiplier: 2.4x
 battle_skill_config-411006703,
-battle_skill_config-111006704,
-battle_skill_config-211006704,
-battle_skill_config-311006704,Cooldown: 19.6s//cDamage Multiplier: 2.7x
+battle_skill_config-111006704,Terror Grenade
+battle_skill_config-211006704,Launch grenades based on the number of Dummies that deal 2.7x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3 seconds. Further grenade hits on marked enemies deal an additional 2x damage.
+battle_skill_config-311006704,Cooldown: 18.7s//cDamage Multiplier: 2.7x
 battle_skill_config-411006704,
-battle_skill_config-111006705,
-battle_skill_config-211006705,
-battle_skill_config-311006705,Cooldown: 19.1s//cDamage Multiplier: 2.9x
+battle_skill_config-111006705,Terror Grenade
+battle_skill_config-211006705,Launch grenades based on the number of Dummies that deal 2.9x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3 seconds. Further grenade hits on marked enemies deal an additional 2x damage.
+battle_skill_config-311006705,Cooldown: 18.2s//cDamage Multiplier: 2.9x
 battle_skill_config-411006705,
-battle_skill_config-111006706,
-battle_skill_config-211006706,
-battle_skill_config-311006706,Cooldown: 17.8s//cDamage Multiplier: 3.9x
+battle_skill_config-111006706,Terror Grenade
+battle_skill_config-211006706,Launch grenades based on the number of Dummies that deal 3.1x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3 seconds. Further grenade hits on marked enemies deal an additional 2x damage.
+battle_skill_config-311006706,Cooldown: 17.8s//cDamage Multiplier: 3.1x
 battle_skill_config-411006706,
-battle_skill_config-111006707,
-battle_skill_config-211006707,
-battle_skill_config-311006707,Cooldown: 17.3s//cDamage Multiplier: 4.3x
+battle_skill_config-111006707,Terror Grenade
+battle_skill_config-211006707,Launch grenades based on the number of Dummies that deal 3.3x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3 seconds. Further grenade hits on marked enemies deal an additional 2x damage.
+battle_skill_config-311006707,Cooldown: 17.3s//cDamage Multiplier: 3.3x
 battle_skill_config-411006707,
-battle_skill_config-111006708,
-battle_skill_config-211006708,
-battle_skill_config-311006708,Cooldown: 16.9s//cDamage Multiplier: 9.6x
+battle_skill_config-111006708,Terror Grenade
+battle_skill_config-211006708,Launch grenades based on the number of Dummies that deal 3.6x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3 seconds. Further grenade hits on marked enemies deal an additional 2x damage.
+battle_skill_config-311006708,Cooldown: 16.9s//cDamage Multiplier: 3.6x
 battle_skill_config-411006708,
-battle_skill_config-111006709,
-battle_skill_config-211006709,
-battle_skill_config-311006709,Cooldown: 18.2s//cDamage Multiplier: 3.8x
+battle_skill_config-111006709,Terror Grenade
+battle_skill_config-211006709,Launch grenades based on the number of Dummies that deal 3.8x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3 seconds. Further grenade hits on marked enemies deal an additional 2x damage.
+battle_skill_config-311006709,Cooldown: 16.4s//cDamage Multiplier: 3.8x
 battle_skill_config-411006709,
-battle_skill_config-111006710,
-battle_skill_config-211006710,
-battle_skill_config-311006710,Cooldown: 16s//cDamage Multiplier: 6x
+battle_skill_config-111006710,Terror Grenade
+battle_skill_config-211006710,Launch grenades based on the number of Dummies that deal 4x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3 seconds. Further grenade hits on marked enemies deal an additional 2x damage.
+battle_skill_config-311006710,Cooldown: 16s//cDamage Multiplier: 4x
 battle_skill_config-411006710,
 battle_skill_config-111006801,K11编制统计[*]
 battle_skill_config-211006801,
@@ -18364,43 +18364,43 @@ battle_skill_config-311006801,
 battle_skill_config-411006801,
 battle_skill_config-111006901,K11第一发榴弹
 battle_skill_config-211006901,
-battle_skill_config-311006901,冷却时间:20秒//c伤害倍率:5倍
+battle_skill_config-311006901,
 battle_skill_config-411006901,
 battle_skill_config-111006902,K11第一发榴弹
 battle_skill_config-211006902,
-battle_skill_config-311006902,冷却时间:19.6秒//c伤害倍率:5.8倍
+battle_skill_config-311006902,
 battle_skill_config-411006902,
 battle_skill_config-111006903,K11第一发榴弹
 battle_skill_config-211006903,
-battle_skill_config-311006903,冷却时间:19.1秒//c伤害倍率:6.6倍
+battle_skill_config-311006903,
 battle_skill_config-411006903,
 battle_skill_config-111006904,K11第一发榴弹
 battle_skill_config-211006904,
-battle_skill_config-311006904,冷却时间:18.7秒//c伤害倍率:7.3倍
+battle_skill_config-311006904,
 battle_skill_config-411006904,
 battle_skill_config-111006905,K11第一发榴弹
 battle_skill_config-211006905,
-battle_skill_config-311006905,冷却时间:18.2秒//c伤害倍率:8.1倍
+battle_skill_config-311006905,
 battle_skill_config-411006905,
 battle_skill_config-111006906,K11第一发榴弹
 battle_skill_config-211006906,
-battle_skill_config-311006906,冷却时间:17.8秒//c伤害倍率:8.9倍
+battle_skill_config-311006906,
 battle_skill_config-411006906,
 battle_skill_config-111006907,K11第一发榴弹
 battle_skill_config-211006907,
-battle_skill_config-311006907,冷却时间:17.3秒//c伤害倍率:9.7倍
+battle_skill_config-311006907,
 battle_skill_config-411006907,
 battle_skill_config-111006908,K11第一发榴弹
 battle_skill_config-211006908,
-battle_skill_config-311006908,冷却时间:16.9秒//c伤害倍率:10.4倍
+battle_skill_config-311006908,
 battle_skill_config-411006908,
 battle_skill_config-111006909,K11第一发榴弹
 battle_skill_config-211006909,
-battle_skill_config-311006909,冷却时间:16.4秒//c伤害倍率:11.2倍
+battle_skill_config-311006909,
 battle_skill_config-411006909,
 battle_skill_config-111006910,K11第一发榴弹
 battle_skill_config-211006910,
-battle_skill_config-311006910,冷却时间:16秒//c伤害倍率:12倍
+battle_skill_config-311006910,
 battle_skill_config-411006910,
 battle_skill_config-111007001,K11额外伤害
 battle_skill_config-211007001,
@@ -19274,89 +19274,89 @@ battle_skill_config-111030601,P90冲锋枪普攻[*]
 battle_skill_config-211030601,冲锋枪的普通攻击
 battle_skill_config-311030601,
 battle_skill_config-411030601,
-battle_skill_config-111040101,
-battle_skill_config-211040101,
-battle_skill_config-311040101,Cooldown: 15s//cDamage Increase: 10%//cDuration: 5s
+battle_skill_config-111040101,Crimson Eclipse
+battle_skill_config-211040101,Active: Increase damage of allies situated on her tiles by 6% for 5 seconds.//nPassive: Whenever an ally situated on her tiles reload//c increase their damage and accuracy by 5% for 15 seconds. Max 3 stacks.//n
+battle_skill_config-311040101,Cooldown: 15s//cDamage Increase: 6%//cDuration: 5s
 battle_skill_config-411040101,
-battle_skill_config-111040102,
-battle_skill_config-211040102,
-battle_skill_config-311040102,Cooldown: 18s//cDamage Increase: 47%//cDuration: 5.3s
+battle_skill_config-111040102,Crimson Eclipse
+battle_skill_config-211040102,Active: Increase damage of allies situated on her tiles by 7% for 5.3 seconds.//nPassive: Whenever an ally situated on her tiles reload//c increase their damage and accuracy by 5% for 15 seconds. Max 3 stacks.//n
+battle_skill_config-311040102,Cooldown: 14.7s//cDamage Increase: 7%//cDuration: 5.3s
 battle_skill_config-411040102,
-battle_skill_config-111040103,
-battle_skill_config-211040103,
-battle_skill_config-311040103,Cooldown: 14.3s//cDamage Decrease: 28%//cDuration: 5.7s
+battle_skill_config-111040103,Crimson Eclipse
+battle_skill_config-211040103,Active: Increase damage of allies situated on her tiles by 8% for 5.7 seconds.//nPassive: Whenever an ally situated on her tiles reload//c increase their damage and accuracy by 5% for 15 seconds. Max 3 stacks.//n
+battle_skill_config-311040103,Cooldown: 14.3s//cDamage Increase: 8%//cDuration: 5.7s
 battle_skill_config-411040103,
-battle_skill_config-111040104,
-battle_skill_config-211040104,
-battle_skill_config-311040104,Cooldown: 14s//cDamage Increase: 13%//cDuration: 6s
+battle_skill_config-111040104,Crimson Eclipse
+battle_skill_config-211040104,Active: Increase damage of allies situated on her tiles by 9% for 6 seconds.//nPassive: Whenever an ally situated on her tiles reload//c increase their damage and accuracy by 5% for 15 seconds. Max 3 stacks.//n
+battle_skill_config-311040104,Cooldown: 14s//cDamage Increase: 9%//cDuration: 6s
 battle_skill_config-411040104,
-battle_skill_config-111040105,
-battle_skill_config-211040105,
-battle_skill_config-311040105,Cooldown: 13.7s//cDamage Decrease: 32%//cDuration: 6.3s
+battle_skill_config-111040105,Crimson Eclipse
+battle_skill_config-211040105,Active: Increase damage of allies situated on her tiles by 10% for 6.3 seconds.//nPassive: Whenever an ally situated on her tiles reload//c increase their damage and accuracy by 5% for 15 seconds. Max 3 stacks.//n
+battle_skill_config-311040105,Cooldown: 13.7s//cDamage Increase: 10%//cDuration: 6.3s
 battle_skill_config-411040105,
-battle_skill_config-111040106,
-battle_skill_config-211040106,
-battle_skill_config-311040106,Cooldown: 13.3s//cDamage Decrease: 33%//cDuration: 6.7s
+battle_skill_config-111040106,Crimson Eclipse
+battle_skill_config-211040106,Active: Increase damage of allies situated on her tiles by 11% for 6.7 seconds.//nPassive: Whenever an ally situated on her tiles reload//c increase their damage and accuracy by 5% for 15 seconds. Max 3 stacks.//n
+battle_skill_config-311040106,Cooldown: 13.3s//cDamage Increase: 11%//cDuration: 6.7s
 battle_skill_config-411040106,
-battle_skill_config-111040107,
-battle_skill_config-211040107,
-battle_skill_config-311040107,Cooldown: 13s//cDamage Increase: 21%//cDuration: 7s
+battle_skill_config-111040107,Crimson Eclipse
+battle_skill_config-211040107,Active: Increase damage of allies situated on her tiles by 12% for 7 seconds.//nPassive: Whenever an ally situated on her tiles reload//c increase their damage and accuracy by 5% for 15 seconds. Max 3 stacks.//n
+battle_skill_config-311040107,Cooldown: 13s//cDamage Increase: 12%//cDuration: 7s
 battle_skill_config-411040107,
-battle_skill_config-111040108,
-battle_skill_config-211040108,
-battle_skill_config-311040108,Cooldown: 18.7s//cDamage Increase: 55%//cDuration: 7.3s
+battle_skill_config-111040108,Crimson Eclipse
+battle_skill_config-211040108,Active: Increase damage of allies situated on her tiles by 13% for 7.3 seconds.//nPassive: Whenever an ally situated on her tiles reload//c increase their damage and accuracy by 5% for 15 seconds. Max 3 stacks.//n
+battle_skill_config-311040108,Cooldown: 12.7s//cDamage Increase: 13%//cDuration: 7.3s
 battle_skill_config-411040108,
-battle_skill_config-111040109,
-battle_skill_config-211040109,
-battle_skill_config-311040109,Cooldown: 12.3s//cDamage Decrease: 38%//cDuration: 7.7s
+battle_skill_config-111040109,Crimson Eclipse
+battle_skill_config-211040109,Active: Increase damage of allies situated on her tiles by 14% for 7.7 seconds.//nPassive: Whenever an ally situated on her tiles reload//c increase their damage and accuracy by 5% for 15 seconds. Max 3 stacks.//n
+battle_skill_config-311040109,Cooldown: 12.3s//cDamage Increase: 14%//cDuration: 7.7s
 battle_skill_config-411040109,
-battle_skill_config-111040110,
-battle_skill_config-211040110,
-battle_skill_config-311040110,Cooldown: 12s//cDamage Increase: 18%//cDuration: 8s
+battle_skill_config-111040110,Crimson Eclipse
+battle_skill_config-211040110,Active: Increase damage of allies situated on her tiles by 15% for 8 seconds.//nPassive: Whenever an ally situated on her tiles reload//c increase their damage and accuracy by 5% for 15 seconds. Max 3 stacks.//n
+battle_skill_config-311040110,Cooldown: 12s//cDamage Increase: 15%//cDuration: 8s
 battle_skill_config-411040110,
 battle_skill_config-111040201,杰里科影响格
 battle_skill_config-211040201,
 battle_skill_config-311040201,
 battle_skill_config-411040201,
-battle_skill_config-111050101,
-battle_skill_config-211050101,
-battle_skill_config-311050101,
+battle_skill_config-111050101,Forewarning
+battle_skill_config-211050101,If there are more than 5 groups of enemies on the battlefield upon skill activation//c increase rate of fire and accuracy by 30% for 3 seconds. Otherwise//c increase damage by 40% for 3 seconds. After 3 seconds//c if there are more than 2 groups of enemies on the battlefield//c grant a 16 HP shield to allies situated on her tiles for 5 seconds. Otherwise//c increase damage of herself and allies situated on her tiles by 25% for 5 seconds.
+battle_skill_config-311050101,Cooldown: 20s//cRate of Fire Increase: 30%//cAccuracy Increase: 30%//cDamage Increase: 40%//cShield HP: 16//cSelf and Allies Damage Increase: 25%
 battle_skill_config-411050101,
-battle_skill_config-111050102,
-battle_skill_config-211050102,
-battle_skill_config-311050102,
+battle_skill_config-111050102,Forewarning
+battle_skill_config-211050102,If there are more than 5 groups of enemies on the battlefield upon skill activation//c increase rate of fire and accuracy by 36% for 3 seconds. Otherwise//c increase damage by 46% for 3 seconds. After 3 seconds//c if there are more than 2 groups of enemies on the battlefield//c grant a 17 HP shield to allies situated on her tiles for 5 seconds. Otherwise//c increase damage of herself and allies situated on her tiles by 28% for 5 seconds.
+battle_skill_config-311050102,Cooldown: 19.6s//cRate of Fire Increase: 36%//cAccuracy Increase: 36%//cDamage Increase: 46%//cShield HP: 17//cSelf and Allies Damage Increase: 28%
 battle_skill_config-411050102,
-battle_skill_config-111050103,
-battle_skill_config-211050103,
-battle_skill_config-311050103,
+battle_skill_config-111050103,Forewarning
+battle_skill_config-211050103,If there are more than 5 groups of enemies on the battlefield upon skill activation//c increase rate of fire and accuracy by 41% for 3 seconds. Otherwise//c increase damage by 51% for 3 seconds. After 3 seconds//c if there are more than 2 groups of enemies on the battlefield//c grant a 18 HP shield to allies situated on her tiles for 5 seconds. Otherwise//c increase damage of herself and allies situated on her tiles by 32% for 5 seconds.
+battle_skill_config-311050103,Cooldown: 19.1s//cRate of Fire Increase: 41%//cAccuracy Increase: 41%//cDamage Increase: 51%//cShield HP: 18//cSelf and Allies Damage Increase: 32%
 battle_skill_config-411050103,
-battle_skill_config-111050104,
-battle_skill_config-211050104,
-battle_skill_config-311050104,
+battle_skill_config-111050104,Forewarning
+battle_skill_config-211050104,If there are more than 5 groups of enemies on the battlefield upon skill activation//c increase rate of fire and accuracy by 47% for 3 seconds. Otherwise//c increase damage by 57% for 3 seconds. After 3 seconds//c if there are more than 2 groups of enemies on the battlefield//c grant a 19 HP shield to allies situated on her tiles for 5 seconds. Otherwise//c increase damage of herself and allies situated on her tiles by 35% for 5 seconds.
+battle_skill_config-311050104,Cooldown: 18.7s//cRate of Fire Increase: 47%//cAccuracy Increase: 47%//cDamage Increase: 57%//cShield HP: 19//cSelf and Allies Damage Increase: 35%
 battle_skill_config-411050104,
-battle_skill_config-111050105,
-battle_skill_config-211050105,
-battle_skill_config-311050105,
+battle_skill_config-111050105,Forewarning
+battle_skill_config-211050105,If there are more than 5 groups of enemies on the battlefield upon skill activation//c increase rate of fire and accuracy by 52% for 3 seconds. Otherwise//c increase damage by 62% for 3 seconds. After 3 seconds//c if there are more than 2 groups of enemies on the battlefield//c grant a 20 HP shield to allies situated on her tiles for 5 seconds. Otherwise//c increase damage of herself and allies situated on her tiles by 38% for 5 seconds.
+battle_skill_config-311050105,Cooldown: 18.2s//cRate of Fire Increase: 52%//cAccuracy Increase: 52%//cDamage Increase: 62%//cShield HP: 20//cSelf and Allies Damage Increase: 38%
 battle_skill_config-411050105,
-battle_skill_config-111050106,
-battle_skill_config-211050106,
-battle_skill_config-311050106,
+battle_skill_config-111050106,Forewarning
+battle_skill_config-211050106,If there are more than 5 groups of enemies on the battlefield upon skill activation//c increase rate of fire and accuracy by 58% for 3 seconds. Otherwise//c increase damage by 68% for 3 seconds. After 3 seconds//c if there are more than 2 groups of enemies on the battlefield//c grant a 21 HP shield to allies situated on her tiles for 5 seconds. Otherwise//c increase damage of herself and allies situated on her tiles by 42% for 5 seconds.
+battle_skill_config-311050106,Cooldown: 17.8s//cRate of Fire Increase: 58%//cAccuracy Increase: 58%//cDamage Increase: 68%//cShield HP: 21//cSelf and Allies Damage Increase: 42%
 battle_skill_config-411050106,
-battle_skill_config-111050107,
-battle_skill_config-211050107,
-battle_skill_config-311050107,
+battle_skill_config-111050107,Forewarning
+battle_skill_config-211050107,If there are more than 5 groups of enemies on the battlefield upon skill activation//c increase rate of fire and accuracy by 63% for 3 seconds. Otherwise//c increase damage by 73% for 3 seconds. After 3 seconds//c if there are more than 2 groups of enemies on the battlefield//c grant a 22 HP shield to allies situated on her tiles for 5 seconds. Otherwise//c increase damage of herself and allies situated on her tiles by 45% for 5 seconds.
+battle_skill_config-311050107,Cooldown: 17.3s//cRate of Fire Increase: 63%//cAccuracy Increase: 63%//cDamage Increase: 73%//cShield HP: 22//cSelf and Allies Damage Increase: 45%
 battle_skill_config-411050107,
-battle_skill_config-111050108,
-battle_skill_config-211050108,
-battle_skill_config-311050108,
+battle_skill_config-111050108,Forewarning
+battle_skill_config-211050108,If there are more than 5 groups of enemies on the battlefield upon skill activation//c increase rate of fire and accuracy by 69% for 3 seconds. Otherwise//c increase damage by 79% for 3 seconds. After 3 seconds//c if there are more than 2 groups of enemies on the battlefield//c grant a 23 HP shield to allies situated on her tiles for 5 seconds. Otherwise//c increase damage of herself and allies situated on her tiles by 48% for 5 seconds.
+battle_skill_config-311050108,Cooldown: 16.9s//cRate of Fire Increase: 69%//cAccuracy Increase: 69%//cDamage Increase: 79%//cShield HP: 23//cSelf and Allies Damage Increase: 48%
 battle_skill_config-411050108,
-battle_skill_config-111050109,
-battle_skill_config-211050109,
-battle_skill_config-311050109,
+battle_skill_config-111050109,Forewarning
+battle_skill_config-211050109,If there are more than 5 groups of enemies on the battlefield upon skill activation//c increase rate of fire and accuracy by 74% for 3 seconds. Otherwise//c increase damage by 84% for 3 seconds. After 3 seconds//c if there are more than 2 groups of enemies on the battlefield//c grant a 24 HP shield to allies situated on her tiles for 5 seconds. Otherwise//c increase damage of herself and allies situated on her tiles by 52% for 5 seconds.
+battle_skill_config-311050109,Cooldown: 16.4s//cRate of Fire Increase: 74%//cAccuracy Increase: 74%//cDamage Increase: 84%//cShield HP: 24//cSelf and Allies Damage Increase: 52%
 battle_skill_config-411050109,
-battle_skill_config-111050110,
-battle_skill_config-211050110,
-battle_skill_config-311050110,
+battle_skill_config-111050110,Forewarning
+battle_skill_config-211050110,If there are more than 5 groups of enemies on the battlefield upon skill activation//c increase rate of fire and accuracy by 80% for 3 seconds. Otherwise//c increase damage by 90% for 3 seconds. After 3 seconds//c if there are more than 2 groups of enemies on the battlefield//c grant a 25 HP shield to allies situated on her tiles for 5 seconds. Otherwise//c increase damage of herself and allies situated on her tiles by 55% for 5 seconds.
+battle_skill_config-311050110,Cooldown: 16s//cRate of Fire Increase: 80%//cAccuracy Increase: 80%//cDamage Increase: 90%//cShield HP: 25//cSelf and Allies Damage Increase: 55%
 battle_skill_config-411050110,
 battle_skill_config-111050201,64式大于等于6
 battle_skill_config-211050201,

@@ -1,0 +1,1 @@
+[{"character":["AnnaAVG"],"character_emotion":["0"],"speaker_name":"安娜","speaker":0,"bg":"10","text":"嘿，Jo，看来互相吸引的时刻到了。"},{"character":[""],"character_emotion":[""],"speaker_name":"系统提示","speaker":0,"text":"<color=#FFFF00>带上歌利亚，可以拿去观看一次华丽的烟火哦。</color>"}]

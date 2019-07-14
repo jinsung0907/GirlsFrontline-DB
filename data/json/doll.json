@@ -9127,6 +9127,50 @@
 		"code": "CBJMS"
 	}
 }, {
+	"id": 214,
+	"name": "ADS",
+	"krName": "ADS",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "ar",
+	"illust": "小吃",
+	"voice": "",
+	"buildTime": 14100,
+	"drop": "1,2",
+	"stats": {
+		"hp": 110,
+		"pow": 100,
+		"hit": 115,
+		"dodge": 95,
+		"speed": 100,
+		"rate": 110,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 138,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [7, 8, 9],
+		"gridEffect": {
+			"hit": 30,
+			"dodge": 18
+		}
+	},
+	"skill": {
+		"realid": 112601,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 5,
+		"code": "AdsStorm"
+	}
+}, {
 	"id": 215,
 	"name": "MDR",
 	"krName": "MDR",
@@ -10271,7 +10315,7 @@
 	"name": "P22",
 	"krName": "P22",
 	"enName": "P22",
-	"jpName": "",
+	"jpName": "P22",
 	"cnName": "",
 	"rank": 5,
 	"type": "hg",
@@ -10359,7 +10403,7 @@
 	"name": "TEC9",
 	"krName": "TEC-9",
 	"enName": "TEC-9",
-	"jpName": "\"\"",
+	"jpName": "TEC-9",
 	"cnName": "",
 	"rank": 3,
 	"type": "hg",
@@ -10578,7 +10622,7 @@
 	"name": "HS2000",
 	"krName": "HS2000",
 	"enName": "HS2000",
-	"jpName": "",
+	"jpName": "HS2000",
 	"cnName": "",
 	"rank": 5,
 	"type": "hg",
@@ -10622,7 +10666,7 @@
 	"name": "X95",
 	"krName": "X95",
 	"enName": "X95",
-	"jpName": "",
+	"jpName": "X95",
 	"cnName": "",
 	"rank": 5,
 	"type": "smg",
@@ -10666,7 +10710,7 @@
 	"name": "KSVK",
 	"krName": "KSVK",
 	"enName": "KSVK",
-	"jpName": "",
+	"jpName": "KSVK",
 	"cnName": "",
 	"rank": 4,
 	"type": "rf",
@@ -10709,7 +10753,7 @@
 	"name": "Lewis",
 	"krName": "루이스",
 	"enName": "Lewis",
-	"jpName": "",
+	"jpName": "ルイス",
 	"cnName": "",
 	"rank": 5,
 	"type": "mg",
@@ -10754,7 +10798,7 @@
 	"name": "UKM2000",
 	"krName": "UKM-2000",
 	"enName": "UKM-2000",
-	"jpName": "",
+	"jpName": "UKM-2000",
 	"cnName": "",
 	"rank": 4,
 	"type": "mg",
@@ -10799,7 +10843,7 @@
 	"name": "scout",
 	"krName": "스카웃",
 	"enName": "Scout",
-	"jpName": "",
+	"jpName": "スカウト",
 	"cnName": "",
 	"rank": 3,
 	"type": "rf",
@@ -10842,7 +10886,7 @@
 	"name": "Falcon",
 	"krName": "팔콘",
 	"enName": "",
-	"jpName": "",
+	"jpName": "ファルコン",
 	"cnName": "",
 	"rank": 3,
 	"type": "rf",
@@ -10928,7 +10972,7 @@
 	"name": "Magal",
 	"krName": "마갈",
 	"enName": "",
-	"jpName": "",
+	"jpName": "マガル",
 	"cnName": "",
 	"rank": 3,
 	"type": "ar",
@@ -10972,7 +11016,7 @@
 	"name": "PM9",
 	"krName": "PM-9",
 	"enName": "",
-	"jpName": "",
+	"jpName": "PM-9",
 	"cnName": "",
 	"rank": 5,
 	"type": "smg",
@@ -11361,6 +11405,136 @@
 		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
 		"intercd": 1,
 		"code": "Smoke"
+	}
+}, {
+	"id": 268,
+	"name": "TCMS",
+	"krName": "T-CMS",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "rf",
+	"illust": "sola7764",
+	"voice": "",
+	"buildTime": 15600,
+	"drop": "1907",
+	"stats": {
+		"hp": 100,
+		"pow": 115,
+		"hit": 120,
+		"dodge": 85,
+		"speed": 100,
+		"rate": 110,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 112,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [7, 9],
+		"gridEffect": {
+			"cooldown": 12
+		}
+	},
+	"skill": {
+		"realid": 100102,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 5,
+		"code": "powBuffSelf"
+	}
+}, {
+	"id": 269,
+	"name": "P30",
+	"krName": "P30",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "hg",
+	"illust": "litsvn",
+	"voice": "",
+	"buildTime": 3000,
+	"drop": "1",
+	"stats": {
+		"hp": 105,
+		"pow": 115,
+		"hit": 125,
+		"dodge": 115,
+		"speed": 100,
+		"rate": 102,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 118,
+	"canequip": {
+		"1": [4, 13],
+		"2": [6],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 6,
+		"effectPos": [2, 3, 8, 9],
+		"gridEffect": {
+			"pow": 9,
+			"hit": 30
+		}
+	},
+	"skill": {
+		"realid": 112401,
+		"cd": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+		"intercd": 3,
+		"code": "P30avenger"
+	}
+}, {
+	"id": 270,
+	"name": "4type",
+	"krName": "4식",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "rf",
+	"illust": "藤ちょこ",
+	"voice": "",
+	"buildTime": 14640,
+	"drop": "1,2",
+	"stats": {
+		"hp": 95,
+		"pow": 102,
+		"hit": 110,
+		"dodge": 106,
+		"speed": 100,
+		"rate": 112,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 122,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [6, 7, 8, 9],
+		"gridEffect": {
+			"cooldown": 15
+		}
+	},
+	"skill": {
+		"realid": 112501,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 6,
+		"code": "fuzichocosaigo"
 	}
 }, {
 	"id": 1001,

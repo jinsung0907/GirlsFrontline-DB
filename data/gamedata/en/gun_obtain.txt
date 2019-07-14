@@ -25,7 +25,7 @@ gun_obtain-10000023,BOSS battle clear or map clear S rank
 gun_obtain-10000024,• Limited-time campaign 【Deep Dive】 drop reward
 gun_obtain-10000025,• Limited-time campaign 【Deep Dive】 stage clear reward
 gun_obtain-10000026,• Limited-time campaign 【Deep Dive】 Crate reward
-gun_obtain-10000027,• Obtainable from【Normal 9-6】【Emergency 4-4】
+gun_obtain-10000027,• Obtainable from【Normal 9-6】【Emergency 9-4】
 gun_obtain-10000028,BOSS battle clear or map clear S rank
 gun_obtain-10000029,• Obtainable from【Normal 10-6】【Emergency 10-4】
 gun_obtain-10000030,BOSS battle clear or map clear S rank

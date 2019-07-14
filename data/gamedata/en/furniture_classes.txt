@@ -163,8 +163,8 @@ furniture_classes-30000049,You can gain additional Comfort by placing 8 pieces o
 furniture_classes-10000050,Wedding Scenery
 furniture_classes-20000050,A furniture set based on a wedding photo shoot. As you can see//c this is just a stage set. Photos//c ceremony//c and a married life... Are any of these real?
 furniture_classes-30000050,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000052,
-furniture_classes-20000052,
+furniture_classes-10000052,Swimming Fish//c Flying Geese
+furniture_classes-20000052,A furniture set themed after a traditional garden. Enjoy life in a serene//c picturesque courtyard//c especially since nights like these don't come cheap.
 furniture_classes-30000052,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000053,Convention Craze
 furniture_classes-20000053,A furniture set based on an anime convention. What would the world look like if Dolls were introduced 50 years earlier? Collect everything to find out.
@@ -172,42 +172,45 @@ furniture_classes-30000053,You can gain additional Comfort by placing 8 pieces o
 furniture_classes-10000054,Saturday Night Fever
 furniture_classes-20000054,A furniture set based on the anniversary party. Celebrations are not bound to tonight of all nights//c but can we ascertain where we'll end up tomorrow night?
 furniture_classes-30000054,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000055,
-furniture_classes-20000055,
+furniture_classes-10000055,Star of Amusement Park
+furniture_classes-20000055,A furniture set based on an amusement park. Simple pleasures can be acquired through cheap popcorn and a thrilling roller coaster//c provided you are already having fun in the first place.
 furniture_classes-30000055,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000056,
-furniture_classes-20000056,
+furniture_classes-10000056,Southern Sea Pavilion
+furniture_classes-20000056,A furniture set based on a hotel in Southeast Asia. Perhaps you may wish to wake up in a hotel like this and enjoy an inconvenient but comfortable morning.
 furniture_classes-30000056,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000057,
-furniture_classes-20000057,
+furniture_classes-10000057,Takeoff to Happiness
+furniture_classes-20000057,A furniture set based on an airport. Experience the time before your flight arrives//c because in the next moment we'll be very far away - physically.
 furniture_classes-30000057,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
-furniture_classes-10000058,
-furniture_classes-20000058,
+furniture_classes-10000058,Beach Tycoon
+furniture_classes-20000058,Furniture with the theme of recreation on the beach. The sea certainly is beautiful//c but humans still feel the need to make changes to it. Recreation is like seasoning; it confounds people as to what they truly need.
 furniture_classes-30000058,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000059,
-furniture_classes-20000059,
+furniture_classes-10000059,Music Festival
+furniture_classes-20000059,A rock-n'-roll themed furniture set. This could just be an indoor show - civilized and phony. Heavy metal singers with grainy voices aren't welcome here.
 furniture_classes-30000059,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000060,
-furniture_classes-20000060,
+furniture_classes-10000060,Haunted Castle
+furniture_classes-20000060,A castle-themed furniture set. Just spend the night. Hope you'll like it here and decide to stay//c otherwise...you'll be staying here//c whether you like it or not.
 furniture_classes-30000060,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000061,
-furniture_classes-20000061,
+furniture_classes-10000061,Burger of Bliss
+furniture_classes-20000061,A furniture set with the theme of a burger shop that supplies a relaxing atmosphere and ample calories. Both symbolize bliss in this day and age.
 furniture_classes-30000061,You can gain additional Comfort by placing 8 pieces of this set in the same dormitory.
-furniture_classes-10000062,
-furniture_classes-20000062,
+furniture_classes-10000062,Operation Idol
+furniture_classes-20000062,A furniture set with the theme of an idol encounter. Give everyone handshake tickets and a dream-come-true//c then rake in the cash!
 furniture_classes-30000062,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000063,
-furniture_classes-20000063,
+furniture_classes-10000063,Night at the Candy Museum
+furniture_classes-20000063,A furniture set with the theme of a candy museum. Christmas is the festival of sweets and presents. You'd better enjoy it//c because we have nothing else to do tonight.
 furniture_classes-30000063,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000064,
-furniture_classes-20000064,
+furniture_classes-10000064,New Year Shrine
+furniture_classes-20000064,A furniture set with the theme of a shrine on New Year's Day. Come visit as the bells ring for a brand new year. Care to hear some word of advice from a deity drowning in a cacophony of wishes?
 furniture_classes-30000064,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000065,
-furniture_classes-20000065,
+furniture_classes-10000065,Chinatown
+furniture_classes-20000065,A furniture set inspired by Chinatown. Pioneering Dolls in this brave new world//c come and share the hardship and glory of adventures!
 furniture_classes-30000065,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000066,
-furniture_classes-20000066,
+furniture_classes-10000066,Chocolatier 
+furniture_classes-20000066,A furniture set inspired by a handmade chocolate house. "Welcome! Be a part of the house! I mean//c uh...not literally//c just...enjoy it//c" says the owner.
 furniture_classes-30000066,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000067,
 furniture_classes-20000067,
 furniture_classes-30000067,
+furniture_classes-10000068,
+furniture_classes-20000068,
+furniture_classes-30000068,
