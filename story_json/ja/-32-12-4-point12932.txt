@@ -1,0 +1,1 @@
+[{"character":["AnnaAVG"],"character_emotion":["0"],"speaker_name":"安娜","speaker":0,"bg":"10","text":"哦？显示器不能正常运行了？\n这个控制台看起来有点奇怪，不是吗？"},{"character":[""],"character_emotion":[""],"speaker_name":"系统提示","speaker":0,"text":"<color=#FFFF00>控制台II解锁时将自动解锁防御门II型5号和6号，其余防御门II型则需要通过特定的顺序发送指令才能全部开启。</color>"}]
