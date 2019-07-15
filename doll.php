@@ -261,7 +261,7 @@ $starttime = microtime(true);
 	}
 	
 	//만약 해당 언어 스킬 데이터가 없으면 한국 데이터를 불러옴 (한국은 그냥 한국데이터 불러옴)
-	if(!isset($rskill_txt) || sizeof($rskill_txt) == 0) {
+	if(!isset($rskill_txt) || sizeof($rskill_txt) == 0 || $rskill_name == "") {
 		$tmp = getDataFile('battle_skill_config', 'ko');
 		$rskills = explode(PHP_EOL, $tmp);
 		if(isset($doll->skill->realid)) {
