@@ -2,7 +2,7 @@
 	define("GF_HEADER", "aaaaa");
 	require_once("common.php");
 	
-	$bgms = getJson('bgm');
+	$bgms = getDataFile('audiotemplate', 'ko');
 	
 	$t = $_GET['t'];
 	$q = $_GET['q'];
