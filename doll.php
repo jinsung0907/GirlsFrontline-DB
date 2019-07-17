@@ -290,7 +290,7 @@ $starttime = microtime(true);
 			}
 		}
 	}
-	if(!isset($rskill2_txt) || sizeof($rskill2_txt) == 0) {
+	if(!isset($rskill2_txt) || sizeof($rskill2_txt) == 0 || $rskill2_name == "") {
 		//mod2스킬
 		if(isset($doll->skill2->realid)) {
 			$rskill2_txt = [];
@@ -411,7 +411,10 @@ $starttime = microtime(true);
 				if(preg_match($exp, $line, $match)) {
 					$id = $match[1] % 10000000;
 					if($skin->id == $id) {
-						$skins[$i]->name = str_replace('//c', ',', $match[3]);
+						$tmpname = str_replace('//c', ',', $match[3]);
+            if($tmpname !== '') {
+              $skins[$i]->name = $tmpname;
+            }
 					}
 				}
 			}
@@ -739,7 +742,7 @@ $starttime = microtime(true);
 					</div>
 				</div>
 				<div class="col-lg">
-					<div class="card card-body bg-light mt-3 p-0">
+					<div class="card card-body bg-light mt-3 p-0 table-responsive">
 						<table id="buildtable" class="table table-striped">
 							<thead>
 								<tr style="text-align:center; vertical-align:middle">
