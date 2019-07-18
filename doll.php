@@ -792,7 +792,7 @@ $starttime = microtime(true);
 		var attrlist = ['hp', 'pow', 'hit', 'dodge', 'speed', 'rate', 'armor'];
 		var l2d_basepath = "/img/live2d/";
 		var r_skilldata = <?=json_encode($rskill_txt, JSON_UNESCAPED_UNICODE)?>;
-		var r_skill2data = <?=json_encode($rskill2_txt, JSON_UNESCAPED_UNICODE)?>;
+		var r_skill2data = <?=isset($rskill2_txt) ? json_encode($rskill2_txt, JSON_UNESCAPED_UNICODE) : 'null'?>;
 		calcstats();
 		
 		$("#statlevel,#statfavor").on('change', function(e) {
