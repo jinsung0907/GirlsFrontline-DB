@@ -19,6 +19,8 @@
     while($row = $buildresult->fetchArray(SQLITE3_ASSOC)) {
       array_push($data, $row);
     }
+    //캐시파일 저장
+    file_put_contents("cache/$id.json", json_encode($data), JSON_UNESCAPED_UNICODE);
 	}
   
   $cnt = 0;
@@ -28,8 +30,6 @@
   if($cnt == 0)
     exit;
   
-  //캐시파일 저장
-  file_put_contents("cache/$id.json", json_encode($data), JSON_UNESCAPED_UNICODE);
 ?>
 <?php foreach($data as $row) {
 if($row['cnt'] < 10) break;
