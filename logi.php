@@ -5,8 +5,6 @@
 	$header_keyword = "소녀전선 군수지원 계산기, 소전 군수지원 계산기, 군수지원 효율";
 	$header_title = "군수지원 계산기";
 	require_once("header.php");
-	
-	$logis = getJson('logistics.json');
 ?>
     <main role="main" class="container">
 		<div class="my-3 bg-white rounded box-shadow">
