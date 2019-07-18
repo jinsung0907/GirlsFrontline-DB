@@ -81,21 +81,6 @@
 	$bg = 0;
 	
 	$second_round = [["-19-2-4-Point6737", "-19-2-4-point6738"], ["-19-2-4-Point6737", "battleavg/-19-2-egg"], ["-19-3-4-point6750", "-19-3-4-point7023"], ["-19-3-4-point6750", "battleavg/-19-3-egg"], ["-20-1-4-point6780", "-20-1-4-point7026"], ["-20-1-4-point6780", "battleavg/-20-1-egg"], ["-20-2-4-point6819", "-20-2-4-point7029"], ["-20-2-4-point6819", "battleavg/-20-2-egg"], ["-20-3-4-point6845", "-20-3-4-point6846"], ["-20-3-4-point6845", "battleavg/-20-3-egg"]];
-	
-	function color_callback($matches) {
-		$colors[0] = dechex(hexdec(substr($matches[1], 0, 2)) - 50);
-		$colors[1] = dechex(hexdec(substr($matches[1], 2, 2)) - 50);
-		$colors[2] = dechex(hexdec(substr($matches[1], 4, 2)) - 50);
-		
-		for($i = 0 ; $i<3 ; $i++) {
-			$num = hexdec(substr($matches[1], $i*2, 2)) - 45;
-			if($num < 0) 
-				$num = 0;
-			$colors[$i] = sprintf("%02X", $num);
-		}
-		$color = $colors[0] . $colors[1] . $colors[2];
-		return "<span style='color:#{$color}'>{$matches[2]}</span>";
-	}
 ?>
     <main role="main" class="container">
 	<div class="col-12 my-3 p-3 bg-white rounded box-shadow">

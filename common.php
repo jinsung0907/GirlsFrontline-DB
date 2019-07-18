@@ -3,7 +3,6 @@ if(GF_HEADER != "aaaaa") exit;
 session_start();
 
 if(isset($_GET['lang'])) {
-	session_start();
 	if($_GET['lang'] == 'en') {
 		$_SESSION['lang'] = 'en';
 	}
@@ -192,6 +191,22 @@ function Error($str) {
     </main>';
 	require_once("footer.php");
 	exit;
+}
+
+//스토리 색상코드 사이트에 맞춰 짙게 변경
+function color_callback($matches) {
+  $colors[0] = dechex(hexdec(substr($matches[1], 0, 2)) - 50);
+  $colors[1] = dechex(hexdec(substr($matches[1], 2, 2)) - 50);
+  $colors[2] = dechex(hexdec(substr($matches[1], 4, 2)) - 50);
+  
+  for($i = 0 ; $i<3 ; $i++) {
+    $num = hexdec(substr($matches[1], $i*2, 2)) - 45;
+    if($num < 0) 
+      $num = 0;
+    $colors[$i] = sprintf("%02X", $num);
+  }
+  $color = $colors[0] . $colors[1] . $colors[2];
+  return "<span style='color:#{$color}'>{$matches[2]}</span>";
 }
 
 //캐릭 보이스 코드 -> 한국어 변환
