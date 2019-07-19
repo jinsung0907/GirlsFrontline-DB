@@ -29,14 +29,7 @@
 				break;
 			}
 		}
-	}
-	if(sizeof($live2dlist) >= 1) {
-		$live2d_list = json_encode($live2dlist);
-	}
-	else {
-		$live2d_list = '\'\'';
-	}
-	
+	}	
 ?>
     <main role="main" class="container">
 		<div class="my-3 p-3 bg-white rounded box-shadow">

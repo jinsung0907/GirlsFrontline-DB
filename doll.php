@@ -437,6 +437,7 @@ $starttime = microtime(true);
 	$imglist = [];
 	$skinlist = [];
 	$sdStatus = [];
+  $skinnames = [];
 	$path = 'img/characters/';
 	
 	foreach($skins as $skin) {
@@ -456,6 +457,7 @@ $starttime = microtime(true);
 			array_push($imglist, "$path{$doll->name}_{$skin->id}/pic/pic_{$doll->name}_{$skin->id}.png");
 			array_push($imglist, "$path{$doll->name}_{$skin->id}/pic/pic_{$doll->name}_{$skin->id}_d.png");
 			array_push($skinlist, [$skin->name, $skin->id]);
+      array_push($skinnames, $skin->name);
 			
 			if(file_exists("$path{$doll->name}_{$skin->id}/spine/r{$doll->name}_{$skin->id}.atlas")) $sdStatus[$skin->id][0] = 1;
 			else $sdStatus[$skin->id][0] = 0;
@@ -487,7 +489,7 @@ $starttime = microtime(true);
 
 	$header_title = getDollName($doll) . " | " . L::sitetitle_short;
 	$header_desc = L::title_doll_desc($dollname);
-	$header_keyword = "$dollname, $dollname 소전, $dollname 소녀전선, $dollname 보이스, $dollname SD, $dollname 스킨, {$doll->name}, 소녀전선 검열, " . implode(', ', $doll->nick) . ", " . implode(', ', $doll->skin);
+	$header_keyword = "$dollname, $dollname 소전, $dollname 소녀전선, $dollname 보이스, $dollname SD, $dollname 스킨, {$doll->name}, 소녀전선 검열, " . implode(', ', $skinnames);
 	$header_image = "http://gfl.zzzzz.kr/img/characters/" .$doll->name . "/pic/pic_" . $doll->name . "_n.jpg";
 
 	
