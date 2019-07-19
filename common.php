@@ -104,6 +104,9 @@ function getBGM($id) {
   $list = explode(PHP_EOL, $bgms);
 	foreach($list as $bgm) {
     $tmp = explode('|', $bgm);
+    
+    if(sizeof($tmp) === 1) continue;
+    
 		if($tmp[1] == $id || $tmp[2] == $id) {
 			return $tmp[2] . "/" . $tmp[2] .".mp3";
 		}
