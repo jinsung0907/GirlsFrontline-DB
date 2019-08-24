@@ -224,7 +224,7 @@ $starttime = microtime(true);
 				
 				if($matches[1] == 1 && $matches[2] == $doll->skill->realid) {
 					$rskill_name = explode(',', $rskills[$i])[1];
-					$rskill_txt[$s_level] = explode(',', $rskills[$i+1])[1];
+					$rskill_txt[$s_level] = explode(',', $rskills[$i+2])[1];
 					$rskill_txt[$s_level] = str_replace("//c" , ',', $rskill_txt[$s_level]);
 					$rskill_txt[$s_level] = str_replace("；" , '<br>', $rskill_txt[$s_level]);
 					$rskill_txt[$s_level] = str_replace("//n" , '<br>', $rskill_txt[$s_level]);
@@ -277,7 +277,7 @@ $starttime = microtime(true);
 					if($lang != 'ko') {
 						$rskill_name .= "(no $lang skilldata)";
 					}
-					$rskill_txt[$s_level] = explode(',', $rskills[$i+1])[1];
+					$rskill_txt[$s_level] = explode(',', $rskills[$i+2])[1];
 					$rskill_txt[$s_level] = str_replace("//c" , ',', $rskill_txt[$s_level]);
 					$rskill_txt[$s_level] = str_replace("；" , '<br>', $rskill_txt[$s_level]);
 					$rskill_txt[$s_level] = str_replace("//n" , '<br>', $rskill_txt[$s_level]);
