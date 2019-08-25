@@ -12,6 +12,7 @@ $starttime = microtime(true);
 		case "노엘": $_GET['id'] = 1001; break;
 		case "엘펠트": $_GET['id'] = 1002; break;
 		case "416": $_GET['id'] = 65; break;
+		case "4식": $_GET['id'] = 270; break;
 	}
 	
 	//인형데이터 불러오기
