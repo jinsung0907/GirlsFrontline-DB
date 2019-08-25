@@ -733,6 +733,15 @@ mission_skill_config-31000053,
 mission_skill_config-11000054,(일반형I)(距离0)제어 콘솔音效标记
 mission_skill_config-21000054,(일반형I)(距离0)제어 콘솔音效标记
 mission_skill_config-31000054,
+mission_skill_config-11000055,【标记】【距离0】【1回合】自身定身
+mission_skill_config-21000055,
+mission_skill_config-31000055,
+mission_skill_config-11000056,【标记】【距离0】【99回合】自身定身
+mission_skill_config-21000056,
+mission_skill_config-31000056,
+mission_skill_config-11000057,【标记】【距离0】【99回合】对enemy、allyother追踪标记
+mission_skill_config-21000057,
+mission_skill_config-31000057,
 mission_skill_config-11000100,透明设施1标记(标记=生效)
 mission_skill_config-21000100,透明设施1标记(标记=生效)
 mission_skill_config-31000100,
@@ -2080,3 +2089,423 @@ mission_skill_config-39321504,
 mission_skill_config-19321601,标记_有第三方友方梯队时创生堵路点
 mission_skill_config-29321601,
 mission_skill_config-39321601,
+mission_skill_config-19331201,폭파지시(돌무더기I)
+mission_skill_config-29331201,폭파지시(돌무더기I)
+mission_skill_config-39331201,
+mission_skill_config-19331401,권한 개방
+mission_skill_config-29331401,제어콘솔 I의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39331401,
+mission_skill_config-19331402,권한 동결
+mission_skill_config-29331402,제어 콘솔I의 최고 권한을 동결해//c 다른 시설과의 연결을 끊고 제어판을 닫는다.
+mission_skill_config-39331402,
+mission_skill_config-19335201,【标记】防御门I预设生效
+mission_skill_config-29335201,
+mission_skill_config-39335201,
+mission_skill_config-19335202,권한 개방
+mission_skill_config-29335202,제어콘솔 I형①의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39335202,
+mission_skill_config-19335203,권한 개방
+mission_skill_config-29335203,제어콘솔 I형②의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39335203,
+mission_skill_config-19335204,권한 개방
+mission_skill_config-29335204,제어콘솔 I형③의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39335204,
+mission_skill_config-19335205,권한 개방
+mission_skill_config-29335205,제어콘솔 I형④의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39335205,
+mission_skill_config-19335206,초기화
+mission_skill_config-29335206,모든 제어콘솔 I형을 동결 상태로 되돌린다.
+mission_skill_config-39335206,
+mission_skill_config-19335207,【标记】①解锁
+mission_skill_config-29335207,
+mission_skill_config-39335207,
+mission_skill_config-19335208,【标记】②解锁
+mission_skill_config-29335208,
+mission_skill_config-39335208,
+mission_skill_config-19335209,【标记】③解锁
+mission_skill_config-29335209,
+mission_skill_config-39335209,
+mission_skill_config-19335210,【标记】④解锁
+mission_skill_config-29335210,
+mission_skill_config-39335210,
+mission_skill_config-19335211,【标记】满足顺序条件后自动解锁门
+mission_skill_config-29335211,
+mission_skill_config-39335211,
+mission_skill_config-19335212,【标记】清除顺序标记
+mission_skill_config-29335212,
+mission_skill_config-39335212,
+mission_skill_config-19335301,【标记】【范围2】透明兔子标记
+mission_skill_config-29335301,
+mission_skill_config-39335301,
+mission_skill_config-19335302,【标记】给怪上标记Buff
+mission_skill_config-29335302,
+mission_skill_config-39335302,
+mission_skill_config-19335303,부탁해//c 골리앗!
+mission_skill_config-29335303,나의 앞길을 열어줘!
+mission_skill_config-39335303,
+mission_skill_config-19335401,폭파지시(돌무더기I)
+mission_skill_config-29335401,폭탄으로 목표를 폭파한다.※정말 터뜨릴 수 있을까?...
+mission_skill_config-39335401,
+mission_skill_config-19335402,【标记】清除一层炸弹持有buff
+mission_skill_config-29335402,
+mission_skill_config-39335402,
+mission_skill_config-19335403,【标记】폭파지시(돌무더기I)(对设施伤害)
+mission_skill_config-29335403,
+mission_skill_config-39335403,
+mission_skill_config-19335404,폭파지시(돌무더기I)
+mission_skill_config-29335404,폭탄으로 목표를 폭파한다.※정말 터뜨릴 수 있을까?...
+mission_skill_config-39335404,
+mission_skill_config-19335405,【标记】清除一层炸弹持有buff
+mission_skill_config-29335405,
+mission_skill_config-39335405,
+mission_skill_config-19335406,【标记】폭파지시(돌무더기I)(对设施伤害)
+mission_skill_config-29335406,
+mission_skill_config-39335406,
+mission_skill_config-19335407,폭파지시(돌무더기I)
+mission_skill_config-29335407,폭탄으로 목표를 폭파한다.※정말 터뜨릴 수 있을까?...
+mission_skill_config-39335407,
+mission_skill_config-19335408,【标记】清除一层炸弹持有buff
+mission_skill_config-29335408,
+mission_skill_config-39335408,
+mission_skill_config-19335409,【标记】폭파지시(돌무더기I)(对设施伤害)
+mission_skill_config-29335409,
+mission_skill_config-39335409,
+mission_skill_config-19335501,【标记】【차단문I】怪使用技能预设炸弹
+mission_skill_config-29335501,
+mission_skill_config-39335501,
+mission_skill_config-19335502,【标记】【차단문II】怪使用技能预设炸弹
+mission_skill_config-29335502,
+mission_skill_config-39335502,
+mission_skill_config-19335503,문 열기(차단문II)
+mission_skill_config-29335503,차단문II를 연다
+mission_skill_config-39335503,
+mission_skill_config-19335504,문 닫기(차단문II)
+mission_skill_config-29335504,차단문II를 닫는다
+mission_skill_config-39335504,
+mission_skill_config-19331901,권한 개방
+mission_skill_config-29331901,제어콘솔 II의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39331901,
+mission_skill_config-19331902,권한 동결
+mission_skill_config-29331902,제어콘솔II의 최고 권한을 동결해//c 다른 시설과의 연결을 끊고 제어판을 닫는다.
+mission_skill_config-39331902,
+mission_skill_config-19332101,【标记】变电站标记
+mission_skill_config-29332101,
+mission_skill_config-39332101,
+mission_skill_config-19332102,변전소 가동
+mission_skill_config-29332102,변전소를 가동하여//c EMP 발생기를 충전한다.
+mission_skill_config-39332102,
+mission_skill_config-19332103,변전소 정지
+mission_skill_config-29332103,변전소를 끄고//c EMP 발생기에 전력을 차단한다.
+mission_skill_config-39332103,
+mission_skill_config-19332104,【标记】变电站过载
+mission_skill_config-29332104,
+mission_skill_config-39332104,
+mission_skill_config-19332105,【标记】EMP标记
+mission_skill_config-29332105,
+mission_skill_config-39332105,
+mission_skill_config-19332106,EMP 가동
+mission_skill_config-29332106,EMP를 가동하여 주변 적 유닛을 마비시킨다.
+mission_skill_config-39332106,
+mission_skill_config-19332107,【标记】起爆装置标记
+mission_skill_config-29332107,
+mission_skill_config-39332107,
+mission_skill_config-19332108,【标记】大楼标记
+mission_skill_config-29332108,
+mission_skill_config-39332108,
+mission_skill_config-19332109,【标记】地板标记
+mission_skill_config-29332109,
+mission_skill_config-39332109,
+mission_skill_config-19332110,기폭
+mission_skill_config-29332110,폐건물을 폭파한다.
+mission_skill_config-39332110,
+mission_skill_config-19332111,【标记】大楼倒塌
+mission_skill_config-29332111,
+mission_skill_config-39332111,
+mission_skill_config-19332112,【标记】生成废墟
+mission_skill_config-29332112,
+mission_skill_config-39332112,
+mission_skill_config-19332113,【标记】解除기폭器
+mission_skill_config-29332113,
+mission_skill_config-39332113,
+mission_skill_config-19332114,폭파 지시
+mission_skill_config-29332114,폐허를 폭파한다
+mission_skill_config-39332114,
+mission_skill_config-19332115,【标记】变电站过载特效
+mission_skill_config-29332115,
+mission_skill_config-39332115,
+mission_skill_config-19333001,【标记】控制台初始化
+mission_skill_config-29333001,
+mission_skill_config-39333001,
+mission_skill_config-19333002,권한 개방
+mission_skill_config-29333002,제어콘솔 I의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39333002,
+mission_skill_config-19333003,권한 동결
+mission_skill_config-29333003,제어콘솔 I의 최고 권한을 동결해//c 다른 시설과의 연결을 끊고 제어판을 닫는다.
+mission_skill_config-39333003,
+mission_skill_config-19333004,잠자는 명탐정?
+mission_skill_config-29333004,자기에 딱 좋은 의자가 있네. 그런데 이 모양으론 엉덩이가 큰 사람만 편하게 앉겠네?
+mission_skill_config-39333004,
+mission_skill_config-19333005,【标记】控制台无效化
+mission_skill_config-29333005,
+mission_skill_config-39333005,
+mission_skill_config-19333011,【标记】架子初始化
+mission_skill_config-29333011,
+mission_skill_config-39333011,
+mission_skill_config-19333012,소지
+mission_skill_config-29333012,제대에게 폭탄을 1개 소지시킨다. ※제대마다 폭탄을 최대 1개 소지할 수 있다.
+mission_skill_config-39333012,
+mission_skill_config-19333021,골리앗 투척
+mission_skill_config-29333021,이걸로 녀석의 머리통을 날려버리자~
+mission_skill_config-39333021,
+mission_skill_config-19333022,【标记】清除歌利亚buff
+mission_skill_config-29333022,
+mission_skill_config-39333022,
+mission_skill_config-19333201,【标记】控制台1初始化
+mission_skill_config-29333201,
+mission_skill_config-39333201,
+mission_skill_config-19333202,【标记】控制台2初始化
+mission_skill_config-29333202,
+mission_skill_config-39333202,
+mission_skill_config-19333203,【标记】防御门1初始化
+mission_skill_config-29333203,
+mission_skill_config-39333203,
+mission_skill_config-19333204,【标记】防御门2初始化
+mission_skill_config-29333204,
+mission_skill_config-39333204,
+mission_skill_config-19333205,【标记】防御门3初始化
+mission_skill_config-29333205,
+mission_skill_config-39333205,
+mission_skill_config-19333210,차단문 모두 닫기
+mission_skill_config-29333210,차단문 모두 닫기
+mission_skill_config-39333210,
+mission_skill_config-19333211,차단문I 열기
+mission_skill_config-29333211,차단문I을 연다
+mission_skill_config-39333211,
+mission_skill_config-19333212,차단문III 열기
+mission_skill_config-29333212,차단문III을 연다
+mission_skill_config-39333212,
+mission_skill_config-19333213,차단문III 열기
+mission_skill_config-29333213,차단문III을 연다
+mission_skill_config-39333213,
+mission_skill_config-19333214,차단문II 열기//c 차단문III 닫기
+mission_skill_config-29333214,차단문II을 연다//c 그리고 차단문III을 닫는다
+mission_skill_config-39333214,
+mission_skill_config-19333215,차단문III 열기
+mission_skill_config-29333215,차단문III을 연다
+mission_skill_config-39333215,
+mission_skill_config-19333216,차단문I 열기//c 차단문III 닫기
+mission_skill_config-29333216,차단문I을 연다//c 그리고 차단문III을 닫는다
+mission_skill_config-39333216,
+mission_skill_config-19333217,차단문II 닫기
+mission_skill_config-29333217,차단문II를 닫는다
+mission_skill_config-39333217,
+mission_skill_config-19333218,차단문I 닫기
+mission_skill_config-29333218,차단문I을 닫는다
+mission_skill_config-39333218,
+mission_skill_config-19333221,【标记】通用차단문 열기1
+mission_skill_config-29333221,
+mission_skill_config-39333221,
+mission_skill_config-19333222,【标记】通用차단문 열기2
+mission_skill_config-29333222,
+mission_skill_config-39333222,
+mission_skill_config-19333223,【标记】通用차단문 열기3
+mission_skill_config-29333223,
+mission_skill_config-39333223,
+mission_skill_config-19333224,【标记】通用차단문 닫기1
+mission_skill_config-29333224,
+mission_skill_config-39333224,
+mission_skill_config-19333225,【标记】通用차단문 닫기2
+mission_skill_config-29333225,
+mission_skill_config-39333225,
+mission_skill_config-19333226,【标记】通用차단문 닫기3
+mission_skill_config-29333226,
+mission_skill_config-39333226,
+mission_skill_config-19333230,차단문 모두 열기
+mission_skill_config-29333230,차단문 모두 열기
+mission_skill_config-39333230,
+mission_skill_config-19333231,【标记】차단문 열기1
+mission_skill_config-29333231,
+mission_skill_config-39333231,
+mission_skill_config-19333232,【标记】차단문 열기2
+mission_skill_config-29333232,
+mission_skill_config-39333232,
+mission_skill_config-19333233,【标记】차단문 열기3
+mission_skill_config-29333233,
+mission_skill_config-39333233,
+mission_skill_config-19333234,【标记】차단문 닫기1
+mission_skill_config-29333234,
+mission_skill_config-39333234,
+mission_skill_config-19333235,【标记】차단문 닫기2
+mission_skill_config-29333235,
+mission_skill_config-39333235,
+mission_skill_config-19333236,【标记】차단문 닫기3
+mission_skill_config-29333236,
+mission_skill_config-39333236,
+mission_skill_config-19333401,【标记】控制台1初始化
+mission_skill_config-29333401,
+mission_skill_config-39333401,
+mission_skill_config-19333402,【标记】控制台2初始化
+mission_skill_config-29333402,
+mission_skill_config-39333402,
+mission_skill_config-19333403,【标记】防御门1初始化
+mission_skill_config-29333403,
+mission_skill_config-39333403,
+mission_skill_config-19333404,【标记】防御门2初始化
+mission_skill_config-29333404,
+mission_skill_config-39333404,
+mission_skill_config-19333405,【标记】防御门3初始化
+mission_skill_config-29333405,
+mission_skill_config-39333405,
+mission_skill_config-19333411,권한 개방(제어콘솔 I)
+mission_skill_config-29333411,제어콘솔 I의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39333411,
+mission_skill_config-19333412,권한 개방(제어콘솔 II)
+mission_skill_config-29333412,제어콘솔 II의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39333412,
+mission_skill_config-19333413,문열기(차단문 I)
+mission_skill_config-29333413,차단문I을 연다
+mission_skill_config-39333413,
+mission_skill_config-19333414,문열기(차단문 II)
+mission_skill_config-29333414,차단문II을 연다
+mission_skill_config-39333414,
+mission_skill_config-19333415,문열기(차단문 III)
+mission_skill_config-29333415,차단문III을 연다
+mission_skill_config-39333415,
+mission_skill_config-19333416,【标记】권한 개방(제어콘솔 I)
+mission_skill_config-29333416,
+mission_skill_config-39333416,
+mission_skill_config-19333417,【标记】권한 개방(제어콘솔 II)
+mission_skill_config-29333417,
+mission_skill_config-39333417,
+mission_skill_config-19333418,문열기(차단문 I)
+mission_skill_config-29333418,차단문I을 연다
+mission_skill_config-39333418,
+mission_skill_config-19337201,【标记】污染源
+mission_skill_config-29337201,
+mission_skill_config-39337201,
+mission_skill_config-19336101,잠자는 명탐정?
+mission_skill_config-29336101,자기에 딱 좋은 의자가 있네. 그런데 이 모양으론 엉덩이가 큰 사람만 편하게 앉겠네?
+mission_skill_config-39336101,
+mission_skill_config-19336102,권한 개방
+mission_skill_config-29336102,제어콘솔 I의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336102,
+mission_skill_config-19336103,부탁해//c 골리앗!
+mission_skill_config-29336103,나의 앞길을 열어줘!
+mission_skill_config-39336103,
+mission_skill_config-12000011,【标记】弃置歌利亚架子描述
+mission_skill_config-22000011,그냥 평범한 거치대다.
+mission_skill_config-32000011,
+mission_skill_config-12000012,【标记】变电站描述
+mission_skill_config-22000012,"전기의 실용화는 인류의 2차 산업혁명을 추진했다."//n변전소를 가동해 일부 시설에 전기를 공급할 수 있습니다.
+mission_skill_config-32000012,
+mission_skill_config-12000013,【标记】EMP发生器描述
+mission_skill_config-22000013,"9//c 그거 알아? 전자제품은 불을 안 붙여도 불꽃놀이를 보여줄 수 있어."//n 주변의 적을 마비시키고 연결된 변전소를 과부하시킵니다.
+mission_skill_config-32000013,
+mission_skill_config-12000014,【标记】起爆装置描述
+mission_skill_config-22000014,"진정한 인형은 폭발을 뒤돌아보지 않지!"//n기폭장치를 가동해 폐건물에 매설한 폭탄을 터뜨립니다.
+mission_skill_config-32000014,
+mission_skill_config-12000015,【标记】废弃建筑描述
+mission_skill_config-22000015,"안에 있으면 나가고 싶고//c 나가면 들어오고 싶다."//n버려진 지 오래되어 보이는 건물입니다. 어느 정도 엄폐를 제공할 수 있습니다.
+mission_skill_config-32000015,
+mission_skill_config-12000016,【标记】建筑废墟描述
+mission_skill_config-22000016,"500년이나 지났다..."//n 건물의 잔해가 길을 막았습니다. 중화기로 치울 수 있어보입니다.
+mission_skill_config-32000016,
+mission_skill_config-19336201,【标记】限制操作次数1标记（拿兔子1的标记ss来用）
+mission_skill_config-29336201,
+mission_skill_config-39336201,
+mission_skill_config-19336202,【标记】제어콘솔 ④时解除限制(拿兔子2的标记ss来用）
+mission_skill_config-29336202,
+mission_skill_config-39336202,
+mission_skill_config-19336203,【标记】操作控制台时消除次数标记
+mission_skill_config-29336203,
+mission_skill_config-39336203,
+mission_skill_config-19336204,권한 개방
+mission_skill_config-29336204,제어콘솔 I형①의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336204,
+mission_skill_config-19336205,권한 개방
+mission_skill_config-29336205,제어콘솔 I형②의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336205,
+mission_skill_config-19336206,권한 개방
+mission_skill_config-29336206,제어콘솔 I형③의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336206,
+mission_skill_config-19336207,권한 개방
+mission_skill_config-29336207,제어콘솔 I형④의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336207,
+mission_skill_config-19336208,초기화
+mission_skill_config-29336208,모든 제어콘솔 I형을 닫고 모든 차단문 I을 닫는다
+mission_skill_config-39336208,
+mission_skill_config-19336209,【标记】重置锁门
+mission_skill_config-29336209,
+mission_skill_config-39336209,
+mission_skill_config-19336210,【标记】未解锁控④时逻辑-解门①
+mission_skill_config-29336210,
+mission_skill_config-39336210,
+mission_skill_config-19336211,【标记】未解锁控④时逻辑-解门②
+mission_skill_config-29336211,
+mission_skill_config-39336211,
+mission_skill_config-19336212,【标记】未解锁控④时逻辑-解门③
+mission_skill_config-29336212,
+mission_skill_config-39336212,
+mission_skill_config-19336213,【标记】未解锁控④时逻辑-解门④
+mission_skill_config-29336213,
+mission_skill_config-39336213,
+mission_skill_config-19336214,【标记】已解控④时逻辑-对口全解
+mission_skill_config-29336214,
+mission_skill_config-39336214,
+mission_skill_config-19336215,권한 개방
+mission_skill_config-29336215,제어콘솔 I형④의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336215,
+mission_skill_config-19336216,【标记】【弃用】解锁控④自动重置所有门
+mission_skill_config-29336216,
+mission_skill_config-39336216,
+mission_skill_config-19336217,권한 개방
+mission_skill_config-29336217,제어콘솔 I형①의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336217,
+mission_skill_config-19336218,권한 개방
+mission_skill_config-29336218,제어콘솔 I형②의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336218,
+mission_skill_config-19336219,권한 개방
+mission_skill_config-29336219,제어콘솔 I형③의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336219,
+mission_skill_config-19336304,권한 개방
+mission_skill_config-29336304,제어콘솔 I형①의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336304,
+mission_skill_config-19336305,권한 개방
+mission_skill_config-29336305,제어콘솔 I형②의 최고권한을 개방하여//c 콘솔 번호와 대응한 모든 시설의 제어판을 연다. 
+mission_skill_config-39336305,
+mission_skill_config-19336306,문 열기(차단문 I형③)
+mission_skill_config-29336306,차단문I을 연다
+mission_skill_config-39336306,
+mission_skill_config-19337202,【标记】污染源【回合伤害】
+mission_skill_config-29337202,
+mission_skill_config-39337202,
+mission_skill_config-19333601,【标记】列车炮1
+mission_skill_config-29333601,
+mission_skill_config-39333601,
+mission_skill_config-19333602,【标记】列车炮2
+mission_skill_config-29333602,
+mission_skill_config-39333602,
+mission_skill_config-19333603,【标记】列车炮3
+mission_skill_config-29333603,
+mission_skill_config-39333603,
+mission_skill_config-19333604,？？？
+mission_skill_config-29333604,동부 시찰 복귀 후 보낸 편지다.
+mission_skill_config-39333604,
+mission_skill_config-19333605,【标记】控制台
+mission_skill_config-29333605,
+mission_skill_config-39333605,
+mission_skill_config-19333611,【标记】列车炮1被炸
+mission_skill_config-29333611,
+mission_skill_config-39333611,
+mission_skill_config-19333612,【标记】列车炮2被炸
+mission_skill_config-29333612,
+mission_skill_config-39333612,
+mission_skill_config-19333613,【标记】列车炮3被炸
+mission_skill_config-29333613,
+mission_skill_config-39333613,
+mission_skill_config-19333614,【标记】控制台失效
+mission_skill_config-29333614,
+mission_skill_config-39333614,
+mission_skill_config-19336401,？？？
+mission_skill_config-29336401,동부 시찰 복귀 후 보낸 편지다.
+mission_skill_config-39336401,
