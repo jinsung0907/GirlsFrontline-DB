@@ -32273,6 +32273,11 @@ battle_skill_config-511280510,
 battle_skill_config-211280510,
 battle_skill_config-311280510,
 battle_skill_config-411280510,
+battle_skill_config-111280601,kord无用普攻[*]
+battle_skill_config-511280601,
+battle_skill_config-211280601,
+battle_skill_config-311280601,
+battle_skill_config-411280601,
 battle_skill_config-111290101,유비무환
 battle_skill_config-511290101,
 battle_skill_config-211290101,액티브:스킬 발동 시 예비 탄띠를 사용하기 시작한다. 사격마다 예비 탄띠를 1발 소모하며//c 화력이 10% 상승하지만 5초간 명중이 25%씩 최대 10회 중첩하여 감소한다.//n예비 탄띠는 남은 장탄을 소진한 후 사용하며//c 스킬 버튼을 다시 누르면 해제한다.//n패시브:전투 개시 시 예비 탄띠를 30발 소지하며//c 장전 중이 아닐 때 3초마다 예비 탄띠가 1발 증가한다.
@@ -32543,6 +32548,11 @@ battle_skill_config-511300310,
 battle_skill_config-211300310,突击步枪的普通攻击
 battle_skill_config-311300310,
 battle_skill_config-411300310,
+battle_skill_config-111300401,acr无用普攻[*]
+battle_skill_config-511300401,
+battle_skill_config-211300401,
+battle_skill_config-311300401,
+battle_skill_config-411300401,
 battle_skill_config-111310101,위협 마크
 battle_skill_config-511310101,
 battle_skill_config-211310101,액티브:자신의 사속이 15% 상승한다//c 지속시간 5초. 또한 체력과 보호막의 합이 가장 큰 적 3기에게 표식을 부여하여//c 받는 피해량을 10% 상승시킨다. 자신은 표식된 적을 우선으로 공격하며//c 공격할 때마다 주는 피해량이 0.3배씩 최대 3회 상승한다.//n패시브:공격이 보호막을 관통하며//c 체력과 보호막에 같은 피해를 준다.
