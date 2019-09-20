@@ -1010,6 +1010,16 @@ function getcharimgdir($str, $emo) {
 					case 11: $result = "dolls/" . $result . "_5_D"; break;
 				}
 			}
+			else if($str == 'UMP9Mod') {
+				switch($emo) {
+					case 1: $result = "dolls/" . $result . "_D"; break;
+					case 2: $result = "dolls/" . $result . "_1"; break;
+					case 3: $result = "dolls/" . $result . "_2"; break;
+					case 4: $result = "dolls/" . $result . "_3"; break;
+					case 5: $result = "dolls/" . $result . "_4"; break;
+					case 6: $result = "dolls/" . $result . "_5"; break;
+				}
+			}
 			else {
 				switch($emo) {
 					case 1: $result = "dolls/" . $result . "_D"; break;
