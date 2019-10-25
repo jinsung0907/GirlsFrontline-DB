@@ -209,3 +209,5 @@ va11_cg1
 2019summer_13
 2019summer_14
 2019summer_15
+2019halloween_1
+2019halloween_2

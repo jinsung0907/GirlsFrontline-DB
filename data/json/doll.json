@@ -111,7 +111,7 @@
 	},
 	"grow": 110,
 	"canequip": {
-		"1": [4, 13],
+		"1": [4, 13, 16],
 		"2": [6],
 		"3": [9, 10]
 	},
@@ -142,7 +142,7 @@
 	"illust": "REALMBW",
 	"voice": "",
 	"buildTime": 3180,
-	"drop": "211",
+	"drop": "411",
 	"stats": {
 		"hp": 105,
 		"pow": 128,
@@ -773,7 +773,7 @@
 	"canequip": {
 		"1": [9, 10],
 		"2": [6],
-		"3": [1, 2, 3, 4, 13]
+		"3": [1, 2, 3, 4, 13, 16]
 	},
 	"effect": {
 		"effectType": "ar",
@@ -1913,9 +1913,9 @@
 		}
 	},
 	"skill": {
-		"realid": 102904,
-		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
-		"intercd": 8,
+		"realid": 102905,
+		"cd": [16, 15.6, 15.1, 14.7, 14.2, 13.8, 13.3, 12.9, 12.4, 12],
+		"intercd": 4,
 		"code": "AimAttackSpecificTarge"
 	}
 }, {
@@ -3437,7 +3437,7 @@
 	"canequip": {
 		"1": [5],
 		"2": [1, 2, 3],
-		"3": [9, 14]
+		"3": [9, 14, 12]
 	},
 	"effect": {
 		"effectType": "sg",
@@ -7671,9 +7671,9 @@
 		}
 	},
 	"skill": {
-		"realid": 105706,
-		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
-		"intercd": 6,
+		"realid": 900216,
+		"cd": [16, 15.6, 15.1, 14.7, 14.2, 13.8, 13.3, 12.9, 12.4, 12],
+		"intercd": 4,
 		"code": "AimAttackDistanceTarge"
 	}
 }, {
@@ -8202,9 +8202,9 @@
 		}
 	},
 	"skill": {
-		"realid": 105708,
-		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
-		"intercd": 6,
+		"realid": 900217,
+		"cd": [16, 15.6, 15.1, 14.7, 14.2, 13.8, 13.3, 12.9, 12.4, 12],
+		"intercd": 4,
 		"code": "AimAttackDistanceTarge"
 	}
 }, {
@@ -8570,7 +8570,7 @@
 	"illust": "荒境TS",
 	"voice": "Izumi Chiba",
 	"buildTime": 15600,
-	"drop": "1801",
+	"drop": "411",
 	"stats": {
 		"hp": 100,
 		"pow": 132,
@@ -8920,7 +8920,7 @@
 	"illust": "spirtie",
 	"voice": "Harumi Sowa",
 	"buildTime": 6600,
-	"drop": "1803",
+	"drop": "411",
 	"stats": {
 		"hp": 108,
 		"pow": 105,
@@ -8963,7 +8963,7 @@
 	"illust": "小吃",
 	"voice": "Asuka Kawakami",
 	"buildTime": 2700,
-	"drop": "1802",
+	"drop": "411",
 	"stats": {
 		"hp": 115,
 		"pow": 125,
@@ -9270,7 +9270,7 @@
 	"illust": "Kincora",
 	"voice": "Ayaka Fujii",
 	"buildTime": 15600,
-	"drop": "1804",
+	"drop": "411",
 	"stats": {
 		"hp": 92,
 		"pow": 90,
@@ -9313,7 +9313,7 @@
 	"illust": "狂気の君",
 	"voice": "Asuka Kawakami",
 	"buildTime": 6600,
-	"drop": "1805",
+	"drop": "411",
 	"stats": {
 		"hp": 105,
 		"pow": 98,
@@ -9356,7 +9356,7 @@
 	"illust": "油库狸",
 	"voice": "Izumi Chiba",
 	"buildTime": 2700,
-	"drop": "1806",
+	"drop": "411",
 	"stats": {
 		"hp": 105,
 		"pow": 120,
@@ -9470,9 +9470,9 @@
 		}
 	},
 	"skill": {
-		"realid": 110016,
-		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
-		"intercd": 10,
+		"realid": 900218,
+		"cd": [15, 14.6, 14.1, 13.7, 13.2, 12.8, 12.3, 11.9, 11.4, 11],
+		"intercd": 5,
 		"code": "AimAttackDistanceTarge"
 	}
 }, {
@@ -9619,7 +9619,7 @@
 	"illust": "黑猫桃园",
 	"voice": "",
 	"buildTime": 15600,
-	"drop": "211",
+	"drop": "411",
 	"stats": {
 		"hp": 92,
 		"pow": 92,
@@ -9662,7 +9662,7 @@
 	"illust": "工口牛",
 	"voice": "",
 	"buildTime": 12300,
-	"drop": "211",
+	"drop": "411",
 	"stats": {
 		"hp": 102,
 		"pow": 118,
@@ -9750,7 +9750,7 @@
 	"illust": "水熊",
 	"voice": "",
 	"buildTime": 29160,
-	"drop": "211",
+	"drop": "411",
 	"stats": {
 		"hp": 120,
 		"pow": 112,
@@ -10743,9 +10743,9 @@
 		}
 	},
 	"skill": {
-		"realid": 111101,
-		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
-		"intercd": 10,
+		"realid": 900214,
+		"cd": [15, 14.6, 14.1, 13.7, 13.2, 12.8, 12.3, 11.9, 11.4, 11],
+		"intercd": 5,
 		"code": "KVSKShoot"
 	}
 }, {
@@ -11137,9 +11137,9 @@
 		}
 	},
 	"skill": {
-		"realid": 111801,
-		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
-		"intercd": 8,
+		"realid": 900215,
+		"cd": [16, 15.6, 15.1, 14.7, 14.2, 13.8, 13.3, 12.9, 12.4, 12],
+		"intercd": 4,
 		"code": "88sniper"
 	}
 }, {
@@ -11845,6 +11845,52 @@
 		"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
 		"intercd": 6,
 		"code": "powDebuff"
+	}
+}, {
+	"id": 278,
+	"name": "Six12",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "sg",
+	"illust": "",
+	"voice": "",
+	"buildTime": 26100,
+	"drop": "1910",
+	"stats": {
+		"hp": 110,
+		"pow": 115,
+		"hit": 110,
+		"dodge": 105,
+		"speed": 100,
+		"rate": 115,
+		"armor": 106,
+		"armorPiercing": 15,
+		"crit": 40,
+		"bullet": 4
+	},
+	"grow": 108,
+	"canequip": {
+		"1": [9, 11],
+		"2": [7],
+		"3": [1, 2, 3, 4]
+	},
+	"effect": {
+		"effectType": "mg",
+		"effectCenter": 8,
+		"effectPos": [1, 2],
+		"gridEffect": {
+			"pow": 10,
+			"hit": 20
+		}
+	},
+	"skill": {
+		"realid": 103202,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 8,
+		"code": "Shotgun"
 	}
 }, {
 	"id": 1001,

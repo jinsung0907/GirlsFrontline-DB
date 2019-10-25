@@ -741,3 +741,17 @@ AudioBGM|m_19summer_song|m_19summer_song|BGM
 
 //宿舍探索玩法
 AudioBGM|AMB_tvmusic_random|AMB_tvmusic_random|BGM
+
+//宿舍天台系列家具的特殊音乐
+AudioBGM|m_halloween19_cury|m_halloween19_cury|BGM
+AudioBGM|stop_m_halloween19_cury|stop_m_halloween19_cury|BGM
+
+//2019年万圣节活动的BGM
+//主界面
+//AudioBGM|BGM_SpecialOPS|m_halloween19_host|BGM //← 旧的活动界面BGM配置格式（对应 魔方行动、失温症、深层映射等
+AudioBGM|Campaion-34|m_halloween19_host|BGM //←新的活动界面BGM配置格式（对应 塌缩点、有序紊流、异构体等 ||旧的活动模式也可兼容
+//关卡
+AudioBGM|10381|m_halloween19_made_in_heaven|BGM
+AudioBGM|10382|m_halloween19_made_in_heaven|BGM
+AudioBGM|10383|m_halloween19_made_in_heaven|BGM
+AudioBGM|10384|m_halloween19_made_in_heaven|BGM

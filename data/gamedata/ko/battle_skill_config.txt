@@ -16671,7 +16671,7 @@ battle_skill_config-490011908,
 battle_skill_config-190011909,통곡의 인형
 battle_skill_config-590011909,
 battle_skill_config-290011909,다음 전투에서 체력 500의 분신 2기를 소환하여//c 모든 적에게 분신의 개수당 90씩의 피해를 입힌다.
-battle_skill_config-390011909,표적 체력 : 500//c전체 피해 : 90
+battle_skill_config-390011909,표적 체력 : 900//c전체 피해 : 90
 battle_skill_config-490011909,
 battle_skill_config-190011910,통곡의 인형
 battle_skill_config-590011910,
@@ -26818,12 +26818,12 @@ battle_skill_config-511151101,
 battle_skill_config-211151101,
 battle_skill_config-311151101,
 battle_skill_config-411151101,
-battle_skill_config-170200101,국지전 우세인형-NTW20//c95식//c9A91
+battle_skill_config-170200101,국지전 우세인형-97식//c95식//c9A91
 battle_skill_config-570200101,
 battle_skill_config-270200101,冬活优势人形
 battle_skill_config-370200101,
 battle_skill_config-470200101,
-battle_skill_config-170200201,국지전 우세인형-HK21//cDSR-50
+battle_skill_config-170200201,국지전 우세인형-HK21//cDSR-50//cksvk//c리베롤
 battle_skill_config-570200201,
 battle_skill_config-270200201,冬活优势人形
 battle_skill_config-370200201,
@@ -26833,7 +26833,7 @@ battle_skill_config-570200301,
 battle_skill_config-270200301,冬活优势人形
 battle_skill_config-370200301,
 battle_skill_config-470200301,
-battle_skill_config-170200401,국지전 우세인형-K2//c98K
+battle_skill_config-170200401,국지전 우세인형-K2//c98K//cntw-20//cqbu-88
 battle_skill_config-570200401,
 battle_skill_config-270200401,冬活优势人形
 battle_skill_config-370200401,
@@ -26848,17 +26848,17 @@ battle_skill_config-570200601,
 battle_skill_config-270200601,冬活优势人形
 battle_skill_config-370200601,
 battle_skill_config-470200601,
-battle_skill_config-170200701,국지전 우세인형-언니카노
+battle_skill_config-170200701,국지전 우세인형-언니카노//cADS
 battle_skill_config-570200701,
 battle_skill_config-270200701,冬活优势人形
 battle_skill_config-370200701,
 battle_skill_config-470200701,
-battle_skill_config-170200801,국지전 우세인형-SPAS12
+battle_skill_config-170200801,국지전 우세인형-SPAS12//csuper-shorty
 battle_skill_config-570200801,
 battle_skill_config-270200801,冬活优势人形
 battle_skill_config-370200801,
 battle_skill_config-470200801,
-battle_skill_config-170200901,국지전 우세인형-M99//c썬더
+battle_skill_config-170200901,국지전 우세인형-M99//c썬더//c아멜리//cGSH-18
 battle_skill_config-570200901,
 battle_skill_config-270200901,冬活优势人形
 battle_skill_config-370200901,
@@ -26868,7 +26868,7 @@ battle_skill_config-570201001,
 battle_skill_config-270201001,冬活优势人形
 battle_skill_config-370201001,
 battle_skill_config-470201001,
-battle_skill_config-170201101,국지전 우세인형-P7//cMP5
+battle_skill_config-170201101,국지전 우세인형-P7//cMP5//c스텐//c토카레프
 battle_skill_config-570201101,
 battle_skill_config-270201101,冬活优势人形
 battle_skill_config-370201101,
@@ -26878,6 +26878,16 @@ battle_skill_config-570201201,
 battle_skill_config-270201201,冬活优势人形
 battle_skill_config-370201201,
 battle_skill_config-470201201,
+battle_skill_config-170201301,국지전 우세인형-97식 산탄총
+battle_skill_config-570201301,
+battle_skill_config-270201301,冬活优势人形
+battle_skill_config-370201301,
+battle_skill_config-470201301,
+battle_skill_config-170201401,국지전 우세인형-NZ75
+battle_skill_config-570201401,
+battle_skill_config-270201401,冬活优势人形
+battle_skill_config-370201401,
+battle_skill_config-470201401,
 battle_skill_config-151020101,충격 확산
 battle_skill_config-551020101,
 battle_skill_config-251020101,왜곡방벽을 지닌 유닛을 공격 시 50%의 확률로 반경 2.5 범위 안의 적에게 추가로 1배의 피해를 준다.
@@ -34223,6 +34233,26 @@ battle_skill_config-550103301,
 battle_skill_config-250103301,
 battle_skill_config-350103301,
 battle_skill_config-450103301,
+battle_skill_config-190022101,德皇锁链
+battle_skill_config-590022101,
+battle_skill_config-290022101,
+battle_skill_config-390022101,
+battle_skill_config-490022101,
+battle_skill_config-190022201,PZJS贯通
+battle_skill_config-590022201,
+battle_skill_config-290022201,
+battle_skill_config-390022201,
+battle_skill_config-490022201,
+battle_skill_config-190022301,88式乱石
+battle_skill_config-590022301,
+battle_skill_config-290022301,
+battle_skill_config-390022301,
+battle_skill_config-490022301,
+battle_skill_config-190022401,ksvk用
+battle_skill_config-590022401,
+battle_skill_config-290022401,
+battle_skill_config-390022401,
+battle_skill_config-490022401,
 battle_skill_config-150103001,sv98蓄力叠加
 battle_skill_config-550103001,
 battle_skill_config-250103001,
@@ -34788,56 +34818,6 @@ battle_skill_config-510300510,
 battle_skill_config-210300510,스킬 쿨타임 종료 후 1초마다 1회//c 최대 7회 충전한다. 스킬 발동 시 1.5초간 조준 후//c 충전 횟수에 따라 현재 공격 대상에게 3~6.5배의 피해를 주고 충전을 해제한다.
 battle_skill_config-310300510,쿨타임:9초//c기초 피해 배율:3배//c최대 피해 배율:6.5배
 battle_skill_config-410300510,
-battle_skill_config-110290501,이중저격
-battle_skill_config-510290501,
-battle_skill_config-210290501,발동 시 1초씩 2번 조준 후 현재 공격 대상에게 1.5배 피해를 준다. 이에 더불어//c 충전한 1초마다 피해량이 0.5배 상승한다.
-battle_skill_config-310290501,쿨타임:20초//c기초 피해 배율:1.5배
-battle_skill_config-410290501,
-battle_skill_config-110290502,이중저격
-battle_skill_config-510290502,
-battle_skill_config-210290502,1초씩 두번 조준 사격하여//c 각각 현재 공격 대상에게 1.7배의 피해를 입힌다.
-battle_skill_config-310290502,쿨타임:19.6초//c피해 배율:1.7배
-battle_skill_config-410290502,
-battle_skill_config-110290503,이중저격
-battle_skill_config-510290503,
-battle_skill_config-210290503,1초씩 두번 조준 사격하여//c 각각 현재 공격 대상에게 1.9배의 피해를 입힌다.
-battle_skill_config-310290503,쿨타임:19.1초//c피해 배율:1.9배
-battle_skill_config-410290503,
-battle_skill_config-110290504,이중저격
-battle_skill_config-510290504,
-battle_skill_config-210290504,1초씩 두번 조준 사격하여//c 각각 현재 공격 대상에게 2.2배의 피해를 입힌다.
-battle_skill_config-310290504,쿨타임:18.7초//c피해 배율:2.2배
-battle_skill_config-410290504,
-battle_skill_config-110290505,이중저격
-battle_skill_config-510290505,
-battle_skill_config-210290505,1초씩 두번 조준 사격하여//c 각각 현재 공격 대상에게 2.4배의 피해를 입힌다.
-battle_skill_config-310290505,쿨타임:18.2초//c피해 배율:2.4배
-battle_skill_config-410290505,
-battle_skill_config-110290506,이중저격
-battle_skill_config-510290506,
-battle_skill_config-210290506,1초씩 두번 조준 사격하여//c 각각 현재 공격 대상에게 2.6배의 피해를 입힌다.
-battle_skill_config-310290506,쿨타임:17.8초//c피해 배율:2.6배
-battle_skill_config-410290506,
-battle_skill_config-110290507,이중저격
-battle_skill_config-510290507,
-battle_skill_config-210290507,1초씩 두번 조준 사격하여//c 각각 현재 공격 대상에게 2.8배의 피해를 입힌다.
-battle_skill_config-310290507,쿨타임:17.3초//c피해 배율:2.8배
-battle_skill_config-410290507,
-battle_skill_config-110290508,이중저격
-battle_skill_config-510290508,
-battle_skill_config-210290508,1초씩 두번 조준 사격하여//c 각각 현재 공격 대상에게 3.1배의 피해를 입힌다.
-battle_skill_config-310290508,쿨타임:16.9초//c피해 배율:3.1배
-battle_skill_config-410290508,
-battle_skill_config-110290509,이중저격
-battle_skill_config-510290509,
-battle_skill_config-210290509,1초씩 두번 조준 사격하여//c 각각 현재 공격 대상에게 3.3배의 피해를 입힌다.
-battle_skill_config-310290509,쿨타임:16.4초//c피해 배율:3.3배
-battle_skill_config-410290509,
-battle_skill_config-110290510,이중저격
-battle_skill_config-510290510,
-battle_skill_config-210290510,1초씩 두번 조준 사격하여//c 각각 현재 공격 대상에게 3.5배의 피해를 입힌다.
-battle_skill_config-310290510,쿨타임:16초//c피해 배율:3.5배
-battle_skill_config-410290510,
 battle_skill_config-180060501,저격개시
 battle_skill_config-580060501,
 battle_skill_config-280060501,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다. 스킬 발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 먼 대상에게 2~3.2배의 피해를 주고 충전을 해제한다.
@@ -35763,3 +35743,1053 @@ battle_skill_config-540550201,
 battle_skill_config-240550201,
 battle_skill_config-340550201,
 battle_skill_config-440550201,
+battle_skill_config-190015901,2중 수호
+battle_skill_config-590015901,
+battle_skill_config-290015901,다음 전투에서 체력을 300 지닌 요정 분신을 2개 소환한다//c 두 분신 중 하나가 소멸할 시 다른 하나도 소멸한다.//n방패 분신은 장갑을 20 지니며//c 2초마다 가장 가까운 적 주위  2 범위 안의 적에게 42 피해를 준다.//n미사일 분신은 회피를 30 지니며//c 2초마다 제일 멀리 있는 적 하나에게 126 피해를 준다.
+battle_skill_config-390015901,분신 체력:300//c방패 분신 피해량:42//c미사일 분신 피해량:126
+battle_skill_config-490015901,
+battle_skill_config-190015902,2중 수호
+battle_skill_config-590015902,
+battle_skill_config-290015902,다음 전투에서 체력을 350 지닌 요정 분신을 2개 소환한다//c 두 분신 중 하나가 소멸할 시 다른 하나도 소멸한다.//n방패 분신은 장갑을 20 지니며//c 2초마다 가장 가까운 적 주위  2 범위 안의 적에게 54 피해를 준다.//n미사일 분신은 회피를 30 지니며//c 2초마다 제일 멀리 있는 적 하나에게 162 피해를 준다.
+battle_skill_config-390015902,분신 체력:350//c방패 분신 피해량:54//c미사일 분신 피해량:162
+battle_skill_config-490015902,
+battle_skill_config-190015903,2중 수호
+battle_skill_config-590015903,
+battle_skill_config-290015903,다음 전투에서 체력을 400 지닌 요정 분신을 2개 소환한다//c 두 분신 중 하나가 소멸할 시 다른 하나도 소멸한다.//n방패 분신은 장갑을 20 지니며//c 2초마다 가장 가까운 적 주위  2 범위 안의 적에게 66 피해를 준다.//n미사일 분신은 회피를 30 지니며//c 2초마다 제일 멀리 있는 적 하나에게 198 피해를 준다.
+battle_skill_config-390015903,분신 체력:400//c방패 분신 피해량:66//c미사일 분신 피해량:198
+battle_skill_config-490015903,
+battle_skill_config-190015904,2중 수호
+battle_skill_config-590015904,
+battle_skill_config-290015904,다음 전투에서 체력을 450 지닌 요정 분신을 2개 소환한다//c 두 분신 중 하나가 소멸할 시 다른 하나도 소멸한다.//n방패 분신은 장갑을 20 지니며//c 2초마다 가장 가까운 적 주위  2 범위 안의 적에게 78 피해를 준다.//n미사일 분신은 회피를 30 지니며//c 2초마다 제일 멀리 있는 적 하나에게 234 피해를 준다.
+battle_skill_config-390015904,분신 체력:450//c방패 분신 피해량:78//c미사일 분신 피해량:234
+battle_skill_config-490015904,
+battle_skill_config-190015905,2중 수호
+battle_skill_config-590015905,
+battle_skill_config-290015905,다음 전투에서 체력을 500 지닌 요정 분신을 2개 소환한다//c 두 분신 중 하나가 소멸할 시 다른 하나도 소멸한다.//n방패 분신은 장갑을 20 지니며//c 2초마다 가장 가까운 적 주위  2 범위 안의 적에게 90 피해를 준다.//n미사일 분신은 회피를 30 지니며//c 2초마다 제일 멀리 있는 적 하나에게 270 피해를 준다.
+battle_skill_config-390015905,분신 체력:500//c방패 분신 피해량:90//c미사일 분신 피해량:270
+battle_skill_config-490015905,
+battle_skill_config-190015906,2중 수호
+battle_skill_config-590015906,
+battle_skill_config-290015906,다음 전투에서 체력을 550 지닌 요정 분신을 2개 소환한다//c 두 분신 중 하나가 소멸할 시 다른 하나도 소멸한다.//n방패 분신은 장갑을 20 지니며//c 2초마다 가장 가까운 적 주위  2 범위 안의 적에게 102 피해를 준다.//n미사일 분신은 회피를 30 지니며//c 2초마다 제일 멀리 있는 적 하나에게 306 피해를 준다.
+battle_skill_config-390015906,분신 체력:550//c방패 분신 피해량:102//c미사일 분신 피해량:306
+battle_skill_config-490015906,
+battle_skill_config-190015907,2중 수호
+battle_skill_config-590015907,
+battle_skill_config-290015907,다음 전투에서 체력을 600 지닌 요정 분신을 2개 소환한다//c 두 분신 중 하나가 소멸할 시 다른 하나도 소멸한다.//n방패 분신은 장갑을 20 지니며//c 2초마다 가장 가까운 적 주위  2 범위 안의 적에게 114 피해를 준다.//n미사일 분신은 회피를 30 지니며//c 2초마다 제일 멀리 있는 적 하나에게 342 피해를 준다.
+battle_skill_config-390015907,분신 체력:600//c방패 분신 피해량:114//c미사일 분신 피해량:342
+battle_skill_config-490015907,
+battle_skill_config-190015908,2중 수호
+battle_skill_config-590015908,
+battle_skill_config-290015908,다음 전투에서 체력을 650 지닌 요정 분신을 2개 소환한다//c 두 분신 중 하나가 소멸할 시 다른 하나도 소멸한다.//n방패 분신은 장갑을 20 지니며//c 2초마다 가장 가까운 적 주위  2 범위 안의 적에게 126 피해를 준다.//n미사일 분신은 회피를 30 지니며//c 2초마다 제일 멀리 있는 적 하나에게 378 피해를 준다.
+battle_skill_config-390015908,분신 체력:650//c방패 분신 피해량:126//c미사일 분신 피해량:378
+battle_skill_config-490015908,
+battle_skill_config-190015909,2중 수호
+battle_skill_config-590015909,
+battle_skill_config-290015909,다음 전투에서 체력을 700 지닌 요정 분신을 2개 소환한다//c 두 분신 중 하나가 소멸할 시 다른 하나도 소멸한다.//n방패 분신은 장갑을 20 지니며//c 2초마다 가장 가까운 적 주위  2 범위 안의 적에게 138 피해를 준다.//n미사일 분신은 회피를 30 지니며//c 2초마다 제일 멀리 있는 적 하나에게 414 피해를 준다.
+battle_skill_config-390015909,분신 체력:700//c방패 분신 피해량:138//c미사일 분신 피해량:414
+battle_skill_config-490015909,
+battle_skill_config-190015910,2중 수호
+battle_skill_config-590015910,
+battle_skill_config-290015910,다음 전투에서 체력을 750 지닌 요정 분신을 2개 소환한다//c 두 분신 중 하나가 소멸할 시 다른 하나도 소멸한다.//n방패 분신은 장갑을 20 지니며//c 2초마다 가장 가까운 적 주위  2 범위 안의 적에게 150 피해를 준다.//n미사일 분신은 회피를 30 지니며//c 2초마다 제일 멀리 있는 적 하나에게 450 피해를 준다.
+battle_skill_config-390015910,분신 체력:750//c방패 분신 피해량:150//c미사일 분신 피해량:450
+battle_skill_config-490015910,
+battle_skill_config-190016101,3416触发自毁
+battle_skill_config-590016101,
+battle_skill_config-290016101,
+battle_skill_config-390016101,
+battle_skill_config-490016101,
+battle_skill_config-190016201,3415触发自毁
+battle_skill_config-590016201,
+battle_skill_config-290016201,
+battle_skill_config-390016201,
+battle_skill_config-490016201,
+battle_skill_config-190016301,技3415赋予
+battle_skill_config-590016301,
+battle_skill_config-290016301,
+battle_skill_config-390016301,
+battle_skill_config-490016301,
+battle_skill_config-190016401,技3416赋予
+battle_skill_config-590016401,
+battle_skill_config-290016401,
+battle_skill_config-390016401,
+battle_skill_config-490016401,
+battle_skill_config-190016501,나른한 파도
+battle_skill_config-590016501,
+battle_skill_config-290016501,다음 전투 개시 시//c 여름의 파도를 소환해 적을 밀어내고//c 모든 적의 이동속도를 10%//c 사속을 10% 감소시킨다//c 지속시간 5초.
+battle_skill_config-390016501,사속 감소치:10%//c이동속도 감소치:10%
+battle_skill_config-490016501,
+battle_skill_config-190016502,나른한 파도
+battle_skill_config-590016502,
+battle_skill_config-290016502,다음 전투 개시 시//c 여름의 파도를 소환해 적을 밀어내고//c 모든 적의 이동속도를 11.7%//c 사속을 11.7% 감소시킨다//c 지속시간 5초.
+battle_skill_config-390016502,사속 감소치:11.7%//c이동속도 감소치:11.7%
+battle_skill_config-490016502,
+battle_skill_config-190016503,나른한 파도
+battle_skill_config-590016503,
+battle_skill_config-290016503,다음 전투 개시 시//c 여름의 파도를 소환해 적을 밀어내고//c 모든 적의 이동속도를 13.3%//c 사속을 13.3% 감소시킨다//c 지속시간 5초.
+battle_skill_config-390016503,사속 감소치:13.3%//c이동속도 감소치:13.3%
+battle_skill_config-490016503,
+battle_skill_config-190016504,나른한 파도
+battle_skill_config-590016504,
+battle_skill_config-290016504,다음 전투 개시 시//c 여름의 파도를 소환해 적을 밀어내고//c 모든 적의 이동속도를 15%//c 사속을 15% 감소시킨다//c 지속시간 5초.
+battle_skill_config-390016504,사속 감소치:15%//c이동속도 감소치:15%
+battle_skill_config-490016504,
+battle_skill_config-190016505,나른한 파도
+battle_skill_config-590016505,
+battle_skill_config-290016505,다음 전투 개시 시//c 여름의 파도를 소환해 적을 밀어내고//c 모든 적의 이동속도를 16.7%//c 사속을 16.7% 감소시킨다//c 지속시간 5초.
+battle_skill_config-390016505,사속 감소치:16.7%//c이동속도 감소치:16.7%
+battle_skill_config-490016505,
+battle_skill_config-190016506,나른한 파도
+battle_skill_config-590016506,
+battle_skill_config-290016506,다음 전투 개시 시//c 여름의 파도를 소환해 적을 밀어내고//c 모든 적의 이동속도를 18.3%//c 사속을 18.3% 감소시킨다//c 지속시간 5초.
+battle_skill_config-390016506,사속 감소치:18.3%//c이동속도 감소치:18.3%
+battle_skill_config-490016506,
+battle_skill_config-190016507,나른한 파도
+battle_skill_config-590016507,
+battle_skill_config-290016507,다음 전투 개시 시//c 여름의 파도를 소환해 적을 밀어내고//c 모든 적의 이동속도를 20%//c 사속을 20% 감소시킨다//c 지속시간 5초.
+battle_skill_config-390016507,사속 감소치:20%//c이동속도 감소치:20%
+battle_skill_config-490016507,
+battle_skill_config-190016508,나른한 파도
+battle_skill_config-590016508,
+battle_skill_config-290016508,다음 전투 개시 시//c 여름의 파도를 소환해 적을 밀어내고//c 모든 적의 이동속도를 21.7%//c 사속을 21.7% 감소시킨다//c 지속시간 5초.
+battle_skill_config-390016508,사속 감소치:21.7%//c이동속도 감소치:21.7%
+battle_skill_config-490016508,
+battle_skill_config-190016509,나른한 파도
+battle_skill_config-590016509,
+battle_skill_config-290016509,다음 전투 개시 시//c 여름의 파도를 소환해 적을 밀어내고//c 모든 적의 이동속도를 23.3%//c 사속을 23.3% 감소시킨다//c 지속시간 5초.
+battle_skill_config-390016509,사속 감소치:23.3%//c이동속도 감소치:23.3%
+battle_skill_config-490016509,
+battle_skill_config-190016510,나른한 파도
+battle_skill_config-590016510,
+battle_skill_config-290016510,다음 전투 개시 시//c 여름의 파도를 소환해 적을 밀어내고//c 모든 적의 이동속도를 25%//c 사속을 25% 감소시킨다//c 지속시간 5초.
+battle_skill_config-390016510,사속 감소치:25%//c이동속도 감소치:25%
+battle_skill_config-490016510,
+battle_skill_config-190016601,群体击退
+battle_skill_config-590016601,
+battle_skill_config-290016601,
+battle_skill_config-390016601,
+battle_skill_config-490016601,
+battle_skill_config-190016701,필살 콤보
+battle_skill_config-590016701,
+battle_skill_config-290016701,이번 턴//c 해당 제대가 전투에 진입할 때마다 연타 효과를 1층 부여한다//c 최대 3회 중첩 가능//c 1턴간 지속.//n 연타 효과: 다음 전투에서 제대 전체의 화력이 5%//c 명중이 10% 상승한다//c 지속시간 20초.
+battle_skill_config-390016701,화력 상승치:5%//c명중 상승치:10%
+battle_skill_config-490016701,
+battle_skill_config-190016702,필살 콤보
+battle_skill_config-590016702,
+battle_skill_config-290016702,이번 턴//c 해당 제대가 전투에 진입할 때마다 연타 효과를 1층 부여한다//c 최대 3회 중첩 가능//c 1턴간 지속.//n 연타 효과: 다음 전투에서 제대 전체의 화력이 6%//c 명중이 12% 상승한다//c 지속시간 20초.
+battle_skill_config-390016702,화력 상승치:6%//c명중 상승치:12%
+battle_skill_config-490016702,
+battle_skill_config-190016703,필살 콤보
+battle_skill_config-590016703,
+battle_skill_config-290016703,이번 턴//c 해당 제대가 전투에 진입할 때마다 연타 효과를 1층 부여한다//c 최대 3회 중첩 가능//c 1턴간 지속.//n 연타 효과: 다음 전투에서 제대 전체의 화력이 7%//c 명중이 14% 상승한다//c 지속시간 20초.
+battle_skill_config-390016703,화력 상승치:7%//c명중 상승치:14%
+battle_skill_config-490016703,
+battle_skill_config-190016704,필살 콤보
+battle_skill_config-590016704,
+battle_skill_config-290016704,이번 턴//c 해당 제대가 전투에 진입할 때마다 연타 효과를 1층 부여한다//c 최대 3회 중첩 가능//c 1턴간 지속.//n 연타 효과: 다음 전투에서 제대 전체의 화력이 8%//c 명중이 17% 상승한다//c 지속시간 20초.
+battle_skill_config-390016704,화력 상승치:8%//c명중 상승치:17%
+battle_skill_config-490016704,
+battle_skill_config-190016705,필살 콤보
+battle_skill_config-590016705,
+battle_skill_config-290016705,이번 턴//c 해당 제대가 전투에 진입할 때마다 연타 효과를 1층 부여한다//c 최대 3회 중첩 가능//c 1턴간 지속.//n 연타 효과: 다음 전투에서 제대 전체의 화력이 9%//c 명중이 19% 상승한다//c 지속시간 20초.
+battle_skill_config-390016705,화력 상승치:9%//c명중 상승치:19%
+battle_skill_config-490016705,
+battle_skill_config-190016706,필살 콤보
+battle_skill_config-590016706,
+battle_skill_config-290016706,이번 턴//c 해당 제대가 전투에 진입할 때마다 연타 효과를 1층 부여한다//c 최대 3회 중첩 가능//c 1턴간 지속.//n 연타 효과: 다음 전투에서 제대 전체의 화력이 11%//c 명중이 21% 상승한다//c 지속시간 20초.
+battle_skill_config-390016706,화력 상승치:11%//c명중 상승치:21%
+battle_skill_config-490016706,
+battle_skill_config-190016707,필살 콤보
+battle_skill_config-590016707,
+battle_skill_config-290016707,이번 턴//c 해당 제대가 전투에 진입할 때마다 연타 효과를 1층 부여한다//c 최대 3회 중첩 가능//c 1턴간 지속.//n 연타 효과: 다음 전투에서 제대 전체의 화력이 12%//c 명중이 23% 상승한다//c 지속시간 20초.
+battle_skill_config-390016707,화력 상승치:12%//c명중 상승치:23%
+battle_skill_config-490016707,
+battle_skill_config-190016708,필살 콤보
+battle_skill_config-590016708,
+battle_skill_config-290016708,이번 턴//c 해당 제대가 전투에 진입할 때마다 연타 효과를 1층 부여한다//c 최대 3회 중첩 가능//c 1턴간 지속.//n 연타 효과: 다음 전투에서 제대 전체의 화력이 13%//c 명중이 26% 상승한다//c 지속시간 20초.
+battle_skill_config-390016708,화력 상승치:13%//c명중 상승치:26%
+battle_skill_config-490016708,
+battle_skill_config-190016709,필살 콤보
+battle_skill_config-590016709,
+battle_skill_config-290016709,이번 턴//c 해당 제대가 전투에 진입할 때마다 연타 효과를 1층 부여한다//c 최대 3회 중첩 가능//c 1턴간 지속.//n 연타 효과: 다음 전투에서 제대 전체의 화력이 14%//c 명중이 28% 상승한다//c 지속시간 20초.
+battle_skill_config-390016709,화력 상승치:14%//c명중 상승치:28%
+battle_skill_config-490016709,
+battle_skill_config-190016710,필살 콤보
+battle_skill_config-590016710,
+battle_skill_config-290016710,이번 턴//c 해당 제대가 전투에 진입할 때마다 연타 효과를 1층 부여한다//c 최대 3회 중첩 가능//c 1턴간 지속.//n 연타 효과: 다음 전투에서 제대 전체의 화력이 15%//c 명중이 30% 상승한다//c 지속시간 20초.
+battle_skill_config-390016710,화력 상승치:15%//c명중 상승치:30%
+battle_skill_config-490016710,
+battle_skill_config-190016801,추가 장갑
+battle_skill_config-590016801,
+battle_skill_config-290016801,다음 전투에서 제대 중 장갑을 지닌 인형에게 각자 장갑 수치의 60% 만큼의 보호막을 부여한다.
+battle_skill_config-390016801,보호막 수치: 장갑의 60%
+battle_skill_config-490016801,
+battle_skill_config-190016802,추가 장갑
+battle_skill_config-590016802,
+battle_skill_config-290016802,다음 전투에서 제대 중 장갑을 지닌 인형에게 각자 장갑 수치의 70% 만큼의 보호막을 부여한다.
+battle_skill_config-390016802,보호막 수치: 장갑의 70%
+battle_skill_config-490016802,
+battle_skill_config-190016803,추가 장갑
+battle_skill_config-590016803,
+battle_skill_config-290016803,다음 전투에서 제대 중 장갑을 지닌 인형에게 각자 장갑 수치의 80% 만큼의 보호막을 부여한다.
+battle_skill_config-390016803,보호막 수치: 장갑의 80%
+battle_skill_config-490016803,
+battle_skill_config-190016804,추가 장갑
+battle_skill_config-590016804,
+battle_skill_config-290016804,다음 전투에서 제대 중 장갑을 지닌 인형에게 각자 장갑 수치의 90% 만큼의 보호막을 부여한다.
+battle_skill_config-390016804,보호막 수치: 장갑의 90%
+battle_skill_config-490016804,
+battle_skill_config-190016805,추가 장갑
+battle_skill_config-590016805,
+battle_skill_config-290016805,다음 전투에서 제대 중 장갑을 지닌 인형에게 각자 장갑 수치의 100% 만큼의 보호막을 부여한다.
+battle_skill_config-390016805,보호막 수치: 장갑의 100%
+battle_skill_config-490016805,
+battle_skill_config-190016806,추가 장갑
+battle_skill_config-590016806,
+battle_skill_config-290016806,다음 전투에서 제대 중 장갑을 지닌 인형에게 각자 장갑 수치의 110% 만큼의 보호막을 부여한다.
+battle_skill_config-390016806,보호막 수치: 장갑의 110%
+battle_skill_config-490016806,
+battle_skill_config-190016807,추가 장갑
+battle_skill_config-590016807,
+battle_skill_config-290016807,다음 전투에서 제대 중 장갑을 지닌 인형에게 각자 장갑 수치의 120% 만큼의 보호막을 부여한다.
+battle_skill_config-390016807,보호막 수치: 장갑의 120%
+battle_skill_config-490016807,
+battle_skill_config-190016808,추가 장갑
+battle_skill_config-590016808,
+battle_skill_config-290016808,다음 전투에서 제대 중 장갑을 지닌 인형에게 각자 장갑 수치의 130% 만큼의 보호막을 부여한다.
+battle_skill_config-390016808,보호막 수치: 장갑의 130%
+battle_skill_config-490016808,
+battle_skill_config-190016809,추가 장갑
+battle_skill_config-590016809,
+battle_skill_config-290016809,다음 전투에서 제대 중 장갑을 지닌 인형에게 각자 장갑 수치의 140% 만큼의 보호막을 부여한다.
+battle_skill_config-390016809,보호막 수치: 장갑의 140%
+battle_skill_config-490016809,
+battle_skill_config-190016810,추가 장갑
+battle_skill_config-590016810,
+battle_skill_config-290016810,다음 전투에서 제대 중 장갑을 지닌 인형에게 각자 장갑 수치의 150% 만큼의 보호막을 부여한다.
+battle_skill_config-390016810,보호막 수치: 장갑의 150%
+battle_skill_config-490016810,
+battle_skill_config-190016901,小助手转盾
+battle_skill_config-590016901,
+battle_skill_config-290016901,
+battle_skill_config-390016901,
+battle_skill_config-490016901,
+battle_skill_config-190019901,小助手转盾
+battle_skill_config-590019901,
+battle_skill_config-290019901,
+battle_skill_config-390019901,
+battle_skill_config-490019901,
+battle_skill_config-190020001,小助手转盾
+battle_skill_config-590020001,
+battle_skill_config-290020001,
+battle_skill_config-390020001,
+battle_skill_config-490020001,
+battle_skill_config-190020101,小助手转盾
+battle_skill_config-590020101,
+battle_skill_config-290020101,
+battle_skill_config-390020101,
+battle_skill_config-490020101,
+battle_skill_config-190020201,小助手转盾
+battle_skill_config-590020201,
+battle_skill_config-290020201,
+battle_skill_config-390020201,
+battle_skill_config-490020201,
+battle_skill_config-190020301,小助手转盾
+battle_skill_config-590020301,
+battle_skill_config-290020301,
+battle_skill_config-390020301,
+battle_skill_config-490020301,
+battle_skill_config-190020401,小助手转盾
+battle_skill_config-590020401,
+battle_skill_config-290020401,
+battle_skill_config-390020401,
+battle_skill_config-490020401,
+battle_skill_config-190020501,小助手转盾
+battle_skill_config-590020501,
+battle_skill_config-290020501,
+battle_skill_config-390020501,
+battle_skill_config-490020501,
+battle_skill_config-190020601,小助手转盾
+battle_skill_config-590020601,
+battle_skill_config-290020601,
+battle_skill_config-390020601,
+battle_skill_config-490020601,
+battle_skill_config-190020701,小助手转盾
+battle_skill_config-590020701,
+battle_skill_config-290020701,
+battle_skill_config-390020701,
+battle_skill_config-490020701,
+battle_skill_config-190017001,护甲妖精向后走
+battle_skill_config-590017001,
+battle_skill_config-290017001,每10/20/30/40...초移动一次//c一次1초
+battle_skill_config-390017001,
+battle_skill_config-490017001,
+battle_skill_config-190017101,破甲妖精向前走
+battle_skill_config-590017101,
+battle_skill_config-290017101,
+battle_skill_config-390017101,
+battle_skill_config-490017101,
+battle_skill_config-190017601,护甲妖精向前走
+battle_skill_config-590017601,
+battle_skill_config-290017601,
+battle_skill_config-390017601,
+battle_skill_config-490017601,
+battle_skill_config-190017701,破甲妖精向后走
+battle_skill_config-590017701,
+battle_skill_config-290017701,每10/20/30/40...초移动一次//c一次1초
+battle_skill_config-390017701,
+battle_skill_config-490017701,
+battle_skill_config-190017301,连击2
+battle_skill_config-590017301,
+battle_skill_config-290017301,
+battle_skill_config-390017301,
+battle_skill_config-490017301,
+battle_skill_config-190017302,连击2
+battle_skill_config-590017302,
+battle_skill_config-290017302,
+battle_skill_config-390017302,
+battle_skill_config-490017302,
+battle_skill_config-190017303,连击2
+battle_skill_config-590017303,
+battle_skill_config-290017303,
+battle_skill_config-390017303,
+battle_skill_config-490017303,
+battle_skill_config-190017304,连击2
+battle_skill_config-590017304,
+battle_skill_config-290017304,
+battle_skill_config-390017304,
+battle_skill_config-490017304,
+battle_skill_config-190017305,连击2
+battle_skill_config-590017305,
+battle_skill_config-290017305,
+battle_skill_config-390017305,
+battle_skill_config-490017305,
+battle_skill_config-190017306,连击2
+battle_skill_config-590017306,
+battle_skill_config-290017306,
+battle_skill_config-390017306,
+battle_skill_config-490017306,
+battle_skill_config-190017307,连击2
+battle_skill_config-590017307,
+battle_skill_config-290017307,
+battle_skill_config-390017307,
+battle_skill_config-490017307,
+battle_skill_config-190017308,连击2
+battle_skill_config-590017308,
+battle_skill_config-290017308,
+battle_skill_config-390017308,
+battle_skill_config-490017308,
+battle_skill_config-190017309,连击2
+battle_skill_config-590017309,
+battle_skill_config-290017309,
+battle_skill_config-390017309,
+battle_skill_config-490017309,
+battle_skill_config-190017310,连击2
+battle_skill_config-590017310,
+battle_skill_config-290017310,
+battle_skill_config-390017310,
+battle_skill_config-490017310,
+battle_skill_config-190017401,连击3+
+battle_skill_config-590017401,
+battle_skill_config-290017401,
+battle_skill_config-390017401,
+battle_skill_config-490017401,
+battle_skill_config-190017402,连击3+
+battle_skill_config-590017402,
+battle_skill_config-290017402,
+battle_skill_config-390017402,
+battle_skill_config-490017402,
+battle_skill_config-190017403,连击3+
+battle_skill_config-590017403,
+battle_skill_config-290017403,
+battle_skill_config-390017403,
+battle_skill_config-490017403,
+battle_skill_config-190017404,连击3+
+battle_skill_config-590017404,
+battle_skill_config-290017404,
+battle_skill_config-390017404,
+battle_skill_config-490017404,
+battle_skill_config-190017405,连击3+
+battle_skill_config-590017405,
+battle_skill_config-290017405,
+battle_skill_config-390017405,
+battle_skill_config-490017405,
+battle_skill_config-190017406,连击3+
+battle_skill_config-590017406,
+battle_skill_config-290017406,
+battle_skill_config-390017406,
+battle_skill_config-490017406,
+battle_skill_config-190017407,连击3+
+battle_skill_config-590017407,
+battle_skill_config-290017407,
+battle_skill_config-390017407,
+battle_skill_config-490017407,
+battle_skill_config-190017408,连击3+
+battle_skill_config-590017408,
+battle_skill_config-290017408,
+battle_skill_config-390017408,
+battle_skill_config-490017408,
+battle_skill_config-190017409,连击3+
+battle_skill_config-590017409,
+battle_skill_config-290017409,
+battle_skill_config-390017409,
+battle_skill_config-490017409,
+battle_skill_config-190017410,连击3+
+battle_skill_config-590017410,
+battle_skill_config-290017410,
+battle_skill_config-390017410,
+battle_skill_config-490017410,
+battle_skill_config-190017801,转盾靶机自毁
+battle_skill_config-590017801,
+battle_skill_config-290017801,
+battle_skill_config-390017801,
+battle_skill_config-490017801,
+battle_skill_config-190017901,前妖精形象
+battle_skill_config-590017901,
+battle_skill_config-290017901,
+battle_skill_config-390017901,
+battle_skill_config-490017901,
+battle_skill_config-190018001,后妖精形象
+battle_skill_config-590018001,
+battle_skill_config-290018001,
+battle_skill_config-390018001,
+battle_skill_config-490018001,
+battle_skill_config-190016001,后排妖精技能
+battle_skill_config-590016001,
+battle_skill_config-290016001,后排妖精召唤榴弹
+battle_skill_config-390016001,
+battle_skill_config-490016001,
+battle_skill_config-190018101,后排妖精技能2
+battle_skill_config-590018101,
+battle_skill_config-290018101,后排妖精召唤榴弹
+battle_skill_config-390018101,
+battle_skill_config-490018101,
+battle_skill_config-190018201,后排妖精技能3
+battle_skill_config-590018201,
+battle_skill_config-290018201,后排妖精召唤榴弹
+battle_skill_config-390018201,
+battle_skill_config-490018201,
+battle_skill_config-190018301,后排妖精技能4
+battle_skill_config-590018301,
+battle_skill_config-290018301,后排妖精召唤榴弹
+battle_skill_config-390018301,
+battle_skill_config-490018301,
+battle_skill_config-190018401,后排妖精技能5
+battle_skill_config-590018401,
+battle_skill_config-290018401,后排妖精召唤榴弹
+battle_skill_config-390018401,
+battle_skill_config-490018401,
+battle_skill_config-190018501,后排妖精技能6
+battle_skill_config-590018501,
+battle_skill_config-290018501,后排妖精召唤榴弹
+battle_skill_config-390018501,
+battle_skill_config-490018501,
+battle_skill_config-190018601,后排妖精技能7
+battle_skill_config-590018601,
+battle_skill_config-290018601,后排妖精召唤榴弹
+battle_skill_config-390018601,
+battle_skill_config-490018601,
+battle_skill_config-190018701,后排妖精技能8
+battle_skill_config-590018701,
+battle_skill_config-290018701,后排妖精召唤榴弹
+battle_skill_config-390018701,
+battle_skill_config-490018701,
+battle_skill_config-190018801,后排妖精技能9
+battle_skill_config-590018801,
+battle_skill_config-290018801,后排妖精召唤榴弹
+battle_skill_config-390018801,
+battle_skill_config-490018801,
+battle_skill_config-190018901,后排妖精技能10
+battle_skill_config-590018901,
+battle_skill_config-290018901,后排妖精召唤榴弹
+battle_skill_config-390018901,
+battle_skill_config-490018901,
+battle_skill_config-190017501,前排妖精技能
+battle_skill_config-590017501,
+battle_skill_config-290017501,前排妖精攻击最近单体敌人
+battle_skill_config-390017501,
+battle_skill_config-490017501,
+battle_skill_config-190019001,前排妖精技能2
+battle_skill_config-590019001,
+battle_skill_config-290019001,前排妖精攻击最近单体敌人
+battle_skill_config-390019001,
+battle_skill_config-490019001,
+battle_skill_config-190019101,前排妖精技能3
+battle_skill_config-590019101,
+battle_skill_config-290019101,前排妖精攻击最近单体敌人
+battle_skill_config-390019101,
+battle_skill_config-490019101,
+battle_skill_config-190019201,前排妖精技能4
+battle_skill_config-590019201,
+battle_skill_config-290019201,前排妖精攻击最近单体敌人
+battle_skill_config-390019201,
+battle_skill_config-490019201,
+battle_skill_config-190019301,前排妖精技能5
+battle_skill_config-590019301,
+battle_skill_config-290019301,前排妖精攻击最近单体敌人
+battle_skill_config-390019301,
+battle_skill_config-490019301,
+battle_skill_config-190019401,前排妖精技能6
+battle_skill_config-590019401,
+battle_skill_config-290019401,前排妖精攻击最近单体敌人
+battle_skill_config-390019401,
+battle_skill_config-490019401,
+battle_skill_config-190019501,前排妖精技能7
+battle_skill_config-590019501,
+battle_skill_config-290019501,前排妖精攻击最近单体敌人
+battle_skill_config-390019501,
+battle_skill_config-490019501,
+battle_skill_config-190019601,前排妖精技能8
+battle_skill_config-590019601,
+battle_skill_config-290019601,前排妖精攻击最近单体敌人
+battle_skill_config-390019601,
+battle_skill_config-490019601,
+battle_skill_config-190019701,前排妖精技能9
+battle_skill_config-590019701,
+battle_skill_config-290019701,前排妖精攻击最近单体敌人
+battle_skill_config-390019701,
+battle_skill_config-490019701,
+battle_skill_config-190019801,前排妖精技能10
+battle_skill_config-590019801,
+battle_skill_config-290019801,前排妖精攻击最近单体敌人
+battle_skill_config-390019801,
+battle_skill_config-490019801,
+battle_skill_config-191012201,청량계
+battle_skill_config-591012201,
+battle_skill_config-291012201,푹푹 찌는 여름엔 시원한 바람 한 결이 다 소중하다.
+battle_skill_config-391012201,
+battle_skill_config-491012201,청량계
+battle_skill_config-191012202,청량계
+battle_skill_config-591012202,
+battle_skill_config-291012202,푹푹 찌는 여름엔 시원한 바람 한 결이 다 소중하다.
+battle_skill_config-391012202,
+battle_skill_config-491012202,청량계
+battle_skill_config-191012203,청량계
+battle_skill_config-591012203,
+battle_skill_config-291012203,푹푹 찌는 여름엔 시원한 바람 한 결이 다 소중하다.
+battle_skill_config-391012203,
+battle_skill_config-491012203,청량계
+battle_skill_config-191012204,청량계
+battle_skill_config-591012204,
+battle_skill_config-291012204,푹푹 찌는 여름엔 시원한 바람 한 결이 다 소중하다.
+battle_skill_config-391012204,
+battle_skill_config-491012204,청량계
+battle_skill_config-191012205,청량계
+battle_skill_config-591012205,
+battle_skill_config-291012205,푹푹 찌는 여름엔 시원한 바람 한 결이 다 소중하다.
+battle_skill_config-391012205,
+battle_skill_config-491012205,청량계
+battle_skill_config-191012301,청량계 소환[*]
+battle_skill_config-591012301,
+battle_skill_config-291012301,
+battle_skill_config-391012301,
+battle_skill_config-491012301,
+battle_skill_config-151030101,연막 간섭
+battle_skill_config-551030101,
+battle_skill_config-251030101,2발 간격으로 공격 중심 대상에게 연막 표식을 부여하여 회피와 명중을 10% 감소시킨다//c 지속시간 3초.
+battle_skill_config-351030101,회피 감소치:10%//c명중 감소치:10%//c지속시간:3초
+battle_skill_config-451030101,
+battle_skill_config-151030102,연막 간섭
+battle_skill_config-551030102,
+battle_skill_config-251030102,2발 간격으로 공격 중심 대상에게 연막 표식을 부여하여 회피와 명중을 12% 감소시킨다//c 지속시간 3.2초.
+battle_skill_config-351030102,회피 감소치:12%//c명중 감소치:12%//c지속시간:3.2초
+battle_skill_config-451030102,
+battle_skill_config-151030103,연막 간섭
+battle_skill_config-551030103,
+battle_skill_config-251030103,2발 간격으로 공격 중심 대상에게 연막 표식을 부여하여 회피와 명중을 13% 감소시킨다//c 지속시간 3.4초.
+battle_skill_config-351030103,회피 감소치:13%//c명중 감소치:13%//c지속시간:3.4초
+battle_skill_config-451030103,
+battle_skill_config-151030104,연막 간섭
+battle_skill_config-551030104,
+battle_skill_config-251030104,2발 간격으로 공격 중심 대상에게 연막 표식을 부여하여 회피와 명중을 15% 감소시킨다//c 지속시간 3.7초.
+battle_skill_config-351030104,회피 감소치:15%//c명중 감소치:15%//c지속시간:3.7초
+battle_skill_config-451030104,
+battle_skill_config-151030105,연막 간섭
+battle_skill_config-551030105,
+battle_skill_config-251030105,2발 간격으로 공격 중심 대상에게 연막 표식을 부여하여 회피와 명중을 17% 감소시킨다//c 지속시간 3.9초.
+battle_skill_config-351030105,회피 감소치:17%//c명중 감소치:17%//c지속시간:3.9초
+battle_skill_config-451030105,
+battle_skill_config-151030106,연막 간섭
+battle_skill_config-551030106,
+battle_skill_config-251030106,2발 간격으로 공격 중심 대상에게 연막 표식을 부여하여 회피와 명중을 18% 감소시킨다//c 지속시간 4.1초.
+battle_skill_config-351030106,회피 감소치:18%//c명중 감소치:18%//c지속시간:4.1초
+battle_skill_config-451030106,
+battle_skill_config-151030107,연막 간섭
+battle_skill_config-551030107,
+battle_skill_config-251030107,2발 간격으로 공격 중심 대상에게 연막 표식을 부여하여 회피와 명중을 20% 감소시킨다//c 지속시간 4.3초.
+battle_skill_config-351030107,회피 감소치:20%//c명중 감소치:20%//c지속시간:4.3초
+battle_skill_config-451030107,
+battle_skill_config-151030108,연막 간섭
+battle_skill_config-551030108,
+battle_skill_config-251030108,2발 간격으로 공격 중심 대상에게 연막 표식을 부여하여 회피와 명중을 22% 감소시킨다//c 지속시간 4.6초.
+battle_skill_config-351030108,회피 감소치:22%//c명중 감소치:22%//c지속시간:4.6초
+battle_skill_config-451030108,
+battle_skill_config-151030109,연막 간섭
+battle_skill_config-551030109,
+battle_skill_config-251030109,2발 간격으로 공격 중심 대상에게 연막 표식을 부여하여 회피와 명중을 23% 감소시킨다//c 지속시간 4.8초.
+battle_skill_config-351030109,회피 감소치:23%//c명중 감소치:23%//c지속시간:4.8초
+battle_skill_config-451030109,
+battle_skill_config-151030110,연막 간섭
+battle_skill_config-551030110,
+battle_skill_config-251030110,2발 간격으로 공격 중심 대상에게 연막 표식을 부여하여 회피와 명중을 25% 감소시킨다//c 지속시간 5초.
+battle_skill_config-351030110,회피 감소치:25%//c명중 감소치:25%//c지속시간:5초
+battle_skill_config-451030110,
+battle_skill_config-151030201,QLZ-04 일반공격
+battle_skill_config-551030201,
+battle_skill_config-251030201,왜곡방벽을 지닌 적을 무작위로 선택하여 유탄을 연속 3발 발사하여//c 유탄마다 반경 1 범위에 0.33배 살상력과 0.33배 파쇄력을 발휘한다.
+battle_skill_config-351030201,
+battle_skill_config-451030201,
+battle_skill_config-151030301,열성 파편
+battle_skill_config-551030301,
+battle_skill_config-251030301,전투 시작 3초 후 다음 공격 시 특수 탄약을 쏘아//c 공격 중심 대상은 3초 간 공격을 받을 때마다 추가로 3 피해를 받는다//c 그후 8초마다 특수 탄약을 발사한다. 해당 추가 피해는 피해량 감소 효과를 무시하지만//c 왜곡방벽과 피해량 상한 효과(예: 오르트로스)를 받는다.
+battle_skill_config-351030301,추가 피해량:3//c지속시간:3초
+battle_skill_config-451030301,
+battle_skill_config-151030302,열성 파편
+battle_skill_config-551030302,
+battle_skill_config-251030302,전투 시작 3초 후 다음 공격 시 특수 탄약을 쏘아//c 공격 중심 대상은 3.2초 간 공격을 받을 때마다 추가로 4 피해를 받는다//c 그후 7.6초마다 특수 탄약을 발사한다. 해당 추가 피해는 피해량 감소 효과를 무시하지만//c 왜곡방벽과 피해량 상한 효과(예: 오르트로스)를 받는다.
+battle_skill_config-351030302,추가 피해량:4//c지속시간:3.2초
+battle_skill_config-451030302,
+battle_skill_config-151030303,열성 파편
+battle_skill_config-551030303,
+battle_skill_config-251030303,전투 시작 3초 후 다음 공격 시 특수 탄약을 쏘아//c 공격 중심 대상은 3.4초 간 공격을 받을 때마다 추가로 5 피해를 받는다//c 그후 7.1초마다 특수 탄약을 발사한다. 해당 추가 피해는 피해량 감소 효과를 무시하지만//c 왜곡방벽과 피해량 상한 효과(예: 오르트로스)를 받는다.
+battle_skill_config-351030303,추가 피해량:5//c지속시간:3.4초
+battle_skill_config-451030303,
+battle_skill_config-151030304,열성 파편
+battle_skill_config-551030304,
+battle_skill_config-251030304,전투 시작 3초 후 다음 공격 시 특수 탄약을 쏘아//c 공격 중심 대상은 3.7초 간 공격을 받을 때마다 추가로 6 피해를 받는다//c 그후 6.7초마다 특수 탄약을 발사한다. 해당 추가 피해는 피해량 감소 효과를 무시하지만//c 왜곡방벽과 피해량 상한 효과(예: 오르트로스)를 받는다.
+battle_skill_config-351030304,추가 피해량:6//c지속시간:3.7초
+battle_skill_config-451030304,
+battle_skill_config-151030305,열성 파편
+battle_skill_config-551030305,
+battle_skill_config-251030305,전투 시작 3초 후 다음 공격 시 특수 탄약을 쏘아//c 공격 중심 대상은 3.9초 간 공격을 받을 때마다 추가로 7 피해를 받는다//c 그후 6.2초마다 특수 탄약을 발사한다. 해당 추가 피해는 피해량 감소 효과를 무시하지만//c 왜곡방벽과 피해량 상한 효과(예: 오르트로스)를 받는다.
+battle_skill_config-351030305,추가 피해량:7//c지속시간:3.9초
+battle_skill_config-451030305,
+battle_skill_config-151030306,열성 파편
+battle_skill_config-551030306,
+battle_skill_config-251030306,전투 시작 3초 후 다음 공격 시 특수 탄약을 쏘아//c 공격 중심 대상은 4.1초 간 공격을 받을 때마다 추가로 8 피해를 받는다//c 그후 5.8초마다 특수 탄약을 발사한다. 해당 추가 피해는 피해량 감소 효과를 무시하지만//c 왜곡방벽과 피해량 상한 효과(예: 오르트로스)를 받는다.
+battle_skill_config-351030306,추가 피해량:8//c지속시간:4.1초
+battle_skill_config-451030306,
+battle_skill_config-151030307,열성 파편
+battle_skill_config-551030307,
+battle_skill_config-251030307,전투 시작 3초 후 다음 공격 시 특수 탄약을 쏘아//c 공격 중심 대상은 4.3초 간 공격을 받을 때마다 추가로 9 피해를 받는다//c 그후 5.3초마다 특수 탄약을 발사한다. 해당 추가 피해는 피해량 감소 효과를 무시하지만//c 왜곡방벽과 피해량 상한 효과(예: 오르트로스)를 받는다.
+battle_skill_config-351030307,추가 피해량:9//c지속시간:4.3초
+battle_skill_config-451030307,
+battle_skill_config-151030308,열성 파편
+battle_skill_config-551030308,
+battle_skill_config-251030308,전투 시작 3초 후 다음 공격 시 특수 탄약을 쏘아//c 공격 중심 대상은 4.6초 간 공격을 받을 때마다 추가로 10 피해를 받는다//c 그후 4.9초마다 특수 탄약을 발사한다. 해당 추가 피해는 피해량 감소 효과를 무시하지만//c 왜곡방벽과 피해량 상한 효과(예: 오르트로스)를 받는다.
+battle_skill_config-351030308,추가 피해량:10//c지속시간:4.6초
+battle_skill_config-451030308,
+battle_skill_config-151030309,열성 파편
+battle_skill_config-551030309,
+battle_skill_config-251030309,전투 시작 3초 후 다음 공격 시 특수 탄약을 쏘아//c 공격 중심 대상은 4.8초 간 공격을 받을 때마다 추가로 11 피해를 받는다//c 그후 4.4초마다 특수 탄약을 발사한다. 해당 추가 피해는 피해량 감소 효과를 무시하지만//c 왜곡방벽과 피해량 상한 효과(예: 오르트로스)를 받는다.
+battle_skill_config-351030309,추가 피해량:11//c지속시간:4.8초
+battle_skill_config-451030309,
+battle_skill_config-151030310,열성 파편
+battle_skill_config-551030310,
+battle_skill_config-251030310,전투 시작 3초 후 다음 공격 시 특수 탄약을 쏘아//c 공격 중심 대상은 5초 간 공격을 받을 때마다 추가로 12 피해를 받는다//c 그후 4초마다 특수 탄약을 발사한다. 해당 추가 피해는 피해량 감소 효과를 무시하지만//c 왜곡방벽과 피해량 상한 효과(예: 오르트로스)를 받는다.
+battle_skill_config-351030310,추가 피해량:12//c지속시간:5초
+battle_skill_config-451030310,
+battle_skill_config-151030401,활성 조준
+battle_skill_config-551030401,
+battle_skill_config-251030401,2발 간격으로 자신의 지원공격 피해량과 정밀성을 5% 상승시킨다//c 지속시간 20초//c 최대 3회 중첩 가능.
+battle_skill_config-351030401,피해량 상승치:5%//c정밀성 상승치:5%
+battle_skill_config-451030401,
+battle_skill_config-151030402,활성 조준
+battle_skill_config-551030402,
+battle_skill_config-251030402,2발 간격으로 자신의 지원공격 피해량과 정밀성을 6% 상승시킨다//c 지속시간 20초//c 최대 3회 중첩 가능.
+battle_skill_config-351030402,피해량 상승치:6%//c정밀성 상승치:6%
+battle_skill_config-451030402,
+battle_skill_config-151030403,활성 조준
+battle_skill_config-551030403,
+battle_skill_config-251030403,2발 간격으로 자신의 지원공격 피해량과 정밀성을 7% 상승시킨다//c 지속시간 20초//c 최대 3회 중첩 가능.
+battle_skill_config-351030403,피해량 상승치:7%//c정밀성 상승치:7%
+battle_skill_config-451030403,
+battle_skill_config-151030404,활성 조준
+battle_skill_config-551030404,
+battle_skill_config-251030404,2발 간격으로 자신의 지원공격 피해량과 정밀성을 8% 상승시킨다//c 지속시간 20초//c 최대 3회 중첩 가능.
+battle_skill_config-351030404,피해량 상승치:8%//c정밀성 상승치:8%
+battle_skill_config-451030404,
+battle_skill_config-151030405,활성 조준
+battle_skill_config-551030405,
+battle_skill_config-251030405,2발 간격으로 자신의 지원공격 피해량과 정밀성을 9% 상승시킨다//c 지속시간 20초//c 최대 3회 중첩 가능.
+battle_skill_config-351030405,피해량 상승치:9%//c정밀성 상승치:9%
+battle_skill_config-451030405,
+battle_skill_config-151030406,활성 조준
+battle_skill_config-551030406,
+battle_skill_config-251030406,2발 간격으로 자신의 지원공격 피해량과 정밀성을 11% 상승시킨다//c 지속시간 20초//c 최대 3회 중첩 가능.
+battle_skill_config-351030406,피해량 상승치:11%//c정밀성 상승치:11%
+battle_skill_config-451030406,
+battle_skill_config-151030407,활성 조준
+battle_skill_config-551030407,
+battle_skill_config-251030407,2발 간격으로 자신의 지원공격 피해량과 정밀성을 12% 상승시킨다//c 지속시간 20초//c 최대 3회 중첩 가능.
+battle_skill_config-351030407,피해량 상승치:12%//c정밀성 상승치:12%
+battle_skill_config-451030407,
+battle_skill_config-151030408,활성 조준
+battle_skill_config-551030408,
+battle_skill_config-251030408,2발 간격으로 자신의 지원공격 피해량과 정밀성을 13% 상승시킨다//c 지속시간 20초//c 최대 3회 중첩 가능.
+battle_skill_config-351030408,피해량 상승치:13%//c정밀성 상승치:13%
+battle_skill_config-451030408,
+battle_skill_config-151030409,활성 조준
+battle_skill_config-551030409,
+battle_skill_config-251030409,2발 간격으로 자신의 지원공격 피해량과 정밀성을 14% 상승시킨다//c 지속시간 20초//c 최대 3회 중첩 가능.
+battle_skill_config-351030409,피해량 상승치:14%//c정밀성 상승치:14%
+battle_skill_config-451030409,
+battle_skill_config-151030410,활성 조준
+battle_skill_config-551030410,
+battle_skill_config-251030410,2발 간격으로 자신의 지원공격 피해량과 정밀성을 15% 상승시킨다//c 지속시간 20초//c 최대 3회 중첩 가능.
+battle_skill_config-351030410,피해량 상승치:15%//c정밀성 상승치:15%
+battle_skill_config-451030410,
+battle_skill_config-190002501,QLZ-04cutin榴弹
+battle_skill_config-590002501,
+battle_skill_config-290002501,
+battle_skill_config-390002501,
+battle_skill_config-490002501,
+battle_skill_config-151030501,QLZ-04假普攻控制射速[*]
+battle_skill_config-551030501,
+battle_skill_config-251030501,
+battle_skill_config-351030501,
+battle_skill_config-451030501,
+battle_skill_config-151030601,QLZ-04开场
+battle_skill_config-551030601,
+battle_skill_config-251030601,
+battle_skill_config-351030601,
+battle_skill_config-451030601,
+battle_skill_config-190020801,鹗视虎红扫描
+battle_skill_config-590020801,
+battle_skill_config-290020801,用小球的红色射线扫描我方全体
+battle_skill_config-390020801,
+battle_skill_config-490020801,
+battle_skill_config-190020901,鹗普攻机枪
+battle_skill_config-590020901,
+battle_skill_config-290020901,用前爪部机枪进行基础的扫射
+battle_skill_config-390020901,
+battle_skill_config-490020901,
+battle_skill_config-190021001,鹗球在中部螺旋丸
+battle_skill_config-590021001,
+battle_skill_config-290021001,大球抬到中间发射螺旋丸
+battle_skill_config-390021001,
+battle_skill_config-490021001,
+battle_skill_config-190021101,鹗ex攻践踏
+battle_skill_config-590021101,
+battle_skill_config-290021101,伸腿踩地板//c踩出痕迹
+battle_skill_config-390021101,
+battle_skill_config-490021101,
+battle_skill_config-190021201,鹗球在上部大招
+battle_skill_config-590021201,
+battle_skill_config-290021201,大球抬到最上面使用终极技能
+battle_skill_config-390021201,
+battle_skill_config-490021201,
+battle_skill_config-190021301,鹗战斗结束
+battle_skill_config-590021301,
+battle_skill_config-290021301,战斗结束
+battle_skill_config-390021301,
+battle_skill_config-490021301,
+battle_skill_config-190021401,진동 충격탄
+battle_skill_config-590021401,
+battle_skill_config-290021401,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 1.2~2배 피해를 주고//c 목표 후방 반경 2 범위 안의 적에게 0.5배 피해를 주며 명중과 사속을 10% 감소시킨다//c 지속시간 3초//c 그후 충전을 해제한다.
+battle_skill_config-390021401,쿨타임:15초//c기초 피해 배율:1.2배//c최대 피해 배율:2배//c명중 감소치:10%//c사속 감소치:10%//c지속시간:3초
+battle_skill_config-490021401,
+battle_skill_config-190021402,진동 충격탄
+battle_skill_config-590021402,
+battle_skill_config-290021402,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 1.3~2.2배 피해를 주고//c 목표 후방 반경 2 범위 안의 적에게 0.5배 피해를 주며 명중과 사속을 11% 감소시킨다//c 지속시간 3.2초。
+battle_skill_config-390021402,쿨타임:14.6초//c기초 피해 배율:1.3배//c최대 피해 배율:2.2배//c명중 감소치:11%//c사속 감소치:11%//c지속시간:3.2초
+battle_skill_config-490021402,
+battle_skill_config-190021403,진동 충격탄
+battle_skill_config-590021403,
+battle_skill_config-290021403,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 1.4~2.4배 피해를 주고//c 목표 후방 반경 2 범위 안의 적에게 0.5배 피해를 주며 명중과 사속을 12% 감소시킨다//c 지속시간 3.4초。
+battle_skill_config-390021403,쿨타임:14.1초//c기초 피해 배율:1.4배//c최대 피해 배율:2.4배//c명중 감소치:12%//c사속 감소치:12%//c지속시간:3.4초
+battle_skill_config-490021403,
+battle_skill_config-190021404,진동 충격탄
+battle_skill_config-590021404,
+battle_skill_config-290021404,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 1.5~2.7배 피해를 주고//c 목표 후방 반경 2 범위 안의 적에게 0.5배 피해를 주며 명중과 사속을 13% 감소시킨다//c 지속시간 3.7초。
+battle_skill_config-390021404,쿨타임:13.7초//c기초 피해 배율:1.5배//c최대 피해 배율:2.7배//c명중 감소치:13%//c사속 감소치:13%//c지속시간:3.7초
+battle_skill_config-490021404,
+battle_skill_config-190021405,진동 충격탄
+battle_skill_config-590021405,
+battle_skill_config-290021405,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 1.6~2.9배 피해를 주고//c 목표 후방 반경 2 범위 안의 적에게 0.5배 피해를 주며 명중과 사속을 14% 감소시킨다//c 지속시간 3.9초。
+battle_skill_config-390021405,쿨타임:13.2초//c기초 피해 배율:1.6배//c최대 피해 배율:2.9배//c명중 감소치:14%//c사속 감소치:14%//c지속시간:3.9초
+battle_skill_config-490021405,
+battle_skill_config-190021406,진동 충격탄
+battle_skill_config-590021406,
+battle_skill_config-290021406,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 1.6~3.1배 피해를 주고//c 목표 후방 반경 2 범위 안의 적에게 0.5배 피해를 주며 명중과 사속을 16% 감소시킨다//c 지속시간 4.1초。
+battle_skill_config-390021406,쿨타임:12.8초//c기초 피해 배율:1.6배//c최대 피해 배율:3.1배//c명중 감소치:16%//c사속 감소치:16%//c지속시간:4.1초
+battle_skill_config-490021406,
+battle_skill_config-190021407,진동 충격탄
+battle_skill_config-590021407,
+battle_skill_config-290021407,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 1.7~3.3배 피해를 주고//c 목표 후방 반경 2 범위 안의 적에게 0.5배 피해를 주며 명중과 사속을 17% 감소시킨다//c 지속시간 4.3초。
+battle_skill_config-390021407,쿨타임:12.3초//c기초 피해 배율:1.7배//c최대 피해 배율:3.3배//c명중 감소치:17%//c사속 감소치:17%//c지속시간:4.3초
+battle_skill_config-490021407,
+battle_skill_config-190021408,진동 충격탄
+battle_skill_config-590021408,
+battle_skill_config-290021408,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 1.8~3.6배 피해를 주고//c 목표 후방 반경 2 범위 안의 적에게 0.5배 피해를 주며 명중과 사속을 18% 감소시킨다//c 지속시간 4.6초。
+battle_skill_config-390021408,쿨타임:11.9초//c기초 피해 배율:1.8배//c최대 피해 배율:3.6배//c명중 감소치:18%//c사속 감소치:18%//c지속시간:4.6초
+battle_skill_config-490021408,
+battle_skill_config-190021409,진동 충격탄
+battle_skill_config-590021409,
+battle_skill_config-290021409,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 1.9~3.8배 피해를 주고//c 목표 후방 반경 2 범위 안의 적에게 0.5배 피해를 주며 명중과 사속을 19% 감소시킨다//c 지속시간 4.8초。
+battle_skill_config-390021409,쿨타임:11.4초//c기초 피해 배율:1.9배//c최대 피해 배율:3.8배//c명중 감소치:19%//c사속 감소치:19%//c지속시간:4.8초
+battle_skill_config-490021409,
+battle_skill_config-190021410,진동 충격탄
+battle_skill_config-590021410,
+battle_skill_config-290021410,스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 가장 가까운 목표에게 2~4배 피해를 주고//c 목표 후방 반경 2 범위 안의 적에게 0.5배 피해를 주며 명중과 사속을 20% 감소시킨다//c 지속시간 5초。
+battle_skill_config-390021410,쿨타임:11초//c기초 피해 배율:2배//c최대 피해 배율:4배//c명중 감소치:20%//c사속 감소치:20%//c지속시간:5초
+battle_skill_config-490021410,
+battle_skill_config-190021501,충격작렬탄
+battle_skill_config-590021501,
+battle_skill_config-290021501,액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1초간 조준 후//c 충전 횟수에 따라 체력이 가장 높은 목표에게 1.8~3배 피해를 주고 충전을 해제한다. 동시에 목표 주위 1.5 범위 안의 적에게 0.8배 폭발 피해를 준다.//n패시브: 같은 대상에게 연속 2회 공격 후//c 다음 공격은 매우 좁은 범위에 0.8배 폭발 피해를 준다.
+battle_skill_config-390021501,쿨타임:16초//c기초 피해 배율:1.8배//c최대 피해 배율:3배//c범위 피해량: 0.8배//c패시브 피해량:0.8배
+battle_skill_config-490021501,
+battle_skill_config-190021502,충격작렬탄
+battle_skill_config-590021502,
+battle_skill_config-290021502,액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1초간 조준 후//c 충전 횟수에 따라 체력이 가장 높은 목표에게 1.9~3.2배 피해를 주고 충전을 해제한다. 동시에 목표 주위 1.5 범위 안의 적에게 0.88배 폭발 피해를 준다.//n패시브: 같은 대상에게 연속 2회 공격 후//c 다음 공격은 매우 좁은 범위에 0.88배 폭발 피해를 준다.
+battle_skill_config-390021502,쿨타임:15.6초//c기초 피해 배율:1.9배//c최대 피해 배율:3.2배//c범위 피해량: 0.88배//c패시브 피해량:0.88배
+battle_skill_config-490021502,
+battle_skill_config-190021503,충격작렬탄
+battle_skill_config-590021503,
+battle_skill_config-290021503,액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1초간 조준 후//c 충전 횟수에 따라 체력이 가장 높은 목표에게 2~3.4배 피해를 주고 충전을 해제한다. 동시에 목표 주위 1.5 범위 안의 적에게 0.96배 폭발 피해를 준다.//n패시브: 같은 대상에게 연속 2회 공격 후//c 다음 공격은 매우 좁은 범위에 0.96배 폭발 피해를 준다.
+battle_skill_config-390021503,쿨타임:15.1초//c기초 피해 배율:2배//c최대 피해 배율:3.4배//c범위 피해량: 0.96배//c패시브 피해량:0.96배
+battle_skill_config-490021503,
+battle_skill_config-190021504,충격작렬탄
+battle_skill_config-590021504,
+battle_skill_config-290021504,액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1초간 조준 후//c 충전 횟수에 따라 체력이 가장 높은 목표에게 2~3.7배 피해를 주고 충전을 해제한다. 동시에 목표 주위 1.5 범위 안의 적에게 1.03배 폭발 피해를 준다.//n패시브: 같은 대상에게 연속 2회 공격 후//c 다음 공격은 매우 좁은 범위에 1.03배 폭발 피해를 준다.
+battle_skill_config-390021504,쿨타임:14.7초//c기초 피해 배율:2배//c최대 피해 배율:3.7배//c범위 피해량: 1.03배//c패시브 피해량:1.03배
+battle_skill_config-490021504,
+battle_skill_config-190021505,충격작렬탄
+battle_skill_config-590021505,
+battle_skill_config-290021505,액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1초간 조준 후//c 충전 횟수에 따라 체력이 가장 높은 목표에게 2.2~3.9배 피해를 주고 충전을 해제한다. 동시에 목표 주위 1.5 범위 안의 적에게 1.11배 폭발 피해를 준다.//n패시브: 같은 대상에게 연속 2회 공격 후//c 다음 공격은 매우 좁은 범위에 1.11배 폭발 피해를 준다.
+battle_skill_config-390021505,쿨타임:14.2초//c기초 피해 배율:2.2배//c최대 피해 배율:3.9배//c범위 피해량: 1.11배//c패시브 피해량:1.11배
+battle_skill_config-490021505,
+battle_skill_config-190021506,충격작렬탄
+battle_skill_config-590021506,
+battle_skill_config-290021506,액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1초간 조준 후//c 충전 횟수에 따라 체력이 가장 높은 목표에게 2.2~4.1배 피해를 주고 충전을 해제한다. 동시에 목표 주위 1.5 범위 안의 적에게 1.19배 폭발 피해를 준다.//n패시브: 같은 대상에게 연속 2회 공격 후//c 다음 공격은 매우 좁은 범위에 1.19배 폭발 피해를 준다.
+battle_skill_config-390021506,쿨타임:13.8초//c기초 피해 배율:2.2배//c최대 피해 배율:4.1배//c범위 피해량: 1.19배//c패시브 피해량:1.19배
+battle_skill_config-490021506,
+battle_skill_config-190021507,충격작렬탄
+battle_skill_config-590021507,
+battle_skill_config-290021507,액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1초간 조준 후//c 충전 횟수에 따라 체력이 가장 높은 목표에게 2.3~4.3배 피해를 주고 충전을 해제한다. 동시에 목표 주위 1.5 범위 안의 적에게 1.27배 폭발 피해를 준다.//n패시브: 같은 대상에게 연속 2회 공격 후//c 다음 공격은 매우 좁은 범위에 1.27배 폭발 피해를 준다.
+battle_skill_config-390021507,쿨타임:13.3초//c기초 피해 배율:2.3배//c최대 피해 배율:4.3배//c범위 피해량: 1.27배//c패시브 피해량:1.27배
+battle_skill_config-490021507,
+battle_skill_config-190021508,충격작렬탄
+battle_skill_config-590021508,
+battle_skill_config-290021508,액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1초간 조준 후//c 충전 횟수에 따라 체력이 가장 높은 목표에게 2.3~4.6배 피해를 주고 충전을 해제한다. 동시에 목표 주위 1.5 범위 안의 적에게 1.34배 폭발 피해를 준다.//n패시브: 같은 대상에게 연속 2회 공격 후//c 다음 공격은 매우 좁은 범위에 1.34배 폭발 피해를 준다.
+battle_skill_config-390021508,쿨타임:12.9초//c기초 피해 배율:2.3배//c최대 피해 배율:4.6배//c범위 피해량: 1.34배//c패시브 피해량:1.34배
+battle_skill_config-490021508,
+battle_skill_config-190021509,충격작렬탄
+battle_skill_config-590021509,
+battle_skill_config-290021509,액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1초간 조준 후//c 충전 횟수에 따라 체력이 가장 높은 목표에게 2.4~4.8배 피해를 주고 충전을 해제한다. 동시에 목표 주위 1.5 범위 안의 적에게 1.42배 폭발 피해를 준다.//n패시브: 같은 대상에게 연속 2회 공격 후//c 다음 공격은 매우 좁은 범위에 1.42배 폭발 피해를 준다.
+battle_skill_config-390021509,쿨타임:12.4초//c기초 피해 배율:2.4배//c최대 피해 배율:4.8배//c범위 피해량: 1.42배//c패시브 피해량:1.42배
+battle_skill_config-490021509,
+battle_skill_config-190021510,충격작렬탄
+battle_skill_config-590021510,
+battle_skill_config-290021510,액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1초간 조준 후//c 충전 횟수에 따라 체력이 가장 높은 목표에게 2.5~5배 피해를 주고 충전을 해제한다. 동시에 목표 주위 1.5 범위 안의 적에게 1.5배 폭발 피해를 준다.//n패시브: 같은 대상에게 연속 2회 공격 후//c 다음 공격은 매우 좁은 범위에 1.5배 폭발 피해를 준다.
+battle_skill_config-390021510,쿨타임:12초//c기초 피해 배율:2.5배//c최대 피해 배율:5배//c범위 피해량: 1.5배//c패시브 피해량:1.5배
+battle_skill_config-490021510,
+battle_skill_config-190021601,관통사격
+battle_skill_config-590021601,
+battle_skill_config-290021601,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.5~0.8배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021601,쿨타임:16초//c기초 피해 배율:0.5배//c최대 피해 배율:0.8배
+battle_skill_config-490021601,
+battle_skill_config-190021602,관통사격
+battle_skill_config-590021602,
+battle_skill_config-290021602,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.5~0.9배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021602,쿨타임:15.6초//c기초 피해 배율:0.5배//c최대 피해 배율:0.9배
+battle_skill_config-490021602,
+battle_skill_config-190021603,관통사격
+battle_skill_config-590021603,
+battle_skill_config-290021603,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.6~1배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021603,쿨타임:15.1초//c기초 피해 배율:0.6배//c최대 피해 배율:1배
+battle_skill_config-490021603,
+battle_skill_config-190021604,관통사격
+battle_skill_config-590021604,
+battle_skill_config-290021604,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.6~1.1배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021604,쿨타임:14.7초//c기초 피해 배율:0.6배//c최대 피해 배율:1.1배
+battle_skill_config-490021604,
+battle_skill_config-190021605,관통사격
+battle_skill_config-590021605,
+battle_skill_config-290021605,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.7~1.2배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021605,쿨타임:14.2초//c기초 피해 배율:0.7배//c최대 피해 배율:1.2배
+battle_skill_config-490021605,
+battle_skill_config-190021606,관통사격
+battle_skill_config-590021606,
+battle_skill_config-290021606,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.7~1.4배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021606,쿨타임:13.8초//c기초 피해 배율:0.7배//c최대 피해 배율:1.4배
+battle_skill_config-490021606,
+battle_skill_config-190021607,관통사격
+battle_skill_config-590021607,
+battle_skill_config-290021607,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.8~1.5배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021607,쿨타임:13.3초//c기초 피해 배율:0.8배//c최대 피해 배율:1.5배
+battle_skill_config-490021607,
+battle_skill_config-190021608,관통사격
+battle_skill_config-590021608,
+battle_skill_config-290021608,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.8~1.6배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021608,쿨타임:12.9초//c기초 피해 배율:0.8배//c최대 피해 배율:1.6배
+battle_skill_config-490021608,
+battle_skill_config-190021609,관통사격
+battle_skill_config-590021609,
+battle_skill_config-290021609,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.9~1.7배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021609,쿨타임:12.4초//c기초 피해 배율:0.9배//c최대 피해 배율:1.7배
+battle_skill_config-490021609,
+battle_skill_config-190021610,관통사격
+battle_skill_config-590021610,
+battle_skill_config-290021610,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.9~1.8배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021610,쿨타임:12초//c기초 피해 배율:0.9배//c최대 피해 배율:1.8배
+battle_skill_config-490021610,
+battle_skill_config-190021701,관통사격
+battle_skill_config-590021701,
+battle_skill_config-290021701,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.6~0.9배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021701,쿨타임:16초//c기초 피해 배율:0.6배//c최대 피해 배율:0.9배
+battle_skill_config-490021701,
+battle_skill_config-190021702,관통사격
+battle_skill_config-590021702,
+battle_skill_config-290021702,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.6~1배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021702,쿨타임:15.6초//c기초 피해 배율:0.6배//c최대 피해 배율:1배
+battle_skill_config-490021702,
+battle_skill_config-190021703,관통사격
+battle_skill_config-590021703,
+battle_skill_config-290021703,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.7~1.1배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021703,쿨타임:15.1초//c기초 피해 배율:0.7배//c최대 피해 배율:1.1배
+battle_skill_config-490021703,
+battle_skill_config-190021704,관통사격
+battle_skill_config-590021704,
+battle_skill_config-290021704,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.7~1.3배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021704,쿨타임:14.7초//c기초 피해 배율:0.7배//c최대 피해 배율:1.3배
+battle_skill_config-490021704,
+battle_skill_config-190021705,관통사격
+battle_skill_config-590021705,
+battle_skill_config-290021705,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.8~1.4배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021705,쿨타임:14.2초//c기초 피해 배율:0.8배//c최대 피해 배율:1.4배
+battle_skill_config-490021705,
+battle_skill_config-190021706,관통사격
+battle_skill_config-590021706,
+battle_skill_config-290021706,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.8~1.5배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021706,쿨타임:13.8초//c기초 피해 배율:0.8배//c최대 피해 배율:1.5배
+battle_skill_config-490021706,
+battle_skill_config-190021707,관통사격
+battle_skill_config-590021707,
+battle_skill_config-290021707,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.9~1.6배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021707,쿨타임:13.3초//c기초 피해 배율:0.9배//c최대 피해 배율:1.6배
+battle_skill_config-490021707,
+battle_skill_config-190021708,관통사격
+battle_skill_config-590021708,
+battle_skill_config-290021708,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 0.9~1.8배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021708,쿨타임:12.9초//c기초 피해 배율:0.9배//c최대 피해 배율:1.8배
+battle_skill_config-490021708,
+battle_skill_config-190021709,관통사격
+battle_skill_config-590021709,
+battle_skill_config-290021709,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 1~1.9배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021709,쿨타임:12.4초//c기초 피해 배율:1배//c최대 피해 배율:1.9배
+battle_skill_config-490021709,
+battle_skill_config-190021710,관통사격
+battle_skill_config-590021710,
+battle_skill_config-290021710,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 1.5초간 조준 후//c 가장 멀리 있는 목표를 향해 관통 효과를 지닌 탄환을 발사해//c 경로 상의 적에게 충전 횟수에 따라 1~2배 피해를 주고//c 목표에게 추가로 같은 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-390021710,쿨타임:12초//c기초 피해 배율:1배//c최대 피해 배율:2배
+battle_skill_config-490021710,
+battle_skill_config-110290501,이중저격
+battle_skill_config-510290501,
+battle_skill_config-210290501,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 0.5초씩 두 번 조준 후//c 충전 횟수에 따라 현재 목표에게 0.7~1.5배 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-310290501,쿨타임:16초//c기초 피해 배율:0.7배//c최대 피해 배율:1.5배
+battle_skill_config-410290501,
+battle_skill_config-110290502,이중저격
+battle_skill_config-510290502,
+battle_skill_config-210290502,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 0.5초씩 두 번 조준 후//c 충전 횟수에 따라 현재 목표에게 0.9~1.7배 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-310290502,쿨타임:15.6초//c기초 피해 배율:0.9배//c최대 피해 배율:1.7배
+battle_skill_config-410290502,
+battle_skill_config-110290503,이중저격
+battle_skill_config-510290503,
+battle_skill_config-210290503,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 0.5초씩 두 번 조준 후//c 충전 횟수에 따라 현재 목표에게 1.2~1.9배 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-310290503,쿨타임:15.1초//c기초 피해 배율:1.2배//c최대 피해 배율:1.9배
+battle_skill_config-410290503,
+battle_skill_config-110290504,이중저격
+battle_skill_config-510290504,
+battle_skill_config-210290504,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 0.5초씩 두 번 조준 후//c 충전 횟수에 따라 현재 목표에게 1.4~2.2배 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-310290504,쿨타임:14.7초//c기초 피해 배율:1.4배//c최대 피해 배율:2.2배
+battle_skill_config-410290504,
+battle_skill_config-110290505,이중저격
+battle_skill_config-510290505,
+battle_skill_config-210290505,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 0.5초씩 두 번 조준 후//c 충전 횟수에 따라 현재 목표에게 1.6~2.4배 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-310290505,쿨타임:14.2초//c기초 피해 배율:1.6배//c최대 피해 배율:2.4배
+battle_skill_config-410290505,
+battle_skill_config-110290506,이중저격
+battle_skill_config-510290506,
+battle_skill_config-210290506,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 0.5초씩 두 번 조준 후//c 충전 횟수에 따라 현재 목표에게 1.9~2.6배 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-310290506,쿨타임:13.8초//c기초 피해 배율:1.9배//c최대 피해 배율:2.6배
+battle_skill_config-410290506,
+battle_skill_config-110290507,이중저격
+battle_skill_config-510290507,
+battle_skill_config-210290507,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 0.5초씩 두 번 조준 후//c 충전 횟수에 따라 현재 목표에게 2.1~2.8배 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-310290507,쿨타임:13.3초//c기초 피해 배율:2.1배//c최대 피해 배율:2.8배
+battle_skill_config-410290507,
+battle_skill_config-110290508,이중저격
+battle_skill_config-510290508,
+battle_skill_config-210290508,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 0.5초씩 두 번 조준 후//c 충전 횟수에 따라 현재 목표에게 2.3~3.1배 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-310290508,쿨타임:12.9초//c기초 피해 배율:2.3배//c최대 피해 배율:3.1배
+battle_skill_config-410290508,
+battle_skill_config-110290509,이중저격
+battle_skill_config-510290509,
+battle_skill_config-210290509,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 0.5초씩 두 번 조준 후//c 충전 횟수에 따라 현재 목표에게 2.6~3.3배 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-310290509,쿨타임:12.4초//c기초 피해 배율:2.6배//c최대 피해 배율:3.3배
+battle_skill_config-410290509,
+battle_skill_config-110290510,이중저격
+battle_skill_config-510290510,
+battle_skill_config-210290510,스킬 쿨타임 종료 후 1초마다 1회//c 최대 4회 충전한다. 발동 시 0.5초씩 두 번 조준 후//c 충전 횟수에 따라 현재 목표에게 2.8~3.5배 피해를 준다. 그후 충전을 해제한다.
+battle_skill_config-310290510,쿨타임:12초//c기초 피해 배율:2.8배//c최대 피해 배율:3.5배
+battle_skill_config-410290510,
+battle_skill_config-190021801,단풍과 반디
+battle_skill_config-590021801,
+battle_skill_config-290021801,패시브: 스킬 쿨타임 종료 후//c TAC50의 드론이 1초마다 목표를 선정한다.//n액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 선정된 목표에게 1.5~2.5배 피해를 준다(치명타 가능). 그후 충전을 해제한다.
+battle_skill_config-390021801,쿨타임:15초//c기초 피해 배율:1.5배//c최대 피해 배율:2.5배
+battle_skill_config-490021801,
+battle_skill_config-190021802,단풍과 반디
+battle_skill_config-590021802,
+battle_skill_config-290021802,패시브: 스킬 쿨타임 종료 후//c TAC50의 드론이 1초마다 목표를 선정한다.//n액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 선정된 목표에게 1.6~2.7배 피해를 준다(치명타 가능). 그후 충전을 해제한다.
+battle_skill_config-390021802,쿨타임:14.6초//c기초 피해 배율:1.6배//c최대 피해 배율:2.7배
+battle_skill_config-490021802,
+battle_skill_config-190021803,단풍과 반디
+battle_skill_config-590021803,
+battle_skill_config-290021803,패시브: 스킬 쿨타임 종료 후//c TAC50의 드론이 1초마다 목표를 선정한다.//n액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 선정된 목표에게 1.7~2.9배 피해를 준다(치명타 가능). 그후 충전을 해제한다.
+battle_skill_config-390021803,쿨타임:14.1초//c기초 피해 배율:1.7배//c최대 피해 배율:2.9배
+battle_skill_config-490021803,
+battle_skill_config-190021804,단풍과 반디
+battle_skill_config-590021804,
+battle_skill_config-290021804,패시브: 스킬 쿨타임 종료 후//c TAC50의 드론이 1초마다 목표를 선정한다.//n액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 선정된 목표에게 1.7~3.2배 피해를 준다(치명타 가능). 그후 충전을 해제한다.
+battle_skill_config-390021804,쿨타임:13.7초//c기초 피해 배율:1.7배//c최대 피해 배율:3.2배
+battle_skill_config-490021804,
+battle_skill_config-190021805,단풍과 반디
+battle_skill_config-590021805,
+battle_skill_config-290021805,패시브: 스킬 쿨타임 종료 후//c TAC50의 드론이 1초마다 목표를 선정한다.//n액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 선정된 목표에게 1.8~3.4배 피해를 준다(치명타 가능). 그후 충전을 해제한다.
+battle_skill_config-390021805,쿨타임:13.2초//c기초 피해 배율:1.8배//c최대 피해 배율:3.4배
+battle_skill_config-490021805,
+battle_skill_config-190021806,단풍과 반디
+battle_skill_config-590021806,
+battle_skill_config-290021806,패시브: 스킬 쿨타임 종료 후//c TAC50의 드론이 1초마다 목표를 선정한다.//n액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 선정된 목표에게 1.9~3.6배 피해를 준다(치명타 가능). 그후 충전을 해제한다.
+battle_skill_config-390021806,쿨타임:12.8초//c기초 피해 배율:1.9배//c최대 피해 배율:3.6배
+battle_skill_config-490021806,
+battle_skill_config-190021807,단풍과 반디
+battle_skill_config-590021807,
+battle_skill_config-290021807,패시브: 스킬 쿨타임 종료 후//c TAC50의 드론이 1초마다 목표를 선정한다.//n액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 선정된 목표에게 2~3.8배 피해를 준다(치명타 가능). 그후 충전을 해제한다.
+battle_skill_config-390021807,쿨타임:12.3초//c기초 피해 배율:2배//c최대 피해 배율:3.8배
+battle_skill_config-490021807,
+battle_skill_config-190021808,단풍과 반디
+battle_skill_config-590021808,
+battle_skill_config-290021808,패시브: 스킬 쿨타임 종료 후//c TAC50의 드론이 1초마다 목표를 선정한다.//n액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 선정된 목표에게 2~4.1배 피해를 준다(치명타 가능). 그후 충전을 해제한다.
+battle_skill_config-390021808,쿨타임:11.9초//c기초 피해 배율:2배//c최대 피해 배율:4.1배
+battle_skill_config-490021808,
+battle_skill_config-190021809,단풍과 반디
+battle_skill_config-590021809,
+battle_skill_config-290021809,패시브: 스킬 쿨타임 종료 후//c TAC50의 드론이 1초마다 목표를 선정한다.//n액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 선정된 목표에게 2.1~4.3배 피해를 준다(치명타 가능). 그후 충전을 해제한다.
+battle_skill_config-390021809,쿨타임:11.4초//c기초 피해 배율:2.1배//c최대 피해 배율:4.3배
+battle_skill_config-490021809,
+battle_skill_config-190021810,단풍과 반디
+battle_skill_config-590021810,
+battle_skill_config-290021810,패시브: 스킬 쿨타임 종료 후//c TAC50의 드론이 1초마다 목표를 선정한다.//n액티브: 스킬 쿨타임 종료 후 1초마다 1회//c 최대 5회 충전한다.발동 시 1초간 조준 후//c 충전 횟수에 따라 선정된 목표에게 2.2~4.5배 피해를 준다(치명타 가능). 그후 충전을 해제한다.
+battle_skill_config-390021810,쿨타임:11초//c기초 피해 배율:2.2배//c최대 피해 배율:4.5배
+battle_skill_config-490021810,
+battle_skill_config-190021901,枫蓄力
+battle_skill_config-590021901,
+battle_skill_config-290021901,
+battle_skill_config-390021901,
+battle_skill_config-490021901,
+battle_skill_config-190022001,清枫蓄力
+battle_skill_config-590022001,
+battle_skill_config-290022001,
+battle_skill_config-390022001,
+battle_skill_config-490022001,
