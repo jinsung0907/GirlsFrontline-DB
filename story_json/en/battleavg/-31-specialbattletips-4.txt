@@ -1,1 +1,1 @@
-[{"character":["AR15Mod"],"character_emotion":["0"],"speaker_name":"AR15","speaker":0,"bg":"10","text":"敵方的導彈！\nM4A1，我會擊落它們，你繼續追上M16！如果跟丟了我可饒不了你！\n【<color=#FE0000FF>點擊AR15技能，QTE成功即可擊落導彈</color>】"}]
+[{"character":["AR15Mod"],"character_emotion":["0"],"speaker_name":"AR15","speaker":0,"bg":"10","text":"敌方的导弹！\nM4A1，我会击落它们，你继续追上M16！如果跟丢了我可饶不了你！\n【<color=#FE0000FF>点击AR15技能，QTE成功即可击落导弹</color>】"}]

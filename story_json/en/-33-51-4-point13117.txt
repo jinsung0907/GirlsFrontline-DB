@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"Killer or killed ?\n<color=#FFFF00>Tip"}]

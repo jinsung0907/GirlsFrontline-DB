@@ -75,7 +75,7 @@
 80type|DIALOGUE2|I'm wearing glasses because they said I have a frightening glare... G-Go ahead and laugh if you want...
 80type|DIALOGUE3|I can blow an even bigger one. You wanna see?
 80type|SOULCONTRACT|Commander, is that envelope for...?<>I've always thought that...I am not the type to be liked.<>Okay, if you like me, then do as you please...❤
-80type|Introduce|I am Type80 general-purpose machine gun, based upon the PKM design. I mainly worked with the special forces, but I was also exported heavily due to my performance to cost effectiveness. Where I am used to blam blam blam makes no difference to me, but sadly this bubblegum is only available at home...
+80type|Introduce|I am Type80 general-purpose machine gun, based upon the PKM design. I mainly worked with the special forces, but I was also exported heavily due to my performance to cost effectiveness. Where I am used to blam blam blam makes no difference to me, but sadly this bubble gum is only available at home...
 80type|DIALOGUEWEDDING|...Commander, a piece of my gum is clearly missing from the pack. You ate it, didn't you?
 80type|GAIN|Ah...um, are you the Commander? I am Type80. You can do whatever you like as long as you don't remove my core.
 81typeR|DIALOGUE1|Would you like coffee or milk, Commander?
@@ -178,7 +178,7 @@ AEK999|GAIN|You're the Commander, right? AEK-999, the fate of this name shall no
 AK12|DIALOGUE1|In order to reduce my processing load, I usually "close" my eyes. Don't worry though, as this does not affect my vision nor judgment.
 AK12|DIALOGUE2|People don't need to force themselves this hard. After all, not everyone is born to be chosen by the call of duty.
 AK12|DIALOGUE3|Hm? What are you doing being all sneaky peeky like, Commander? Something interesting going on?
-AK12|SOULCONTRACT|Commander, I originally had no confidence in your patience.<>But you always maintained a unique sense of freshness, and my vision could not ignore you any longer...<>Goodness, is this the so-called charm? I'm expecting great things from you...
+AK12|SOULCONTRACT|I didn't have much faith in you at first, Commander.<>But you always stayed fresh and unique, so I couldn't keep my eyes off you...<>My, is this what they call charisma? I'm expecting great things from you...
 AK12|Introduce|Hm...a new Commander? Let's just see how long you'll keep me entertained.
 AK12|DIALOGUEWEDDING|...Hmm? Are you sneaking peeks at me? We're already used to each other, so why not just look at me properly?
 AK12|GAIN|Hm...a new Commander? Let's just see how long you'll keep me entertained.
@@ -199,7 +199,7 @@ Ak5|DIALOGUEWEDDING|Commander, please hurry up. We will miss the supermarket sal
 Ak5|GAIN|Greetings, Commander. I'm Ak 5 and I will answer to your orders from now on with all my effort.
 Ameli|DIALOGUE1|I can't understand very complicated things, so you can just tell me your decisions, Commander.
 Ameli|DIALOGUE2|Are there any rules that say it's chatting time right now? ...Then I'll consider it as your order.
-Ameli|DIALOGUE3|You shouldn't strange places, Commander. The buttons might pop off and hit you in the face...
+Ameli|DIALOGUE3|You shouldn't touch strange places, Commander. The buttons might pop off and hit you in the face...
 Ameli|SOULCONTRACT|Is this your will...Commander?<>It seems like I have to make a decision for myself this time...<>My answer is...yes. I believe that you are my best answer.
 Ameli|Introduce|So I only need to report to you, Commander? ...Then according to the rules, I belong to you now.
 Ameli|DIALOGUEWEDDING|Commander, this is the button that popped off last time... Please help me sew it back on if you have the time.
@@ -283,7 +283,7 @@ ASVAL|GAIN|Hello, I...eh? Never mind...
 Ballista|DIALOGUE1|Is it an order? Otherwise don't disturb my work.
 Ballista|DIALOGUE2|This fashion magazine is... Jeez, she is still as nervous as ever.
 Ballista|DIALOGUE3|...I have tried to create a serious atmosphere, so why aren't you giving up?
-Ballista|SOULCONTRACT|Commander, I didn't expect you to choose me...<>I clearly have been minding my own business all this time, yet... It's too embarrassing...<> But if you can accept me like this, then I'm really happy. Maybe It's time to change...❤
+Ballista|SOULCONTRACT|Commander, I didn't expect you to pick me...<>All this time, I've only been thinking about myself, and I'm so embarrassed...<>Still, I'm very happy that you can accept me even when I'm like this. Perhaps it's time to change...  ❤
 Ballista|Introduce|Ballista. I'll be joining your team today... Where are you looking? The war situation is very tense right now. Please be more serious.
 Ballista|DIALOGUEWEDDING|...Commander, I'm still working right now, you'll disturb me if... Alright, I'll allow it just this once today. Don't turn this into a habit.
 Ballista|GAIN|Ballista. I'll be joining your team today... Where are you looking? The war situation is very tense right now. Please be more serious.
@@ -323,7 +323,7 @@ BrenMKMod|SOULCONTRACT|Commander, you've chosen me, which means...my dedication 
 BrenMKMod|Introduce|I stand before you having gained a brand new strength, ready to receive your orders!
 BrenMKMod|DIALOGUEWEDDING|Am I pressing too hard? Sorry, I've rarely given massages before... I'm satisfied as long as you're comfortable.
 BrenMKMod|GAIN|I stand before you having gained a brand new strength, ready to receive your orders!
-BrenMKMod|ALLHALLOWS|
+BrenMKMod|ALLHALLOWS|Come at me, ghosts and demons! ...Hm? It's actually just people in costumes? I'll put my gun down, then.
 BrenTen|DIALOGUE1|Commander, did you call for me? I'm right here!
 BrenTen|DIALOGUE2|How long can our funds last? Should we go on more logistical support missions?
 BrenTen|DIALOGUE3|Please stop! Do you know this is illegal? ...Eh, under what jurisdiction? I- I don't know, but I'm sure it's against a law somewhere!
@@ -416,16 +416,16 @@ CZ805|GAIN|Yoohoo! The brand new and outstanding CZ-805A1 is at your service fro
 DP28|DIALOGUE1|Perfume? Huhu, it's actually just my natural scent...
 DP28|DIALOGUE2|Do you like older women?
 DP28|DIALOGUE3|Hm? What's wrong, young man~?
-DP28|SOULCONTRACT|Oh my~, Commander, so this day has finally come.<>It's too late if you want to back out now...<>But I'll make sure you won't regret it, hehe♪. Just watch, I'll show you exactly what I mean~
+DP28|SOULCONTRACT|Oh my~, Commander, so this day has finally come.<>It's too late if you want to back out now...<>But I'll make sure you won't regret it, fufu♪. Just watch, I'll show you exactly what I mean~
 DP28|Introduce|A pleasure to meet you, young man. Feel free to let me know...if you're ever troubled.
 DP28|ALLHALLOWS|It sure is festive tonight. How does the candy taste, Commander?
-DP28|DIALOGUEWEDDING|Want to come over and have some fun at my place this weekend? You're not too busy right? It's not like this is the first time...hehe♪
+DP28|DIALOGUEWEDDING|Want to come over and have some fun at my place this weekend? You're not too busy right? It's not like this is the first time...fufu♪
 DP28|GAIN|A pleasure to meet you, young man. Feel free to let me know...if you're ever troubled.
 DSR50|DIALOGUE1|Commander, in regard to your method in using me...you should be a bit more careful.
 DSR50|DIALOGUE2|The battle plan can be a bit more aggressive... It's alright, this is what I want.
 DSR50|DIALOGUE3|Commander, if you have the need, come to my dorm alone tonight...
 DSR50|SOULCONTRACT|Commander, I know what this means...<>I never expected that you would be the one to seize the initiative.<>Hehe...you only got lucky this time. Surely you didn't think this would be the end of it, did you~? ❤
-DSR50|Introduce|Gd DSR-50. I'm sure you'll be uttering my name in your dreams, Commander...hehe...
+DSR50|Introduce|Gd DSR-50. I'm sure you'll be uttering my name in your dreams, Commander...fufu...
 DSR50|DIALOGUEWEDDING|Commander, I'm looking forward to tonight's surprise. Don't let me down~
 DSR50|OPERATIONOVER|Ah~ I'm exhausted. Come give my feet a massage, Commander.
 DSR50|NEWYEAR|Commander, will there be an opportunity for me to show off my appeal at the New Years party, I wonder?
@@ -434,11 +434,11 @@ DSR50|COMBINE|How greedy of you, Commander~
 DSR50|RETREAT|Oh my, how unfortunate... There were still many things I wanted to try...
 DSR50|DEFENSE|Oh my... Be careful.
 DSR50|GOATTACK|I won't be responsible if anything unexpected happens.
-DSR50|GAIN|Gd DSR-50. I'm sure you'll be uttering my name in your dreams, Commander...hehe...
+DSR50|GAIN|Gd DSR-50. I'm sure you'll be uttering my name in your dreams, Commander...fufu...
 DTASRS|DIALOGUE1|If you don't do your homework, then you won't receive good marks on the battlefield.
 DTASRS|DIALOGUE2|I am a vegetarian. Although it is a bit strange...but the taste of meat is a little unbearable for me.
 DTASRS|DIALOGUE3|...Commander, if you keep acting this persistent, your impression score will drop, you know.
-DTASRS|SOULCONTRACT|Commander, I have been though all kinds of tests, and now I'm finally at this step...<>If I can have an ending like this, then whatever the score is matters not to me...<>As long as you like it, then your answer is a perfect score.
+DTASRS|SOULCONTRACT|Commander, I've overcome many trials and reached this place at last...<>The score doesn't matter to me as long as I can have an ending like this...<>The answer you like is worth full marks to me.
 DTASRS|Introduce|Hello, are you my Commander? ...I see. I give your first impression a passing grade. Nice to meet you.
 DTASRS|DIALOGUEWEDDING|Commander, the grades on your report have been slipping... It looks like we'll need to have daily study missions.
 DTASRS|GAIN|Hello, are you my Commander? ...I see. I give your first impression a passing grade. Nice to meet you.
@@ -450,13 +450,13 @@ EVO3|Introduce|Hello, Commander~ Scorpion EVO 3, officially part of the team as 
 EVO3|DIALOGUEWEDDING|Have you rested well, Commander? Why don't you enjoy it a bit longer since you rarely get the chance to have a break? I'll take care of the things here for you.
 EVO3|GAIN|Hello, Commander~ Scorpion EVO 3, officially part of the team as of today. Please look after me~
 F1|DIALOGUE1|The air is crystal clear, stars are shining like fireworks~ The outside world is so wonderful! Let's get out more!
-F1|DIALOGUE2|“Pack your bags, and go on a journey with me~” Are you prepared to head out with me, Commander?
+F1|DIALOGUE2|"Pack your bags, and go on a journey with me~" Are you prepared to head out with me, Commander?
 F1|DIALOGUE3|Stop! You're interrupting my inspiration!
 F1|SOULCONTRACT|Dancing petals~ drifts into my heart~<>"Your feelings~ pours in along with them~"<>"My poem of happiness will be yours forever~❤"
 F1|Introduce|G'day mate~ So you're my new Commander eh? Name's F1, "Jungle Poet". I occasionally dabble in a little bit of combat as well~
 F1|DIALOGUEWEDDING|Commander, I just thought up of another love poem! Let me read it to you later!
 F1|GAIN|G'day mate~ So you're my new Commander eh? Name's F1, "Jungle Poet". I occasionally dabble in a little bit of combat as well~
-F1|ALLHALLOWS|
+F1|ALLHALLOWS|No worries, mate~ Take these candies! I've got many more!
 F2000|DIALOGUE1|Do you need advice on anything, Commander?
 F2000|DIALOGUE2|Are you hungry, Commander? I have snacks.
 F2000|DIALOGUE3|UUUhhhiiii!! You better keep my secret to yourself, Commander. Otherwise...you know what's going to happen to you right?
@@ -550,7 +550,7 @@ G11|GAIN|Gr G11... Commander, you got a bed around here?
 G28|DIALOGUE1|Ah? What did you say? I didn't catch that! ...Hehe, just kidding.
 G28|DIALOGUE2|Commander, having just me is enough, right? ...At least, you're gonna be happy, right?
 G28|DIALOGUE3|Hehehh, I'm very happy that you like me, but it's gonna be troublesome if other people see us.
-G28|SOULCONTRACT|Commander...is this...really for me?<>Hahahh, I win! This is won purely by my own strength!<>Come on, Commander, let‘s shout louder! Let the world hear the sound of our happiness!
+G28|SOULCONTRACT|Commander...is this...really for me?<>Hahahh, I win! This is won purely by my own strength!<>Come on, Commander, let's shout louder! Let the world hear the sound of our happiness!
 G28|Introduce|Sniper Rifle G-28! Commander, if you have no objections then please take me home with you!
 G28|DIALOGUEWEDDING|Commander, do you still want to participate in the cooking competition this weekend? Of course...there will still be my special treats afterward...
 G28|GAIN|Sniper rifle Gr G28! Commander, if you have no objections then please take me home with you!
@@ -619,7 +619,7 @@ G43|GAIN|Guten tag! I am G43. Please allow me to display my elegance in battle f
 GepardM1|DIALOGUE1|Commander, if the war ends, can I go on holiday forever?
 GepardM1|DIALOGUE2|Whether it is work or this weapon, both are very heavy for me...
 GepardM1|DIALOGUE3|It is very difficult for me to stay concentrated. Please don't bother me, Commander...
-GepardM1|SOULCONTRACT|Commander, I'm exhausted from having to bear this heavy burden by myself...<>But as long as you're here with me, the burden...is no longer scary.<>For the parts that I can't endure...can I continue to count on you in the future, Commander?
+GepardM1|SOULCONTRACT|Commander, I'm exhausted from having to bear this heavy burden by myself...<>But with you by my side, that weight isn't as frightening anymore.<>Commander...from now on, can I count on you to help me carry the part I can't bear?
 GepardM1|Introduce|I am Gepárd M1, or you can call me Cheetah... As the first gun in the cheetah series, I was mainly responsible for destroying light armor targets, but the heavy gun frame and the long reload process pressured me to destroy enemies with "one shot and one kill" ...Sigh, why was I given such a heavy burden for someone so weak like me...
 GepardM1|DIALOGUEWEDDING|Commander, are you working overtime during the holiday again? ...No matter, I will always be with you.
 GepardM1|GAIN|Is this my new workplace? ...Alright, Gepard M1, reporting in.
@@ -759,14 +759,14 @@ K5|Introduce|As expected, countless signs indicate...our meeting is bound by fat
 K5|DIALOGUEWEDDING|There should be some sort of omen for the results of the mission next time... Commander, please pay closer attention to everyone, especially...me.
 K5|GAIN|As expected, countless signs indicate...our meeting is bound by fate, Commander.
 Kiana|DIALOGUE1|This place is full of amazing shooters, but I'm not gonna lose to them.
-Kiana|DIALOGUE2|This world is experiencing another kind of “Houkai”... Don't worry. We won't just sit by and do nothing.
+Kiana|DIALOGUE2|This world is experiencing another kind of "Houkai"... Don't worry. We won't just sit by and do nothing.
 Kiana|DIALOGUE3|A-Are you a pervert?! Die already! Die! Die!
 Kiana|SOULCONTRACT|Huh? Don't tell me...this is for me? <>Uh... It looks alright...as an ornamental piece... <>...Fine! Wipe that smugness off your face! I-I'm saying yes, happy...?
 Kiana|Introduce|I'm Kiana Kaslana, freshman at Senba High School and heir of the Kaslana family... My family? Sigh. All thanks to my stupid dad, who's running around in god-knows-where. You don't have to look for him with me, but for now...I don't mind your company!
 Kiana|DIALOGUEWEDDING|S-Stop staring at me and spacing out! Spit it out already. I'll listen...
 Kiana|GAIN|I'm just a schoolgirl passing by. Kiana Kaslana. Don't call out my name if you have no business with me.
 KLIN|DIALOGUE1|You are the first to talk to me today, Commander. Well done!
-KLIN|DIALOGUE2|Don't let the others get in my way in combat. I take no responsibility if anyone gets hit by friendly fire!
+KLIN|DIALOGUE2|Don't let others get in my way in combat. I take no responsibility if anyone gets hit by friendly fire!
 KLIN|DIALOGUE3|Stop lounging around in front of me! If you have so much free time then find something important to do!
 KLIN|SOULCONTRACT|Commander, you are the first one who has dared to do this.<>Am I really...the Number One in your heart?<>Don't worry! I'll never let anybody else overtake me on this ranking!
 KLIN|Introduce|KLIN's gonna be the number one Griffin T-Doll! Commander, you'd better remember this moment!
@@ -1024,9 +1024,9 @@ M4 SOPMOD II|Introduce|M4 SOPMOD II. I've finally found you, Commander!
 M4 SOPMOD II|ALLHALLOWS|Treat or Trick, Commander! I'm dressing as Leatherface tonight! Honey, if you don't give me candies, then...heheheh...
 M4 SOPMOD II|DIALOGUEWEDDING|Commander, what do you think of my new masterpiece? It was hard work collecting and assembling the parts, we had lots of fun! Tee-hee...
 M4 SOPMOD II|GAIN|M4 SOPMOD II. I've finally found you, Commander!
-M4 SOPMOD IIMod|DIALOGUE1|
-M4 SOPMOD IIMod|DIALOGUE2|
-M4 SOPMOD IIMod|DIALOGUE3|
+M4 SOPMOD IIMod|DIALOGUE1|Commander~ I'll show you a more amusing souvenir next time~
+M4 SOPMOD IIMod|DIALOGUE2|I don't know too much about keeping my feelings or whatever under control, but isn't it fine if everyone's happy?
+M4 SOPMOD IIMod|DIALOGUE3|Wahaha~ Want to play with me? Don't mind if I do~!
 M4 SOPMOD IIMod|SOULCONTRACT|
 M4 SOPMOD IIMod|Introduce|
 M4 SOPMOD IIMod|DIALOGUEWEDDING|
@@ -1207,7 +1207,7 @@ MLEMK1_0|DIALOGUE1|Eh? H-How did I become... D-Don't worry, I can still fight li
 MLEMK1_0|DIALOGUE2|A mission? ...Sorry, Commander, but could you kneel down to my level and repeat what you said?
 MLEMK1_0|DIALOGUE3|I need to pay attention to my center of gravity while wielding this rifle, otherwise I'll easily fall over...
 MLEMK1_0|SOULCONTRACT|Thank you for your care all this time, Commander, but am I truly the right person for you?<>No, in fact, I'm extremely elated!<>From now onwards, please let me guard you forever. It would be an honor of a lifetime!
-MLEMK1_0|Introduce|Lee-Enfield No.4 was mass-produced and became my country's standard issue weapon in the last century. In the ensuing wars, I continued my service as a converted sniper rifle. \nMy service has spanned many wars in history and has consistently brought honor to the Queen. Commander, you can rest assured that I will complete all your missions.
+MLEMK1_0|Introduce|Lee-Enfield No.4 was mass-produced and became my country's standard issue weapon in the last century. In the ensuing wars, I continued my service as a converted sniper rifle. nMy service has spanned many wars in history and has consistently brought honor to the Queen. Commander, you can rest assured that I will complete all your missions.
 MLEMK1_0|ALLHALLOWS|I heard there will be a masquerade ball tonight. Worry not, I have already prepared my costume!
 MLEMK1_0|DIALOGUEWEDDING|You don't need to accompany me to the cafeteria, Commander. Us walking around together makes me feel...you know...
 MLEMK1_0|VALENTINE|Valentine's Day... It's not that special of a day or anything. Please focus on your work instead!
@@ -1223,7 +1223,7 @@ MP40_0|DIALOGUE1|Would you like me to massage your shoulders, Commander? ...Okay
 MP40_0|DIALOGUE2|If only this little one's gunfire would sound cuter, then war would not seem so frightening.
 MP40_0|DIALOGUE3|Ah, the strap is crooked. I need to readjust it.
 MP40_0|SOULCONTRACT|What are the plans for today, Commander?<>Eh? This--... To bestow such an honor upon me, I never would've expected this.<>I'm extremely happy! Thank you very much, Commander!
-MP40_0|Introduce|In order to meet the demands of war, MP40 was developed as an improved design of early submachine guns for use by armored infantry and paratroopers. \nEase of production, reliable performance, and ease of control made me a widely used weapon, so much so that not only did I become the main weapon of our forces, but I also became a symbol, one held tight in the hands of soldiers.
+MP40_0|Introduce|In order to meet the demands of war, MP40 was developed as an improved design of early submachine guns for use by armored infantry and paratroopers. nEase of production, reliable performance, and ease of control made me a widely used weapon, so much so that not only did I become the main weapon of our forces, but I also became a symbol, one held tight in the hands of soldiers.
 MP40_0|ALLHALLOWS|The children will play tricks on you if you don't give them candy... What a weird custom... I'm not really used to it...
 MP40_0|DIALOGUEWEDDING|Commander, the adult world may be full of deception and betrayal, but I will always stand by your side!
 MP446|DIALOGUE1|Commander, want to go out and play with me?
@@ -1305,7 +1305,7 @@ NTW20|FIX|There are times when even I'm like this, huh? Sorry, I'll leave it to 
 NTW20|OPERATIONOVER|Mission complete. Wasn't that too easy?
 NTW20|BREAK|Gah...! I'm...
 NTW20|RETREAT|Sorry, I'm withdrawing.
-NTW20|HELLO|
+NTW20|HELLO|Are you back at last? I've been waiting a long time for you, Commander.
 NZ75|DIALOGUE1|What? Don't even think of being lazy under my supervision.
 NZ75|DIALOGUE2|Commander, dawdling around won't bear any results. Let's get going.
 NZ75|DIALOGUE3|Stop! Do you understand what you're doing? I-I'll get angry!
@@ -1566,7 +1566,7 @@ SAT8|Introduce|We finally meet, Commander. I've already completed my preparation
 SAT8|DIALOGUEWEDDING|It's not good to always eat pizza, Commander. Wanna try the meat jelly I just made?
 SAT8|NEWYEAR|It's a brand new year in the blink of an eye, Commander. Are we another step closer to our ideal future?
 SAT8|GAIN|We finally meet, Commander. I've already completed my preparations to deploy with you. Are you ready as well?
-SAT8|ALLHALLOWS|
+SAT8|ALLHALLOWS|The candy's filled with the taste of happiness! What a wonderful occasion~
 Seele|DIALOGUE1|Master, it's not r-right to bully others.
 Seele|DIALOGUE2|A-Am I really that cute?
 Seele|DIALOGUE3|If you keep doing this, I'll...disappear.
@@ -1745,7 +1745,7 @@ TAR21|GAIN|TAR-21, reporting for duty. Please take extra good care of me.
 Theresa|DIALOGUE1|What are you looking at, you damn lolicon?!
 Theresa|DIALOGUE2|Just once! If you keep patting me...I won't grow any taller!
 Theresa|DIALOGUE3|Theresa is the cutest in the world!
-Theresa|SOULCONTRACT|Huh?! Giving me a thing like this out of the blue, you lolicon! <> Alright, alright, I'm saying yes. <>What a needy child. Guess I'll have to be the one to watch over you!
+Theresa|SOULCONTRACT|Huh?! Giving me a thing like this out of the blue, you lolicon! <>Alright, alright, I'm saying yes. <>What a needy child. Guess I'll have to be the one to watch over you!
 Theresa|Introduce|I may appear as merely the principal of St. Freya Academy, but I'm actually the Commander of the Schicksal Far East Branch. That's not all. I also share a bloodline with the S-tier Valkyrja Kallen and possess the power of Yae Sakura... Hey, why are you looking all incredulous?!
 Theresa|DIALOGUEWEDDING|Want a treat? If you bend down... Ha! I can finally pat you on the head!
 Theresa|GAIN|I am Theresa Apocalypse, principal of St. Freya Academy! Don't mistake me for a child!
@@ -1766,7 +1766,7 @@ TMP|GAIN|Co-Commander, pleased to meet you. My name is TMP...pl-please don't loo
 TT33|DIALOGUE1|Commander, can I speak to you for a second? If you are a so-called gentleman then you can't go around touching people like that.
 TT33|DIALOGUE2|Commander, you're such a lecher...
 TT33|DIALOGUE3|Commander, focus on your WORK!
-TT33|SOULCONTRACT|Huh, Commander, what are you doing here?<>I can handle it here by myself...<>Huh? Pardon? “Business" between two people? I don't really get what you mean, but you'll show me right?
+TT33|SOULCONTRACT|Huh, Commander, what are you doing here?<>I can handle it here by myself...<>Huh? Pardon? "Business" between two people? I don't really get what you mean, but you'll show me right?
 TT33|Introduce|Ah, Commander? I'm pleased to meet you.
 TT33|ALLHALLOWS|It's not like I'm afraid of ghosts and monsters or anything...but it's okay if I stay with you, right, Commander?
 TT33|DIALOGUEWEDDING|I'm not leaving until you go to bed. I'm going to make sure that I take good care of you, because after all, we've made vows to each other.
@@ -1788,13 +1788,13 @@ UMP45|VALENTINE|Commander, I made this chocolate for you. Of course, I also prep
 UMP45|ALLHALLOWS|It's Halloween, isn't it! Do you like this festival, Commnader? ...Me? I don't hate it, it's lively after all.
 UMP45|DIALOGUEWEDDING|Was I really out for that long? Missed me? You don't look like you did though... That's more like it. There's the dopey face that's so reassuring, hehe...
 UMP45|GAIN|UMP45 has arrived. Commander, let's get along from now on~
-UMP45Mod|DIALOGUE1|
-UMP45Mod|DIALOGUE2|
-UMP45Mod|DIALOGUE3|
-UMP45Mod|SOULCONTRACT|
-UMP45Mod|Introduce|
-UMP45Mod|DIALOGUEWEDDING|
-UMP45Mod|GAIN|
+UMP45Mod|DIALOGUE1|Is there something you need me to do? ...Hehe, I guess I should decide that myself.
+UMP45Mod|DIALOGUE2|You're not bothered by my past, are you? Maybe you should be, because I want to tell you about it...
+UMP45Mod|DIALOGUE3|Now I know that apart from your nose, you're quite unhappy with your life too, aren't you, Commander? Let me help you fix it all up~
+UMP45Mod|SOULCONTRACT|Despite knowing my true nature, you'd still accept me?<>...Hehe, worry more about your own future, Commander~
+UMP45Mod|Introduce|UMP45 has arrived. Commander, let's get along from now on~
+UMP45Mod|DIALOGUEWEDDING|Was I really out for that long? Missed me? You don't look like you did though... That's more like it. There's the dopey face that's so reassuring, hehe...
+UMP45Mod|GAIN|Let's get to know each other all over again, Commander... while I still feel that this world can be saved.
 UMP9|DIALOGUE1|Commander! ...Hehe♪ It's nothing!
 UMP9|DIALOGUE2|45, are you here? Oh, it's the Commander!
 UMP9|DIALOGUE3|What are you doing, Commander! I'm not in that kind of relationship with you yet...
@@ -1834,7 +1834,7 @@ Vector|RETREAT|So this is my fate...
 VZ61|DIALOGUE1|Commander, if you keep on touching me, I'll shoot you until you look like a beehive.
 VZ61|DIALOGUE2|Don't underestimate me; my entire family has been used by many different organizations.
 VZ61|DIALOGUE3|Skorpion is such a cool name, right?!
-VZ61|SOULCONTRACT|To make such a decision like this, do you really understand me, Commander?<7.5>Is that so? Then, I have nothing more to say. The past is the past, and the future...<8.5>Let us face it together!<2>
+VZ61|SOULCONTRACT|To make such a decision like this, do you really understand me, Commander?<>Is that so? Then, I have nothing more to say. The past is the past, and the future...<>Let us face it together!<>
 VZ61|Introduce|I'm VZ61 Skorpion~ Nice to meet you~ Even though I'm a scorpion I'm totally venomless.
 VZ61|ALLHALLOWS|Commander~ Give me candy~
 VZ61|DIALOGUEWEDDING|Commander, come and look at this! It's my new painting of you! ...Looks like you, doesn't it? See, I can perform meticulous tasks too!
@@ -1908,14 +1908,14 @@ ZastavaM21|GAIN|Commander... Yes, just as it says on the file, I am Zas M21. I h
 CLEAR|DIALOGUE1|Nothing can replace me when I'm one with the music!
 CLEAR|DIALOGUE2|What sort of melody can I play on a stage filled with smoke?
 CLEAR|DIALOGUE3|Wanna see how I fight? Heheh... Then you'd better keep those ears perked!
-CLEAR|SOULCONTRACT|I've foreseen this moment long ago... <>I always see my radiance in the depths of your eyes. <> Come... You're my only one. You're my only light!
+CLEAR|SOULCONTRACT|I've foreseen this moment long ago... <>I always see my radiance in the depths of your eyes. <>Come... You're my only one. You're my only light!
 CLEAR|Introduce|Feeling dazzled? Then stop running and seize it instead! This is the Glorylight that you've been longing for!
 CLEAR|DIALOGUEWEDDING|What genre do you fancy today? Haha! I can put the same song on loop if that's what you want!
 CLEAR|GAIN|Feeling dazzled? Then stop running and seize it instead! This is the Glorylight that you've been longing for!
 FAIL|DIALOGUE1|Learn to love your weaker self, because I love that side of you as well.
 FAIL|DIALOGUE2|Hand your soul to me. I'll give you everything. Victory, melody, and all the love in the world!
 FAIL|DIALOGUE3|Wanna see what's so cute about me? Haha! Better keep your eyes wide open then!
-FAIL|SOULCONTRACT|Heheh...you've been looking forward to this, haven't you? <> Spin me around... Now I'm all you see! <>Come... Obey your only desire. Obey the one and only me!
+FAIL|SOULCONTRACT|Heheh...you've been looking forward to this, haven't you? <>Spin me around... Now I'm all you see! <>Come... Obey your only desire. Obey the one and only me!
 FAIL|Introduce|Heheh... Are bad girls welcome in a place like this? Then let me show you the light shining from deep within chaos!
 FAIL|DIALOGUEWEDDING|Still wanna try out more genres? No can do! You can only choose my favorite... Lose yourself in me!
 FAIL|GAIN|Heheh... Are bad girls welcome in a place like this? Then let me show you the light shining from deep within chaos!
@@ -1929,14 +1929,14 @@ AUG|GAIN|Commander, if you wish to send flowers to the enemy's funeral...then I 
 T77|DIALOGUE1|Understood, so it's a new mission... it isn't? Then what are you doing?
 T77|DIALOGUE2|You can judge my mood by how many centimeters my arms are raised above my head.
 T77|DIALOGUE3|...Commander, why are you so slow? ...No, that's not it, my eyes clearly didn't mean that...
-T77|SOULCONTRACT|Commander...what...do you mean by this?<>N-No, I was just worried that I had gotten it wrong again...<>What's this? It seems like you're fully in control of my reaction... ❤
+T77|SOULCONTRACT|Commander... what's the meaning of this?  <>N-no, I was just worried that I'd gotten the wrong idea again... <>What the heck, it looks like you completely understood how I was going to react... ❤
 T77|Introduce|...Huh? You still can't tell, Commander? You should be able to understand from a glance that I'm the new recruit, T77...
 T77|DIALOGUEWEDDING|Commander, our synchronization is perfect. I'm beginning to like how our mutual affinity feels...heehee.
 T77|GAIN|...Huh? You still can't tell, Commander? You should be able to understand from a glance that I'm the new recruit, T77...
 MP443|DIALOGUE1|Huh? Can't I have the diamond ring? It's so pretty... You're stingy, Commander.
 MP443|DIALOGUE2|My sister has run off again. Finding her is harder than finding a rock.
 MP443|DIALOGUE3|All these rocks have been meticulously sculpted by me. Nobody would even spare them a glance before they turned out like this.
-MP443|SOULCONTRACT|Wanna turn me into your most prized possession, Commander? <>Looks like...my value as a “rock” has finally been recognized... <>Heheh, then from now on, I belong only to you... ❤
+MP443|SOULCONTRACT|Wanna turn me into your most prized possession, Commander? <>Looks like...my value as a "rock" has finally been recognized... <>Heheh, then from now on, I belong only to you... ❤
 MP443|Introduce|Oh? I was only looking for interesting rocks. Didn't expect to find something even more interesting... I hope you don't mind joining the Rook's collection, Commander?
 MP443|DIALOGUEWEDDING|Let's count how many rocks I found today, Commander? I'll give you whichever one you like... ❤
 MP443|GAIN|Oh? I was only looking for interesting rocks. Didn't expect to find something even more interesting... I hope you don't mind joining the Rook's collection, Commander?
@@ -1985,7 +1985,7 @@ Thunder50_0|GAIN|I've never seen your face before, are you new? ...Ah, excuse me
 GSH18|DIALOGUE1|Huh? What? If there's anything, please let me know as soon as possible. Wait, wait! What are you doing!?
 GSH18|DIALOGUE2|I don't think I disappointed anyone during the previous issue... I think... (Mutters) It should be okay... right...?
 GSH18|DIALOGUE3|Commander~ want to move around a little? Sitting down all the time is bad for your body, you know. (Starts doing pushups) 1 ~ 2 ~ 3 ~!
-GSH18|SOULCONTRACT|Commander, I wouldn't have been able to work hard until now if you hadn't been by my side...<>I've always looked forward to your orders, your praise, your trust...<>And...that smile of yours that's more reassuring than anything in the world.
+GSH18|SOULCONTRACT|Commander, if it wasn't for you standing by my side, I would never have been able to persevere until now... <>I'll always look forward to every order you give, every time you praise me, every time you trust me... <>And now...every reassuring smile of yours, Commander.
 GSH18|Introduce|GSh-18 officially joining! I can complete any mission no matter how hard it gets! Deploy me whenever!
 GSH18|DIALOGUEWEDDING|What wonderful weather we're having. Commander, want to go outside with me? Hm?~ If you're not done with work yet, I'll stay behind to help too, but you need to promise me that we'll go out afterwards, okay?
 GSH18|GAIN|GSh-18 officially joining! I can complete any mission no matter how hard it gets! Deploy me whenever!
@@ -2022,7 +2022,7 @@ AA12|GAIN|Hello, Commander, I'm AA-12. Pleased to meet... Blech! Trying to act a
 PM06|DIALOGUE1|If only there were more red furniture in the dorm... Heheh, you hear that, Commander?
 PM06|DIALOGUE2|It's boring to shoot at enemies that don't bleed. Just feels like a complete waste of bullets.
 PM06|DIALOGUE3|Wanna go for a walk? Then you'll have to ask in the evening. I can't be in the sun at all.
-PM06|SOULCONTRACT|Can't you wait till nighttime, Commander? <>Whoa! Isn't this...?! Well, I guess there really is no delay for this kind of thing! <>Looks like we'll have to save some precious time this evening. Heheh!
+PM06|SOULCONTRACT|Commander, can't it wait until later tonight? <>Whoa! Isn't this...?! Well, I guess there really is no delay for this kind of thing! <>Looks like we'll have to save some precious time this evening. Heheh!
 PM06|Introduce|Oooooh! Is that your uniform? This mesmerizing red is just fabulous! I have a feeling we're gonna get along very well!
 PM06|DIALOGUEWEDDING|Night missions are the best missions! Hmm? You wanna go for a walk with me at night? ...You're making my life so difficult, Commander...
 PM06|GAIN|Oooooh! Is that your uniform? This mesmerizing red is just fabulous! I have a feeling we're gonna get along very well!
@@ -2036,59 +2036,59 @@ CETME556|GAIN|Hello, you must be my Commander. Do you mind giving me a handshake
 OBR|DIALOGUE1|Could you give me two more days? I'll be getting my paycheck very soon... Ack, Commander! Nothing, just some weird prank call.
 OBR|DIALOGUE2|So you're a T-Doll as well, Commander? I never noticed that befo... Who said that? It was Cino who told me.
 OBR|DIALOGUE3|Alright, alright, I get it. Stop rushing me. Ouch, ouch, ouch...
-OBR|SOULCONTRACT|Commander, I know that I have owed you many things. <> Your recognition and trust are treasures that I can never repay... <>If I must, I am willing to return your feelings with all that I have.
+OBR|SOULCONTRACT|Commander, I know that I have owed you many things. <>Your recognition and trust are treasures that I can never repay... <>If I must, I am willing to return your feelings with all that I have.
 OBR|Introduce|Are you the Commander? I have the right person, right...? As long as I work hard, my debt will... Hmm? N-Nothing.
 OBR|DIALOGUEWEDDING|Are you tired, Commander? Just leave the rest to me. I'm not trying to repay anything. It's just what I want to do.
 OBR|GAIN|Are you the Commander? I have the right person, right...? As long as I work hard, my debt will... Hmm? N-Nothing.
-A91|DIALOGUE1|
-A91|DIALOGUE2|
-A91|DIALOGUE3|
-A91|SOULCONTRACT|
-A91|Introduce|
-A91|DIALOGUEWEDDING|
-A91|GAIN|
-Cx4Storm|DIALOGUE1|
-Cx4Storm|DIALOGUE2|
-Cx4Storm|DIALOGUE3|
-Cx4Storm|SOULCONTRACT|
-Cx4Storm|Introduce|
-Cx4Storm|DIALOGUEWEDDING|
-Cx4Storm|GAIN|
-M82A1|DIALOGUE1|
-M82A1|DIALOGUE2|
-M82A1|DIALOGUE3|
-M82A1|SOULCONTRACT|
-M82A1|Introduce|
-M82A1|DIALOGUEWEDDING|
-M82A1|GAIN|
-Python|DIALOGUE1|
-Python|DIALOGUE2|
-Python|DIALOGUE3|
-Python|SOULCONTRACT|
-Python|Introduce|
-Python|DIALOGUEWEDDING|
-Python|GAIN|
-M870P|DIALOGUE1|
-M870P|DIALOGUE2|
-M870P|DIALOGUE3|
-M870P|SOULCONTRACT|
-M870P|Introduce|
-M870P|DIALOGUEWEDDING|
-M870P|GAIN|
-AK74U|DIALOGUE1|
-AK74U|DIALOGUE2|
-AK74U|DIALOGUE3|
-AK74U|SOULCONTRACT|
-AK74U|Introduce|
-AK74U|DIALOGUEWEDDING|
-AK74U|GAIN|
-Mk12|DIALOGUE1|
-Mk12|DIALOGUE2|
-Mk12|DIALOGUE3|
-Mk12|SOULCONTRACT|
-Mk12|Introduce|
-Mk12|DIALOGUEWEDDING|
-Mk12|GAIN|
+A91|DIALOGUE1|Huh? Didn't you just go out, Commander? I must have gotten the wrong person again~
+A91|DIALOGUE2|If you want me to maintain my operational capability, then I'll need a minimum of 660ml of vodka per day.
+A91|DIALOGUE3|My perfume's quite intense, so don't get too tipsy, okay?
+A91|SOULCONTRACT|Commander, there's one thing you probably don't know yet... <>Although I'm usually flushed in the face, it's not always because I'm drunk. <>Sometimes, it's because there's someone in front of me who is more intoxicating than fine wine...
+A91|Introduce|Hm? Let's see who's come to pick me up? ...One, two... Hehe, there sure are a lot of Commanders here.
+A91|DIALOGUEWEDDING|I get tipsy if I'm by your side even when I'm not drinking... I guess vodka isn't as potent as you are.
+A91|GAIN|Hm? Let's see who's come to pick me up? ...One, two... Hehe, there sure are a lot of Commanders here.
+Cx4Storm|DIALOGUE1|It's actually pretty difficult to collect cigarette labels here, since nobody smokes...
+Cx4Storm|DIALOGUE2|Commander, someone like you could have easily done well in another job, so why did you choose to work here?
+Cx4Storm|DIALOGUE3|Wh-What is it, Commander? You seem worried.
+Cx4Storm|SOULCONTRACT|Commander, thank you for bringing me all the way here. <>I used to doubt myself and often wondered if I would be better off elsewhere... <>But now I'm sure of it. I'll find the happiness I was looking for by your side!
+Cx4Storm|Introduce|I'm sure of it, I'll be able to find my true self here! ...I'm Cx4 Storm, and I'll be in your care, Commander!
+Cx4Storm|DIALOGUEWEDDING|Commander, I don't quite understand this tactic. Help me practice it some more. I'm sure that with you around, I'll be able to carry on no matter how tough things get!
+Cx4Storm|GAIN|I'm sure of it, I'll be able to find my true self here! ...I'm Cx4 Storm, and I'll be in your care, Commander!
+M82A1|DIALOGUE1|A suggestion? Actually, I think... I'm sorry, I'd better not say it. I can't give you the answers you want...
+M82A1|DIALOGUE2|Dolls cannot bear the prayers of mankind. We are not gods, and the only wishes Dolls can grant are their own.
+M82A1|DIALOGUE3|There were once people who did whatever I told them... Yes, just like what you're doing to me now.
+M82A1|SOULCONTRACT|Commander, how can you accept someone like me... <>All I can do is obey your orders and follow your guidance... Doesn't my selfishness hurt you? <>Maybe I can't give you the best answer, but when you can't bear it any more, please...let me be your pillar.
+M82A1|Introduce|I'm M82A1... Commander, this is my name now. I am a Doll that belongs to you, and I will obey all the "guidance" you give me.
+M82A1|DIALOGUEWEDDING|Coordination training? I can do it by myself, but if it's your order, then I can try it with everyone else.
+M82A1|GAIN|I'm M82A1... Commander, this is my name now. I am a Doll that belongs to you, and I will obey all the "guidance" you give me.
+Python|DIALOGUE1|You have a good eye for tactics. However, I'm sure you'll get a better view from my perspective.
+Python|DIALOGUE2|Dolls don't normally possess the instinct for "terror" that humans do, but I'll make sure to teach everyone about it.
+Python|DIALOGUE3|Please be careful, Commander. Some snakes might not be venomous, but they'll be all the more dangerous because of it.
+Python|SOULCONTRACT|Hehe, Commander, have you finally abandoned your struggles? <>Once I set my eyes upon my "prey", they'll end up mine sooner or later. <>...Or perhaps, was I the one being drawn in by the bait all this while?
+Python|Introduce|Commander, are you my new "prey"? Hehe, don't worry, I mean no disrespect.
+Python|DIALOGUEWEDDING|Commander, what sort of "prey" do you want to take next? Whatever you want is fine with me.
+Python|GAIN|Commander, are you my new "prey"? Hehe, don't worry, I mean no disrespect.
+M870P|DIALOGUE1|Stop embarrassing yourself~ If I were to enforce the law with your mediocre work efficiency, my shells wouldn't even be able to reach 300 km/h~
+M870P|DIALOGUE2|If you were to go on Highway 666, you'd best prepare some soda, otherwise I can't guarantee safe travels for you... Pfff, did I scare you into wetting yourself?
+M870P|DIALOGUE3|Tsk tsk, I can't just pretend I didn't see this assault on a police officer. I'll give you the choice of receiving a ticket or barking like a dog.
+M870P|SOULCONTRACT|Pfff... Commander, is this a new way of getting out of traffic tickets? <>Since you put so much effort into it, I'll let you off with a verbal warning this time~ <>However, if I lock my eyes onto you, then you can forget about escaping arrest, hehe...
+M870P|Introduce|Pff...are you the Commander? If the license pictures of the idiots on the road all looked as typical as you, I'd rather be hit by a speeding vehicle~
+M870P|DIALOGUEWEDDING|Commander, it looks like I'll have to watch you closely today. My neural cloud won't let a single moment of your idiocy escape me~ So you'd better give me a good show, okay?
+M870P|GAIN|Pff...are you the Commander? If the license pictures of the idiots on the road all looked as typical as you, I'd rather be hit by a speeding vehicle~
+AK74U|DIALOGUE1|If you have to say something, be quick about it. AS Val is waiting for me.
+AK74U|DIALOGUE2|W-What are you trying to say? What's wrong with small ones?
+AK74U|DIALOGUE3|Hey! My services don't include this sort of thing! If you want it, 9A-91 will be happy to oblige!
+AK74U|SOULCONTRACT|Wait a minute, are you sure you got it right, Boss!? I've been mean to you all this time... Are you a masochist or something? No, stay away, I'm going to scream! I...I...okay, I'll let it slide, just this once... (trails off)
+AK74U|Introduce|Ah, are you the Boss? My name's AK-74U. Think carefully about what services I can provide for your operations.
+AK74U|DIALOGUEWEDDING|Looking to try me again today? Geez, it's not my fault if you get hurt again... Come, I'll loosen you up with my special massage.
+AK74U|GAIN|Ah, are you the Boss? My name's AK-74U. Think carefully about what services I can provide for your operations.
+Mk12|DIALOGUE1|My neural cloud needs to store things that are worth recalling, not just boring work records.
+Mk12|DIALOGUE2|If you need to sacrifice me on a mission, then please arrange a thrilling end for me.
+Mk12|DIALOGUE3|You keep barking orders, but I already know what to do, so quit nagging me already...
+Mk12|SOULCONTRACT|Commander, do you understand the implications of me putting this on? <>In truth, I've always liked tragedies, because I've never been able to choose "happiness" before...<>So please order me to put this on...because I've been waiting all this time for such an "order."
+Mk12|Introduce|Commander, if you're only going to give me boring orders, I'm not going to play along with them.
+Mk12|DIALOGUEWEDDING|The operation documents? I was worried you'd nag me for them, so I prepared them ahead of time. Don't be in such a hurry to thank me, as there'll a lot more things you'll have to be grateful for in the future.
+Mk12|GAIN|Commander, if you're only going to give me boring orders, I'm not going to play along with them.
 FNSPR|DIALOGUE1|To me, the best part about being an adjutant is being able to openly observe you like this, Commander.
 FNSPR|DIALOGUE2|Well, we can't always depend on your orders all the time since you've got so much to do. Sometimes, we need to rely on ourselves.
 FNSPR|DIALOGUE3|Ahhh, don't touch my hat! it'll be troublesome if I gets exposed.
@@ -2096,20 +2096,20 @@ FNSPR|SOULCONTRACT|I didn't know that you were always looking at me too, Command
 FNSPR|Introduce|Excuse me, Commander. I was observing you for three days and three nights before coming here, but that was just some personal investigation. I hope you don't mind.
 FNSPR|DIALOGUEWEDDING|Don't worry, I won't be going anywhere. I'll always be watching you, heehee...
 FNSPR|GAIN|Excuse me, Commander. I was observing you for three days and three nights before coming here, but that was just some personal investigation. I hope you don't mind.
-Px4Storm|DIALOGUE1|
-Px4Storm|DIALOGUE2|
-Px4Storm|DIALOGUE3|
-Px4Storm|SOULCONTRACT|
-Px4Storm|Introduce|
-Px4Storm|DIALOGUEWEDDING|
-Px4Storm|GAIN|
-JS9mm|DIALOGUE1|
-JS9mm|DIALOGUE2|
-JS9mm|DIALOGUE3|
-JS9mm|SOULCONTRACT|
-JS9mm|Introduce|
-JS9mm|DIALOGUEWEDDING|
-JS9mm|GAIN|
+Px4Storm|DIALOGUE1|If the company was more generous with its bonus plan, then I'm sure everyone would be more motivated. Wouldn't you agree, Mastermind?
+Px4Storm|DIALOGUE2|Griffin work aside, I'd be glad to take on any odd jobs you have for me, Mastermind.
+Px4Storm|DIALOGUE3|What? There's nothing that I want to buy, but don't you feel a sense of achievement when you watch your bank balance grow?
+Px4Storm|SOULCONTRACT|After joining Griffin, I was expecting that under your command, I'd be able to complete some great job that nobody had ever done before... <>But I didn't expect that you'd even planned something like this out, Mastermind... <>It seems that whether it comes to plundering the enemy's fortunes or my neural cloud, you certainly cover all the angles.
+Px4Storm|Introduce|Are you the Mastermind here? Ah, no...you're called the Commander here, right? Let's work together in future.
+Px4Storm|DIALOGUEWEDDING|Mastermind, you need to tell me if you've got any plans. I can give you preferential treatment.
+Px4Storm|GAIN|Are you the Mastermind here? Ah, no...you're called the Commander here, right? Let's work together in future.
+JS9mm|DIALOGUE1|If you go to sleep early and wake up early, then all your problems will be easily solved.
+JS9mm|DIALOGUE2|Oh no! I think I'm on cooking duty today... I-Is takeout okay?
+JS9mm|DIALOGUE3|Commander, this isn't a good habit to have. You're just going to cause problems for others.
+JS9mm|SOULCONTRACT|Commander... I-I'm not too used to stuff like this... <>As I thought...there's no way I'm getting out of this, right? <>Alright, I'll let you have your way just this once... ❤
+JS9mm|Introduce|Commander, this is my first suggestion to you - please make sure the work you give me is within my abilities to accomplish. Thank you.
+JS9mm|DIALOGUEWEDDING|Overtime again? Didn't we agree that you would rest earlier? Seriously, you never listen to what I tell you... I-I tried making some snacks, so you should take a short break.
+JS9mm|GAIN|Commander, this is my first suggestion to you - please make sure the work you give me is within my abilities to accomplish. Thank you.
 K11|DIALOGUE1|The reagent color doesn't look quite right...Commander? Nonono, you didn't see anything!
 K11|DIALOGUE2|Hm...I think I should put a tank of oxygen in the first aid kit, not that I know what good it'll do.
 K11|DIALOGUE3|Do you want to see an explosion? If you do, then touch me again like you did just now.
@@ -2117,48 +2117,48 @@ K11|SOULCONTRACT|Commander, why did you call me out at a time like this? I haven
 K11|Introduce|Guess who this is, Commander of Griffin! I'm K11, an expert at handling emergencies. Please let me show you my full potential!
 K11|DIALOGUEWEDDING|Do you want to take part in an outdoors survival game with me on our next vacation? It's okay if you don't know how to do it, I'll hold your hand and teach you.
 K11|GAIN|Guess who this is, Commander of Griffin! I'm K11, an expert at handling emergencies. Please let me show you my full potential!
-Type88|DIALOGUE1|
-Type88|DIALOGUE2|
-Type88|DIALOGUE3|
-Type88|SOULCONTRACT|
-Type88|Introduce|
-Type88|DIALOGUEWEDDING|
-Type88|GAIN|
-SAR21|DIALOGUE1|
-SAR21|DIALOGUE2|
-SAR21|DIALOGUE3|
-SAR21|SOULCONTRACT|
-SAR21|Introduce|
-SAR21|DIALOGUEWEDDING|
-SAR21|GAIN|
-MP448|DIALOGUE1|
-MP448|DIALOGUE2|
-MP448|DIALOGUE3|
-MP448|SOULCONTRACT|
-MP448|Introduce|
-MP448|DIALOGUEWEDDING|
-MP448|GAIN|
-Type03|DIALOGUE1|
-Type03|DIALOGUE2|
-Type03|DIALOGUE3|
-Type03|SOULCONTRACT|
-Type03|Introduce|
-Type03|DIALOGUEWEDDING|
-Type03|GAIN|
-Mk46|DIALOGUE1|
-Mk46|DIALOGUE2|
-Mk46|DIALOGUE3|
-Mk46|SOULCONTRACT|
-Mk46|Introduce|
-Mk46|DIALOGUEWEDDING|
-Mk46|GAIN|
-RT20|DIALOGUE1|
-RT20|DIALOGUE2|
-RT20|DIALOGUE3|
-RT20|SOULCONTRACT|
-RT20|Introduce|
-RT20|DIALOGUEWEDDING|
-RT20|GAIN|
+Type88|DIALOGUE1|Uwah! What's this? Commander, why do you have that look on your face?
+Type88|DIALOGUE2|I'd like to stay in a place without so many chores... I think I could spend all day in the workshop by myself.
+Type88|DIALOGUE3|I wonder if I could join in conversations with everyone if I was more familiar with current topics...
+Type88|SOULCONTRACT|Commander, I really don't get it... Why me... I don't know anything... I'm completely clueless... <>But with you by my side, I won't be afraid of the things I don't know anymore! <>Although...if I get scared by mundanely ordinary things again...please promise you won't laugh at me, okay?
+Type88|Introduce|This is QJY-88 general purpose machine gun reporting, Commander. You don't...have anything scary hiding here, do you...
+Type88|DIALOGUEWEDDING|Please return the magazine you borrowed from me once you're done with it...otherwise...tell me which parts of it you like!
+Type88|GAIN|This is QJY-88 general purpose machine gun reporting, Commander. You don't...have anything scary hiding here, do you...
+SAR21|DIALOGUE1|It looks like we have good weather as well today, and the insects look very healthy too, Commander.
+SAR21|DIALOGUE2|Singapore? ...So you've heard of that name before. In that case, would you mind helping me build a model Merlion?
+SAR21|DIALOGUE3|Eh? ...W-Wait! Don't just pick me up all of a sudden! Commander, I can tell you how much I weigh if you wanted to know!
+SAR21|SOULCONTRACT|Commander, are you really choosing me... <>D-Don't talk nonsense! I'll say yes, because...because it's the most rational answer to give! <>I was just in the grip of my emotions for a bit... Really, just a little bit...
+SAR21|Introduce|I am SAR-21, Commander. ...Where's your battle plan? It's not good to operate purely by instinct.
+SAR21|DIALOGUEWEDDING|You don't need to keep dragging me to the arcades... Rather, please take good care of my treasures that I left at the base!
+SAR21|GAIN|I am SAR-21, Commander. ...Where's your battle plan? It's not good to operate purely by instinct.
+MP448|DIALOGUE1|I ended up disagreeing with big sis again during today's meeting... Commander, please be more brief with your words next time.
+MP448|DIALOGUE2|I like pistols because they're simple, but exquisitely designed.
+MP448|DIALOGUE3|Commander, if you have something to say then you should come out and say it. I have no idea what you're hinting at.
+MP448|SOULCONTRACT|Commander, that serious look on your face is making me feel a little... <>But never mind that, what's important is that I understand what you're thinking. <>After all, our relationship and our feelings have always been that straightforward, haven't they?
+MP448|Introduce|It is an honor to meet you, Commander. I hope my participation will make your victories simpler.
+MP448|DIALOGUEWEDDING|I was trying to think of something that would make you happy, Commander, but after thinking for a good long while, I felt that just being by your side would do.
+MP448|GAIN|It is an honor to meet you, Commander. I hope my participation will make your victories simpler.
+Type03|DIALOGUE1|Commander, when you order an attack, it mustn't just be in terms of the operation. You also need to deal a telling blow to the enemy on a psychological level.
+Type03|DIALOGUE2|I will take care to record your words, Commander, and if need be, I will gather everyone to learn from them. My mission is to carry out your will.
+Type03|DIALOGUE3|Commander, is there something that I have not fully understood? I will take care to reflect on it.
+Type03|SOULCONTRACT|Commander, you sound so different from usual, I'm at a bit of a loss for how to handle it... <>I have always respected you, but I've found that this feeling has started to change... <>Now, there's no way I'll ever be able to forget this oath that you have sworn to me... ❤ 
+Type03|Introduce|We meet at last, Commander. I am QBZ-03, and I am sure that I will gain greatly from your leadership. I'll be in your care.
+Type03|DIALOGUEWEDDING|Commander, when things aren't going your way, take a look at the knot I gave you. I'm sure it'll bring you good luck.
+Type03|GAIN|We meet at last, Commander. I am QBZ-03, and I am sure that I will gain greatly from your leadership. I'll be in your care.
+Mk46|DIALOGUE1|I want to slack off... Don't look at me like that, I was just thinking out loud.
+Mk46|DIALOGUE2|249 didn't finish up this bunch of documents... Ah well, I guess I'll have to think of some way to deal with them.
+Mk46|DIALOGUE3|I didn't expect your hands to be so soft, Commander, let me touch them some more.
+Mk46|SOULCONTRACT|Commander, does it...have to be me? <>Honestly, you're never satisfied no matter how much effort I put in. <>Fine fine, I'll agree to anything as long as you're happy with it... ❤
+Mk46|Introduce|So you're my new Commander, huh.... I don't like slaving away for someone I just met, but work's a different matter. Let's get along.
+Mk46|DIALOGUEWEDDING|Still more work? Very well then, I wouldn't be able to escape anyway... Who let you keep such a tight rein on me?
+Mk46|GAIN|So you're my new Commander, huh.... I don't like slaving away for someone I just met, but work's a different matter. Let's get along.
+RT20|DIALOGUE1|No matter what it is, I'll be able to tell if it's real or fake with a bite.
+RT20|DIALOGUE2|You're always so secretive, Commander, and I can never tell what you're going to do next. Could it be you're actually behind some huge scheme in the shadows?
+RT20|DIALOGUE3|What's the matter? Want a bite? Hang on a bit...have you washed your hands?
+RT20|SOULCONTRACT|Commander, am I an irreplaceable part of your plans? <>Although I've never been able to tell what you're planning or what secrets you're keeping... <>I'm sure this symbol of our oath is real and true.
+RT20|Introduce|Given that you need me, RT-20, to take the field, you must have a big objective in mind, don't you, Commander? I'm somewhat looking forward to seeing how you work.
+RT20|DIALOGUEWEDDING|Commander, let me decide where we'll have our next date... Where is it? Hehe, well...it's a secret for now.
+RT20|GAIN|Given that you need me, RT-20, to take the field, you must have a big objective in mind, don't you, Commander? I'm somewhat looking forward to seeing how you work.
 M200|DIALOGUE1|I have learned to play the guitar before. If you're bored, I can play a song for you.
 M200|DIALOGUE2|Commander, I'm not too clear on this arrangement, can you explain why?
 M200|DIALOGUE3|...No, you don't need to praise me for something like this... Oh my, my head feels really hot...
@@ -2204,3 +2204,239 @@ Jericho|SOULCONTRACT|Commander, we dolls only exist after we are granted "masks"
 Jericho|Introduce|Are you the leader here? ...You don't look like it at all. Please act with more gravitas and don't take the position of Commander lightly.
 Jericho|DIALOGUEWEDDING|I trust you didn't forget to help me water the flowers, Commander? ...If you don't make me happy today, you can forget about our next date.
 Jericho|GAIN|Are you the leader here? ...You don't look like it at all. Please act with more gravitas and don't take the position of Commander lightly.
+ART556|CHRISTMAS|Presents! Presents! We're going to get lots of presents today, right? I can hardly wait!
+ASVAL|NEWYEAR|It's a new year, Commander. Have I grown a little? Huh, Teddy's gotten bigger? That's because I just washed him...
+CZ52|NEWYEAR|Time will always give us a new answer, so let's continue doing our best this year.
+CZ75|NEWYEAR|Happy New Year, Commander. Why are you wearing so many layers tonight? You really can't take the cold, huh?
+FN57|CHRISTMAS|This is a nice Christmas dress, don't you think? ...After all, I'm the one wearing it.
+G36Mod|DIALOGUE1|My little sister sometimes comes to my dorm to sleep with me... Goodness, it's not like she's a child anymore.
+G36Mod|DIALOGUE2|Master, these are the notes for the upcoming meeting. I've highlighted the key points, so you can use them directly. 
+G36Mod|DIALOGUE3|Master, do you enjoy teasing me while I'm at work?
+G36Mod|GAIN|Master, my services will be comprehensively upgraded. Please enjoy the experience.
+G36C|VALENTINE|Commander, this, it's for you... Ah, do you have some from big sis too? That's wonderful...
+GepardM1|VALENTINE|Commander, don't you feel that receiving so many chocolates is a burden?
+IWS2000|NEWYEAR|Please rely on me throughout this new year, whether it's achieving victory in battle or a New Year's wish, I will help make them come true!                                                                                                                                                                                                                                                                                                                                                                                                             
+KP31|WIN|Did we win? Wonderful, I can finally leave my name behind...
+KP31|BUILDOVER|A new friend? Or are they...that bunch of brutes...
+KP31|BLACKACTION|Rules were meant to be broken!
+KP31|FIX|Can I please have...a room with a sauna?
+KP31|FORMATION|Uuu...everyone, you don't need to crowd so close around me...
+KP31|PHRASE|I'm honored.
+KP31|VALENTINE|Commander, this is my chocolate. Place it next to the failures that those brutes made and examine the difference.
+LWMMGMod|DIALOGUE1|Four boxes...six boxes... No, I don't think I'll use that much ammo on the next mission.
+LWMMGMod|DIALOGUE2|Are you thinking about operation plans? ...No need to worry about me, I can take care of myself.
+LWMMGMod|DIALOGUE3|Commander, it's not good for us to keep chatting like this... You still have work to do, don't you?
+LWMMGMod|GAIN|Growth like this should mean that other people won't be so burdened by me... Thank goodness.
+M14Mod|DIALOGUE1|Commander, we went on many exciting adventures again. Would you like to hear about them?
+M14Mod|DIALOGUE2|Are you having trouble with something? Times like these call for folk wisdom, so leave it to us!
+M14Mod|DIALOGUE3|Commander, your way of greeting is a little too intense for us. We...still need time to get used to it...
+M14Mod|GAIN|Commander, don't you think we've become a little more mature? Right now, we feel like we can do anything~
+Mk23|VALENTINE|While every day is like Valentine's Day, I'd still like to commemorate this day. Is there something you'd like to do, Darling?
+MP5|NEWYEAR|I hope my chest will grow this year... I'll do my best!
+OTs14|NEWYEAR|Happy New Year. I hope things will remain this way for the upcoming year, so I have something to look forward to.
+OTs14|HELLO|Come, don't be so stiff, start by helping me make a cup of tea.
+OTs14|RETREAT|Perhaps...we ought to rest a little and then have something to drink, in order to keep our heads clear.
+OTs14|COMBINE|Thank you, now I'll have someone to wake me up.
+OTs14|BREAK|I'm in terrible shape. As I thought, it's all because I didn't adjust myself properly last night...
+OTs14|FIX|I'll let you handle this, then. I'm going to take a short nap.
+PKP|VALENTINE|Are you surprised that I made chocolate? You seem to be under the wrong impression... I'm perfect in everything I do.
+RFB|NEWYEAR|Happy New Year! What games do you want to play this year, Commander?
+SAT8|FORMATION|What a nice place you left for me~
+SAT8|MEET|So you came!
+SAT8|DEFENSE|Wait a minute, I'm not ready yet...
+SAT8|BREAK|Aw, I'm a mess now... I surrender, I surrender~
+SAT8|RETREAT|Looks like I didn't prepare enough... I'll pull back for now.
+SAT8|HELLO|Are you there? Shall we start by going over our preparations?
+StenMK2Mod|DIALOGUE1|Ah! Commander, what should I be doing?
+StenMK2Mod|DIALOGUE2|Mhm! I'm listening, so please continue!
+StenMK2Mod|DIALOGUE3|Commander, do we already have that kind of relationship? If not, please stop making jokes like that...
+StenMK2Mod|ALLHALLOWS|Commander, come take a look, this is tonight's Jack O'Lantern! I made it myself, is it cute?
+StenMK2Mod|VALENTINE|Commander, I made some chocolate, but I don't know how it tastes... Would you like to try it?
+StenMK2Mod|GAIN|Commander, have I grown enough that you can trust me to handle this task by myself? ...If you're still worried, then please keep an eye on me from now on!
+T5000|VALENTINE|My chocolate isn't too special compared to theirs, is it? Mm, this will do.
+TMP|CHRISTMAS|Another round, AK-47~ hic! ...You were the one who forced me to drink, weren't you~ Don't tell me you can't handle a little bit of alkie? Hahaha~
+FN57_0|WIN|Hehe, the Commander's going to praise me. Don't get jealous now, everyone.
+FN57_0|HELLO|It's a new day, Commander. Did you miss me?
+FN57_0|BLACKACTION|The Commander's watching me now, I need to work harder.
+FN57_0|FEED|You're really nice to me, I'll remember this.
+FN57_0|RETREAT|Is there nothing we can do? I hope I'm not to blame...
+FN57_0|FIX|Don't worry, next time I'll pay them back in kind!
+FN57_0|BREAK|You really are heartless, aren't you? Can't you be gentler to a little girl?
+FP6|CHRISTMAS|Alright children, remember to go to bed on time tonight. I'll be doing room inspections, so if you don't want anything to happen to your Christmas presents, you'd better be sound asleep.
+AK74U|NEWYEAR|Do your best for the new year, Boss. Don't get me wrong, I'm just saying auspicious things to suit the occasion. Hurry up and thank me!
+Px4Storm|CHRISTMAS|Not only do I believe in Santa Claus, I also respect him deeply. Why? It's because there's nowhere in this world that he can't enter!
+Px4Storm|WIN|High-risk work that pays well. I expected nothing less of Griffin.
+Px4Storm|HELLO|Did you come up with any new ideas, Mastermind? I mean, Commander?
+Px4Storm|FIX|Good grief... I'll need to find an excuse to deceive the insurance company.
+Px4Storm|BREAK|I can't believe I messed up like this!
+Px4Storm|SKILL2|To think I'd encounter them here...! I've got no choice!
+Px4Storm|RETREAT|Since I've been exposed, choosing to fight some other day is hardly shameful.
+Px4Storm|PHRASE|How much is this worth?
+Type88|NEWYEAR|Happy New Year! Commander, were you planning to head outside for a stroll? ...May I come with you?
+K31|DIALOGUE1|Usually when I'm bored, I'll go see what other people are doing, but it seems you're actually quite boring, Commander.
+K31|DIALOGUE2|My breathing seems a bit out of sync with my internal clock... In...out...in... Hm, seems like it's alright now.
+K31|DIALOGUE3|Commander, you've wasted quite a lot of my time already, so enjoy waiting for dinner tonight.
+K31|SOULCONTRACT|Commander, both of us...should be ready for this, right? <>Was today's scenario orchestrated by you, or was it sheer coincidence? <>I don't know... but I understand that this moment was destined to occur...
+K31|Introduce|Very good, this is just as planned. Meeting me now is the luckiest moment of your life, Commander.
+K31|DIALOGUEWEDDING|Commander, have you noticed any deviations in your biological clock recently? Don't worry, I'll help you adjust it.
+P90|DIALOGUE1|Commander, do you know the latest slang nowadays? The memes change so fast that I can't keep up.
+P90|DIALOGUE2|Just by changing my pitch a little, I can talk like this da nya~
+P90|DIALOGUE3|"I-I'm not blushing! Don't get the wrong idea!" ...Hehe, is that what they call tsundere?
+P90|SOULCONTRACT|Commander, do you want me to follow you forever?<>It's nothing tough for me as long as you don't mind me sticking so close to you...<>But you won't shake me off so easily, even if you run or fly away!
+P90|Introduce|Huh? I was just following the other Dolls around... How did I end up here? ...Ah~ Hello! Do you know where this place is?
+P90|DIALOGUEWEDDING|Everyone likes you, Commander, but my love for you isn't just a trend, you know? There's nothing quite like how I love you~
+P90|CHRISTMAS|I feel sorry for people who dress up as Santa, because everyone's asleep when they're giving out presents and nobody will see what they look like.
+TEC9|GAIN|I came here because I heard you could do work without coming into contact with humans... W-Wait a minute! Are you human?
+TEC9|DIALOGUE1|When I think about how humans look just like Dolls but with all kinds of organs and blood inside them instead... Oh heavens, I'm losing my mind just thinking about it!
+TEC9|DIALOGUE2|The "organization" where I previously worked had me using knives, but I ran away in the end because I couldn't do anything to the humans...
+TEC9|DIALOGUE3|Commander, could you keep a safe distance from me? ...Yeah, at least ten meters.
+TEC9|DIALOGUEWEDDING|Th-This is so scary... I can't believe you have blood vessels in your eyes, Commander! Didn't I tell you to get some rest? You're making me very uncomfortable...
+TEC9|SOULCONTRACT|Commander, to tell you the truth, I'm not really interested in humans... <>But you're a special case, because I get very concerned if you get hurt or if you get tired... <>Do you worry about me the same way too?
+P22|DIALOGUE1|Like I was saying about the Commander's tactic... Hm? Is something the matter, Commander? Oh, I wasn't talking to you, don't mind me.
+P22|DIALOGUE2|Commander, exactly how much do you know about yourself? We might be more alien to ourselves than we think.
+P22|DIALOGUE3|Are you really so frustrated without a conversation partner? ...Alright then, what do you want to talk about?
+P22|SOULCONTRACT|I think the Commander looks strange... What do you think? <>Mhm, he does look a little different, but I think I know what this is all about.<>However, the answer will have to wait until I put this on, okay? Hee hee~
+P22|Introduce|Oh my, the Commander's come to pick me up, we'll talk another time. Greetings, Commander. My name is P22. Do you need help with anything?
+P22|DIALOGUEWEDDING|When there's nothing we can talk about, I can always talk about you, Commander. Hehe, I'll never get tired of discussing about you, Commander.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+HS2000|DIALOGUE1|I like the sound of heartbeats... I envy those things which humans have, and which Dolls don't.
+HS2000|DIALOGUE2|I only realized it after coming here, but it's not just medical science that can protect others. You can do that by picking up a weapon too.
+HS2000|DIALOGUE3|Are you feeling unwell, Commander? Would you like me to shock you with my defibrillator?
+HS2000|SOULCONTRACT|Commander, your heart seems to be beating faster than usual... <>Does this mean you're being sincere? A person's heart doesn't lie. <>Funny...I feel like...my heart's pounding too...
+HS2000|Introduce|I see, so that's your heartbeat, Commander... Yes, I'll make sure to remember it. I'll be in your care from now on.
+HS2000|DIALOGUEWEDDING|I remember your heartbeat in all kinds of situations, Commander - when you're working, when you're happy, when you're sleeping...but your heartbeat when you're happy sounds best.
+X95|DIALOGUE1|Flowers only have meaning when people appreciate them or when they wither away. Commander, I'm willing to endure any kind of suffering as long as I can bloom for everyone.
+X95|DIALOGUE2|Jericho might be a little harsh, but I understand where her kindness lies... Commander, please place your trust in her.
+X95|DIALOGUE3|Is there something bothering you? Take your time and tell me. I'm here for you. 
+X95|SOULCONTRACT|Commander, I've always worked hard for everyone and haven't thought much about myself... <>Yet you've accompanied me from the beginning and even shared my pain. <>Commander, you might be the only one who can save me...so please...become my final pillar of support.
+X95|Introduce|This is wonderful, Commander, we meet at last. I, X95, will give everything I have for you... No, not just for you, for everyone.
+X95|DIALOGUEWEDDING|Commander, there's no need to bother you with such a small matter, right? I'll handle it by my... Ah// in that case, thank you for your kindness, hehe.
+KSVK|DIALOGUE1|I will quietly await your orders here, Commander. Make your choice.
+KSVK|DIALOGUE2|We stand in the center of the vortex of the world, Commander. Take care not to lose yourself in it.
+KSVK|DIALOGUE3|I cannot answer all of your questions. Some answers can only be understood on your own.
+KSVK|SOULCONTRACT|Commander, I no longer see any confusion in your eyes. <>The time is ripe, and you are the sole truth within my heart... <>Oh oathsworn one, let us carve an eternal existence into each others' fates...
+KSVK|Introduce|Oh Commander, who has been chosen by destiny, I shall witness your path, so please prepare yourself!
+KSVK|DIALOGUEWEDDING|Oh oathsworn one, cherish this present time, for this present happiness was not easily won, and I...can no longer bear to be without you.
+Lewis|DIALOGUE1|I lost all the material I prepared for the meeting...b-but it's okay! I memorized it all!
+Lewis|DIALOGUE2|Everyone looks so adorable, I can't believe they're all Tactical Dolls! Are you trying to deceive the enemy?
+Lewis|DIALOGUE3|Hm? You want to arm-wrestle with me, Commander? I'm very good at it, you know.
+Lewis|SOULCONTRACT|Commander, while you're the person I'm most familiar with, there are times when you seem like such a stranger... <>I can't bear to just gaze at you from afar, I want to enter your heart. <>I...I want to know everything about you.
+Lewis|Introduce|Thank goodness~ The Commander here looks like a nice person! I'm Lewis, pleased to meet you!
+Lewis|DIALOGUEWEDDING|No matter how tired or unhappy I am, I perk up right away when I see you, Commander! Hehe~
+UKM2000|DIALOGUE1|I escaped to this planet because of "them"... You don't need to know the details, Commander. It'll do you no good.
+UKM2000|DIALOGUE2|Cats speak in a language that's very close to our mother tongue, so there are times when I can understand their thoughts.
+UKM2000|DIALOGUE3|Don't pull down my hood! What if "they" recognize me...!
+UKM2000|SOULCONTRACT|Commander, is this a good idea? I feel like I'm still keeping a lot of things from you... <>S-So you mean, you don't mind being with me, even if my planet invades the Earth? <>...Thank you, Commander... In that case, for the sake of this promise, I'm also willing to face any future with you!
+UKM2000|Introduce|Are you...the Commander? It looks like I have no choice but to work with you from now on. "They" shouldn't be able to find me as long as I'm here...
+UKM2000|DIALOGUEWEDDING|A cat jumped out of nowhere in the dorms...it scared me half to death... Commander, if "they" find me, you'll have to protect me well.
+scout|DIALOGUE1|A pet? How rude, Mitsuha is my...avian guardian...I guess?
+scout|DIALOGUE2|Huh? When did they change the mission? ...Apologies, I was too focused on the documents during the meeting, and I guess I missed your announcement.
+scout|DIALOGUE3|Commander, you mustn't take action before you understand what you're looking at.
+scout|SOULCONTRACT|Commander, I think I'm beginning to understand why Mitsuha likes you so much. <>I often find myself overlooking a lot of things because I keep looking at you because you keep drawing my attention when I least expect it... <>Will you keep looking at me too? Keep me in your eyes...and never look away.
+scout|Introduce|Mitsuha, are you sure this is the one? ...What a surprise, I didn't expect someone to actually gain Mitsuha's approval. It looks like you're not an ordinary person, Commander.
+scout|DIALOGUEWEDDING|Commander, please don't stand beside me while I'm working, otherwise I'll only be able to think of you...b-but don't go too far away either.
+Falcon|DIALOGUE1|I think I broke something again just now... Huh? What did you just say, Little Lamb...? A lack of talent? Haha, who are you talking about, dummy.
+Falcon|DIALOGUE2|Well, it IS a musical instrument famous in my hometown. I can make a guitar like that too, and I can even teach you for free! ...Hmph, you're awfully lazy, Little Lamb. In that case, you can just watch me make it.
+Falcon|DIALOGUE3|There sure are a lot of people from my hometown here... Personally, I'd prefer to lie on the grass and look at the sky by myself. But if it's you, Little Lamb, I'll let you lie beside me.
+Falcon|SOULCONTRACT|Little Lamb, i-is that ring in your hand really for me? <>Why is it that you keep doing things that my instincts can't keep up with? It's so unfair... <>I love it! You'll always be the person I love most, Little Lamb...
+Falcon|Introduce|Ahoj! Little Lamb...ah, no, I mean, Commander! It's a pleasure to meet you. You can call me Falcon.
+Falcon|DIALOGUEWEDDING|Uwah! No peeking at the musical scores inside my drawer! They're all love songs I wrote for you... I'll play them for you when the anniversary comes, but it's too embarrassing to take them out now!
+Magal|DIALOGUE1|I heard someone humming at the practice range. What? You mean you can't hear it, Commander? I'm sorry, it seems like I overestimated the extent of human hearing.
+Magal|DIALOGUE2|You're asking about my headphones? They're used to filter out noise. I can't concentrate when my surroundings are too noisy...so please stop chattering on with useless things.
+Magal|DIALOGUE3|Your hand feels very comfortable, and it puts me at ease...but that doesn't give you a reason to touch me at work.
+Magal|SOULCONTRACT|It looks like you went out of your way to pick a quiet location. So, what do you want to tell me, Commander? <>...Is that so? How could I refuse someone who can discuss the world of touch and hearing with me? <>In that case, let's experience that world together. Thank you.
+Magal|Introduce|Greetings, Commander. Your heartbeat sounds stable, which is a good thing.
+Magal|DIALOGUEWEDDING|I can hear your heart beating, Commander. You don't need to approach me from the rear, by which I mean, hugging me from the front would be good too, right?
+PM9|DIALOGUE1|Commander? Being picky about food isn't a good habit. Don't you think it's a little sad that you can't eat spicy stuff?
+PM9|DIALOGUE2|I hear there are many Dolls on the base who are skilled in melee combat. I'd like to challenge them if possible. After all...there can only be one champion.
+PM9|DIALOGUE3|C-Commander, you're too close... Hey, you can't just kabedon me - get lost! You're squashing my hair! Get lost!
+PM9|SOULCONTRACT|Hah? Are you serious, Commander? <>Well...it's not like you can't... <>You're being unfair. From now on, I'm going to give you just as much of my feelings too.
+PM9|Introduce|Huh, are you my new superior? Remember my name, I'm PM-9 submachine gun!
+PM9|DIALOGUEWEDDING|Huh? How come you've been able to catch my punches lately, Commander? Yet when I use the hand that's not wearing the ring, you can't catch them... Why is that?
+Jill|DIALOGUE1|I told you before to call me Jill... Just Jill. I'll pour a Sugar Rush on your head if you dare call me by "that" name.
+Jill|DIALOGUE2|Hey, Commander, want a drink? I think I should be able to mix something that'll cheer you up.
+Jill|DIALOGUE3|Do you need some personal space, Fore? I don't mind staying here ~nya... Ahem, Commander, forget what you saw and heard just now... I was just practicing my ventriloquism, that's all.
+Jill|SOULCONTRACT|W-Wait!? This is...for me?<>Trying to escape from your bar tab with this isn't funny at all... <>Alright alright, I get it. In any case...I still got a bar to run, you know, so start by topping up my fridge with beer.
+Jill|Introduce|Hey, call me Jill, Boss... You know what, can I just call you Commander?
+Jill|DIALOGUEWEDDING|Alright, enough with making me guess what sort of drinking game you want to play. Do you want to play truth or dare? I'll do anything besides petting a dog. ...Are you serious? "The person I like the most" is such an obvious question... Are you really going to waste a chance to get an honest answer out of me?
+Jill|GAIN|Hey, call me Jill, Boss... You know what, can I just call you Commander?
+SEI|DIALOGUE1|I long to help people, just as people have helped me. When I see you, Commander, I realize that there are others who like to stick their noses into things just like I do, which makes me very happy.
+SEI|DIALOGUE2|The White Knights helmet is just too comfortable, to the point that I often forget it's still on my head... Have you had an experience like that before, Commander? Like looking for the glasses on your nose or a key that's already in the lock?
+SEI|DIALOGUE3|Whether it's being a White Knight, Stella's bodyguard, or a Griffin employee...I haven't been able to get away from violent conflicts at all. Maybe this is my life.
+SEI|SOULCONTRACT|Is this...uhm, is this for me? But, uhm, what will Stella think...?<>Aw, honestly... I'm just no good with this kind of thing. <>Commander, please consider this carefully. If you truly mean it, then I'll give you everything I have...
+SEI|Introduce|Master Specialist, Sei P. Asagiri of the 765th Division Valkyrie Corps, at your service!
+SEI|DIALOGUEWEDDING|Ever since that time, I keep recalling the embarrassing things you said to me every time I see you, Commander. Ah, but I was very happy to hear those words, of course! <>How shall I put this... I've always felt that I often say the wrong things by accident and make people upset... <>Yet, you're able to accept all of my faults and accomplish our goals together... I'm really happy that I met you.
+SEI|GAIN|Master Specialist, Sei P. Asagiri of the 765th Division Valkyrie Corps, at your service!
+Dorothy|DIALOGUE1|I'm pretty good at face reading. Let me guess, you've probably been through a lot, Commander. Yet, you still enjoy butting into other people's business, and so you'll wind up into even more trouble in the future... So, would you like Dorothy to comfort you? Hm?
+Dorothy|DIALOGUE2|How do you feel about being called "Commander"? Addressing you as Senpai, Master, Babe, or Darling will cost you extra.
+Dorothy|DIALOGUE3|What kind of role do you want me to play, Commander? Do you want me to act more innocent to match my appearance, or are you okay with me as I've always been?
+Dorothy|SOULCONTRACT|Is this ring...for me? Commander, you...? This is making me feel like my heart has been infected by a Trojan virus... <>Pl-Please let me think about this... Dorothy belongs to everyone, after all, and if I become yours and yours only... <>Perhaps...that wouldn't be so bad. From now on, I will only provide my services to you.
+Dorothy|Introduce|I'm Dorothy, the cutest of them all. Everybody needs me, and Dorothy belongs to everybody!
+Dorothy|DIALOGUEWEDDING|Who am I? Why was I made? Are the feelings in my mind real, or are they simply ordinary electrical signals? All of my doubts are gone now. Did you really have to monopolize me, you greedy villain? Well then, come on!
+Dorothy|GAIN|I'm Dorothy, the cutest of them all. Everybody needs me, and Dorothy belongs to everybody!
+Stella|DIALOGUE1|I believe leaders are very important. A good leader can accomplish things with exceptional efficiency, but few people understand that. Many are only concerned with taking advantage of the situation without putting any effort in.
+Stella|DIALOGUE2|These cat ears? They're not on my head because I want them to be, but I don't dislike them. I wouldn't mind if you want to try touching them... Wait, someone's coming!
+Stella|DIALOGUE3|Sei is my most important friend...or maybe even more than just a friend. I believe that she'll be safe and happy working under you...or at the very least, she'll be happy.
+Stella|SOULCONTRACT|This looks quite well made. So, who's the Lilim...I mean, the Tactical Doll you're forming an oath with? <>Me? You really do have a wild imagination, but I wouldn't say this is a bad idea.<>Then, let Sei and I accompany you along your path. Now, help me put it on.
+Stella|Introduce|Stella Hoshii, that's my name. Alright, introductions are over. Now get me something to wake me up before we start work.
+Stella|DIALOGUEWEDDING|Is your work still not done yet? Well, it indeed has been a busy day, so I'll lend you a hand. In return, I get to dictate the rest of your free time.
+Stella|GAIN|Stella Hoshii, that's my name. Alright, introductions are over. Now get me something to wake me up before we start work.
+Alma|DIALOGUE1|The feeling of working here...is really quite novel. I don't usually meet my clients face to face, but since my client is the Commander of Griffin, and you're my most special client...
+Alma|DIALOGUE2|Hey, where are you staring at? Commander? Comms Expander? Forget it, I don't care, but these aren't fake. I'm very proud of them, and why shouldn't I be? They're filled to the brim with love and dreams.
+Alma|DIALOGUE3|You mean "those" photos? Have you forgotten that I'm a hacker? With a few simple keystrokes, your adorable sleeping face will be "accidentally" plastered all over Griffin Anonymous Message Board. Very well, I'll take an interesting story as your peace of mind fee.
+Alma|SOULCONTRACT|Uhm, huh? This isn't a joke, is it?<>But if it's you, then maybe I... <>I'm terribly sorry for the hesitation. My answer is "yes", of course! I'd say that even if we weren't on the kiss cam!
+Alma|Introduce|Greetings, Commander of Griffin, I am Alma. Hah, as I thought, I need to give a textbook self-introduction here too.
+Alma|DIALOGUEWEDDING|It feels really good to have someone by my side... I think I understand you very well now, and the fact that I haven't broken up with you yet is really quite remarkable. Please continue to be my pillow. Otherwise, I won't be able to sleep if I don't hear your heartbeat.
+Alma|GAIN|Greetings, Commander of Griffin, I am Alma. Hah, as I thought, I need to give a textbook self-introduction here too.
+Dana|DIALOGUE1|Don't ask me about that sort of thing. I don't plan and evaluate every move I make.
+Dana|DIALOGUE2|Are you free, Commander? I need some suggestions on how to get a blockage unstuck.
+Dana|DIALOGUE3|You look like you need some more rest... Want a tender hug? Let me know if you want it, Commander. That's what friends are for.
+Dana|SOULCONTRACT|Huh? So this is what you wanted to say after going around in circles for so long? <>Since you need me by your side, I'll have you become mine from now on. <>I'll take responsibility for protecting you, and I won't let you come to any harm. <>However, Jill won't be able to keep her head on straight once she learns of this, so make sure to buy her some expensive alcohol later.
+Dana|Introduce|Just call me Dana, Commander. I don't quite understand your work, but let me know if I can help out in any way.
+Dana|DIALOGUEWEDDING|Want to see the world once you're less busy? There are a few places on Earth that you shouldn't visit alone, like Iceland, Finland, or Panama... Which do you think should be our first stop?
+Dana|GAIN|Just call me Dana, Commander. I don't quite understand your work, but let me know if I can help out in any way.
+ASVALMod|SOULCONTRACT|Huh? You...me...? My bear... Uh, no... Nothing!<>In any case, thank you so much for your acknowledgment! I'll try my best to live up to your expectations, Commander!
+ASVALMod|ALLHALLOWS|Halloween...isn't really my thing...
+G36Mod|SOULCONTRACT|I have only been able to give my all because you need me, Master.<>From now on, please let me stay by your side as your bespoke maid.
+G36Mod|Introduce|Guten tag. I will exclusively serve as your maid from now on, master.
+G36Mod|ALLHALLOWS|Commander, you shouldn't spoil everyone so much. You've given out too much candy tonight. They might not be able to go into battle if they get cavities.
+G36Mod|DIALOGUEWEDDING|It's going to be another busy day today, yet you're the only one that knows how hardworking I am... So, is there anything you'd like me to get for you? I'll continue to keep this a secret from everyone.
+LWMMGMod|SOULCONTRACT|Is this...prepared for me? Isn't this a bit too extravagant?<>...But I'll let you have your way this time.<>I've occasionally fantasized about this scenario before, but I've never thought it would become reality...<>I'm grateful from the bottom of my heart, Commander...
+LWMMGMod|Introduce|Pleased to meet you, Commander. There is...no need to introduce me to the others. I'm fine working alone...
+LWMMGMod|ALLHALLOWS|I didn't expect Halloween to be this busy. Everyone! You'd better not throw out the packaging for the candies! You can reuse them for many other purposes!
+LWMMGMod|DIALOGUEWEDDING|Commander, I booked us dinner at a good restaurant this weekend. You've worked hard this week, so I'll splurge a little on you.
+LWMMGMod|NEWYEAR|Happy New Year, Commander. The finance report for the previous year is out. There wasn't too much wastage, so please keep up the good work for this year.
+M14Mod|SOULCONTRACT|This day is finally here, Commander.<>I've always wondered when you would notice me...<>This is the happiest of my entire life!
+M14Mod|Introduce|Commander, I will not let you down!
+M14Mod|ALLHALLOWS|It's a trick for you~ Heheh! ...You'd have been fine if you had given me candy.
+M14Mod|DIALOGUEWEDDING|Commander, Commander! Wanna hear a joke? It's a bit embarrassing, but...you're used to it, right? Heheh...
+M14Mod|CHRISTMAS|Merry Christmas! Santa Claus is coming, right? RIGHT?
+MicroUZIMod|SOULCONTRACT|Why did you give me something like this out of nowhere! Idiot, don't make me shoot you!<>I... This sort of thing...<>Alright, I don't particularly dislike you, so I'll look after you...
+StenMK2Mod|SOULCONTRACT|Eh? My feelings...are answered?<>For someone like me without any strong points, I thought that this day would never come.<>It's the first time I've felt so happy.
+StenMK2Mod|Introduce|You are the rumored Commander, right? Nice to meet you.
+StenMK2Mod|DIALOGUEWEDDING|Commander, don't go to the cafeteria after work today. I've prepared some desserts for you... Hehe, I have to show off my skills once in a while!
+STG44Mod|SOULCONTRACT|Eh! Commander, why are you so close?<>Uh, I don't dislike you, but...what...?! Really?! I've always been bothering you so much...<>Then...can I scoot a little closer to you?
+STG44Mod|DIALOGUEWEDDING|Commander, even if you have a lot of work, don't slack on your appearance! Come, let me fix you up.
+K31|GAIN|Very good, this is just as planned. Meeting me now is the luckiest moment of your life, Commander.
+P90|GAIN|Huh? I was just following the other Dolls around... How did I end up here? ...Ah~ Hello! Do you know where this place is?
+TEC9|Introduce|I came here because I heard you could do work without coming into contact with humans... W-Wait a minute! Are you human?
+P22|GAIN|Oh my, the Commander's come to pick me up, we'll talk another time. Greetings, Commander. My name is P22. Do you need help with anything?
+HS2000|GAIN|I see, so that's your heartbeat, Commander... Yes, I'll make sure to remember it. I'll be in your care from now on.
+X95|GAIN|This is wonderful, Commander, we meet at last. I, X95, will give everything I have for you… No, not just for you, for everyone.
+KSVK|GAIN|Oh Commander, who has been chosen by destiny, I shall witness your path, so please prepare yourself!
+Lewis|GAIN|Thank goodness~ The Commander here looks like a nice person! I'm Lewis, pleased to meet you!
+UKM2000|GAIN|Are you...the Commander? It looks like I have no choice but to work with you from now on. "They" shouldn't be able to find me as long as I'm here...
+scout|GAIN|Mitsuha, are you sure this is the one? ...What a surprise, I didn't expect someone to actually gain Mitsuha's approval. It looks like you're not an ordinary person, Commander.
+Falcon|GAIN|Ahoj! Little Lamb...ah, no, I mean, Commander! It's a pleasure to meet you. You can call me Falcon.
+Magal|GAIN|Greetings, Commander. Your heartbeat sounds stable, which is a good thing.
+PM9|GAIN|Huh, are you my new superior? Remember my name, I'm PM-9 submachine gun!
+K11_0|Introduce|Guess who this is, Commander of Griffin! I'm K11, an expert at handling emergencies. Please let me show you my full potential!
+K11_0|GAIN|Guess who this is, Commander of Griffin! I'm K11, an expert at handling emergencies. Please let me show you my full potential!
+UMP45_0|Introduce|UMP45 has arrived. Commander, let's get along from now on~
+UMP45_0|GAIN|UMP45 has arrived. Commander, let's get along from now on~
+UMP9_0|Introduce|UMP9 has come home! Everybody, we're family now!
+UMP9_0|GAIN|UMP9 has come home! Everybody, we're family now!
+KSVK_0|Introduce|Oh Commander, who has been chosen by destiny, I shall witness your path, so please prepare yourself!
+KSVK_0|GAIN|Oh Commander, who has been chosen by destiny, I shall witness your path, so please prepare yourself!
+OC44_0|Introduce|I finally get to meet you, Commander!~ I'm OTs-44, may I stay here with you?
+OC44_0|GAIN|I finally get to meet you, Commander!~ I'm OTs-44, may I stay here with you?
+HK416_0|HELLO|Good morning, Commander. I won't lose to anyone today.

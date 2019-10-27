@@ -4,7 +4,11 @@
 3|Chapter|EP.|03
 4|Chapter|EP.|04
 5|Chapter|EP.|05
+-1|Operation Cube|EP.|5.5
 6|Chapter|EP.|06
 7|Chapter|EP.|07
+-2,-3,-4,-5|Arctic Warfare|EP.|7.5
+-7|Operation Cube+|EP.|7.75
 8|Chapter|EP.|08
 9|Chapter|EP.|09
+10|Chapter|EP.|10

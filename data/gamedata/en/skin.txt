@@ -331,7 +331,7 @@ skin-30001506,Commander//c I'll lend you a copy of the key for the motorcycle. D
 skin-10001507,"Sommelier"
 skin-20001507,Guten Tag//c my Commander. G36 is here to serve. Do I...look more like an attendant like this?//n
 skin-30001507,This is the bomb's fuse. …How dangerous. But don't worry//c I will protect everyone.
-skin-10001608,Little Reindeer in the Forest
+skin-10001608,Forest Reindeer
 skin-20001608,Merry Christmas//c Commander! There will be many events tonight. Want me to be your guide?
 skin-30001608,
 skin-10001601,How RFP Stole Xmas
@@ -352,22 +352,22 @@ skin-30001605,
 skin-10001606,War Is Over
 skin-20001606,Christmas? I love it~ There's cake to eat too!
 skin-30001606,
-skin-10005000,Original
+skin-10005000,M1911 - Original
 skin-20005000,Original Costume
 skin-30005000,Original Costume
-skin-10005001,Original
+skin-10005001,FF FN49 - Original
 skin-20005001,Original Costume
 skin-30005001,Original Costume
-skin-10005002,Original
+skin-10005002,Type64 - Original
 skin-20005002,Original Costume
 skin-30005002,Original Costume
-skin-10005003,Original
+skin-10005003,ST AR-15 - Original
 skin-20005003,Original Costume
 skin-30005003,Original Costume
-skin-10005004,Original
+skin-10005004,IDW - Original
 skin-20005004,Original Costume
 skin-30005004,Original Costume
-skin-10005005,Original
+skin-10005005,M4A1 - Original
 skin-20005005,Original Costume
 skin-30005005,Original Costume
 skin-10005006,M1895 - Original
@@ -412,15 +412,15 @@ skin-30005018,Original Costume
 skin-10005019,LWMMG - Original
 skin-20005019,Original Costume
 skin-30005019,Original Costume
-skin-10005020,
-skin-20005020,
-skin-30005020,
-skin-10005021,
-skin-20005021,
-skin-30005021,
-skin-10005022,
-skin-20005022,
-skin-30005022,
+skin-10005020,Micro Uzi - Original
+skin-20005020,Original Costume
+skin-30005020,Original Costume
+skin-10005021,AS Val - Original
+skin-20005021,Original Costume
+skin-30005021,Original Costume
+skin-10005022,StG44 - Original
+skin-20005022,Original Costume
+skin-30005022,Original Costume
 skin-10001701,Rabbit Squad
 skin-20001701,Hehe~ Commander//c wanna know my phone number? You'd better call me a lot~
 skin-30001701,
@@ -571,7 +571,7 @@ skin-30002403,Nothing good comes out of eating too much candy...but nothing good
 skin-10002404,The Diving Bell and the Doll
 skin-20002404,Suit-up complete. Whatever needs to come up from underwater or remain buried there forever is entirely at your discretion.
 skin-30002404,Everything is stationary under the sea//c and that is exactly how it feels when AK-12 asks me to "relax"... Not that I hate it.
-skin-10002405,Candy Ammo
+skin-10002405,Lollipop Ammo
 skin-20002405,Hey "Feeder"//c what's that face you're giving me...? Isn't it okay...to start learning how to swim when I'm actually in the water?
 skin-30002405,Can't believe there are others who love sour candy. Perhaps we can have a longer chat...? You should really take a leaf out of her book//c "Feeder".
 skin-10002406,FAL's Summer
@@ -592,146 +592,146 @@ skin-30002410,Perhaps what I saw wasn't a sea monster//c but the guardian of the
 skin-10002501,Plague Knight
 skin-20002501,Sometimes you don't have to understand the lyrics. Rock is the kind of music that's all about "watching". My performance will enlighten you.
 skin-30002501,
-skin-10002502,
-skin-20002502,
+skin-10002502,Dragon Jr.
+skin-20002502,Say...do you have any idea what would happen if you roused a dragon from its sleep? Then listen...
 skin-30002502,
-skin-10002503,
-skin-20002503,
+skin-10002503,Witcher General
+skin-20002503,Angels' howls and demons' prayers//c I'll fill the stage with the darkest of desires.
 skin-30002503,
-skin-10002504,
-skin-20002504,
+skin-10002504,Steel Butterfly
+skin-20002504,No matter what kind of rock it is//c it's all just random noise if you don't follow my beat.
 skin-30002504,
-skin-10002505,
-skin-20002505,
+skin-10002505,Electric Witch
+skin-20002505,I hear you... Let me push your screams to the climax with my bass solo!
 skin-30002505,
-skin-10002601,
-skin-20002601,
-skin-30002601,
-skin-10002602,
-skin-20002602,
-skin-30002602,
-skin-10002603,
-skin-20002603,
-skin-30002603,
-skin-10002604,
-skin-20002604,
-skin-30002604,
-skin-10002605,
-skin-20002605,
-skin-30002605,
-skin-10002606,
-skin-20002606,
-skin-30002606,
-skin-10002701,
-skin-20002701,
+skin-10002601,Pumpkin Skewers
+skin-20002601,There's no Halloween without pumpkins! But these skewers aren't really made with pumpkins//c okay? Wanna try//c Commander?
+skin-30002601,I-It wasn't THAT well executed... I just did the best I could//c is all.
+skin-10002602,Elf Helsing
+skin-20002602,I hear this modification requires some sorcery to hit the ghost... Maybe I should try putting in some maple syrup?
+skin-30002602,Everyone tries their best to survive. It's the same for both humans and Dolls//c right?
+skin-10002603,Ghost Trap
+skin-20002603,Real ghosts are all hanging around in tantalizing traps//c waiting for the curious busybodies... My//c have they already started streaming on the anonymous forum?
+skin-30002603,"I won't go overboard with scaring or pranking people again. I'm so sorry." *Sobs*
+skin-10002604,Guns N' Side Boxes
+skin-20002604,Evil spirits claim they've seen Hell//c but that's only because they've never been here... I want to hear them wail.
+skin-30002604,There are always things that you need to face with courage. It's fine as long as you keep moving forward//c isn't that right//c Pumpkin Monster?
+skin-10002605,Jack the Trine
+skin-20002605,Candy//c pumpkins//c monsters. These are the three essential elements on a day like this.
+skin-30002605,It's not easy striking a balance... But I'm glad I've found a new way of making myself stronger.
+skin-10002606,Dark Sorceress Academy
+skin-20002606,"The meteor in the night sky~ is the magic known as faith~" Commander! Is your broom ready?
+skin-30002606,It was gonna be a great opportunity to show you my poetry tonight//c Commander. But guess we should leave it till next time~
+skin-10002701,Chain Breaker
+skin-20002701,All the bullets fired in this performance are aimed at a certain person's heart. Please accept all my love!
 skin-30002701,
-skin-10002702,
-skin-20002702,
+skin-10002702,Swansong
+skin-20002702,Do you mind singing with me whenever I forget the lyrics? I'll make it up to you in the handshake meetup afterwards.
 skin-30002702,
-skin-10002703,
-skin-20002703,
+skin-10002703,I'm Soarin'//c Flyin'
+skin-20002703,Raise your glow sticks! Oh//c and don't forget to use red ones//c okay? An idol just gotta be red!
 skin-30002703,
-skin-10002704,
-skin-20002704,
+skin-10002704,VRAIN Power
+skin-20002704,Only idols with proper training can pull off this full combo! You won't fall behind as long as you keep up with my beat!
 skin-30002704,
-skin-10002705,
-skin-20002705,
+skin-10002705,Miracle☆Start
+skin-20002705,I'm the cute and dreamy idol of miracles//c Gr HK45! Come dance along with me//c everyone!
 skin-30002705,
-skin-10002706,
-skin-20002706,
+skin-10002706,Astral Bond
+skin-20002706,Idols are stars whose brilliance never fades no matter the era!
 skin-30002706,
-skin-10002801,
-skin-20002801,
-skin-30002801,
-skin-10002802,
-skin-20002802,
-skin-30002802,
-skin-10002803,
-skin-20002803,
-skin-30002803,
-skin-10002804,
-skin-20002804,
-skin-30002804,
-skin-10002805,
-skin-20002805,
-skin-30002805,
-skin-10002806,
-skin-20002806,
-skin-30002806,
-skin-10002807,
-skin-20002807,
-skin-30002807,
-skin-10002901,
-skin-20002901,
+skin-10002801,Queen of X'mas Morning
+skin-20002801,Christmas sales are the true reason for celebrating Christmas. Discount prices are the only thing that can multiply the value of happiness!
+skin-30002801,This is the profit that I now want the most. Buon Natale//c my friends at Griffin. Let's do our best together.
+skin-10002802,Scarlet Turbo
+skin-20002802,I was gonna cosplay as Santa Claus//c but everyone is asleep when he's delivering presents. It's just a shame no one ever sees him.
+skin-30002802,Joyeux Noël//c Commander. Hey//c I didn't say that to empty air.
+skin-10002803,Little Chimney Sweeper
+skin-20002803,If you don't want your Christmas presents black and sooty//c remember to keep your chimney clean!
+skin-30002803,No matter how small my world is//c I can still find happiness in it. I'm lucky//c don't you think?
+skin-10002804,Satellite of Love
+skin-20002804,I didn't think this Santa Claus mission would be so much trouble... How the heck does that fat old geezer manage to squeeze himself in?
+skin-30002804,Right//c who's next? Let me think about it...on the way. Heheh...
+skin-10002805,Blue Christmas
+skin-20002805,Commander//c you only picked me out of all these presents? Honhonhon... Well//c I suppose it's me we're talking about.
+skin-30002805,I thought the base was filled with nothing but idiots... Now I'm honestly seeing them in a whole new light.
+skin-10002806,Every Child's X'mas Dream
+skin-20002806,I want this! And this! And...and...I want everyone's wish to come true!
+skin-30002806,I...I just experienced a Christmas Eve all to myself.
+skin-10002807,Red-Eared Cat
+skin-20002807,There are so many presents... It should be easier to deliver them wearing something less cumbersome. Gotta bring all this joy to everyone quickly.
+skin-30002807,So...the less humanlike a T-Doll is//c the more liberated she is?
+skin-10002901,New Year Wish
+skin-20002901,Happy New Year//c Commander... Oh//c this? This is soba noodles//c one of the few dishes I can cook. Wanna try?
 skin-30002901,
-skin-10002902,
-skin-20002902,
+skin-10002902,New Year's MVP
+skin-20002902,Happy New Year! Wanna play some yearly games//c Commander?
 skin-30002902,
-skin-10002903,
-skin-20002903,
+skin-10002903,Gunslinger Miko
+skin-20002903,Happy New Year//c Commander. I wish you all the best in the coming year. Let's work hard together.
 skin-30002903,
-skin-10002904,
-skin-20002904,"Are you mistaken
+skin-10002904,Insegui l'aquilone
+skin-20002904,Are you mistaken//c Commander? The New Year is still a week away.
 skin-30002904,
-skin-10002905,
-skin-20002905,"Do you want New Year's clothes
+skin-10002905,Bells of Beginning
+skin-20002905,Do you want New Year's clothes//c Commander? I can design them for you~
 skin-30002905,
-skin-10002906,
-skin-20002906,"I have investigated various New Year's customs
+skin-10002906,Snow//c Moon and Flowers
+skin-20002906,I have investigated various New Year's customs//c and I didn't realize there are so many of them. Why don't we give them all a try?
 skin-30002906,
-skin-10002907,
-skin-20002907,
+skin-10002907,Fireworks of Dreams
+skin-20002907,It's a brand new year//c Commander. Have I grown at all? Huh//c my teddy bear has grown bigger? That's because I just washed it...
 skin-30002907,
-skin-10002908,
+skin-10002908,New Year Fair
 skin-20002908,I'm dedicating the entire day today to cleaning up the dormitory! Should I clean the Commander's room as well?
 skin-30002908,
-skin-10000521,
-skin-20000521,
+skin-10000521,Winter Trip
+skin-20000521,Would you like to...relive this memory with me? Then I'll leave it to you to decide when we set off.
 skin-30000521,
-skin-10003001,
-skin-20003001,
-skin-30003001,
-skin-10003002,
-skin-20003002,
-skin-30003002,
-skin-10003003,
-skin-20003003,
-skin-30003003,
-skin-10003004,
-skin-20003004,
-skin-30003004,
-skin-10003005,
-skin-20003005,
-skin-30003005,
-skin-10003006,
-skin-20003006,
-skin-30003006,
-skin-10003007,
-skin-20003007,
-skin-30003007,
-skin-10003101,
-skin-20003101,
-skin-30003101,
-skin-10003102,
-skin-20003102,
-skin-30003102,
-skin-10003103,
-skin-20003103,
-skin-30003103,
-skin-10003105,
-skin-20003105,
-skin-30003105,
-skin-10003106,
-skin-20003106,
-skin-30003106,
-skin-10003107,
-skin-20003107,
-skin-30003107,
-skin-10000522,
-skin-20000522,
+skin-10003001,Crassula Volkensii
+skin-20003001,Happy New Year. I hope you will keep it up in the coming year. I'll look forward to your performance.
+skin-30003001,Some luxury time was sacrificed//c but it wasn't a bad deal.
+skin-10003002,Lily of the Valley
+skin-20003002,Keep up the effort in the coming year//c Boss. Don't get the wrong idea. Just some token words of well wishes. Thank me for them!
+skin-30003002,"All the best..." That's how it goes//c right? Well//c all the best to you//c but you won't have me...
+skin-10003003,Noble Orchid
+skin-20003003,Happy New Year! Do you have any plans of going to the countryside//c Commander...? May I come with you?
+skin-30003003,Th-the outside world is way too scary...
+skin-10003004,Edelweiss
+skin-20003004,Please keep relying on me in the coming year. Be it victory or your New Year wish//c I'll make it all come true!
+skin-30003004,I'll do my best even if I'm alone... Not to mention...I'm not alone anymore.
+skin-10003005,Monks Cress
+skin-20003005,Happy New Year//c Commander. Why are you wearing so many layers tonight? What a wuss.
+skin-30003005,See? My sole is completely flat. There's nothing there.
+skin-10003006,Vietnamese Balm
+skin-20003006,I hope my breasts will grow bigger in the coming year... I'll do my best!
+skin-30003006,I also wish I'll become stronger and receive more impressive missions in the coming year!
+skin-10003007,Tweedia
+skin-20003007,Time will always tell//c so let's keep doing our best in the coming year.
+skin-30003007,...95//c can I still come with you on your New Year visits?
+skin-10003101,Blissful Mission
+skin-20003101,Is this day finally here? Thank you for your companionship//c Commander. My mission is finally accomplished...
+skin-30003101,Ugh...when was this photo taken?! It's embarrassing to see myself so weak... Commander//c if you took it without my knowledge//c please delete it immediately!
+skin-10003102,Silver Star
+skin-20003102,Have I become stronger or weaker...? Commander//c you tell me.
+skin-30003102,Another mission accomplished with perfection. An elite T-Doll like me is on a completely different league. I'm sure you know that by now.
+skin-10003103,You Who Steps Up
+skin-20003103,Looks like I//c too//c must become more reliable in order to meet your expectations.
+skin-30003103,My list of things to watch out for didn't come in useful... I'll just keep it as a memento. I hope we'll get more missions like this in the future...
+skin-10003105,Conveyed Feelings
+skin-20003105,You've renewed my soul. Allow me to call you again//c Darling...
+skin-30003105,Haha//c I'm the only one who got a photo together with my darling! I totally lucked out! I'll never let anyone else have my darling from now on!
+skin-10003106,Oath of Transformation
+skin-20003106,I'm...starting to like the way you're looking at me...
+skin-30003106,This kind of "transformation" isn't so bad//c but just once//c I want to experience an actual transformation into a hero like Crimson-Souled Kamen...
+skin-10003107,Exciting Future
+skin-20003107,As long as you're by my side//c this heavy burden...isn't so frightening anymore.
+skin-30003107,Ah...that was exhausting. But it's pretty fun too... Maybe it's because the wedding dress looked nice. Should I shop for some new clothes with the pay?
+skin-10000522,Marching Band
+skin-20000522,Keep your ears perked//c Commander! I'm about to take a brand new step!
 skin-30000522,
-skin-10000523,
-skin-20000523,
+skin-10000523,Mobile Operating Table
+skin-20000523,Commander//c w...would you be my first patient?
 skin-30000523,
 skin-10003201,
 skin-20003201,
@@ -775,3 +775,42 @@ skin-30003308,
 skin-10003309,
 skin-20003309,
 skin-30003309,
+skin-10000524,Best Friend's Armor
+skin-20000524,Why does everyone still call me "Aunt Stella"? ...Sei//c I'm guessing the problem's not just the clothing...
+skin-30000524,
+skin-10000525,Precious Christmas Outfit
+skin-20000525,Uwah//c thank you! I finally got it! Want to spend Christmas with me? I just came up with a new artistic name for the occasion!
+skin-30000525,
+skin-10000526,Red Comet
+skin-20000526,Need me to take care of the base's problems with a wrestling bout?
+skin-30000526,
+skin-10000527,Best Friend's Casual Dress
+skin-20000527,I finally understand how Stella feels//c although the chest experience...might not be complete...
+skin-30000527,
+skin-10000528,Middle School Adventure
+skin-20000528,I feel like I'm back in my middle school days. Maybe I should start looking for love again//c what do you think?
+skin-30000528,
+skin-10000529,Model Warrior
+skin-20000529,In the name of beauty//c everything will be alright!
+skin-30000529,
+skin-10003401,
+skin-20003401,
+skin-30003401,
+skin-10003402,
+skin-20003402,
+skin-30003402,
+skin-10003403,
+skin-20003403,
+skin-30003403,
+skin-10003404,
+skin-20003404,
+skin-30003404,
+skin-10003405,
+skin-20003405,
+skin-30003405,
+skin-10003406,
+skin-20003406,
+skin-30003406,
+skin-10003506,
+skin-20003506,
+skin-30003506,

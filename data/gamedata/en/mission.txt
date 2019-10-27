@@ -504,337 +504,521 @@ mission-10090032,Eagle and Jackdaw IV
 mission-20090032,
 mission-10010105,Down the Rabbit Hole+
 mission-20010105,
-mission-10010106,
+mission-10010106,Waste
 mission-20010106,
-mission-10010107,
+mission-10010107,Nightfall
 mission-20010107,
-mission-10010108,
+mission-10010108,Safe House
 mission-20010108,
-mission-10010109,
+mission-10010109,Auxiliary Power
 mission-20010109,
-mission-10010110,
+mission-10010110,Reserve Outpost
 mission-20010110,
-mission-10010111,
+mission-10010111,Farewell//c Scarecrow
 mission-20010111,
-mission-10010113,
+mission-10010113,The Last Day
 mission-20010113,
-mission-10010112,
+mission-10010112,Bloodless Battlefield
 mission-20010112,
-mission-10010114,
+mission-10010114,Peaceful Negotiations
 mission-20010114,
-mission-10010115,
+mission-10010115,Fortunate?
 mission-20010115,
-mission-10010116,
+mission-10010116,Sangvis Elite Outpost
 mission-20010116,
-mission-10010117,
+mission-10010117,Neural Fragments
 mission-20010117,
-mission-10010118,
+mission-10010118,Darkest Desire
 mission-20010118,
-mission-10010120,
+mission-10010120,Unknown Enemy
 mission-20010120,
-mission-10010121,
+mission-10010121,"Support"
 mission-20010121,
 mission-10010122,Griffin Expendables
 mission-20010122,
-mission-10010123,
+mission-10010123,Defense Outpost 2
 mission-20010123,
-mission-10010124,
+mission-10010124,Defense Outpost 3
 mission-20010124,
-mission-10010125,
+mission-10010125,Just Kidding
 mission-20010125,
-mission-10010126,
+mission-10010126,Defense Outpost 4
 mission-20010126,
-mission-10010127,
+mission-10010127,Exploratory Attack
 mission-20010127,
-mission-10010128,
+mission-10010128,General Offensive
 mission-20010128,
-mission-10010129,
+mission-10010129,For the Future
 mission-20010129,
-mission-10010130,
+mission-10010130,Black Doll
 mission-20010130,
-mission-10010131,
+mission-10010131,ELID-Infected
 mission-20010131,
-mission-10010132,
+mission-10010132,Signal Flare
 mission-20010132,
-mission-10010133,
+mission-10010133,Red Zone
 mission-20010133,
-mission-10010134,
+mission-10010134,Yellow Zone
 mission-20010134,
-mission-10010135,
+mission-10010135,Vengeance
 mission-20010135,
-mission-10010136,
+mission-10010136,Mark
 mission-20010136,
-mission-10010137,
+mission-10010137,A New Hope
 mission-20010137,
-mission-10010142,
+mission-10010142,Sum of All Wraths
 mission-20010142,
-mission-10010138,
+mission-10010138,Vile Rats
 mission-20010138,
-mission-10010143,
+mission-10010143,Luck
 mission-20010143,
-mission-10010139,
+mission-10010139,Bad News
 mission-20010139,
-mission-10010140,
+mission-10010140,IED
 mission-20010140,
-mission-10010141,
+mission-10010141,Stumbling Block
 mission-20010141,
-mission-10010144,
+mission-10010144,White Doll
 mission-20010144,
-mission-10010146,
+mission-10010146,Roaring Sun
 mission-20010146,
-mission-10010147,
+mission-10010147,Howl of Terror
 mission-20010147,
-mission-10010148,
+mission-10010148,Safe and Sound
 mission-20010148,
-mission-10010149,
+mission-10010149,Short-lived Peace
 mission-20010149,
-mission-10010150,
+mission-10010150,Final Flight
 mission-20010150,
-mission-10010155,
+mission-10010155,Hurricane Rescue
 mission-20010155,
-mission-10010145,
+mission-10010145,Final Destination
 mission-20010145,
-mission-10010151,
+mission-10010151,Final Order
 mission-20010151,
-mission-10010154,
+mission-10010154,Victor
 mission-20010154,
-mission-10010156,
+mission-10010156,Ground Zero
 mission-20010156,
-mission-10010157,
+mission-10010157,Exile
 mission-20010157,
-mission-10000105,
+mission-10000105,Torrent Breaker
 mission-20000105,
-mission-10000106,
+mission-10000106,Electronic Eye
 mission-20000106,
-mission-10000107,
+mission-10000107,Silent Pursuit
 mission-20000107,
-mission-10000108,
+mission-10000108,Prior to Destruction
 mission-20000108,
-mission-10000109,
+mission-10000109,House in the Street
 mission-20000109,
-mission-10000110,
+mission-10000110,Underworld
 mission-20000110,
-mission-10000111,
+mission-10000111,Strange Journey
 mission-20000111,
-mission-10000112,
+mission-10000112,Plan of Attack
 mission-20000112,
-mission-10000113,
+mission-10000113,Fishing in Troubled Waters
 mission-20000113,
-mission-10000114,
+mission-10000114,Great Escape
 mission-20000114,
-mission-10010158,
+mission-10010158,Imaginary Maze+
 mission-20010158,
-mission-10010159,
+mission-10010159,Doll Annihilation EX
 mission-20010159,
-mission-10010160,
+mission-10010160,St. Elmo EX
 mission-20010160,
-mission-10010161,
+mission-10010161,Hunting Game EX
 mission-20010161,
-mission-10010162,
+mission-10010162,Operation Rabbit Hung EX
 mission-20010162,
 mission-10010194,Souvenir
 mission-20010194,
-mission-10010195,
+mission-10010195,Illusory Peace I
 mission-20010195,
-mission-10010196,
+mission-10010196,Illusory Peace I//n Battle
 mission-20010196,
-mission-10010197,
+mission-10010197,Illusory Peace II
 mission-20010197,
-mission-10010198,
+mission-10010198,Illusory Peace II//n Branch
 mission-20010198,
-mission-10010199,
+mission-10010199,Illusory Peace III//n Battle
 mission-20010199,
-mission-10010200,
+mission-10010200,Illusory Peace III
 mission-20010200,
-mission-10010201,
+mission-10010201,Illusory Peace I//n Branch
 mission-20010201,
-mission-10010202,
+mission-10010202,Illusory Peace IV
 mission-20010202,
-mission-10010203,
+mission-10010203,Cat and Mouse I
 mission-20010203,
-mission-10010204,
+mission-10010204,Cat and Mouse II
 mission-20010204,
-mission-10010205,
+mission-10010205,Cat and Mouse III
 mission-20010205,
-mission-10010206,
+mission-10010206,Cat and Mouse III//n Battle
 mission-20010206,
-mission-10010207,
+mission-10010207,Cat and Mouse III//n Branch
 mission-20010207,
-mission-10010208,
+mission-10010208,Cat and Mouse IV
 mission-20010208,
-mission-10010209,
+mission-10010209,Beyond the Border I
 mission-20010209,
-mission-10010210,
+mission-10010210,Beyond the Border II
 mission-20010210,
-mission-10010211,
+mission-10010211,Beyond the Border III
 mission-20010211,
-mission-10010212,
+mission-10010212,Beyond the Border IV
 mission-20010212,
-mission-10010213,
+mission-10010213,Faith of Blood I
 mission-20010213,
-mission-10010214,
+mission-10010214,Faith of Blood I//n Battle
 mission-20010214,
-mission-10010215,
+mission-10010215,Faith of Blood I//n Branch I
 mission-20010215,
-mission-10010216,
+mission-10010216,Faith of Blood I//n Branch II
 mission-20010216,
-mission-10010217,
+mission-10010217,Faith of Blood II
 mission-20010217,
-mission-10010218,
+mission-10010218,Faith of Blood II//n Branch
 mission-20010218,
-mission-10010219,
+mission-10010219,Faith of Blood III
 mission-20010219,
-mission-10010220,
+mission-10010220,Wolf and Owl I
 mission-20010220,
-mission-10010221,
+mission-10010221,Wolf and Owl I//n Battle
 mission-20010221,
-mission-10010222,
+mission-10010222,Wolf and Owl I//n Branch
 mission-20010222,
-mission-10010223,
+mission-10010223,Wolf and Owl II//n Battle
 mission-20010223,
-mission-10010224,
+mission-10010224,Wolf and Owl II
 mission-20010224,
-mission-10010225,
+mission-10010225,Wolf and Owl III
 mission-20010225,
-mission-10010226,
+mission-10010226,Wolf and Owl IV
 mission-20010226,
-mission-10010227,
+mission-10010227,Under the Wall I
 mission-20010227,
-mission-10010228,
+mission-10010228,Under the Wall I//n Battle
 mission-20010228,
-mission-10010229,
+mission-10010229,Under the Wall II
 mission-20010229,
-mission-10010230,
+mission-10010230,Lost Bargaining Chip I
 mission-20010230,
-mission-10010231,
+mission-10010231,Lost Bargaining Chip I//n Battle
 mission-20010231,
-mission-10010232,
+mission-10010232,Lost Bargaining Chip II
 mission-20010232,
-mission-10010233,
+mission-10010233,Lost Bargaining Chip III//n Battle
 mission-20010233,
-mission-10010234,
+mission-10010234,Lost Bargaining Chip III
 mission-20010234,
-mission-10010235,
+mission-10010235,Shark and the Sea I
 mission-20010235,
-mission-10010236,
+mission-10010236,Shark and the Sea I//n Battle
 mission-20010236,
-mission-10010237,
+mission-10010237,Shark and the Sea II
 mission-20010237,
-mission-10010238,
+mission-10010238,Shark and the Sea III
 mission-20010238,
-mission-10010239,
+mission-10010239,Shark and the Sea IV//n Battle
 mission-20010239,
-mission-10010240,
+mission-10010240,Shark and the Sea IV
 mission-20010240,
-mission-10010241,
+mission-10010241,Shark and the Sea V
 mission-20010241,
-mission-10010242,
+mission-10010242,Shark and the Sea VI
 mission-20010242,
-mission-10010243,
+mission-10010243,Shark and the Sea VII
 mission-20010243,
-mission-10010244,
+mission-10010244,Above the Hubbub I
 mission-20010244,
-mission-10010245,
+mission-10010245,Above the Hubbub II
 mission-20010245,
-mission-10010246,
+mission-10010246,Above the Hubbub II//n Branch
 mission-20010246,
-mission-10010247,
+mission-10010247,Above the Hubbub III
 mission-20010247,
-mission-10010248,
+mission-10010248,Above the Hubbub IV
 mission-20010248,
-mission-10010249,
+mission-10010249,Above the Hubbub V
 mission-20010249,
-mission-10010250,
+mission-10010250,Above the Hubbub VI
 mission-20010250,
-mission-10010251,
+mission-10010251,Above the Hubbub VI//n Branch I
 mission-20010251,
-mission-10010252,
+mission-10010252,Above the Hubbub VI//n Branch II
 mission-20010252,
-mission-10010253,
+mission-10010253,Reign of Chaos
 mission-20010253,
-mission-10010254,
+mission-10010254,Illusory Peace I//n Battle
 mission-20010254,
-mission-10010255,
+mission-10010255,Illusory Peace III//n Battle
 mission-20010255,
-mission-10010256,
+mission-10010256,Cat and Mouse III//n Battle
 mission-20010256,
-mission-10010257,
+mission-10010257,Cat and Mouse IV
 mission-20010257,
-mission-10010258,
+mission-10010258,Beyond the Border II
 mission-20010258,
-mission-10010259,
+mission-10010259,Beyond the Border III
 mission-20010259,
-mission-10010260,
+mission-10010260,Faith of Blood I//n Battle
 mission-20010260,
-mission-10010261,
+mission-10010261,Faith of Blood II
 mission-20010261,
-mission-10010262,
+mission-10010262,Wolf and Owl I//n Battle
 mission-20010262,
-mission-10010263,
+mission-10010263,Wolf and Owl II//n Battle
 mission-20010263,
-mission-10010264,
+mission-10010264,Wolf and Owl III
 mission-20010264,
-mission-10010265,
+mission-10010265,Under the Wall I//n Battle
 mission-20010265,
-mission-10010266,
+mission-10010266,Lost Bargaining Chip I//n Battle
 mission-20010266,
-mission-10010267,
+mission-10010267,Lost Bargaining Chip III//n Battle
 mission-20010267,
-mission-10010268,
+mission-10010268,Shark and the Sea I//n Battle
 mission-20010268,
-mission-10010269,
+mission-10010269,Shark and the Sea III
 mission-20010269,
-mission-10010270,
+mission-10010270,Shark and the Sea IV//n Battle
 mission-20010270,
-mission-10010271,
+mission-10010271,Above the Hubbub II
 mission-20010271,
-mission-10010272,
+mission-10010272,Above the Hubbub V
 mission-20010272,
-mission-10010273,
+mission-10010273,Reign of Chaos
 mission-20010273,
-mission-10010274,
+mission-10010274,Illusory Peace V
 mission-20010274,
-mission-10010275,
+mission-10010275,Above the Hubbub III
 mission-20010275,
-mission-10010276,
+mission-10010276,Above the Hubbub IV
 mission-20010276,
-mission-10090033,
+mission-10090033,The Way Back is Paved with Light I
 mission-20090033,
-mission-10090034,
+mission-10090034,The Way Back is Paved with Light II
 mission-20090034,
-mission-10090035,
+mission-10090035,The Way Back is Paved with Light III
 mission-20090035,
-mission-10090036,
+mission-10090036,The Way Back is Paved with Light IV
 mission-20090036,
-mission-10010277,
+mission-10010277,Didgeridoo Tutorial
 mission-20010277,
-mission-10010278,
+mission-10010278,Adolescence
 mission-20010278,
-mission-10010279,
+mission-10010279,Pioneer
 mission-20010279,
-mission-10010280,
+mission-10010280,Sonic Boom
 mission-20010280,
-mission-10010281,
+mission-10010281,Chicken Breast
 mission-20010281,
-mission-10010282,
+mission-10010282,Fear of Public Speaking
 mission-20010282,
-mission-10010283,
+mission-10010283,Truth or Dare
 mission-20010283,
-mission-10010284,
+mission-10010284,The Last Rain In The World
 mission-20010284,
-mission-10010285,
+mission-10010285,Didgeridoo Tutorial EX
 mission-20010285,
-mission-10010286,
+mission-10010286,Adolescence EX
 mission-20010286,
-mission-10010287,
+mission-10010287,Pioneer EX
 mission-20010287,
-mission-10010288,
+mission-10010288,Sonic Boom EX
 mission-20010288,
-mission-10010289,
+mission-10010289,Chicken Breast EX
 mission-20010289,
-mission-10010290,
+mission-10010290,Fear of Public Speaking EX
 mission-20010290,
-mission-10010291,
+mission-10010291,Truth or Dare EX
 mission-20010291,
-mission-10010292,
+mission-10010292,The Last Rain In The World EX
 mission-20010292,
+mission-10010293,Habanera
+mission-20010293,
+mission-10010294,Don't Translate
+mission-20010294,
+mission-10010295,Don't Translate
+mission-20010295,
+mission-10010296,Don't Translate
+mission-20010296,
+mission-10010297,Don't Translate
+mission-20010297,
+mission-10010298,Don't Translate
+mission-20010298,
+mission-10010299,Don't Translate
+mission-20010299,
+mission-10010300,Don't Translate
+mission-20010300,
+mission-10010301,Don't Translate
+mission-20010301,
+mission-10010302,Don't Translate
+mission-20010302,
+mission-10010303,Don't Translate
+mission-20010303,
+mission-10010304,Don't Translate
+mission-20010304,
+mission-10010305,Don't Translate
+mission-20010305,
+mission-10010306,Don't Translate
+mission-20010306,
+mission-10010307,Don't Translate
+mission-20010307,
+mission-10010308,Don't Translate
+mission-20010308,
+mission-10010309,Don't Translate
+mission-20010309,
+mission-10010310,Don't Translate
+mission-20010310,
+mission-10010311,Don't Translate
+mission-20010311,
+mission-10010312,Don't Translate
+mission-20010312,
+mission-10010313,Don't Translate
+mission-20010313,
+mission-10010314,Don't Translate
+mission-20010314,
+mission-10010315,Don't Translate
+mission-20010315,
+mission-10010316,Don't Translate
+mission-20010316,
+mission-10010317,Don't Translate
+mission-20010317,
+mission-10010318,Don't Translate
+mission-20010318,
+mission-10010319,Don't Translate
+mission-20010319,
+mission-10010320,Don't Translate
+mission-20010320,
+mission-10010321,Don't Translate
+mission-20010321,
+mission-10010322,Don't Translate
+mission-20010322,
+mission-10010323,Don't Translate
+mission-20010323,
+mission-10010324,Don't Translate
+mission-20010324,
+mission-10010325,Don't Translate
+mission-20010325,
+mission-10010326,Don't Translate
+mission-20010326,
+mission-10010327,Don't Translate
+mission-20010327,
+mission-10010328,Don't Translate
+mission-20010328,
+mission-10010329,Don't Translate
+mission-20010329,
+mission-10010330,Don't Translate
+mission-20010330,
+mission-10010331,Don't Translate
+mission-20010331,
+mission-10010332,Don't Translate
+mission-20010332,
+mission-10010333,Don't Translate
+mission-20010333,
+mission-10010334,Don't Translate
+mission-20010334,
+mission-10010335,Don't Translate
+mission-20010335,
+mission-10010336,Don't Translate
+mission-20010336,
+mission-10010337,Don't Translate
+mission-20010337,
+mission-10010338,Don't Translate
+mission-20010338,
+mission-10010339,Don't Translate
+mission-20010339,
+mission-10010340,Don't Translate
+mission-20010340,
+mission-10010341,Don't Translate
+mission-20010341,
+mission-10010342,Don't Translate
+mission-20010342,
+mission-10010343,Don't Translate
+mission-20010343,
+mission-10010344,Don't Translate
+mission-20010344,
+mission-10010345,Don't Translate
+mission-20010345,
+mission-10010346,Don't Translate
+mission-20010346,
+mission-10010347,Don't Translate
+mission-20010347,
+mission-10010348,Don't Translate
+mission-20010348,
+mission-10010349,Don't Translate
+mission-20010349,
+mission-10010350,Don't Translate
+mission-20010350,
+mission-10010351,Don't Translate
+mission-20010351,
+mission-10010352,Don't Translate
+mission-20010352,
+mission-10010353,Don't Translate
+mission-20010353,
+mission-10010354,Don't Translate
+mission-20010354,
+mission-10010355,Don't Translate
+mission-20010355,
+mission-10010356,Don't Translate
+mission-20010356,
+mission-10010357,Don't Translate
+mission-20010357,
+mission-10010358,Don't Translate
+mission-20010358,
+mission-10010359,Don't Translate
+mission-20010359,
+mission-10010360,Don't Translate
+mission-20010360,
+mission-10010361,Don't Translate
+mission-20010361,
+mission-10010362,Don't Translate
+mission-20010362,
+mission-10010363,Don't Translate
+mission-20010363,
+mission-10010364,Don't Translate
+mission-20010364,
+mission-10010365,Don't Translate
+mission-20010365,
+mission-10010366,Don't Translate
+mission-20010366,
+mission-10010367,Don't Translate
+mission-20010367,
+mission-10010368,Don't Translate
+mission-20010368,
+mission-10010369,Don't Translate
+mission-20010369,
+mission-10010370,Don't Translate
+mission-20010370,
+mission-10010371,Don't Translate
+mission-20010371,
+mission-10010372,Don't Translate
+mission-20010372,
+mission-10010373,Don't Translate
+mission-20010373,
+mission-10010374,Don't Translate
+mission-20010374,
+mission-10010375,Don't Translate
+mission-20010375,
+mission-10010376,Don't Translate
+mission-20010376,
+mission-10010377,Don't Translate
+mission-20010377,
+mission-10010378,Don't Translate
+mission-20010378,
+mission-10010379,Don't Translate
+mission-20010379,
+mission-10010380,Don't Translate
+mission-20010380,
+mission-10010381,Spoiled Staccato
+mission-20010381,
+mission-10010382,Open Bag Surprise
+mission-20010382,
+mission-10010383,Shelf Life
+mission-20010383,
+mission-10010384,Preservative
+mission-20010384,

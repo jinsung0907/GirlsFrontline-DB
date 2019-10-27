@@ -386,85 +386,85 @@ story_util-10000206,"I have no eyes for this. All Griffin forces are retreating.
 story_util-20000206,Starting Point
 story_util-10000207,"Where...exactly am I...?"
 story_util-20000207,Splinter Point
-story_util-10000208,
+story_util-10000208,"Ange//c we've retrieved M4A1. Any further instructions?"
 story_util-20000208,Exhaust I
-story_util-10000209,
+story_util-10000209,"Griffin is moving into Area S11? I see. So it's turning into a shitshow here."
 story_util-20000209,Exhaust II
-story_util-10000210,
+story_util-10000210,"I'm receiving a transmission request with AK-12's plain code. Should I take it?"
 story_util-20000210,Exhaust III
-story_util-10000211,
+story_util-10000211,"We have paid a huge price//c but that should be enough to safeguard the route to the rendezvous point."
 story_util-20000211,Exhaust IV
-story_util-10000212,
+story_util-10000212,"You do remember that this is your forte//c don't you//c AK-12?
 story_util-20000212,Compression I
-story_util-10000213,
+story_util-10000213,"Just a simple disconnection was enough to completely scramble her neural cloud... She's too mentally fragile even for an old model..."
 story_util-20000213,Compression II
-story_util-10000214,
+story_util-10000214,"Are you really okay with leaving all these enemies to her alone?"
 story_util-20000214,Compression III
-story_util-10000215,
+story_util-10000215,"That'll be enough//c M4. These are allies. Members of Task Force DEFY//c Ange and AN-94.
 story_util-20000215,Compression IV
-story_util-10000216,
+story_util-10000216,"Thanks for the hard work! Please stay at your posts//c account for all our injured//c and await new directives from the Commander!"
 story_util-20000216,Ignition I
-story_util-10000217,
+story_util-10000217,"Still no way of contacting the Commander? What about the Military? Nothing either?"
 story_util-20000217,Ignition II
-story_util-10000218,
+story_util-10000218,"...That's all we know about the situation in Area S09."
 story_util-20000218,Ignition III
-story_util-10000219,
+story_util-10000219,"Commander//c we've successfully brought back the T-Dolls on the other side!"
 story_util-20000219,Ignition IV
-story_util-10000220,
+story_util-10000220,"...Yes. We must...prevent the Military from acquiring the Mastermind at all costs."
 story_util-20000220,Splinter Point
-story_util-10000221,
+story_util-10000221,"Is it going well//c Ange?"
 story_util-20000221,Queen's Gambit I
-story_util-10000222,
+story_util-10000222,"Persica//c you must stop what you're doing right now."
 story_util-20000222,Queen's Gambit II
-story_util-10000223,
+story_util-10000223,"Persica//c I've already ordered them to drop everything and have AK-12 and AN-94 prepare for electronic warfare."
 story_util-20000223,Queen's Gambit III
-story_util-10000224,
+story_util-10000224,"Comms are back up... Not sure if that's good news or bad news..."
 story_util-20000224,Queen's Gambit IV
-story_util-10000225,
+story_util-10000225,"I'm guessing you're not gonna let this go//c are you?"
 story_util-20000225,Castling I
-story_util-10000226,
+story_util-10000226,"I'm back. Things really aren't looking good... After all//c these are the Military's main forces..."
 story_util-20000226,Castling II
-story_util-10000227,
+story_util-10000227,"I'm curious. Were you disappointed at all...when Ange told us our rescue target is Squad 404?"
 story_util-20000227,Castling III
-story_util-10000228,
+story_util-10000228,"Agent//c M4A1 has returned and established contact with Squad 404//c currently located in the large database."
 story_util-20000228,Castling IV
-story_util-10000229,
+story_util-10000229,"45//c Griffin forces will arrive in three minutes."
 story_util-20000229,Promotion I
-story_util-10000230,
+story_util-10000230,"Have we all got enough rest//c girls? Let's get cracking then."
 story_util-20000230,Promotion II
-story_util-10000231,
+story_util-10000231,"45//c their firepower is way too much!"
 story_util-20000231,Promotion III
-story_util-10000232,
+story_util-10000232,"Is our backup still not here? If we fall back any farther//c we'll have to use the Sangvis database as cover."
 story_util-20000232,Promotion IV
-story_util-10000233,
+story_util-10000233,"Emergency//c Commander! We've discovered Sangvis elite Gager's forces on our retreat!"
 story_util-20000233,Weakling's End I
-story_util-10000234,
+story_util-10000234,"It's coming back to me... All the things that happened..."
 story_util-20000234,Weakling's End II
-story_util-10000235,
+story_util-10000235,"So...what do we do now?"
 story_util-20000235,Weakling's End III
-story_util-10000236,
+story_util-10000236,"It's my honor//c mighty Commander of Griffin//c to meet an adversary like you on the battlefield...and tear you apart with my own hands."
 story_util-20000236,Weakling's End IV
-story_util-10000237,
+story_util-10000237,"Wake up//c M4. Mission is go."
 story_util-20000237,Last Resort I
-story_util-10000238,
+story_util-10000238,"Remaining Sangvis units all eradicated."
 story_util-20000238,Last Resort II
-story_util-10000239,
+story_util-10000239,"I'm sure you//c too//c understand that things are pretty critical. Just killing Sangvis forces won't be enough to stop the Military."
 story_util-20000239,Last Resort III
-story_util-10000240,
+story_util-10000240,"You're finally here."
 story_util-20000240,Last Resort IV
-story_util-10000241,
+story_util-10000241,"Can you hold it any longer//c Squad 404?!"
 story_util-20000241,Last Resort V
-story_util-10000242,
+story_util-10000242,"The Military units have all frozen... Are they too close to the explosion?"
 story_util-20000242,Endgame
-story_util-10000243,
+story_util-10000243,"My//c you're the Commander?!"
 story_util-20000243,Messenger
-story_util-10000244,
+story_util-10000244,"Hmm//c the Commander is here... Thank you for giving me the chance to regroup with G3."
 story_util-20000244,Survivor
-story_util-10000245,
+story_util-10000245,"The Military//c Sangvis Ferri//c Griffin...and some unknown forces. What a mess."
 story_util-20000245,Goodbye//c Dragon Palace
-story_util-10000246,
+story_util-10000246,"Oh dear... Is that where they're aiming this time? Those big boys seriously wanna level our home//c don't they?"
 story_util-20000246,Hornet's Nest
-story_util-10000247,
+story_util-10000247,"Before reaching our destination//c we have to... Mastermind...where?!"
 story_util-20000247,Endgame
 story_util-10000248,
 story_util-20000248,Stalker
@@ -492,211 +492,243 @@ story_util-10000259,
 story_util-20000259,End of the Moonlight EX
 story_util-10000260,
 story_util-20000260,Down the Rabbit Hole+
-story_util-10000261,
-story_util-20000261,
-story_util-10000262,
-story_util-20000262,
-story_util-10000263,
-story_util-20000263,
-story_util-10000264,
-story_util-20000264,
-story_util-10000265,
-story_util-20000265,
-story_util-10000266,
-story_util-20000266,
-story_util-10000267,
-story_util-20000267,
-story_util-10000268,
-story_util-20000268,
-story_util-10000269,
-story_util-20000269,
-story_util-10000270,
-story_util-20000270,
-story_util-10000271,
-story_util-20000271,
-story_util-10000272,
-story_util-20000272,
-story_util-10000273,
-story_util-20000273,
-story_util-10000274,
-story_util-20000274,
-story_util-10000275,
-story_util-20000275,
-story_util-10000276,
+story_util-10000261,Continuum Turbulence - Waste
+story_util-20000261,Waste
+story_util-10000262,Continuum Turbulence - Nightfall
+story_util-20000262,Nightfall
+story_util-10000263,Continuum Turbulence - Safe House
+story_util-20000263,Safe House
+story_util-10000264,Continuum Turbulence - Auxiliary Power
+story_util-20000264,Auxiliary Power
+story_util-10000265,Continuum Turbulence - Reserve Outpost
+story_util-20000265,Reserve Outpost
+story_util-10000266,Continuum Turbulence - Farewell//c Scarecrow
+story_util-20000266,Farewell//c Scarecrow
+story_util-10000267,Continuum Turbulence - The Last Day
+story_util-20000267,The Last Day
+story_util-10000268,Continuum Turbulence - Bloodless Battlefield
+story_util-20000268,Bloodless Battlefield
+story_util-10000269,Continuum Turbulence - Peaceful Negotiations
+story_util-20000269,Peaceful Negotiations
+story_util-10000270,Continuum Turbulence - Fortunate?
+story_util-20000270,Fortunate?
+story_util-10000271,Continuum Turbulence - Sangvis Elite Outpost
+story_util-20000271,Sangvis Elite Outpost
+story_util-10000272,Continuum Turbulence - Neural Fragments
+story_util-20000272,Neural Fragments
+story_util-10000273,Continuum Turbulence - Darkest Desire
+story_util-20000273,Darkest Desire
+story_util-10000274,Continuum Turbulence - Unknown Enemy
+story_util-20000274,Unknown Enemy
+story_util-10000275,Continuum Turbulence - "Support"
+story_util-20000275,"Support"
+story_util-10000276,Continuum Turbulence - Griffin Suicide Squad
 story_util-20000276,Griffin Expendables
-story_util-10000277,
-story_util-20000277,
-story_util-10000278,
-story_util-20000278,
-story_util-10000279,
-story_util-20000279,
-story_util-10000280,
-story_util-20000280,
-story_util-10000281,
-story_util-20000281,
-story_util-10000282,
-story_util-20000282,
-story_util-10000283,
-story_util-20000283,
-story_util-10000284,
-story_util-20000284,
-story_util-10000285,
-story_util-20000285,
-story_util-10000286,
-story_util-20000286,
-story_util-10000287,
-story_util-20000287,
-story_util-10000288,
-story_util-20000288,
-story_util-10000289,
-story_util-20000289,
-story_util-10000290,
-story_util-20000290,
-story_util-10000291,
-story_util-20000291,
-story_util-10000292,
-story_util-20000292,
-story_util-10000293,
-story_util-20000293,
-story_util-10000294,
-story_util-20000294,
-story_util-10000295,
-story_util-20000295,
-story_util-10000296,
-story_util-20000296,
-story_util-10000297,
-story_util-20000297,
-story_util-10000298,
-story_util-20000298,
-story_util-10000299,
-story_util-20000299,
-story_util-10000300,
-story_util-20000300,
-story_util-10000301,
-story_util-20000301,
-story_util-10000302,
-story_util-20000302,
-story_util-10000303,
-story_util-20000303,
-story_util-10000304,
-story_util-20000304,
-story_util-10000305,
-story_util-20000305,
-story_util-10000306,
-story_util-20000306,
-story_util-10000307,
-story_util-20000307,
-story_util-10000308,
-story_util-20000308,
-story_util-10000309,
-story_util-20000309,
+story_util-10000277,Continuum Turbulence - Defense Outpost 2
+story_util-20000277,Defense Outpost 2
+story_util-10000278,Continuum Turbulence - Defense Outpost 3
+story_util-20000278,Defense Outpost 3
+story_util-10000279,Continuum Turbulence - Just Kidding
+story_util-20000279,Just Kidding
+story_util-10000280,Continuum Turbulence - Defense Outpost 4
+story_util-20000280,Defense Outpost 4
+story_util-10000281,Continuum Turbulence - Exploratory Attack
+story_util-20000281,Exploratory Attack
+story_util-10000282,Continuum Turbulence - General Offensive
+story_util-20000282,General Offensive
+story_util-10000283,Continuum Turbulence - For the Future
+story_util-20000283,For the Future
+story_util-10000284,Continuum Turbulence - Black Doll
+story_util-20000284,Black Doll
+story_util-10000285,Continuum Turbulence - ELID-Infected
+story_util-20000285,ELID-Infected
+story_util-10000286,Continuum Turbulence - Signal Flare
+story_util-20000286,Signal Flare
+story_util-10000287,Continuum Turbulence - Red Zone
+story_util-20000287,Red Zone
+story_util-10000288,Continuum Turbulence - Yellow Zone
+story_util-20000288,Yellow Zone
+story_util-10000289,Continuum Turbulence - Vengeance
+story_util-20000289,Vengeance
+story_util-10000290,Continuum Turbulence - Mark
+story_util-20000290,Mark
+story_util-10000291,Continuum Turbulence - A New Hope
+story_util-20000291,A New Hope
+story_util-10000292,Continuum Turbulence - Sum of All Wraths
+story_util-20000292,Sum of All Wraths
+story_util-10000293,Continuum Turbulence - Vile Rats
+story_util-20000293,Vile Rats
+story_util-10000294,Continuum Turbulence - Luck
+story_util-20000294,Luck
+story_util-10000295,Continuum Turbulence - Bad News
+story_util-20000295,Bad News
+story_util-10000296,Continuum Turbulence - IED
+story_util-20000296,IED
+story_util-10000297,Continuum Turbulence - Stumbling Block
+story_util-20000297,Stumbling Block
+story_util-10000298,Continuum Turbulence - White Doll
+story_util-20000298,White Doll
+story_util-10000299,Continuum Turbulence - Roaring Sun
+story_util-20000299,Roaring Sun
+story_util-10000300,Continuum Turbulence - Howl of Terror
+story_util-20000300,Howl of Terror
+story_util-10000301,Continuum Turbulence - Safe and Sound
+story_util-20000301,Safe and Sound
+story_util-10000302,Continuum Turbulence - Short-lived Peace
+story_util-20000302,Short-lived Peace
+story_util-10000303,Continuum Turbulence - Final Flight
+story_util-20000303,Final Flight
+story_util-10000304,Continuum Turbulence - Hurricane Rescue
+story_util-20000304,Hurricane Rescue
+story_util-10000305,Continuum Turbulence - Final Destination
+story_util-20000305,Final Destination
+story_util-10000306,Continuum Turbulence - Final Order
+story_util-20000306,Final Order
+story_util-10000307,Continuum Turbulence - Victor
+story_util-20000307,Victor
+story_util-10000308,Continuum Turbulence - Ground Zero
+story_util-20000308,Ground Zero
+story_util-10000309,Continuum Turbulence - Exile
+story_util-20000309,Exile
 story_util-10000310,
-story_util-20000310,
-story_util-10000311,
+story_util-20000310,Imaginary Maze+
+story_util-10000311,Prologue
 story_util-20000311,Souvenir
 story_util-10000312,
-story_util-20000312,
+story_util-20000312,Illusory Peace I
 story_util-10000313,
-story_util-20000313,
+story_util-20000313,Illusory Peace II
 story_util-10000314,
-story_util-20000314,
+story_util-20000314,Illusory Peace II//n Branch
 story_util-10000315,
-story_util-20000315,
+story_util-20000315,Illusory Peace III
 story_util-10000316,
-story_util-20000316,
+story_util-20000316,Illusory Peace I//n Branch
 story_util-10000317,
-story_util-20000317,
+story_util-20000317,Illusory Peace IV
 story_util-10000318,
-story_util-20000318,
+story_util-20000318,Cat and Mouse I
 story_util-10000319,
-story_util-20000319,
+story_util-20000319,Cat and Mouse II
 story_util-10000320,
-story_util-20000320,
+story_util-20000320,Cat and Mouse III
 story_util-10000321,
-story_util-20000321,
+story_util-20000321,Cat and Mouse III//n Branch
 story_util-10000322,
-story_util-20000322,
+story_util-20000322,Cat and Mouse IV
 story_util-10000323,
-story_util-20000323,
+story_util-20000323,Beyond the Border I
 story_util-10000324,
-story_util-20000324,
+story_util-20000324,Beyond the Border II
 story_util-10000325,
-story_util-20000325,
+story_util-20000325,Beyond the Border III
 story_util-10000326,
-story_util-20000326,
+story_util-20000326,Beyond the Border IV
 story_util-10000327,
-story_util-20000327,
+story_util-20000327,Faith of Blood I
 story_util-10000328,
-story_util-20000328,
+story_util-20000328,Faith of Blood I//n Branch I
 story_util-10000329,
-story_util-20000329,
+story_util-20000329,Faith of Blood I//n Branch II
 story_util-10000330,
-story_util-20000330,
+story_util-20000330,Faith of Blood II
 story_util-10000331,
-story_util-20000331,
+story_util-20000331,Faith of Blood II//n Branch
 story_util-10000332,
-story_util-20000332,
+story_util-20000332,Faith of Blood III
 story_util-10000333,
-story_util-20000333,
+story_util-20000333,Wolf and Owl I
 story_util-10000334,
-story_util-20000334,
+story_util-20000334,Wolf and Owl I//n Branch
 story_util-10000335,
-story_util-20000335,
+story_util-20000335,Wolf and Owl II
 story_util-10000336,
-story_util-20000336,
+story_util-20000336,Wolf and Owl III
 story_util-10000337,
-story_util-20000337,
+story_util-20000337,Wolf and Owl IV
 story_util-10000338,
-story_util-20000338,
+story_util-20000338,Under the Wall I
 story_util-10000339,
-story_util-20000339,
+story_util-20000339,Under the Wall II
 story_util-10000340,
-story_util-20000340,
+story_util-20000340,Lost Bargaining Chip I
 story_util-10000341,
-story_util-20000341,
+story_util-20000341,Lost Bargaining Chip II
 story_util-10000342,
-story_util-20000342,
+story_util-20000342,Lost Bargaining Chip III
 story_util-10000343,
-story_util-20000343,
+story_util-20000343,Shark and the Sea I
 story_util-10000344,
-story_util-20000344,
+story_util-20000344,Shark and the Sea II
 story_util-10000345,
-story_util-20000345,
+story_util-20000345,Shark and the Sea III
 story_util-10000346,
-story_util-20000346,
+story_util-20000346,Shark and the Sea IV
 story_util-10000347,
-story_util-20000347,
+story_util-20000347,Shark and the Sea V
 story_util-10000348,
-story_util-20000348,
+story_util-20000348,Shark and the Sea VI
 story_util-10000349,
-story_util-20000349,
+story_util-20000349,Shark and the Sea VII
 story_util-10000350,
-story_util-20000350,
+story_util-20000350,Above the Hubbub I
 story_util-10000351,
-story_util-20000351,
+story_util-20000351,Above the Hubbub II
 story_util-10000352,
-story_util-20000352,
+story_util-20000352,Above the Hubbub II//n Branch
 story_util-10000353,
-story_util-20000353,
+story_util-20000353,Above the Hubbub III
 story_util-10000354,
-story_util-20000354,
+story_util-20000354,Above the Hubbub IV
 story_util-10000355,
-story_util-20000355,
+story_util-20000355,Above the Hubbub V
 story_util-10000356,
-story_util-20000356,
+story_util-20000356,Above the Hubbub VI
 story_util-10000357,
-story_util-20000357,
+story_util-20000357,Above the Hubbub VI//n Branch I
 story_util-10000358,
-story_util-20000358,
-story_util-10000359,
-story_util-20000359,
+story_util-20000358,Above the Hubbub VI//n Branch II
+story_util-10000359,Bare Hole
+story_util-20000359,Reign of Chaos
 story_util-10000360,
-story_util-20000360,
-story_util-10000361,
-story_util-20000361,
-story_util-10000362,
-story_util-20000362,
-story_util-10000363,
-story_util-20000363,
-story_util-10000364,
-story_util-20000364,
+story_util-20000360,Illusory Peace V
+story_util-10000361,Script Scene 1: Take some footages of engaging S.F. in battle at the predetermined location. Looking good so far. Garand.
+story_util-20000361,The Way Back is Paved with Light I
+story_util-10000362,Script Scene 2: M3 and AK【scratched】 are cast as M4 and M16. AK-47 can't make it//c so we have to resort to our backup plan... Not that I know what that is. T65.
+story_util-20000362,The Way Back is Paved with Light II
+story_util-10000363,Script 【scratched】 【scratched】. We won't need a script anymore. M16 is back. T77.
+story_util-20000363,The Way Back is Paved with Light III
+story_util-10000364,【scratched】. Even if it's the truth//c it has no choice but to compromise with us.
+story_util-20000364,The Way Back is Paved with Light IV
+story_util-10000365,Didgeridoo Tutorial
+story_util-20000365,Didgeridoo Tutorial
+story_util-10000366,Adolescence
+story_util-20000366,Adolescence
+story_util-10000367,Pioneer
+story_util-20000367,Pioneer
+story_util-10000368,Sonic Boom
+story_util-20000368,Sonic Boom
+story_util-10000369,Chicken Breast
+story_util-20000369,Chicken Breast
+story_util-10000370,Fear of Public Speaking
+story_util-20000370,Fear of Public Speaking
+story_util-10000371,Truth or Dare
+story_util-20000371,Truth or Dare
+story_util-10000372,The Last Rain In The World
+story_util-20000372,The Last Rain In The World
+story_util-10000373,Didgeridoo Tutorial EX
+story_util-20000373,Didgeridoo Tutorial EX
+story_util-10000374,Adolescence EX
+story_util-20000374,Adolescence EX
+story_util-10000375,Pioneer EX
+story_util-20000375,Pioneer EX
+story_util-10000376,Sonic Boom EX
+story_util-20000376,Sonic Boom EX
+story_util-10000377,Chicken Breast EX
+story_util-20000377,Chicken Breast EX
+story_util-10000378,Fear of Public Speaking EX
+story_util-20000378,Truth or Dare EX
+story_util-10000379,Truth or Dare EX
+story_util-20000379,Truth or Dare EX
+story_util-10000380,The Last Rain In The World EX
+story_util-20000380,The Last Rain In The World EX

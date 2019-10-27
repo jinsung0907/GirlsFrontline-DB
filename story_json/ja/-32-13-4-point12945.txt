@@ -1,1 +1,1 @@
-[{"character":["AnnaAVG"],"character_emotion":["0"],"speaker_name":"安娜","speaker":0,"bg":"10","text":"哎呀，看来我们有新任务了。"},{"character":[""],"character_emotion":[""],"speaker_name":"系统提示","speaker":0,"text":"<color=#FFFF00>触发雷达点可修复出更多记忆碎片。</color>"}]
+[{"character":["AnnaAVG"],"character_emotion":["0"],"speaker_name":"アナ","speaker":0,"bg":"10","text":"あら、新しい任務がきたようね。"},{"character":[""],"character_emotion":[""],"speaker_name":"システム","speaker":0,"text":"<color=#FFFF00>レーダーポイントを触発することでさらにたくさんの記憶の欠片を修復できます。</color>"}]

@@ -538,1254 +538,2007 @@ mission_skill_config-30100409,Damage Increase: 18%//cAccuracy Increase: 18%//cEv
 mission_skill_config-10100410,I Want You
 mission_skill_config-20100410,Scatter flowers on an adjacent node that is unoccupied by the enemy. Allies will gain 20% damage//c accuracy//c evasion//c armor//c and crit rate when battling on this node for the next two turns.
 mission_skill_config-30100410,Damage Increase: 20%//cAccuracy Increase: 20%//cEvasion Increase: 20%//cArmor Increase: 20%//cCrit Rate Increase: 20%
-mission_skill_config-10900001,
-mission_skill_config-20900001,
+mission_skill_config-10900001,Heliport Deployment
+mission_skill_config-20900001,Operation effectiveness increased for Heliports within support area.
 mission_skill_config-30900001,
-mission_skill_config-10900002,
-mission_skill_config-20900002,
+mission_skill_config-10900002,Air Defense Artillery
+mission_skill_config-20900002,Air Traffic Control
 mission_skill_config-30900002,
-mission_skill_config-10900003,
-mission_skill_config-20900003,
+mission_skill_config-10900003,Contamination Source
+mission_skill_config-20900003,Damage Taken
 mission_skill_config-30900003,
-mission_skill_config-10900004,
-mission_skill_config-20900004,
+mission_skill_config-10900004,Heliport Deployment
+mission_skill_config-20900004,Operation effectiveness increased for Heliports within support area.
 mission_skill_config-30900004,
-mission_skill_config-10900005,
-mission_skill_config-20900005,
+mission_skill_config-10900005,Heliport Deployment
+mission_skill_config-20900005,Operation effectiveness increased for Heliports within support area.
 mission_skill_config-30900005,
-mission_skill_config-10900006,
-mission_skill_config-20900006,
+mission_skill_config-10900006,Air Defense Artillery
+mission_skill_config-20900006,Air Traffic Control
 mission_skill_config-30900006,
-mission_skill_config-10900007,
-mission_skill_config-20900007,
+mission_skill_config-10900007,Contamination Source
+mission_skill_config-20900007,Support Squad one-shot
 mission_skill_config-30900007,
-mission_skill_config-10900008,
-mission_skill_config-20900008,
+mission_skill_config-10900008,Heliport Deployment
+mission_skill_config-20900008,Operation effectiveness increased for Heliports within support area.
 mission_skill_config-30900008,
-mission_skill_config-10900009,
-mission_skill_config-20900009,
+mission_skill_config-10900009,Air Defense Artillery
+mission_skill_config-20900009,Air Traffic Control
 mission_skill_config-30900009,
-mission_skill_config-10900010,
-mission_skill_config-20900010,
+mission_skill_config-10900010,Air Defense Artillery
+mission_skill_config-20900010,Air Traffic Control
 mission_skill_config-30900010,
-mission_skill_config-11000000,
-mission_skill_config-21000000,
+mission_skill_config-11000000,Do not translate
+mission_skill_config-21000000,Do not translate
 mission_skill_config-31000000,
-mission_skill_config-11000001,
-mission_skill_config-21000001,
+mission_skill_config-11000001,Do not translate
+mission_skill_config-21000001,Do not translate
 mission_skill_config-31000001,
-mission_skill_config-11000002,
-mission_skill_config-21000002,
+mission_skill_config-11000002,Do not translate
+mission_skill_config-21000002,Do not translate
 mission_skill_config-31000002,
-mission_skill_config-11000003,
-mission_skill_config-21000003,
+mission_skill_config-11000003,Do not translate
+mission_skill_config-21000003,Do not translate
 mission_skill_config-31000003,
-mission_skill_config-11000004,
-mission_skill_config-21000004,
+mission_skill_config-11000004,Do not translate
+mission_skill_config-21000004,Do not translate
 mission_skill_config-31000004,
-mission_skill_config-11000005,
-mission_skill_config-21000005,
+mission_skill_config-11000005,Do not translate
+mission_skill_config-21000005,Do not translate
 mission_skill_config-31000005,
-mission_skill_config-11000006,
-mission_skill_config-21000006,
+mission_skill_config-11000006,Do not translate
+mission_skill_config-21000006,Do not translate
 mission_skill_config-31000006,
-mission_skill_config-11000007,
-mission_skill_config-21000007,
+mission_skill_config-11000007,Do not translate
+mission_skill_config-21000007,Do not translate
 mission_skill_config-31000007,
-mission_skill_config-11000008,
-mission_skill_config-21000008,
+mission_skill_config-11000008,Do not translate
+mission_skill_config-21000008,Do not translate
 mission_skill_config-31000008,
-mission_skill_config-11000009,
-mission_skill_config-21000009,
+mission_skill_config-11000009,Do not translate
+mission_skill_config-21000009,Do not translate
 mission_skill_config-31000009,
-mission_skill_config-11000010,
-mission_skill_config-21000010,
+mission_skill_config-11000010,Do not translate
+mission_skill_config-21000010,Do not translate
 mission_skill_config-31000010,
-mission_skill_config-11000011,
-mission_skill_config-21000011,
+mission_skill_config-11000011,Do not translate
+mission_skill_config-21000011,Do not translate
 mission_skill_config-31000011,
-mission_skill_config-11000012,
-mission_skill_config-21000012,
+mission_skill_config-11000012,Do not translate
+mission_skill_config-21000012,Do not translate
 mission_skill_config-31000012,
-mission_skill_config-11000013,
-mission_skill_config-21000013,
+mission_skill_config-11000013,Do not translate
+mission_skill_config-21000013,Do not translate
 mission_skill_config-31000013,
-mission_skill_config-11000014,
-mission_skill_config-21000014,
+mission_skill_config-11000014,Do not translate
+mission_skill_config-21000014,Do not translate
 mission_skill_config-31000014,
-mission_skill_config-11000015,
-mission_skill_config-21000015,
+mission_skill_config-11000015,Do not translate
+mission_skill_config-21000015,Do not translate
 mission_skill_config-31000015,
-mission_skill_config-11000016,
-mission_skill_config-21000016,
+mission_skill_config-11000016,Do not translate
+mission_skill_config-21000016,Do not translate
 mission_skill_config-31000016,
-mission_skill_config-11000017,
-mission_skill_config-21000017,
+mission_skill_config-11000017,Do not translate
+mission_skill_config-21000017,Do not translate
 mission_skill_config-31000017,
-mission_skill_config-11000018,
-mission_skill_config-21000018,
+mission_skill_config-11000018,Do not translate
+mission_skill_config-21000018,Do not translate
 mission_skill_config-31000018,
-mission_skill_config-11000019,
-mission_skill_config-21000019,
+mission_skill_config-11000019,Do not translate
+mission_skill_config-21000019,Do not translate
 mission_skill_config-31000019,
-mission_skill_config-11000020,
-mission_skill_config-21000020,
+mission_skill_config-11000020,Do not translate
+mission_skill_config-21000020,Do not translate
 mission_skill_config-31000020,
-mission_skill_config-11000021,
-mission_skill_config-21000021,
+mission_skill_config-11000021,Do not translate
+mission_skill_config-21000021,Do not translate
 mission_skill_config-31000021,
-mission_skill_config-11000022,
-mission_skill_config-21000022,
+mission_skill_config-11000022,Do not translate
+mission_skill_config-21000022,Do not translate
 mission_skill_config-31000022,
-mission_skill_config-11000023,
-mission_skill_config-21000023,
+mission_skill_config-11000023,Do not translate
+mission_skill_config-21000023,Do not translate
 mission_skill_config-31000023,
-mission_skill_config-11000024,
-mission_skill_config-21000024,
+mission_skill_config-11000024,Do not translate
+mission_skill_config-21000024,Do not translate
 mission_skill_config-31000024,
-mission_skill_config-11000025,
-mission_skill_config-21000025,
+mission_skill_config-11000025,Do not translate
+mission_skill_config-21000025,Do not translate
 mission_skill_config-31000025,
-mission_skill_config-11000026,
-mission_skill_config-21000026,
+mission_skill_config-11000026,Do not translate
+mission_skill_config-21000026,Do not translate
 mission_skill_config-31000026,
-mission_skill_config-11000027,
-mission_skill_config-21000027,
+mission_skill_config-11000027,Do not translate
+mission_skill_config-21000027,Do not translate
 mission_skill_config-31000027,
-mission_skill_config-11000028,
-mission_skill_config-21000028,
+mission_skill_config-11000028,Do not translate
+mission_skill_config-21000028,Do not translate
 mission_skill_config-31000028,
-mission_skill_config-11000029,
-mission_skill_config-21000029,
+mission_skill_config-11000029,Do not translate
+mission_skill_config-21000029,Do not translate
 mission_skill_config-31000029,
-mission_skill_config-11000030,
-mission_skill_config-21000030,
+mission_skill_config-11000030,Do not translate
+mission_skill_config-21000030,Do not translate
 mission_skill_config-31000030,
-mission_skill_config-11000031,
-mission_skill_config-21000031,
+mission_skill_config-11000031,Do not translate
+mission_skill_config-21000031,Do not translate
 mission_skill_config-31000031,
-mission_skill_config-11000032,
-mission_skill_config-21000032,
+mission_skill_config-11000032,Do not translate
+mission_skill_config-21000032,Do not translate
 mission_skill_config-31000032,
-mission_skill_config-11000033,
-mission_skill_config-21000033,
+mission_skill_config-11000033,Do not translate
+mission_skill_config-21000033,Do not translate
 mission_skill_config-31000033,
-mission_skill_config-11000034,
-mission_skill_config-21000034,
+mission_skill_config-11000034,Do not translate
+mission_skill_config-21000034,Do not translate
 mission_skill_config-31000034,
-mission_skill_config-11000035,
-mission_skill_config-21000035,
+mission_skill_config-11000035,Do not translate
+mission_skill_config-21000035,Do not translate
 mission_skill_config-31000035,
-mission_skill_config-11000036,
-mission_skill_config-21000036,
+mission_skill_config-11000036,Do not translate
+mission_skill_config-21000036,Do not translate
 mission_skill_config-31000036,
-mission_skill_config-11000037,
-mission_skill_config-21000037,
+mission_skill_config-11000037,Do not translate
+mission_skill_config-21000037,Do not translate
 mission_skill_config-31000037,
-mission_skill_config-11000038,
-mission_skill_config-21000038,
+mission_skill_config-11000038,Do not translate
+mission_skill_config-21000038,Do not translate
 mission_skill_config-31000038,
-mission_skill_config-11000039,
-mission_skill_config-21000039,
+mission_skill_config-11000039,Do not translate
+mission_skill_config-21000039,Do not translate
 mission_skill_config-31000039,
-mission_skill_config-11000040,
-mission_skill_config-21000040,
+mission_skill_config-11000040,Do not translate
+mission_skill_config-21000040,Do not translate
 mission_skill_config-31000040,
-mission_skill_config-11000041,
-mission_skill_config-21000041,
+mission_skill_config-11000041,Do not translate
+mission_skill_config-21000041,Do not translate
 mission_skill_config-31000041,
-mission_skill_config-11000042,
-mission_skill_config-21000042,
+mission_skill_config-11000042,Do not translate
+mission_skill_config-21000042,Do not translate
 mission_skill_config-31000042,
-mission_skill_config-11000043,
-mission_skill_config-21000043,
+mission_skill_config-11000043,Do not translate
+mission_skill_config-21000043,Do not translate
 mission_skill_config-31000043,
-mission_skill_config-11000044,
-mission_skill_config-21000044,
+mission_skill_config-11000044,Do not translate
+mission_skill_config-21000044,Do not translate
 mission_skill_config-31000044,
-mission_skill_config-11000045,
-mission_skill_config-21000045,
+mission_skill_config-11000045,Do not translate
+mission_skill_config-21000045,Do not translate
 mission_skill_config-31000045,
-mission_skill_config-11000046,
-mission_skill_config-21000046,
+mission_skill_config-11000046,Do not translate
+mission_skill_config-21000046,Do not translate
 mission_skill_config-31000046,
-mission_skill_config-11000047,
-mission_skill_config-21000047,
+mission_skill_config-11000047,Do not translate
+mission_skill_config-21000047,Do not translate
 mission_skill_config-31000047,
-mission_skill_config-11000048,
-mission_skill_config-21000048,
+mission_skill_config-11000048,Do not translate
+mission_skill_config-21000048,Do not translate
 mission_skill_config-31000048,
-mission_skill_config-11000049,
-mission_skill_config-21000049,
+mission_skill_config-11000049,Do not translate
+mission_skill_config-21000049,Do not translate
 mission_skill_config-31000049,
-mission_skill_config-11000050,
-mission_skill_config-21000050,
+mission_skill_config-11000050,Do not translate
+mission_skill_config-21000050,Do not translate
 mission_skill_config-31000050,
-mission_skill_config-11000051,
-mission_skill_config-21000051,
+mission_skill_config-11000051,Do not translate
+mission_skill_config-21000051,Do not translate
 mission_skill_config-31000051,
-mission_skill_config-11000052,
-mission_skill_config-21000052,
+mission_skill_config-11000052,Do not translate
+mission_skill_config-21000052,Do not translate
 mission_skill_config-31000052,
-mission_skill_config-11000053,
-mission_skill_config-21000053,
+mission_skill_config-11000053,Do not translate
+mission_skill_config-21000053,Do not translate
 mission_skill_config-31000053,
-mission_skill_config-11000054,
-mission_skill_config-21000054,
+mission_skill_config-11000054,Do not translate
+mission_skill_config-21000054,Do not translate
 mission_skill_config-31000054,
-mission_skill_config-11000100,
-mission_skill_config-21000100,
+mission_skill_config-11000055,
+mission_skill_config-21000055,
+mission_skill_config-31000055,
+mission_skill_config-11000056,
+mission_skill_config-21000056,
+mission_skill_config-31000056,
+mission_skill_config-11000057,
+mission_skill_config-21000057,
+mission_skill_config-31000057,
+mission_skill_config-11000100,Do not translate
+mission_skill_config-21000100,Do not translate
 mission_skill_config-31000100,
-mission_skill_config-11000101,
-mission_skill_config-21000101,
+mission_skill_config-11000101,Blast Command (for Rubble I)
+mission_skill_config-21000101,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
 mission_skill_config-31000101,
-mission_skill_config-11000102,
-mission_skill_config-21000102,
+mission_skill_config-11000102,Blast Command (for Rubble I)
+mission_skill_config-21000102,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
 mission_skill_config-31000102,
-mission_skill_config-11000103,
-mission_skill_config-21000103,
+mission_skill_config-11000103,Remove a stack of bomb-holding buff
+mission_skill_config-21000103,Remove a stack of bomb-holding buff
 mission_skill_config-31000103,
-mission_skill_config-11000104,
-mission_skill_config-21000104,
+mission_skill_config-11000104,Blast Command (for Rubble I) (damage on facilities)
+mission_skill_config-21000104,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
 mission_skill_config-31000104,
-mission_skill_config-11000105,
-mission_skill_config-21000105,
+mission_skill_config-11000105,Blast Command (for Rubble II)
+mission_skill_config-21000105,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
 mission_skill_config-31000105,
-mission_skill_config-11000106,
-mission_skill_config-21000106,
+mission_skill_config-11000106,Remove a stack of bomb-holding buff
+mission_skill_config-21000106,Remove a stack of bomb-holding buff
 mission_skill_config-31000106,
-mission_skill_config-11000107,
-mission_skill_config-21000107,
+mission_skill_config-11000107,Blast Command (for Rubble II) (damage on facilities)
+mission_skill_config-21000107,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
 mission_skill_config-31000107,
-mission_skill_config-11000108,
-mission_skill_config-21000108,
+mission_skill_config-11000108,Preset Detonation (for Thoroughfare I)
+mission_skill_config-21000108,Place a Goliath and set it to detonate at the start of our next round//c destroying Thoroughfare I. ※ The Goliath can only be placed once. Please be careful and move your echelon away to avoid damage.
 mission_skill_config-31000108,
-mission_skill_config-11000109,
-mission_skill_config-21000109,
+mission_skill_config-11000109,Remove a stack of bomb-holding buff
+mission_skill_config-21000109,Remove a stack of bomb-holding buff
 mission_skill_config-31000109,
-mission_skill_config-11000110,
-mission_skill_config-21000110,
+mission_skill_config-11000110,Preset Bomb
+mission_skill_config-21000110,Preset Bomb
 mission_skill_config-31000110,
-mission_skill_config-11000111,
-mission_skill_config-21000111,
+mission_skill_config-11000111,Do not translate
+mission_skill_config-21000111,Do not translate
 mission_skill_config-31000111,
-mission_skill_config-11000112,
-mission_skill_config-21000112,
+mission_skill_config-11000112,Preset Detonation (for Thoroughfare II)
+mission_skill_config-21000112,Place a Goliath and set it to detonate at the start of our next round//c destroying Thoroughfare I. ※ The Goliath can only be placed once. Please be careful and move your echelon away to avoid damage.
 mission_skill_config-31000112,
-mission_skill_config-11000113,
-mission_skill_config-21000113,
+mission_skill_config-11000113,Remove a stack of bomb-holding buff
+mission_skill_config-21000113,Remove a stack of bomb-holding buff
 mission_skill_config-31000113,
-mission_skill_config-11000114,
-mission_skill_config-21000114,
+mission_skill_config-11000114,Preset Bomb
+mission_skill_config-21000114,Preset Bomb
 mission_skill_config-31000114,
-mission_skill_config-11000115,
-mission_skill_config-21000115,
+mission_skill_config-11000115,Preset Detonation (for Thoroughfare III)
+mission_skill_config-21000115,Place a Goliath and set it to detonate at the start of our next round//c destroying Thoroughfare I. ※ The Goliath can only be placed once. Please be careful and move your echelon away to avoid damage.
 mission_skill_config-31000115,
-mission_skill_config-11000116,
-mission_skill_config-21000116,
+mission_skill_config-11000116,Remove a stack of bomb-holding buff
+mission_skill_config-21000116,Remove a stack of bomb-holding buff
 mission_skill_config-31000116,
-mission_skill_config-11000117,
-mission_skill_config-21000117,
+mission_skill_config-11000117,Preset Bomb
+mission_skill_config-21000117,Preset Bomb
 mission_skill_config-31000117,
-mission_skill_config-11000200,
-mission_skill_config-21000200,
+mission_skill_config-11000200,Do not translate
+mission_skill_config-21000200,Do not translate
 mission_skill_config-31000200,
-mission_skill_config-11000201,
-mission_skill_config-21000201,
+mission_skill_config-11000201,Blast Command (for Rubble II)
+mission_skill_config-21000201,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
 mission_skill_config-31000201,
-mission_skill_config-11000202,
-mission_skill_config-21000202,
+mission_skill_config-11000202,Do not translate
+mission_skill_config-21000202,Do not translate
 mission_skill_config-31000202,
-mission_skill_config-11000300,
-mission_skill_config-21000300,
+mission_skill_config-11000300,Do not translate
+mission_skill_config-21000300,Do not translate
 mission_skill_config-31000300,
-mission_skill_config-11000301,
-mission_skill_config-21000301,
+mission_skill_config-11000301,Blast Command (for Rubble II)
+mission_skill_config-21000301,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
 mission_skill_config-31000301,
-mission_skill_config-11000302,
-mission_skill_config-21000302,
+mission_skill_config-11000302,Do not translate
+mission_skill_config-21000302,Do not translate
 mission_skill_config-31000302,
-mission_skill_config-11000400,
-mission_skill_config-21000400,
+mission_skill_config-11000400,Do not translate
+mission_skill_config-21000400,Do not translate
 mission_skill_config-31000400,
-mission_skill_config-11000402,
-mission_skill_config-21000402,
+mission_skill_config-11000402,Do not translate
+mission_skill_config-21000402,Do not translate
 mission_skill_config-31000402,
-mission_skill_config-11000401,
-mission_skill_config-21000401,
+mission_skill_config-11000401,Blast Command (for Rubble II)
+mission_skill_config-21000401,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
 mission_skill_config-31000401,
-mission_skill_config-11000500,
-mission_skill_config-21000500,
+mission_skill_config-11000500,Do not translate
+mission_skill_config-21000500,Do not translate
 mission_skill_config-31000500,
-mission_skill_config-11000501,
-mission_skill_config-21000501,
+mission_skill_config-11000501,Blast Command (for Rubble II)
+mission_skill_config-21000501,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
 mission_skill_config-31000501,
-mission_skill_config-11000502,
-mission_skill_config-21000502,
+mission_skill_config-11000502,Do not translate
+mission_skill_config-21000502,Do not translate
 mission_skill_config-31000502,
-mission_skill_config-11000600,
-mission_skill_config-21000600,
+mission_skill_config-11000600,Do not translate
+mission_skill_config-21000600,Do not translate
 mission_skill_config-31000600,
-mission_skill_config-11000601,
-mission_skill_config-21000601,
+mission_skill_config-11000601,Blast Command (for Rubble II)
+mission_skill_config-21000601,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
 mission_skill_config-31000601,
-mission_skill_config-11010100,
-mission_skill_config-21010100,
+mission_skill_config-11010100,Do not translate
+mission_skill_config-21010100,Operation commands can be issued to connected facilities once access is obtained.
 mission_skill_config-31010100,
-mission_skill_config-11010101,
-mission_skill_config-21010101,
+mission_skill_config-11010101,Do not translate
+mission_skill_config-21010101,Do not translate
 mission_skill_config-31010101,
-mission_skill_config-11010102,
-mission_skill_config-21010102,
+mission_skill_config-11010102,Do not translate
+mission_skill_config-21010102,Do not translate
 mission_skill_config-31010102,
-mission_skill_config-11010103,
-mission_skill_config-21010103,
+mission_skill_config-11010103,Do not translate
+mission_skill_config-21010103,Do not translate
 mission_skill_config-31010103,
-mission_skill_config-11010104,
-mission_skill_config-21010104,
+mission_skill_config-11010104,Unlock Access
+mission_skill_config-21010104,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
 mission_skill_config-31010104,
-mission_skill_config-11010105,
-mission_skill_config-21010105,
+mission_skill_config-11010105,Freeze Access
+mission_skill_config-21010105,Freeze the highest authorization level on Control Terminal I//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010105,
-mission_skill_config-11010106,
-mission_skill_config-21010106,
+mission_skill_config-11010106,Unlock Access
+mission_skill_config-21010106,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
 mission_skill_config-31010106,
-mission_skill_config-11010107,
-mission_skill_config-21010107,
+mission_skill_config-11010107,Freeze Access
+mission_skill_config-21010107,Freeze the highest authorization level on Control Terminal I//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010107,
-mission_skill_config-11010108,
-mission_skill_config-21010108,
+mission_skill_config-11010108,Do not translate
+mission_skill_config-21010108,For Control Terminal 2/4/6
 mission_skill_config-31010108,
-mission_skill_config-11010109,
-mission_skill_config-21010109,
+mission_skill_config-11010109,Do not translate
+mission_skill_config-21010109,For Control Terminal 2/4/6
 mission_skill_config-31010109,
-mission_skill_config-11010110,
-mission_skill_config-21010110,
+mission_skill_config-11010110,Unlock Access
+mission_skill_config-21010110,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
 mission_skill_config-31010110,
-mission_skill_config-11010111,
-mission_skill_config-21010111,
+mission_skill_config-11010111,Freeze Access
+mission_skill_config-21010111,Freeze the highest authorization level on Control Terminal I//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010111,
-mission_skill_config-11010112,
-mission_skill_config-21010112,
+mission_skill_config-11010112,Access Prompt
+mission_skill_config-21010112,You must unlock all Control Terminals in the correct order in order to gain access to operate the Artillery Positions.
 mission_skill_config-31010112,
-mission_skill_config-11010113,
-mission_skill_config-21010113,
+mission_skill_config-11010113,Reset Prompt
+mission_skill_config-21010113,Unlock failed. Please reset the Control Terminal and attempt to unlock again.
 mission_skill_config-31010113,
-mission_skill_config-11010114,
-mission_skill_config-21010114,
+mission_skill_config-11010114,Access Prompt
+mission_skill_config-21010114,This Control Terminal seems to be broken. It doesn't look like you can use this to issue commands.
 mission_skill_config-31010114,
 mission_skill_config-11010115,Reset
-mission_skill_config-21010115,
+mission_skill_config-21010115,Unlock failed. Please reset the Control Terminal and attempt to unlock again.
 mission_skill_config-31010115,
-mission_skill_config-11010200,
-mission_skill_config-21010200,
+mission_skill_config-11010200,Do not translate
+mission_skill_config-21010200,Do not translate
 mission_skill_config-31010200,
-mission_skill_config-11010201,
-mission_skill_config-21010201,
+mission_skill_config-11010201,Do not translate
+mission_skill_config-21010201,Do not translate
 mission_skill_config-31010201,
-mission_skill_config-11010202,
-mission_skill_config-21010202,
+mission_skill_config-11010202,Do not translate
+mission_skill_config-21010202,Do not translate
 mission_skill_config-31010202,
-mission_skill_config-11010203,
-mission_skill_config-21010203,
+mission_skill_config-11010203,Do not translate
+mission_skill_config-21010203,Do not translate
 mission_skill_config-31010203,
-mission_skill_config-11010204,
-mission_skill_config-21010204,
+mission_skill_config-11010204,Unlock Access
+mission_skill_config-21010204,Unlock the highest authorization level on Control Terminal II and access the control interface of all corresponding facilities.
 mission_skill_config-31010204,
-mission_skill_config-11010205,
-mission_skill_config-21010205,
+mission_skill_config-11010205,Freeze Access
+mission_skill_config-21010205,Freeze the highest authorization level on Control Terminal II//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010205,
-mission_skill_config-11010206,
-mission_skill_config-21010206,
+mission_skill_config-11010206,Access Prompt
+mission_skill_config-21010206,This Control Terminal seems to be broken. It doesn't look like you can use this to issue commands.
 mission_skill_config-31010206,
-mission_skill_config-11010207,
-mission_skill_config-21010207,
+mission_skill_config-11010207,Unlock Access
+mission_skill_config-21010207,Unlock the highest authorization level on Control Terminal II and access the control interface of all corresponding facilities.
 mission_skill_config-31010207,
-mission_skill_config-11010208,
-mission_skill_config-21010208,
+mission_skill_config-11010208,Freeze Access
+mission_skill_config-21010208,Freeze the highest authorization level on Control Terminal II//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010208,
-mission_skill_config-11010209,
-mission_skill_config-21010209,
+mission_skill_config-11010209,Access Prompt
+mission_skill_config-21010209,You must unlock all Control Terminals in the correct order in order to gain access to operate the Artillery Positions.
 mission_skill_config-31010209,
-mission_skill_config-11010210,
-mission_skill_config-21010210,
+mission_skill_config-11010210,Reset Prompt
+mission_skill_config-21010210,Unlock failed. Please reset the Control Terminal and attempt to unlock again.
 mission_skill_config-31010210,
 mission_skill_config-11010211,Reset
-mission_skill_config-21010211,
+mission_skill_config-21010211,Unlock failed. Please reset the Control Terminal and attempt to unlock again.
 mission_skill_config-31010211,
-mission_skill_config-11010212,
-mission_skill_config-21010212,
+mission_skill_config-11010212,Unlock Access
+mission_skill_config-21010212,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
 mission_skill_config-31010212,
-mission_skill_config-11010213,
-mission_skill_config-21010213,
+mission_skill_config-11010213,Freeze Access
+mission_skill_config-21010213,Freeze the highest authorization level on Control Terminal I//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010213,
-mission_skill_config-11010300,
-mission_skill_config-21010300,
+mission_skill_config-11010300,Do not translate
+mission_skill_config-21010300,Do not translate
 mission_skill_config-31010300,
-mission_skill_config-11010301,
-mission_skill_config-21010301,
+mission_skill_config-11010301,Do not translate
+mission_skill_config-21010301,Do not translate
 mission_skill_config-31010301,
-mission_skill_config-11010302,
-mission_skill_config-21010302,
+mission_skill_config-11010302,Do not translate
+mission_skill_config-21010302,Do not translate
 mission_skill_config-31010302,
-mission_skill_config-11010303,
-mission_skill_config-21010303,
+mission_skill_config-11010303,Do not translate
+mission_skill_config-21010303,Do not translate
 mission_skill_config-31010303,
-mission_skill_config-11010304,
-mission_skill_config-21010304,
+mission_skill_config-11010304,Unlock Access
+mission_skill_config-21010304,Unlock the highest authorization level on Control Terminal III and access the control interface of all corresponding facilities.
 mission_skill_config-31010304,
-mission_skill_config-11010305,
-mission_skill_config-21010305,
+mission_skill_config-11010305,Freeze Access
+mission_skill_config-21010305,Freeze the highest authorization level on Control Terminal III//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010305,
-mission_skill_config-11010306,
-mission_skill_config-21010306,
+mission_skill_config-11010306,Unlock Access
+mission_skill_config-21010306,Unlock the highest authorization level on Control Terminal II and access the control interface of all corresponding facilities.
 mission_skill_config-31010306,
-mission_skill_config-11010307,
-mission_skill_config-21010307,
+mission_skill_config-11010307,Freeze Access
+mission_skill_config-21010307,Freeze the highest authorization level on Control Terminal II//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010307,
-mission_skill_config-11010308,
-mission_skill_config-21010308,
+mission_skill_config-11010308,Unlock Access
+mission_skill_config-21010308,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
 mission_skill_config-31010308,
-mission_skill_config-11010309,
-mission_skill_config-21010309,
+mission_skill_config-11010309,Freeze Access
+mission_skill_config-21010309,Freeze the highest authorization level on Control Terminal I//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010309,
-mission_skill_config-11010400,
-mission_skill_config-21010400,
+mission_skill_config-11010400,Do not translate
+mission_skill_config-21010400,Do not translate
 mission_skill_config-31010400,
-mission_skill_config-11010401,
-mission_skill_config-21010401,
+mission_skill_config-11010401,Do not translate
+mission_skill_config-21010401,Do not translate
 mission_skill_config-31010401,
-mission_skill_config-11010402,
-mission_skill_config-21010402,
+mission_skill_config-11010402,Do not translate
+mission_skill_config-21010402,Do not translate
 mission_skill_config-31010402,
-mission_skill_config-11010403,
-mission_skill_config-21010403,
+mission_skill_config-11010403,Do not translate
+mission_skill_config-21010403,Do not translate
 mission_skill_config-31010403,
-mission_skill_config-11010404,
-mission_skill_config-21010404,
+mission_skill_config-11010404,Unlock Access
+mission_skill_config-21010404,Unlock the highest authorization level on Control Terminal IV and access the control interface of all corresponding facilities.
 mission_skill_config-31010404,
-mission_skill_config-11010405,
-mission_skill_config-21010405,
+mission_skill_config-11010405,Freeze Access
+mission_skill_config-21010405,Freeze the highest authorization level on Control Terminal IV//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010405,
-mission_skill_config-11010406,
-mission_skill_config-21010406,
+mission_skill_config-11010406,Unlock Access
+mission_skill_config-21010406,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
 mission_skill_config-31010406,
-mission_skill_config-11010407,
-mission_skill_config-21010407,
+mission_skill_config-11010407,Freeze Access
+mission_skill_config-21010407,Freeze the highest authorization level on Control Terminal I//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010407,
-mission_skill_config-11010408,
-mission_skill_config-21010408,
+mission_skill_config-11010408,Do not translate
+mission_skill_config-21010408,For Control Terminal 1/3/5
 mission_skill_config-31010408,
-mission_skill_config-11010409,
-mission_skill_config-21010409,
+mission_skill_config-11010409,Do not translate
+mission_skill_config-21010409,For Control Terminal 1/3/5
 mission_skill_config-31010409,
-mission_skill_config-11010410,
-mission_skill_config-21010410,
+mission_skill_config-11010410,Unlock Access
+mission_skill_config-21010410,Unlock the highest authorization level on Control Terminal III and access the control interface of all corresponding facilities.
 mission_skill_config-31010410,
-mission_skill_config-11010411,
-mission_skill_config-21010411,
+mission_skill_config-11010411,Freeze Access
+mission_skill_config-21010411,Freeze the highest authorization level on Control Terminal III//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010411,
-mission_skill_config-11010412,
-mission_skill_config-21010412,
+mission_skill_config-11010412,Unlock Access
+mission_skill_config-21010412,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
 mission_skill_config-31010412,
-mission_skill_config-11010413,
-mission_skill_config-21010413,
+mission_skill_config-11010413,Freeze Access
+mission_skill_config-21010413,Freeze the highest authorization level on Control Terminal I//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010413,
-mission_skill_config-11010414,
-mission_skill_config-21010414,
+mission_skill_config-11010414,Unlock Access
+mission_skill_config-21010414,Unlock the highest authorization level on Control Terminal II and access the control interface of all corresponding facilities.
 mission_skill_config-31010414,
-mission_skill_config-11010415,
-mission_skill_config-21010415,
+mission_skill_config-11010415,Freeze Access
+mission_skill_config-21010415,Freeze the highest authorization level on Control Terminal II//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010415,
-mission_skill_config-11010500,
-mission_skill_config-21010500,
+mission_skill_config-11010500,Do not translate
+mission_skill_config-21010500,Do not translate
 mission_skill_config-31010500,
-mission_skill_config-11010501,
-mission_skill_config-21010501,
+mission_skill_config-11010501,Do not translate
+mission_skill_config-21010501,Do not translate
 mission_skill_config-31010501,
-mission_skill_config-11010502,
-mission_skill_config-21010502,
+mission_skill_config-11010502,Do not translate
+mission_skill_config-21010502,Do not translate
 mission_skill_config-31010502,
-mission_skill_config-11010503,
-mission_skill_config-21010503,
+mission_skill_config-11010503,Do not translate
+mission_skill_config-21010503,Do not translate
 mission_skill_config-31010503,
-mission_skill_config-11010504,
-mission_skill_config-21010504,
+mission_skill_config-11010504,Unlock Access
+mission_skill_config-21010504,Unlock the highest authorization level on Control Terminal V and access the control interface of all corresponding facilities.
 mission_skill_config-31010504,
-mission_skill_config-11010505,
-mission_skill_config-21010505,
+mission_skill_config-11010505,Freeze Access
+mission_skill_config-21010505,Freeze the highest authorization level on Control Terminal V//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010505,
-mission_skill_config-11010506,
-mission_skill_config-21010506,
+mission_skill_config-11010506,Unlock Access
+mission_skill_config-21010506,Unlock the highest authorization level on Control Terminal IV and access the control interface of all corresponding facilities.
 mission_skill_config-31010506,
-mission_skill_config-11010507,
-mission_skill_config-21010507,
+mission_skill_config-11010507,Freeze Access
+mission_skill_config-21010507,Freeze the highest authorization level on Control Terminal IV//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010507,
-mission_skill_config-11010508,
-mission_skill_config-21010508,
+mission_skill_config-11010508,Unlock Access
+mission_skill_config-21010508,Unlock the highest authorization level on Control Terminal II and access the control interface of all corresponding facilities.
 mission_skill_config-31010508,
-mission_skill_config-11010509,
-mission_skill_config-21010509,
+mission_skill_config-11010509,Freeze Access
+mission_skill_config-21010509,Freeze the highest authorization level on Control Terminal II//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010509,
-mission_skill_config-11010600,
-mission_skill_config-21010600,
+mission_skill_config-11010600,Do not translate
+mission_skill_config-21010600,Do not translate
 mission_skill_config-31010600,
-mission_skill_config-11010601,
-mission_skill_config-21010601,
+mission_skill_config-11010601,Do not translate
+mission_skill_config-21010601,Do not translate
 mission_skill_config-31010601,
-mission_skill_config-11010602,
-mission_skill_config-21010602,
+mission_skill_config-11010602,Do not translate
+mission_skill_config-21010602,Do not translate
 mission_skill_config-31010602,
-mission_skill_config-11010603,
-mission_skill_config-21010603,
+mission_skill_config-11010603,Do not translate
+mission_skill_config-21010603,Do not translate
 mission_skill_config-31010603,
-mission_skill_config-11010604,
-mission_skill_config-21010604,
+mission_skill_config-11010604,Unlock Access
+mission_skill_config-21010604,Unlock the highest authorization level on Control Terminal VI and access the control interface of all corresponding facilities.
 mission_skill_config-31010604,
-mission_skill_config-11010605,
-mission_skill_config-21010605,
+mission_skill_config-11010605,Freeze Access
+mission_skill_config-21010605,Freeze the highest authorization level on Control Terminal VI//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010605,
-mission_skill_config-11010606,
-mission_skill_config-21010606,
+mission_skill_config-11010606,Unlock Access
+mission_skill_config-21010606,Unlock the highest authorization level on Control Terminal V and access the control interface of all corresponding facilities.
 mission_skill_config-31010606,
-mission_skill_config-11010607,
-mission_skill_config-21010607,
+mission_skill_config-11010607,Freeze Access
+mission_skill_config-21010607,Freeze the highest authorization level on Control Terminal V//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010607,
-mission_skill_config-11010608,
-mission_skill_config-21010608,
+mission_skill_config-11010608,Unlock Access
+mission_skill_config-21010608,Unlock the highest authorization level on Control Terminal III and access the control interface of all corresponding facilities.
 mission_skill_config-31010608,
-mission_skill_config-11010609,
-mission_skill_config-21010609,
+mission_skill_config-11010609,Freeze Access
+mission_skill_config-21010609,Freeze the highest authorization level on Control Terminal III//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010609,
-mission_skill_config-11010700,
-mission_skill_config-21010700,
+mission_skill_config-11010700,Do not translate
+mission_skill_config-21010700,Do not translate
 mission_skill_config-31010700,
-mission_skill_config-11010701,
-mission_skill_config-21010701,
+mission_skill_config-11010701,Do not translate
+mission_skill_config-21010701,Do not translate
 mission_skill_config-31010701,
-mission_skill_config-11010702,
-mission_skill_config-21010702,
+mission_skill_config-11010702,Do not translate
+mission_skill_config-21010702,Do not translate
 mission_skill_config-31010702,
-mission_skill_config-11010703,
-mission_skill_config-21010703,
+mission_skill_config-11010703,Do not translate
+mission_skill_config-21010703,Do not translate
 mission_skill_config-31010703,
-mission_skill_config-11010704,
-mission_skill_config-21010704,
+mission_skill_config-11010704,Unlock Access
+mission_skill_config-21010704,Unlock the highest authorization level on Control Terminal VII and access the control interface of all corresponding facilities.
 mission_skill_config-31010704,
-mission_skill_config-11010705,
-mission_skill_config-21010705,
+mission_skill_config-11010705,Freeze Access
+mission_skill_config-21010705,Freeze the highest authorization level on Control Terminal VII//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010705,
-mission_skill_config-11010706,
-mission_skill_config-21010706,
+mission_skill_config-11010706,Unlock Access
+mission_skill_config-21010706,Unlock the highest authorization level on Control Terminal VI and access the control interface of all corresponding facilities.
 mission_skill_config-31010706,
-mission_skill_config-11010707,
-mission_skill_config-21010707,
+mission_skill_config-11010707,Freeze Access
+mission_skill_config-21010707,Freeze the highest authorization level on Control Terminal VI//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010707,
-mission_skill_config-11010800,
-mission_skill_config-21010800,
+mission_skill_config-11010800,Do not translate
+mission_skill_config-21010800,Do not translate
 mission_skill_config-31010800,
-mission_skill_config-11010801,
-mission_skill_config-21010801,
+mission_skill_config-11010801,Do not translate
+mission_skill_config-21010801,Do not translate
 mission_skill_config-31010801,
-mission_skill_config-11010802,
-mission_skill_config-21010802,
+mission_skill_config-11010802,Do not translate
+mission_skill_config-21010802,Do not translate
 mission_skill_config-31010802,
-mission_skill_config-11010803,
-mission_skill_config-21010803,
+mission_skill_config-11010803,Do not translate
+mission_skill_config-21010803,Do not translate
 mission_skill_config-31010803,
-mission_skill_config-11010804,
-mission_skill_config-21010804,
+mission_skill_config-11010804,Unlock Access
+mission_skill_config-21010804,Unlock the highest authorization level on Control Terminal VIII and access the control interface of all corresponding facilities.
 mission_skill_config-31010804,
-mission_skill_config-11010805,
-mission_skill_config-21010805,
+mission_skill_config-11010805,Freeze Access
+mission_skill_config-21010805,Freeze the highest authorization level on Control Terminal VIII//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010805,
-mission_skill_config-11010806,
-mission_skill_config-21010806,
+mission_skill_config-11010806,Unlock Access
+mission_skill_config-21010806,Unlock the highest authorization level on Control Terminal VI and access the control interface of all corresponding facilities.
 mission_skill_config-31010806,
-mission_skill_config-11010807,
-mission_skill_config-21010807,
+mission_skill_config-11010807,Freeze Access
+mission_skill_config-21010807,Freeze the highest authorization level on Control Terminal VI//c disconnecting it from other facilities and shutting down its control interface.
 mission_skill_config-31010807,
-mission_skill_config-11020100,
-mission_skill_config-21020100,
+mission_skill_config-11020100,Do not translate
+mission_skill_config-21020100,Do not translate
 mission_skill_config-31020100,
-mission_skill_config-11020101,
-mission_skill_config-21020101,
+mission_skill_config-11020101,Do not translate
+mission_skill_config-21020101,Do not translate
 mission_skill_config-31020101,
-mission_skill_config-11020102,
-mission_skill_config-21020102,
+mission_skill_config-11020102,Do not translate
+mission_skill_config-21020102,Do not translate
 mission_skill_config-31020102,
-mission_skill_config-11020103,
-mission_skill_config-21020103,
+mission_skill_config-11020103,Do not translate
+mission_skill_config-21020103,Do not translate
 mission_skill_config-31020103,
-mission_skill_config-11020104,
-mission_skill_config-21020104,
+mission_skill_config-11020104,Close Defense Gate I damage (against enemies)
+mission_skill_config-21020104,Close Defense Gate I damage (against enemies)
 mission_skill_config-31020104,
-mission_skill_config-11020105,
-mission_skill_config-21020105,
+mission_skill_config-11020105,Close Defense Gate I damage (against allies/hostages)
+mission_skill_config-21020105,Close Defense Gate I damage (against allies/hostages)
 mission_skill_config-31020105,
-mission_skill_config-11020106,
-mission_skill_config-21020106,
+mission_skill_config-11020106,Open Command (for Defense Gate I)
+mission_skill_config-21020106,Open Defense Gate I
 mission_skill_config-31020106,
-mission_skill_config-11020107,
-mission_skill_config-21020107,
+mission_skill_config-11020107,Close Command (for Defense Gate I)
+mission_skill_config-21020107,Close Defense Gate I
 mission_skill_config-31020107,
-mission_skill_config-11020108,
-mission_skill_config-21020108,
+mission_skill_config-11020108,Open Command (for Defense Gate I)
+mission_skill_config-21020108,Open Defense Gate I
 mission_skill_config-31020108,
-mission_skill_config-11020109,
-mission_skill_config-21020109,
+mission_skill_config-11020109,Close Command (for Defense Gate I)
+mission_skill_config-21020109,Close Defense Gate I
 mission_skill_config-31020109,
-mission_skill_config-11020110,
-mission_skill_config-21020110,
+mission_skill_config-11020110,Open Command (for Defense Gate I)
+mission_skill_config-21020110,Open Defense Gate I
 mission_skill_config-31020110,
-mission_skill_config-11020111,
-mission_skill_config-21020111,
+mission_skill_config-11020111,Close Command (for Defense Gate I)
+mission_skill_config-21020111,Close Defense Gate I
 mission_skill_config-31020111,
-mission_skill_config-11020112,
-mission_skill_config-21020112,
+mission_skill_config-11020112,Access Prompt
+mission_skill_config-21020112,You must unlock all Control Terminals I to gain access to operate Defense Gate I. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31020112,
-mission_skill_config-11020113,
-mission_skill_config-21020113,
+mission_skill_config-11020113,Open Command (for Defense Gate I)
+mission_skill_config-21020113,Open Defense Gate I
 mission_skill_config-31020113,
-mission_skill_config-11020114,
-mission_skill_config-21020114,
+mission_skill_config-11020114,Close Command (for Defense Gate I)
+mission_skill_config-21020114,Close Defense Gate I
 mission_skill_config-31020114,
-mission_skill_config-11020115,
-mission_skill_config-21020115,
+mission_skill_config-11020115,Open Command (for Defense Gate I)
+mission_skill_config-21020115,Open Defense Gate I
 mission_skill_config-31020115,
-mission_skill_config-11020116,
-mission_skill_config-21020116,
+mission_skill_config-11020116,Close Command (for Defense Gate I)
+mission_skill_config-21020116,Close Defense Gate I
 mission_skill_config-31020116,
-mission_skill_config-11020117,
-mission_skill_config-21020117,
+mission_skill_config-11020117,Access Prompt
+mission_skill_config-21020117,You must unlock all Control Terminals I to gain access to operate Defense Gate I. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31020117,
-mission_skill_config-11020118,
-mission_skill_config-21020118,
+mission_skill_config-11020118,Open Command (for Defense Gate I)
+mission_skill_config-21020118,Open Defense Gate I
 mission_skill_config-31020118,
-mission_skill_config-11020119,
-mission_skill_config-21020119,
+mission_skill_config-11020119,Close Command (for Defense Gate I)
+mission_skill_config-21020119,Close Defense Gate I
 mission_skill_config-31020119,
-mission_skill_config-11020120,
-mission_skill_config-21020120,
+mission_skill_config-11020120,Access Prompt
+mission_skill_config-21020120,Only one Control Terminal I can be unlocked at a time. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31020120,
-mission_skill_config-11020121,
-mission_skill_config-21020121,
+mission_skill_config-11020121,Open Command (for Defense Gate I)
+mission_skill_config-21020121,Open Defense Gate I
 mission_skill_config-31020121,
-mission_skill_config-11020122,
-mission_skill_config-21020122,
+mission_skill_config-11020122,Close Command (for Defense Gate I)
+mission_skill_config-21020122,Close Defense Gate I
 mission_skill_config-31020122,
-mission_skill_config-11020123,
-mission_skill_config-21020123,
+mission_skill_config-11020123,Access Prompt
+mission_skill_config-21020123,A specific Control Terminal I needs to be unlocked. As for the rest//c one needs to be unlocked while another left locked to gain access to operate Defense Gate I. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31020123,
-mission_skill_config-11020124,
-mission_skill_config-21020124,
+mission_skill_config-11020124,Do not translate
+mission_skill_config-21020124,Do not translate
 mission_skill_config-31020124,
-mission_skill_config-11020125,
-mission_skill_config-21020125,
+mission_skill_config-11020125,Do not translate
+mission_skill_config-21020125,Do not translate
 mission_skill_config-31020125,
-mission_skill_config-11020200,
-mission_skill_config-21020200,
+mission_skill_config-11020200,Do not translate
+mission_skill_config-21020200,Do not translate
 mission_skill_config-31020200,
-mission_skill_config-11020201,
-mission_skill_config-21020201,
+mission_skill_config-11020201,Do not translate
+mission_skill_config-21020201,Do not translate
 mission_skill_config-31020201,
-mission_skill_config-11020202,
-mission_skill_config-21020202,
+mission_skill_config-11020202,Do not translate
+mission_skill_config-21020202,Do not translate
 mission_skill_config-31020202,
-mission_skill_config-11020203,
-mission_skill_config-21020203,
+mission_skill_config-11020203,Do not translate
+mission_skill_config-21020203,Do not translate
 mission_skill_config-31020203,
-mission_skill_config-11020204,
-mission_skill_config-21020204,
+mission_skill_config-11020204,Close Defense Gate II damage (against enemies)
+mission_skill_config-21020204,Close Defense Gate II damage (against enemies)
 mission_skill_config-31020204,
-mission_skill_config-11020205,
-mission_skill_config-21020205,
+mission_skill_config-11020205,Close Defense Gate II damage (against allies/hostages)
+mission_skill_config-21020205,Close Defense Gate II damage (against allies/hostages)
 mission_skill_config-31020205,
-mission_skill_config-11020206,
-mission_skill_config-21020206,
+mission_skill_config-11020206,Open Command (for Defense Gate II)
+mission_skill_config-21020206,Open Defense Gate II
 mission_skill_config-31020206,
-mission_skill_config-11020207,
-mission_skill_config-21020207,
+mission_skill_config-11020207,Close Command (for Defense Gate II)
+mission_skill_config-21020207,Close Defense Gate II
 mission_skill_config-31020207,
-mission_skill_config-11020208,
-mission_skill_config-21020208,
+mission_skill_config-11020208,Open Command (for Defense Gate II)
+mission_skill_config-21020208,Open Defense Gate II
 mission_skill_config-31020208,
-mission_skill_config-11020209,
-mission_skill_config-21020209,
+mission_skill_config-11020209,Close Command (for Defense Gate II)
+mission_skill_config-21020209,Close Defense Gate II
 mission_skill_config-31020209,
-mission_skill_config-11020210,
-mission_skill_config-21020210,
+mission_skill_config-11020210,Open Command (for Defense Gate II)
+mission_skill_config-21020210,Open Defense Gate II
 mission_skill_config-31020210,
-mission_skill_config-11020211,
-mission_skill_config-21020211,
+mission_skill_config-11020211,Close Command (for Defense Gate II)
+mission_skill_config-21020211,Close Defense Gate II
 mission_skill_config-31020211,
-mission_skill_config-11020212,
-mission_skill_config-21020212,
+mission_skill_config-11020212,Access Prompt
+mission_skill_config-21020212,Prerequisite: unlock Control Terminal I. The Control Terminal II that can control Defense Gate II changes according to which Terminal I is unlocked. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31020212,
-mission_skill_config-11020213,
-mission_skill_config-21020213,
+mission_skill_config-11020213,Open Command (for Defense Gate II)
+mission_skill_config-21020213,Open Defense Gate II
 mission_skill_config-31020213,
-mission_skill_config-11020214,
-mission_skill_config-21020214,
+mission_skill_config-11020214,Close Command (for Defense Gate II)
+mission_skill_config-21020214,Close Defense Gate II
 mission_skill_config-31020214,
-mission_skill_config-11020215,
-mission_skill_config-21020215,
+mission_skill_config-11020215,Open Command (for Defense Gate II)
+mission_skill_config-21020215,Open Defense Gate II
 mission_skill_config-31020215,
-mission_skill_config-11020216,
-mission_skill_config-21020216,
+mission_skill_config-11020216,Close Command (for Defense Gate II)
+mission_skill_config-21020216,Close Defense Gate II
 mission_skill_config-31020216,
-mission_skill_config-11020217,
-mission_skill_config-21020217,
+mission_skill_config-11020217,Access Prompt
+mission_skill_config-21020217,You can only gain access to operate Defense Gate II when all Control Terminals II are unlocked while Control Terminal I remains locked. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31020217,
-mission_skill_config-11020300,
-mission_skill_config-21020300,
+mission_skill_config-11020300,Do not translate
+mission_skill_config-21020300,Do not translate
 mission_skill_config-31020300,
-mission_skill_config-11020301,
-mission_skill_config-21020301,
+mission_skill_config-11020301,Do not translate
+mission_skill_config-21020301,Do not translate
 mission_skill_config-31020301,
-mission_skill_config-11020302,
-mission_skill_config-21020302,
+mission_skill_config-11020302,Do not translate
+mission_skill_config-21020302,Do not translate
 mission_skill_config-31020302,
-mission_skill_config-11020303,
-mission_skill_config-21020303,
+mission_skill_config-11020303,Do not translate
+mission_skill_config-21020303,Do not translate
 mission_skill_config-31020303,
-mission_skill_config-11020304,
-mission_skill_config-21020304,
+mission_skill_config-11020304,Close Defense Gate III damage (against enemies)
+mission_skill_config-21020304,Close Defense Gate III damage (against enemies)
 mission_skill_config-31020304,
-mission_skill_config-11020305,
-mission_skill_config-21020305,
+mission_skill_config-11020305,Close Defense Gate III damage (against allies/hostages)
+mission_skill_config-21020305,Close Defense Gate III damage (against allies/hostages)
 mission_skill_config-31020305,
-mission_skill_config-11020306,
-mission_skill_config-21020306,
+mission_skill_config-11020306,Open Command (for Defense Gate III)
+mission_skill_config-21020306,Open Defense Gate III
 mission_skill_config-31020306,
-mission_skill_config-11020307,
-mission_skill_config-21020307,
+mission_skill_config-11020307,Close Command (for Defense Gate III)
+mission_skill_config-21020307,Close Defense Gate III
 mission_skill_config-31020307,
-mission_skill_config-11020308,
-mission_skill_config-21020308,
+mission_skill_config-11020308,Open Command (for Defense Gate III)
+mission_skill_config-21020308,Open Defense Gate III
 mission_skill_config-31020308,
-mission_skill_config-11020309,
-mission_skill_config-21020309,
+mission_skill_config-11020309,Close Command (for Defense Gate III)
+mission_skill_config-21020309,Close Defense Gate III
 mission_skill_config-31020309,
-mission_skill_config-11020310,
-mission_skill_config-21020310,
+mission_skill_config-11020310,Open Command (for Defense Gate III)
+mission_skill_config-21020310,Open Defense Gate III
 mission_skill_config-31020310,
-mission_skill_config-11020311,
-mission_skill_config-21020311,
+mission_skill_config-11020311,Close Command (for Defense Gate III)
+mission_skill_config-21020311,Close Defense Gate III
 mission_skill_config-31020311,
-mission_skill_config-11020312,
-mission_skill_config-21020312,
+mission_skill_config-11020312,Access Prompt
+mission_skill_config-21020312,Prerequisite: unlock Control Terminal I. The Control Terminal III that can control Defense Gate III changes according to which Terminal I is unlocked. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31020312,
-mission_skill_config-11020400,
-mission_skill_config-21020400,
+mission_skill_config-11020400,Do not translate
+mission_skill_config-21020400,Do not translate
 mission_skill_config-31020400,
-mission_skill_config-11020401,
-mission_skill_config-21020401,
+mission_skill_config-11020401,Do not translate
+mission_skill_config-21020401,Do not translate
 mission_skill_config-31020401,
-mission_skill_config-11020402,
-mission_skill_config-21020402,
+mission_skill_config-11020402,Do not translate
+mission_skill_config-21020402,Do not translate
 mission_skill_config-31020402,
-mission_skill_config-11020403,
-mission_skill_config-21020403,
+mission_skill_config-11020403,Do not translate
+mission_skill_config-21020403,Do not translate
 mission_skill_config-31020403,
-mission_skill_config-11020404,
-mission_skill_config-21020404,
+mission_skill_config-11020404,Close Defense Gate IV damage (against enemies)
+mission_skill_config-21020404,Close Defense Gate IV damage (against enemies)
 mission_skill_config-31020404,
-mission_skill_config-11020405,
-mission_skill_config-21020405,
+mission_skill_config-11020405,Close Defense Gate IV damage (against allies/hostages)
+mission_skill_config-21020405,Close Defense Gate IV damage (against allies/hostages)
 mission_skill_config-31020405,
-mission_skill_config-11020406,
-mission_skill_config-21020406,
+mission_skill_config-11020406,Open Command (for Defense Gate IV)
+mission_skill_config-21020406,Open Defense Gate IV
 mission_skill_config-31020406,
-mission_skill_config-11020407,
-mission_skill_config-21020407,
+mission_skill_config-11020407,Close Command (for Defense Gate IV)
+mission_skill_config-21020407,Close Defense Gate IV
 mission_skill_config-31020407,
-mission_skill_config-11020408,
-mission_skill_config-21020408,
+mission_skill_config-11020408,Open Command (for Defense Gate III)
+mission_skill_config-21020408,Open Defense Gate III
 mission_skill_config-31020408,
-mission_skill_config-11020409,
-mission_skill_config-21020409,
+mission_skill_config-11020409,Close Command (for Defense Gate III)
+mission_skill_config-21020409,Close Defense Gate III
 mission_skill_config-31020409,
-mission_skill_config-11020500,
-mission_skill_config-21020500,
+mission_skill_config-11020500,Do not translate
+mission_skill_config-21020500,Do not translate
 mission_skill_config-31020500,
-mission_skill_config-11020501,
-mission_skill_config-21020501,
+mission_skill_config-11020501,Do not translate
+mission_skill_config-21020501,Do not translate
 mission_skill_config-31020501,
-mission_skill_config-11020502,
-mission_skill_config-21020502,
+mission_skill_config-11020502,Do not translate
+mission_skill_config-21020502,Do not translate
 mission_skill_config-31020502,
-mission_skill_config-11020503,
-mission_skill_config-21020503,
+mission_skill_config-11020503,Do not translate
+mission_skill_config-21020503,Do not translate
 mission_skill_config-31020503,
-mission_skill_config-11020504,
-mission_skill_config-21020504,
+mission_skill_config-11020504,Close Defense Gate V damage (against enemies)
+mission_skill_config-21020504,Close Defense Gate V damage (against enemies)
 mission_skill_config-31020504,
-mission_skill_config-11020505,
-mission_skill_config-21020505,
+mission_skill_config-11020505,Close Defense Gate V damage (against allies/hostages)
+mission_skill_config-21020505,Close Defense Gate V damage (against allies/hostages)
 mission_skill_config-31020505,
-mission_skill_config-11020506,
-mission_skill_config-21020506,
+mission_skill_config-11020506,Open Command (for Defense Gate V)
+mission_skill_config-21020506,Open Defense Gate V
 mission_skill_config-31020506,
-mission_skill_config-11020507,
-mission_skill_config-21020507,
+mission_skill_config-11020507,Close Command (for Defense Gate V)
+mission_skill_config-21020507,Close Defense Gate V
 mission_skill_config-31020507,
-mission_skill_config-11020508,
-mission_skill_config-21020508,
+mission_skill_config-11020508,Open Command (for Defense Gate IV)
+mission_skill_config-21020508,Open Defense Gate IV
 mission_skill_config-31020508,
-mission_skill_config-11020509,
-mission_skill_config-21020509,
+mission_skill_config-11020509,Close Command (for Defense Gate IV)
+mission_skill_config-21020509,Close Defense Gate IV
 mission_skill_config-31020509,
-mission_skill_config-11020600,
-mission_skill_config-21020600,
+mission_skill_config-11020600,Do not translate
+mission_skill_config-21020600,Do not translate
 mission_skill_config-31020600,
-mission_skill_config-11020601,
-mission_skill_config-21020601,
+mission_skill_config-11020601,Do not translate
+mission_skill_config-21020601,Do not translate
 mission_skill_config-31020601,
-mission_skill_config-11020602,
-mission_skill_config-21020602,
+mission_skill_config-11020602,Do not translate
+mission_skill_config-21020602,Do not translate
 mission_skill_config-31020602,
-mission_skill_config-11020603,
-mission_skill_config-21020603,
+mission_skill_config-11020603,Do not translate
+mission_skill_config-21020603,Do not translate
 mission_skill_config-31020603,
-mission_skill_config-11020604,
-mission_skill_config-21020604,
+mission_skill_config-11020604,Close Defense Gate VI damage (against enemies)
+mission_skill_config-21020604,Close Defense Gate VI damage (against enemies)
 mission_skill_config-31020604,
-mission_skill_config-11020605,
-mission_skill_config-21020605,
+mission_skill_config-11020605,Close Defense Gate VI damage (against allies/hostages)
+mission_skill_config-21020605,Close Defense Gate VI damage (against allies/hostages)
 mission_skill_config-31020605,
-mission_skill_config-11020606,
-mission_skill_config-21020606,
+mission_skill_config-11020606,Open Command (for Defense Gate VI)
+mission_skill_config-21020606,Open Defense Gate VI
 mission_skill_config-31020606,
-mission_skill_config-11020607,
-mission_skill_config-21020607,
+mission_skill_config-11020607,Close Command (for Defense Gate VI)
+mission_skill_config-21020607,Close Defense Gate VI
 mission_skill_config-31020607,
-mission_skill_config-11020608,
-mission_skill_config-21020608,
+mission_skill_config-11020608,Open Command (for Defense Gate V)
+mission_skill_config-21020608,Open Defense Gate V
 mission_skill_config-31020608,
-mission_skill_config-11020609,
-mission_skill_config-21020609,
+mission_skill_config-11020609,Close Command (for Defense Gate V)
+mission_skill_config-21020609,Close Defense Gate V
 mission_skill_config-31020609,
-mission_skill_config-11030100,
-mission_skill_config-21030100,
+mission_skill_config-11030100,Do not translate
+mission_skill_config-21030100,Do not translate
 mission_skill_config-31030100,
-mission_skill_config-11030101,
-mission_skill_config-21030101,
+mission_skill_config-11030101,Pick Up
+mission_skill_config-21030101,Have an echelon pick up a portion of explosives. ※ Each echelon can only pick up one portion of explosives.
 mission_skill_config-31030101,
-mission_skill_config-11030200,
-mission_skill_config-21030200,
+mission_skill_config-11030200,Do not translate
+mission_skill_config-21030200,Do not translate
 mission_skill_config-31030200,
-mission_skill_config-11030201,
-mission_skill_config-21030201,
+mission_skill_config-11030201,Pick Up
+mission_skill_config-21030201,Have an echelon pick up a portion of explosives. ※ Each echelon can only pick up one portion of explosives.
 mission_skill_config-31030201,
-mission_skill_config-11030300,
-mission_skill_config-21030300,
+mission_skill_config-11030300,Do not translate
+mission_skill_config-21030300,Do not translate
 mission_skill_config-31030300,
-mission_skill_config-11030301,
-mission_skill_config-21030301,
+mission_skill_config-11030301,Pick Up
+mission_skill_config-21030301,Have an echelon pick up a portion of explosives. ※ Each echelon can only pick up one portion of explosives.
 mission_skill_config-31030301,
-mission_skill_config-11030400,
-mission_skill_config-21030400,
+mission_skill_config-11030400,Do not translate
+mission_skill_config-21030400,Do not translate
 mission_skill_config-31030400,
-mission_skill_config-11030401,
-mission_skill_config-21030401,
+mission_skill_config-11030401,Pick Up
+mission_skill_config-21030401,Have an echelon pick up a portion of explosives. ※ Each echelon can only pick up one portion of explosives.
 mission_skill_config-31030401,
-mission_skill_config-11030500,
-mission_skill_config-21030500,
+mission_skill_config-11030500,Do not translate
+mission_skill_config-21030500,Do not translate
 mission_skill_config-31030500,
-mission_skill_config-11030501,
-mission_skill_config-21030501,
+mission_skill_config-11030501,Pick Up
+mission_skill_config-21030501,Have an echelon pick up a portion of explosives. ※ Each echelon can only pick up one portion of explosives.
 mission_skill_config-31030501,
-mission_skill_config-11030600,
-mission_skill_config-21030600,
+mission_skill_config-11030600,Do not translate
+mission_skill_config-21030600,Do not translate
 mission_skill_config-31030600,
-mission_skill_config-11030601,
-mission_skill_config-21030601,
+mission_skill_config-11030601,Pick Up
+mission_skill_config-21030601,Have an echelon pick up a portion of explosives. ※ Each echelon can only pick up one portion of explosives.
 mission_skill_config-31030601,
-mission_skill_config-11040100,
-mission_skill_config-21040100,
+mission_skill_config-11040100,Do not translate
+mission_skill_config-21040100,Do not translate
 mission_skill_config-31040100,
-mission_skill_config-11040101,
-mission_skill_config-21040101,
+mission_skill_config-11040101,Do not translate
+mission_skill_config-21040101,Do not translate
 mission_skill_config-31040101,
-mission_skill_config-11040200,
-mission_skill_config-21040200,
+mission_skill_config-11040200,Do not translate
+mission_skill_config-21040200,Do not translate
 mission_skill_config-31040200,
-mission_skill_config-11040201,
-mission_skill_config-21040201,
+mission_skill_config-11040201,Do not translate
+mission_skill_config-21040201,Do not translate
 mission_skill_config-31040201,
-mission_skill_config-11040300,
-mission_skill_config-21040300,
+mission_skill_config-11040300,Do not translate
+mission_skill_config-21040300,Do not translate
 mission_skill_config-31040300,
-mission_skill_config-11040301,
-mission_skill_config-21040301,
+mission_skill_config-11040301,Do not translate
+mission_skill_config-21040301,Do not translate
 mission_skill_config-31040301,
-mission_skill_config-11040400,
-mission_skill_config-21040400,
+mission_skill_config-11040400,Do not translate
+mission_skill_config-21040400,Do not translate
 mission_skill_config-31040400,
-mission_skill_config-11040401,
-mission_skill_config-21040401,
+mission_skill_config-11040401,Do not translate
+mission_skill_config-21040401,Do not translate
 mission_skill_config-31040401,
-mission_skill_config-11040500,
-mission_skill_config-21040500,
+mission_skill_config-11040500,Do not translate
+mission_skill_config-21040500,Do not translate
 mission_skill_config-31040500,
-mission_skill_config-11040501,
-mission_skill_config-21040501,
+mission_skill_config-11040501,Do not translate
+mission_skill_config-21040501,Do not translate
 mission_skill_config-31040501,
-mission_skill_config-11040600,
-mission_skill_config-21040600,
+mission_skill_config-11040600,Do not translate
+mission_skill_config-21040600,Do not translate
 mission_skill_config-31040600,
-mission_skill_config-11040601,
-mission_skill_config-21040601,
+mission_skill_config-11040601,Do not translate
+mission_skill_config-21040601,Do not translate
 mission_skill_config-31040601,
-mission_skill_config-11050100,
-mission_skill_config-21050100,
+mission_skill_config-11050100,Do not translate
+mission_skill_config-21050100,Do not translate
 mission_skill_config-31050100,
-mission_skill_config-11050101,
-mission_skill_config-21050101,
+mission_skill_config-11050101,Do not translate
+mission_skill_config-21050101,Do not translate
 mission_skill_config-31050101,
-mission_skill_config-11050200,
-mission_skill_config-21050200,
+mission_skill_config-11050200,Do not translate
+mission_skill_config-21050200,Do not translate
 mission_skill_config-31050200,
-mission_skill_config-11050201,
-mission_skill_config-21050201,
+mission_skill_config-11050201,Do not translate
+mission_skill_config-21050201,Do not translate
 mission_skill_config-31050201,
-mission_skill_config-11050300,
-mission_skill_config-21050300,
+mission_skill_config-11050300,Do not translate
+mission_skill_config-21050300,Do not translate
 mission_skill_config-31050300,
-mission_skill_config-11050301,
-mission_skill_config-21050301,
+mission_skill_config-11050301,Do not translate
+mission_skill_config-21050301,Do not translate
 mission_skill_config-31050301,
-mission_skill_config-11050400,
-mission_skill_config-21050400,
+mission_skill_config-11050400,Do not translate
+mission_skill_config-21050400,Do not translate
 mission_skill_config-31050400,
-mission_skill_config-11050401,
-mission_skill_config-21050401,
+mission_skill_config-11050401,Do not translate
+mission_skill_config-21050401,Do not translate
 mission_skill_config-31050401,
-mission_skill_config-11050500,
-mission_skill_config-21050500,
+mission_skill_config-11050500,Do not translate
+mission_skill_config-21050500,Do not translate
 mission_skill_config-31050500,
-mission_skill_config-11050501,
-mission_skill_config-21050501,
+mission_skill_config-11050501,Do not translate
+mission_skill_config-21050501,Do not translate
 mission_skill_config-31050501,
-mission_skill_config-11050600,
-mission_skill_config-21050600,
+mission_skill_config-11050600,Do not translate
+mission_skill_config-21050600,Do not translate
 mission_skill_config-31050600,
-mission_skill_config-11050601,
-mission_skill_config-21050601,
+mission_skill_config-11050601,Do not translate
+mission_skill_config-21050601,Do not translate
 mission_skill_config-31050601,
-mission_skill_config-11060100,
-mission_skill_config-21060100,
+mission_skill_config-11060100,Do not translate
+mission_skill_config-21060100,Do not translate
 mission_skill_config-31060100,
-mission_skill_config-11060101,
-mission_skill_config-21060101,
+mission_skill_config-11060101,Do not translate
+mission_skill_config-21060101,Do not translate
 mission_skill_config-31060101,
-mission_skill_config-11060102,
-mission_skill_config-21060102,
+mission_skill_config-11060102,Do not translate
+mission_skill_config-21060102,Do not translate
 mission_skill_config-31060102,
-mission_skill_config-11060103,
-mission_skill_config-21060103,
+mission_skill_config-11060103,Do not translate
+mission_skill_config-21060103,Do not translate
 mission_skill_config-31060103,
-mission_skill_config-11060104,
-mission_skill_config-21060104,
+mission_skill_config-11060104,Artillery Cooldown (for Control Terminal I) (on cooldown for 2 turns)
+mission_skill_config-21060104,On cooldown for 2 turns
 mission_skill_config-31060104,
-mission_skill_config-11060105,
-mission_skill_config-21060105,
+mission_skill_config-11060105,Deactivate Command (for Artillery Position I)
+mission_skill_config-21060105,Deactivate Artillery Position I
 mission_skill_config-31060105,
-mission_skill_config-11060106,
-mission_skill_config-21060106,
+mission_skill_config-11060106,Activate Command (for Artillery Position I)
+mission_skill_config-21060106,Activate Artillery Position I
 mission_skill_config-31060106,
-mission_skill_config-11060107,
-mission_skill_config-21060107,
+mission_skill_config-11060107,Bombard Command (for Artillery Position I)
+mission_skill_config-21060107,Bombard all enemies within the range of one node around Artillery Position I//c dealing damage that equals 60% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060107,
-mission_skill_config-11060108,
-mission_skill_config-21060108,
+mission_skill_config-11060108,Bombard Command (for Artillery Position I)
+mission_skill_config-21060108,Bombard all enemies within the range of one node around Artillery Position I//c dealing damage that equals 80% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060108,
-mission_skill_config-11060109,
-mission_skill_config-21060109,
+mission_skill_config-11060109,Deactivate Command (for Artillery Position I)
+mission_skill_config-21060109,Deactivate Artillery Position I
 mission_skill_config-31060109,
-mission_skill_config-11060110,
-mission_skill_config-21060110,
+mission_skill_config-11060110,Activate Command (for Artillery Position I)
+mission_skill_config-21060110,Activate Artillery Position I
 mission_skill_config-31060110,
-mission_skill_config-11060111,
-mission_skill_config-21060111,
+mission_skill_config-11060111,Bombard Command (for Artillery Position I)
+mission_skill_config-21060111,Bombard all enemies within the range of one node around Artillery Position I//c dealing damage that equals 40% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060111,
-mission_skill_config-11060112,
-mission_skill_config-21060112,
+mission_skill_config-11060112,Bombard Command (for Artillery Position I)
+mission_skill_config-21060112,Bombard enemies at Artillery Position II//c dealing damage that equals 60% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060112,
-mission_skill_config-11060200,
-mission_skill_config-21060200,
+mission_skill_config-11060200,Do not translate
+mission_skill_config-21060200,Do not translate
 mission_skill_config-31060200,
-mission_skill_config-11060201,
-mission_skill_config-21060201,
+mission_skill_config-11060201,Do not translate
+mission_skill_config-21060201,Do not translate
 mission_skill_config-31060201,
-mission_skill_config-11060202,
-mission_skill_config-21060202,
+mission_skill_config-11060202,Do not translate
+mission_skill_config-21060202,Do not translate
 mission_skill_config-31060202,
-mission_skill_config-11060203,
-mission_skill_config-21060203,
+mission_skill_config-11060203,Do not translate
+mission_skill_config-21060203,Do not translate
 mission_skill_config-31060203,
-mission_skill_config-11060204,
-mission_skill_config-21060204,
+mission_skill_config-11060204,Artillery Cooldown (for Control Terminal II) (on cooldown for 2 turns)
+mission_skill_config-21060204,On cooldown for 2 turns
 mission_skill_config-31060204,
-mission_skill_config-11060205,
-mission_skill_config-21060205,
+mission_skill_config-11060205,Deactivate Command (for Artillery Position II)
+mission_skill_config-21060205,Deactivate Artillery Position II
 mission_skill_config-31060205,
-mission_skill_config-11060206,
-mission_skill_config-21060206,
+mission_skill_config-11060206,Activate Command (for Artillery Position II)
+mission_skill_config-21060206,Activate Artillery Position II
 mission_skill_config-31060206,
-mission_skill_config-11060207,
-mission_skill_config-21060207,
+mission_skill_config-11060207,Bombard Command (for Artillery Position II)
+mission_skill_config-21060207,Bombard all enemies within the range of one node around Artillery Position II//c dealing damage that equals 60% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060207,
-mission_skill_config-11060208,
-mission_skill_config-21060208,
+mission_skill_config-11060208,Bombard Command (for Artillery Position II)
+mission_skill_config-21060208,Bombard all enemies within the range of one node around Artillery Position II//c dealing damage that equals 80% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060208,
-mission_skill_config-11060209,
-mission_skill_config-21060209,
+mission_skill_config-11060209,Deactivate Command (for Artillery Position II)
+mission_skill_config-21060209,Deactivate Artillery Position II
 mission_skill_config-31060209,
-mission_skill_config-11060210,
-mission_skill_config-21060210,
+mission_skill_config-11060210,Activate Command (for Artillery Position II)
+mission_skill_config-21060210,Activate Artillery Position II
 mission_skill_config-31060210,
-mission_skill_config-11060211,
-mission_skill_config-21060211,
+mission_skill_config-11060211,Bombard Command (for Artillery Position II)
+mission_skill_config-21060211,Bombard all enemies within the range of one node around Artillery Position II//c dealing damage that equals 40% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060211,
-mission_skill_config-11060212,
-mission_skill_config-21060212,
+mission_skill_config-11060212,Artillery Cooldown (for Control Terminal I) (on cooldown for 2 turns)
+mission_skill_config-21060212,On cooldown for 2 turns
 mission_skill_config-31060212,
-mission_skill_config-11060213,
-mission_skill_config-21060213,
+mission_skill_config-11060213,Deactivate Command (for Artillery Position II)
+mission_skill_config-21060213,Deactivate Artillery Position II
 mission_skill_config-31060213,
-mission_skill_config-11060214,
-mission_skill_config-21060214,
+mission_skill_config-11060214,Activate Command (for Artillery Position II)
+mission_skill_config-21060214,Activate Artillery Position II
 mission_skill_config-31060214,
-mission_skill_config-11060215,
-mission_skill_config-21060215,
+mission_skill_config-11060215,Bombard Command (for Artillery Position II)
+mission_skill_config-21060215,Bombard enemies at Artillery Position II//c dealing damage that equals 60% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060215,
-mission_skill_config-11060300,
-mission_skill_config-21060300,
+mission_skill_config-11060300,Do not translate
+mission_skill_config-21060300,Do not translate
 mission_skill_config-31060300,
-mission_skill_config-11060301,
-mission_skill_config-21060301,
+mission_skill_config-11060301,Do not translate
+mission_skill_config-21060301,Do not translate
 mission_skill_config-31060301,
-mission_skill_config-11060302,
-mission_skill_config-21060302,
+mission_skill_config-11060302,Do not translate
+mission_skill_config-21060302,Do not translate
 mission_skill_config-31060302,
-mission_skill_config-11060303,
-mission_skill_config-21060303,
+mission_skill_config-11060303,Do not translate
+mission_skill_config-21060303,Do not translate
 mission_skill_config-31060303,
-mission_skill_config-11060304,
-mission_skill_config-21060304,
+mission_skill_config-11060304,Artillery Cooldown (for Control Terminal III) (on cooldown for 2 turns)
+mission_skill_config-21060304,On cooldown for 2 turns
 mission_skill_config-31060304,
-mission_skill_config-11060305,
-mission_skill_config-21060305,
+mission_skill_config-11060305,Deactivate Command (for Artillery Position III)
+mission_skill_config-21060305,Deactivate Artillery Position III
 mission_skill_config-31060305,
-mission_skill_config-11060306,
-mission_skill_config-21060306,
+mission_skill_config-11060306,Activate Command (for Artillery Position III)
+mission_skill_config-21060306,Activate Artillery Position III
 mission_skill_config-31060306,
-mission_skill_config-11060307,
-mission_skill_config-21060307,
+mission_skill_config-11060307,Bombard Command (for Artillery Position III)
+mission_skill_config-21060307,Bombard all enemies within the range of one node around Artillery Position III//c dealing damage that equals 60% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060307,
-mission_skill_config-11060308,
-mission_skill_config-21060308,
+mission_skill_config-11060308,Deactivate Command (for Artillery Position III)
+mission_skill_config-21060308,Deactivate Artillery Position III
 mission_skill_config-31060308,
-mission_skill_config-11060309,
-mission_skill_config-21060309,
+mission_skill_config-11060309,Activate Command (for Artillery Position III)
+mission_skill_config-21060309,Activate Artillery Position III
 mission_skill_config-31060309,
-mission_skill_config-11060310,
-mission_skill_config-21060310,
+mission_skill_config-11060310,Bombard Command (for Artillery Position III)
+mission_skill_config-21060310,Bombard all enemies within the range of one node around Artillery Position III//c dealing damage that equals 60% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060310,
-mission_skill_config-11060311,
-mission_skill_config-21060311,
+mission_skill_config-11060311,Access Prompt
+mission_skill_config-21060311,You must unlock all Control Terminals to gain access to operate Artillery Position III. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31060311,
-mission_skill_config-11060312,
-mission_skill_config-21060312,
+mission_skill_config-11060312,Artillery Cooldown (for Control Terminal IV) (on cooldown for 2 turns)
+mission_skill_config-21060312,On cooldown for 2 turns
 mission_skill_config-31060312,
-mission_skill_config-11060313,
-mission_skill_config-21060313,
+mission_skill_config-11060313,Deactivate Command (for Artillery Position III)
+mission_skill_config-21060313,Deactivate Artillery Position III
 mission_skill_config-31060313,
-mission_skill_config-11060314,
-mission_skill_config-21060314,
+mission_skill_config-11060314,Activate Command (for Artillery Position III)
+mission_skill_config-21060314,Activate Artillery Position III
 mission_skill_config-31060314,
-mission_skill_config-11060315,
-mission_skill_config-21060315,
+mission_skill_config-11060315,Bombard Command (for Artillery Position III)
+mission_skill_config-21060315,Bombard a specific node//c dealing damage that equals 99% of the present enemies' health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060315,
-mission_skill_config-11060316,
-mission_skill_config-21060316,
+mission_skill_config-11060316,Access Prompt
+mission_skill_config-21060316,Commands can only be issued to Artillery Position III from Control Terminal III when access is frozen on Control Terminals IV and V. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31060316,
-mission_skill_config-11060400,
-mission_skill_config-21060400,
+mission_skill_config-11060400,Do not translate
+mission_skill_config-21060400,Do not translate
 mission_skill_config-31060400,
-mission_skill_config-11060401,
-mission_skill_config-21060401,
+mission_skill_config-11060401,Do not translate
+mission_skill_config-21060401,Do not translate
 mission_skill_config-31060401,
-mission_skill_config-11060402,
-mission_skill_config-21060402,
+mission_skill_config-11060402,Do not translate
+mission_skill_config-21060402,Do not translate
 mission_skill_config-31060402,
-mission_skill_config-11060403,
-mission_skill_config-21060403,
+mission_skill_config-11060403,Do not translate
+mission_skill_config-21060403,Do not translate
 mission_skill_config-31060403,
-mission_skill_config-11060404,
-mission_skill_config-21060404,
+mission_skill_config-11060404,Artillery Cooldown (for Control Terminal IV) (on cooldown for 2 turns)
+mission_skill_config-21060404,On cooldown for 2 turns
 mission_skill_config-31060404,
-mission_skill_config-11060405,
-mission_skill_config-21060405,
+mission_skill_config-11060405,Deactivate Command (for Artillery Position IV)
+mission_skill_config-21060405,Deactivate Artillery Position IV
 mission_skill_config-31060405,
-mission_skill_config-11060406,
-mission_skill_config-21060406,
+mission_skill_config-11060406,Activate Command (for Artillery Position IV)
+mission_skill_config-21060406,Activate Artillery Position IV
 mission_skill_config-31060406,
-mission_skill_config-11060407,
-mission_skill_config-21060407,
+mission_skill_config-11060407,Bombard Command (for Artillery Position IV)
+mission_skill_config-21060407,Bombard all enemies within the range of one node around Artillery Position IV//c dealing damage that equals 60% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060407,
-mission_skill_config-11060500,
-mission_skill_config-21060500,
+mission_skill_config-11060500,Do not translate
+mission_skill_config-21060500,Do not translate
 mission_skill_config-31060500,
-mission_skill_config-11060501,
-mission_skill_config-21060501,
+mission_skill_config-11060501,Do not translate
+mission_skill_config-21060501,Do not translate
 mission_skill_config-31060501,
-mission_skill_config-11060502,
-mission_skill_config-21060502,
+mission_skill_config-11060502,Do not translate
+mission_skill_config-21060502,Do not translate
 mission_skill_config-31060502,
-mission_skill_config-11060503,
-mission_skill_config-21060503,
+mission_skill_config-11060503,Do not translate
+mission_skill_config-21060503,Do not translate
 mission_skill_config-31060503,
-mission_skill_config-11060504,
-mission_skill_config-21060504,
+mission_skill_config-11060504,Artillery Cooldown (for Control Terminal V) (on cooldown for 2 turns)
+mission_skill_config-21060504,On cooldown for 2 turns
 mission_skill_config-31060504,
-mission_skill_config-11060505,
-mission_skill_config-21060505,
+mission_skill_config-11060505,Deactivate Command (for Artillery Position V)
+mission_skill_config-21060505,Deactivate Artillery Position V
 mission_skill_config-31060505,
-mission_skill_config-11060506,
-mission_skill_config-21060506,
+mission_skill_config-11060506,Activate Command (for Artillery Position V)
+mission_skill_config-21060506,Activate Artillery Position V
 mission_skill_config-31060506,
-mission_skill_config-11060507,
-mission_skill_config-21060507,
+mission_skill_config-11060507,Bombard Command (for Artillery Position V)
+mission_skill_config-21060507,Bombard all enemies within the range of one node around Artillery Position V//c dealing damage that equals 60% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060507,
-mission_skill_config-11060600,
-mission_skill_config-21060600,
+mission_skill_config-11060600,Do not translate
+mission_skill_config-21060600,Do not translate
 mission_skill_config-31060600,
-mission_skill_config-11060601,
-mission_skill_config-21060601,
+mission_skill_config-11060601,Do not translate
+mission_skill_config-21060601,Do not translate
 mission_skill_config-31060601,
-mission_skill_config-11060602,
-mission_skill_config-21060602,
+mission_skill_config-11060602,Do not translate
+mission_skill_config-21060602,Do not translate
 mission_skill_config-31060602,
-mission_skill_config-11060603,
-mission_skill_config-21060603,
+mission_skill_config-11060603,Do not translate
+mission_skill_config-21060603,Do not translate
 mission_skill_config-31060603,
-mission_skill_config-11060604,
-mission_skill_config-21060604,
+mission_skill_config-11060604,Artillery Cooldown (for Control Terminal VI) (on cooldown for 2 turns)
+mission_skill_config-21060604,On cooldown for 2 turns
 mission_skill_config-31060604,
-mission_skill_config-11060605,
-mission_skill_config-21060605,
+mission_skill_config-11060605,Deactivate Command (for Artillery Position VI)
+mission_skill_config-21060605,Deactivate Artillery Position VI
 mission_skill_config-31060605,
-mission_skill_config-11060606,
-mission_skill_config-21060606,
+mission_skill_config-11060606,Activate Command (for Artillery Position VI)
+mission_skill_config-21060606,Activate Artillery Position VI
 mission_skill_config-31060606,
-mission_skill_config-11060607,
-mission_skill_config-21060607,
+mission_skill_config-11060607,Bombard Command (for Artillery Position VI)
+mission_skill_config-21060607,Bombard all enemies within the range of one node around Artillery Position VI//c dealing damage that equals 60% of the enemies' current health. Reload cooldown lasts for 2 turns.
 mission_skill_config-31060607,
-mission_skill_config-11070100,
-mission_skill_config-21070100,
+mission_skill_config-11070100,Do not translate
+mission_skill_config-21070100,Do not translate
 mission_skill_config-31070100,
-mission_skill_config-11070101,
-mission_skill_config-21070101,
+mission_skill_config-11070101,Contamination Source Cleanup
+mission_skill_config-21070101,Turn the area within the range of 5 nodes around Decontamination Tower II into a Green Zone. (Decontamination cooldown lasts for 4 turns)
 mission_skill_config-31070101,
-mission_skill_config-11070102,
-mission_skill_config-21070102,
+mission_skill_config-11070102,Access Prompt
+mission_skill_config-21070102,You must unlock all Control Terminals II to gain access to operate Decontamination Tower II. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31070102,
-mission_skill_config-11070103,
-mission_skill_config-21070103,
+mission_skill_config-11070103,Contamination Source Cleanup
+mission_skill_config-21070103,Turn the area within the range of 5 nodes around Decontamination Tower II into a Green Zone. (Decontamination cooldown lasts for 4 turns)
 mission_skill_config-31070103,
-mission_skill_config-11070200,
-mission_skill_config-21070200,
+mission_skill_config-11070200,Do not translate
+mission_skill_config-21070200,Do not translate
 mission_skill_config-31070200,
-mission_skill_config-11070201,
-mission_skill_config-21070201,
+mission_skill_config-11070201,Contamination Source Cleanup
+mission_skill_config-21070201,Turn the area within the range of 5 nodes around Decontamination Tower VI into a Green Zone. (Decontamination cooldown lasts for 4 turns)
 mission_skill_config-31070201,
-mission_skill_config-11070202,
-mission_skill_config-21070202,
+mission_skill_config-11070202,Access Prompt
+mission_skill_config-21070202,You must unlock all Control Terminals IV to gain access to operate Decontamination Tower VI. ※ This is merely a prompt and has no practical effect.
 mission_skill_config-31070202,
-mission_skill_config-11070203,
-mission_skill_config-21070203,
+mission_skill_config-11070203,Contamination Source Cleanup
+mission_skill_config-21070203,Turn the area within the range of 5 nodes around Decontamination Tower VI into a Green Zone. (Decontamination cooldown lasts for 4 turns)
 mission_skill_config-31070203,
-mission_skill_config-11070300,
-mission_skill_config-21070300,
+mission_skill_config-11070300,Do not translate
+mission_skill_config-21070300,Do not translate
 mission_skill_config-31070300,
-mission_skill_config-11070400,
-mission_skill_config-21070400,
+mission_skill_config-11070400,Do not translate
+mission_skill_config-21070400,Do not translate
 mission_skill_config-31070400,
-mission_skill_config-11070500,
-mission_skill_config-21070500,
+mission_skill_config-11070500,Do not translate
+mission_skill_config-21070500,Do not translate
 mission_skill_config-31070500,
-mission_skill_config-11070600,
-mission_skill_config-21070600,
+mission_skill_config-11070600,Do not translate
+mission_skill_config-21070600,Do not translate
 mission_skill_config-31070600,
-mission_skill_config-11080100,
-mission_skill_config-21080100,
+mission_skill_config-11080100,Do not translate
+mission_skill_config-21080100,Do not translate
 mission_skill_config-31080100,
-mission_skill_config-11080101,
-mission_skill_config-21080101,
+mission_skill_config-11080101,Do not translate
+mission_skill_config-21080101,Do not translate
 mission_skill_config-31080101,
-mission_skill_config-11080102,
-mission_skill_config-21080102,
+mission_skill_config-11080102,Do not translate
+mission_skill_config-21080102,Do not translate
 mission_skill_config-31080102,
-mission_skill_config-11080103,
-mission_skill_config-21080103,
+mission_skill_config-11080103,Place Delay Setup (1 turn)
+mission_skill_config-21080103,Place Delay Setup (1 turn)
 mission_skill_config-31080103,
-mission_skill_config-11080104,
-mission_skill_config-21080104,
+mission_skill_config-11080104,Place Delay Setup (2 turns)
+mission_skill_config-21080104,Place Delay Setup (2 turns)
 mission_skill_config-31080104,
-mission_skill_config-11080105,
-mission_skill_config-21080105,
+mission_skill_config-11080105,Place Delay Setup (4 turns)
+mission_skill_config-21080105,Place Delay Setup (4 turns)
 mission_skill_config-31080105,
-mission_skill_config-11080106,
-mission_skill_config-21080106,
+mission_skill_config-11080106,Place Delay Setup (7 turns)
+mission_skill_config-21080106,Place Delay Setup (7 turns)
 mission_skill_config-31080106,
-mission_skill_config-11080200,
-mission_skill_config-21080200,
+mission_skill_config-11080200,Do not translate
+mission_skill_config-21080200,Do not translate
 mission_skill_config-31080200,
-mission_skill_config-11080201,
-mission_skill_config-21080201,
+mission_skill_config-11080201,Do not translate
+mission_skill_config-21080201,Do not translate
 mission_skill_config-31080201,
-mission_skill_config-11080300,
-mission_skill_config-21080300,
+mission_skill_config-11080300,Do not translate
+mission_skill_config-21080300,Do not translate
 mission_skill_config-31080300,
-mission_skill_config-11080400,
-mission_skill_config-21080400,
+mission_skill_config-11080400,Do not translate
+mission_skill_config-21080400,Do not translate
 mission_skill_config-31080400,
-mission_skill_config-11080500,
-mission_skill_config-21080500,
+mission_skill_config-11080500,Do not translate
+mission_skill_config-21080500,Do not translate
 mission_skill_config-31080500,
-mission_skill_config-11080600,
-mission_skill_config-21080600,
+mission_skill_config-11080600,Do not translate
+mission_skill_config-21080600,Do not translate
 mission_skill_config-31080600,
-mission_skill_config-12000001,
-mission_skill_config-22000001,
+mission_skill_config-12000001,Do not translate
+mission_skill_config-22000001,Do not translate
 mission_skill_config-32000001,
-mission_skill_config-12000002,
-mission_skill_config-22000002,
+mission_skill_config-12000002,Do not translate
+mission_skill_config-22000002,Do not translate
 mission_skill_config-32000002,
-mission_skill_config-12000003,
-mission_skill_config-22000003,
+mission_skill_config-12000003,Do not translate
+mission_skill_config-22000003,Do not translate
 mission_skill_config-32000003,
-mission_skill_config-12000004,
-mission_skill_config-22000004,
+mission_skill_config-12000004,Do not translate
+mission_skill_config-22000004,Do not translate
 mission_skill_config-32000004,
-mission_skill_config-12000005,
-mission_skill_config-22000005,
+mission_skill_config-12000005,Do not translate
+mission_skill_config-22000005,A retro control interface using the operation system from a bygone era. Very complicated to navigate but still capable of issuing commands to other facilities.
 mission_skill_config-32000005,
-mission_skill_config-12000006,
-mission_skill_config-22000006,
+mission_skill_config-12000006,Do not translate
+mission_skill_config-22000006,A thick and unyielding defense facility that can close off a route.//n On the gate there's a warning sign that reads//c "Stand clear of the closing gate."
 mission_skill_config-32000006,
-mission_skill_config-12000007,
-mission_skill_config-22000007,
+mission_skill_config-12000007,Do not translate
+mission_skill_config-22000007,A malfunctioning Goliath abandoned by Sangvis Ferri. Appears to be fully intact (except for the missing legs) and can be of some use.
 mission_skill_config-32000007,
-mission_skill_config-12000008,
-mission_skill_config-22000008,
+mission_skill_config-12000008,Do not translate
+mission_skill_config-22000008,A pile of rubble is blocking off the path. They can be cleared away with some high explosives.
 mission_skill_config-32000008,
-mission_skill_config-12000009,
-mission_skill_config-22000009,
+mission_skill_config-12000009,Do not translate
+mission_skill_config-22000009,A road built temporarily to facilitate traffic on the battlefield. Doesn't seem too steady.
 mission_skill_config-32000009,
-mission_skill_config-12000010,
-mission_skill_config-22000010,
+mission_skill_config-12000010,Do not translate
+mission_skill_config-22000010,Strongly resembles another facility but possesses a different function - decontamination.
 mission_skill_config-32000010,
+mission_skill_config-11020126,Open Command (for Defense Gate I Type ①)
+mission_skill_config-21020126,Open Defense Gate I Type ①
+mission_skill_config-31020126,
+mission_skill_config-11020127,Close Command (for Defense Gate I Type ①)
+mission_skill_config-21020127,Close Defense Gate I Type ①
+mission_skill_config-31020127,
+mission_skill_config-11020218,Open Command (for Defense Gate I Type ②)
+mission_skill_config-21020218,Open Defense Gate I Type ②
+mission_skill_config-31020218,
+mission_skill_config-11020219,Close Command (for Defense Gate I Type ②)
+mission_skill_config-21020219,Close Defense Gate I Type ②
+mission_skill_config-31020219,
+mission_skill_config-11020313,Open Command (for Defense Gate I Type ③)
+mission_skill_config-21020313,Open Defense Gate I Type ③
+mission_skill_config-31020313,
+mission_skill_config-11020314,Close Command (for Defense Gate I Type ③)
+mission_skill_config-21020314,Close Defense Gate I Type ③
+mission_skill_config-31020314,
+mission_skill_config-11020410,Open Command (for Defense Gate I Type ④)
+mission_skill_config-21020410,Open Defense Gate I Type ④
+mission_skill_config-31020410,
+mission_skill_config-11020411,Close Command (for Defense Gate I Type ④)
+mission_skill_config-21020411,Close Defense Gate I Type ④
+mission_skill_config-31020411,
+mission_skill_config-11020700,Do not translate
+mission_skill_config-21020700,Do not translate
+mission_skill_config-31020700,
+mission_skill_config-11020701,Do not translate
+mission_skill_config-21020701,Do not translate
+mission_skill_config-31020701,
+mission_skill_config-11020702,Do not translate
+mission_skill_config-21020702,Do not translate
+mission_skill_config-31020702,
+mission_skill_config-11020703,Do not translate
+mission_skill_config-21020703,Do not translate
+mission_skill_config-31020703,
+mission_skill_config-11020704,Close Defense Gate VII damage (against enemies)
+mission_skill_config-21020704,Close Defense Gate VII damage (against enemies)
+mission_skill_config-31020704,
+mission_skill_config-11020705,Close Defense Gate VII damage (against allies/hostages)
+mission_skill_config-21020705,Close Defense Gate VII damage (against allies/hostages)
+mission_skill_config-31020705,
+mission_skill_config-11020706,Open Command (for Defense Gate VII)
+mission_skill_config-21020706,Open Defense Gate VII
+mission_skill_config-31020706,
+mission_skill_config-11020707,Close Command (for Defense Gate VII)
+mission_skill_config-21020707,Close Defense Gate VII
+mission_skill_config-31020707,
+mission_skill_config-11020708,Open Command (for Defense Gate I Type ⑤)
+mission_skill_config-21020708,Open Defense Gate I Type ⑤
+mission_skill_config-31020708,
+mission_skill_config-11020709,Close Command (for Defense Gate I Type ⑤)
+mission_skill_config-21020709,Close Defense Gate I Type ⑤
+mission_skill_config-31020709,
+mission_skill_config-11020800,Do not translate
+mission_skill_config-21020800,Do not translate
+mission_skill_config-31020800,
+mission_skill_config-11020801,Do not translate
+mission_skill_config-21020801,Do not translate
+mission_skill_config-31020801,
+mission_skill_config-11020802,Do not translate
+mission_skill_config-21020802,Do not translate
+mission_skill_config-31020802,
+mission_skill_config-11020803,Do not translate
+mission_skill_config-21020803,Do not translate
+mission_skill_config-31020803,
+mission_skill_config-11020804,Close Defense Gate VIII damage (against enemies)
+mission_skill_config-21020804,Close Defense Gate VIII damage (against enemies)
+mission_skill_config-31020804,
+mission_skill_config-11020805,Close Defense Gate VIII damage (against allies/hostages)
+mission_skill_config-21020805,Close Defense Gate VIII damage (against allies/hostages)
+mission_skill_config-31020805,
+mission_skill_config-11020806,Open Command (for Defense Gate VIII)
+mission_skill_config-21020806,Open Defense Gate VIII
+mission_skill_config-31020806,
+mission_skill_config-11020807,Close Command (for Defense Gate VIII)
+mission_skill_config-21020807,Close Defense Gate VIII
+mission_skill_config-31020807,
+mission_skill_config-11020900,Do not translate
+mission_skill_config-21020900,Do not translate
+mission_skill_config-31020900,
+mission_skill_config-11020901,Do not translate
+mission_skill_config-21020901,Do not translate
+mission_skill_config-31020901,
+mission_skill_config-11020902,Do not translate
+mission_skill_config-21020902,Do not translate
+mission_skill_config-31020902,
+mission_skill_config-11020903,Do not translate
+mission_skill_config-21020903,Do not translate
+mission_skill_config-31020903,
+mission_skill_config-11020904,Close Defense Gate IX damage (against enemies)
+mission_skill_config-21020904,Close Defense Gate IX damage (against enemies)
+mission_skill_config-31020904,
+mission_skill_config-11020905,Close Defense Gate IX damage (against allies/hostages)
+mission_skill_config-21020905,Close Defense Gate IX damage (against allies/hostages)
+mission_skill_config-31020905,
+mission_skill_config-11020906,Open Command (for Defense Gate IX)
+mission_skill_config-21020906,Open Defense Gate IX
+mission_skill_config-31020906,
+mission_skill_config-11020907,Close Command (for Defense Gate IX)
+mission_skill_config-21020907,Close Defense Gate IX
+mission_skill_config-31020907,
+mission_skill_config-11021000,Do not translate
+mission_skill_config-21021000,Do not translate
+mission_skill_config-31021000,
+mission_skill_config-11021001,Do not translate
+mission_skill_config-21021001,Do not translate
+mission_skill_config-31021001,
+mission_skill_config-11021002,Do not translate
+mission_skill_config-21021002,Do not translate
+mission_skill_config-31021002,
+mission_skill_config-11021003,Do not translate
+mission_skill_config-21021003,Do not translate
+mission_skill_config-31021003,
+mission_skill_config-11021004,Close Defense Gate X damage (against enemies)
+mission_skill_config-21021004,Close Defense Gate X damage (against enemies)
+mission_skill_config-31021004,
+mission_skill_config-11021005,Close Defense Gate X damage (against allies/hostages)
+mission_skill_config-21021005,Close Defense Gate X damage (against allies/hostages)
+mission_skill_config-31021005,
+mission_skill_config-11021006,Open Command (for Defense Gate X)
+mission_skill_config-21021006,Open Defense Gate X
+mission_skill_config-31021006,
+mission_skill_config-11021007,Close Command (for Defense Gate X)
+mission_skill_config-21021007,Close Defense Gate X
+mission_skill_config-31021007,
+mission_skill_config-11021100,Do not translate
+mission_skill_config-21021100,Do not translate
+mission_skill_config-31021100,
+mission_skill_config-11021101,Do not translate
+mission_skill_config-21021101,Do not translate
+mission_skill_config-31021101,
+mission_skill_config-11021102,Do not translate
+mission_skill_config-21021102,Do not translate
+mission_skill_config-31021102,
+mission_skill_config-11021103,Do not translate
+mission_skill_config-21021103,Do not translate
+mission_skill_config-31021103,
+mission_skill_config-11021104,Close Defense Gate XI damage (against enemies)
+mission_skill_config-21021104,Close Defense Gate XI damage (against enemies)
+mission_skill_config-31021104,
+mission_skill_config-11021105,Close Defense Gate XI damage (against allies/hostages)
+mission_skill_config-21021105,Close Defense Gate XI damage (against allies/hostages)
+mission_skill_config-31021105,
+mission_skill_config-11021106,Open Command (for Defense Gate XI)
+mission_skill_config-21021106,Open Defense Gate XI
+mission_skill_config-31021106,
+mission_skill_config-11021107,Close Command (for Defense Gate XI)
+mission_skill_config-21021107,Close Defense Gate XI
+mission_skill_config-31021107,
+mission_skill_config-11021200,Do not translate
+mission_skill_config-21021200,Do not translate
+mission_skill_config-31021200,
+mission_skill_config-11021201,Do not translate
+mission_skill_config-21021201,Do not translate
+mission_skill_config-31021201,
+mission_skill_config-11021202,Do not translate
+mission_skill_config-21021202,Do not translate
+mission_skill_config-31021202,
+mission_skill_config-11021203,Do not translate
+mission_skill_config-21021203,Do not translate
+mission_skill_config-31021203,
+mission_skill_config-11021204,Close Defense Gate XII damage (against enemies)
+mission_skill_config-21021204,Close Defense Gate XII damage (against enemies)
+mission_skill_config-31021204,
+mission_skill_config-11021205,Close Defense Gate XII damage (against allies/hostages)
+mission_skill_config-21021205,Close Defense Gate XII damage (against allies/hostages)
+mission_skill_config-31021205,
+mission_skill_config-11021206,Open Command (for Defense Gate XII)
+mission_skill_config-21021206,Open Defense Gate XII
+mission_skill_config-31021206,
+mission_skill_config-11021207,Close Command (for Defense Gate XII)
+mission_skill_config-21021207,Close Defense Gate XII
+mission_skill_config-31021207,
+mission_skill_config-11021300,Do not translate
+mission_skill_config-21021300,Do not translate
+mission_skill_config-31021300,
+mission_skill_config-11021301,Do not translate
+mission_skill_config-21021301,Do not translate
+mission_skill_config-31021301,
+mission_skill_config-11021302,Do not translate
+mission_skill_config-21021302,Do not translate
+mission_skill_config-31021302,
+mission_skill_config-11021303,Do not translate
+mission_skill_config-21021303,Do not translate
+mission_skill_config-31021303,
+mission_skill_config-11021304,Close Defense Gate XIII damage (against enemies)
+mission_skill_config-21021304,Close Defense Gate XIII damage (against enemies)
+mission_skill_config-31021304,
+mission_skill_config-11021305,Close Defense Gate XIII damage (against allies/hostages)
+mission_skill_config-21021305,Close Defense Gate XIII damage (against allies/hostages)
+mission_skill_config-31021305,
+mission_skill_config-11021306,Open Command (for Defense Gate XIII)
+mission_skill_config-21021306,Open Defense Gate XIII
+mission_skill_config-31021306,
+mission_skill_config-11021307,Close Command (for Defense Gate XIII)
+mission_skill_config-21021307,Close Defense Gate XIII
+mission_skill_config-31021307,
+mission_skill_config-19321201,Randomizer A (for Defense Gate II Type ①)
+mission_skill_config-29321201,Open Defense Gate II Type ①
+mission_skill_config-39321201,
+mission_skill_config-19321202,Randomizer B (for Defense Gate II Type ①//c②)
+mission_skill_config-29321202,Close Defense Gate II Type ①//c open Defense Gate II Type ②
+mission_skill_config-39321202,
+mission_skill_config-19321203,Randomizer C (for Defense Gate II Type ②//c③)
+mission_skill_config-29321203,Open Defense Gate II Type ②//c③
+mission_skill_config-39321203,
+mission_skill_config-19321204,
+mission_skill_config-29321204,
+mission_skill_config-39321204,
+mission_skill_config-19321205,
+mission_skill_config-29321205,
+mission_skill_config-39321205,
+mission_skill_config-19321206,Randomizer D (for Defense Gate II Type ②//c③)
+mission_skill_config-29321206,Close Defense Gate II Type ②//c open Defense Gate II Type ③
+mission_skill_config-39321206,
+mission_skill_config-19321207,
+mission_skill_config-29321207,
+mission_skill_config-39321207,
+mission_skill_config-19321208,Randomizer E (for Defense Gate II Type ①//c②)
+mission_skill_config-29321208,Close Defense Gate II Type ①//c②
+mission_skill_config-39321208,
+mission_skill_config-19321209,
+mission_skill_config-29321209,
+mission_skill_config-39321209,
+mission_skill_config-19321210,Randomizer F (for Defense Gate II Type ②//c③)
+mission_skill_config-29321210,Close Defense Gate II Type ②//c③
+mission_skill_config-39321210,
+mission_skill_config-19321211,
+mission_skill_config-29321211,
+mission_skill_config-39321211,
+mission_skill_config-19321212,Randomizer G (for Defense Gate II Type ③//c④)
+mission_skill_config-29321212,Close Defense Gate II Type ③//c④
+mission_skill_config-39321212,
+mission_skill_config-19321213,
+mission_skill_config-29321213,
+mission_skill_config-39321213,
+mission_skill_config-19321214,Randomizer H (for Defense Gate II Type ①//c③)
+mission_skill_config-29321214,Close Defense Gate II Type ①//c③
+mission_skill_config-39321214,
+mission_skill_config-19321215,Randomizer I (for Defense Gate II Type ①//c④)
+mission_skill_config-29321215,Close Defense Gate II Type ①//c④
+mission_skill_config-39321215,
+mission_skill_config-19321216,Randomizer J (for Defense Gate II Type ②//c④)
+mission_skill_config-29321216,Close Defense Gate II Type ②//c④
+mission_skill_config-39321216,
+mission_skill_config-19321217,Unlock Access
+mission_skill_config-29321217,Unlock the highest authorization level on Control Terminal II and access the control interface of all corresponding facilities.
+mission_skill_config-39321217,
+mission_skill_config-19321218,Unlock Access
+mission_skill_config-29321218,Unlock the highest authorization level on Control Terminal II and access the control interface of all corresponding facilities.
+mission_skill_config-39321218,
+mission_skill_config-19321219,Do not translate
+mission_skill_config-29321219,
+mission_skill_config-39321219,
+mission_skill_config-19321220,Do not translate
+mission_skill_config-29321220,
+mission_skill_config-39321220,
+mission_skill_config-19321221,Do not translate
+mission_skill_config-29321221,
+mission_skill_config-39321221,
+mission_skill_config-19321222,Do not translate
+mission_skill_config-29321222,Unlock the highest authorization level on Control Terminal II and access the control interface of all corresponding facilities.
+mission_skill_config-39321222,
+mission_skill_config-19321223,Randomizer K (for Defense Gate II Type ③//c④)
+mission_skill_config-29321223,Close Defense Gate II Type ③//c open Defense Gate II Type ④
+mission_skill_config-39321223,
+mission_skill_config-19321224,
+mission_skill_config-29321224,
+mission_skill_config-39321224,
+mission_skill_config-19321225,Randomizer L (for Defense Gate II)
+mission_skill_config-29321225,Close all Defense Gate II
+mission_skill_config-39321225,
+mission_skill_config-19321226,
+mission_skill_config-29321226,
+mission_skill_config-39321226,
+mission_skill_config-19321501,Do not translate
+mission_skill_config-29321501,Do not translate
+mission_skill_config-39321501,
+mission_skill_config-19321502,Do not translate
+mission_skill_config-29321502,Do not translate
+mission_skill_config-39321502,
+mission_skill_config-19321503,Celebrate!
+mission_skill_config-29321503,Offer a gun salute for the birth of the new king!
+mission_skill_config-39321503,
+mission_skill_config-19321504,Do not translate
+mission_skill_config-29321504,Do not translate
+mission_skill_config-39321504,
+mission_skill_config-19321601,Do not translate
+mission_skill_config-29321601,
+mission_skill_config-39321601,
+mission_skill_config-19331201,Blast Command (for Rubble I)
+mission_skill_config-29331201,Blast Command (for Rubble I)
+mission_skill_config-39331201,
+mission_skill_config-19331401,Unlock Access
+mission_skill_config-29331401,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
+mission_skill_config-39331401,
+mission_skill_config-19331402,Freeze Access
+mission_skill_config-29331402,Freeze the highest authorization level on Control Terminal I//c disconnecting it from other facilities and shutting down its control interface.
+mission_skill_config-39331402,
+mission_skill_config-19335201,Do not translate
+mission_skill_config-29335201,
+mission_skill_config-39335201,
+mission_skill_config-19335202,Unlock Access
+mission_skill_config-29335202,Unlock the highest authorization level on Control Terminal I Type ① and access the control interface of all corresponding facilities.
+mission_skill_config-39335202,
+mission_skill_config-19335203,Unlock Access
+mission_skill_config-29335203,Unlock the highest authorization level on Control Terminal I Type ② and access the control interface of all corresponding facilities.
+mission_skill_config-39335203,
+mission_skill_config-19335204,Unlock Access
+mission_skill_config-29335204,
+mission_skill_config-39335204,
+mission_skill_config-19335205,Unlock Access
+mission_skill_config-29335205,
+mission_skill_config-39335205,
+mission_skill_config-19335206,Reset
+mission_skill_config-29335206,Reset all Control Terminal I to frozen state
+mission_skill_config-39335206,
+mission_skill_config-19335207,Do not translate
+mission_skill_config-29335207,
+mission_skill_config-39335207,
+mission_skill_config-19335208,Do not translate
+mission_skill_config-29335208,
+mission_skill_config-39335208,
+mission_skill_config-19335209,Do not translate
+mission_skill_config-29335209,
+mission_skill_config-39335209,
+mission_skill_config-19335210,Do not translate
+mission_skill_config-29335210,
+mission_skill_config-39335210,
+mission_skill_config-19335211,Do not translate
+mission_skill_config-29335211,
+mission_skill_config-39335211,
+mission_skill_config-19335212,Do not translate
+mission_skill_config-29335212,
+mission_skill_config-39335212,
+mission_skill_config-19335301,Do not translate
+mission_skill_config-29335301,
+mission_skill_config-39335301,
+mission_skill_config-19335302,Do not translate
+mission_skill_config-29335302,
+mission_skill_config-39335302,
+mission_skill_config-19335303,It's up to you//c Goliath!
+mission_skill_config-29335303,#Can you open up a path forward for me?
+mission_skill_config-39335303,
+mission_skill_config-19335401,Blast Command (for Rubble I)
+mission_skill_config-29335401,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
+mission_skill_config-39335401,
+mission_skill_config-19335402,Do not translate
+mission_skill_config-29335402,
+mission_skill_config-39335402,
+mission_skill_config-19335403,Do not translate
+mission_skill_config-29335403,
+mission_skill_config-39335403,
+mission_skill_config-19335404,Blast Command (for Rubble I)
+mission_skill_config-29335404,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
+mission_skill_config-39335404,
+mission_skill_config-19335405,Do not translate
+mission_skill_config-29335405,
+mission_skill_config-39335405,
+mission_skill_config-19335406,Do not translate
+mission_skill_config-29335406,
+mission_skill_config-39335406,
+mission_skill_config-19335407,Blast Command (for Rubble I)
+mission_skill_config-29335407,Blow up the target with explosives. ※ Does tossing this thingy over there really works...?
+mission_skill_config-39335407,
+mission_skill_config-19335408,Do not translate
+mission_skill_config-29335408,
+mission_skill_config-39335408,
+mission_skill_config-19335409,Do not translate
+mission_skill_config-29335409,
+mission_skill_config-39335409,
+mission_skill_config-19335501,Do not translate
+mission_skill_config-29335501,
+mission_skill_config-39335501,
+mission_skill_config-19335502,Do not translate
+mission_skill_config-29335502,
+mission_skill_config-39335502,
+mission_skill_config-19335503,Open Command (for Defense Gate II)
+mission_skill_config-29335503,Open Defense Gate II
+mission_skill_config-39335503,
+mission_skill_config-19335504,Close Command (for Defense Gate II)
+mission_skill_config-29335504,Close Defense Gate II
+mission_skill_config-39335504,
+mission_skill_config-19331901,Unlock Access
+mission_skill_config-29331901,Unlock the highest authorization level on Control Terminal II and access the control interface of all corresponding facilities.
+mission_skill_config-39331901,
+mission_skill_config-19331902,Freeze Access
+mission_skill_config-29331902,Freeze the highest authorization level on Control Terminal II//c disconnecting it from other facilities and shutting down its control interface.
+mission_skill_config-39331902,
+mission_skill_config-19332101,Do not translate
+mission_skill_config-29332101,
+mission_skill_config-39332101,
+mission_skill_config-19332102,Activate substation
+mission_skill_config-29332102,Activate the substation to power the EMP generator
+mission_skill_config-39332102,
+mission_skill_config-19332103,Deactivate substation
+mission_skill_config-29332103,Deactivate the substation to stop powering the EMP generator
+mission_skill_config-39332103,
+mission_skill_config-19332104,Substation overload
+mission_skill_config-29332104,
+mission_skill_config-39332104,
+mission_skill_config-19332105,Do not translate
+mission_skill_config-29332105,
+mission_skill_config-39332105,
+mission_skill_config-19332106,Activate EMP
+mission_skill_config-29332106,Activate EMP to paralyze nearby enemies
+mission_skill_config-39332106,
+mission_skill_config-19332107,Do not translate
+mission_skill_config-29332107,
+mission_skill_config-39332107,
+mission_skill_config-19332108,Do not translate
+mission_skill_config-29332108,
+mission_skill_config-39332108,
+mission_skill_config-19332109,Do not translate
+mission_skill_config-29332109,
+mission_skill_config-39332109,
+mission_skill_config-19332110,Detonate
+mission_skill_config-29332110,Detonate abandoned building
+mission_skill_config-39332110,
+mission_skill_config-19332111,Building collapses
+mission_skill_config-29332111,
+mission_skill_config-39332111,
+mission_skill_config-19332112,Turned into rubble
+mission_skill_config-29332112,
+mission_skill_config-39332112,
+mission_skill_config-19332113,Cancel detonation
+mission_skill_config-29332113,
+mission_skill_config-39332113,
+mission_skill_config-19332114,Explosion Command
+mission_skill_config-29332114,
+mission_skill_config-39332114,
+mission_skill_config-19332115,
+mission_skill_config-29332115,
+mission_skill_config-39332115,
+mission_skill_config-19333001,
+mission_skill_config-29333001,
+mission_skill_config-39333001,
+mission_skill_config-19333002,Unlock Access
+mission_skill_config-29333002,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
+mission_skill_config-39333002,
+mission_skill_config-19333003,Freeze Access
+mission_skill_config-29333003,Freeze the highest authorization level on Control Terminal I//c disconnecting it from other facilities and shutting down its control interface.
+mission_skill_config-39333003,
+mission_skill_config-19333004,
+mission_skill_config-29333004,
+mission_skill_config-39333004,
+mission_skill_config-19333005,
+mission_skill_config-29333005,
+mission_skill_config-39333005,
+mission_skill_config-19333011,
+mission_skill_config-29333011,
+mission_skill_config-39333011,
+mission_skill_config-19333012,Pick Up
+mission_skill_config-29333012,Have an echelon pick up a portion of explosives. ※ Each echelon can only pick up one portion of explosives.
+mission_skill_config-39333012,
+mission_skill_config-19333021,
+mission_skill_config-29333021,
+mission_skill_config-39333021,
+mission_skill_config-19333022,
+mission_skill_config-29333022,
+mission_skill_config-39333022,
+mission_skill_config-19333201,
+mission_skill_config-29333201,
+mission_skill_config-39333201,
+mission_skill_config-19333202,
+mission_skill_config-29333202,
+mission_skill_config-39333202,
+mission_skill_config-19333203,
+mission_skill_config-29333203,
+mission_skill_config-39333203,
+mission_skill_config-19333204,
+mission_skill_config-29333204,
+mission_skill_config-39333204,
+mission_skill_config-19333205,
+mission_skill_config-29333205,
+mission_skill_config-39333205,
+mission_skill_config-19333210,
+mission_skill_config-29333210,
+mission_skill_config-39333210,
+mission_skill_config-19333211,
+mission_skill_config-29333211,Open Defense Gate I
+mission_skill_config-39333211,
+mission_skill_config-19333212,
+mission_skill_config-29333212,Open Defense Gate III
+mission_skill_config-39333212,
+mission_skill_config-19333213,
+mission_skill_config-29333213,Open Defense Gate III
+mission_skill_config-39333213,
+mission_skill_config-19333214,
+mission_skill_config-29333214,
+mission_skill_config-39333214,
+mission_skill_config-19333215,
+mission_skill_config-29333215,Open Defense Gate III
+mission_skill_config-39333215,
+mission_skill_config-19333216,
+mission_skill_config-29333216,
+mission_skill_config-39333216,
+mission_skill_config-19333217,
+mission_skill_config-29333217,Close Defense Gate II
+mission_skill_config-39333217,
+mission_skill_config-19333218,
+mission_skill_config-29333218,Close Defense Gate I
+mission_skill_config-39333218,
+mission_skill_config-19333221,
+mission_skill_config-29333221,
+mission_skill_config-39333221,
+mission_skill_config-19333222,
+mission_skill_config-29333222,
+mission_skill_config-39333222,
+mission_skill_config-19333223,
+mission_skill_config-29333223,
+mission_skill_config-39333223,
+mission_skill_config-19333224,
+mission_skill_config-29333224,
+mission_skill_config-39333224,
+mission_skill_config-19333225,
+mission_skill_config-29333225,
+mission_skill_config-39333225,
+mission_skill_config-19333226,
+mission_skill_config-29333226,
+mission_skill_config-39333226,
+mission_skill_config-19333230,
+mission_skill_config-29333230,
+mission_skill_config-39333230,
+mission_skill_config-19333231,
+mission_skill_config-29333231,
+mission_skill_config-39333231,
+mission_skill_config-19333232,
+mission_skill_config-29333232,
+mission_skill_config-39333232,
+mission_skill_config-19333233,
+mission_skill_config-29333233,
+mission_skill_config-39333233,
+mission_skill_config-19333234,
+mission_skill_config-29333234,
+mission_skill_config-39333234,
+mission_skill_config-19333235,
+mission_skill_config-29333235,
+mission_skill_config-39333235,
+mission_skill_config-19333236,
+mission_skill_config-29333236,
+mission_skill_config-39333236,
+mission_skill_config-19333401,
+mission_skill_config-29333401,
+mission_skill_config-39333401,
+mission_skill_config-19333402,
+mission_skill_config-29333402,
+mission_skill_config-39333402,
+mission_skill_config-19333403,
+mission_skill_config-29333403,
+mission_skill_config-39333403,
+mission_skill_config-19333404,
+mission_skill_config-29333404,
+mission_skill_config-39333404,
+mission_skill_config-19333405,
+mission_skill_config-29333405,
+mission_skill_config-39333405,
+mission_skill_config-19333411,
+mission_skill_config-29333411,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
+mission_skill_config-39333411,
+mission_skill_config-19333412,
+mission_skill_config-29333412,Unlock the highest authorization level on Control Terminal II and access the control interface of all corresponding facilities.
+mission_skill_config-39333412,
+mission_skill_config-19333413,
+mission_skill_config-29333413,Open Defense Gate I
+mission_skill_config-39333413,
+mission_skill_config-19333414,
+mission_skill_config-29333414,Open Defense Gate II
+mission_skill_config-39333414,
+mission_skill_config-19333415,
+mission_skill_config-29333415,Open Defense Gate III
+mission_skill_config-39333415,
+mission_skill_config-19333416,
+mission_skill_config-29333416,
+mission_skill_config-39333416,
+mission_skill_config-19333417,
+mission_skill_config-29333417,
+mission_skill_config-39333417,
+mission_skill_config-19333418,
+mission_skill_config-29333418,Open Defense Gate I
+mission_skill_config-39333418,
+mission_skill_config-19337201,Do not translate
+mission_skill_config-29337201,
+mission_skill_config-39337201,
+mission_skill_config-19336101,
+mission_skill_config-29336101,
+mission_skill_config-39336101,
+mission_skill_config-19336102,Unlock Access
+mission_skill_config-29336102,Unlock the highest authorization level on Control Terminal I and access the control interface of all corresponding facilities.
+mission_skill_config-39336102,
+mission_skill_config-19336103,It's up to you//c Goliath!
+mission_skill_config-29336103,#Can you open up a path forward for me?
+mission_skill_config-39336103,
+mission_skill_config-12000011,
+mission_skill_config-22000011,
+mission_skill_config-32000011,
+mission_skill_config-12000012,
+mission_skill_config-22000012,
+mission_skill_config-32000012,
+mission_skill_config-12000013,
+mission_skill_config-22000013,
+mission_skill_config-32000013,
+mission_skill_config-12000014,
+mission_skill_config-22000014,
+mission_skill_config-32000014,
+mission_skill_config-12000015,
+mission_skill_config-22000015,
+mission_skill_config-32000015,
+mission_skill_config-12000016,
+mission_skill_config-22000016,
+mission_skill_config-32000016,
+mission_skill_config-19336201,
+mission_skill_config-29336201,
+mission_skill_config-39336201,
+mission_skill_config-19336202,
+mission_skill_config-29336202,
+mission_skill_config-39336202,
+mission_skill_config-19336203,
+mission_skill_config-29336203,
+mission_skill_config-39336203,
+mission_skill_config-19336204,Unlock Access
+mission_skill_config-29336204,Unlock the highest authorization level on Control Terminal I Type ① and access the control interface of all corresponding facilities.
+mission_skill_config-39336204,
+mission_skill_config-19336205,Unlock Access
+mission_skill_config-29336205,Unlock the highest authorization level on Control Terminal I Type ② and access the control interface of all corresponding facilities.
+mission_skill_config-39336205,
+mission_skill_config-19336206,Unlock Access
+mission_skill_config-29336206,
+mission_skill_config-39336206,
+mission_skill_config-19336207,Unlock Access
+mission_skill_config-29336207,
+mission_skill_config-39336207,
+mission_skill_config-19336208,Reset
+mission_skill_config-29336208,
+mission_skill_config-39336208,
+mission_skill_config-19336209,
+mission_skill_config-29336209,
+mission_skill_config-39336209,
+mission_skill_config-19336210,
+mission_skill_config-29336210,
+mission_skill_config-39336210,
+mission_skill_config-19336211,
+mission_skill_config-29336211,
+mission_skill_config-39336211,
+mission_skill_config-19336212,
+mission_skill_config-29336212,
+mission_skill_config-39336212,
+mission_skill_config-19336213,
+mission_skill_config-29336213,
+mission_skill_config-39336213,
+mission_skill_config-19336214,
+mission_skill_config-29336214,
+mission_skill_config-39336214,
+mission_skill_config-19336215,Unlock Access
+mission_skill_config-29336215,
+mission_skill_config-39336215,
+mission_skill_config-19336216,
+mission_skill_config-29336216,
+mission_skill_config-39336216,
+mission_skill_config-19336217,Unlock Access
+mission_skill_config-29336217,Unlock the highest authorization level on Control Terminal I Type ① and access the control interface of all corresponding facilities.
+mission_skill_config-39336217,
+mission_skill_config-19336218,Unlock Access
+mission_skill_config-29336218,Unlock the highest authorization level on Control Terminal I Type ② and access the control interface of all corresponding facilities.
+mission_skill_config-39336218,
+mission_skill_config-19336219,Unlock Access
+mission_skill_config-29336219,
+mission_skill_config-39336219,
+mission_skill_config-19336220,Unlock Access
+mission_skill_config-29336220,
+mission_skill_config-39336220,
+mission_skill_config-19336304,Unlock Access
+mission_skill_config-29336304,Unlock the highest authorization level on Control Terminal I Type ① and access the control interface of all corresponding facilities.
+mission_skill_config-39336304,
+mission_skill_config-19336305,Unlock Access
+mission_skill_config-29336305,Unlock the highest authorization level on Control Terminal I Type ② and access the control interface of all corresponding facilities.
+mission_skill_config-39336305,
+mission_skill_config-19336306,Open Command (for Defense Gate I Type ③)
+mission_skill_config-29336306,Open Defense Gate I
+mission_skill_config-39336306,
+mission_skill_config-19337202,
+mission_skill_config-29337202,
+mission_skill_config-39337202,
+mission_skill_config-19333601,
+mission_skill_config-29333601,
+mission_skill_config-39333601,
+mission_skill_config-19333602,
+mission_skill_config-29333602,
+mission_skill_config-39333602,
+mission_skill_config-19333603,
+mission_skill_config-29333603,
+mission_skill_config-39333603,
+mission_skill_config-19333604,
+mission_skill_config-29333604,
+mission_skill_config-39333604,
+mission_skill_config-19333605,
+mission_skill_config-29333605,
+mission_skill_config-39333605,
+mission_skill_config-19333611,
+mission_skill_config-29333611,
+mission_skill_config-39333611,
+mission_skill_config-19333612,
+mission_skill_config-29333612,
+mission_skill_config-39333612,
+mission_skill_config-19333613,
+mission_skill_config-29333613,
+mission_skill_config-39333613,
+mission_skill_config-19333614,
+mission_skill_config-29333614,
+mission_skill_config-39333614,
+mission_skill_config-19336401,
+mission_skill_config-29336401,
+mission_skill_config-39336401,
+mission_skill_config-10001701,
+mission_skill_config-20001701,
+mission_skill_config-30001701,
+mission_skill_config-10001702,
+mission_skill_config-20001702,
+mission_skill_config-30001702,
+mission_skill_config-10001703,
+mission_skill_config-20001703,
+mission_skill_config-30001703,
+mission_skill_config-10001704,
+mission_skill_config-20001704,
+mission_skill_config-30001704,
+mission_skill_config-10001705,
+mission_skill_config-20001705,
+mission_skill_config-30001705,
+mission_skill_config-10001706,
+mission_skill_config-20001706,
+mission_skill_config-30001706,
+mission_skill_config-10001707,
+mission_skill_config-20001707,
+mission_skill_config-30001707,
+mission_skill_config-10001708,
+mission_skill_config-20001708,
+mission_skill_config-30001708,
+mission_skill_config-10001709,
+mission_skill_config-20001709,
+mission_skill_config-30001709,
+mission_skill_config-10001710,
+mission_skill_config-20001710,
+mission_skill_config-30001710,

@@ -1,0 +1,1 @@
+[{"character":["AbandonedIsomer"],"character_emotion":["0"],"speaker_name":"异构体众","speaker":0,"text":"你不要过来啊！"}]

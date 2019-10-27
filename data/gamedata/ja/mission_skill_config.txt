@@ -565,8 +565,8 @@ mission_skill_config-30900008,1
 mission_skill_config-10900009,防空砲
 mission_skill_config-20900009,空域規制
 mission_skill_config-30900009,1
-mission_skill_config-10900010,
-mission_skill_config-20900010,
+mission_skill_config-10900010,防空砲
+mission_skill_config-20900010,空域規制
 mission_skill_config-30900010,1
 mission_skill_config-11000000,
 mission_skill_config-21000000,
@@ -841,13 +841,13 @@ mission_skill_config-31010102,1
 mission_skill_config-11010103,
 mission_skill_config-21010103,
 mission_skill_config-31010103,1
-mission_skill_config-11010104,
+mission_skill_config-11010104,権限をアンロック
 mission_skill_config-21010104,
 mission_skill_config-31010104,1
 mission_skill_config-11010105,
 mission_skill_config-21010105,
-mission_skill_config-31010105,1
-mission_skill_config-11010106,
+mission_skill_config-31010105,
+mission_skill_config-11010106,権限をアンロック
 mission_skill_config-21010106,
 mission_skill_config-31010106,1
 mission_skill_config-11010107,
@@ -858,8 +858,8 @@ mission_skill_config-21010108,
 mission_skill_config-31010108,1
 mission_skill_config-11010109,
 mission_skill_config-21010109,
-mission_skill_config-31010109,1
-mission_skill_config-11010110,
+mission_skill_config-31010109,
+mission_skill_config-11010110,権限をアンロック
 mission_skill_config-21010110,
 mission_skill_config-31010110,1
 mission_skill_config-11010111,
@@ -889,8 +889,8 @@ mission_skill_config-31010202,1
 mission_skill_config-11010203,
 mission_skill_config-21010203,
 mission_skill_config-31010203,1
-mission_skill_config-11010204,
-mission_skill_config-21010204,
+mission_skill_config-11010204,権限をアンロック
+mission_skill_config-21010204,制御パネルIIの最高権限をアンロックし、当該制御パネルの型番と対応する全設備の操作画面を開放する。
 mission_skill_config-31010204,1
 mission_skill_config-11010205,
 mission_skill_config-21010205,
@@ -898,8 +898,8 @@ mission_skill_config-31010205,1
 mission_skill_config-11010206,
 mission_skill_config-21010206,
 mission_skill_config-31010206,1
-mission_skill_config-11010207,
-mission_skill_config-21010207,
+mission_skill_config-11010207,権限をアンロック
+mission_skill_config-21010207,制御パネルIIの最高権限をアンロックし、当該制御パネルの型番と対応する全設備の操作画面を開放する。
 mission_skill_config-31010207,1
 mission_skill_config-11010208,
 mission_skill_config-21010208,
@@ -913,7 +913,7 @@ mission_skill_config-31010210,1
 mission_skill_config-11010211,リセット
 mission_skill_config-21010211,
 mission_skill_config-31010211,1
-mission_skill_config-11010212,
+mission_skill_config-11010212,権限をアンロック
 mission_skill_config-21010212,
 mission_skill_config-31010212,1
 mission_skill_config-11010213,
@@ -931,19 +931,19 @@ mission_skill_config-31010302,1
 mission_skill_config-11010303,
 mission_skill_config-21010303,
 mission_skill_config-31010303,1
-mission_skill_config-11010304,
+mission_skill_config-11010304,権限をアンロック
 mission_skill_config-21010304,
 mission_skill_config-31010304,1
 mission_skill_config-11010305,
 mission_skill_config-21010305,
 mission_skill_config-31010305,1
-mission_skill_config-11010306,
-mission_skill_config-21010306,
+mission_skill_config-11010306,権限をアンロック
+mission_skill_config-21010306,制御パネルIIの最高権限をアンロックし、当該制御パネルの型番と対応する全設備の操作画面を開放する。
 mission_skill_config-31010306,1
 mission_skill_config-11010307,
 mission_skill_config-21010307,
 mission_skill_config-31010307,1
-mission_skill_config-11010308,
+mission_skill_config-11010308,権限をアンロック
 mission_skill_config-21010308,
 mission_skill_config-31010308,1
 mission_skill_config-11010309,
@@ -961,13 +961,13 @@ mission_skill_config-31010402,1
 mission_skill_config-11010403,
 mission_skill_config-21010403,
 mission_skill_config-31010403,1
-mission_skill_config-11010404,
+mission_skill_config-11010404,権限をアンロック
 mission_skill_config-21010404,
 mission_skill_config-31010404,1
 mission_skill_config-11010405,
 mission_skill_config-21010405,
 mission_skill_config-31010405,1
-mission_skill_config-11010406,
+mission_skill_config-11010406,権限をアンロック
 mission_skill_config-21010406,
 mission_skill_config-31010406,1
 mission_skill_config-11010407,
@@ -979,20 +979,20 @@ mission_skill_config-31010408,1
 mission_skill_config-11010409,
 mission_skill_config-21010409,
 mission_skill_config-31010409,1
-mission_skill_config-11010410,
+mission_skill_config-11010410,権限をアンロック
 mission_skill_config-21010410,
 mission_skill_config-31010410,1
 mission_skill_config-11010411,
 mission_skill_config-21010411,
 mission_skill_config-31010411,1
-mission_skill_config-11010412,
+mission_skill_config-11010412,権限をアンロック
 mission_skill_config-21010412,
 mission_skill_config-31010412,1
 mission_skill_config-11010413,
 mission_skill_config-21010413,
 mission_skill_config-31010413,1
-mission_skill_config-11010414,
-mission_skill_config-21010414,
+mission_skill_config-11010414,権限をアンロック
+mission_skill_config-21010414,制御パネルIIの最高権限をアンロックし、当該制御パネルの型番と対応する全設備の操作画面を開放する。
 mission_skill_config-31010414,1
 mission_skill_config-11010415,
 mission_skill_config-21010415,
@@ -1009,20 +1009,20 @@ mission_skill_config-31010502,1
 mission_skill_config-11010503,
 mission_skill_config-21010503,
 mission_skill_config-31010503,
-mission_skill_config-11010504,
+mission_skill_config-11010504,権限をアンロック
 mission_skill_config-21010504,
 mission_skill_config-31010504,
 mission_skill_config-11010505,
 mission_skill_config-21010505,
 mission_skill_config-31010505,
-mission_skill_config-11010506,
+mission_skill_config-11010506,権限をアンロック
 mission_skill_config-21010506,
 mission_skill_config-31010506,
 mission_skill_config-11010507,
 mission_skill_config-21010507,
 mission_skill_config-31010507,
-mission_skill_config-11010508,
-mission_skill_config-21010508,
+mission_skill_config-11010508,権限をアンロック
+mission_skill_config-21010508,制御パネルIIの最高権限をアンロックし、当該制御パネルの型番と対応する全設備の操作画面を開放する。
 mission_skill_config-31010508,
 mission_skill_config-11010509,
 mission_skill_config-21010509,
@@ -1039,19 +1039,19 @@ mission_skill_config-31010602,
 mission_skill_config-11010603,
 mission_skill_config-21010603,
 mission_skill_config-31010603,
-mission_skill_config-11010604,
+mission_skill_config-11010604,権限をアンロック
 mission_skill_config-21010604,
 mission_skill_config-31010604,
 mission_skill_config-11010605,
 mission_skill_config-21010605,
 mission_skill_config-31010605,
-mission_skill_config-11010606,
+mission_skill_config-11010606,権限をアンロック
 mission_skill_config-21010606,
 mission_skill_config-31010606,
 mission_skill_config-11010607,
 mission_skill_config-21010607,
 mission_skill_config-31010607,
-mission_skill_config-11010608,
+mission_skill_config-11010608,権限をアンロック
 mission_skill_config-21010608,
 mission_skill_config-31010608,
 mission_skill_config-11010609,
@@ -1069,13 +1069,13 @@ mission_skill_config-31010702,
 mission_skill_config-11010703,
 mission_skill_config-21010703,
 mission_skill_config-31010703,
-mission_skill_config-11010704,
+mission_skill_config-11010704,権限をアンロック
 mission_skill_config-21010704,
 mission_skill_config-31010704,
 mission_skill_config-11010705,
 mission_skill_config-21010705,
 mission_skill_config-31010705,
-mission_skill_config-11010706,
+mission_skill_config-11010706,権限をアンロック
 mission_skill_config-21010706,
 mission_skill_config-31010706,
 mission_skill_config-11010707,
@@ -1093,13 +1093,13 @@ mission_skill_config-31010802,
 mission_skill_config-11010803,
 mission_skill_config-21010803,
 mission_skill_config-31010803,
-mission_skill_config-11010804,
+mission_skill_config-11010804,権限をアンロック
 mission_skill_config-21010804,
 mission_skill_config-31010804,
 mission_skill_config-11010805,
 mission_skill_config-21010805,
 mission_skill_config-31010805,
-mission_skill_config-11010806,
+mission_skill_config-11010806,権限をアンロック
 mission_skill_config-21010806,
 mission_skill_config-31010806,
 mission_skill_config-11010807,
@@ -1775,7 +1775,7 @@ mission_skill_config-12000005,
 mission_skill_config-22000005,
 mission_skill_config-32000005,
 mission_skill_config-12000006,
-mission_skill_config-22000006,
+mission_skill_config-22000006,堅牢な防御施設、閉ざすことで道路の封鎖が可能。//n「門を閉ざす際は十分に距離をとってください」と警告が記されてある。
 mission_skill_config-32000006,
 mission_skill_config-12000007,
 mission_skill_config-22000007,
@@ -1789,3 +1789,747 @@ mission_skill_config-32000009,
 mission_skill_config-12000010,
 mission_skill_config-22000010,
 mission_skill_config-32000010,
+mission_skill_config-11020126,Openコマンド(防御ゲートI型①用)
+mission_skill_config-21020126,防御ゲートI型①をOpen状態に変更する
+mission_skill_config-31020126,
+mission_skill_config-11020127,Closeコマンド(防御ゲートI型①用)
+mission_skill_config-21020127,防御ゲートI型①をClose状態に変更する
+mission_skill_config-31020127,
+mission_skill_config-11020218,Openコマンド(防御ゲートI型②用)
+mission_skill_config-21020218,防御ゲートI型②をOpen状態に変更する
+mission_skill_config-31020218,
+mission_skill_config-11020219,Closeコマンド(防御ゲートI型②用)
+mission_skill_config-21020219,防御ゲートI型②をClose状態に変更する
+mission_skill_config-31020219,
+mission_skill_config-11020313,Openコマンド(防御ゲートI型③用)
+mission_skill_config-21020313,防御ゲートI型③をOpen状態に変更する
+mission_skill_config-31020313,
+mission_skill_config-11020314,Closeコマンド(防御ゲートI型③用)
+mission_skill_config-21020314,防御ゲートI型③をClose状態に変更する
+mission_skill_config-31020314,
+mission_skill_config-11020410,Openコマンド(防御ゲートI型④用)
+mission_skill_config-21020410,防御ゲートI型④をOpen状態に変更する
+mission_skill_config-31020410,
+mission_skill_config-11020411,Closeコマンド(防御ゲートI型④用)
+mission_skill_config-21020411,防御ゲートI型④をClose状態に変更する
+mission_skill_config-31020411,
+mission_skill_config-11020700,Do not translate
+mission_skill_config-21020700,Do not translate
+mission_skill_config-31020700,
+mission_skill_config-11020701,Do not translate
+mission_skill_config-21020701,Do not translate
+mission_skill_config-31020701,
+mission_skill_config-11020702,Do not translate
+mission_skill_config-21020702,Do not translate
+mission_skill_config-31020702,
+mission_skill_config-11020703,Do not translate
+mission_skill_config-21020703,Do not translate
+mission_skill_config-31020703,
+mission_skill_config-11020704,防御ゲートを閉じるVIIダメージ(敵へ)
+mission_skill_config-21020704,防御ゲートを閉じるVIIダメージ(敵へ)
+mission_skill_config-31020704,
+mission_skill_config-11020705,防御ゲートを閉じるVIIダメージ(味方/人質へ)
+mission_skill_config-21020705,防御ゲートを閉じるVIIダメージ(味方/人質へ)
+mission_skill_config-31020705,
+mission_skill_config-11020706,Openコマンド(防御ゲートVII用)
+mission_skill_config-21020706,防御ゲートVIIをOpen状態に変更する
+mission_skill_config-31020706,
+mission_skill_config-11020707,Closeコマンド(防御ゲートVII用)
+mission_skill_config-21020707,防御ゲートVIIをClose状態に変更する
+mission_skill_config-31020707,
+mission_skill_config-11020708,Openコマンド(防御ゲートI型⑤用)
+mission_skill_config-21020708,防御ゲートI型⑤をOpen状態に変更する
+mission_skill_config-31020708,
+mission_skill_config-11020709,Closeコマンド(防御ゲートI型⑤用)
+mission_skill_config-21020709,防御ゲートI型⑤をClose状態に変更する
+mission_skill_config-31020709,
+mission_skill_config-11020800,Do not translate
+mission_skill_config-21020800,Do not translate
+mission_skill_config-31020800,
+mission_skill_config-11020801,Do not translate
+mission_skill_config-21020801,Do not translate
+mission_skill_config-31020801,
+mission_skill_config-11020802,Do not translate
+mission_skill_config-21020802,Do not translate
+mission_skill_config-31020802,
+mission_skill_config-11020803,Do not translate
+mission_skill_config-21020803,Do not translate
+mission_skill_config-31020803,
+mission_skill_config-11020804,防御ゲートを閉じるVIIIダメージ(敵へ)
+mission_skill_config-21020804,防御ゲートを閉じるVIIIダメージ(敵へ)
+mission_skill_config-31020804,
+mission_skill_config-11020805,防御ゲートを閉じるVIIIダメージ(味方/人質へ)
+mission_skill_config-21020805,防御ゲートを閉じるVIIIダメージ(味方/人質へ)
+mission_skill_config-31020805,
+mission_skill_config-11020806,Openコマンド(防御ゲートVIII用)
+mission_skill_config-21020806,防御ゲートVIIIをOpen状態に変更する
+mission_skill_config-31020806,
+mission_skill_config-11020807,Closeコマンド(防御ゲートVIII用)
+mission_skill_config-21020807,防御ゲートVIIIをClose状態に変更する
+mission_skill_config-31020807,
+mission_skill_config-11020900,Do not translate
+mission_skill_config-21020900,Do not translate
+mission_skill_config-31020900,
+mission_skill_config-11020901,Do not translate
+mission_skill_config-21020901,Do not translate
+mission_skill_config-31020901,
+mission_skill_config-11020902,Do not translate
+mission_skill_config-21020902,Do not translate
+mission_skill_config-31020902,
+mission_skill_config-11020903,Do not translate
+mission_skill_config-21020903,Do not translate
+mission_skill_config-31020903,
+mission_skill_config-11020904,防御ゲートを閉じるIXダメージ(敵へ)
+mission_skill_config-21020904,防御ゲートを閉じるIXダメージ(敵へ)
+mission_skill_config-31020904,
+mission_skill_config-11020905,防御ゲートを閉じるIXダメージ(味方/人質へ)
+mission_skill_config-21020905,防御ゲートを閉じるIXダメージ(味方/人質へ)
+mission_skill_config-31020905,
+mission_skill_config-11020906,Openコマンド(防御ゲートIX用)
+mission_skill_config-21020906,防御ゲートIXをOpen状態に変更する
+mission_skill_config-31020906,
+mission_skill_config-11020907,Closeコマンド(防御ゲートIX用)
+mission_skill_config-21020907,防御ゲートIXをClose状態に変更する
+mission_skill_config-31020907,
+mission_skill_config-11021000,Do not translate
+mission_skill_config-21021000,Do not translate
+mission_skill_config-31021000,
+mission_skill_config-11021001,Do not translate
+mission_skill_config-21021001,Do not translate
+mission_skill_config-31021001,
+mission_skill_config-11021002,Do not translate
+mission_skill_config-21021002,Do not translate
+mission_skill_config-31021002,
+mission_skill_config-11021003,Do not translate
+mission_skill_config-21021003,Do not translate
+mission_skill_config-31021003,
+mission_skill_config-11021004,防御ゲートを閉じるXダメージ(敵へ)
+mission_skill_config-21021004,防御ゲートを閉じるXダメージ(敵へ)
+mission_skill_config-31021004,
+mission_skill_config-11021005,防御ゲートを閉じるXダメージ(味方/人質へ)
+mission_skill_config-21021005,防御ゲートを閉じるXダメージ(味方/人質へ)
+mission_skill_config-31021005,
+mission_skill_config-11021006,Openコマンド(防御ゲートX用)
+mission_skill_config-21021006,防御ゲートXをOpen状態に変更する
+mission_skill_config-31021006,
+mission_skill_config-11021007,Closeコマンド(防御ゲートX用)
+mission_skill_config-21021007,防御ゲートXをClose状態に変更する
+mission_skill_config-31021007,
+mission_skill_config-11021100,Do not translate
+mission_skill_config-21021100,Do not translate
+mission_skill_config-31021100,
+mission_skill_config-11021101,Do not translate
+mission_skill_config-21021101,Do not translate
+mission_skill_config-31021101,
+mission_skill_config-11021102,Do not translate
+mission_skill_config-21021102,Do not translate
+mission_skill_config-31021102,
+mission_skill_config-11021103,Do not translate
+mission_skill_config-21021103,Do not translate
+mission_skill_config-31021103,
+mission_skill_config-11021104,防御ゲートを閉じるXIダメージ(敵へ)
+mission_skill_config-21021104,防御ゲートを閉じるXIダメージ(敵へ)
+mission_skill_config-31021104,
+mission_skill_config-11021105,防御ゲートを閉じるXIダメージ(味方/人質へ)
+mission_skill_config-21021105,防御ゲートを閉じるXIダメージ(味方/人質へ)
+mission_skill_config-31021105,
+mission_skill_config-11021106,Openコマンド(防御ゲートXI用)
+mission_skill_config-21021106,防御ゲートXIをOpen状態に変更する
+mission_skill_config-31021106,
+mission_skill_config-11021107,Closeコマンド(防御ゲートXI用)
+mission_skill_config-21021107,防御ゲートXIをClose状態に変更する
+mission_skill_config-31021107,
+mission_skill_config-11021200,Do not translate
+mission_skill_config-21021200,Do not translate
+mission_skill_config-31021200,
+mission_skill_config-11021201,Do not translate
+mission_skill_config-21021201,Do not translate
+mission_skill_config-31021201,
+mission_skill_config-11021202,Do not translate
+mission_skill_config-21021202,Do not translate
+mission_skill_config-31021202,
+mission_skill_config-11021203,Do not translate
+mission_skill_config-21021203,Do not translate
+mission_skill_config-31021203,
+mission_skill_config-11021204,防御ゲートを閉じるXIIダメージ(敵へ)
+mission_skill_config-21021204,防御ゲートを閉じるXIIダメージ(敵へ)
+mission_skill_config-31021204,
+mission_skill_config-11021205,防御ゲートを閉じるXIIダメージ(味方/人質へ)
+mission_skill_config-21021205,防御ゲートを閉じるXIIダメージ(味方/人質へ)
+mission_skill_config-31021205,
+mission_skill_config-11021206,Openコマンド(防御ゲートXII用)
+mission_skill_config-21021206,防御ゲートXIIをOpen状態に変更する
+mission_skill_config-31021206,
+mission_skill_config-11021207,Closeコマンド(防御ゲートXII用)
+mission_skill_config-21021207,防御ゲートXIIをClose状態に変更する
+mission_skill_config-31021207,
+mission_skill_config-11021300,Do not translate
+mission_skill_config-21021300,Do not translate
+mission_skill_config-31021300,
+mission_skill_config-11021301,Do not translate
+mission_skill_config-21021301,Do not translate
+mission_skill_config-31021301,
+mission_skill_config-11021302,Do not translate
+mission_skill_config-21021302,Do not translate
+mission_skill_config-31021302,
+mission_skill_config-11021303,Do not translate
+mission_skill_config-21021303,Do not translate
+mission_skill_config-31021303,
+mission_skill_config-11021304,防御ゲートを閉じるXIIIダメージ(敵へ)
+mission_skill_config-21021304,防御ゲートを閉じるXIIIダメージ(敵へ)
+mission_skill_config-31021304,
+mission_skill_config-11021305,防御ゲートを閉じるXIIIダメージ(味方/人質へ)
+mission_skill_config-21021305,防御ゲートを閉じるXIIIダメージ(味方/人質へ)
+mission_skill_config-31021305,
+mission_skill_config-11021306,Openコマンド(防御ゲートXIII用)
+mission_skill_config-21021306,防御ゲートXIIIをOpen状態に変更する
+mission_skill_config-31021306,
+mission_skill_config-11021307,Closeコマンド(防御ゲートXIII用)
+mission_skill_config-21021307,防御ゲートXIIIをClose状態に変更する
+mission_skill_config-31021307,
+mission_skill_config-19321201,RandomコマンドA(防御ゲートII①用)
+mission_skill_config-29321201,防御ゲートII型①をOpen状態に変更する
+mission_skill_config-39321201,
+mission_skill_config-19321202,RandomコマンドB(防御ゲートII①、②用)
+mission_skill_config-29321202,防御ゲートII型①をClose状態に変更し、防御ゲートII型②をOpen状態に変更する
+mission_skill_config-39321202,
+mission_skill_config-19321203,RandomコマンドC(防御ゲートII②、③用)
+mission_skill_config-29321203,防御ゲートII型②、③をOpen状態に変更する
+mission_skill_config-39321203,
+mission_skill_config-19321204,
+mission_skill_config-29321204,
+mission_skill_config-39321204,
+mission_skill_config-19321205,
+mission_skill_config-29321205,
+mission_skill_config-39321205,
+mission_skill_config-19321206,RandomコマンドD(防御ゲートII②、③用)
+mission_skill_config-29321206,防御ゲートII型②をClose状態に変更し、防御ゲートII型③をOpen状態に変更する
+mission_skill_config-39321206,
+mission_skill_config-19321207,
+mission_skill_config-29321207,
+mission_skill_config-39321207,
+mission_skill_config-19321208,RandomコマンドE(防御ゲートII①、②用)
+mission_skill_config-29321208,防御ゲートII型①、②をClose状態に変更する
+mission_skill_config-39321208,
+mission_skill_config-19321209,
+mission_skill_config-29321209,
+mission_skill_config-39321209,
+mission_skill_config-19321210,RandomコマンドF(防御ゲートII②、③用)
+mission_skill_config-29321210,防御ゲートII型②、③をClose状態に変更する
+mission_skill_config-39321210,
+mission_skill_config-19321211,
+mission_skill_config-29321211,
+mission_skill_config-39321211,
+mission_skill_config-19321212,RandomコマンドG(防御ゲートII③、④用)
+mission_skill_config-29321212,防御ゲートII型③、④をClose状態に変更する
+mission_skill_config-39321212,
+mission_skill_config-19321213,
+mission_skill_config-29321213,
+mission_skill_config-39321213,
+mission_skill_config-19321214,RandomコマンドH(防御ゲートII①、③用)
+mission_skill_config-29321214,防御ゲートII型①、③をClose状態に変更する
+mission_skill_config-39321214,
+mission_skill_config-19321215,RandomコマンドI(防御ゲートII①、④用)
+mission_skill_config-29321215,防御ゲートII型①、④をClose状態に変更する
+mission_skill_config-39321215,
+mission_skill_config-19321216,RandomコマンドJ(防御ゲートII②、④用)
+mission_skill_config-29321216,防御ゲートII型②、④をClose状態に変更する
+mission_skill_config-39321216,
+mission_skill_config-19321217,権限をアンロック
+mission_skill_config-29321217,制御パネルIIの最高権限をアンロックし、当該制御パネルの型番と対応する全設備の操作画面を開放する。
+mission_skill_config-39321217,
+mission_skill_config-19321218,権限をアンロック
+mission_skill_config-29321218,制御パネルIIの最高権限をアンロックし、当該制御パネルの型番と対応する全設備の操作画面を開放する。
+mission_skill_config-39321218,
+mission_skill_config-19321219,Do not translate
+mission_skill_config-29321219,
+mission_skill_config-39321219,
+mission_skill_config-19321220,Do not translate
+mission_skill_config-29321220,
+mission_skill_config-39321220,
+mission_skill_config-19321221,Do not translate
+mission_skill_config-29321221,
+mission_skill_config-39321221,
+mission_skill_config-19321222,Do not translate
+mission_skill_config-29321222,制御パネルIIの最高権限をアンロックし、当該制御パネルの型番と対応する全設備の操作画面を開放する。
+mission_skill_config-39321222,
+mission_skill_config-19321223,RandomコマンドK(防御ゲートII③、④用)
+mission_skill_config-29321223,防御ゲートII型③をClose状態に変更し、防御ゲートII型④をOpen状態に変更する
+mission_skill_config-39321223,
+mission_skill_config-19321224,
+mission_skill_config-29321224,
+mission_skill_config-39321224,
+mission_skill_config-19321225,RandomコマンドL(防御ゲートII用)
+mission_skill_config-29321225,全ての防御ゲートII型をClose状態に変更する
+mission_skill_config-39321225,
+mission_skill_config-19321226,
+mission_skill_config-29321226,
+mission_skill_config-39321226,
+mission_skill_config-19321501,Do not translate
+mission_skill_config-29321501,Do not translate
+mission_skill_config-39321501,
+mission_skill_config-19321502,Do not translate
+mission_skill_config-29321502,Do not translate
+mission_skill_config-39321502,
+mission_skill_config-19321503,祝おう！
+mission_skill_config-29321503,新たなる王の誕生に、祝砲を！
+mission_skill_config-39321503,
+mission_skill_config-19321504,Do not translate
+mission_skill_config-29321504,Do not translate
+mission_skill_config-39321504,
+mission_skill_config-19321601,Do not translate
+mission_skill_config-29321601,
+mission_skill_config-39321601,
+mission_skill_config-19331201,
+mission_skill_config-29331201,
+mission_skill_config-39331201,
+mission_skill_config-19331401,権限をアンロック
+mission_skill_config-29331401,
+mission_skill_config-39331401,
+mission_skill_config-19331402,
+mission_skill_config-29331402,
+mission_skill_config-39331402,
+mission_skill_config-19335201,Don't translate
+mission_skill_config-29335201,
+mission_skill_config-39335201,
+mission_skill_config-19335202,権限をアンロック
+mission_skill_config-29335202,
+mission_skill_config-39335202,
+mission_skill_config-19335203,権限をアンロック
+mission_skill_config-29335203,
+mission_skill_config-39335203,
+mission_skill_config-19335204,権限をアンロック
+mission_skill_config-29335204,
+mission_skill_config-39335204,
+mission_skill_config-19335205,権限をアンロック
+mission_skill_config-29335205,
+mission_skill_config-39335205,
+mission_skill_config-19335206,リセット
+mission_skill_config-29335206,
+mission_skill_config-39335206,
+mission_skill_config-19335207,Don't translate
+mission_skill_config-29335207,
+mission_skill_config-39335207,
+mission_skill_config-19335208,Don't translate
+mission_skill_config-29335208,
+mission_skill_config-39335208,
+mission_skill_config-19335209,Don't translate
+mission_skill_config-29335209,
+mission_skill_config-39335209,
+mission_skill_config-19335210,Don't translate
+mission_skill_config-29335210,
+mission_skill_config-39335210,
+mission_skill_config-19335211,Don't translate
+mission_skill_config-29335211,
+mission_skill_config-39335211,
+mission_skill_config-19335212,Don't translate
+mission_skill_config-29335212,
+mission_skill_config-39335212,
+mission_skill_config-19335301,Don't translate
+mission_skill_config-29335301,
+mission_skill_config-39335301,
+mission_skill_config-19335302,Don't translate
+mission_skill_config-29335302,
+mission_skill_config-39335302,
+mission_skill_config-19335303,
+mission_skill_config-29335303,
+mission_skill_config-39335303,
+mission_skill_config-19335401,
+mission_skill_config-29335401,
+mission_skill_config-39335401,
+mission_skill_config-19335402,Don't translate
+mission_skill_config-29335402,
+mission_skill_config-39335402,
+mission_skill_config-19335403,Don't translate
+mission_skill_config-29335403,
+mission_skill_config-39335403,
+mission_skill_config-19335404,
+mission_skill_config-29335404,
+mission_skill_config-39335404,
+mission_skill_config-19335405,Don't translate
+mission_skill_config-29335405,
+mission_skill_config-39335405,
+mission_skill_config-19335406,Don't translate
+mission_skill_config-29335406,
+mission_skill_config-39335406,
+mission_skill_config-19335407,
+mission_skill_config-29335407,
+mission_skill_config-39335407,
+mission_skill_config-19335408,Don't translate
+mission_skill_config-29335408,
+mission_skill_config-39335408,
+mission_skill_config-19335409,Don't translate
+mission_skill_config-29335409,
+mission_skill_config-39335409,
+mission_skill_config-19335501,Don't translate
+mission_skill_config-29335501,
+mission_skill_config-39335501,
+mission_skill_config-19335502,Don't translate
+mission_skill_config-29335502,
+mission_skill_config-39335502,
+mission_skill_config-19335503,
+mission_skill_config-29335503,
+mission_skill_config-39335503,
+mission_skill_config-19335504,
+mission_skill_config-29335504,
+mission_skill_config-39335504,
+mission_skill_config-19331901,権限をアンロック
+mission_skill_config-29331901,制御パネルIIの最高権限をアンロックし、当該制御パネルの型番と対応する全設備の操作画面を開放する。
+mission_skill_config-39331901,
+mission_skill_config-19331902,
+mission_skill_config-29331902,
+mission_skill_config-39331902,
+mission_skill_config-19332101,Don't translate
+mission_skill_config-29332101,
+mission_skill_config-39332101,
+mission_skill_config-19332102,
+mission_skill_config-29332102,
+mission_skill_config-39332102,
+mission_skill_config-19332103,
+mission_skill_config-29332103,
+mission_skill_config-39332103,
+mission_skill_config-19332104,
+mission_skill_config-29332104,
+mission_skill_config-39332104,
+mission_skill_config-19332105,Don't translate
+mission_skill_config-29332105,
+mission_skill_config-39332105,
+mission_skill_config-19332106,
+mission_skill_config-29332106,
+mission_skill_config-39332106,
+mission_skill_config-19332107,Don't translate
+mission_skill_config-29332107,
+mission_skill_config-39332107,
+mission_skill_config-19332108,Don't translate
+mission_skill_config-29332108,
+mission_skill_config-39332108,
+mission_skill_config-19332109,Don't translate
+mission_skill_config-29332109,
+mission_skill_config-39332109,
+mission_skill_config-19332110,
+mission_skill_config-29332110,
+mission_skill_config-39332110,
+mission_skill_config-19332111,
+mission_skill_config-29332111,
+mission_skill_config-39332111,
+mission_skill_config-19332112,
+mission_skill_config-29332112,
+mission_skill_config-39332112,
+mission_skill_config-19332113,
+mission_skill_config-29332113,
+mission_skill_config-39332113,
+mission_skill_config-19332114,
+mission_skill_config-29332114,
+mission_skill_config-39332114,
+mission_skill_config-19332115,
+mission_skill_config-29332115,
+mission_skill_config-39332115,
+mission_skill_config-19333001,
+mission_skill_config-29333001,
+mission_skill_config-39333001,
+mission_skill_config-19333002,権限をアンロック
+mission_skill_config-29333002,
+mission_skill_config-39333002,
+mission_skill_config-19333003,
+mission_skill_config-29333003,
+mission_skill_config-39333003,
+mission_skill_config-19333004,
+mission_skill_config-29333004,
+mission_skill_config-39333004,
+mission_skill_config-19333005,
+mission_skill_config-29333005,
+mission_skill_config-39333005,
+mission_skill_config-19333011,
+mission_skill_config-29333011,
+mission_skill_config-39333011,
+mission_skill_config-19333012,
+mission_skill_config-29333012,
+mission_skill_config-39333012,
+mission_skill_config-19333021,
+mission_skill_config-29333021,
+mission_skill_config-39333021,
+mission_skill_config-19333022,
+mission_skill_config-29333022,
+mission_skill_config-39333022,
+mission_skill_config-19333201,
+mission_skill_config-29333201,
+mission_skill_config-39333201,
+mission_skill_config-19333202,
+mission_skill_config-29333202,
+mission_skill_config-39333202,
+mission_skill_config-19333203,
+mission_skill_config-29333203,
+mission_skill_config-39333203,
+mission_skill_config-19333204,
+mission_skill_config-29333204,
+mission_skill_config-39333204,
+mission_skill_config-19333205,
+mission_skill_config-29333205,
+mission_skill_config-39333205,
+mission_skill_config-19333210,
+mission_skill_config-29333210,
+mission_skill_config-39333210,
+mission_skill_config-19333211,
+mission_skill_config-29333211,
+mission_skill_config-39333211,
+mission_skill_config-19333212,
+mission_skill_config-29333212,
+mission_skill_config-39333212,
+mission_skill_config-19333213,
+mission_skill_config-29333213,
+mission_skill_config-39333213,
+mission_skill_config-19333214,
+mission_skill_config-29333214,
+mission_skill_config-39333214,
+mission_skill_config-19333215,
+mission_skill_config-29333215,
+mission_skill_config-39333215,
+mission_skill_config-19333216,
+mission_skill_config-29333216,
+mission_skill_config-39333216,
+mission_skill_config-19333217,
+mission_skill_config-29333217,
+mission_skill_config-39333217,
+mission_skill_config-19333218,
+mission_skill_config-29333218,
+mission_skill_config-39333218,
+mission_skill_config-19333221,
+mission_skill_config-29333221,
+mission_skill_config-39333221,
+mission_skill_config-19333222,
+mission_skill_config-29333222,
+mission_skill_config-39333222,
+mission_skill_config-19333223,
+mission_skill_config-29333223,
+mission_skill_config-39333223,
+mission_skill_config-19333224,
+mission_skill_config-29333224,
+mission_skill_config-39333224,
+mission_skill_config-19333225,
+mission_skill_config-29333225,
+mission_skill_config-39333225,
+mission_skill_config-19333226,
+mission_skill_config-29333226,
+mission_skill_config-39333226,
+mission_skill_config-19333230,
+mission_skill_config-29333230,
+mission_skill_config-39333230,
+mission_skill_config-19333231,
+mission_skill_config-29333231,
+mission_skill_config-39333231,
+mission_skill_config-19333232,
+mission_skill_config-29333232,
+mission_skill_config-39333232,
+mission_skill_config-19333233,
+mission_skill_config-29333233,
+mission_skill_config-39333233,
+mission_skill_config-19333234,
+mission_skill_config-29333234,
+mission_skill_config-39333234,
+mission_skill_config-19333235,
+mission_skill_config-29333235,
+mission_skill_config-39333235,
+mission_skill_config-19333236,
+mission_skill_config-29333236,
+mission_skill_config-39333236,
+mission_skill_config-19333401,
+mission_skill_config-29333401,
+mission_skill_config-39333401,
+mission_skill_config-19333402,
+mission_skill_config-29333402,
+mission_skill_config-39333402,
+mission_skill_config-19333403,
+mission_skill_config-29333403,
+mission_skill_config-39333403,
+mission_skill_config-19333404,
+mission_skill_config-29333404,
+mission_skill_config-39333404,
+mission_skill_config-19333405,
+mission_skill_config-29333405,
+mission_skill_config-39333405,
+mission_skill_config-19333411,
+mission_skill_config-29333411,
+mission_skill_config-39333411,
+mission_skill_config-19333412,
+mission_skill_config-29333412,制御パネルIIの最高権限をアンロックし、当該制御パネルの型番と対応する全設備の操作画面を開放する。
+mission_skill_config-39333412,
+mission_skill_config-19333413,
+mission_skill_config-29333413,
+mission_skill_config-39333413,
+mission_skill_config-19333414,
+mission_skill_config-29333414,
+mission_skill_config-39333414,
+mission_skill_config-19333415,
+mission_skill_config-29333415,
+mission_skill_config-39333415,
+mission_skill_config-19333416,
+mission_skill_config-29333416,
+mission_skill_config-39333416,
+mission_skill_config-19333417,
+mission_skill_config-29333417,
+mission_skill_config-39333417,
+mission_skill_config-19333418,
+mission_skill_config-29333418,
+mission_skill_config-39333418,
+mission_skill_config-19337201,Don't translate
+mission_skill_config-29337201,
+mission_skill_config-39337201,
+mission_skill_config-19336101,
+mission_skill_config-29336101,
+mission_skill_config-39336101,
+mission_skill_config-19336102,権限をアンロック
+mission_skill_config-29336102,
+mission_skill_config-39336102,
+mission_skill_config-19336103,
+mission_skill_config-29336103,
+mission_skill_config-39336103,
+mission_skill_config-12000011,
+mission_skill_config-22000011,
+mission_skill_config-32000011,
+mission_skill_config-12000012,
+mission_skill_config-22000012,
+mission_skill_config-32000012,
+mission_skill_config-12000013,
+mission_skill_config-22000013,
+mission_skill_config-32000013,
+mission_skill_config-12000014,
+mission_skill_config-22000014,
+mission_skill_config-32000014,
+mission_skill_config-12000015,
+mission_skill_config-22000015,
+mission_skill_config-32000015,
+mission_skill_config-12000016,
+mission_skill_config-22000016,
+mission_skill_config-32000016,
+mission_skill_config-19336201,
+mission_skill_config-29336201,
+mission_skill_config-39336201,
+mission_skill_config-19336202,
+mission_skill_config-29336202,
+mission_skill_config-39336202,
+mission_skill_config-19336203,
+mission_skill_config-29336203,
+mission_skill_config-39336203,
+mission_skill_config-19336204,権限をアンロック
+mission_skill_config-29336204,
+mission_skill_config-39336204,
+mission_skill_config-19336205,権限をアンロック
+mission_skill_config-29336205,
+mission_skill_config-39336205,
+mission_skill_config-19336206,権限をアンロック
+mission_skill_config-29336206,
+mission_skill_config-39336206,
+mission_skill_config-19336207,権限をアンロック
+mission_skill_config-29336207,
+mission_skill_config-39336207,
+mission_skill_config-19336208,リセット
+mission_skill_config-29336208,
+mission_skill_config-39336208,
+mission_skill_config-19336209,
+mission_skill_config-29336209,
+mission_skill_config-39336209,
+mission_skill_config-19336210,
+mission_skill_config-29336210,
+mission_skill_config-39336210,
+mission_skill_config-19336211,
+mission_skill_config-29336211,
+mission_skill_config-39336211,
+mission_skill_config-19336212,
+mission_skill_config-29336212,
+mission_skill_config-39336212,
+mission_skill_config-19336213,
+mission_skill_config-29336213,
+mission_skill_config-39336213,
+mission_skill_config-19336214,
+mission_skill_config-29336214,
+mission_skill_config-39336214,
+mission_skill_config-19336215,権限をアンロック
+mission_skill_config-29336215,
+mission_skill_config-39336215,
+mission_skill_config-19336216,
+mission_skill_config-29336216,
+mission_skill_config-39336216,
+mission_skill_config-19336217,権限をアンロック
+mission_skill_config-29336217,
+mission_skill_config-39336217,
+mission_skill_config-19336218,権限をアンロック
+mission_skill_config-29336218,
+mission_skill_config-39336218,
+mission_skill_config-19336219,権限をアンロック
+mission_skill_config-29336219,
+mission_skill_config-39336219,
+mission_skill_config-19336220,権限をアンロック
+mission_skill_config-29336220,
+mission_skill_config-39336220,
+mission_skill_config-19336304,権限をアンロック
+mission_skill_config-29336304,
+mission_skill_config-39336304,
+mission_skill_config-19336305,権限をアンロック
+mission_skill_config-29336305,
+mission_skill_config-39336305,
+mission_skill_config-19336306,Openコマンド(防御ゲートI型③用)
+mission_skill_config-29336306,
+mission_skill_config-39336306,
+mission_skill_config-19337202,
+mission_skill_config-29337202,
+mission_skill_config-39337202,
+mission_skill_config-19333601,
+mission_skill_config-29333601,
+mission_skill_config-39333601,
+mission_skill_config-19333602,
+mission_skill_config-29333602,
+mission_skill_config-39333602,
+mission_skill_config-19333603,
+mission_skill_config-29333603,
+mission_skill_config-39333603,
+mission_skill_config-19333604,
+mission_skill_config-29333604,
+mission_skill_config-39333604,
+mission_skill_config-19333605,
+mission_skill_config-29333605,
+mission_skill_config-39333605,
+mission_skill_config-19333611,
+mission_skill_config-29333611,
+mission_skill_config-39333611,
+mission_skill_config-19333612,
+mission_skill_config-29333612,
+mission_skill_config-39333612,
+mission_skill_config-19333613,
+mission_skill_config-29333613,
+mission_skill_config-39333613,
+mission_skill_config-19333614,
+mission_skill_config-29333614,
+mission_skill_config-39333614,
+mission_skill_config-19336401,
+mission_skill_config-29336401,
+mission_skill_config-39336401,
+mission_skill_config-10001701,
+mission_skill_config-20001701,
+mission_skill_config-30001701,
+mission_skill_config-10001702,
+mission_skill_config-20001702,
+mission_skill_config-30001702,
+mission_skill_config-10001703,
+mission_skill_config-20001703,
+mission_skill_config-30001703,
+mission_skill_config-10001704,
+mission_skill_config-20001704,
+mission_skill_config-30001704,
+mission_skill_config-10001705,
+mission_skill_config-20001705,
+mission_skill_config-30001705,
+mission_skill_config-10001706,
+mission_skill_config-20001706,
+mission_skill_config-30001706,
+mission_skill_config-10001707,
+mission_skill_config-20001707,
+mission_skill_config-30001707,
+mission_skill_config-10001708,
+mission_skill_config-20001708,
+mission_skill_config-30001708,
+mission_skill_config-10001709,
+mission_skill_config-20001709,
+mission_skill_config-30001709,
+mission_skill_config-10001710,
+mission_skill_config-20001710,
+mission_skill_config-30001710,

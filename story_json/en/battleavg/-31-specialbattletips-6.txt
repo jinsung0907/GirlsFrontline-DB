@@ -1,1 +1,1 @@
-[{"character":["M4A1Mod"],"character_emotion":["0"],"speaker_name":"M4A1","speaker":0,"bg":"10","text":"鐵血的火力系統正在充能，現在是發動攻擊的好機會！\n別以為我還是過去那副樣子，M16A1……你敢做的事情，我也做得到！\n【<color=#FE0000FF>AN94、AR15、AK12的QTE成功後即可釋放M4技能</color>】\n【<color=#FE0000FF>QTE成功即可釋放伸冤者印記造成大量傷害</color>】"}]
+[{"character":["M4A1Mod"],"character_emotion":["0"],"speaker_name":"M4A1","speaker":0,"bg":"10","text":"铁血的火力系统正在充能，现在是发动攻击的好机会！\n别以为我还是过去那副样子，M16A1……你敢做的事情，我也做得到！\n【<color=#FE0000FF>AN94、AR15、AK12的QTE成功后即可释放M4技能</color>】\n【<color=#FE0000FF>QTE成功即可释放伸冤者印记造成大量伤害</color>】"}]

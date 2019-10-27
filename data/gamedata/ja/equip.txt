@@ -299,14 +299,14 @@ equip-10000101,XM261拳銃弾
 equip-20000101,火力+<pow> 破甲<armor_piercing>//n$M1911専用
 equip-30000101,かつての残酷な戦争において、塹壕内の至近距離における戦闘用に開発された実験的な弾薬。本質は.45口径のハンドガンから直接撃ちだせる散弾。M1911専用。
 equip-10000102,性能強化カセット
-equip-20000102,回避+<dodge> 射撃速度+<rate>//n火力<pow>$IDW専用
+equip-20000102,回避+<dodge> 射速+<rate>//n火力<pow>$IDW専用
 equip-30000102,見るからに古そうなカセット。こんなものを装備して作戦能力が上がるとは信じがたいが、使用前に少し口でふぅふぅすると良いだろう。IDW専用。
 equip-10000103,64式専用サイレンサー
 equip-20000103,会心率+<critical_percent>%//n回避+<dodge>$64式専用
 equip-30000103,古いサイレンサー。高い隠密性により64式を漆黒の夜に溶け込ませ、会心率を引き上げる。64式専用。
 equip-10000104,セレクティブトリガーユニット
-equip-20000104,射撃速度+<rate>//n会心率+<critical_percent>%$FF FN49専用
-equip-30000104,セミオートとフルオートを自由に切り替えられるようになる後期型のトリガーユニットで、射撃速度と会心率を引き上げられる。FN49専用。
+equip-20000104,射速+<rate>//n会心率+<critical_percent>%$FF FN49専用
+equip-30000104,セミオートとフルオートを自由に切り替えられるようになる後期型のトリガーユニットで、射速と会心率を引き上げられる。FN49専用。
 equip-10000105,PM 5-25X56
 equip-20000105,会心率+<critical_percent>%//n会心ダメージ+<critical_harm_rate>%$Kar98k専用
 equip-30000105,高価なドイツの光学機器はスナイパーとカメラマンにとって常に間違いのない選択。最新の照準器は130年戦場を乗り越えてきた彼女に更なる余裕を持たせられる。Kar98k専用。
@@ -317,7 +317,7 @@ equip-10000107,インフィニティパック
 equip-20000107,弾薬数+<bullet_number_up> 火力<pow>//n命中<hit> 回避<dodge>$MG3専用
 equip-30000107,太古の時代より伝わりし神秘的で強力な装備。ほとんどは某神秘管理局に回収されてしまったが、今日までにこれだけが手元に残った。MG3専用。
 equip-10000108,蒼い厚手のマント
-equip-20000108,会心ダメージ+<critical_harm_rate>%//n射撃速度+<rate> 移速<speed>$PTRD専用
+equip-20000108,会心ダメージ+<critical_harm_rate>%//n射速+<rate> 移速<speed>$PTRD専用
 equip-30000108,パヴリチェンコという不思議な女の子がかつて身にまとっていたマントで、シベリア凍土帯の寒さにも耐えうる。PTRD専用。
 equip-10000109,16Lab6-24X56
 equip-20000109,会心率+<critical_percent>%//n$HG使用不可
@@ -329,7 +329,7 @@ equip-10000111,K6-24X56
 equip-20000111,会心率+<critical_percent>%//n命中+<hit>$モシン・ナガン専用
 equip-30000111,レールに装備する近代型スコープ。モシン・ナガンの生まれ持つ高い素質を最大限に生かし、命中と会心率を引き上げる。モシン・ナガン専用。
 equip-10000112,CT 4X20
-equip-20000112,命中+<hit> 射撃速度<rate>//n会心率+<critical_percent>%$M1918専用
+equip-20000112,命中+<hit> 射速<rate>//n会心率+<critical_percent>%$M1918専用
 equip-30000112,元々AR用に開発していたスコープで、幾多もの大戦を潜り抜けてきた信頼と実績の逸品。M1918が近代化改修を経てからレールに装備する。M1918専用。
 equip-10000113,M1895専用サイレンサー
 equip-20000113,会心率+<critical_percent>%//n回避+<dodge> 命中+<hit>$M1895専用
@@ -338,7 +338,7 @@ equip-10000114,MP446C競技用バレル
 equip-20000114,会心率+<critical_percent>%//n回避+<dodge> 命中+<hit>$MP-446専用
 equip-30000114,MP446の競技用アップグレードモデルであるMP446Cに装備されているバレル。120mmのロングバレルは精度の上昇に貢献する。MP446専用。
 equip-10000115,
-equip-20000115,
+equip-20000115,会心ダメージ+<critical_harm_rate>%//n火力+<pow> 移動速度<speed>$SV-98専用
 equip-30000115,
 equip-10000117,Glorylight
 equip-20000117,暗視能力+<night_view_percent>%//nスキル効果強化$El_clear専用
@@ -347,56 +347,131 @@ equip-10000118,BlackCat
 equip-20000118,暗視能力+<night_view_percent>%//nスキル効果強化$El_fail専用
 equip-30000118,異世界からの来訪者が放つ混沌たる光は、暗闇に身を置く者がこれを忘れないよう願う。「Break the rules//c I time and time again!」
 equip-10000119,
-equip-20000119,
+equip-20000119,会心率+<critical_percent>%//n火力+<pow> 命中+<hit>$Fr FAMAS専用
 equip-30000119,
-equip-10000120,
-equip-20000120,
+equip-10000120,16LabMARS
+equip-20000120,命中+<hit> 射速<rate>//n$HG使用不可
 equip-30000120,
 equip-10000121,
-equip-20000121,
+equip-20000121,回避+<dodge> 火力<pow>//n$HG//cSMG//cAR使用可
 equip-30000121,
 equip-10000122,
-equip-20000122,
+equip-20000122,火力+<pow> 回避+<dodge>//n会心率+<critical_percent>%$コルトSAA専用
 equip-30000122,
 equip-10000123,
-equip-20000123,
+equip-20000123,火力+<pow> 命中+<hit>//n射速<rate>$ブレン専用
 equip-30000123,
 equip-10000124,
-equip-20000124,
+equip-20000124,火力+<pow>//n会心率+<critical_percent>%$Gr G3専用
 equip-30000124,
 equip-10000125,
-equip-20000125,
+equip-20000125,会心率+<critical_percent>%//n回避+<dodge>$UMP45専用
 equip-30000125,
 equip-10000126,
-equip-20000126,
+equip-20000126,命中+<hit> 火力+<pow>//n射速<rate>$M4 SOPMOD II専用
 equip-30000126,
 equip-10000127,
-equip-20000127,
+equip-20000127,火力+<pow> 命中+<hit>//n回避+<dodge>$Gr G41専用
 equip-30000127,
 equip-10000128,
-equip-20000128,
+equip-20000128,会心率+<critical_percent>%//n回避+<dodge>$ステンMK-II専用
 equip-30000128,
 equip-10000129,
-equip-20000129,
+equip-20000129,会心率+<critical_percent>%//n命中+<hit>$M14専用
 equip-30000129,
 equip-10000130,
-equip-20000130,
+equip-20000130,会心率+<critical_percent>%//n命中+<hit>$Gr G36専用
 equip-30000130,
-equip-10000131,
-equip-20000131,
+equip-10000131,MGO 6X48
+equip-20000131,命中+<hit> 火力+<pow>//n射速<rate>$LWMMG専用
 equip-30000131,
 equip-10000132,
-equip-20000132,
+equip-20000132,命中+<hit> 射速<rate>//n会心率+<critical_percent>%$Gr MG4専用
 equip-30000132,
 equip-10000133,
 equip-20000133,
 equip-30000133,
-equip-10000134,
-equip-20000134,
+equip-10000134,MPL M21
+equip-20000134,命中+<hit> 射速<rate>//n$Micro Uzi専用
 equip-30000134,
 equip-10000135,
-equip-20000135,
+equip-20000135,火力+<pow>//nAS Val専用
 equip-30000135,
-equip-10000136,
-equip-20000136,
+equip-10000136,7.92 KURZ
+equip-20000136,火力+<pow>//n$StG44専用
 equip-30000136,
+equip-10000137,アデルハイド
+equip-20000137,回避+<dodge>//n甘味アデルハイド$ジル専用
+equip-30000137,ドリンクの甘味成分。全てBTCから供給されている。
+equip-10000138,フラナガイド
+equip-20000138,回避+<dodge>//n辛味フラナガイド$ジル専用
+equip-30000138,ドリンクの辛味成分。全てBTCから供給されている。
+equip-10000139,アデルハイド
+equip-20000139,回避+<dodge>//n甘味アデルハイド$ジル専用
+equip-30000139,ドリンクの甘味成分。全てBTCから供給されている。
+equip-10000140,ブロンソンエキス
+equip-20000140,回避+<dodge>//n苦味ブロンソンエキス$ジル専用
+equip-30000140,ドリンクの苦味成分。全てBTCから供給されている。
+equip-10000141,デルタパウダー
+equip-20000141,回避+<dodge>//n酸味デルタパウダー$ジル専用
+equip-30000141,ドリンクの酸味成分。全てBTCから供給されている。
+equip-10000142,カルモトリン
+equip-20000142,回避+<dodge>//nアルコールカルモトリン$ジル専用
+equip-30000142,ドリンクのアルコール成分。全てBTCから供給されている。
+equip-10000143,カルモトリン
+equip-20000143,回避+<dodge>//nアルコールカルモトリン$ジル専用
+equip-30000143,ドリンクのアルコール成分。全てBTCから供給されている。
+equip-10000144,カルモトリン
+equip-20000144,回避+<dodge>//nアルコールカルモトリン$ジル専用
+equip-30000144,ドリンクのアルコール成分。全てBTCから供給されている。
+equip-10000145,機械の義腕
+equip-20000145,火力+<pow> 防御力+<armor>//n回避<dodge>$デイナ専用
+equip-30000145,デイナの義腕。腕を失った理由をデイナが話してくれたことはない。
+equip-10000146,MIRD クラス5弾薬
+equip-20000146,火力+<pow> 破甲<armor_piercing>//n$ドロシー専用
+equip-30000146,ドロシーは、自身の指に無許可の改造を施しており、高威力の弾薬が発射可能。
+equip-10000147,ホワイトナイト制式アーマー
+equip-20000147,回避+<dodge>//n$セイ専用
+equip-30000147,ホワイトナイトの制式アーマー、負傷した着用者の素早い治療が可能。
+equip-10000148,電子の目
+equip-20000148,会心ダメージ+<critical_harm_rate>%//n射速+<rate> 移動速度<speed>$ステラ専用
+equip-30000148,ステラは、幼少期に悪人に襲われて片目を失った。以来、電子の目を付けている。
+equip-10000149,機械の義手
+equip-20000149,火力+<pow> 弾薬数+<bullet_number_up>//n回避<dodge>$アルマ専用
+equip-30000149,長時間のタイピングにより、腱鞘炎になってしまうことを防止するため（そして便利な機能を使用するため）、アルマは自らの手を機械の義手に取り替えるための手術を行った。
+equip-10000150,ZFG42
+equip-20000150,命中+<hit> 射速<rate>//n会心率+<critical_percent>%$FG42専用
+equip-30000150,ZF社がFG42のために生産したオプティカルサイト。百年の時を経て、黄銅の鏡筒はすでに光を失ったが、ガラスのレンズは未だに科学の国らしさを残してある。このスコープから覗く世界は、まさにマグナムの世界なのであろう。
+equip-10000151,20GAバックショット
+equip-20000151,火力+<pow> 命中+<hit>//n会心率+<critical_harm_rate>%$KS-23専用
+equip-30000151,黄色の装弾の中には20発の鉛散弾が込められている。より高い初速とより良い指向性を兼ね備え、KS-23の火力を大幅に上昇させることができる。
+equip-10000152,SIG-510ファイアセレクター
+equip-20000152,火力+<pow> 命中+<hit>//n会心率+<critical_percent>%$SIG-510専用
+equip-30000152,SIG-510のために設計されたファイアセレクター。セミオート射撃とフルオート射撃を自由に切り替えることができ、多様な戦況に対応することができる。
+equip-10000153,BM59
+equip-20000153,命中+<hit> 射速+<rate>//n会心率+<critical_percent>%$BM59専用
+equip-30000153,ヘビーバレルを装着したBM59 Mark IVで、長時間全自動連射を行っていてもオーバーヒートすることなく、小隊単位の火力支援が可能。
+equip-10000154,OSSサイレンサー
+equip-20000154,火力+<pow> 回避+<dodge>//n会心率+<critical_percent>%$M3専用
+equip-30000154,かつて戦略情報局が秘密作戦のため、特別に開発したサイレンサー。M3が見つかりにくくなる以外に、牛革の断熱カバーが付属しており、緊急時には指揮官の食料となる。
+equip-10000155,PPKサイレンサー
+equip-20000155,会心率+<critical_percent>%//n回避+<dodge>$PPK専用
+equip-30000155,淑女のカバンには口紅のほか、サイレンサーも欠かせない。前者があればお喋りがとまらなくなり、後者があれば永遠に沈黙することとなる。
+equip-10000156,AMP COMPSP
+equip-20000156,火力+<pow> 命中+<hit>//n射速<rate>$UMP9専用
+equip-30000156,
+equip-10000157,
+equip-20000157,火力+<pow> 命中+<hit>//n射速<rate>$Gr MP5専用
+equip-30000157,
+equip-10000158,
+equip-20000158,会心率+<critical_percent>%//n火力+<pow>$漢陽88式専用
+equip-30000158,
+equip-10000159,
+equip-20000159,会心ダメージ+<critical_harm_rate>%//n回避+<dodge>$416専用
+equip-30000159,
+equip-10000160,No32 MKI
+equip-20000160,会心率+<critical_percent>%//n射速<rate>$リー・エンフィールド専用
+equip-30000160,
+equip-10000161,
+equip-20000161,
+equip-30000161,
