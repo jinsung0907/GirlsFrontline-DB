@@ -240,7 +240,7 @@ AR15Mod|DIALOGUE1|I will not have any reservations when I am needed by everyone.
 AR15Mod|DIALOGUE2|I have recently worked on my melee training. Perhaps there will be new tactical results, so please keep watch over me, Commander.
 AR15Mod|DIALOGUE3|Commander, no matter what I become...I only hope to receive your recognition.
 AR15Mod|SOULCONTRACT|Commander, is this a dream?<>Please let me stay by your side... I don't want to wake up.
-AR15Mod|Introduce|AR15 is a small-bore rifle conceived after WWII. It was eventually adopted by the military under the name of M16 after many setbacks. nThe name AR15 is kept to designate the civilian model copied by many manufacturers. I am now a brand-new product, so don't lump me in with that ancient crone M16.
+AR15Mod|Introduce|AR15 is a small-bore rifle conceived after WWII. It was eventually adopted by the military under the name of M16 after many setbacks. The name AR15 is kept to designate the civilian model copied by many manufacturers. I am now a brand-new product, so don't lump me in with that ancient crone M16.
 AR15Mod|DIALOGUEWEDDING|How was my performance today, Commander? We're another step closer to reaching our own individual goals, and we'll get there one day.
 AR70|DIALOGUE1|Are you satisfied with my work today, Commander?
 AR70|DIALOGUE2|Are you tired from work? If there is anything you need, feel free to ask. I'll always be here.
@@ -1386,7 +1386,7 @@ P99|ALLHALLOWS|Relaxing for a bit on a night like this is pretty nice. But pleas
 P99|DIALOGUEWEDDING|Boss, everyone has invited me to participate in the get-together this weekend. What do you think I should wear? ...Be serious! We're discussing an important matter here...
 P99|GAIN|Walther P99. I'll be sure to do a prim and proper job, so please allow me to join.
 PDW|DIALOGUE1|Commander, I've got a daring idea for the next mission...
-PDW|DIALOGUE2|Pet! Where did you get that lollipop from... Is that so? Good job!
+PDW|DIALOGUE2|Pett! Where did you get that lollipop from... Is that so? Good job!
 PDW|DIALOGUE3|You're pretty gutsy, Commander... So, what do you think?
 PDW|SOULCONTRACT|Commander, I didn't think you'd be bold enough to do something like this...<>That being the case, I need to match your bravery with my own! <>Commander, I love you. Please stay by my side forever! ...❤
 PDW|Introduce|No matter what sort of battlefield it may be, I, Honey Badger, am willing to fight! Please bear witness to my performance, Commander!

@@ -448,9 +448,9 @@ equip-30000151,This bright yellow shell contains twenty pellets. It boasts top m
 equip-10000152,SIG-510 Fire Selector
 equip-20000152,DMG+<pow> ACC+<hit>//nCRIT RATE+<critical_percent>%$SIG-510 only
 equip-30000152,Designed for SIG-510//c the fire selector can be freely switched between single shot and fully automatic//c allowing for full adaptability in the ever-changing battlefield.
-equip-10000153,It VM59 Heavy Barrel
-equip-20000153,ACC+<hit> ROF<rate>//nCRIT RATE+<critical_percent>%$It BM59 only
-equip-30000153,Equipped with a heavy barrel//c It BM59 Mark IV will not overheat with sustained fire//c allowing it to play the role of fire support.
+equip-10000153,VM59 Heavy Barrel
+equip-20000153,ACC+<hit> ROF<rate>//nCRIT RATE+<critical_percent>%$VM59 only
+equip-30000153,Equipped with a heavy barrel//c VM59 Mark IV will not overheat with sustained fire//c allowing it to play the role of fire support.
 equip-10000154,OSS Suppressor
 equip-20000154,DMG+<pow> EVA+<dodge>//nCRIT RATE+<critical_percent>%$M3 only
 equip-30000154,A suppressor developed by OSS back in the day for covert operations. In addition to concealing M3//c it also comes with a cowhide cover that the Commander can use as emergency field ration.

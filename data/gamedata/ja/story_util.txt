@@ -319,13 +319,13 @@ story_util-20000160,対立行為Ⅲ
 story_util-10000161,最後の戦いが始まりました。果たして404小隊はUMP45さんを呼び覚まし、完全体（自称）のデストロイヤーから無事逃れることはできるのでしょうか？
 story_util-20000161,対立行為Ⅳ 
 story_util-10000162,
-story_util-20000162,パーシャルリコールⅠ  
+story_util-20000162,記憶の片割れⅠ  
 story_util-10000163,
-story_util-20000163,パーシャルリコールⅡ
+story_util-20000163,記憶の片割れⅡ
 story_util-10000164,
-story_util-20000164,パーシャルリコールⅢ
+story_util-20000164,記憶の片割れⅢ
 story_util-10000165,
-story_util-20000165,パーシャルリコールⅣ 
+story_util-20000165,記憶の片割れⅣ 
 story_util-10000166,
 story_util-20000166,鷲と大鴉Ⅰ  
 story_util-10000167,

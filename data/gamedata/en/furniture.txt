@@ -414,7 +414,7 @@ furniture-10033106,Oath of Transformation
 furniture-20033106,T-5000's Poster
 furniture-10033107,Exciting Future
 furniture-20033107,Gepard M1's Poster
-furniture-10033201,Contender - Dragon Wolf
+furniture-10033201,Dragon's Son
 furniture-20033201,Contender's Poster
 furniture-10033202,Negev - Obsidian Princess
 furniture-20033202,Negev's Poster
@@ -1057,9 +1057,9 @@ furniture-20001913,16LAB's newest masterpiece. An item that can dramatically inc
 furniture-10001914,Old-School Shooting Range Bench
 furniture-20001914,"I promise you//c everything will change someday..."
 furniture-10001915,Singularity - AK12
-furniture-20001915,It is my duty to not let her get hurt.
+furniture-20001915,I've renewed my interest in you//c AR15.
 furniture-10001916,Singularity - AN94
-furniture-20001916,I've renewed my interest in you//c AR15.
+furniture-20001916,It is my duty to not let her get hurt.
 furniture-10001917,Singularity - AR15
 furniture-20001917,Do you really think that Sangvis Ferri is our only enemy?
 furniture-10001918,Singularity - M4A1
@@ -1390,25 +1390,25 @@ furniture-10040012,Rescue Station Red Cross
 furniture-20040012,
 furniture-10040013,Rescue Station Translucent Screen
 furniture-20040013,
-furniture-10040101,Cat Nest - Chinese Pastoral Cat (Yellow)
+furniture-10040101,Chinese Pastoral Cat (Yellow)
 furniture-20040101,A sly little one. It plays deaf when I call its name. Keeps nudging me when I'm busy or want to be alone. But whenever I'm sad or hurt//c it comes curling up next to me first thing. How can I bring myself to hate it?
-furniture-10040102,Cat Nest - Chinese Pastoral Cat (Black)
+furniture-10040102,Chinese Pastoral Cat (Black)
 furniture-20040102,Introverted//c sensitive and paranoid. Ever since it was bullied into surrendering its own feeding bowl to another cat//c it's been taking elastic hairbands from my room and throwing them in the trash like a vengeful spirit. Guess I'll be running out of hairbands if I don't sort this fight out soon...
-furniture-10040103,Cat Nest - American Shorthair
+furniture-10040103,American Shorthair
 furniture-20040103,It may look healthy and docile//c and perches quietly while I'm home//c but the moment I'm out//c it starts wreaking havoc like crazy. It opens all the cupboard doors//c pushes my gaming console over//c and destroys my pillows... It's way too healthy. Is that a good thing? Well...
-furniture-10040104,Cat Nest - Siamese Cat
+furniture-10040104,Siamese Cat
 furniture-20040104,A clever and clingy aristocrat. So good it could pretty much be a dog if you put a leash on it. Only meows when it's with someone close. Extremely jealous. Whenever you're hanging out with others//c all it cares about is that it isn't the one you're with.
-furniture-10040105,Cat Nest - Serval
+furniture-10040105,Serval
 furniture-20040105,Lean and graceful. A hunter with amazing reflexes. The mothers always prepared to carry their cubs and switch dens quickly on the hostile savannahs. Domesticated servals are also very clingy... After all//c who else can they rely on after leaving their natural habitats?
-furniture-10040201,Kennel - Shiba Inu
+furniture-10040201,Shiba Inu
 furniture-20040201,"Look at this adorable shiba!" "What's a shiba? You or this dog?" "I AM 'this dog'//c and I'm single."
-furniture-10040202,Kennel - Pug
+furniture-10040202,Pug
 furniture-20040202,"Look//c this is how I promote shibas//c" says the last chairman//c vice-chairman//c counsellor//c accountant and officer of the Shiba Promotional Committee//c with a long sip of coke.
-furniture-10040203,Kennel - Doberman
+furniture-10040203,Doberman
 furniture-20040203,The Dobermann is named after the first breeder. They're brave//c strong and intelligent. However//c despite their fame of being natural hunters//c the breed only emerged about 100 years ago... They have less "wolf" in them than even shibas and pugs.
-furniture-10040204,Kennel - Husky
+furniture-10040204,Husky
 furniture-20040204,Ancient Siberians started domesticating local wolves to aid in their hunts//c and that's how huskies came to be. They once played a crucial role in the long history of this frozen terrain//c but have since gained popularity as a cute and dorky pet//c making them one of the few animals that benefited from modern civilization.
-furniture-10040205,Kennel - Old English Sheepdog
+furniture-10040205,Old English Sheepdog
 furniture-20040205,The Old English Sheepdog isn't a particularly old breed and appeared no more than 30 years earlier than the Dobermann. Due to social and profitable reasons//c old English sheepdogs had to be docked in the past//c but this is becoming more and more uncommon nowadays//c also due to social and profitable reasons.
 furniture-10040206,Basset Hound
 furniture-20040206,Although Basset Hounds are 71st in the canine IQ rankings//c one can't call them stupid. "With no rabbits to chase//c all it can do is keep watching movies//c and now it looks a lot like that blind old gentleman who waltzes with ladies"//c a passing logistics officer said.
@@ -2869,19 +2869,19 @@ furniture-20051302,There is no luck in life//c only individual choices. Of cours
 furniture-10006701,Fairy Market - Medieval Brick Flooring
 furniture-20006701,You follow the scent of potions and quickly catch up to the alchemist. "Fine//c I'll join you//c otherwise the whole town will know what I did to the chickens."
 furniture-10006702,Fairy Market - Twilight Forest
-furniture-20006702,The witch of the legend is said to live here. Are you willing to befriend her for only a single day? "I'll definitely like you//c along with that healthy body of yours…"
+furniture-20006702,The witch of the legend is said to live here. Are you willing to befriend her for only a single day? "I'll definitely like you//c along with that healthy body of yours..."
 furniture-10006703,Fairy Market - Archery Range
-furniture-20006703,The condition for recruiting the archer to your party is to beat her in archery. "That is the elven law. But you can also hire me to participate in your place… That is also elven law//c" she says while shrugging her shoulders.
-furniture-10006704,Fairy Market - Haunted Castle
-furniture-20006704,A rebellious vampire girl has slept here for 495 years… "My beauty sleep really did the trick//c" says the girl while looking at her own petite body after waking up.
+furniture-20006703,The condition for recruiting the archer to your party is to beat her in archery. "That is the elven law. But you can also hire me to participate in your place... That is also elven law//c" she says while shrugging her shoulders.
+furniture-10006704,Fairy Market - Haunted Old Castle
+furniture-20006704,A rebellious vampire girl has slept here for 495 years... "My beauty sleep really did the trick//c" says the girl while looking at her own petite body after waking up.
 furniture-10006705,Fairy Market - Drengleid Bonfire
 furniture-20006705,A suit of immortal armor will occasionally sit by the fire. Holding flames//c he looks at you with a hollow gaze. "You got a giant rat? I'll trade myself and my shield for it."
 furniture-10006706,Fairy Market - Portable Wine Cart
 furniture-20006706,"Where there are drinks//c there are warriors. Where there are warriors//c there are victories. So the victories you want will depend on how far you can push this wine cart; before we drink every last drop//c that is."
 furniture-10006707,Fairy Market - Folk House
-furniture-20006707,The bard plays his lute while laying on the bed. "A friend of mine died comfortably on this bed. If you can promise me that I can die the same way//c then I'll join you."
+furniture-20006707,The bard plays his lute while lying on the bed. "A friend of mine died comfortably on this bed. If you can promise me that I can die the same way//c then I'll join you."
 furniture-10006708,Fairy Market - Folk Street
-furniture-20006708,That person is always either running around on your roof or whistling in the grass. "Sorry//c my hawk said you look shiny//c so I'm here to see if you're a friend…or a target."
+furniture-20006708,That person is always either running around on your roof or whistling in the grass. "Sorry//c my hawk said you look shiny//c so I'm here to see if you're a friend...or a target."
 furniture-10006709,Fairy Market - Miracle Fountain
 furniture-20006709,This fountain is rumored to heal true believers that pray from the bottom of their heart. However//c you notice that a cleric is actually the one performing miracles secretly from a corner. "Will you really give me something more meaningful to do?"
 furniture-10006710,Fairy Market - Accessory Shop
@@ -2891,7 +2891,7 @@ furniture-20006711,The weapons sold at this shop are unmatched when it comes to 
 furniture-10006712,Fairy Market - Bright Clouds//c Dark Moon
 furniture-20006712,This moon is fake. The mage uses it to adjust her sleep or to mess with her nosy sister. "I can slip out whenever. How many dragons did you say there are?"
 furniture-10006713,Fairy Market - Sundries Stall
-furniture-20006713,"Everything here is clean. I never loot from the dead//c" said the warlock with a sly smile//c "…of course//c it doesn't count if they've been resurrected."
+furniture-20006713,"Everything here is clean. I never loot from the dead//c" said the warlock with a sly smile//c "...of course//c it doesn't count if they've been resurrected."
 furniture-10006714,Fairy Market - Town Bell Tower
 furniture-20006714,The paladin saved the town but could not wait in front of the bell tower for the person he loved//c so he gave up on the idea of advancing his class and opted to follow you instead. "This is fine. She likes money//c but I like myself the way I am now."
 furniture-10002037,3rd Anniversary Commemoration: Harp

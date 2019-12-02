@@ -387,29 +387,29 @@ story_util-20000206,Starting Point
 story_util-10000207,"Where...exactly am I...?"
 story_util-20000207,Splinter Point
 story_util-10000208,"Ange//c we've retrieved M4A1. Any further instructions?"
-story_util-20000208,Exhaust I
+story_util-20000208,Stroke Dead-Center I
 story_util-10000209,"Griffin is moving into Area S11? I see. So it's turning into a shitshow here."
-story_util-20000209,Exhaust II
+story_util-20000209,Stroke Dead-Center II
 story_util-10000210,"I'm receiving a transmission request with AK-12's plain code. Should I take it?"
-story_util-20000210,Exhaust III
+story_util-20000210,Stroke Dead-Center III
 story_util-10000211,"We have paid a huge price//c but that should be enough to safeguard the route to the rendezvous point."
-story_util-20000211,Exhaust IV
+story_util-20000211,Stroke Dead-Center IV
 story_util-10000212,"You do remember that this is your forte//c don't you//c AK-12?
-story_util-20000212,Compression I
+story_util-20000212,Compression Initiates I
 story_util-10000213,"Just a simple disconnection was enough to completely scramble her neural cloud... She's too mentally fragile even for an old model..."
-story_util-20000213,Compression II
+story_util-20000213,Compression Initiates II
 story_util-10000214,"Are you really okay with leaving all these enemies to her alone?"
-story_util-20000214,Compression III
+story_util-20000214,Compression Initiates III
 story_util-10000215,"That'll be enough//c M4. These are allies. Members of Task Force DEFY//c Ange and AN-94.
-story_util-20000215,Compression IV
+story_util-20000215,Compression Initiates IV
 story_util-10000216,"Thanks for the hard work! Please stay at your posts//c account for all our injured//c and await new directives from the Commander!"
-story_util-20000216,Ignition I
+story_util-20000216,Re-Ignition I
 story_util-10000217,"Still no way of contacting the Commander? What about the Military? Nothing either?"
-story_util-20000217,Ignition II
+story_util-20000217,Re-Ignition II
 story_util-10000218,"...That's all we know about the situation in Area S09."
-story_util-20000218,Ignition III
+story_util-20000218,Re-Ignition III
 story_util-10000219,"Commander//c we've successfully brought back the T-Dolls on the other side!"
-story_util-20000219,Ignition IV
+story_util-20000219,Re-Ignition IV
 story_util-10000220,"...Yes. We must...prevent the Military from acquiring the Mastermind at all costs."
 story_util-20000220,Splinter Point
 story_util-10000221,"Is it going well//c Ange?"
@@ -437,13 +437,13 @@ story_util-20000231,Promotion III
 story_util-10000232,"Is our backup still not here? If we fall back any farther//c we'll have to use the Sangvis database as cover."
 story_util-20000232,Promotion IV
 story_util-10000233,"Emergency//c Commander! We've discovered Sangvis elite Gager's forces on our retreat!"
-story_util-20000233,Weakling's End I
+story_util-20000233,Minor Pieces Draw I
 story_util-10000234,"It's coming back to me... All the things that happened..."
-story_util-20000234,Weakling's End II
+story_util-20000234,Minor Pieces Draw II
 story_util-10000235,"So...what do we do now?"
-story_util-20000235,Weakling's End III
+story_util-20000235,Minor Pieces Draw III
 story_util-10000236,"It's my honor//c mighty Commander of Griffin//c to meet an adversary like you on the battlefield...and tear you apart with my own hands."
-story_util-20000236,Weakling's End IV
+story_util-20000236,Minor Pieces Draw IV
 story_util-10000237,"Wake up//c M4. Mission is go."
 story_util-20000237,Last Resort I
 story_util-10000238,"Remaining Sangvis units all eradicated."

@@ -55,12 +55,12 @@ fairy-30000018,Provides the ability to show off. At least it's something!
 fairy-10000019,Cooking Fairy
 fairy-20000019,Don't be shy! Make yourself at home!
 fairy-30000019,Possesses the ability to apply a random buff to your Echelon. Can be instructed to cook meals on regular days (although whether it tastes good or not is another matter).
-fairy-10000020,
-fairy-20000020,
-fairy-30000020,
-fairy-10000021,
-fairy-20000021,
-fairy-30000021,
+fairy-10000020,Fireworks Fairy
+fairy-20000020,"Come! Reveal your heart under the gorgeous sky of fireworks!"
+fairy-30000020,Possesses the ability to shoot fireworks. Can help you celebrate or scare others//c day or night//c when not on a mission.
+fairy-10000021,Zodiac Fairy
+fairy-20000021,"March through the south//c dash through the north//c the red packet must be given! Gao~!"
+fairy-30000021,Possesses the ability to release lethal firecrackers. Can help you with festivals//c fishing//c and internet forum exchanges.
 fairy-10090001,Enemy Fairy
 fairy-20090001,Drop description
 fairy-30090001,
@@ -82,6 +82,9 @@ fairy-30001005,Possess the ability to increase ally damage while lowering enemy 
 fairy-10001006,Preiya & Camilia
 fairy-20001006,The final night has arrived. Which one of me will you choose?
 fairy-30001006,Possess the ability to apply different effects on a node. They will sometimes offer you incomprehensible divinations and enlightenments//c but free things are never as good as they seem.
-fairy-10090002,
+fairy-10001007,Anna Graem
+fairy-20001007,"...Suspense always exists for a reason//c isn't that right?"
+fairy-30001007,She possesses the ability to adjust an echelon's evasion and damage — maybe you're seeing her//c or maybe you're just looking at an interesting piece of dust.
+fairy-10090002,TheaterPerformance
 fairy-20090002,Drop description
 fairy-30090002,

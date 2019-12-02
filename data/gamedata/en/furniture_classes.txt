@@ -208,8 +208,8 @@ furniture_classes-30000065,An unexpected phenomenon will happen in this dormitor
 furniture_classes-10000066,Chocolatier 
 furniture_classes-20000066,A furniture set inspired by a handmade chocolate house. "Welcome! Be a part of the house! I mean//c uh...not literally//c just...enjoy it//c" says the owner.
 furniture_classes-30000066,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000067,
-furniture_classes-20000067,
+furniture_classes-10000067,Fairy Market
+furniture_classes-20000067,A furniture set inspired by the fairy market of old. Under the veiled moonlight tonight//c adventurers gather and share their own beliefs. Prepare for your next adventure!
 furniture_classes-30000067,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
 furniture_classes-10000068,
 furniture_classes-20000068,
@@ -223,8 +223,8 @@ furniture_classes-30000070,An unexpected phenomenon will happen in this dormitor
 furniture_classes-10000071,
 furniture_classes-20000071,
 furniture_classes-30000071,An unexpected phenomenon will happen in this dormitory if you collect all the pieces.
-furniture_classes-10000072,
-furniture_classes-20000072,
+furniture_classes-10000072,Grey Custom Order
+furniture_classes-20000072,Special products circulated in a clandestine market. Every single piece is immaculately designed and especially customized according to the client's needs.//nEnjoy a world that isn't black-and-white - everything here exists to please you.
 furniture_classes-30000072,Collect more war trophies to gain additional Comfort.
 furniture_classes-10000073,
 furniture_classes-20000073,

@@ -5760,23 +5760,23 @@ battle_skill_config-310590201,Cooldown: 20s//cNighttime Damage Increase: 50%//cN
 battle_skill_config-410590201,
 battle_skill_config-110590202,Annihilation Focus N
 battle_skill_config-210590202,During nighttime//cincrease damage by 55%(21% during daytime) and critical rate by 24%(13% during daytime) for 6 seconds.
-battle_skill_config-310590202,Cooldown: 19.6s//cNighttime Damage Increase: 67%//cNighttime Critical Rate Increase: 28%//cDuration: 6s
+battle_skill_config-310590202,Cooldown: 19.6s//cNighttime Damage Increase: 55%//cNighttime Critical Rate Increase: 24%//cDuration: 6s
 battle_skill_config-410590202,
 battle_skill_config-110590203,Annihilation Focus N
 battle_skill_config-210590203,During nighttime//cincrease damage by 61%(24% during daytime) and critical rate by 26%(14% during daytime) for 6 seconds.
-battle_skill_config-310590203,Cooldown: 19.1s//cNighttime Damage Increase: 73%//cNighttime Critical Rate Increase: 31%//cDuration: 6s
+battle_skill_config-310590203,Cooldown: 19.1s//cNighttime Damage Increase: 61%//cNighttime Critical Rate Increase: 26%//cDuration: 6s
 battle_skill_config-410590203,
 battle_skill_config-110590204,Annihilation Focus N
 battle_skill_config-210590204,During nighttime//cincrease damage by 66%(27% during daytime) and critical rate by 28%(15% during daytime) for 6 seconds.
-battle_skill_config-310590204,Cooldown: 18.7s//cNighttime Damage Increase: 80%//cNighttime Critical Rate Increase: 33%//cDuration: 6s
+battle_skill_config-310590204,Cooldown: 18.7s//cNighttime Damage Increase: 66%//cNighttime Critical Rate Increase: 28%//cDuration: 6s
 battle_skill_config-410590204,
 battle_skill_config-110590205,Annihilation Focus N
 battle_skill_config-210590205,During nighttime//cincrease damage by 72%(30% during daytime) and critical rate by 30%(16% during daytime) for 7 seconds.
-battle_skill_config-310590205,Cooldown: 18.2s//cNighttime Damage Increase: 87%//cNighttime Critical Rate Increase: 36%//cDuration: 7s
+battle_skill_config-310590205,Cooldown: 18.2s//cNighttime Damage Increase: 72%//cNighttime Critical Rate Increase: 30%//cDuration: 7s
 battle_skill_config-410590205,
 battle_skill_config-110590206,Annihilation Focus N
 battle_skill_config-210590206,During nighttime//cincrease damage by 77%(33% during daytime) and critical rate by 32%(17% during daytime) for 7 seconds.
-battle_skill_config-310590206,Cooldown: 17.8s//cNighttime Damage Increase: 93%//cNighttime Critical Rate Increase: 39%//cDuration: 7s
+battle_skill_config-310590206,Cooldown: 17.8s//cNighttime Damage Increase: 77%//cNighttime Critical Rate Increase:32%//cDuration: 7s
 battle_skill_config-410590206,
 battle_skill_config-110590207,Annihilation Focus N
 battle_skill_config-210590207,During nighttime//cincrease damage by 83%(36% during daytime) and critical rate by 34%(18% during daytime) for 7 seconds.
@@ -27659,8 +27659,8 @@ battle_skill_config-210270705,Start to charge after skill cooldown. Increase cha
 battle_skill_config-310270705,Cooldown: 11.2s//cBasic Damage Multiplier: 2.7x//cMax Damage Multiplier: 5.5x
 battle_skill_config-410270705,
 battle_skill_config-110270706,Interdiction Shot
-battle_skill_config-210270706,
-battle_skill_config-310270706,
+battle_skill_config-210270706,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 7 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges and deal 2.9x - 6x damage to the closest target depending on the number of stacks.
+battle_skill_config-310270706,Cooldown: 10.8s//cBasic Damage Multiplier: 2.9x//cMax Damage Multiplier: 6x
 battle_skill_config-410270706,
 battle_skill_config-110270707,Interdiction Shot
 battle_skill_config-210270707,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 7 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges and deal 3x - 6.5x damage to the closest target depending on the number of stacks.
@@ -27798,46 +27798,6 @@ battle_skill_config-110300510,Locked Shot
 battle_skill_config-210300510,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 7 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges and deal 3x - 6.5x damage to the current target depending on the number of stacks.
 battle_skill_config-310300510,Cooldown: 9s//cBasic Damage Multiplier: 3x//cMax Damage Multiplier: 6.5x
 battle_skill_config-410300510,
-battle_skill_config-110290501,Chain Shot
-battle_skill_config-210290501,
-battle_skill_config-310290501,
-battle_skill_config-410290501,
-battle_skill_config-110290502,Chain Shot
-battle_skill_config-210290502,Take two aimed shots. Aim for 1 second each time and shoot the current target for 1.7x damage.
-battle_skill_config-310290502,Cooldown: 19.6s//cDamage Multiplier: 1.7x
-battle_skill_config-410290502,
-battle_skill_config-110290503,Chain Shot
-battle_skill_config-210290503,Take two aimed shots. Aim for 1 second each time and shoot the current target for 1.9x damage.
-battle_skill_config-310290503,Cooldown: 19.1s//cDamage Multiplier: 1.9x
-battle_skill_config-410290503,
-battle_skill_config-110290504,Chain Shot
-battle_skill_config-210290504,Take two aimed shots. Aim for 1 second each time and shoot the current target for 2.2x damage.
-battle_skill_config-310290504,Cooldown: 18.7s//cDamage Multiplier: 2.2x
-battle_skill_config-410290504,
-battle_skill_config-110290505,Chain Shot
-battle_skill_config-210290505,Take two aimed shots. Aim for 1 second each time and shoot the current target for 2.4x damage.
-battle_skill_config-310290505,Cooldown: 18.2s//cDamage Multiplier: 2.4x
-battle_skill_config-410290505,
-battle_skill_config-110290506,Chain Shot
-battle_skill_config-210290506,Take two aimed shots. Aim for 1 second each time and shoot the current target for 2.6x damage.
-battle_skill_config-310290506,Cooldown: 17.8s//cDamage Multiplier: 2.6x
-battle_skill_config-410290506,
-battle_skill_config-110290507,Chain Shot
-battle_skill_config-210290507,Take two aimed shots. Aim for 1 second each time and shoot the current target for 2.8x damage.
-battle_skill_config-310290507,Cooldown: 17.3s//cDamage Multiplier: 2.8x
-battle_skill_config-410290507,
-battle_skill_config-110290508,Chain Shot
-battle_skill_config-210290508,Take two aimed shots. Aim for 1 second each time and shoot the current target for 3.1x damage.
-battle_skill_config-310290508,Cooldown: 16.9s//cDamage Multiplier: 3.1x
-battle_skill_config-410290508,
-battle_skill_config-110290509,Chain Shot
-battle_skill_config-210290509,Take two aimed shots. Aim for 1 second each time and shoot the current target for 3.3x damage.
-battle_skill_config-310290509,Cooldown: 16.4s//cDamage Multiplier: 3.3x
-battle_skill_config-410290509,
-battle_skill_config-110290510,Chain Shot
-battle_skill_config-210290510,Take two aimed shots. Aim for 1 second each time and shoot the current target for 3.5x damage.
-battle_skill_config-310290510,Cooldown: 16s//cDamage Multiplier: 3.5x
-battle_skill_config-410290510,
 battle_skill_config-180060501,Steady Shot
 battle_skill_config-280060501,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2x - 3.2x damage to the furthest target depending on the number of stacks.
 battle_skill_config-380060501,Cooldown: 15s//cBasic Damage Multiplier: 2x//cMax Damage Multiplier: 3.2x
@@ -28091,84 +28051,84 @@ battle_skill_config-280141810,
 battle_skill_config-380141810,
 battle_skill_config-480141810,
 battle_skill_config-180141901,Interdiction Shot
-battle_skill_config-280141901,
-battle_skill_config-380141901,
+battle_skill_config-280141901,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.7x - 2.8x damage to the closest target depending on the number of stacks.
+battle_skill_config-380141901,Cooldown: 15s//cBasic Damage Multiplier: 1.7x//cMax Damage Multiplier: 2.8x
 battle_skill_config-480141901,
 battle_skill_config-180141902,Interdiction Shot
-battle_skill_config-280141902,
-battle_skill_config-380141902,
+battle_skill_config-280141902,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.8x - 3.1x damage to the closest target depending on the number of stacks.
+battle_skill_config-380141902,Cooldown: 14.6s//cBasic Damage Multiplier: 1.8x//cMax Damage Multiplier: 3.1x
 battle_skill_config-480141902,
 battle_skill_config-180141903,Interdiction Shot
-battle_skill_config-280141903,
-battle_skill_config-380141903,
+battle_skill_config-280141903,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.9x - 3.4x damage to the closest target depending on the number of stacks.
+battle_skill_config-380141903,Cooldown: 14.1s//cBasic Damage Multiplier: 1.9x//cMax Damage Multiplier: 3.4x
 battle_skill_config-480141903,
 battle_skill_config-180141904,Interdiction Shot
-battle_skill_config-280141904,
-battle_skill_config-380141904,
+battle_skill_config-280141904,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2x - 3.7x damage to the closest target depending on the number of stacks.
+battle_skill_config-380141904,Cooldown: 13.7s//cBasic Damage Multiplier: 2x//cMax Damage Multiplier: 3.7x
 battle_skill_config-480141904,
 battle_skill_config-180141905,Interdiction Shot
-battle_skill_config-280141905,
-battle_skill_config-380141905,
+battle_skill_config-280141905,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.1x - 4x damage to the closest target depending on the number of stacks.
+battle_skill_config-380141905,Cooldown: 13.2s//cBasic Damage Multiplier: 2.1x//cMax Damage Multiplier: 4x
 battle_skill_config-480141905,
 battle_skill_config-180141906,Interdiction Shot
-battle_skill_config-280141906,
-battle_skill_config-380141906,
+battle_skill_config-280141906,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.2x - 4.3x damage to the closest target depending on the number of stacks.
+battle_skill_config-380141906,Cooldown: 12.8s//cBasic Damage Multiplier: 2.2x//cMax Damage Multiplier: 4.3x
 battle_skill_config-480141906,
 battle_skill_config-180141907,Interdiction Shot
-battle_skill_config-280141907,
-battle_skill_config-380141907,
+battle_skill_config-280141907,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.3x - 4.6x damage to the closest target depending on the number of stacks.
+battle_skill_config-380141907,Cooldown: 12.3s//cBasic Damage Multiplier: 2.3x//cMax Damage Multiplier: 4.6x
 battle_skill_config-480141907,
 battle_skill_config-180141908,Interdiction Shot
-battle_skill_config-280141908,
-battle_skill_config-380141908,
+battle_skill_config-280141908,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.4x - 4.9x damage to the closest target depending on the number of stacks.
+battle_skill_config-380141908,Cooldown: 11.9s//cBasic Damage Multiplier: 2.4x//cMax Damage Multiplier: 4.9x
 battle_skill_config-480141908,
 battle_skill_config-180141909,Interdiction Shot
-battle_skill_config-280141909,
-battle_skill_config-380141909,
+battle_skill_config-280141909,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.5x - 5.2x damage to the closest target depending on the number of stacks.
+battle_skill_config-380141909,Cooldown: 11.4s//cBasic Damage Multiplier: 2.5x//cMax Damage Multiplier: 5.2x
 battle_skill_config-480141909,
 battle_skill_config-180141910,Interdiction Shot
-battle_skill_config-280141910,
-battle_skill_config-380141910,
+battle_skill_config-280141910,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.6x - 5.5x damage to the closest target depending on the number of stacks.
+battle_skill_config-380141910,Cooldown: 11s//cBasic Damage Multiplier: 2.6x//cMax Damage Multiplier: 5.5x
 battle_skill_config-480141910,
 battle_skill_config-180142001,
-battle_skill_config-280142001,
-battle_skill_config-380142001,
+battle_skill_config-280142001,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.7x - 2.8x damage to the closest target depending on the number of stacks.
+battle_skill_config-380142001,Cooldown: 15s//cBasic Damage Multiplier: 1.7x//cMax Damage Multiplier: 2.8x
 battle_skill_config-480142001,
 battle_skill_config-180142002,
-battle_skill_config-280142002,
-battle_skill_config-380142002,
+battle_skill_config-280142002,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.8x - 3.1x damage to the closest target depending on the number of stacks.
+battle_skill_config-380142002,Cooldown: 14.6s//cBasic Damage Multiplier: 1.8x//cMax Damage Multiplier: 3.1x
 battle_skill_config-480142002,
 battle_skill_config-180142003,
-battle_skill_config-280142003,
-battle_skill_config-380142003,
+battle_skill_config-280142003,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.9x - 3.4x damage to the closest target depending on the number of stacks.
+battle_skill_config-380142003,Cooldown: 14.1s//cBasic Damage Multiplier: 1.9x//cMax Damage Multiplier: 3.4x
 battle_skill_config-480142003,
 battle_skill_config-180142004,
-battle_skill_config-280142004,
-battle_skill_config-380142004,
+battle_skill_config-280142004,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2x - 3.7x damage to the closest target depending on the number of stacks.
+battle_skill_config-380142004,Cooldown: 13.7s//cBasic Damage Multiplier: 2x//cMax Damage Multiplier: 3.7x
 battle_skill_config-480142004,
 battle_skill_config-180142005,
-battle_skill_config-280142005,
-battle_skill_config-380142005,
+battle_skill_config-280142005,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.1x - 4x damage to the closest target depending on the number of stacks.
+battle_skill_config-380142005,Cooldown: 13.2s//cBasic Damage Multiplier: 2.1x//cMax Damage Multiplier: 4x
 battle_skill_config-480142005,
 battle_skill_config-180142006,
-battle_skill_config-280142006,
-battle_skill_config-380142006,
+battle_skill_config-280142006,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.2x - 4.3x damage to the closest target depending on the number of stacks.
+battle_skill_config-380142006,Cooldown: 12.8s//cBasic Damage Multiplier: 2.2x//cMax Damage Multiplier: 4.3x
 battle_skill_config-480142006,
 battle_skill_config-180142007,
-battle_skill_config-280142007,
-battle_skill_config-380142007,
+battle_skill_config-280142007,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.3x - 4.6x damage to the closest target depending on the number of stacks.
+battle_skill_config-380142007,Cooldown: 12.3s//cBasic Damage Multiplier: 2.3x//cMax Damage Multiplier: 4.6x
 battle_skill_config-480142007,
 battle_skill_config-180142008,
-battle_skill_config-280142008,
-battle_skill_config-380142008,
+battle_skill_config-280142008,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.4x - 4.9x damage to the closest target depending on the number of stacks.
+battle_skill_config-380142008,Cooldown: 11.9s//cBasic Damage Multiplier: 2.4x//cMax Damage Multiplier: 4.9x
 battle_skill_config-480142008,
 battle_skill_config-180142009,
-battle_skill_config-280142009,
-battle_skill_config-380142009,
+battle_skill_config-280142009,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.5x - 5.2x damage to the closest target depending on the number of stacks.
+battle_skill_config-380142009,Cooldown: 11.4s//cBasic Damage Multiplier: 2.5x//cMax Damage Multiplier: 5.2x
 battle_skill_config-480142009,
 battle_skill_config-180142010,
-battle_skill_config-280142010,
-battle_skill_config-380142010,
+battle_skill_config-280142010,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.6x - 5.5x damage to the closest target depending on the number of stacks.
+battle_skill_config-380142010,Cooldown: 11s//cBasic Damage Multiplier: 2.6x//cMax Damage Multiplier: 5.5x
 battle_skill_config-480142010,
 battle_skill_config-110570901,Armor Breaking Shot
 battle_skill_config-210570901,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 7 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges and deal 1.8x - 2.5x to the highest HP target depending on the number of stacks. If the enemy is armored//c deal 2.5x - 4.5x damage instead.
@@ -29167,3 +29127,251 @@ battle_skill_config-290021201,
 battle_skill_config-390021201,
 battle_skill_config-490021201,
 battle_skill_config-190021301,
+battle_skill_config-290021301,
+battle_skill_config-390021301,
+battle_skill_config-490021301,
+battle_skill_config-190021401,Concussive Shot
+battle_skill_config-290021401,
+battle_skill_config-390021401,
+battle_skill_config-490021401,
+battle_skill_config-190021402,Concussive Shot
+battle_skill_config-290021402,
+battle_skill_config-390021402,
+battle_skill_config-490021402,
+battle_skill_config-190021403,Concussive Shot
+battle_skill_config-290021403,
+battle_skill_config-390021403,
+battle_skill_config-490021403,
+battle_skill_config-190021404,Concussive Shot
+battle_skill_config-290021404,
+battle_skill_config-390021404,
+battle_skill_config-490021404,
+battle_skill_config-190021405,Concussive Shot
+battle_skill_config-290021405,
+battle_skill_config-390021405,
+battle_skill_config-490021405,
+battle_skill_config-190021406,Concussive Shot
+battle_skill_config-290021406,
+battle_skill_config-390021406,
+battle_skill_config-490021406,
+battle_skill_config-190021407,Concussive Shot
+battle_skill_config-290021407,
+battle_skill_config-390021407,
+battle_skill_config-490021407,
+battle_skill_config-190021408,Concussive Shot
+battle_skill_config-290021408,
+battle_skill_config-390021408,
+battle_skill_config-490021408,
+battle_skill_config-190021409,Concussive Shot
+battle_skill_config-290021409,
+battle_skill_config-390021409,
+battle_skill_config-490021409,
+battle_skill_config-190021410,Concussive Shot
+battle_skill_config-290021410,
+battle_skill_config-390021410,
+battle_skill_config-490021410,
+battle_skill_config-190021501,Rocks Piercing Clouds
+battle_skill_config-290021501,
+battle_skill_config-390021501,
+battle_skill_config-490021501,
+battle_skill_config-190021502,Rocks Piercing Clouds
+battle_skill_config-290021502,
+battle_skill_config-390021502,
+battle_skill_config-490021502,
+battle_skill_config-190021503,Rocks Piercing Clouds
+battle_skill_config-290021503,
+battle_skill_config-390021503,
+battle_skill_config-490021503,
+battle_skill_config-190021504,Rocks Piercing Clouds
+battle_skill_config-290021504,
+battle_skill_config-390021504,
+battle_skill_config-490021504,
+battle_skill_config-190021505,Rocks Piercing Clouds
+battle_skill_config-290021505,
+battle_skill_config-390021505,
+battle_skill_config-490021505,
+battle_skill_config-190021506,Rocks Piercing Clouds
+battle_skill_config-290021506,
+battle_skill_config-390021506,
+battle_skill_config-490021506,
+battle_skill_config-190021507,Rocks Piercing Clouds
+battle_skill_config-290021507,
+battle_skill_config-390021507,
+battle_skill_config-490021507,
+battle_skill_config-190021508,Rocks Piercing Clouds
+battle_skill_config-290021508,
+battle_skill_config-390021508,
+battle_skill_config-490021508,
+battle_skill_config-190021509,Rocks Piercing Clouds
+battle_skill_config-290021509,
+battle_skill_config-390021509,
+battle_skill_config-490021509,
+battle_skill_config-190021510,Rocks Piercing Clouds
+battle_skill_config-290021510,
+battle_skill_config-390021510,
+battle_skill_config-490021510,
+battle_skill_config-190021601,Piercing Shot
+battle_skill_config-290021601,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.5x - 0.8x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021601,Cooldown: 16s//cBasic Damage Multiplier: 0.5x//cMax Damage Multiplier: 0.8x
+battle_skill_config-490021601,
+battle_skill_config-190021602,Piercing Shot
+battle_skill_config-290021602,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.5x - 0.9x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021602,Cooldown: 15.6s//cBasic Damage Multiplier: 0.5x//cMax Damage Multiplier: 0.9x
+battle_skill_config-490021602,
+battle_skill_config-190021603,Piercing Shot
+battle_skill_config-290021603,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.6x - 1x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021603,Cooldown: 15.1s//cBasic Damage Multiplier: 0.6x//cMax Damage Multiplier: 1x
+battle_skill_config-490021603,
+battle_skill_config-190021604,Piercing Shot
+battle_skill_config-290021604,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.6x - 1.1x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021604,Cooldown: 14.7s//cBasic Damage Multiplier: 0.6x//cMax Damage Multiplier: 1.1x
+battle_skill_config-490021604,
+battle_skill_config-190021605,Piercing Shot
+battle_skill_config-290021605,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.7x - 1.2x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021605,Cooldown: 14.2s//cBasic Damage Multiplier: 0.7x//cMax Damage Multiplier: 1.2x
+battle_skill_config-490021605,
+battle_skill_config-190021606,Piercing Shot
+battle_skill_config-290021606,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.7x - 1.4x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021606,Cooldown: 13.8s//cBasic Damage Multiplier: 0.7x//cMax Damage Multiplier: 1.4x
+battle_skill_config-490021606,
+battle_skill_config-190021607,Piercing Shot
+battle_skill_config-290021607,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.8x - 1.5x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021607,Cooldown: 13.3s//cBasic Damage Multiplier: 0.8x//cMax Damage Multiplier: 1.5x
+battle_skill_config-490021607,
+battle_skill_config-190021608,Piercing Shot
+battle_skill_config-290021608,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.8x - 1.6x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021608,Cooldown: 12.9s//cBasic Damage Multiplier: 0.8x//cMax Damage Multiplier: 1.6x
+battle_skill_config-490021608,
+battle_skill_config-190021609,Piercing Shot
+battle_skill_config-290021609,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.9x - 1.7x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021609,Cooldown: 12.4s//cBasic Damage Multiplier: 0.9x//cMax Damage Multiplier: 1.7x
+battle_skill_config-490021609,
+battle_skill_config-190021610,Piercing Shot
+battle_skill_config-290021610,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.9x - 1.8x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021610,Cooldown: 12s//cBasic Damage Multiplier: 0.9x//cMax Damage Multiplier: 1.8x
+battle_skill_config-490021610,
+battle_skill_config-190021701,Piercing Shot
+battle_skill_config-290021701,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.6x - 0.9x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021701,Cooldown: 16s//cBasic Damage Multiplier: 0.6x//cMax Damage Multiplier: 0.9x
+battle_skill_config-490021701,
+battle_skill_config-190021702,Piercing Shot
+battle_skill_config-290021702,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.6x - 1x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021702,Cooldown: 15.6s//cBasic Damage Multiplier: 0.6x//cMax Damage Multiplier: 1x
+battle_skill_config-490021702,
+battle_skill_config-190021703,Piercing Shot
+battle_skill_config-290021703,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.7x - 1.1x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021703,Cooldown: 15.1s//cBasic Damage Multiplier: 0.7x//cMax Damage Multiplier: 1.1x
+battle_skill_config-490021703,
+battle_skill_config-190021704,Piercing Shot
+battle_skill_config-290021704,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.7x - 1.3x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021704,Cooldown: 14.7s//cBasic Damage Multiplier: 0.7x//cMax Damage Multiplier: 1.3x
+battle_skill_config-490021704,
+battle_skill_config-190021705,Piercing Shot
+battle_skill_config-290021705,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.8x - 1.4x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021705,Cooldown: 14.2s//cBasic Damage Multiplier: 0.8x//cMax Damage Multiplier: 1.4x
+battle_skill_config-490021705,
+battle_skill_config-190021706,Piercing Shot
+battle_skill_config-290021706,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.8x - 1.5x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021706,Cooldown: 13.8s//cBasic Damage Multiplier: 0.8x//cMax Damage Multiplier: 1.5x
+battle_skill_config-490021706,
+battle_skill_config-190021707,Piercing Shot
+battle_skill_config-290021707,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.9x - 1.6x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021707,Cooldown: 13.3s//cBasic Damage Multiplier: 0.9x//cMax Damage Multiplier: 1.6x
+battle_skill_config-490021707,
+battle_skill_config-190021708,Piercing Shot
+battle_skill_config-290021708,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 0.9x - 1.8x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021708,Cooldown: 12.9s//cBasic Damage Multiplier: 0.9x//cMax Damage Multiplier: 1.8x
+battle_skill_config-490021708,
+battle_skill_config-190021709,Piercing Shot
+battle_skill_config-290021709,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 1x - 1.9x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021709,Cooldown: 12.4s//cBasic Damage Multiplier: 1x//cMax Damage Multiplier: 1.9x
+battle_skill_config-490021709,
+battle_skill_config-190021710,Piercing Shot
+battle_skill_config-290021710,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 1.5 seconds//c remove all charges//c fire a bullet with penetrating effect at the furthest target//c dealing 1x - 2x damage to pierced enemies and an equal amount of additional damage to the target.
+battle_skill_config-390021710,Cooldown: 12s//cBasic Damage Multiplier: 1x//cMax Damage Multiplier: 2x
+battle_skill_config-490021710,
+battle_skill_config-110290501,Chain Shot
+battle_skill_config-210290501,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 0.5 second twice//c remove all charges and deal 0.7x - 1.5x damage per shot to the current target depending on the number of stacks.
+battle_skill_config-310290501,Cooldown: 16s//cBasic Damage Multiplier: 0.7x//cMax Damage Multiplier: 1.5x
+battle_skill_config-410290501,
+battle_skill_config-110290502,Chain Shot
+battle_skill_config-210290502,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 0.5 second twice//c remove all charges and deal 0.9x - 1.7x damage per shot to the current target depending on the number of stacks.
+battle_skill_config-310290502,Cooldown: 15.6s//cBasic Damage Multiplier: 0.9x//cMax Damage Multiplier: 1.7x
+battle_skill_config-410290502,
+battle_skill_config-110290503,Chain Shot
+battle_skill_config-210290503,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 0.5 second twice//c remove all charges and deal 1.2x - 1.9x damage per shot to the current target depending on the number of stacks.
+battle_skill_config-310290503,Cooldown: 15.1s//cBasic Damage Multiplier: 1.2x//cMax Damage Multiplier: 1.9x
+battle_skill_config-410290503,
+battle_skill_config-110290504,Chain Shot
+battle_skill_config-210290504,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 0.5 second twice//c remove all charges and deal 1.4x - 2.2x damage per shot to the current target depending on the number of stacks.
+battle_skill_config-310290504,Cooldown: 14.7s//cBasic Damage Multiplier: 1.4x//cMax Damage Multiplier: 2.2x
+battle_skill_config-410290504,
+battle_skill_config-110290505,Chain Shot
+battle_skill_config-210290505,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 0.5 second twice//c remove all charges and deal 1.6x - 2.4x damage per shot to the current target depending on the number of stacks.
+battle_skill_config-310290505,Cooldown: 14.2s//cBasic Damage Multiplier: 1.6x//cMax Damage Multiplier: 2.4x
+battle_skill_config-410290505,
+battle_skill_config-110290506,Chain Shot
+battle_skill_config-210290506,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 0.5 second twice//c remove all charges and deal 1.9x - 2.6x damage per shot to the current target depending on the number of stacks.
+battle_skill_config-310290506,Cooldown: 13.8s//cBasic Damage Multiplier: 1.9x//cMax Damage Multiplier: 2.6x
+battle_skill_config-410290506,
+battle_skill_config-110290507,Chain Shot
+battle_skill_config-210290507,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 0.5 second twice//c remove all charges and deal 2.1x - 2.8x damage per shot to the current target depending on the number of stacks.
+battle_skill_config-310290507,Cooldown: 13.3s//cBasic Damage Multiplier: 2.1x//cMax Damage Multiplier: 2.8x
+battle_skill_config-410290507,
+battle_skill_config-110290508,Chain Shot
+battle_skill_config-210290508,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 0.5 second twice//c remove all charges and deal 2.3x - 3.1x damage per shot to the current target depending on the number of stacks.
+battle_skill_config-310290508,Cooldown: 12.9s//cBasic Damage Multiplier: 2.3x//cMax Damage Multiplier: 3.1x
+battle_skill_config-410290508,
+battle_skill_config-110290509,Chain Shot
+battle_skill_config-210290509,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 0.5 second twice//c remove all charges and deal 2.6x - 3.3x damage per shot to the current target depending on the number of stacks.
+battle_skill_config-310290509,Cooldown: 12.4s//cBasic Damage Multiplier: 2.6x//cMax Damage Multiplier: 3.3x
+battle_skill_config-410290509,
+battle_skill_config-110290510,Chain Shot
+battle_skill_config-210290510,Start to charge after skill cooldown. Increase charges by 1 stack every second//c 4 stacks maximum. Tap the skill to aim for 0.5 second twice//c remove all charges and deal 2.8x - 3.5x damage per shot to the current target depending on the number of stacks.
+battle_skill_config-310290510,Cooldown: 12s//cBasic Damage Multiplier: 2.8x//cMax Damage Multiplier: 3.5x
+battle_skill_config-410290510,
+battle_skill_config-190021801,Maple Firefly
+battle_skill_config-290021801,Passive: TAC's drone will randomly mark an enemy (changes every second) after reaching 5 stacks of charges. Active: Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.5x - 2.5x damage (able to crit) to the highest HP enemy depending on the number of stacks. Will prioritize attacking the marked enemy if there is one.
+battle_skill_config-390021801,Cooldown: 15s//cBasic Damage Multiplier: 1.5x//cMax Damage Multiplier: 2.5x
+battle_skill_config-490021801,
+battle_skill_config-190021802,Maple Firefly
+battle_skill_config-290021802,Passive: TAC's drone will randomly mark an enemy (changes every second) after reaching 5 stacks of charges. Active: Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.6x - 2.7x damage (able to crit) to the highest HP enemy depending on the number of stacks. Will prioritize attacking the marked enemy if there is one.
+battle_skill_config-390021802,Cooldown: 14.6s//cBasic Damage Multiplier: 1.6x//cMax Damage Multiplier: 2.7x
+battle_skill_config-490021802,
+battle_skill_config-190021803,Maple Firefly
+battle_skill_config-290021803,Passive: TAC's drone will randomly mark an enemy (changes every second) after reaching 5 stacks of charges. Active: Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.7x - 2.9x damage (able to crit) to the highest HP enemy depending on the number of stacks. Will prioritize attacking the marked enemy if there is one.
+battle_skill_config-390021803,Cooldown: 14.1s//cBasic Damage Multiplier: 1.7x//cMax Damage Multiplier: 2.9x
+battle_skill_config-490021803,
+battle_skill_config-190021804,Maple Firefly
+battle_skill_config-290021804,Passive: TAC's drone will randomly mark an enemy (changes every second) after reaching 5 stacks of charges. Active: Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.7x - 3.2x damage (able to crit) to the highest HP enemy depending on the number of stacks. Will prioritize attacking the marked enemy if there is one.
+battle_skill_config-390021804,Cooldown: 13.7s//cBasic Damage Multiplier: 1.7x//cMax Damage Multiplier: 3.2x
+battle_skill_config-490021804,
+battle_skill_config-190021805,Maple Firefly
+battle_skill_config-290021805,Passive: TAC's drone will randomly mark an enemy (changes every second) after reaching 5 stacks of charges. Active: Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.8x - 3.4x damage (able to crit) to the highest HP enemy depending on the number of stacks. Will prioritize attacking the marked enemy if there is one.
+battle_skill_config-390021805,Cooldown: 13.2s//cBasic Damage Multiplier: 1.8x//cMax Damage Multiplier: 3.4x
+battle_skill_config-490021805,
+battle_skill_config-190021806,Maple Firefly
+battle_skill_config-290021806,Passive: TAC's drone will randomly mark an enemy (changes every second) after reaching 5 stacks of charges. Active: Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 1.9x - 3.6x damage (able to crit) to the highest HP enemy depending on the number of stacks. Will prioritize attacking the marked enemy if there is one.
+battle_skill_config-390021806,Cooldown: 12.8s//cBasic Damage Multiplier: 1.9x//cMax Damage Multiplier: 3.6x
+battle_skill_config-490021806,
+battle_skill_config-190021807,Maple Firefly
+battle_skill_config-290021807,Passive: TAC's drone will randomly mark an enemy (changes every second) after reaching 5 stacks of charges. Active: Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2x - 3.8x damage (able to crit) to the highest HP enemy depending on the number of stacks. Will prioritize attacking the marked enemy if there is one.
+battle_skill_config-390021807,Cooldown: 12.3s//cBasic Damage Multiplier: 2x//cMax Damage Multiplier: 3.8x
+battle_skill_config-490021807,
+battle_skill_config-190021808,Maple Firefly
+battle_skill_config-290021808,Passive: TAC's drone will randomly mark an enemy (changes every second) after reaching 5 stacks of charges. Active: Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2x - 4.1x damage (able to crit) to the highest HP enemy depending on the number of stacks. Will prioritize attacking the marked enemy if there is one.
+battle_skill_config-390021808,Cooldown: 11.9s//cBasic Damage Multiplier: 2x//cMax Damage Multiplier: 4.1x
+battle_skill_config-490021808,
+battle_skill_config-190021809,Maple Firefly
+battle_skill_config-290021809,Passive: TAC's drone will randomly mark an enemy (changes every second) after reaching 5 stacks of charges. Active: Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.1x - 4.3x damage (able to crit) to the highest HP enemy depending on the number of stacks. Will prioritize attacking the marked enemy if there is one.
+battle_skill_config-390021809,Cooldown: 11.4s//cBasic Damage Multiplier: 2.1x//cMax Damage Multiplier: 4.3x
+battle_skill_config-490021809,
+battle_skill_config-190021810,Maple Firefly
+battle_skill_config-290021810,Passive: TAC's drone will randomly mark an enemy (changes every second) after reaching 5 stacks of charges. Active: Start to charge after skill cooldown. Increase charges by 1 stack every second//c 5 stacks maximum. Tap the skill to aim for 1 second//c remove all charges and deal 2.2x - 4.5x damage (able to crit) to the highest HP enemy depending on the number of stacks. Will prioritize attacking the marked enemy if there is one.
+battle_skill_config-390021810,Cooldown: 11s//cBasic Damage Multiplier: 2.2x//cMax Damage Multiplier: 4.5x
+battle_skill_config-490021810,
+battle_skill_config-190021901,
+battle_skill_config-290021901,
+battle_skill_config-390021901,
+battle_skill_config-490021901,
+battle_skill_config-190022001,

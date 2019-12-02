@@ -462,13 +462,13 @@ mission-10010091,ハチの巣
 mission-20010091,
 mission-10010092,終局
 mission-20010092,13:20
-mission-10090025,パーシャルリコールⅠ
+mission-10090025,記憶の片割れⅠ
 mission-20090025,
-mission-10090026,パーシャルリコールⅡ
+mission-10090026,記憶の片割れⅡ
 mission-20090026,
-mission-10090027,パーシャルリコールⅢ
+mission-10090027,記憶の片割れⅢ
 mission-20090027,
-mission-10090028,パーシャルリコールⅣ
+mission-10090028,記憶の片割れⅣ
 mission-20090028,
 mission-10010093,Stalker
 mission-20010093,
