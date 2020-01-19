@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"EMP 한 방으로 마비시키지 못할 적은 없지.\n뭐? 생체 유닛이라고?\n<color=#FFFF00>[힌트] 변전소를 여러 개 연결하면 EMP의 효과 반경이 상승합니다. (2 → 3)</color>"}]

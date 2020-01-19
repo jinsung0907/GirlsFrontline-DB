@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"<color=#FF4646>警告！敌方重火力支援单位已投入战场，我方在敌方重火力支援覆盖的区域内进行战斗将会受到沉重的打击。</color>\n<color=#FF4646>请注意规避战斗，或者可以等待敌方单位主动脱离重火力支援的覆盖范围后再将其击杀。</color>\n<color=#FFFF00>Tip"}]
