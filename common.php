@@ -171,17 +171,24 @@ function getEquipName($equip) {
 		return isset($equip->krName)?$equip->krName:$equip->name;
 }
 
-function getFairyName($fairy) {
-	global $lang;
-	
-	if($lang == 'ja') 
-		return isset($fairy->jpName)?$fairy->jpName:$fairy->name;
-	else if($lang == 'en') 
-		return isset($fairy->enName)?$fairy->enName:$fairy->name;
-	else if($lang == 'zh') 
-		return isset($fairy->cnName)?$fairy->cnName:$fairy->name;
-	else
-		return isset($fairy->krName)?$fairy->krName:$fairy->name;
+function getFairyName($fairy, $datafile) {
+	foreach($datafile as $data) {
+		if(strpos($data, $fairy->name) !== false) {
+			$tmp = explode(',', $data);
+			return $tmp[1];
+		}
+	}
+}
+
+function getFairyType($type) {
+	switch($type) {
+		case 1: return "비전투";
+		case 2: return "전투 및 공격 속성 클래스";
+		case 3: return "전투 방어";
+		case 4: return "직접적인 부상";
+		case 5: return "강화";
+		case 6: return "캠페인";
+	}
 }
 
 //에러 페이지
@@ -326,10 +333,10 @@ function audiohex_to_str($hex, $type) {
 
 //인형 타입 출력
 function fairytype_to_str($type) {
-	if($type == 'strategy') {
+	if($type == 2) {
 		return L::fairy_type_tactical;
 	}
-	else if($type == 'battle') {
+	else if($type == 1) {
 		return L::fairy_type_battle;
 	}
 }

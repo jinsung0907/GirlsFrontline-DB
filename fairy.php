@@ -6,6 +6,8 @@
 	
 	//요정데이터 불러오기
 	$fairies = getJson('fairy');
+	$fairydata = explode(PHP_EOL, getDataFile('fairy', $lang));
+	
 	foreach($fairies as $data) {
 		if(is_numeric($_GET['id'])) {
 			if($data->id == $_GET['id']) {
@@ -31,6 +33,23 @@
 			break;
 		}
 	}
+	
+	//스탯 정리
+	$stats = [];
+	$stats["pow"] = $fairy->pow;
+	$stats["hit"] = $fairy->hit;
+	$stats["dodge"] = $fairy->dodge;
+	$stats["armor"] = $fairy->armor;
+	$stats["critDmg"] = $fairy->critical_harm_rate;
+	
+	/*
+	"pow": "160",
+	"hit": "160",
+	"dodge": "100",
+	"armor": "100",
+	"critical_harm_rate": "0",
+	*/
+	
 	
 	//스킬 파싱
 	$replace = [];
@@ -71,18 +90,20 @@
 	}
 	
 	//클라데이터 스킬
-	if($fairy->skill->realid > 900000)
+	if($fairy->skill_id > 900000)
 		$tmp = getDataFile('battle_skill_config', $lang);
-	else 
+	else {
 		$tmp = getDataFile('mission_skill_config', $lang);
+		$fairy->skill_id = str_replace('*', '', $fairy->skill_id);
+	}
 	
 	$rskills = explode(PHP_EOL, $tmp);
-	if(isset($fairy->skill->realid)) {
+	if(isset($fairy->skill_id)) {
 		$rskill_name = '';
 		$rskill_txt = [];
 		$i = 0;
 		foreach($rskills as $line) {
-			if($fairy->skill->realid > 900000)
+			if($fairy->category == 1)
 				preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $line, $matches);
 			else {
 				preg_match("/mission_skill_config-([0-9])([0-9]{5})([0-9]{2}),(.*)/", $line, $matches);
@@ -90,9 +111,29 @@
 			}
 			$s_level = intval($matches[3]);
 			
-			if($matches[1] == 1 && $matches[2] == $fairy->skill->realid) {
+			if($matches[1] == 1 && $matches[2] == $fairy->skill_id) {
 				$rskill_name = explode(',', $rskills[$i])[1];
-				$rskill_txt[$s_level] = explode(',', $rskills[$i+1])[1];
+				
+				$skilltxt = '';
+				$j = 1;
+				while(1) {
+					if($fairy->category == 1) 
+						preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $rskills[$i+$j], $tmpmatch);
+					else 
+						preg_match("/battle_skill_config-([0-9])([0-9]{6})([0-9]{2}),(.*)/", $rskills[$i+$j], $tmpmatch);
+					if($tmpmatch[1] == 2) {
+						$skilltxt = $tmpmatch[4];
+						break;
+					}
+					else if ($j > 5) {
+						break;
+					}
+					else {
+						$j++;
+					}
+				}
+				
+				$rskill_txt[$s_level] = $skilltxt;
 				$rskill_txt[$s_level] = str_replace("//c" , ',', $rskill_txt[$s_level]);
 				$rskill_txt[$s_level] = str_replace("；" , '<br>', $rskill_txt[$s_level]);
 				$rskill_txt[$s_level] = str_replace("//n" , '<br>', $rskill_txt[$s_level]);
@@ -151,9 +192,9 @@
 
 	//이미지 불러오기
 	$imglist = [];
-	array_push($imglist, $fairy->name. "_1");
-	array_push($imglist, $fairy->name. "_2");
-	array_push($imglist, $fairy->name. "_3");
+	array_push($imglist, $fairy->code. "_1");
+	array_push($imglist, $fairy->code. "_2");
+	array_push($imglist, $fairy->code. "_3");
 	
 
 	
@@ -191,7 +232,7 @@
 				<div class="col-md">
 					<h2 style="display: inline" class="mr-2"><?=$fairyname?></h2><br><hr class="mt-1 mb-1">
 					<b><?=L::database_type?></b> : <?=fairytype_to_str($fairy->category)?><hr class="mt-1 mb-1">
-					<b><?=L::database_buildtime?></b> : <?=$fairy->buildTime?gmdate("H\\" . L::hour . " i\\" . L::min, $fairy->buildTime): L::database_cantbuild;?><hr class="mt-1 mb-1">
+					<b><?=L::database_buildtime?></b> : <?=$fairy->develop_duration?gmdate("H\\" . L::hour . " i\\" . L::min, $fairy->develop_duration): L::database_cantbuild;?><hr class="mt-1 mb-1">
 					<select id="fairyrank">
 						<option value="1">1<?=L::database_star?></option>
 						<option value="2">2<?=L::database_star?></option>
@@ -225,7 +266,7 @@
 					<hr class="mt-1 mb-1">
 					<div class="row pb-0">
 						<div class="col-md-auto align-self-center">
-							<img class="skillimg" src="img/skill/<?=$fairy->skill->code?$fairy->skill->code:$skill->path?>.png"> <?=$rskill_name?>
+							<img class="skillimg" src="img/skill/<?=$fairy->code?>.png"> <?=$rskill_name?>
 						</div>
 						<div class="col">
 							<select id="skilllevel">
@@ -266,7 +307,7 @@
 ?>
 	</body>
 	<script>
-	var fairystats = <?=json_encode($fairy->stats)?>;
+	var fairystats = <?=json_encode($stats)?>;
 	var grow = {"armor": [5, 0.05],"critDmg": [10, 0.101],"dodge": [20, 0.202],"hit": [25, 0.252],"pow": [7, 0.076],"proportion": [0.4, 0.5, 0.6, 0.8, 1.0]};
 	const fairygrow = <?=$fairy->grow?>;
 	
