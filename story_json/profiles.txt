@@ -219,3 +219,12 @@ va11_cg1
 19winter_4516
 19winter_biggun
 19winter_m4_1
+19winter_inbg_1
+19winter_inbg_2
+19winter_door_close
+19winter_door_open
+19winter_doorandtank
+19winter_doorexplode
+19winter_aurora
+19winter_ump45vs
+19winter_lab

@@ -1,1 +1,1 @@
-[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"<color=#FFFF00>在少前，你甚至可以玩推箱子。咳咳，我说笑而已的。</color>\n<color=#FFFF00>Tip"}]
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"<color=#FFFF00>소녀전선에서 즐기는 추억의 고전게임~ 크흠, 농담이었어요.</color>\n<color=#FFFF00>힌트 - EMP 폭탄은 일직선 방향으로 밀어 움직일 수 있습니다. 예를 들어, 위에서 아래로, 좌에서 우로.</color>"}]

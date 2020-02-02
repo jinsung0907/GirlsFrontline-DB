@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"没有什么敌人是一个EMP定不住的，如果有，那就再来一个。\n什么？你说那个不是机械单位？……\n<color=#FFFF00>Tip"}]

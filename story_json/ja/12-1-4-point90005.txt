@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"<color=#FF4646>注意！该操作台仅能发送一次性指令，且使用后会导致所有控制台失效，请慎重选择发送指令的时机。</color>"}]

@@ -10,5 +10,6 @@
 -2,-3,-4,-5|Arctic Warfare|EP.|7.5
 -7|Operation Cube+|EP.|7.75
 8|Chapter|EP.|08
+-10,-11,-12,-13|Deep Dive|EP.|8.5
 9|Chapter|EP.|09
 10|Chapter|EP.|10
