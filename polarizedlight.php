@@ -52,7 +52,9 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
     <main role="main" class="container">
 		<div class="my-3 p-3 rounded box-shadow" style="background-color: white">
 			<div class="row" style="text-align:center;">
-				<img style="display:block; margin-left: auto;margin-right: auto; margin-bottom: 4rem; width: 95%" src="img/pl.jpg" alt="편극광" />
+				<div class="col-12 mb-5">
+					<img style="width: 100%" src="img/pl.jpg" alt="편극광" />
+				</div>
 				
 				<div class="col-12 item pb-5">
 					<h2 class="mb-4 pb-1 border-bottom border-gray">비편광권</h2>
