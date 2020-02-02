@@ -18,6 +18,7 @@
 		$tmp = explode("-", $q);
 		$div[0] = "-".$tmp[1];
 		$div[1] = $tmp[2];
+		$div[2] = $tmp[3];
 	} else {
 		$div = explode("-", $q);
 	}
