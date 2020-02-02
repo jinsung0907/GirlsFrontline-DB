@@ -100,6 +100,18 @@ gun_obtain-10001909,     September  2019 monthly login reward
 gun_obtain-10001910,     October 2019 monthly login reward
 gun_obtain-10001911,     November 2019 monthly login reward
 gun_obtain-10001912,     December 2019 monthly login reward
+gun_obtain-10002001,     January 2020 monthly login reward
+gun_obtain-10002002,     February 2020 monthly login reward
+gun_obtain-10002003,     March 2020 monthly login reward
+gun_obtain-10002004,     April 2020 monthly login reward
+gun_obtain-10002005,     May 2020 monthly login reward
+gun_obtain-10002006,     June  2020 monthly login reward
+gun_obtain-10002007,     July 2020 monthly login reward
+gun_obtain-10002008,     August  2020 monthly login reward
+gun_obtain-10002009,     September  2020 monthly login reward
+gun_obtain-10002010,     October 2020 monthly login reward
+gun_obtain-10002011,     November 2020 monthly login reward
+gun_obtain-10002012,     December 2020 monthly login reward
 gun_obtain-10000301,• Carnival 【Golden Moon】reward
 gun_obtain-10000302,• Mid-Autumn Festival sign-in reward
 gun_obtain-10000303,• Limited-time campaign 【Operation Rabbit Hunt】 stage clear reward

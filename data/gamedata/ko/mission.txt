@@ -1030,3 +1030,127 @@ mission-10090039,그녀가 없는 전장 Ⅲ
 mission-20090039,
 mission-10090040,그녀가 없는 전장 Ⅳ
 mission-20090040,
+mission-10010385,철혈의 그린치
+mission-20010385,
+mission-10010386,솔리드 디너게이트
+mission-20010386,
+mission-10010387,달려라 디너게이트
+mission-20010387,
+mission-10010388,선물 찬송가
+mission-20010388,
+mission-10000115,고삐 풀기
+mission-20000115,
+mission-10000116,환영 추적
+mission-20000116,
+mission-10000117,피의 철학
+mission-20000117,
+mission-10000118,초연 신호
+mission-20000118,
+mission-10000119,우담화의 잔영
+mission-20000119,
+mission-10000120,여명을 뚫고
+mission-20000120,
+mission-10000121,아침 회의Ⅰ
+mission-20000121,
+mission-10000122,아침 회의Ⅱ
+mission-20000122,
+mission-10000123,아침 회의Ⅲ
+mission-20000123,
+mission-10000124,아침 회의Ⅳ
+mission-20000124,
+mission-10010389,직진성 II
+mission-20010389,
+mission-10010390,임계각 II
+mission-20010390,
+mission-10010391,반사면 III
+mission-20010391,
+mission-10010392,전반사 II
+mission-20010392,
+mission-10010393,가역성 II
+mission-20010393,
+mission-10010394,도파관 II
+mission-20010394,
+mission-10010395,간섭계 II
+mission-20010395,
+mission-10010396,편광자 II
+mission-20010396,
+mission-10010397,스펙트럼 II
+mission-20010397,
+mission-10010398,거울상 과다 III
+mission-20010398,
+mission-10010399,비대칭 유도 II
+mission-20010399,
+mission-10010412,진공관 EX
+mission-20010412,
+mission-10010413,임계각 EX-I
+mission-20010413,
+mission-10010414,임계각 EX-II
+mission-20010414,
+mission-10010418,비경수위
+mission-20010418,
+mission-10010419,반사면 II
+mission-20010419,
+mission-10010420,편광자 III
+mission-20010420,
+mission-10010421,불규칙 편파 III
+mission-20010421,
+mission-10010422,재결정 분해 III
+mission-20010422,
+mission-10010426,점등관
+mission-20010426,
+mission-10010427,직진성 I
+mission-20010427,
+mission-10010428,굴절점
+mission-20010428,
+mission-10010429,임계각 I
+mission-20010429,
+mission-10010430,반사면 I
+mission-20010430,
+mission-10010431,임계각 III
+mission-20010431,
+mission-10010432,전반사 I
+mission-20010432,
+mission-10010433,사인 곡선
+mission-20010433,
+mission-10010434,가역성 I
+mission-20010434,
+mission-10010435,코사인 신호
+mission-20010435,
+mission-10010436,편광자 I
+mission-20010436,
+mission-10010437,회절 격자 
+mission-20010437,
+mission-10010438,도파관 I
+mission-20010438,
+mission-10010439,분광계
+mission-20010439,
+mission-10010440,간섭계 I
+mission-20010440,
+mission-10010441,틈새
+mission-20010441,
+mission-10010442,진공관 
+mission-20010442,
+mission-10010443,가속기
+mission-20010443,
+mission-10010444,스펙트럼 I
+mission-20010444,
+mission-10010445,검광자
+mission-20010445,
+mission-10010446,거울상 과다 I
+mission-20010446,
+mission-10010447,거울상 과다 II
+mission-20010447,
+mission-10010448,재결정 분해 I
+mission-20010448,
+mission-10010449,불규칙 편파 I
+mission-20010449,
+mission-10010450,재결정 분해 II
+mission-20010450,
+mission-10010451,불규칙 편파 II
+mission-20010451,
+mission-10010452,비대칭 유도 I
+mission-20010452,
+mission-10010453,광학 이성질체
+mission-20010453,
+mission-10010454,유리 터널
+mission-20010454,

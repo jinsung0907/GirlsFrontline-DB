@@ -334,10 +334,10 @@ skin-30001507,This is the bomb's fuse. ...How dangerous. But don't worry//c I wi
 skin-10001608,Forest Reindeer
 skin-20001608,Merry Christmas//c Commander! There will be many events tonight. Want me to be your guide?
 skin-30001608,
-skin-10001601,How RFP Stole Xmas
+skin-10001601,How RFB Stole Xmas
 skin-20001601,The Christmas DLC is on sale! Commander//c buy it for me as a present//c please?
 skin-30001601,
-skin-10001602,Schönstes Geschenk
+skin-10001602,Schoenstes Geschenk
 skin-20001602,Merry Christmas... Commander//c did you finish setting up for the banquet? I'll head over to eat in a bit.
 skin-30001602,
 skin-10001603,Gunshot in the Snow
@@ -421,6 +421,30 @@ skin-30005021,Original Costume
 skin-10005022,StG44 - Original
 skin-20005022,Original Costume
 skin-30005022,Original Costume
+skin-10005023,
+skin-20005023,Original Costume
+skin-30005023,Original Costume
+skin-10005024,
+skin-20005024,Original Costume
+skin-30005024,Original Costume
+skin-10005025,
+skin-20005025,Original Costume
+skin-30005025,Original Costume
+skin-10005026,
+skin-20005026,Original Costume
+skin-30005026,Original Costume
+skin-10005027,
+skin-20005027,
+skin-30005027,
+skin-10005028,
+skin-20005028,
+skin-30005028,
+skin-10005029,
+skin-20005029,
+skin-30005029,
+skin-10005030,
+skin-20005030,
+skin-30005030,
 skin-10001701,Rabbit Squad
 skin-20001701,Hehe~ Commander//c wanna know my phone number? You'd better call me a lot~
 skin-30001701,
@@ -814,3 +838,6 @@ skin-30003406,
 skin-10003506,
 skin-20003506,
 skin-30003506,
+skin-10004005,The Xmas Princess and the Stony Pett
+skin-20004005,Merry Christmas//c Commander! If you want a Christmas present...heheh//c then make a wish to Pett!
+skin-30004005,

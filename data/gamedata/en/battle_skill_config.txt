@@ -15151,7 +15151,7 @@ battle_skill_config-290000601,
 battle_skill_config-390000601,
 battle_skill_config-490000601,
 battle_skill_config-150000001,BGM-71假普攻控制射速[*]
-battle_skill_config-250000001,发射导弹对目标造成1.5倍杀伤和1倍破防；并对半径1.5范围内敌人造成可闪避的0.5倍杀伤和必中的1倍破防。
+battle_skill_config-250000001,Launch a missile to deal 1.5x lethality and 1x pierce to the main target and deal 0.5x avoidable lethality and 1x unavoidable pierce to enemies within a radius of 1.5 yards.
 battle_skill_config-350000001,
 battle_skill_config-450000001,
 battle_skill_config-150000101,Charged Missile
@@ -15291,86 +15291,86 @@ battle_skill_config-250002401,
 battle_skill_config-350002401,
 battle_skill_config-450002401,
 battle_skill_config-150000701,Battlefield Bombardment
-battle_skill_config-250000701,Launch an attack that deals 1.2x lethality to enemies within a radius of 4 yards every 24 seconds.
+battle_skill_config-250000701,Launch an attack that deals 1.2x lethality to enemies within a radius of 4 every 24 seconds.
 battle_skill_config-350000701,Cooldown: 24s//cLethality Multiplier: 1.2x
 battle_skill_config-450000701,
 battle_skill_config-150000702,Battlefield Bombardment
-battle_skill_config-250000702,Launch an attack that deals 1.26x lethality to enemies within a radius of 4 yards every 21 seconds.
+battle_skill_config-250000702,Launch an attack that deals 1.26x lethality to enemies within a radius of 4 every 21 seconds.
 battle_skill_config-350000702,Cooldown: 21s//cLethality Multiplier: 1.26x
 battle_skill_config-450000702,
 battle_skill_config-150000703,Battlefield Bombardment
-battle_skill_config-250000703,Launch an attack that deals 1.32x lethality to enemies within a radius of 4 yards every 18 seconds.
+battle_skill_config-250000703,Launch an attack that deals 1.32x lethality to enemies within a radius of 4 every 18 seconds.
 battle_skill_config-350000703,Cooldown: 18s//cLethality Multiplier: 1.32x
 battle_skill_config-450000703,
 battle_skill_config-150000704,Battlefield Bombardment
-battle_skill_config-250000704,Launch an attack that deals 1.38x lethality to enemies within a radius of 4 yards every 16 seconds.
+battle_skill_config-250000704,Launch an attack that deals 1.38x lethality to enemies within a radius of 4 every 16 seconds.
 battle_skill_config-350000704,Cooldown: 16s//cLethality Multiplier: 1.38x
 battle_skill_config-450000704,
 battle_skill_config-150000705,Battlefield Bombardment
-battle_skill_config-250000705,Launch an attack that deals 1.44x lethality to enemies within a radius of 4 yards every 15 seconds.
+battle_skill_config-250000705,Launch an attack that deals 1.44x lethality to enemies within a radius of 4 every 15 seconds.
 battle_skill_config-350000705,Cooldown: 15s//cLethality Multiplier: 1.44x
 battle_skill_config-450000705,
 battle_skill_config-150000706,Battlefield Bombardment
-battle_skill_config-250000706,Launch an attack that deals 1.56x lethality to enemies within a radius of 4 yards every 14 seconds.
+battle_skill_config-250000706,Launch an attack that deals 1.56x lethality to enemies within a radius of 4 every 14 seconds.
 battle_skill_config-350000706,Cooldown: 14s//cLethality Multiplier: 1.56x
 battle_skill_config-450000706,
 battle_skill_config-150000707,Battlefield Bombardment
-battle_skill_config-250000707,Launch an attack that deals 1.62x lethality to enemies within a radius of 4 yards every 13 seconds.
+battle_skill_config-250000707,Launch an attack that deals 1.62x lethality to enemies within a radius of 4 every 13 seconds.
 battle_skill_config-350000707,Cooldown: 13s//cLethality Multiplier: 1.62x
 battle_skill_config-450000707,
 battle_skill_config-150000708,Battlefield Bombardment
-battle_skill_config-250000708,Launch an attack that deals 1.68x lethality to enemies within a radius of 4 yards every 12 seconds.
+battle_skill_config-250000708,Launch an attack that deals 1.68x lethality to enemies within a radius of 4 every 12 seconds.
 battle_skill_config-350000708,Cooldown: 12s//cLethality Multiplier: 1.68x
 battle_skill_config-450000708,
 battle_skill_config-150000709,Battlefield Bombardment
-battle_skill_config-250000709,Launch an attack that deals 1.74x lethality to enemies within a radius of 4 yards every 11 seconds.
+battle_skill_config-250000709,Launch an attack that deals 1.74x lethality to enemies within a radius of 4 every 11 seconds.
 battle_skill_config-350000709,Cooldown: 11s//cLethality Multiplier: 1.74x
 battle_skill_config-450000709,
 battle_skill_config-150000710,Battlefield Bombardment
-battle_skill_config-250000710,Launch an attack that deals 1.8x lethality to enemies within a radius of 4 yards every 10 seconds.
+battle_skill_config-250000710,Launch an attack that deals 1.8x lethality to enemies within a radius of 4 every 10 seconds.
 battle_skill_config-350000710,Cooldown: 10s//cLethality Multiplier: 1.8x
 battle_skill_config-450000710,
 battle_skill_config-150000801,Dont Translate
-battle_skill_config-250000801,Launch a mortar to deal 1x lethality and pierce to enemies within a radius of 2 yards.
+battle_skill_config-250000801,Launch a mortar to deal 1x lethality and pierce to enemies within a radius of 2.
 battle_skill_config-350000801,Dont Translate
 battle_skill_config-450000801,
-battle_skill_config-150000901,Flesh Lesson
+battle_skill_config-150000901,Lesson in Pain
 battle_skill_config-250000901,Deal an extra 0.1x lethality against targets without a force shield.
 battle_skill_config-350000901,Lethality Multiplier: 0.1x
 battle_skill_config-450000901,
-battle_skill_config-150000902,Flesh Lesson
+battle_skill_config-150000902,Lesson in Pain
 battle_skill_config-250000902,Deal an extra 0.115x lethality against targets without a force shield.
 battle_skill_config-350000902,Lethality Multiplier: 0.115x
 battle_skill_config-450000902,
-battle_skill_config-150000903,Flesh Lesson
+battle_skill_config-150000903,Lesson in Pain
 battle_skill_config-250000903,Deal an extra 0.13x lethality against targets without a force shield.
 battle_skill_config-350000903,Lethality Multiplier: 0.13x
 battle_skill_config-450000903,
-battle_skill_config-150000904,Flesh Lesson
+battle_skill_config-150000904,Lesson in Pain
 battle_skill_config-250000904,Deal an extra 0.145x lethality against targets without a force shield.
 battle_skill_config-350000904,Lethality Multiplier: 0.145x
 battle_skill_config-450000904,
-battle_skill_config-150000905,Flesh Lesson
+battle_skill_config-150000905,Lesson in Pain
 battle_skill_config-250000905,Deal an extra 0.16x lethality against targets without a force shield.
 battle_skill_config-350000905,Lethality Multiplier: 0.16x
 battle_skill_config-450000905,
-battle_skill_config-150000906,Flesh Lesson
+battle_skill_config-150000906,Lesson in Pain
 battle_skill_config-250000906,Deal an extra 0.19x lethality against targets without a force shield.
 battle_skill_config-350000906,Lethality Multiplier: 0.19x
 battle_skill_config-450000906,
-battle_skill_config-150000907,Flesh Lesson
+battle_skill_config-150000907,Lesson in Pain
 battle_skill_config-250000907,Deal an extra 0.205x lethality against targets without a force shield.
 battle_skill_config-350000907,Lethality Multiplier: 0.205x
 battle_skill_config-450000907,
-battle_skill_config-150000908,Flesh Lesson
+battle_skill_config-150000908,Lesson in Pain
 battle_skill_config-250000908,Deal an extra 0.22x lethality against targets without a force shield.
 battle_skill_config-350000908,Lethality Multiplier: 0.22x
 battle_skill_config-450000908,
-battle_skill_config-150000909,Flesh Lesson
+battle_skill_config-150000909,Lesson in Pain
 battle_skill_config-250000909,Deal an extra 0.235x lethality against targets without a force shield.
 battle_skill_config-350000909,Lethality Multiplier: 0.235x
 battle_skill_config-450000909,
-battle_skill_config-150000910,Flesh Lesson
+battle_skill_config-150000910,Lesson in Pain
 battle_skill_config-250000910,Deal an extra 0.25x lethality against targets without a force shield.
 battle_skill_config-350000910,Lethality Multiplier: 0.25x
 battle_skill_config-450000910,
@@ -15507,43 +15507,43 @@ battle_skill_config-250002210,Increase precision by 30%.
 battle_skill_config-350002210,Precision Increase: 30%
 battle_skill_config-450002210,
 battle_skill_config-150002301,AP Concussion
-battle_skill_config-250002301,Every attack has a 40% chance to increase pierce by 10% per second for 4 seconds.
+battle_skill_config-250002301,Every attack has a 40% chance to inflict 10% pierce per second for 4 seconds.
 battle_skill_config-350002301,Pierce Increase Per Second: 10%//cDuration: 4s
 battle_skill_config-450002301,
 battle_skill_config-150002302,AP Concussion
-battle_skill_config-250002302,Every attack has a 40% chance to increase pierce by 11% per second for 4.2 seconds.
+battle_skill_config-250002302,Every attack has a 40% chance to inflict 11% pierce per second for 4.2 seconds.
 battle_skill_config-350002302,Pierce Increase Per Second: 11%//cDuration: 4.2s
 battle_skill_config-450002302,
 battle_skill_config-150002303,AP Concussion
-battle_skill_config-250002303,Every attack has a 40% chance to increase pierce by 12% per second for 4.4 seconds.
+battle_skill_config-250002303,Every attack has a 40% chance to inflict 12% pierce per second for 4.4 seconds.
 battle_skill_config-350002303,Pierce Increase Per Second: 12%//cDuration: 4.4s
 battle_skill_config-450002303,
 battle_skill_config-150002304,AP Concussion
-battle_skill_config-250002304,Every attack has a 40% chance to increase pierce by 13% per second for 4.6 seconds.
+battle_skill_config-250002304,Every attack has a 40% chance to inflict 13% pierce per second for 4.6 seconds.
 battle_skill_config-350002304,Pierce Increase Per Second: 13%//cDuration: 4.6s
 battle_skill_config-450002304,
 battle_skill_config-150002305,AP Concussion
-battle_skill_config-250002305,Every attack has a 40% chance to increase pierce by 14% per second for 4.8 seconds.
+battle_skill_config-250002305,Every attack has a 40% chance to inflict 14% pierce per second for 4.8 seconds.
 battle_skill_config-350002305,Pierce Increase Per Second: 14%//cDuration: 4.8s
 battle_skill_config-450002305,
 battle_skill_config-150002306,AP Concussion
-battle_skill_config-250002306,Every attack has a 40% chance to increase pierce by 16% per second for 5.2 seconds.
+battle_skill_config-250002306,Every attack has a 40% chance to inflict 16% pierce per second for 5.2 seconds.
 battle_skill_config-350002306,Pierce Increase Per Second: 16%//cDuration: 5.2s
 battle_skill_config-450002306,
 battle_skill_config-150002307,AP Concussion
-battle_skill_config-250002307,Every attack has a 40% chance to increase pierce by 17% per second for 5.4 seconds.
+battle_skill_config-250002307,Every attack has a 40% chance to inflict 17% pierce per second for 5.4 seconds.
 battle_skill_config-350002307,Pierce Increase Per Second: 17%//cDuration: 5.4s
 battle_skill_config-450002307,
 battle_skill_config-150002308,AP Concussion
-battle_skill_config-250002308,Every attack has a 40% chance to increase pierce by 18% per second for 5.6 seconds.
+battle_skill_config-250002308,Every attack has a 40% chance to inflict 18% pierce per second for 5.6 seconds.
 battle_skill_config-350002308,Pierce Increase Per Second: 18%//cDuration: 5.6s
 battle_skill_config-450002308,
 battle_skill_config-150002309,AP Concussion
-battle_skill_config-250002309,Every attack has a 40% chance to increase pierce by 19% per second for 5.8 seconds.
+battle_skill_config-250002309,Every attack has a 40% chance to inflict 19% pierce per second for 5.8 seconds.
 battle_skill_config-350002309,Pierce Increase Per Second: 19%//cDuration: 5.8s
 battle_skill_config-450002309,
 battle_skill_config-150002310,AP Concussion
-battle_skill_config-250002310,Every attack has a 40% chance to increase pierce by 20% per second for 6 seconds.
+battle_skill_config-250002310,Every attack has a 40% chance to inflict 20% pierce per second for 6 seconds.
 battle_skill_config-350002310,Pierce Increase Per Second: 20%//cDuration: 6s
 battle_skill_config-450002310,
 battle_skill_config-150002701,AGS假普攻控制射速[*]
@@ -21095,7 +21095,7 @@ battle_skill_config-290015710,In the next battle//c ignite firecrackers to stun 
 battle_skill_config-390015710,Stun Duration: 2s//cDamage Per Second: 50//cDuration: 5s
 battle_skill_config-490015710,
 battle_skill_config-151010201,M2 normal attack[*]
-battle_skill_config-251010201,Launch a mortar to deal 1x lethality and pierce to enemies within a radius of 2 yards.
+battle_skill_config-251010201,Launch a mortar to deal 1x lethality and pierce to enemies within a radius of 2.
 battle_skill_config-351010201,
 battle_skill_config-451010201,
 battle_skill_config-151010301,Fatal Interference

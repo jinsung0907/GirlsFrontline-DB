@@ -329,34 +329,34 @@ mission_skill_config-10001110,Battlefield Reaper
 mission_skill_config-20001110,Deploy a rocket launcher on a designated node. In the next turn//c deal 20% of current HP damage to 5 random enemies within a range of 2 nodes. Ineffective against bosses.
 mission_skill_config-30001110,Damage: 20%//cTargets: 5
 mission_skill_config-10001201,Emergency Fortress
-mission_skill_config-20001201,Build an immovable fortress at this node. Any allies conducting battle on this node within three turns will gain 10% damage//c accuracy//c evasion//c armor and crit rate.
+mission_skill_config-20001201,Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 10% damage//c accuracy//c evasion//c armor and crit rate if enemies run into them.
 mission_skill_config-30001201,Damage Increase: 10%//c Accuracy Increase: 10%//c Evasion Increase: 10%//c Armor Increase: 10%//c crit rate Increase: 10%
 mission_skill_config-10001202,Emergency Fortress
-mission_skill_config-20001202,Build an immovable fortress at this node. Any allies conducting battle on this node within three turns will gain 12% damage//c accuracy//c evasion//c armor and crit rate.
+mission_skill_config-20001202,Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 12% damage//c accuracy//c evasion//c armor and crit rate if enemies run into them.
 mission_skill_config-30001202,Damage Increase: 12%//c Accuracy Increase: 12%//c Evasion Increase: 12%//c Armor Increase: 12%//c crit rate Increase: 12%
 mission_skill_config-10001203,Emergency Fortress
-mission_skill_config-20001203,Build an immovable fortress at this node. Any allies conducting battle on this node within three turns will gain 14% damage//c accuracy//c evasion//c armor and crit rate.
+mission_skill_config-20001203,Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 14% damage//c accuracy//c evasion//c armor and crit rate if enemies run into them.
 mission_skill_config-30001203,Damage Increase: 14%//c Accuracy Increase: 14%//c Evasion Increase: 14%//c Armor Increase: 14%//c crit rate Increase: 14%
 mission_skill_config-10001204,Emergency Fortress
-mission_skill_config-20001204,Build an immovable fortress at this node. Any allies conducting battle on this node within three turns will gain 17% damage//c accuracy//c evasion//c armor and crit rate.
+mission_skill_config-20001204,Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 17% damage//c accuracy//c evasion//c armor and crit rate if enemies run into them.
 mission_skill_config-30001204,Damage Increase: 17%//c Accuracy Increase: 17%//c Evasion Increase: 17%//c Armor Increase: 17%//c crit rate Increase: 17%
 mission_skill_config-10001205,Emergency Fortress
-mission_skill_config-20001205,Build an immovable fortress at this node. Any allies conducting battle on this node within three turns will gain 19% damage//c accuracy//c evasion//c armor and crit rate.
+mission_skill_config-20001205,Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 19% damage//c accuracy//c evasion//c armor and crit rate if enemies run into them.
 mission_skill_config-30001205,Damage Increase: 19%//c Accuracy Increase: 19%//c Evasion Increase: 19%//c Armor Increase: 19%//c crit rate Increase: 19%
 mission_skill_config-10001206,Emergency Fortress
-mission_skill_config-20001206,Build an immovable fortress at this node. Any allies conducting battle on this node within three turns will gain 21% damage//c accuracy//c evasion//c armor and crit rate.
+mission_skill_config-20001206,Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 21% damage//c accuracy//c evasion//c armor and crit rate if enemies run into them.
 mission_skill_config-30001206,Damage Increase: 21%//c Accuracy Increase: 21%//c Evasion Increase: 21%//c Armor Increase: 21%//c crit rate Increase: 21%
 mission_skill_config-10001207,Emergency Fortress
-mission_skill_config-20001207,Build an immovable fortress at this node. Any allies conducting battle on this node within three turns will gain 23% damage//c accuracy//c evasion//c armor and crit rate.
+mission_skill_config-20001207,Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 23% damage//c accuracy//c evasion//c armor and crit rate if enemies run into them.
 mission_skill_config-30001207,Damage Increase: 23%//c Accuracy Increase: 23%//c Evasion Increase: 23%//c Armor Increase: 23%//c crit rate Increase: 23%
 mission_skill_config-10001208,Emergency Fortress
-mission_skill_config-20001208,Build an immovable fortress at this node. Any allies conducting battle on this node within three turns will gain 26% damage//c accuracy//c evasion//c armor and crit rate.
+mission_skill_config-20001208,Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 26% damage//c accuracy//c evasion//c armor and crit rate if enemies run into them.
 mission_skill_config-30001208,Damage Increase: 26%//c Accuracy Increase: 26%//c Evasion Increase: 26%//c Armor Increase: 26%//c crit rate Increase: 26%
 mission_skill_config-10001209,Emergency Fortress
-mission_skill_config-20001209,Build an immovable fortress at this node. Any allies conducting battle on this node within three turns will gain 28% damage//c accuracy//c evasion//c armor and crit rate.
+mission_skill_config-20001209,Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 28% damage//c accuracy//c evasion//c armor and crit rate if enemies run into them.
 mission_skill_config-30001209,Damage Increase: 28%//c Accuracy Increase: 28%//c Evasion Increase: 28%//c Armor Increase: 28%//c crit rate Increase: 28%
 mission_skill_config-10001210,Emergency Fortress
-mission_skill_config-20001210,Build an immovable fortress at this node. Any allies conducting battle on this node within three turns will gain 30% damage//c accuracy//c evasion//c armor and crit rate.
+mission_skill_config-20001210,Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 30% damage//c accuracy//c evasion//c armor and crit rate if enemies run into them.
 mission_skill_config-30001210,Damage Increase: 30%//c Accuracy Increase: 30%//c Evasion Increase: 30%//c Armor Increase: 30%//c crit rate Increase: 30%
 mission_skill_config-10001301,Super EXP
 mission_skill_config-20001301,Increase the EXP gained by the Echelon in the next battle by 5% (ineffective in EXP Mode).

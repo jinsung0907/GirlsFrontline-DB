@@ -169,7 +169,7 @@ AAT52|ALLHALLOWS|For the sake of eating more candies tonight, no matter what dem
 AAT52|DIALOGUEWEDDING|Commander, I'm going to practice on the balance beam! I'll leave it to you to break my fall just like last time, hehe.
 AAT52|GAIN|Bonjour, Commander! AAT-52, reporting for duty!
 AEK999|DIALOGUE1|Ah, sorry! What were you saying?
-AEK999|DIALOGUE2|Is it going to rain today? Let's bet make a bet, Commander!
+AEK999|DIALOGUE2|Is it going to rain today? Let's make a bet, Commander!
 AEK999|DIALOGUE3|My intuition tells me that Mr. Right is going to appear... Hey, why did you interrupt me, Commander?
 AEK999|SOULCONTRACT|Eh? Your choice is...really me?!<>Jeez! ...Though, I do like it.<>Well, I understand... Then, let me become your most powerful asset!
 AEK999|Introduce|You're the Commander, right? AEK-999, the fate of this name shall now be passed onto you!
@@ -242,6 +242,14 @@ AR15Mod|DIALOGUE3|Commander, no matter what I become...I only hope to receive yo
 AR15Mod|SOULCONTRACT|Commander, is this a dream?<>Please let me stay by your side... I don't want to wake up.
 AR15Mod|Introduce|AR15 is a small-bore rifle conceived after WWII. It was eventually adopted by the military under the name of M16 after many setbacks. The name AR15 is kept to designate the civilian model copied by many manufacturers. I am now a brand-new product, so don't lump me in with that ancient crone M16.
 AR15Mod|DIALOGUEWEDDING|How was my performance today, Commander? We're another step closer to reaching our own individual goals, and we'll get there one day.
+AR15Mod|PHRASE|Hardly surprising.
+AR15Mod|WIN|Commander, does this victory...make me "outstanding"?
+AR15Mod_Live2D|HELLO|All set for the job today, Commander? I'm ready whenever you are.
+AR15Mod_Live2D|SKILL1|I...have changed!
+AR15Mod_Live2D|FEED|This is the only thing that reassures me.
+AR15Mod_Live2D|BREAK|No! ...This can't possibly...
+AR15Mod_Live2D|RETREAT|The same outcome again? However...I won't give up.
+AR15Mod_Live2D|SKILL3|I shall bury you with all your pain!
 AR70|DIALOGUE1|Are you satisfied with my work today, Commander?
 AR70|DIALOGUE2|Are you tired from work? If there is anything you need, feel free to ask. I'll always be here.
 AR70|DIALOGUE3|Commander, you really do care about me, don't you? Perhaps...you'll be giving me a promotion?
@@ -656,7 +664,7 @@ Grizzly_0|DIALOGUE1|Ugh... Is life always so painful? Or is it only when you're 
 Grizzly_0|DIALOGUE2|A gun is the best toy for us.
 Grizzly_0|DIALOGUE3|This plant has no roots. I really can't tell who it looks like.
 Grizzly_0|SOULCONTRACT|Oh? Do you want something from me, Commander?<>Huh? Are you kidding?! I think of you as a friend, but you...you wanna...<>Not that I hate it, but at least give me...some time to prepare...
-Grizzly_0|Introduce|L.A.R. Grizzly .50, initially a sole inventor's design, had its patent licensed to L.A.R. Manufacturing Inc. and later entered the market... It's nice to get around.nThe design is based on the Colt M1911 style pistol. Most of the parts are even interchangeable. However, thanks to the increased caliber, the firepower is even more impressive.
+Grizzly_0|Introduce|L.A.R. Grizzly .50, initially a sole inventor's design, had its patent licensed to L.A.R. Manufacturing Inc. and later entered the market... It's nice to get around.The design is based on the Colt M1911 style pistol. Most of the parts are even interchangeable. However, thanks to the increased caliber, the firepower is even more impressive.
 Grizzly_0|ALLHALLOWS|What's the plan tonight, Commander? ...Oh? Whose apple cider is this? I'm helping myself!
 Grizzly_0|DIALOGUEWEDDING|I heard humans like to hug a teddy bear while sleeping. Why don't you...hug me to sleep tonight, Commander?
 HEZISM1|DIALOGUE1|Sometimes, I'd like to be colder, because everyone seems to like Dolls like that... But, that's the kind of person I'm the worst at handling.
@@ -1051,8 +1059,16 @@ M4A1Mod|DIALOGUE1|What's the password, Commander?
 M4A1Mod|DIALOGUE2|Understood. What would you like to know?
 M4A1Mod|DIALOGUE3|If you're bored then can't you find someone else? I still have training to do.
 M4A1Mod|SOULCONTRACT|Commander, thank you for staying with me all this while...<>I probably wouldn't be able to do anything...if I sank any further.<>It is through your sincere voice that I have gotten a hold of myself. I will face myself again, please rest assured.
-M4A1Mod|Introduce|M4A1, modified from M4, which in turn was based on M16A2, is a carbine weapon developed to accommodate modular devices and was first assigned to the special forces. nThough there had been some setbacks in sales, I still managed to make frequent appearances on the battlefield thanks to my lightness and superior short-range caliber. War is always changing, isn't it?
+M4A1Mod|Introduce|M4A1, modified from M4, which in turn was based on M16A2, is a carbine weapon developed to accommodate modular devices and was first assigned to the special forces. Though there had been some setbacks in sales, I still managed to make frequent appearances on the battlefield thanks to my lightness and superior short-range caliber. War is always changing, isn't it?
 M4A1Mod|DIALOGUEWEDDING|Commander, would you like to hear my suggestions for the battle plan? ...Mhm, you can count on me once in a while.
+M4A1Mod|WIN|I did it, M16... I did it again.
+M4A1Mod|BLACKACTION|M16, I finally...made myself useful.
+M4A1Mod|HELLO|Morning, Commander. If you don’t need anything with me, I’ll just continue with my work.
+M4A1Mod|SKILL3|I won't show mercy anymore.
+M4A1Mod|RETREAT|Why...? I'm already...out of time...
+M4A1Mod|BREAK|Ugh! Am I still...not good enough?
+M4A1Mod|FIX|Understood... There won't be a next time.
+M4A1Mod|COMBINE|I wonder which is the real me...
 M500|DIALOGUE1|Is there something interesting? Wait for me!
 M500|DIALOGUE2|What is it, Commander? You should be a bit more happier when you see me!
 M500|DIALOGUE3|Ah! I'm sorry, I'm really sorry! Commander, stop while you're ahead!
@@ -1392,6 +1408,7 @@ PDW|SOULCONTRACT|Commander, I didn't think you'd be bold enough to do something 
 PDW|Introduce|No matter what sort of battlefield it may be, I, Honey Badger, am willing to fight! Please bear witness to my performance, Commander!
 PDW|DIALOGUEWEDDING|Commander, as long as you're calling the shots, I feel safe along with my sense of courage, so please...don't let me forget that strength.
 PDW|GAIN|No matter what sort of battlefield it may be, I, Honey Badger, am willing to fight! Please bear witness to my performance, Commander!
+PDW|CHRISTMAS|This is how Christmas should be, isn't it? A day of happiness! Come on, accept my gift!
 PK|DIALOGUE1|What is it?
 PK|DIALOGUE2|I'm not ignoring you.
 PK|DIALOGUE3|Take your hand off of me.
@@ -1405,7 +1422,7 @@ PKP|DIALOGUE1|A battle plan will be perfect as long as my name is on it.
 PKP|DIALOGUE2|PK? You won't catch up to me with this sort of insincere goodwill.
 PKP|DIALOGUE3|I have bad news for you... Your diagnosis report is about to be finished.
 PKP|SOULCONTRACT|I have never imagined that there was any meaning in relying on others.<>But as long as I am with you, "I can't do it" is no longer scary.<>Have I become stronger or weaker, Commander? You tell me.
-PKP|Introduce|Let me tell you some good news, Commander...you've just obtained thetrump card for victory.
+PKP|Introduce|Let me tell you some good news, Commander...you've just obtained the trump card for victory.
 PKP|DIALOGUEWEDDING|Tch, this job is quite tricky... Hey, let's get this done together, alright?
 PKP|GAIN|Let me tell you some good news, Commander...you've just obtained the trump card for victory.
 PM|DIALOGUE1|Hm? What's the matter?

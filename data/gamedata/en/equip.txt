@@ -311,8 +311,8 @@ equip-10000105,PM 5-25X56
 equip-20000105,CRIT RATE+<critical_percent>%//nCRIT DMG+<critical_harm_rate>%$Kar98k only
 equip-30000105,The expensive German-made optical lens has always been the ultimate choice for snipers and photographers. For someone who has toured through 130 years of battlefields//c this sophisticated sight will allow her to be even more serene. Can only be equipped by Kar98k.
 equip-10000106,EOT XPS3
-equip-20000106,DMG+<pow> ACC+<hit>//nCRIT RATE+<critical_percent>%$HK416 only
-equip-30000106,EOT's latest holographic sight. In addition to looking cool//c it comes with a flip to side 3x magnifier scope//c allowing it to be used under a wider range of situations. Can only be equipped by HK416.
+equip-20000106,DMG+<pow> ACC+<hit>//nCRIT RATE+<critical_percent>%$416 only
+equip-30000106,EOT's latest holographic sight. In addition to looking cool//c it comes with a flip to side 3x magnifier scope//c allowing it to be used under a wider range of situations. Can only be equipped by 416.
 equip-10000107,Infinite Ammo Box
 equip-20000107,ROUNDS+<bullet_number_up> DMG<pow>//nACC<hit> EVA<dodge>$MG3 only
 equip-30000107,A mysterious and powerful equipment left over from ancient times. Although most of these had been confiscated by a certain mysterious authority//c one copy has been preserved to this day. Can only be equipped by MG3.
@@ -442,8 +442,8 @@ equip-30000149,In order to avoid long-term Carpal Tunnel Syndrome (and also to i
 equip-10000150,ZFG42
 equip-20000150,ACC+<hit> ROF<rate>//nCRIT RATE+<critical_percent>%$FG42  only
 equip-30000150,ZF's optical sight for FG42. Its brass exterior has faded after more than a century//c but you can still get a sense of the German style from the lens. Looking through it makes you feel like you've joined Magnum.
-equip-10000151,20GA Deer Shot
-equip-20000151,DMG+<pow> ACC+<hit>//nCRIT RATE+<critical_percent>%$KS-23 only
+equip-10000151,20GA Buckshot
+equip-20000151,DMG+<pow> ACC+<hit>//nCRIT DMG+<critical_harm_rate>%$KS-23 only
 equip-30000151,This bright yellow shell contains twenty pellets. It boasts top muzzle velocity and excellent spread pattern//c greatly increasing the lethality of KS23.
 equip-10000152,SIG-510 Fire Selector
 equip-20000152,DMG+<pow> ACC+<hit>//nCRIT RATE+<critical_percent>%$SIG-510 only
@@ -474,4 +474,28 @@ equip-20000160,CRIT RATE+<critical_percent>%//nROF<rate>$Lee Enfield only
 equip-30000160,Telescopic sight produced exclusively for Lee Enfield No. 4 MK. I (T) at the beginning of the last century//c furnished with an exquisite brass finish. The faded scope lens witnessed countless lives lost. Can only be equipped by Lee Enfield.
 equip-10000161,Advanced Infantry Sight
 equip-20000161,CRIT RATE+<critical_percent>%//nDMG+<pow>$Type95//c Type97 only
-equip-30000161,"An integrated sight with wired transmission and a rangefinder
+equip-30000161,An integrated sight with wired transmission and a rangefinder//c it is designed to enhance the battlefield awareness and combat adaptability of Type95 and Type97//c allowing them to not reveal themselves while shooting from behind cover.
+equip-10000162,RPD Infantry Webbing
+equip-20000162,ROUNDS+<bullet_number_up> EVA<dodge>//nDMG+<pow>$RPD only
+equip-30000162,A piece of infantry equipment produced by a certain Eastern faction before the War. Light and practical//c it's very popular among certain collectors. People often bug RPD to sell it to them at a high price when she goes on security missions//c much to her chagrin.
+equip-10000163,MAX10 Upper Receiver
+equip-20000163,CRIT RATE+<critical_percent>%//nEVA+<dodge> ROF<rate>$Ingram only
+equip-30000163,A modified upper receiver for exclusive use with Ingram. It adds a rail system that increases flexibility in equipping tactical accessories while also reducing the weapon's cyclic rate//c allowing her fire control module to control it more easily. Most importantly//c it looks REALLY cool.
+equip-10000164,M9 BC2 Grips
+equip-20000164,CRIT RATE+<critical_percent>%//nEVA+<dodge> ACC+<hit>$M9 only
+equip-30000164,A set of modified synthetic tactical grips for exclusive use with M9. They provide an underbarrel Picatinny rail mount and improve controllability while also increasing flexibility in equipping tactical accessories.
+equip-10000165,Tactical Earphones
+equip-20000165,DMG+<pow>ROF+<rate>//nEVA+<dodge>$TAR-21 only
+equip-30000165,"TAR-21's trademark headwear. It looks like a set of bunny ears but contains many sensors
+equip-10000166,
+equip-20000166,
+equip-30000166,
+equip-10000167,
+equip-20000167,
+equip-30000167,
+equip-10000168,Folding Stock
+equip-20000168,CRIT RATE+<critical_percent>%//nEVA+<dodge>$100 Shiki Only
+equip-30000168,A folding stock specially designed for paratroopers to use in battle. What sets it apart from the more common metal folding stock used on other firearms is that this stock is made of wood//c combined with a metal folding mechanism. Can only be equipped by 100 Shiki.
+equip-10000169,Am RFB Quad Rail
+equip-20000169,CRIT RATE+<critical_percent>%//nCRIT DMG+<critical_harm_rate>%$Am RFB Only
+equip-30000169,Insufficient space is often a problem when mounting accessories onto bullpup assault rifles. Thanks to this three-inch quad rail produced by the original manufacturer KTC//c the tactical Christmas tree is no longer dominated by standard firearms. Can only be equipped by Am RFB.

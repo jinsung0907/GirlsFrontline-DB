@@ -379,35 +379,35 @@ mission-20000103,
 mission-10000104,Betrayal IV
 mission-20000104,
 mission-10010051,Starting Point
-mission-20010051,Squad Defiance 16:00
+mission-20010051,Task Force Defy 16:00
 mission-10010052,Splinter Point
-mission-20010052,Squad Defiance 16:40
-mission-10010053,Exhaust I
+mission-20010052,Task Force Defy 16:40
+mission-10010053,Stroke Dead-Center I
 mission-20010053,Ange 16:55
-mission-10010054,Exhaust II
+mission-10010054,Stroke Dead-Center II
 mission-20010054,Ange 17:42
-mission-10010055,Exhaust III
+mission-10010055,Stroke Dead-Center III
 mission-20010055,Ange 18:20
-mission-10010056,Exhaust IV
+mission-10010056,Stroke Dead-Center IV
 mission-20010056,Ange 19:30
-mission-10010057,Compression I
-mission-20010057,Squad Defiance 16:46
-mission-10010058,Compression II
-mission-20010058,Squad Defiance 17:50
-mission-10010059,Compression III
-mission-20010059,Squad Defiance 18:20
-mission-10010060,Compression IV
-mission-20010060,Squad Defiance 19:30
-mission-10010061,Ignition I
+mission-10010057,Compression Initiates I
+mission-20010057,Task Force Defy 16:46
+mission-10010058,Compression Initiates II
+mission-20010058,Task Force Defy 17:50
+mission-10010059,Compression Initiates III
+mission-20010059,Task Force Defy 18:20
+mission-10010060,Compression Initiates IV
+mission-20010060,Task Force Defy 19:30
+mission-10010061,Re-Ignition I
 mission-20010061,Griffin 18:30
-mission-10010062,Ignition II
+mission-10010062,Re-Ignition II
 mission-20010062,Griffin 19:00
-mission-10010063,Ignition III
+mission-10010063,Re-Ignition III
 mission-20010063,Griffin 19:10
-mission-10010064,Ignition IV
+mission-10010064,Re-Ignition IV
 mission-20010064,Griffin 19:30
 mission-10010065,Splinter Point
-mission-20010065,Ange & Squad Defiance 20:00
+mission-20010065,Ange & Task Force Defy 20:00
 mission-10010066,Queen's Gambit I
 mission-20010066,Ange & Persica 21:20
 mission-10010067,Queen's Gambit II
@@ -417,13 +417,13 @@ mission-20010068,Ange & Persica 00:25
 mission-10010069,Queen's Gambit IV
 mission-20010069,Ange & Persica 00:30
 mission-10010070,Castling I
-mission-20010070,Squad Defiance 22:30
+mission-20010070,Task Force Defy 22:30
 mission-10010071,Castling II
-mission-20010071,Squad Defiance 00:05
+mission-20010071,Task Force Defy 00:05
 mission-10010072,Castling III
-mission-20010072,Squad Defiance 02:14
+mission-20010072,Task Force Defy 02:14
 mission-10010073,Castling IV
-mission-20010073,Squad Defiance 03:15
+mission-20010073,Task Force Defy 03:15
 mission-10010074,Promotion I
 mission-20010074,Squad 404 20:10
 mission-10010075,Promotion II
@@ -432,13 +432,13 @@ mission-10010076,Promotion III
 mission-20010076,Squad 404 00:30
 mission-10010077,Promotion IV
 mission-20010077,Squad 404 03:15
-mission-10010078,Weakling's End I
+mission-10010078,Minor Pieces Draw I
 mission-20010078,Griffin 22:10
-mission-10010079,Weakling's End II
+mission-10010079,Minor Pieces Draw II
 mission-20010079,Griffin 00:00
-mission-10010080,Weakling's End III
+mission-10010080,Minor Pieces Draw III
 mission-20010080,Griffin 00:30
-mission-10010081,Weakling's End IV
+mission-10010081,Minor Pieces Draw IV
 mission-20010081,Griffin 01:50
 mission-10010082,Last Resort I
 mission-20010082,06:00
@@ -1022,3 +1022,11 @@ mission-10010383,Shelf Life
 mission-20010383,
 mission-10010384,Preservative
 mission-20010384,
+mission-10010385,Sangvis Orphan
+mission-20010385,
+mission-10010386,Mission: Dinergate
+mission-20010386,
+mission-10010387,X-Dinergates
+mission-20010387,
+mission-10010388,Ode to Gifts
+mission-20010388,

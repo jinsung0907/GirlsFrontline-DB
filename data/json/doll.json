@@ -289,7 +289,7 @@
 	"canequip": {
 		"1": [4, 13, 16],
 		"2": [6],
-		"3": [9, 10]
+		"3": [9, 10, 12]
 	},
 	"effect": {
 		"effectType": "all",
@@ -507,7 +507,7 @@
 	},
 	"grow": 100,
 	"canequip": {
-		"1": [4, 13],
+		"1": [4, 13, 16],
 		"2": [6],
 		"3": [9, 10]
 	},
@@ -7308,7 +7308,7 @@
 	},
 	"grow": 145,
 	"canequip": {
-		"1": [1, 2, 3, 4, 13],
+		"1": [1, 2, 3, 4, 13, 16],
 		"2": [8],
 		"3": [9, 10]
 	},
@@ -9136,7 +9136,7 @@
 	"rank": 5,
 	"type": "ar",
 	"illust": "小吃",
-	"voice": "",
+	"voice": "M・A・O",
 	"buildTime": 14100,
 	"drop": "1,2",
 	"stats": {
@@ -9721,7 +9721,7 @@
 	"canequip": {
 		"1": [9, 10],
 		"2": [6],
-		"3": [1, 2, 3, 4, 13]
+		"3": [1, 2, 3, 4, 13, 16]
 	},
 	"effect": {
 		"effectType": "ar",
@@ -10182,7 +10182,7 @@
 	"id": 239,
 	"name": "Type03",
 	"krName": "03식",
-	"enName": "QBZ-03",
+	"enName": "Type03",
 	"jpName": "03式",
 	"cnName": "",
 	"rank": 3,
@@ -10627,7 +10627,7 @@
 	"rank": 5,
 	"type": "hg",
 	"illust": "水熊",
-	"voice": "",
+	"voice": "Ito Miku",
 	"buildTime": 4200,
 	"drop": "217",
 	"stats": {
@@ -10934,7 +10934,7 @@
 	"rank": 5,
 	"type": "rf",
 	"illust": "DANGERDROP",
-	"voice": "",
+	"voice": "Ogura Yui",
 	"buildTime": 16320,
 	"drop": "1,2",
 	"stats": {
@@ -10977,7 +10977,7 @@
 	"rank": 3,
 	"type": "ar",
 	"illust": "XIN",
-	"voice": "",
+	"voice": "Mineda Mayu",
 	"buildTime": 12000,
 	"drop": "1904",
 	"stats": {
@@ -11021,7 +11021,7 @@
 	"rank": 5,
 	"type": "smg",
 	"illust": "音符",
-	"voice": "",
+	"voice": "Taichi You",
 	"buildTime": 8880,
 	"drop": "218",
 	"stats": {
@@ -11065,7 +11065,7 @@
 	"rank": 5,
 	"type": "hg",
 	"illust": "山药",
-	"voice": "",
+	"voice": "M・A・O",
 	"buildTime": 4500,
 	"drop": "1",
 	"stats": {
@@ -11109,7 +11109,7 @@
 	"rank": 5,
 	"type": "rf",
 	"illust": "薯子Imoko",
-	"voice": "",
+	"voice": "Ise Mariya",
 	"buildTime": 17280,
 	"drop": "1,2",
 	"stats": {
@@ -11152,7 +11152,7 @@
 	"rank": 4,
 	"type": "ar",
 	"illust": "X布",
-	"voice": "",
+	"voice": "Aida Rikako",
 	"buildTime": 12900,
 	"drop": "1,2",
 	"stats": {
@@ -11196,7 +11196,7 @@
 	"rank": 5,
 	"type": "mg",
 	"illust": "暖森",
-	"voice": "",
+	"voice": "Yukana",
 	"buildTime": 23760,
 	"drop": "1,2",
 	"stats": {
@@ -11240,7 +11240,7 @@
 	"rank": 4,
 	"type": "mg",
 	"illust": "花洒",
-	"voice": "",
+	"voice": "Oomori Nichika",
 	"buildTime": 23100,
 	"drop": "1,2",
 	"stats": {
@@ -11285,7 +11285,7 @@
 	"rank": 3,
 	"type": "ar",
 	"illust": "FKEY",
-	"voice": "",
+	"voice": "Omigawa Chiaki",
 	"buildTime": 11400,
 	"drop": "1905",
 	"stats": {
@@ -11329,7 +11329,7 @@
 	"rank": 5,
 	"type": "rf",
 	"illust": "ASK",
-	"voice": "",
+	"voice": "Yukana",
 	"buildTime": 17400,
 	"drop": "219",
 	"stats": {
@@ -11372,7 +11372,7 @@
 	"rank": 3,
 	"type": "smg",
 	"illust": "狂気の君",
-	"voice": "",
+	"voice": "Sekine Hitomi",
 	"buildTime": 7500,
 	"drop": "1906",
 	"stats": {
@@ -11416,7 +11416,7 @@
 	"rank": 3,
 	"type": "rf",
 	"illust": "sola7764",
-	"voice": "",
+	"voice": "Yuuki Kana",
 	"buildTime": 15600,
 	"drop": "1907",
 	"stats": {
@@ -11459,7 +11459,7 @@
 	"rank": 4,
 	"type": "hg",
 	"illust": "litsvn",
-	"voice": "",
+	"voice": "Oowada Hitomi",
 	"buildTime": 3000,
 	"drop": "1",
 	"stats": {
@@ -11503,7 +11503,7 @@
 	"rank": 4,
 	"type": "rf",
 	"illust": "藤ちょこ",
-	"voice": "",
+	"voice": "Ito Miku",
 	"buildTime": 14640,
 	"drop": "1,2",
 	"stats": {
@@ -11546,7 +11546,7 @@
 	"rank": 3,
 	"type": "mg",
 	"illust": "DDAL",
-	"voice": "",
+	"voice": "Taichi You",
 	"buildTime": 22500,
 	"drop": "1908",
 	"stats": {
@@ -11591,7 +11591,7 @@
 	"rank": 5,
 	"type": "hg",
 	"illust": "Anmi",
-	"voice": "",
+	"voice": "Ogura Yui",
 	"buildTime": 3180,
 	"drop": "225",
 	"stats": {
@@ -11635,7 +11635,7 @@
 	"rank": 4,
 	"type": "rf",
 	"illust": "咩爆",
-	"voice": "",
+	"voice": "Oowada Hitomi",
 	"buildTime": 17400,
 	"drop": "224",
 	"stats": {
@@ -11678,7 +11678,7 @@
 	"rank": 5,
 	"type": "ar",
 	"illust": "saitom",
-	"voice": "",
+	"voice": "Ise Mariya",
 	"buildTime": 15120,
 	"drop": "226",
 	"stats": {
@@ -11722,7 +11722,7 @@
 	"rank": 4,
 	"type": "mg",
 	"illust": "钟式机动红领巾",
-	"voice": "",
+	"voice": "Sekine Hitomi",
 	"buildTime": 23280,
 	"drop": "225",
 	"stats": {
@@ -11767,7 +11767,7 @@
 	"rank": 5,
 	"type": "mg",
 	"illust": "时辰",
-	"voice": "",
+	"voice": "Yuuki Kana",
 	"buildTime": 22500,
 	"drop": "224",
 	"stats": {
@@ -11812,7 +11812,7 @@
 	"rank": 3,
 	"type": "hg",
 	"illust": "原子Dan",
-	"voice": "",
+	"voice": "Mineda Mayu",
 	"buildTime": 2700,
 	"drop": "1909",
 	"stats": {
@@ -11856,7 +11856,7 @@
 	"rank": 3,
 	"type": "sg",
 	"illust": "受兔",
-	"voice": "",
+	"voice": "Oomori Nichika",
 	"buildTime": 26100,
 	"drop": "1910",
 	"stats": {
@@ -11937,6 +11937,50 @@
 		"code": "powBuffSelf"
 	}
 }, {
+	"id": 280,
+	"name": "MAT49",
+	"krName": "MAT-49",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "smg",
+	"illust": "花洒",
+	"voice": "",
+	"buildTime": 8280,
+	"drop": "33,34",
+	"stats": {
+		"hp": 105,
+		"pow": 105,
+		"hit": 110,
+		"dodge": 112,
+		"speed": 100,
+		"rate": 100,
+		"armorPiercing": 15,
+		"crit": 5
+	},
+	"grow": 118,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 4,
+		"effectPos": [1, 3],
+		"gridEffect": {
+			"pow": 20,
+			"crit": 20
+		}
+	},
+	"skill": {
+		"realid": 113401,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 6,
+		"code": "dodgeBuffSelf"
+	}
+}, {
 	"id": 281,
 	"name": "HKCAWS",
 	"krName": "CAWS",
@@ -11946,7 +11990,7 @@
 	"rank": 5,
 	"type": "sg",
 	"illust": "废人",
-	"voice": "",
+	"voice": "Aida Rikako",
 	"buildTime": 29700,
 	"drop": "2",
 	"stats": {
@@ -12085,7 +12129,7 @@
 	"illust": "青空kamiya",
 	"voice": "",
 	"buildTime": 15600,
-	"drop": "1212",
+	"drop": "1912",
 	"stats": {
 		"hp": 95,
 		"pow": 102,
@@ -12115,6 +12159,577 @@
 		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
 		"intercd": 6,
 		"code": "rateBuffSelf"
+	}
+}, {
+	"id": 285,
+	"name": "C93",
+	"krName": "C-93",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "hg",
+	"illust": "NOCO",
+	"voice": "Omigawa Chiaki",
+	"buildTime": 4140,
+	"drop": "1",
+	"stats": {
+		"hp": 95,
+		"pow": 115,
+		"hit": 122,
+		"dodge": 130,
+		"speed": 100,
+		"rate": 118,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 122,
+	"canequip": {
+		"1": [4, 13],
+		"2": [6],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 1,
+		"effectPos": [2, 3, 4, 5, 7],
+		"gridEffect": {
+			"pow": 12,
+			"hit": 30
+		}
+	},
+	"skill": {
+		"realid": 900287,
+		"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
+		"intercd": 5,
+		"code": "c93"
+	}
+}, {
+	"id": 286,
+	"name": "KAC",
+	"krName": "KAC-PDW",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "smg",
+	"illust": "山药",
+	"voice": "",
+	"buildTime": 8400,
+	"drop": "1,2",
+	"stats": {
+		"hp": 102,
+		"pow": 130,
+		"hit": 120,
+		"dodge": 120,
+		"speed": 100,
+		"rate": 105,
+		"armorPiercing": 15,
+		"crit": 5
+	},
+	"grow": 105,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 5,
+		"effectPos": [2, 3],
+		"gridEffect": {
+			"pow": 15,
+			"hit": 30
+		}
+	},
+	"skill": {
+		"realid": 900294,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 6,
+		"code": "KAC"
+	}
+}, {
+	"id": 287,
+	"name": "SIG556",
+	"krName": "SIG-556",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "ar",
+	"illust": "水熊",
+	"voice": "",
+	"buildTime": 14160,
+	"drop": "1,2",
+	"stats": {
+		"hp": 110,
+		"pow": 118,
+		"hit": 118,
+		"dodge": 115,
+		"speed": 100,
+		"rate": 115,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 112,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [8, 9],
+		"gridEffect": {
+			"rate": 12,
+			"dodge": 15
+		}
+	},
+	"skill": {
+		"realid": 113501,
+		"cd": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+		"intercd": 5,
+		"code": "sig556"
+	}
+}, {
+	"id": 288,
+	"name": "CR21",
+	"krName": "CR-21",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "ar",
+	"illust": "K箱",
+	"voice": "Machida Kayu",
+	"buildTime": 12900,
+	"drop": "1,2",
+	"stats": {
+		"hp": 100,
+		"pow": 108,
+		"hit": 130,
+		"dodge": 105,
+		"speed": 100,
+		"rate": 122,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 115,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [8, 9],
+		"gridEffect": {
+			"hit": 50,
+			"dodge": 12
+		}
+	},
+	"skill": {
+		"realid": 113601,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 5,
+		"code": "CR21"
+	}
+}, {
+	"id": 289,
+	"name": "R5RGP",
+	"krName": "R5",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "ar",
+	"illust": "音符",
+	"voice": "",
+	"buildTime": 13980,
+	"drop": "227",
+	"stats": {
+		"hp": 112,
+		"pow": 120,
+		"hit": 130,
+		"dodge": 102,
+		"speed": 100,
+		"rate": 112,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 120,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [7, 9],
+		"gridEffect": {
+			"rate": 12,
+			"dodge": 15
+		}
+	},
+	"skill": {
+		"realid": 100108,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 4,
+		"code": "powBuffSelf"
+	}
+}, {
+	"id": 291,
+	"name": "Danuvia43M",
+	"krName": "43M",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "smg",
+	"illust": "TAMAXI",
+	"voice": "",
+	"buildTime": 7500,
+	"drop": "2001",
+	"stats": {
+		"hp": 105,
+		"pow": 110,
+		"hit": 100,
+		"dodge": 85,
+		"speed": 100,
+		"rate": 110,
+		"armorPiercing": 15,
+		"crit": 5
+	},
+	"grow": 120,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 5,
+		"effectPos": [1, 3],
+		"gridEffect": {
+			"pow": 12,
+			"dodge": 10
+		}
+	},
+	"skill": {
+		"realid": 100202,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 6,
+		"code": "dodgeBuffSelf"
+	}
+}, {
+	"id": 292,
+	"name": "RPK16",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "mg",
+	"illust": "",
+	"voice": "",
+	"buildTime": 22560,
+	"drop": "1,2",
+	"stats": {
+		"hp": 100,
+		"pow": 95,
+		"hit": 130,
+		"dodge": 125,
+		"speed": 100,
+		"rate": 115,
+		"armorPiercing": 15,
+		"crit": 5,
+		"bullet": 10
+	},
+	"grow": 138,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3],
+		"3": [9, 14]
+	},
+	"effect": {
+		"effectCenter": 3,
+		"effectPos": [1, 2, 5, 8, 9],
+		"gridEffect": {
+			"pow": 12,
+			"armor": 18
+		}
+	},
+	"skill": {
+		"realid": 900411,
+		"cd": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
+		"intercd": 8,
+		"code": "RPK-16"
+	}
+}, {
+	"id": 293,
+	"name": "AK15",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "ar",
+	"illust": "",
+	"voice": "",
+	"buildTime": 15300,
+	"drop": "1,2",
+	"stats": {
+		"hp": 100,
+		"pow": 118,
+		"hit": 112,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 110,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 136,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [7, 8, 9],
+		"gridEffect": {
+			"pow": 25,
+			"hit": 65
+		}
+	},
+	"skill": {
+		"realid": 900418,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 6,
+		"code": "AK15"
+	}
+}, {
+	"id": 294,
+	"name": "Webley",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "hg",
+	"illust": "",
+	"voice": "",
+	"buildTime": 4140,
+	"drop": "229",
+	"stats": {
+		"hp": 130,
+		"pow": 98,
+		"hit": 120,
+		"dodge": 100,
+		"speed": 100,
+		"rate": 102,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 132,
+	"canequip": {
+		"1": [4, 13],
+		"2": [6],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 4,
+		"effectPos": [1, 2, 3, 5, 7],
+		"gridEffect": {
+			"pow": 8,
+			"rate": 10
+		}
+	},
+	"skill": {
+		"realid": 113801,
+		"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
+		"intercd": 6,
+		"code": "webley"
+	}
+}, {
+	"id": 295,
+	"name": "06TypeSMG",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "smg",
+	"illust": "",
+	"voice": "",
+	"buildTime": 8400,
+	"drop": "228",
+	"stats": {
+		"hp": 108,
+		"pow": 100,
+		"hit": 110,
+		"dodge": 125,
+		"speed": 100,
+		"rate": 112,
+		"armorPiercing": 15,
+		"crit": 5
+	},
+	"grow": 105,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 6,
+		"effectPos": [1, 2, 3],
+		"gridEffect": {
+			"pow": 20,
+			"hit": 25
+		}
+	},
+	"skill": {
+		"realid": 113901,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 5,
+		"code": "06S"
+	}
+}, {
+	"id": 296,
+	"name": "SL8",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 5,
+	"type": "rf",
+	"illust": "",
+	"voice": "",
+	"buildTime": 17280,
+	"drop": "230",
+	"stats": {
+		"hp": 96,
+		"pow": 106,
+		"hit": 112,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 120,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 128,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 1,
+		"effectPos": [2, 3, 5, 8],
+		"gridEffect": {
+			"pow": 10,
+			"dodge": 18
+		}
+	},
+	"skill": {
+		"realid": 900401,
+		"cd": [10, 9.8, 9.6, 9.3, 9.1, 8.9, 8.7, 8.4, 8.2, 8],
+		"intercd": 5,
+		"code": "SL8S"
+	}
+}, {
+	"id": 297,
+	"name": "M82",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 4,
+	"type": "ar",
+	"illust": "",
+	"voice": "",
+	"buildTime": 12900,
+	"drop": "228",
+	"stats": {
+		"hp": 102,
+		"pow": 110,
+		"hit": 105,
+		"dodge": 108,
+		"speed": 100,
+		"rate": 110,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 122,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [8, 9],
+		"gridEffect": {
+			"hit": 50,
+			"dodge": 12
+		}
+	},
+	"skill": {
+		"realid": 101703,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 6,
+		"code": "powBuffSelf"
+	}
+}, {
+	"id": 298,
+	"name": "VEPR",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "ar",
+	"illust": "",
+	"voice": "",
+	"buildTime": 13200,
+	"drop": "2002",
+	"stats": {
+		"hp": 100,
+		"pow": 105,
+		"hit": 115,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 105,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 122,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "ar",
+		"effectCenter": 5,
+		"effectPos": [4, 6],
+		"gridEffect": {
+			"pow": 16
+		}
+	},
+	"skill": {
+		"realid": 900518,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 6,
+		"code": "powBuff"
 	}
 }, {
 	"id": 1001,
@@ -12710,6 +13325,106 @@
 		"code": "powBuff"
 	}
 }, {
+	"id": 20007,
+	"name": "APSMod",
+	"krName": "스테츠킨 개조",
+	"enName": "Stechkin Mod",
+	"jpName": "スチェッキン Mod",
+	"cnName": "斯捷奇金 Mod",
+	"rank": 5,
+	"type": "hg",
+	"illust": "春_日",
+	"voice": "Kitamura Eri",
+	"buildTime": 3300,
+	"drop": "35",
+	"stats": {
+		"hp": 125,
+		"pow": 115,
+		"hit": 105,
+		"dodge": 95,
+		"speed": 100,
+		"rate": 125,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 110,
+	"canequip": {
+		"1": [4, 13, 16],
+		"2": [6],
+		"3": [9, 10, 12]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 5,
+		"effectPos": [4, 6, 7, 9],
+		"gridEffect": {
+			"pow": 8,
+			"rate": 12
+		}
+	},
+	"skill": {
+		"realid": 900270,
+		"cd": [15, 14.7, 14.3, 14, 13.7, 13.3, 13, 12.7, 12.3, 12],
+		"intercd": 6,
+		"code": "rateBuff"
+	},
+	"skill2": {
+		"realid": 900274,
+		"cd": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+		"intercd": 0,
+		"code": "APS"
+	}
+}, {
+	"id": 20012,
+	"name": "C96Mod",
+	"krName": "C96 개조",
+	"enName": "C96 Mod",
+	"jpName": "C96 Mod",
+	"cnName": "C96 Mod",
+	"rank": 4,
+	"type": "hg",
+	"illust": "林檎愛す",
+	"voice": "Itatani Ayaka",
+	"buildTime": 1800,
+	"drop": "35",
+	"stats": {
+		"hp": 125,
+		"pow": 118,
+		"hit": 108,
+		"dodge": 100,
+		"speed": 100,
+		"rate": 120,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 108,
+	"canequip": {
+		"1": [4, 13, 16],
+		"2": [6],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "all",
+		"effectCenter": 5,
+		"effectPos": [1, 3, 8],
+		"gridEffect": {
+			"hit": 40,
+			"dodge": 20
+		}
+	},
+	"skill": {
+		"realid": 900268,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 3,
+		"code": "Flare"
+	},
+	"skill2": {
+		"realid": 900269,
+		"cd": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+		"intercd": 0,
+		"code": "c96"
+	}
+}, {
 	"id": 20026,
 	"name": "MP5Mod",
 	"krName": "MP5 개조",
@@ -12807,6 +13522,55 @@
 		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
 		"intercd": 6,
 		"code": "StenMK2"
+	}
+}, {
+	"id": 20031,
+	"name": "MAB38Mod",
+	"krName": "베레타 38형 개조",
+	"enName": "M38 Mod",
+	"jpName": "M38 Mod",
+	"cnName": "伯莱塔38型 Mod",
+	"rank": 4,
+	"type": "smg",
+	"illust": "ALLENES",
+	"voice": "Takahashi Haruka",
+	"buildTime": 5400,
+	"drop": "35",
+	"stats": {
+		"hp": 120,
+		"pow": 125,
+		"hit": 95,
+		"dodge": 94,
+		"speed": 100,
+		"rate": 100,
+		"armorPiercing": 15,
+		"crit": 5
+	},
+	"grow": 110,
+	"canequip": {
+		"1": [9, 10],
+		"2": [6],
+		"3": [1, 2, 3, 4, 13]
+	},
+	"effect": {
+		"effectCenter": 5,
+		"effectPos": [1, 3],
+		"gridEffect": {
+			"pow": 8,
+			"rate": 10
+		}
+	},
+	"skill": {
+		"realid": 900266,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 5,
+		"code": "Flashbomb"
+	},
+	"skill2": {
+		"realid": 900267,
+		"cd": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+		"intercd": 0,
+		"code": "Napalm"
 	}
 }, {
 	"id": 20032,
@@ -13053,6 +13817,55 @@
 		"cd": "",
 		"intercd": "",
 		"code": "powBuffSelf"
+	}
+}, {
+	"id": 20053,
+	"name": "NTW20Mod",
+	"krName": "NTW-20 개조",
+	"enName": "NTW-20 Mod",
+	"jpName": "NTW-20 Mod",
+	"cnName": "NTW-20 Mod",
+	"rank": 6,
+	"type": "rf",
+	"illust": "RAN",
+	"voice": "Kayano Ai",
+	"buildTime": 17100,
+	"drop": "35",
+	"stats": {
+		"hp": 105,
+		"pow": 145,
+		"hit": 110,
+		"dodge": 80,
+		"speed": 100,
+		"rate": 90,
+		"armorPiercing": 15,
+		"crit": 40
+	},
+	"grow": 130,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3, 13],
+		"3": [9, 15]
+	},
+	"effect": {
+		"effectType": "hg",
+		"effectCenter": 5,
+		"effectPos": [8, 9],
+		"gridEffect": {
+			"cooldown": 20
+		}
+	},
+	"skill": {
+		"realid": 803101,
+		"cd": [13, 12.6, 12.1, 11.7, 11.2, 10.8, 10.3, 9.9, 9.4, 9],
+		"intercd": 7,
+		"code": "AimAttackCurrentTarge"
+	},
+	"skill2": {
+		"realid": 803105,
+		"cd": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+		"intercd": 0,
+		"code": "ntw20"
 	}
 }, {
 	"id": 20055,

@@ -198,9 +198,9 @@ furniture-10031506,Raging Rider
 furniture-20031506,PzB39's Poster
 furniture-10031507,"Sommelier"
 furniture-20031507,Gr G36's Poster
-furniture-10031601,How RFP Stole Xmas
+furniture-10031601,How RFB Stole Xmas
 furniture-20031601,Am RFB's Poster
-furniture-10031602,Schönstes Geschenk
+furniture-10031602,Schoenstes Geschenk
 furniture-20031602,Gr G11's Poster
 furniture-10031603,Gunshot in the Snow
 furniture-20031603,Zas M21's Poster
@@ -493,7 +493,7 @@ furniture-20033506,Serdyukov's Poster
 furniture-10033507,Z-62 - Swimming Lesson
 furniture-20033507,Z-62's Poster
 furniture-10033601,
-furniture-20033601,
+furniture-20033601,ADS's Poster
 furniture-10033602,
 furniture-20033602,S.A.T.8's Poster
 furniture-10033603,
@@ -501,25 +501,51 @@ furniture-20033603,Gr G36's Poster
 furniture-10033604,
 furniture-20033604,FF M249SAW's Poster
 furniture-10033605,
-furniture-20033605,
+furniture-20033605,OTs-12's Poster
 furniture-10033701,
-furniture-20033701,
+furniture-20033701,PA-15's Poster
 furniture-10033702,
 furniture-20033702,Type95's Poster
 furniture-10033703,
 furniture-20033703,Type97's Poster
 furniture-10033704,
-furniture-20033704,
+furniture-20033704,SR-3MP's Poster
 furniture-10033705,
 furniture-20033705,Gr Mk23's Poster
 furniture-10033706,
 furniture-20033706,M590's Poster
 furniture-10033707,
-furniture-20033707,
+furniture-20033707,M500's Poster
 furniture-10033708,
 furniture-20033708,TMP's Poster
+furniture-10033801,
+furniture-20033801,QBU-88's Poster
+furniture-10033802,
+furniture-20033802,Gr G36c's Poster
+furniture-10033803,
+furniture-20033803,M870's Poster
 furniture-10033805,
 furniture-20033805,KSVK's Poster
+furniture-10033806,
+furniture-20033806,MG3's Poster
+furniture-10033807,
+furniture-20033807,Type97S's Poster
+furniture-10033808,
+furniture-20033808,Gr PSG-1's Poster
+furniture-10033809,
+furniture-20033809,Model L's Poster
+furniture-10033901,
+furniture-20033901,
+furniture-10033902,
+furniture-20033902,
+furniture-10033903,
+furniture-20033903,
+furniture-10033904,
+furniture-20033904,
+furniture-10033905,
+furniture-20033905,
+furniture-10034005,The Xmas Princess and the Stony Pett
+furniture-20034005,Honey Badger's Poster
 furniture-10003103,Sleeping Beasties
 furniture-20003103,A soft setup designed to be slept on. You feel as if you'll level up just by sleeping on it... Not! Quit dreaming! Experience can only be gained through hard work!
 furniture-10003108,Goodnight Violin Rack
@@ -2015,7 +2041,7 @@ furniture-20004401,Careful! Overly soft T-Dolls may melt on top of it!
 furniture-10004402,Christmas Cottage - "Winter Banquet" Carpet
 furniture-20004402,Naive T-Dolls will like its design//c serious T-Dolls will like its craftsmanship//c and RFB will like the game screen presented through a pixel grid.
 furniture-10004403,Christmas Cottage - Winter Cellar
-furniture-20004403,Never let SPAS12 overhear that we still have enough food. Don't you know that a shark ate everything in the warehouse last year? Yes//c legends should only be half-believed//c as she had only ate half of the food in the warehouse...
+furniture-20004403,Never let SPAS-12 overhear that we still have enough food. Don't you know that a shark ate everything in the warehouse last year? Yes//c legends should only be half-believed//c as she had only eaten half of the food in the warehouse...
 furniture-10004404,Christmas Cottage - Tribal-Style Fireplace
 furniture-20004404,In front of the fireplace is a long story and attentive children. It would be much easier on Mother Earth if human beings only passed down culture verbally.
 furniture-10004405,Christmas Cottage - "Winter Training" Sandbox
@@ -2154,8 +2180,8 @@ furniture-10004814,Hometown Reminiscence - Campstool
 furniture-20004814,An important tool in day-to-day life. It is used during gossiping//c visiting friends and family//c sitting in vehicles//c and even when fighting with others. -- Type97S//nPlease//c don't give me any more trouble! -- Type81R
 furniture-10004815,Hometown Reminiscence - Blessings at the Gate
 furniture-20004815,New year//c new scene! -- JS05//nYou're the only new one here. Is it really necessary to celebrate? -- NZ75//nWe should celebrate the fact that everyone is here! -- JS05
-furniture-10002007,Poster - Singularity 2018
-furniture-20002007,2018 Winter Event - Special poster for Singularity
+furniture-10002007,Poster - Singularity 2019
+furniture-20002007,2019 Winter Event - Special poster for Singularity
 furniture-10004901,Echelon Collection - Tactical Floor
 furniture-20004901,It seemingly gives off a hard-boiled commander vibe. Of course//c most of the differences between a hard-boiled and a regular commander can be summed up as only "seemingly".
 furniture-10004902,Echelon Collection - Tactical Doll AK-12
@@ -3214,3 +3240,9 @@ furniture-10002050,Tender Encounter
 furniture-20002050,Nobody knows who put this TV here or when it showed up. Perhaps it may just be an illusion or a sweet dream//c but you're convinced that you'll see the beautiful face of a girl crawling out of the TV.
 furniture-10002051,Undead Musician Dog
 furniture-20002051,Some stories will always be shared across generations. Whether it's a white-haired bard or a hooded//c vagrant musician telling the stories at night//c please listen quietly to their performance//c even if they're a skeleton pug.
+furniture-10002052,Xmas Reindinergate
+furniture-20002052,Look//c it's Santa Claus and his reindeer! That's weird. Why is an old grandpa and a deer chasing after the sleigh?
+furniture-10002053,Tree of Xmas Dreams
+furniture-20002053,May every child find a gift they want in the tree.
+furniture-10002054,Santa Shepherd Dog
+furniture-20002054,Woof//c woof! Open up! Delivery for you!
