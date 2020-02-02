@@ -24,6 +24,9 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
 			font-size: 20px;
 			font-weight: bold;
 		}
+		.row .item a:visited {
+			color: brown;
+		}
 
 		#pv {
 			position: fixed;
