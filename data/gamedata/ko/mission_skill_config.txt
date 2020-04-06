@@ -805,6 +805,9 @@ mission_skill_config-31000066,
 mission_skill_config-11000067,【标记】推箱范围标记
 mission_skill_config-21000067,
 mission_skill_config-31000067,
+mission_skill_config-11000068,【标记】清除禁止标记
+mission_skill_config-21000068,
+mission_skill_config-31000068,
 mission_skill_config-11000100,透明设施1标记(标记=生效)
 mission_skill_config-21000100,透明设施1标记(标记=生效)
 mission_skill_config-31000100,
@@ -1571,10 +1574,10 @@ mission_skill_config-11021005,关防御门X伤害(对我方/人质)
 mission_skill_config-21021005,关防御门X伤害(对我方/人质)
 mission_skill_config-31021005,
 mission_skill_config-11021006,문 열기(차단문 X)
-mission_skill_config-21021006,차단문 X을 연다.
+mission_skill_config-21021006,차단문 X를 연다.
 mission_skill_config-31021006,
 mission_skill_config-11021007,문 닫기(차단문 X)
-mission_skill_config-21021007,차단문 X을 닫는다
+mission_skill_config-21021007,차단문 X를 닫는다
 mission_skill_config-31021007,
 mission_skill_config-11021100,防御门XI标记
 mission_skill_config-21021100,防御门XI标记
@@ -2389,10 +2392,10 @@ mission_skill_config-31140401,
 mission_skill_config-11140402,【标记】消除EMP储存_消除1
 mission_skill_config-21140402,
 mission_skill_config-31140402,
-mission_skill_config-11150100,【标记】大型水阀1
+mission_skill_config-11150100,【标记】大형水阀1
 mission_skill_config-21150100,
 mission_skill_config-31150100,
-mission_skill_config-11150101,【标记】大型水阀1生效
+mission_skill_config-11150101,【标记】大형水阀1生效
 mission_skill_config-21150101,
 mission_skill_config-31150101,
 mission_skill_config-11150102,폭파예약(대형 수도관 Ⅰ)
@@ -2413,10 +2416,10 @@ mission_skill_config-31150106,
 mission_skill_config-11150107,【标记】发大水啦！
 mission_skill_config-21150107,
 mission_skill_config-31150107,
-mission_skill_config-11150200,【标记】大型水阀2
+mission_skill_config-11150200,【标记】大형水阀2
 mission_skill_config-21150200,
 mission_skill_config-31150200,
-mission_skill_config-11150201,【标记】大型水阀2生效
+mission_skill_config-11150201,【标记】大형水阀2生效
 mission_skill_config-21150201,
 mission_skill_config-31150201,
 mission_skill_config-11150202,폭파예약(대형 수도관 Ⅱ)
@@ -2428,10 +2431,10 @@ mission_skill_config-31150203,
 mission_skill_config-11150204,【标记】预设炸弹
 mission_skill_config-21150204,
 mission_skill_config-31150204,
-mission_skill_config-11150300,【标记】大型水阀3
+mission_skill_config-11150300,【标记】大형水阀3
 mission_skill_config-21150300,
 mission_skill_config-31150300,
-mission_skill_config-11150301,【标记】大型水阀3生效
+mission_skill_config-11150301,【标记】大형水阀3生效
 mission_skill_config-21150301,
 mission_skill_config-31150301,
 mission_skill_config-11150302,폭파예약(대형 수도관 Ⅲ)
@@ -2443,10 +2446,10 @@ mission_skill_config-31150303,
 mission_skill_config-11150304,【标记】预设炸弹
 mission_skill_config-21150304,
 mission_skill_config-31150304,
-mission_skill_config-11150400,【标记】大型水阀4
+mission_skill_config-11150400,【标记】大형水阀4
 mission_skill_config-21150400,
 mission_skill_config-31150400,
-mission_skill_config-11150401,【标记】大型水阀4生效
+mission_skill_config-11150401,【标记】大형水阀4生效
 mission_skill_config-21150401,
 mission_skill_config-31150401,
 mission_skill_config-11150402,폭파예약(대형 수도관 Ⅳ)
@@ -2509,8 +2512,9 @@ mission_skill_config-32000016,
 mission_skill_config-12000017,【标记】EMP手雷描述
 mission_skill_config-22000017,던지기 전에 "Light out!"이라고 외치는 게 어떤가요?//n적을 1턴간 이동 못하게 하고//c 작전 능력을 크게 낮춥니다.
 mission_skill_config-32000017,
-mission_skill_config-12000018,【标记】大型水阀描述
-mission_skill_config-22000018,大型水阀描述，待设定
+mission_skill_config-12000018,【标记】大형水阀描述
+mission_skill_config-22000018,물은 답을 알고 있다. 다른 건 몰라도 이럴 땐 항상 효과적이죠.//n폭파 시 주변 지역을 점차 침수 시켜 불을 끄고 유닛 이동속도가 감소합니다.
+mission_skill_config-22000018,大형水阀描述，待设定
 mission_skill_config-32000018,
 mission_skill_config-12110100,【标记】起爆装置通用伤害【对建筑】
 mission_skill_config-22110100,
@@ -3988,129 +3992,588 @@ mission_skill_config-39361721,
 mission_skill_config-19361722,【标记】防御门X4初始化
 mission_skill_config-29361722,
 mission_skill_config-39361722,
-mission_skill_config-19361731,문 열기(차단문 A1)
-mission_skill_config-29361731,
+mission_skill_config-19361731,문 열기 (차단문 A1)
+mission_skill_config-29361731,차단문 A1을 연다.
 mission_skill_config-39361731,
-mission_skill_config-19361732,문 열기(차단문 A2)
-mission_skill_config-29361732,
+mission_skill_config-19361732,문 열기 (차단문 A2)
+mission_skill_config-29361732,차단문 A2를 연다.
 mission_skill_config-39361732,
-mission_skill_config-19361733,문 열기(차단문 A3)
-mission_skill_config-29361733,
+mission_skill_config-19361733,문 열기 (차단문 A3)
+mission_skill_config-29361733,차단문 A3을 연다.
 mission_skill_config-39361733,
-mission_skill_config-19361734,문 열기(차단문 AX)
-mission_skill_config-29361734,
+mission_skill_config-19361734,문 열기 (차단문 AX)
+mission_skill_config-29361734,차단문 AX를 연다.
 mission_skill_config-39361734,
-mission_skill_config-19361735,문 열기(차단문 B1)
-mission_skill_config-29361735,
+mission_skill_config-19361735,문 열기 (차단문 B1)
+mission_skill_config-29361735,차단문 B1을 연다.
 mission_skill_config-39361735,
-mission_skill_config-19361736,문 열기(차단문 B2)
-mission_skill_config-29361736,
+mission_skill_config-19361736,문 열기 (차단문 B2)
+mission_skill_config-29361736,차단문 B2를 연다.
 mission_skill_config-39361736,
-mission_skill_config-19361737,문 열기(차단문 B3)
-mission_skill_config-29361737,
+mission_skill_config-19361737,문 열기 (차단문 B3)
+mission_skill_config-29361737,차단문 B3을 연다.
 mission_skill_config-39361737,
-mission_skill_config-19361738,문 열기(차단문 BX)
-mission_skill_config-29361738,
+mission_skill_config-19361738,문 열기 (차단문 BX)
+mission_skill_config-29361738,차단문 BX를 연다.
 mission_skill_config-39361738,
-mission_skill_config-19361741,문 닫기(차단문 A1)
-mission_skill_config-29361741,
+mission_skill_config-19361741,문 닫기 (차단문 A1)
+mission_skill_config-29361741,차단문 A1을 닫는다.
 mission_skill_config-39361741,
-mission_skill_config-19361742,문 닫기(차단문 A2)
-mission_skill_config-29361742,
+mission_skill_config-19361742,문 닫기 (차단문 A2)
+mission_skill_config-29361742,차단문 A2를 닫는다.
 mission_skill_config-39361742,
-mission_skill_config-19361743,문 닫기(차단문 A3)
-mission_skill_config-29361743,
+mission_skill_config-19361743,문 닫기 (차단문 A3)
+mission_skill_config-29361743,차단문 A3을 닫는다.
 mission_skill_config-39361743,
-mission_skill_config-19361744,문 닫기(차단문 AX)
-mission_skill_config-29361744,
+mission_skill_config-19361744,문 닫기 (차단문 AX)
+mission_skill_config-29361744,차단문 AX를 닫는다.
 mission_skill_config-39361744,
-mission_skill_config-19361745,문 닫기(차단문 B1)
-mission_skill_config-29361745,
+mission_skill_config-19361745,문 닫기 (차단문 B1)
+mission_skill_config-29361745,차단문 B1을 닫는다.
 mission_skill_config-39361745,
-mission_skill_config-19361746,문 닫기(차단문 B2)
-mission_skill_config-29361746,
+mission_skill_config-19361746,문 닫기 (차단문 B2)
+mission_skill_config-29361746,차단문 B2를 닫는다.
 mission_skill_config-39361746,
-mission_skill_config-19361747,문 닫기(차단문 B3)
-mission_skill_config-29361747,
+mission_skill_config-19361747,문 닫기 (차단문 B3)
+mission_skill_config-29361747,차단문 B3을 닫는다.
 mission_skill_config-39361747,
-mission_skill_config-19361748,문 닫기(차단문 BX)
-mission_skill_config-29361748,
+mission_skill_config-19361748,문 닫기 (차단문 BX)
+mission_skill_config-29361748,차단문 BX를 닫는다.
 mission_skill_config-39361748,
-mission_skill_config-19361751,1111>1010 开2开4
-mission_skill_config-29361751,
+mission_skill_config-19361751,열려라 참깨~
+mission_skill_config-29361751,차단문 X2//cX4를 연다.
 mission_skill_config-39361751,
-mission_skill_config-19361752,1010>1100 关2开3
-mission_skill_config-29361752,
+mission_skill_config-19361752,열려라 참깨~
+mission_skill_config-29361752,차단문 X2를 닫고//c 차단문 X3을 연다.
 mission_skill_config-39361752,
-mission_skill_config-19361753,0101>1001 关1开2
-mission_skill_config-29361753,
+mission_skill_config-19361753,열려라 참깨~
+mission_skill_config-29361753,차단문 X1을 닫고//c 차단문 X2를 연다.
 mission_skill_config-39361753,
-mission_skill_config-19361754,1100>1001 开2关4
-mission_skill_config-29361754,
+mission_skill_config-19361754,열려라 참깨~
+mission_skill_config-29361754,차단문 X2를 열고//c 차단문 X4를 닫는다.
 mission_skill_config-39361754,
-mission_skill_config-19361755,0011>1010 关1开4
-mission_skill_config-29361755,
+mission_skill_config-19361755,열려라 참깨~
+mission_skill_config-29361755,차단문 X1을 닫고//c 차단문 X4를 연다.
 mission_skill_config-39361755,
-mission_skill_config-19361756,1001>0001 开1
-mission_skill_config-29361756,
+mission_skill_config-19361756,열려라 참깨~
+mission_skill_config-29361756,차단문 X1을 연다.
 mission_skill_config-39361756,
-mission_skill_config-19361757,0110>1100 关1开3
-mission_skill_config-29361757,
+mission_skill_config-19361757,열려라 참깨~
+mission_skill_config-29361757,차단문 X1을 닫고//c 차단문 X3을 연다.
 mission_skill_config-39361757,
-mission_skill_config-19361758,1000>0000 开1
-mission_skill_config-29361758,
+mission_skill_config-19361758,열려라 참깨~
+mission_skill_config-29361758,차단문 X1을 연다.
 mission_skill_config-39361758,
-mission_skill_config-19361759,0001>1111 关1关2关3
-mission_skill_config-29361759,
+mission_skill_config-19361759,열려라 참깨~
+mission_skill_config-29361759,차단문 X1//cX2//cX3을 닫는다.
 mission_skill_config-39361759,
-mission_skill_config-19361761,1111>0101 开1开3
-mission_skill_config-29361761,
+mission_skill_config-19361761,열려라 참깨~
+mission_skill_config-29361761,차단문 X1//cX3을 연다.
 mission_skill_config-39361761,
-mission_skill_config-19361762,1010>0110 开1关2
-mission_skill_config-29361762,
+mission_skill_config-19361762,열려라 참깨~
+mission_skill_config-29361762,차단문 X1을 열고//c 차단문 X2를 닫는다.
 mission_skill_config-39361762,
-mission_skill_config-19361763,0101>0011 开2关3
-mission_skill_config-29361763,
+mission_skill_config-19361763,열려라 참깨~
+mission_skill_config-29361763,차단문 X2를 열고//c 차단문 X3을 닫는다.
 mission_skill_config-39361763,
-mission_skill_config-19361764,1100>0101 开1关4
-mission_skill_config-29361764,
+mission_skill_config-19361764,열려라 참깨~
+mission_skill_config-29361764,차단문 X1을 열고//c 차단문 X4를 닫는다.
 mission_skill_config-39361764,
-mission_skill_config-19361765,0011>0110 关2开4
-mission_skill_config-29361765,
+mission_skill_config-19361765,열려라 참깨~
+mission_skill_config-29361765,차단문 X2를 닫고//c 차단문 X4를 연다.
 mission_skill_config-39361765,
-mission_skill_config-19361766,1001>0011 开1关3
-mission_skill_config-29361766,
+mission_skill_config-19361766,열려라 참깨~
+mission_skill_config-29361766,차단문 X1을 열고//c 차단문 X3을 닫는다.
 mission_skill_config-39361766,
-mission_skill_config-19361767,0110>1000 关1开2开3
-mission_skill_config-29361767,
+mission_skill_config-19361767,열려라 참깨~
+mission_skill_config-29361767,차단문 X1을 닫고//c 차단문 X2//cX3을 연다.
 mission_skill_config-39361767,
-mission_skill_config-19361768,1000>1111 关2关3关4
-mission_skill_config-29361768,
+mission_skill_config-19361768,열려라 참깨~
+mission_skill_config-29361768,차단문 X2//cX3//cX4를 닫는다.
 mission_skill_config-39361768,
-mission_skill_config-19361769,0001>0000 开4
-mission_skill_config-29361769,
+mission_skill_config-19361769,열려라 참깨~
+mission_skill_config-29361769,차단문 X4를 연다.
 mission_skill_config-39361769,
-mission_skill_config-19361771,【标记】通用开启防御门X1
+mission_skill_config-19361771,【标记】通用열기: 차단문 X1
 mission_skill_config-29361771,
 mission_skill_config-39361771,
-mission_skill_config-19361772,【标记】通用开启防御门X2
+mission_skill_config-19361772,【标记】通用열기: 차단문 X2
 mission_skill_config-29361772,
 mission_skill_config-39361772,
-mission_skill_config-19361773,【标记】通用开启防御门X3
+mission_skill_config-19361773,【标记】通用열기: 차단문 X3
 mission_skill_config-29361773,
 mission_skill_config-39361773,
-mission_skill_config-19361774,【标记】通用开启防御门X4
+mission_skill_config-19361774,【标记】通用열기: 차단문 X4
 mission_skill_config-29361774,
 mission_skill_config-39361774,
-mission_skill_config-19361775,【标记】通用关闭防御门X1
+mission_skill_config-19361775,【标记】通用닫기: 차단문 X1
 mission_skill_config-29361775,
 mission_skill_config-39361775,
-mission_skill_config-19361776,【标记】通用关闭防御门X2
+mission_skill_config-19361776,【标记】通用닫기: 차단문 X2
 mission_skill_config-29361776,
 mission_skill_config-39361776,
-mission_skill_config-19361777,【标记】通用关闭防御门X3
+mission_skill_config-19361777,【标记】通用닫기: 차단문 X3
 mission_skill_config-29361777,
 mission_skill_config-39361777,
-mission_skill_config-19361778,【标记】通用关闭防御门X4
+mission_skill_config-19361778,【标记】通用닫기: 차단문 X4
 mission_skill_config-29361778,
 mission_skill_config-39361778,
+mission_skill_config-19361781,【标记】通用열기: 차단문 X1开关标记
+mission_skill_config-29361781,
+mission_skill_config-39361781,
+mission_skill_config-19361782,【标记】通用열기: 차단문 X2开关标记
+mission_skill_config-29361782,
+mission_skill_config-39361782,
+mission_skill_config-19361783,【标记】通用열기: 차단문 X3开关标记
+mission_skill_config-29361783,
+mission_skill_config-39361783,
+mission_skill_config-19361784,【标记】通用열기: 차단문 X4开关标记
+mission_skill_config-29361784,
+mission_skill_config-39361784,
+mission_skill_config-19361785,【标记】通用닫기: 차단문 X1开关标记
+mission_skill_config-29361785,
+mission_skill_config-39361785,
+mission_skill_config-19361786,【标记】通用닫기: 차단문 X2开关标记
+mission_skill_config-29361786,
+mission_skill_config-39361786,
+mission_skill_config-19361787,【标记】通用닫기: 차단문 X3开关标记
+mission_skill_config-29361787,
+mission_skill_config-39361787,
+mission_skill_config-19361788,【标记】通用닫기: 차단문 X4开关标记
+mission_skill_config-29361788,
+mission_skill_config-39361788,
+mission_skill_config-19361791,【标记】문 열기 (차단문 A1)开关标记
+mission_skill_config-29361791,
+mission_skill_config-39361791,
+mission_skill_config-19361792,【标记】문 열기 (차단문 A2)开关标记
+mission_skill_config-29361792,
+mission_skill_config-39361792,
+mission_skill_config-19361793,【标记】문 열기 (차단문 A3)开关标记
+mission_skill_config-29361793,
+mission_skill_config-39361793,
+mission_skill_config-19361794,【标记】문 열기 (차단문 AX)开关标记
+mission_skill_config-29361794,
+mission_skill_config-39361794,
+mission_skill_config-19361795,【标记】문 열기 (차단문 B1)开关标记
+mission_skill_config-29361795,
+mission_skill_config-39361795,
+mission_skill_config-19361796,【标记】문 열기 (차단문 B2)开关标记
+mission_skill_config-29361796,
+mission_skill_config-39361796,
+mission_skill_config-19361797,【标记】문 열기 (차단문 B3)开关标记
+mission_skill_config-29361797,
+mission_skill_config-39361797,
+mission_skill_config-19361798,【标记】문 열기 (차단문 BX)开关标记
+mission_skill_config-29361798,
+mission_skill_config-39361798,
+mission_skill_config-103617101,【标记】문 닫기 (차단문 A1)开关标记
+mission_skill_config-113617101,
+mission_skill_config-123617101,
+mission_skill_config-103617102,【标记】문 닫기 (차단문 A2)开关标记
+mission_skill_config-113617102,
+mission_skill_config-123617102,
+mission_skill_config-103617103,【标记】문 닫기 (차단문 A3)开关标记
+mission_skill_config-113617103,
+mission_skill_config-123617103,
+mission_skill_config-103617104,【标记】문 닫기 (차단문 AX)开关标记
+mission_skill_config-113617104,
+mission_skill_config-123617104,
+mission_skill_config-103617105,【标记】문 닫기 (차단문 B1)开关标记
+mission_skill_config-113617105,
+mission_skill_config-123617105,
+mission_skill_config-103617106,【标记】문 닫기 (차단문 B2)开关标记
+mission_skill_config-113617106,
+mission_skill_config-123617106,
+mission_skill_config-103617107,【标记】문 닫기 (차단문 B3)开关标记
+mission_skill_config-113617107,
+mission_skill_config-123617107,
+mission_skill_config-103617108,【标记】문 닫기 (차단문 BX)开关标记
+mission_skill_config-113617108,
+mission_skill_config-123617108,
+mission_skill_config-19361801,【标记】EMP手雷初始化
+mission_skill_config-29361801,
+mission_skill_config-39361801,
+mission_skill_config-19361802,【标记】EMP手雷定点锁定
+mission_skill_config-29361802,
+mission_skill_config-39361802,
+mission_skill_config-19361803,BOOOOOM
+mission_skill_config-29361803,
+mission_skill_config-39361803,
+mission_skill_config-19361804,【标记】清除EMP手雷标记
+mission_skill_config-29361804,
+mission_skill_config-39361804,
+mission_skill_config-19361805,EMP 폭탄 줍기
+mission_skill_config-29361805,이거 한 방이면 다들 꼼짝을 못해//c 잠시뿐이지만...
+mission_skill_config-39361805,
+mission_skill_config-19361806,【标记】禁飞区初始化
+mission_skill_config-29361806,
+mission_skill_config-39361806,
+mission_skill_config-19362001,【标记】弃置歌利亚初始化
+mission_skill_config-29362001,
+mission_skill_config-39362001,
+mission_skill_config-19362002,버려진 골리앗 줍기
+mission_skill_config-29362002,바닥에 지뢰처럼 설치할 수 있겠다.
+mission_skill_config-39362002,
+mission_skill_config-19362003,골리앗 설치
+mission_skill_config-29362003,이제 얼간이 아무나 와서 밟으면...
+mission_skill_config-39362003,
+mission_skill_config-19362004,【标记】万用触发器初始化
+mission_skill_config-29362004,
+mission_skill_config-39362004,
+mission_skill_config-19362011,【标记】BGM初始化
+mission_skill_config-29362011,
+mission_skill_config-39362011,
+mission_skill_config-19362012,【标记】BGM锁定初始化
+mission_skill_config-29362012,
+mission_skill_config-39362012,
+mission_skill_config-19362013,B!G!M!
+mission_skill_config-29362013,발사! 한 방 더 발사! 정면만 쏠 수 있는 게 아쉽지만.
+mission_skill_config-39362013,
+mission_skill_config-19362014,2 8 8 7
+mission_skill_config-29362014,터뜨리기 전에 잘 생각해//c 터지면 다시 쓸 수 없어.
+mission_skill_config-39362014,
+mission_skill_config-19362015,【标记】消耗弹药
+mission_skill_config-29362015,
+mission_skill_config-39362015,
+mission_skill_config-19362021,【标记】冲水点初始化
+mission_skill_config-29362021,
+mission_skill_config-39362021,
+mission_skill_config-19362031,BOOOOOM
+mission_skill_config-29362031,
+mission_skill_config-39362031,
+mission_skill_config-19362032,【标记】清除EMP手雷标记
+mission_skill_config-29362032,
+mission_skill_config-39362032,
+mission_skill_config-19362901,열기: 차단문 I형①
+mission_skill_config-29362901,차단문 I형①을 연다.
+mission_skill_config-39362901,
+mission_skill_config-19362902,닫기: 차단문 I형①
+mission_skill_config-29362902,차단문 I형①을 닫는다.
+mission_skill_config-39362902,
+mission_skill_config-19362903,열기: 차단문 I형②
+mission_skill_config-29362903,차단문 I형②을 연다.
+mission_skill_config-39362903,
+mission_skill_config-19362904,닫기: 차단문 I형②
+mission_skill_config-29362904,차단문 I형②을 닫는다.
+mission_skill_config-39362904,
+mission_skill_config-19362905,열기: 차단문 I형③
+mission_skill_config-29362905,차단문 I형③을 연다.
+mission_skill_config-39362905,
+mission_skill_config-19362906,닫기: 차단문 I형③
+mission_skill_config-29362906,차단문 I형③을 닫는다.
+mission_skill_config-39362906,
+mission_skill_config-19362907,열기: 차단문 I형④
+mission_skill_config-29362907,차단문 I형④을 연다.
+mission_skill_config-39362907,
+mission_skill_config-19362908,닫기: 차단문 I형④
+mission_skill_config-29362908,차단문 I형④을 닫는다.
+mission_skill_config-39362908,
+mission_skill_config-19362909,권한 개방
+mission_skill_config-29362909,제어콘솔 I형의 최고권한을 개방해//c 해당 제어콘솔 번호와 일치한 시설의 제어판을 연다.
+mission_skill_config-39362909,
+mission_skill_config-19362910,권한 개방
+mission_skill_config-29362910,제어콘솔 I형의 최고권한을 개방해//c 해당 제어콘솔 번호와 일치한 시설의 제어판을 연다.
+mission_skill_config-39362910,
+mission_skill_config-19362911,【标记】敌人用技能-冻结控制台1
+mission_skill_config-29362911,获取了权限后可以对关联的设施发送操作指令。
+mission_skill_config-39362911,
+mission_skill_config-19362912,【标记】敌人用技能-冻结控制台2
+mission_skill_config-29362912,获取了权限后可以对关联的设施发送操作指令。
+mission_skill_config-39362912,
+mission_skill_config-19362913,【标记】每回合1次控制
+mission_skill_config-29362913,
+mission_skill_config-39362913,
+mission_skill_config-19362914,【标记】每回合1次控制
+mission_skill_config-29362914,
+mission_skill_config-39362914,
+mission_skill_config-19362915,【标记】每回合1次控制
+mission_skill_config-29362915,
+mission_skill_config-39362915,
+mission_skill_config-19362916,【标记】每回合1次控制
+mission_skill_config-29362916,
+mission_skill_config-39362916,
+mission_skill_config-19362917,【标记】去掉堵路
+mission_skill_config-29362917,
+mission_skill_config-39362917,
+mission_skill_config-19362301,열기: 차단문 I
+mission_skill_config-29362301,차단문 I을 연다.
+mission_skill_config-39362301,
+mission_skill_config-19362302,권한 개방
+mission_skill_config-29362302,제어콘솔 I의 최고권한을 개방해//c 해당 제어콘솔 번호와 일치한 시설의 제어판을 연다.
+mission_skill_config-39362302,
+mission_skill_config-19362303,권한 개방
+mission_skill_config-29362303,제어콘솔 I의 최고권한을 개방해//c 해당 제어콘솔 번호와 일치한 시설의 제어판을 연다.
+mission_skill_config-39362303,
+mission_skill_config-19362304,권한 개방
+mission_skill_config-29362304,제어콘솔 I의 최고권한을 개방해//c 해당 제어콘솔 번호와 일치한 시설의 제어판을 연다.
+mission_skill_config-39362304,
+mission_skill_config-19362305,권한 개방
+mission_skill_config-29362305,제어콘솔 I의 최고권한을 개방해//c 해당 제어콘솔 번호와 일치한 시설의 제어판을 연다.
+mission_skill_config-39362305,
+mission_skill_config-19362701,열기: 차단문 I
+mission_skill_config-29362701,차단문 I을 연다.
+mission_skill_config-39362701,
+mission_skill_config-19362702,닫기: 차단문 I
+mission_skill_config-29362702,차단문 I을 닫는다.
+mission_skill_config-39362702,
+mission_skill_config-19362703,권한 개방
+mission_skill_config-29362703,제어콘솔 I의 최고권한을 개방해//c 해당 제어콘솔 번호와 일치한 시설의 제어판을 연다.
+mission_skill_config-39362703,
+mission_skill_config-19362704,권한 개방
+mission_skill_config-29362704,제어콘솔 II의 최고권한을 개방해//c 해당 제어콘솔 번호와 일치한 시설의 제어판을 연다.
+mission_skill_config-39362704,
+mission_skill_config-19362705,열기: 차단문 II
+mission_skill_config-29362705,차단문 II을 연다.
+mission_skill_config-39362705,
+mission_skill_config-19362706,닫기: 차단문 II
+mission_skill_config-29362706,차단문 I을 닫는다.
+mission_skill_config-39362706,
+mission_skill_config-19361211,【标记】岸防炮冷却
+mission_skill_config-29361211,
+mission_skill_config-39361211,
+mission_skill_config-19361212,【标记】岸防炮冷却
+mission_skill_config-29361212,
+mission_skill_config-39361212,
+mission_skill_config-19361213,FIRE！！！
+mission_skill_config-29361213,
+mission_skill_config-39361213,
+mission_skill_config-19361214,FIRE！！！
+mission_skill_config-29361214,
+mission_skill_config-39361214,
+mission_skill_config-19361215,FIRE！！！
+mission_skill_config-29361215,
+mission_skill_config-39361215,
+mission_skill_config-19361216,FIRE！！！
+mission_skill_config-29361216,
+mission_skill_config-39361216,
+mission_skill_config-19361217,FIRE！！！
+mission_skill_config-29361217,
+mission_skill_config-39361217,
+mission_skill_config-19361218,FIRE！！！
+mission_skill_config-29361218,
+mission_skill_config-39361218,
+mission_skill_config-19361219,FIRE！！！
+mission_skill_config-29361219,
+mission_skill_config-39361219,
+mission_skill_config-19361220,FIRE！！！
+mission_skill_config-29361220,
+mission_skill_config-39361220,
+mission_skill_config-19361221,FIRE！！！
+mission_skill_config-29361221,
+mission_skill_config-39361221,
+mission_skill_config-19361222,FIRE！！！
+mission_skill_config-29361222,
+mission_skill_config-39361222,
+mission_skill_config-19361223,FIRE！！！
+mission_skill_config-29361223,
+mission_skill_config-39361223,
+mission_skill_config-19361224,FIRE！！！
+mission_skill_config-29361224,
+mission_skill_config-39361224,
+mission_skill_config-19361225,FIRE！！！
+mission_skill_config-29361225,
+mission_skill_config-39361225,
+mission_skill_config-19361226,FIRE！！！
+mission_skill_config-29361226,
+mission_skill_config-39361226,
+mission_skill_config-19361227,FIRE！！！
+mission_skill_config-29361227,
+mission_skill_config-39361227,
+mission_skill_config-19361228,FIRE！！！
+mission_skill_config-29361228,
+mission_skill_config-39361228,
+mission_skill_config-19361229,FIRE！！！
+mission_skill_config-29361229,
+mission_skill_config-39361229,
+mission_skill_config-19361230,FIRE！！！
+mission_skill_config-29361230,
+mission_skill_config-39361230,
+mission_skill_config-19361231,FIRE！！！
+mission_skill_config-29361231,
+mission_skill_config-39361231,
+mission_skill_config-19361232,FIRE！！！
+mission_skill_config-29361232,
+mission_skill_config-39361232,
+mission_skill_config-19361233,FIRE！！！
+mission_skill_config-29361233,
+mission_skill_config-39361233,
+mission_skill_config-19361234,FIRE！！！
+mission_skill_config-29361234,
+mission_skill_config-39361234,
+mission_skill_config-19361235,FIRE！！！
+mission_skill_config-29361235,
+mission_skill_config-39361235,
+mission_skill_config-19361236,FIRE！！！
+mission_skill_config-29361236,
+mission_skill_config-39361236,
+mission_skill_config-19370201,【标记】控制台初始化
+mission_skill_config-29370201,
+mission_skill_config-39370201,
+mission_skill_config-19370202,【标记】防御门初始化
+mission_skill_config-29370202,
+mission_skill_config-39370202,
+mission_skill_config-19370211,문 열기(차단문 A)
+mission_skill_config-29370211,차단문 A를 연다
+mission_skill_config-39370211,
+mission_skill_config-19370212,문 닫기(차단문 A)
+mission_skill_config-29370212,차단문 A를 닫는다
+mission_skill_config-39370212,
+mission_skill_config-19370221,开启防御门开关标记
+mission_skill_config-29370221,
+mission_skill_config-39370221,
+mission_skill_config-19370222,关闭防御门开关标记
+mission_skill_config-29370222,
+mission_skill_config-39370222,
+mission_skill_config-19370401,【标记】控制台初始化
+mission_skill_config-29370401,
+mission_skill_config-39370401,
+mission_skill_config-19370402,【标记】防御门初始化
+mission_skill_config-29370402,
+mission_skill_config-39370402,
+mission_skill_config-19370411,문 열기(차단문 B)
+mission_skill_config-29370411,차단문 B를 연다
+mission_skill_config-39370411,
+mission_skill_config-19370412,문 닫기(차단문 B)
+mission_skill_config-29370412,차단문 B를 닫는다
+mission_skill_config-39370412,
+mission_skill_config-19370421,开启防御门开关标记
+mission_skill_config-29370421,
+mission_skill_config-39370421,
+mission_skill_config-19370422,关闭防御门开关标记
+mission_skill_config-29370422,
+mission_skill_config-39370422,
+mission_skill_config-19370501,【标记】控制台X1初始化
+mission_skill_config-29370501,
+mission_skill_config-39370501,
+mission_skill_config-19370502,【标记】控制台X2初始化
+mission_skill_config-29370502,
+mission_skill_config-39370502,
+mission_skill_config-19370503,【标记】控制台X3初始化
+mission_skill_config-29370503,
+mission_skill_config-39370503,
+mission_skill_config-19370504,【标记】控制台X4初始化
+mission_skill_config-29370504,
+mission_skill_config-39370504,
+mission_skill_config-19370505,【标记】防御门X1初始化
+mission_skill_config-29370505,
+mission_skill_config-39370505,
+mission_skill_config-19370506,【标记】防御门X2初始化
+mission_skill_config-29370506,
+mission_skill_config-39370506,
+mission_skill_config-19370507,【标记】防御门X3初始化
+mission_skill_config-29370507,
+mission_skill_config-39370507,
+mission_skill_config-19370508,【标记】防御门X4初始化
+mission_skill_config-29370508,
+mission_skill_config-39370508,
+mission_skill_config-19370511,문 열기(차단문 X1)
+mission_skill_config-29370511,차단문 X1을 연다
+mission_skill_config-39370511,
+mission_skill_config-19370512,문 열기(차단문 X2)
+mission_skill_config-29370512,차단문 X2를 연다
+mission_skill_config-39370512,
+mission_skill_config-19370513,문 열기(차단문 X3)
+mission_skill_config-29370513,차단문 X3을 연다
+mission_skill_config-39370513,
+mission_skill_config-19370514,문 열기(차단문 X4)
+mission_skill_config-29370514,차단문 X4를 연다
+mission_skill_config-39370514,
+mission_skill_config-19370515,문 닫기(차단문 X1)
+mission_skill_config-29370515,차단문 X1을 닫는다
+mission_skill_config-39370515,
+mission_skill_config-19370516,문 닫기(차단문 X2)
+mission_skill_config-29370516,차단문 X2를 닫는다
+mission_skill_config-39370516,
+mission_skill_config-19370517,문 닫기(차단문 X3)
+mission_skill_config-29370517,차단문 X3을 닫는다
+mission_skill_config-39370517,
+mission_skill_config-19370518,문 닫기(차단문 X4)
+mission_skill_config-29370518,차단문 X4를 닫는다
+mission_skill_config-39370518,
+mission_skill_config-19370521,문 열기(차단문 X1)开关反馈
+mission_skill_config-29370521,
+mission_skill_config-39370521,
+mission_skill_config-19370522,문 열기(차단문 X2)开关反馈
+mission_skill_config-29370522,
+mission_skill_config-39370522,
+mission_skill_config-19370523,문 열기(차단문 X3)开关反馈
+mission_skill_config-29370523,
+mission_skill_config-39370523,
+mission_skill_config-19370524,문 열기(차단문 X4)开关反馈
+mission_skill_config-29370524,
+mission_skill_config-39370524,
+mission_skill_config-19370525,문 닫기(차단문 X1)开关反馈
+mission_skill_config-29370525,
+mission_skill_config-39370525,
+mission_skill_config-19370526,문 닫기(차단문 X2)开关反馈
+mission_skill_config-29370526,
+mission_skill_config-39370526,
+mission_skill_config-19370527,문 닫기(차단문 X3)开关反馈
+mission_skill_config-29370527,
+mission_skill_config-39370527,
+mission_skill_config-19370528,문 닫기(차단문 X4)开关反馈
+mission_skill_config-29370528,
+mission_skill_config-39370528,
+mission_skill_config-19370601,【标记】控制台I型初始化
+mission_skill_config-29370601,
+mission_skill_config-39370601,
+mission_skill_config-19370602,【标记】控制台X型初始化
+mission_skill_config-29370602,
+mission_skill_config-39370602,
+mission_skill_config-19370603,【标记】防御门X0初始化
+mission_skill_config-29370603,
+mission_skill_config-39370603,
+mission_skill_config-19370604,【标记】防御门X1初始化
+mission_skill_config-29370604,
+mission_skill_config-39370604,
+mission_skill_config-19370605,【标记】防御门X2初始化
+mission_skill_config-29370605,
+mission_skill_config-39370605,
+mission_skill_config-19370606,【标记】废弃歌利亚初始化
+mission_skill_config-29370606,
+mission_skill_config-39370606,
+mission_skill_config-19370607,【标记】乱石堆初始化
+mission_skill_config-29370607,
+mission_skill_config-39370607,
+mission_skill_config-19370611,문 열기(차단문 X1)
+mission_skill_config-29370611,차단문 X1을 연다
+mission_skill_config-39370611,
+mission_skill_config-19370612,열려라 참깨~
+mission_skill_config-29370612,차단문 X1을 연다，차단문 X2를 닫는다
+mission_skill_config-39370612,
+mission_skill_config-19370613,열려라 참깨~
+mission_skill_config-29370613,차단문 X2를 연다，차단문 X1을 닫는다
+mission_skill_config-39370613,
+mission_skill_config-19370614,소지
+mission_skill_config-29370614,제대에게 폭탄을 1개 소지시킨다. ※제대마다 폭탄을 최대 1개 소지할 수 있다.
+mission_skill_config-39370614,
+mission_skill_config-19370615,폭파지시(돌무더기I)
+mission_skill_config-29370615,폭탄으로 목표를 폭파한다.※정말 터뜨릴 수 있을까?...
+mission_skill_config-39370615,
+mission_skill_config-19370616,【标记】通用开启防御门X1
+mission_skill_config-29370616,
+mission_skill_config-39370616,
+mission_skill_config-19370617,【标记】通用开启防御门X2
+mission_skill_config-29370617,
+mission_skill_config-39370617,
+mission_skill_config-19370618,【标记】通用关闭防御门X1
+mission_skill_config-29370618,
+mission_skill_config-39370618,
+mission_skill_config-19370619,【标记】通用关闭防御门X2
+mission_skill_config-29370619,
+mission_skill_config-39370619,
+mission_skill_config-19370620,【标记】清除炸弹buff
+mission_skill_config-29370620,
+mission_skill_config-39370620,
+mission_skill_config-19370626,【标记】通用开启防御门X1开关反馈
+mission_skill_config-29370626,
+mission_skill_config-39370626,
+mission_skill_config-19370627,【标记】通用开启防御门X2开关反馈
+mission_skill_config-29370627,
+mission_skill_config-39370627,
+mission_skill_config-19370628,【标记】通用关闭防御门X1开关反馈
+mission_skill_config-29370628,
+mission_skill_config-39370628,
+mission_skill_config-19370629,【标记】通用关闭防御门X2开关反馈
+mission_skill_config-29370629,
+mission_skill_config-39370629,

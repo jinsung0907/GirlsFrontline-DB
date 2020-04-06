@@ -12381,6 +12381,50 @@
 		"code": "powBuffSelf"
 	}
 }, {
+	"id": 290,
+	"name": "HowaType89",
+	"krName": "89식 소총",
+	"enName": "",
+	"jpName": "89式",
+	"cnName": "",
+	"rank": 5,
+	"type": "ar",
+	"illust": "Parsley",
+	"voice": "",
+	"buildTime": 14880,
+	"drop": "1,2",
+	"stats": {
+		"hp": 110,
+		"pow": 120,
+		"hit": 118,
+		"dodge": 110,
+		"speed": 100,
+		"rate": 118,
+		"armorPiercing": 15,
+		"crit": 20
+	},
+	"grow": 116,
+	"canequip": {
+		"1": [1, 2, 3, 4, 13],
+		"2": [8],
+		"3": [9, 10]
+	},
+	"effect": {
+		"effectType": "smg",
+		"effectCenter": 5,
+		"effectPos": [7, 8, 9],
+		"gridEffect": {
+			"pow": 20,
+			"dodge": 15
+		}
+	},
+	"skill": {
+		"realid": 901298,
+		"cd": [6, 5.8, 5.6, 5.3, 5.1, 4.9, 4.7, 4.4, 4.2, 4],
+		"intercd": 3,
+		"code": "exam"
+	}
+}, {
 	"id": 291,
 	"name": "Danuvia43M",
 	"krName": "43M",
@@ -12427,13 +12471,13 @@
 }, {
 	"id": 292,
 	"name": "RPK16",
-	"krName": "",
+	"krName": "RPK-16",
 	"enName": "",
 	"jpName": "",
 	"cnName": "",
 	"rank": 5,
 	"type": "mg",
-	"illust": "",
+	"illust": "多元菌",
 	"voice": "",
 	"buildTime": 22560,
 	"drop": "1,2",
@@ -12471,13 +12515,13 @@
 }, {
 	"id": 293,
 	"name": "AK15",
-	"krName": "",
+	"krName": "AK-15",
 	"enName": "",
 	"jpName": "",
 	"cnName": "",
 	"rank": 5,
 	"type": "ar",
-	"illust": "",
+	"illust": "多元菌",
 	"voice": "",
 	"buildTime": 15300,
 	"drop": "1,2",
@@ -12515,13 +12559,13 @@
 }, {
 	"id": 294,
 	"name": "Webley",
-	"krName": "",
+	"krName": "웨블리 리볼버",
 	"enName": "",
 	"jpName": "",
 	"cnName": "",
 	"rank": 5,
 	"type": "hg",
-	"illust": "",
+	"illust": "Silverwing",
 	"voice": "",
 	"buildTime": 4140,
 	"drop": "229",
@@ -12559,13 +12603,13 @@
 }, {
 	"id": 295,
 	"name": "06TypeSMG",
-	"krName": "",
+	"krName": "CF05",
 	"enName": "",
 	"jpName": "",
 	"cnName": "",
 	"rank": 4,
 	"type": "smg",
-	"illust": "",
+	"illust": "Luicent",
 	"voice": "",
 	"buildTime": 8400,
 	"drop": "228",
@@ -12603,13 +12647,13 @@
 }, {
 	"id": 296,
 	"name": "SL8",
-	"krName": "",
+	"krName": "SL8",
 	"enName": "",
 	"jpName": "",
 	"cnName": "",
 	"rank": 5,
 	"type": "rf",
-	"illust": "",
+	"illust": "薯子Imoko",
 	"voice": "",
 	"buildTime": 17280,
 	"drop": "230",
@@ -12647,13 +12691,13 @@
 }, {
 	"id": 297,
 	"name": "M82",
-	"krName": "",
+	"krName": "M82",
 	"enName": "",
 	"jpName": "",
 	"cnName": "",
 	"rank": 4,
 	"type": "ar",
-	"illust": "",
+	"illust": "红茶菌",
 	"voice": "",
 	"buildTime": 12900,
 	"drop": "228",
@@ -12691,13 +12735,13 @@
 }, {
 	"id": 298,
 	"name": "VEPR",
-	"krName": "",
+	"krName": "Vepr",
 	"enName": "",
 	"jpName": "",
 	"cnName": "",
 	"rank": 3,
 	"type": "ar",
-	"illust": "",
+	"illust": "牙牙",
 	"voice": "",
 	"buildTime": 13200,
 	"drop": "2002",
@@ -12730,6 +12774,96 @@
 		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
 		"intercd": 6,
 		"code": "powBuff"
+	}
+}, {
+	"id": 299,
+	"name": "HSM10",
+	"krName": "HS10",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "sg",
+	"illust": "狂気の君",
+	"voice": "",
+	"buildTime": 26100,
+	"drop": "2003",
+	"stats": {
+		"hp": 112,
+		"pow": 115,
+		"hit": 115,
+		"dodge": 100,
+		"speed": 100,
+		"rate": 105,
+		"armor": 115,
+		"armorPiercing": 15,
+		"crit": 40,
+		"bullet": 4
+	},
+	"grow": 105,
+	"canequip": {
+		"1": [9, 11],
+		"2": [7],
+		"3": [1, 2, 3, 4]
+	},
+	"effect": {
+		"effectType": "mg",
+		"effectCenter": 8,
+		"effectPos": [1, 3],
+		"gridEffect": {
+			"pow": 15
+		}
+	},
+	"skill": {
+		"realid": 105405,
+		"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+		"intercd": 10,
+		"code": "Invincible"
+	}
+}, {
+	"id": 300,
+	"name": "CAR",
+	"krName": "",
+	"enName": "",
+	"jpName": "",
+	"cnName": "",
+	"rank": 3,
+	"type": "mg",
+	"illust": "",
+	"voice": "",
+	"buildTime": 22500,
+	"drop": "2004",
+	"stats": {
+		"hp": 100,
+		"pow": 115,
+		"hit": 130,
+		"dodge": 115,
+		"speed": 100,
+		"rate": 105,
+		"armorPiercing": 15,
+		"crit": 5,
+		"bullet": 8
+	},
+	"grow": 118,
+	"canequip": {
+		"1": [5],
+		"2": [1, 2, 3],
+		"3": [9, 14]
+	},
+	"effect": {
+		"effectType": "sg",
+		"effectCenter": 2,
+		"effectPos": [7, 9],
+		"gridEffect": {
+			"rate": 10,
+			"hit": 12
+		}
+	},
+	"skill": {
+		"realid": 100110,
+		"cd": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
+		"intercd": 8,
+		"code": "powBuffSelf"
 	}
 }, {
 	"id": 1001,

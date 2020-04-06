@@ -1080,12 +1080,42 @@ mission-10010398,거울상 과다 III
 mission-20010398,
 mission-10010399,비대칭 유도 II
 mission-20010399,
+mission-10010400,템퍼링 II
+mission-20010400,
+mission-10010401,절삭 II
+mission-20010401,
+mission-10010402,은 도금 II
+mission-20010402,
+mission-10010403,분쇄 II
+mission-20010403,
+mission-10010404,은 도금 III
+mission-20010404,
+mission-10010405,예열 II
+mission-20010405,
+mission-10010406,관측 범위 극한 III
+mission-20010406,
+mission-10010407,기포 안정 II
+mission-20010407,
+mission-10010408,광원뿔좌표계 II
+mission-20010408,
+mission-10010409,관측 범위 극한 II
+mission-20010409,
+mission-10010410,흑체복사 II
+mission-20010410,
+mission-10010411,탈출가속도 II
+mission-20010411,
 mission-10010412,진공관 EX
 mission-20010412,
 mission-10010413,임계각 EX-I
 mission-20010413,
 mission-10010414,임계각 EX-II
 mission-20010414,
+mission-10010415,기포 안정 EX
+mission-20010415,
+mission-10010416,관측 범위 극한//nEX
+mission-20010416,
+mission-10010417,탈출가속도//nEX-I
+mission-20010417,
 mission-10010418,비경수위
 mission-20010418,
 mission-10010419,반사면 II
@@ -1096,6 +1126,12 @@ mission-10010421,불규칙 편파 III
 mission-20010421,
 mission-10010422,재결정 분해 III
 mission-20010422,
+mission-10010423,설담금 EX
+mission-20010423,
+mission-10010424,설담금 I
+mission-20010424,
+mission-10010425,설담금 III
+mission-20010425,
 mission-10010426,점등관
 mission-20010426,
 mission-10010427,직진성 I
@@ -1152,5 +1188,63 @@ mission-10010452,비대칭 유도 I
 mission-20010452,
 mission-10010453,광학 이성질체
 mission-20010453,
-mission-10010454,유리 터널
+mission-10010454,분쇄 I
 mission-20010454,
+mission-10010455,혼합 
+mission-20010455,
+mission-10010456,예열 I
+mission-20010456,
+mission-10010457,소결 
+mission-20010457,
+mission-10010458,기포 생성
+mission-20010458,
+mission-10010459,기포 안정 I
+mission-20010459,
+mission-10010460,형체 부여
+mission-20010460,
+mission-10010461,설담금 II
+mission-20010461,
+mission-10010462,템퍼링 I
+mission-20010462,
+mission-10010463,절삭 I
+mission-20010463,
+mission-10010464,광내기
+mission-20010464,
+mission-10010465,은 도금 I
+mission-20010465,
+mission-10010466,허상 재주조
+mission-20010466,
+mission-10010467,가려진 특이점
+mission-20010467,
+mission-10010468,관측 범위 극한 I
+mission-20010468,
+mission-10010469,광원뿔좌표계 I
+mission-20010469,
+mission-10010470,인과 차단면
+mission-20010470,
+mission-10010471,흑체복사 I
+mission-20010471,
+mission-10010472,탈출가속도 I
+mission-20010472,
+mission-10010473,지평선을 넘어
+mission-20010473,
+mission-10010474,탈출가속도 //nEX-II
+mission-20010474,
+mission-10010475,빈집
+mission-20010475,
+mission-10010476,그리폰의 건축가
+mission-20010476,
+mission-10010477,MDR의 실종
+mission-20010477,
+mission-10010478,곱사등이
+mission-20010478,
+mission-10010479,귤씨 7개
+mission-20010479,
+mission-10010480,2번째 마인드맵
+mission-20010480,
+mission-10010481,유령 별장의 소문
+mission-20010481,
+mission-10010482,리엔필드의 안부 Ⅰ
+mission-20010482,
+mission-10010483,리엔필드의 안부 Ⅱ
+mission-20010483,
