@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"公馆手记","speaker":0,"text":"XX月XX日 第三十九条\n或许我从一开始，就不需要能够理解我的人吧。\n孤芳自赏也未必不是好事。"}]

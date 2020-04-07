@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"이번 이벤트의 모든 도전 전역을 클리어하신 것을 축하드립니다. 결산 보상을 수령하세요."}]

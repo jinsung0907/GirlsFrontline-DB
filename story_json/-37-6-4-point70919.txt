@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"公馆手记","speaker":0,"text":"XX月XX日 第八十八条\n我快要死了，我能感觉到这件事。\n在我死后，它们会怎么样呢？"}]

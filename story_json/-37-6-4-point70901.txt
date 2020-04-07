@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"公馆手记","speaker":0,"text":"XX月XX日 第十一条\n此前我从未想过使用蓝色的雪绒花这样新奇的创意。\n在我使用过的众多元素中，这种装点是最让我满意的了。"}]

@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"冒险者手册","speaker":0,"text":"“亡灵会侵占入侵者的躯体，直至为他们带来毁灭。”"}]

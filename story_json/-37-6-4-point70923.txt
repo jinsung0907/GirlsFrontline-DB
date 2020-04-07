@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"公馆手记","speaker":0,"text":"XX月XX日 第九十九条\n“我行走——一只脚踩在灰烬里，一只脚踩在时光的边缘。”"}]
