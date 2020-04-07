@@ -1081,10 +1081,11 @@ function getcharimgdir($str, $emo) {
 			case 3: $result = "story_character/M16A1_T"; break;
 			case 4: $result = "dolls/" . $result . "_1"; break;
 			case 5: $result = "dolls/" . $result . "_1_D"; break;
-			case 6: $result = "dolls/" . $result . "_2"; break;
-			case 7: $result = "dolls/" . $result . "_2_D"; break;
-			case 8: $result = "dolls/" . $result . "_3"; break;
-			case 9: $result = "dolls/" . $result . "_3_D"; break;
+			case 6: $result = "story_character/pic_m16a1_4"; break;
+			case 7: $result = "dolls/" . $result . "_2"; break;
+			case 8: $result = "dolls/" . $result . "_2_D"; break;
+			case 9: $result = "dolls/" . $result . "_3"; break;
+			case 10: $result = "dolls/" . $result . "_3_D"; break;
 		}
 	}
 	else if($str == "SOPII") {
@@ -1182,11 +1183,13 @@ function getcharimgdir($str, $emo) {
 			case 1: return "story_character/npc/NPC-AngeDamage"; break;
 			case 2: return "story_character/npc/NPC-AngeDamage2"; break;
 			case 3: return "story_character/npc/NPC-AngeDamage3"; break;
+			case 4: return "story_character/npc/NPC-AngeDamage4"; break;
 		}
 	}
 	else if($str == "NPC-Ange") {
 		switch($emo) {
 			case 0: return "story_character/npc/NPC-Ange"; break;
+			case 1: return "story_character/npc/NPC-Ange_1"; break;
 		}
 	}
 	else if($str == "NPC-AngeStreet") {
@@ -1200,6 +1203,12 @@ function getcharimgdir($str, $emo) {
 			case 1: return "story_character/npc/NPC-YegorArm"; break;
 			case 2: return "story_character/npc/NPC-YegorArm2"; break;
 			case 3: return "story_character/npc/NPC-YegorArm3"; break;
+			case 4: return "story_character/npc/NPC-YegorArm4"; break;
+		}
+	}
+	else if($str == "NPC-Soldier") {
+		switch($emo) {
+			case 0: return "story_character/npc/NPC-YegorArm3"; break;
 		}
 	}
 	else if($str == "NPC-Carter") {
@@ -1222,7 +1231,7 @@ function getcharimgdir($str, $emo) {
 	}
 	else if($str == "NPC-Lyco") {
 		switch($emo) {
-			case 0: return "story_character/npc/NPC-Lyco"; break;
+			case 0: return "story_character/npc/pic_NPC-Lyco"; break;
 		}
 	}
 	else if($str == "NPC-Persica") {
@@ -1257,6 +1266,7 @@ function getcharimgdir($str, $emo) {
 	else if($str == "NPC-Jason") {
 		switch($emo) {
 			case 0: return "story_character/npc/npc-jason"; break;
+			case 1: return "story_character/npc/npc-jason_1"; break;
 		}
 	}
 	else if($str == "NPC-Mercurows") {
@@ -1398,6 +1408,7 @@ function getcharimgdir($str, $emo) {
 	}
 	else if($str == "M16A1BOSS") {
 		switch($emo) {
+			case 1: return "story_character/pic_M16A1_1"; break;
 			case 0: return "story_character/pic_m16a1_boss"; break;
 		}
 	}
@@ -1425,6 +1436,40 @@ function getcharimgdir($str, $emo) {
 	else if($str == "NytoWhite") {
 		switch($emo) {
 			case 0: return "story_character/npc/nyto_white"; break;
+		}
+	}
+	else if($str == "NytoIsomer") {
+		switch($emo) {
+			case 0: return "story_character/"; break;
+			case 1: return "story_character/"; break;
+			case 2: return "story_character/"; break;
+			case 3: return "story_character/nyto_isomer_shadow"; break;
+			case 4: return "story_character/nyto_isomer_shadow_laugh"; break;
+		}
+	}
+	else if($str == "Nytochild01") {
+		switch($emo) {
+			case 0: return "story_character/Nytochild01_1"; break;
+			case 1: return "story_character/nytochild01_2"; break;
+			case 2: return "story_character/Nytochild01_3"; break;
+		}
+	}
+	else if($str == "Nytochild02") {
+		switch($emo) {
+			case 0: return "story_character/nytochild02_1"; break;
+			case 1: return "story_character/nytochild02_2"; break;
+		}
+	}
+	else if($str == "Nytochild03") {
+		switch($emo) {
+			case 0: return "story_character/Nytochild03_1"; break;
+			case 1: return "story_character/Nytochild03_2"; break;
+			case 2: return "story_character/Nytochild03_3"; break;
+		}
+	}
+	else if($str == "Nytochild04") {
+		switch($emo) {
+			case 0: return "story_character/nytochild04"; break;
 		}
 	}
 	else if($str == "Jillmagic") {

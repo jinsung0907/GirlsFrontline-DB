@@ -60,14 +60,20 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
 					<h2 class="mb-4 pb-1 border-bottom border-gray">비편광권</h2>
 					
 					<div class="row">
-						<div class="col-12 item">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
 							<a target="_blank" href="story.php?q=-36-1-1">
 								<span>점등관</span>
 							</a>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12 item">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
 							<a target="_blank" href="story.php?q=-36-1-2">
 								<span>직진성 Ⅰ</span>
 							</a>
@@ -78,6 +84,14 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
 							<a target="_blank" href="story.php?q=-36-1-4">
 								<span>임계각 Ⅰ</span>
 							</a>
+						</div>
+						<div class="col-6 item">
+
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+
 						</div>
 						<div class="col-6 item">
 							<a target="_blank" href="story.php?q=-36-1-3">
@@ -98,21 +112,30 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12 item">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
 							<a target="_blank" href="story.php?q=-36-1-7">
 								<span>전반사 Ⅰ</span>
 							</a>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12 item">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
 							<a target="_blank" href="story.php?q=-36-1-8">
 								<span>사인 곡선</span>
 							</a>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12 item">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
 							<a target="_blank" href="story.php?q=-36-1-9">
 								<span>가역성 Ⅰ</span>
 							</a>
@@ -145,13 +168,23 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
 					</div>
 					<div class="row">
 						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-2-4">
+								<span>분광계</span>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
 							<a target="_blank" href="story.php?q=-36-2-2">
 								<span>회절 격자</span>
 							</a>
 						</div>
 						<div class="col-6 item">
-							<a target="_blank" href="story.php?q=-36-2-4">
-								<span>분광계</span>
+							<a target="_blank" href="story.php?q=-36-2-5">
+								<span>간섭계 Ⅰ</span>
 							</a>
 						</div>
 					</div>
@@ -162,9 +195,7 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
 							</a>
 						</div>
 						<div class="col-6 item">
-							<a target="_blank" href="story.php?q=-36-2-5">
-								<span>간섭계 Ⅰ</span>
-							</a>
+
 						</div>
 					</div>
 					<div class="row">
@@ -261,6 +292,182 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
 						<div class="col-12 item">
 							<a target="_blank" href="story.php?q=-36-3-8">
 								<span>광학 이성질체</span>
+							</a>
+						</div>
+					</div>
+				</div>
+        <div class="col-12 item pb-5">
+					<h2 class="mb-4 pb-1 border-bottom border-gray">리캐스팅</h2>
+					
+					<div class="row">
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-1">
+								<span>분쇄 Ⅰ</span>
+							</a>
+						</div>
+						<div class="col-6 item">
+
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-8">
+								<span>설담금 II</span>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-2">
+								<span>혼합</span>
+							</a>
+						</div>
+						<div class="col-6 item">
+
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-3">
+								<span>예열 I</span>
+							</a>
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-9">
+								<span>템퍼링 I</span>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-4">
+								<span>소결</span>
+							</a>
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-10">
+								<span>절삭 I</span>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-5">
+								<span>기포 생성</span>
+							</a>
+						</div>
+						<div class="col-6 item">
+
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-6">
+								<span>기포 안정 I</span>
+							</a>
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-11">
+								<span>광내기</span>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-12">
+								<span>은 도금 I</span>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-7">
+								<span>형체 부여</span>
+							</a>
+						</div>
+						<div class="col-6 item">
+
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-4-13">
+								<span>허상 재주조</span>
+							</a>
+						</div>
+					</div>
+        </div>
+				<div class="col-12 item pb-5">
+					<h2 class="mb-4 pb-1 border-bottom border-gray">시선변계</h2>
+					
+					<div class="row">
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-5-1">
+								<span>가려진 특이점</span>
+							</a>
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-5-4">
+								<span>인과 차단면</span>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-5-2">
+								<span>관측 범위 극한 I</span>
+							</a>
+						</div>
+						<div class="col-6 item">
+
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-5-5">
+								<span>흑체복사 I</span>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-5-3">
+								<span>광원뿔좌표계 I</span>
+							</a>
+						</div>
+						<div class="col-6 item">
+
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-5-6first">
+								<span>탈출가속도 I</span>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-6 item">
+
+						</div>
+						<div class="col-6 item">
+							<a target="_blank" href="story.php?q=-36-5-6end">
+								<span>지평선을 넘어</span>
 							</a>
 						</div>
 					</div>
