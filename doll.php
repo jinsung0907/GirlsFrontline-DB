@@ -382,7 +382,7 @@ $starttime = microtime(true);
 			if($match[2] == "엘펠트") $match[2] = "GG_elfeldt";
 			if($match[2] == "노엘") $match[2] = "BB_Noel";
 			if($match[2] == "그리즐리") $match[2] = "Grizzly";
-			if($match[2] == "스텐 MkII") $match[2] = "StenMK2";
+			if($match[2] == "스텐 MkⅡ") $match[2] = "StenMK2";
 			if($match[2] == "리-엔필드") $match[2] = "리엔필드";
       if($match[2] == "모신-나강") $match[2] = "모신나강";
 			if($match[2] == "키아나") $match[2] = "키아나 카스라나";
@@ -392,6 +392,8 @@ $starttime = microtime(true);
 			if($match[2] == "카르카노 M1891") $match[2] = "카르카노M1891";
 			if($match[2] == "카르카노 M91/38") $match[2] = "카르카노M91/38";
 			if($match[2] == "게파드M1") $match[2] = "게파드 M1";
+			if($match[2] == "그리즐리 MkV") $match[2] = "Grizzly";
+			if($match[2] == "그리즐리 MkⅤ") $match[2] = "Grizzly";
 
 			if(strtolower($match[2]) == strtolower($doll->name) || strtolower($match[2]) == strtolower($doll->krName)) {
 				$tmpobj = new stdClass;
