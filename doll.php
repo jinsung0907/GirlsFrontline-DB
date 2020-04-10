@@ -391,6 +391,7 @@ $starttime = microtime(true);
 			if($match[2] == "EVO") $match[2] = "EVO3";
 			if($match[2] == "카르카노 M1891") $match[2] = "카르카노M1891";
 			if($match[2] == "카르카노 M91/38") $match[2] = "카르카노M91/38";
+			if($match[2] == "게파드M1") $match[2] = "게파드 M1";
 
 			if(strtolower($match[2]) == strtolower($doll->name) || strtolower($match[2]) == strtolower($doll->krName)) {
 				$tmpobj = new stdClass;
