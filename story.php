@@ -107,9 +107,12 @@
 						$bg = $line->bg;
 					}
 					if($bg != "0") {
+            $profile = getStoryBGProfile();
+            $bgname = getStoryBGImageName($bg, $profile);
+            
 					//if($bg != "0" && $bg != "9" && $bg != "10") {
 						echo "<div class=\"storyimg\" style=\"position: relative;overflow: hidden;\">";
-						echo "<img style=\"width:100%;position:relative;z-index:\"  src='img/story_background/$bg.png'>";
+						echo "<img style=\"width:100%;position:relative;z-index:\"  src='img/story_background/$bgname.png'>";
 						
 						$totnum = sizeof($line->character);
 						$i = 0;

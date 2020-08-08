@@ -534,6 +534,17 @@ function iscontains($str, $str1) {
 	return false;
 }
 
+function getStoryBGProfile() {
+  return explode(PHP_EOL, file_get_contents("story_json/profiles.txt"));
+}
+
+function getStoryBGImageName($id, $profiles) {
+  if ($id == 9) return 'black_template';
+  else if ($id == 10) return 'white_template';
+  
+  return $profiles[$id];
+}
+
 //스토리용 인형 이미지 불러오기
 function getcharimgdir($str, $emo) {
 	$dolls = getJson('doll');
