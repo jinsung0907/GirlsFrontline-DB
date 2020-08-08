@@ -534,15 +534,31 @@ function iscontains($str, $str1) {
 	return false;
 }
 
+//스토리 배경화면 목록
 function getStoryBGProfile() {
   return explode(PHP_EOL, file_get_contents("story_json/profiles.txt"));
 }
 
+//스토리 배경화면 이름 가져오기
 function getStoryBGImageName($id, $profiles) {
   if ($id == 9) return 'black_template';
   else if ($id == 10) return 'white_template';
   
   return $profiles[$id];
+}
+
+//서브스토리 스토리 정보 가져오기
+function getSkinStoryInfo($skins, $id) {
+  foreach ($skins as $i => $skin) {
+    $skinid = str_pad($id, 7, '0', STR_PAD_LEFT);
+    
+    if (strpos($skin, "skin-1$skinid") !== false) {
+      $return = new stdClass();
+      $return->name = str_replace('//c', ',', str_replace("skin-1$skinid,", '', $skin));
+      $return->desc = str_replace('//c', ',', str_replace("skin-2$skinid,", '', $skins[$i+1]) . "<br>" . str_replace("skin-3$skinid,", '', $skins[$i+2]));
+      return $return;
+    }
+  }
 }
 
 //스토리용 인형 이미지 불러오기

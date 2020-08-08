@@ -13,6 +13,8 @@
 	else $storys = getJson("substory");
 	
 	$dolls = getJson('doll');
+	$skins = explode(PHP_EOL, getDatafile('skin', 'ko'));
+  
 	//live2d 리스트
 	$modstory = [];
 	if($lang != 'ko') 
@@ -60,9 +62,11 @@
 				<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
 					<?=$comment?>
 					
-			<?php foreach($story->list as $list) { ?>
-					<a target="_blank" href="substory.php?t=2&q=<?=$list->num?>"><strong class="d-block text-dark"><?=$list->name?></strong></a>
-					<i><?=$list->desc?></i>
+			<?php foreach($story->list as $list) {
+                  $storyinfo = getSkinStoryInfo($skins, $list->num);
+      ?>
+					<a target="_blank" href="substory.php?t=2&q=<?=$list->num?>"><strong class="d-block text-dark"><?=$storyinfo->name?></strong></a>
+					<i><?=$storyinfo->desc?></i>
 					<br><br>
 			<?php } ?>
 			</div>
