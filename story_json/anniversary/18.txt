@@ -1,0 +1,1 @@
+[{"character":["MAC10"],"character_emotion":["0"],"speaker_name":"MAC10","speaker":0,"bg":"96","text":"아, 지휘관. 3주년 축하드려요.\n기운이 없어 보인다고요? 그렇네요, 요즘은 통 신나는 일이 없어서...\n네? 파티 끝나면 특별 임무를...?"},{"character":["MAC10"],"character_emotion":["1"],"speaker_name":"MAC10","speaker":0,"text":"하하하... 오늘 들은 것 중 최고로 반가운 소식이네요! 자아, 그럼 얼른 파티장에 가서 같이 한바탕 날뛰어 보자고요!"}]

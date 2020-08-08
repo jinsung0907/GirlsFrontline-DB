@@ -1,0 +1,1 @@
+[{"character":["MP5Mod"],"character_emotion":["0"],"speaker_name":"MP5","speaker":0,"bg":"96","text":"지휘관님 찾았다! 3주년 축하드려요!\n어, 왜 그렇게 짐이 많으세요? 제가 좀 들어드릴게요!\n빨리요, 안 주시면 의자 가져와서 억지로라도 뺏을 거예요!"},{"character":["MP5Mod"],"character_emotion":["0"],"speaker_name":"MP5","speaker":0,"text":"저도 이젠 어린애가 아니란 말이에요. 그러니까, 가끔은 저한테도 의지해 주세요!"}]

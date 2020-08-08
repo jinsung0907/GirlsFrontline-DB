@@ -1,0 +1,1 @@
+[{"character":["MG34"],"character_emotion":["0"],"speaker_name":"MG34","speaker":0,"bg":"96","text":"42, 지휘관님 오셨어! 빨리 이리 와서...\n크흠. 지휘관님, 3주년 축하드립니다!"},{"character":["MG34"],"character_emotion":["0"],"speaker_name":"MG34","speaker":0,"text":"어휴 참... 42, 또 한 박자 늦었잖아."}]

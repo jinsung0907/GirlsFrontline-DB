@@ -1,0 +1,1 @@
+[{"character":["SPAS12"],"character_emotion":["0"],"speaker_name":"SPAS12","speaker":0,"bg":"129","text":"오! 바베큐 나왔다!\n음? 지휘관은 안 먹어?\n내가 먹는 모습을 보는 것만으로 충분하다고?\n알았어, 그럼 사양 않고 잘 먹을게♪\n싸울 필요가 없는 명령은 처음인걸~"}]

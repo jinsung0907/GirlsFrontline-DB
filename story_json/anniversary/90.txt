@@ -1,0 +1,1 @@
+[{"character":["FNP9"],"character_emotion":["0"],"speaker_name":"FNP9","speaker":0,"bg":"96","text":"지휘관님, 잠시만요!\n저... 오늘의 저는 평소와 어딘가 달라 보이지 않나요?"},{"character":["FNP9"],"character_emotion":["0"],"speaker_name":"FNP9","speaker":0,"text":"어... 모르시겠다고요? 으으, 특별히 단장한 모습으로 단숨에 지명도를 올릴 셈이었는데..."}]

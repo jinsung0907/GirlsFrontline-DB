@@ -1,0 +1,1 @@
+[{"character":["M1873Mod"],"character_emotion":["0"],"speaker_name":"콜트 리볼버","speaker":0,"bg":"96","text":"야호~! 3주년 축하해 지휘관!\n이건 내가 지휘관이랑 처음 만났을 때를 기념해서 간직하던 콜라야. 딱 좋은 온도로 냉각해놨어!"},{"character":["M1873Mod"],"character_emotion":["0"],"speaker_name":"콜트 리볼버","speaker":0,"text":"나도 지휘관과 가장 오래 함께한 인형이잖아! 그럼, 같이 이 콜라에 건배!"}]

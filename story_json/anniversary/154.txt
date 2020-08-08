@@ -1,0 +1,1 @@
+[{"character":["m500Mod"],"character_emotion":["2"],"speaker_name":"M500","speaker":0,"bg":"83","text":"Hi, 지휘관~! 3주년 축하해!\n지금 목심이랑 체력 단련 중이야! 3주년 기념일이라고 훈련을 게을리해선 안 되잖아!\n맞아, 베테랑 사냥꾼으로서의 경험담이라구! 그치, 목심아?"},{"character":["m500Mod"],"character_emotion":["3"],"speaker_name":"목심이","speaker":0,"text":"멍멍!"}]

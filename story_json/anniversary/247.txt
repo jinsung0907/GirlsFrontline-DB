@@ -1,0 +1,1 @@
+[{"character":["K31"],"character_emotion":["0"],"speaker_name":"K31","speaker":0,"bg":"96","text":"3주년 파티가 늦지 않고 예정대로 진행되서 다행이야.\n그런데, 지휘관 지금 너무 평온한 거 아니야? 분위기도 시간에 맞춰야지. 시간표에 예정한 상황이랑 너무 다르다고."},{"character":["K31"],"character_emotion":["0"],"speaker_name":"K31","speaker":0,"text":"그러니까 이리 와, 한번 안아보면 되겠지! 3주년 축하해, 지휘관!"}]

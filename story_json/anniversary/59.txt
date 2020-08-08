@@ -1,0 +1,1 @@
+[{"character":["AK74U"],"character_emotion":["0"],"speaker_name":"AK74U","speaker":0,"bg":"96","text":"아, 보스. 3주년 축하해.\n어... 길은 왜 막아? 또 무슨 말이 듣고 싶은 건데...\n어제 잔뜩 이야기 나눴잖아!"},{"character":["AK74U"],"character_emotion":["0"],"speaker_name":"AK74U","speaker":0,"text":"됐으니까 저리 가, 나 지금 AS Val 찾으러 가야 한단 말이야..."}]

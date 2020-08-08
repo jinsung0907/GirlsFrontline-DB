@@ -1,0 +1,1 @@
+[{"character":["R5RGP"],"character_emotion":["0"],"speaker_name":"R5","speaker":0,"bg":"1","text":"아, 내 음악 소리를 듣고 왔어?\n그래... 목적 달성이야.\n3주년 축하해, 지휘관. 이건 내가 축하하는 의미에서 지은 곡인데, 감상이 어때?"}]

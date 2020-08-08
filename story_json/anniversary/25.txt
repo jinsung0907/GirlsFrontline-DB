@@ -1,0 +1,1 @@
+[{"character":["MP40"],"character_emotion":["0"],"speaker_name":"MP40","speaker":0,"bg":"96","text":"어서 오세요, 지휘관님. 오늘 있을 행사의 준비 작업을 진행 중이에요.\n오늘 행사가 3주년 파티라는 건 저도 알아요. 하지만 어떤 기념일이 있더라도 업무는 제대로 마치고 즐겨야죠!"},{"character":["MP40"],"character_emotion":["0"],"speaker_name":"MP40","speaker":0,"text":"그래야 지휘관님의 부담을 조금이라도 덜어드릴 수 있으니까요!"}]

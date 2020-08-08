@@ -1,0 +1,1 @@
+[{"character":["TEC9"],"character_emotion":["0"],"speaker_name":"TEC9","speaker":0,"bg":"96","text":"오늘이 지휘관님께 특별한 날이긴 하지만...\n그, 그렇게 너무 가까이 붙지 말아 주세요..."},{"character":["TEC9"],"character_emotion":["0"],"speaker_name":"TEC9","speaker":0,"text":"지휘관님 피부의 모세혈관까지 선명하게 보인단 말이에요, 너무 무서워요..."}]

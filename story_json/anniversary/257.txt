@@ -1,0 +1,1 @@
+[{"character":["M200"],"character_emotion":["0"],"speaker_name":"M200","speaker":0,"bg":"96","text":"지휘관님, 3주년 축하드려요. 축하 선물로 꽃다발이랑 제가 만든 향수를 가져왔어요.\n아, 향수 배합은 최근에 배운 거니 너무 기대하진 마세요. 아직 조금밖에 몰라요..."},{"character":["M200"],"character_emotion":["0"],"speaker_name":"M200","speaker":0,"text":"으... 겨우 이런 거 가지고 그렇게 칭찬하지 말아 주세요... 몸이 또 과열될 것 같아요..."}]

@@ -1,1 +1,1 @@
-[{"character":[""],"character_emotion":[""],"speaker_name":"冒险者手册","speaker":0,"text":"“亡灵会侵占入侵者的躯体，直至为他们带来毁灭。”"}]
+[{"character":[""],"character_emotion":[""],"speaker_name":"모험가 수첩","speaker":0,"text":"\"망령은 침입자의 몸을 차지하고, 그들에게 파멸을 선사한다.\""}]

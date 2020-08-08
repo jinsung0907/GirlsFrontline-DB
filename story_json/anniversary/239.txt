@@ -1,0 +1,1 @@
+[{"character":["Type03"],"character_emotion":["0"],"speaker_name":"03식","speaker":0,"bg":"96","text":"3주년 축하드립니다, 지휘관님. 언제든지 말씀하시죠, 한 마디도 빠뜨리지 않고 메모할 준비 됐습니다."},{"character":["Type03"],"character_emotion":["0"],"speaker_name":"03식","speaker":0,"text":"이런 성대한 날에 하는 말씀이신 만큼, 분명 깨우침 가득한 어록이겠죠. 빠짐없이 기록해서 공부하겠습니다!"}]

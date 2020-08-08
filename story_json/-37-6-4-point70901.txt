@@ -1,1 +1,1 @@
-[{"character":[""],"character_emotion":[""],"speaker_name":"公馆手记","speaker":0,"text":"XX月XX日 第十一条\n此前我从未想过使用蓝色的雪绒花这样新奇的创意。\n在我使用过的众多元素中，这种装点是最让我满意的了。"}]
+[{"character":[""],"character_emotion":[""],"speaker_name":"필기","speaker":0,"text":"XX월 XX일, 11 페이지.\n왜 여태까지 파란 에델바이스를 쓴다는 생각 자체를 못했을까? 수많은 요소를 써봤지만, 이게 가장 마음에 드는 장식이다."}]

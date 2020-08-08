@@ -1,1 +1,1 @@
-[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"配电室似乎在公馆较为角落的地方，还好知道位置，否则找起来要花很久。"}]
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"배전실은 건물의 구석에 있어. 미리 위치를 알아내서 다행이지, 아니면 한참을 찾아다녔을 거야."}]

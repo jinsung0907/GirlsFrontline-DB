@@ -1,0 +1,1 @@
+[{"character":["SuperSASS"],"character_emotion":["0"],"speaker_name":"SuperSASS","speaker":0,"bg":"96","text":"벌써 3주년이구나, 지휘관! 비록 작전 임무에 나갈 기회가 많진 않지만, 그래도 난 그리폰에서 지내는 게 너무 즐거워.\n3주년 축하해! 나도 앞으로도 실전에 더 자주 나갈 수 있도록 노력할 거야!"}]

@@ -1,0 +1,1 @@
+[{"character":["FMG9"],"character_emotion":["0"],"speaker_name":"FMG-9","speaker":0,"bg":"96","text":"보스, 3주년 파티를 위해 제가 특별히 모든 인형들의 정보를 정리해왔습니다.\n데이터가 꽤 방대한데, 누구의 정보부터 보시겠어요?"},{"character":["FMG9"],"character_emotion":["0"],"speaker_name":"FMG-9","speaker":0,"text":"으엑, 갑자기 누가 전자전 공격을?! 으아악!!"}]

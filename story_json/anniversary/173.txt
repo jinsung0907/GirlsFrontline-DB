@@ -1,0 +1,1 @@
+[{"character":["PKP"],"character_emotion":["0"],"speaker_name":"PKP","speaker":0,"bg":"96","text":"올해도 훌륭했다, 지휘관.\n앞으로 더 많은, 더 험난한 전장에서, 함께 활약하고 함께 승리를 거머쥐기를 기대하지."}]

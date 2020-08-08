@@ -1,0 +1,1 @@
+[{"character":["StenMK2Mod"],"character_emotion":["0"],"speaker_name":"스텐 MkⅡ","speaker":0,"bg":"96","text":"오늘을 위해 특별히 준비한 스페셜 디저트예요! 드셔 보세요!\n여태까지 한 번도 느껴본 적 없는 색다른 맛일 거예요! 어때요?"},{"character":["StenMK2Mod"],"character_emotion":["0"],"speaker_name":"스텐 MkⅡ","speaker":0,"text":"엑... 뭐가 다른지 모르시겠다고요? 역시 내가 직접 먹여 드려야 하나..."}]

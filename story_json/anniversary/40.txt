@@ -1,0 +1,1 @@
+[{"character":["SVT38"],"character_emotion":["0"],"speaker_name":"SVT38","speaker":0,"bg":"96","text":"모신나강, 승부다! 오늘은 절대 지지 않아!\n아, 실례합니다 지휘관님. 하지만 오늘만큼은 반드시 모신나강에게 이겨야 하니, 잠시 안전한 곳에서 기다려 주시기 바랍니다."},{"character":["SVT38"],"character_emotion":["0"],"speaker_name":"SVT38","speaker":0,"text":"이긴 뒤에, 지휘관님과 함께 감미로운 승리의 축배를 들겠습니다!"}]

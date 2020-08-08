@@ -1,0 +1,1 @@
+[{"character":["USPCompact"],"character_emotion":["0"],"speaker_name":"USPCompact","speaker":0,"bg":"96","text":"저... 지, 지휘관님... 3, 3주년 축하드려요!\n으으... 고개 들라고 하지 말아 주세요... 이렇게 지휘관님 앞에 선 것만으로도 엄청 긴장된다고요...\n무, 무리시키지 말아 주세요오..."}]

@@ -1,0 +1,1 @@
+[{"character":["HEZISM1"],"character_emotion":["0"],"speaker_name":"SM-1","speaker":0,"bg":"96","text":"이렇게 특별한 날을 빌어서, 솔직하게 말씀드려도 될까요?\n지휘관님께는 진심으로 감사하고 있어요. 언제 어느 때나, 지휘관님이 저희를 이끌어 주셔서 여기까지 왔으니까요."},{"character":["HEZISM1"],"character_emotion":["0"],"speaker_name":"SM-1","speaker":0,"text":"감사합니다, 지휘관님. 3주년 축하드려요!"}]

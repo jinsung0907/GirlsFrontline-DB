@@ -1,0 +1,1 @@
+[{"character":["RT20"],"character_emotion":["0"],"speaker_name":"RT20","speaker":0,"bg":"96","text":"지휘관, 이 파란만장한 운명 속에서 3년이나 버텨낸 걸 축하해.\n어라, 왜 그렇게 반응이 무덤덤해? 설마 인격이 바뀌기라도 했나?"},{"character":["RT20"],"character_emotion":["0"],"speaker_name":"RT20","speaker":0,"text":"진짜 우리 지휘관인지 깨물어봐야겠어! 아, 거기 서라~!"}]

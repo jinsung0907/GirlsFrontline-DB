@@ -1,0 +1,1 @@
+[{"character":["pa15"],"character_emotion":["0"],"speaker_name":"PA15","speaker":0,"bg":"1","text":"<Size=60>3주년 축하해애애!!</Size>\n어때? 깜짝 놀랐지?\n하하핫, 방금 펄쩍 뛰어오르는 거 다 봤다고."},{"character":["pa15"],"character_emotion":["0"],"speaker_name":"PA15","speaker":0,"text":"물론, 나랑 잠~깐 놀아 주면 방금 그 창피한 꼴은 비밀로 해 줄게♪"}]

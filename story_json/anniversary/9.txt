@@ -1,0 +1,1 @@
+[{"character":["P38"],"character_emotion":["0"],"speaker_name":"P38","speaker":0,"bg":"96","text":"유후~☆ 저의 3주년 기념 특별 라이브에 와 주신 팬 여러분, 감사합니다!\n지금부터 공연이 시작되니, 서로 밀지 말고 질서를 지키면서 제 무대를 감상해 주세요!"},{"character":["P38"],"character_emotion":["0"],"speaker_name":"P38","speaker":0,"text":"아아! 지휘관님 어디 가세요!"}]

@@ -1,0 +1,1 @@
+[{"character":["Glock17"],"character_emotion":["0"],"speaker_name":"Glock17","speaker":0,"bg":"96","text":"아침부터 실실 웃고 계시네요, 보스.\n혹시, 3주년 기념 파티에 맞춰 무슨 깜짝 이벤트라도 준비하셨나요?\n아하, 눈이 휘둥그레지시는 걸 보니 정답인가 보네요!"},{"character":["Glock17"],"character_emotion":["0"],"speaker_name":"Glock17","speaker":0,"text":"걱정 마세요, 비밀은 지켜드릴 테니까요..."}]

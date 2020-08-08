@@ -1,0 +1,1 @@
+[{"character":["gsh18"],"character_emotion":["4"],"speaker_name":"GSh-18","speaker":0,"bg":"96","text":"지휘관님! 제가 특별히 밤을 새서 그린 3주년 특별편을 업로드했어요!\n이따가 시간 나실 때 꼭 보세요! 지휘관님과 저희의 추억을 담았다고요!"},{"character":["gsh18"],"character_emotion":["4"],"speaker_name":"GSh-18","speaker":0,"text":"3주년 축하드려요, 지휘관님!"}]

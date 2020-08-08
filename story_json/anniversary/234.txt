@@ -1,0 +1,1 @@
+[{"character":["JS9mm"],"character_emotion":["0"],"speaker_name":"JS9","speaker":0,"bg":"96","text":"싸움은 일단락 지었지만... 총을 내려놓진 않겠습니다.\n저는 지휘관님 곁에 있을 때가 제일 행복한걸요."},{"character":["JS9mm"],"character_emotion":["0"],"speaker_name":"JS9","speaker":0,"text":"다시는 지휘관님이 슬픈 표정을 지으시지 않도록 하겠어요."}]

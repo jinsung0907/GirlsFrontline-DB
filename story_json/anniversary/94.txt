@@ -1,0 +1,1 @@
+[{"character":["64typeMod"],"character_emotion":["0"],"speaker_name":"64식","speaker":0,"bg":"96","text":"안녕하세요 지휘관님, 오늘은 특별한 용정차를 끓였어요. 오늘 하루만 제공하는 거랍니다.\n잠깐, 그건 지휘관님의 잔이 아니에요. 지휘관님께 드리려는 건 이거예요.\n아뇨, 찻잔을 따로 구분하진 않아요. 오직 지휘관님의 것만...\n맛이 어떤가요?"},{"character":["64typeMod"],"character_emotion":["0"],"speaker_name":"64식","speaker":0,"text":"<color=#A9A9A9>제 마음, 느껴지시나요?</color>"}]

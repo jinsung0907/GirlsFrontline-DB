@@ -1,0 +1,1 @@
+[{"character":["Cx4Storm"],"character_emotion":["0"],"speaker_name":"Cx4 스톰","speaker":0,"bg":"96","text":"네!? 버버버벌써 제 차례인가요?! 3, 3, 3주년 축하드립니다 지휘관님!"},{"character":["Cx4Storm"],"character_emotion":["0"],"speaker_name":"Cx4 스톰","speaker":0,"text":"지휘관님과 함께하면서, 수많은 것들을 배웠어요! 앞으로도 계속 함께하게 해 주세요!"}]

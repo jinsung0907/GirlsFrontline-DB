@@ -1,0 +1,1 @@
+[{"character":["Mk23"],"character_emotion":["0"],"speaker_name":"Mk23","speaker":0,"bg":"96","text":"달~링♡ 3주년 축하해!\n이런 특별한 날은 역시 특별한 사람과 보내야겠지?"},{"character":["Mk23"],"character_emotion":["0"],"speaker_name":"Mk23","speaker":0,"text":"달링, 오늘 특별히 하고 싶은 일 있어? 내가 무슨 일이든지 어울려 줄게♡"}]

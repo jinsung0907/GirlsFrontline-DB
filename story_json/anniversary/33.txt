@@ -1,0 +1,1 @@
+[{"character":["m45"],"character_emotion":["0"],"speaker_name":"m45","speaker":0,"bg":"96","text":"지휘관님, 3주년을 테마로 케이크를 몇 개 만들었는데, 어떤가요? 파티에 낼 수 있을지...\n엄청 맛있어 보인다고요? 정말 다행이네요!\n어, 그리고... 저..."},{"character":["m45"],"character_emotion":["0"],"speaker_name":"m45","speaker":0,"text":"이, 이건 지휘관님께 드리는 미니 케이크예요... 3주년 축하드립니다...!"}]

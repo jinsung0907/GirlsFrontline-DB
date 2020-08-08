@@ -1,0 +1,1 @@
+[{"character":["Lewis"],"character_emotion":["0"],"speaker_name":"루이스","speaker":0,"bg":"96","text":"지휘관! 3주년 축하해!\n오는 길에 예쁘고 귀여운 인형들이 잔뜩 있어서, 하마터면 지각할 뻔했지 뭐야~"},{"character":["Lewis"],"character_emotion":["0"],"speaker_name":"루이스","speaker":0,"text":"오래 기다리진 않았지? 자, 여기 내 선물~"}]

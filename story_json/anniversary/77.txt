@@ -1,0 +1,1 @@
+[{"character":["M2HB"],"character_emotion":["0"],"speaker_name":"M2HB","speaker":0,"bg":"96","text":"어라, 지휘관? 농땡이 치는 거 들켜버렸네~\n나도 모두와 함께 3주년을 축하하고 싶지만, 숙소에서 걸어가기엔 너무 멀어서 말이야..."},{"character":["M2HB"],"character_emotion":["0"],"speaker_name":"M2HB","speaker":0,"text":"뭐? 차 태워 주겠다고? 아싸!"}]

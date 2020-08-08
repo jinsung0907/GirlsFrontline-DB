@@ -1,0 +1,1 @@
+[{"character":["P30"],"character_emotion":["0"],"speaker_name":"P30","speaker":0,"bg":"96","text":"후후후, 왜 내가 안 보이나 한참을 찾았나 봐? 그야 당연히, 이렇게 중요한 날인만큼 철저하게 준비해야 했으니까 그렇지.\n어딘가의 산만한 인형 같은 꼴은 절대 용납 못한다고! 축하할 땐 이렇게 예쁜 치마를 입고, 머리도 정성들여서 빗은 다음에..."},{"character":["P30"],"character_emotion":["0"],"speaker_name":"P30","speaker":0,"text":"쪽. 히히히, 3주년 축하해 지휘관."}]

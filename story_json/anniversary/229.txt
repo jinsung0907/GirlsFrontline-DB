@@ -1,0 +1,1 @@
+[{"character":["M870P"],"character_emotion":["0"],"speaker_name":"M870","speaker":0,"bg":"96","text":"흐응~? 뭐야, 그 옷차림은? 그 오이 피클 같은 옷으로 파티에 참석할 셈이야?"},{"character":["M870P"],"character_emotion":["0"],"speaker_name":"M870","speaker":0,"text":"그런 시각 테러로는 통과 못 시켜 주지. 정 들어가고 싶으면, 사이다 바치고, 내 선물 받고 들어가."}]

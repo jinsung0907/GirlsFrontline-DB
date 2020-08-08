@@ -1,0 +1,1 @@
+[{"character":["M1918Mod"],"character_emotion":["0"],"speaker_name":"M1918","speaker":0,"bg":"96","text":"지휘관~ 3주년 파티 준비 작업이 어떻게 되어 가나 확인하러 왔죠?\n그럼 마음껏 보도록 하세요! 저도 맡은 일은 성심성의를 다한다고요."},{"character":["M1918Mod"],"character_emotion":["0"],"speaker_name":"M1918","speaker":0,"text":"윽, 자꾸 옛날 얘기 꺼내지 마세요! 제가 얼마나 달라졌는데!"}]

@@ -1,0 +1,1 @@
+[{"character":["MG36"],"character_emotion":["0"],"speaker_name":"MG36","speaker":0,"bg":"96","text":"인간의 역사를 고려해 계산해본다면, 지금 살아 있는 사람 한 명당 평균적으로 30명의 귀신이 붙어 있을 겁니다. 그 귀신들이 바로 지난 몇 년 동안 싸워 온 지휘관을 지켜본 증인들이에요."},{"character":["MG36"],"character_emotion":["0"],"speaker_name":"MG36","speaker":0,"text":"따지고 보면 꽤 기쁜 일 아닌가요?\n그러니, 저도 오늘을 기념해 계속 촬영하겠습니다."}]

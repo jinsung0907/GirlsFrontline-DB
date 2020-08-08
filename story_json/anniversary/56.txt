@@ -1,0 +1,1 @@
+[{"character":["M4 SOPMOD IIMod"],"character_emotion":["0"],"speaker_name":"M4 SOPMOD II","speaker":0,"bg":"96","text":"히히히, 지휘관 잡았~다!\n잡힌 벌로 한동안 나랑 놀아 주기! 응? 한동안이 얼마냐고?"},{"character":["M4 SOPMOD IIMod"],"character_emotion":["0"],"speaker_name":"M4 SOPMOD II","speaker":0,"text":"어... 그러니까... 음... 오늘이 3주년 파티니까, 다음은 4주년... 그 다음은... 아, 아무튼 엄청 한동안! 자, 빨리 놀아 줘!"}]

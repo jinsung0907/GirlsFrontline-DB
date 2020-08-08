@@ -1,0 +1,1 @@
+[{"character":["PM"],"character_emotion":["0"],"speaker_name":"마카로프","speaker":0,"bg":"96","text":"아, 지휘관. 준비 작업 시찰하러 왔어?\n성조기 녀석들은 개인주의에 찌들어서 엉망이겠지만, 우린 팀워크가 좋아서 보다 안정적이고 효율도 높다고.\n일이 아직 잔뜩 남긴 했지만 걱정 마, 내가 지휘하고 있으니까. 다 잘 마무리될 거야."},{"character":["PM"],"character_emotion":["0"],"speaker_name":"마카로프","speaker":0,"text":"여태까지의 수많은 고비도, 다 그렇게 함께 이겨냈잖아?"}]

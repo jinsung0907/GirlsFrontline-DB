@@ -1,0 +1,1 @@
+[{"character":["Mk12"],"character_emotion":["0"],"speaker_name":"Mk12","speaker":0,"bg":"96","text":"이제야 왔어?\n오늘 지휘관이 파티에 입고 갈 옷, 내가 벌써 다 준비해 놨어."},{"character":["Mk12"],"character_emotion":["0"],"speaker_name":"Mk12","speaker":0,"text":"...뭘 그러고 있어? 내가 갈아입혀 줘야 해?"}]

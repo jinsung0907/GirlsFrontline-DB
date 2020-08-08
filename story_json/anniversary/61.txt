@@ -1,0 +1,1 @@
+[{"character":["STG44Mod"],"character_emotion":["0"],"speaker_name":"STG44","speaker":0,"bg":"96","text":"지휘관님, 3주년 축하드려요. 곧 시찰하러 가실 예정이죠?\n잠시만 기다려 주세요, 제복의 주름을 펴드릴게요. 모처럼의 기념일이잖아요."},{"character":["STG44Mod"],"character_emotion":["0"],"speaker_name":"STG44","speaker":0,"text":"으아아, 어, 얼굴이 너무 가까워요! 이러면 제 손가락이 말을 안 듣는단 말예요..."}]

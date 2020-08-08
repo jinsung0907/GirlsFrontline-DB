@@ -1,1 +1,1 @@
-[{"character":[""],"character_emotion":[""],"speaker_name":"公馆手记","speaker":0,"text":"XX月XX日 第二十七条\n不管做多少条婚纱，也都不会再有人会穿她们了，我究竟为了什么在制作婚纱呢？"}]
+[{"character":[""],"character_emotion":[""],"speaker_name":"필기","speaker":0,"text":"XX월 XX일, 27 페이지.\n아무리 드레스를 만들어봤자, 이젠 입어 줄 사람도 없다. 난 대체 뭣 때문에 여기서 이러고 있는 거지?"}]

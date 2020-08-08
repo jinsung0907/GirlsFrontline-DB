@@ -1,0 +1,1 @@
+[{"character":["Type64-AR"],"character_emotion":["0"],"speaker_name":"64식 소총","speaker":0,"bg":"96","text":"떠들썩한 곳에선 또 내가 잘 나가지. 마침 잘됐어.\n3주년 축하해, 지휘관. 내게 먼저 초대를 받은 감상은 어때? 나, 나도 가끔은 틀에서 벗어난 일을 해보고 싶었다고..."},{"character":["Type64-AR"],"character_emotion":["0"],"speaker_name":"64식 소총","speaker":0,"text":"응, 그 미소가 정말 마음에 들어."}]

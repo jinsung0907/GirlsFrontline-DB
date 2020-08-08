@@ -1,0 +1,1 @@
+[{"character":["M9"],"character_emotion":["0"],"speaker_name":"M9","speaker":0,"bg":"96","text":"흐흥~♪ 3주년처럼 이렇게 멋진 행사에는 역시 나 같은 초☆인기 아이돌이 분위기를 띄워 줘야 하는 거야!\n자 지휘관, 우리 함께 무대에서 반짝이는 거야!"},{"character":["M9"],"character_emotion":["0"],"speaker_name":"M9","speaker":0,"text":"더 가까이 붙는 거야! M1911이 못 끼어들게 하는 거야!"}]

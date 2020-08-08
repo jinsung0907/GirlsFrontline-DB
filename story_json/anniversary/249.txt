@@ -1,0 +1,1 @@
+[{"character":["Type62"],"character_emotion":["0"],"speaker_name":"62식","speaker":0,"bg":"96","text":"어... 저기, 지휘관...?\n엑, 내가 먼저 말해야 하는 거야? 주인공은 지휘관이잖아, 영화에선 여기서 주인공이 먼저 입을 연다고."},{"character":["Type62"],"character_emotion":["0"],"speaker_name":"62식","speaker":0,"text":"정말이지... 알았어. 3주년 축하해, 지휘관. 계속 힘내!"}]

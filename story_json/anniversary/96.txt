@@ -1,0 +1,1 @@
+[{"character":["Grizzly"],"character_emotion":["0"],"speaker_name":"그리즐리","speaker":0,"bg":"96","text":"지휘관, 3주년 축하해. 오늘밤에 예정 있어?\n물론 파티 말고. 없어? 정말로?"},{"character":["Grizzly"],"character_emotion":["0"],"speaker_name":"그리즐리","speaker":0,"text":"그럼 하는 수 없네, 내가 초대해 줘야지.\n1년에 단 하루뿐인 기념일을 혼자서 보내기는 너무 아깝잖아? 그러니까, 나랑 같이 드라이브하러 가자♪"}]

@@ -1,0 +1,1 @@
+[{"character":["SKS"],"character_emotion":["0"],"speaker_name":"시모노프","speaker":0,"bg":"96","text":"3주년 파티라... 엘리트 전술인형으로서의 내 소원은...\n작전 임무를 더 많이 받았으면 좋겠어!"},{"character":["SKS"],"character_emotion":["0"],"speaker_name":"시모노프","speaker":0,"text":"그러니까, 아무리 힘든 임무라도 걱정 말고 이 전문가한테 맡겨만 줘!"}]

@@ -1,0 +1,1 @@
+[{"character":["M249SAW"],"character_emotion":["0"],"speaker_name":"M249SAW","speaker":0,"bg":"96","text":"안녕 지휘관, 3주년 축하해.\n오늘은 기념일이니까, 내가 작은 선물을 준비했어. 너무 기대는 말고..."},{"character":["M249SAW"],"character_emotion":["0"],"speaker_name":"M249SAW","speaker":0,"text":"내가 요즘 모으는 털뭉치 브로치야. 코트에 걸어 줄게. 기분이 안 좋을 때 만져봐."}]

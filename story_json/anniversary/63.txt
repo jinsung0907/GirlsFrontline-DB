@@ -1,0 +1,1 @@
+[{"character":["G3Mod"],"character_emotion":["0"],"speaker_name":"G3","speaker":0,"bg":"96","text":"지휘관님, 3주년 기념 파티가 있는데도 업무 중이신 거예요?\n그럼 저도 도와드릴게요. 어차피 전 다른 인형들과 잘 어울리지도 못해서..."},{"character":["G3Mod"],"character_emotion":["0"],"speaker_name":"G3","speaker":0,"text":"괜찮아요, 저는 지휘관님께서 일하시는 모습을 지켜보는 것만으로도 즐거운걸요."}]

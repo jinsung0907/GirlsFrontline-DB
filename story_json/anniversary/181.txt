@@ -1,0 +1,1 @@
+[{"character":["T91"],"character_emotion":["0"],"speaker_name":"T91","speaker":0,"bg":"96","text":"이 특별한 날을 빌어, 진심을 담아 축하드립니다!\n지휘관, 3주년 축하드려요!\n풍요와 승리, 그리고 제가 항상 함께하겠습니다!"}]

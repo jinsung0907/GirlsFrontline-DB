@@ -1,0 +1,1 @@
+[{"character":["M3"],"character_emotion":["0"],"speaker_name":"M3","speaker":0,"bg":"96","text":"지, 지휘관님... 3주년 축하드립니다...\n그, 그게... 저..."},{"character":["M3"],"character_emotion":["0"],"speaker_name":"M3","speaker":0,"text":"올해에는... 보, 봉급을 좀... 올려 주실 수 있을까요...?"}]

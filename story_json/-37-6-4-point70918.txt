@@ -1,1 +1,1 @@
-[{"character":[""],"character_emotion":[""],"speaker_name":"公馆手记","speaker":0,"text":"XX月XX日 第三十九条\n或许我从一开始，就不需要能够理解我的人吧。\n孤芳自赏也未必不是好事。"}]
+[{"character":[""],"character_emotion":[""],"speaker_name":"필기","speaker":0,"text":"XX월 XX일, 39 페이지.\n어쩌면, 날 이해해 줄 수 있는 사람은 처음부터 필요 없었을지도 모르겠다.\n나 혼자서 내 걸작을 감상하는 것도 나쁘지 않다."}]

@@ -1,0 +1,1 @@
+[{"character":["UMP9Mod"],"character_emotion":["0"],"speaker_name":"UMP9","speaker":0,"bg":"96","text":"히히, 3주년 축하해 지휘관~\n혹시 내가 제일 처음으로 축하해 준 인형이야? 아니더라도 분명 가장 열정적으로 축하해 준 인형이지?\n지휘관이 지금 바쁘다니 긴 말은 생략할게!"},{"character":["UMP9Mod"],"character_emotion":["0"],"speaker_name":"UMP9","speaker":0,"text":"앞으로도 계속 곁에 있어 줘, 우리 가족~"}]

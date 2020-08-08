@@ -1,0 +1,1 @@
+[{"character":["FN49Mod"],"character_emotion":["0"],"speaker_name":"FN49","speaker":0,"bg":"96","text":"3주년 축하드려요, 지휘관님. 오늘 일정 어떻게 되세요?\n많이 바쁘지 않으시다면... 잠깐 제 요리 맛 좀 봐주실 수 있으세요?"},{"character":["FN49Mod"],"character_emotion":["0"],"speaker_name":"FN49","speaker":0,"text":"네? 제제제, 제가 먹여 달라고요? 어... 엄청 긴장되네요..."}]

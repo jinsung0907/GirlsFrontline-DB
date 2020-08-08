@@ -1,0 +1,1 @@
+[{"character":["PM9"],"character_emotion":["0"],"speaker_name":"PM-9","speaker":0,"bg":"96","text":"지휘관, 3주년 축하해!\n새로운 한 해에는 역시 새로운 필살기를 구상해야겠지? 지휘관이 항상 전술을 다듬는 것처럼 말이야."},{"character":["PM9"],"character_emotion":["0"],"speaker_name":"PM-9","speaker":0,"text":"좋았어! 새로운 시대의 개막을 위해, 내 축복을 담은 주먹을 받아라!"}]

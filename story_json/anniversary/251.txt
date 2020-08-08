@@ -1,0 +1,1 @@
+[{"character":["X95"],"character_emotion":["0"],"speaker_name":"X95","speaker":0,"bg":"96","text":"꽃은 영원히 피는 법 없이, 언젠가는 지기 마련이죠. 하지만 인간과 인형은 영원히 빛날 수 있어요.\n지휘관님은, 앞으로도 계속 저희에게 빛나는 모습을 보여 주시겠죠?"},{"character":["X95"],"character_emotion":["0"],"speaker_name":"X95","speaker":0,"text":"가슴을 펴고 당당히 모두의 축하를 받아 주세요. 3주년 축하드립니다."}]

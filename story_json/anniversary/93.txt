@@ -1,0 +1,1 @@
+[{"character":["IDWMod"],"character_emotion":["0"],"speaker_name":"IDW","speaker":0,"bg":"96","text":"IDW다냐아아아앙!!! 3주년 축하한다냥, 지휘관!\n지금 파티 준비 작업 시찰 중인 거냥? 그럼 바쁠 텐데 괜히 방해하지 않겠다냥."},{"character":["IDWMod"],"character_emotion":["0"],"speaker_name":"IDW","speaker":0,"text":"대신, 가기 전에 날 꼬오오옥 껴안아 달라냥! 냐하항~"}]

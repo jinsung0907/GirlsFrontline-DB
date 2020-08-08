@@ -1,0 +1,1 @@
+[{"character":["SAR21"],"character_emotion":["0"],"speaker_name":"SAR21","speaker":0,"bg":"1","text":"오늘은 날씨도 맑은 게 경치가 좋겠네요, 지휘관님.\n3주년 기념일인데, 파티가 있으니 당연히 맑은 날이어야죠. 나비와 새들도 함께 축하할 수 있도록요."},{"character":["SAR21"],"character_emotion":["0"],"speaker_name":"SAR21","speaker":0,"text":"아, 물론 회장에 고출력 조명을 틀지 않는다면 말이지만요..."}]

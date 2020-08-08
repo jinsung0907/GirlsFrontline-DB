@@ -1,0 +1,1 @@
+[{"character":["scout"],"character_emotion":["0"],"speaker_name":"스카웃","speaker":0,"bg":"96","text":"들었어, 지휘관?\n지금 트레포일이 지휘관한테 축하한다고 말했어."},{"character":["scout"],"character_emotion":["0"],"speaker_name":"스카웃","speaker":0,"text":"내가 할 말을 가로채다니... 3주년 축하해, 지휘관."}]

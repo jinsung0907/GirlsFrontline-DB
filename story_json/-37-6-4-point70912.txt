@@ -1,1 +1,1 @@
-[{"character":[""],"character_emotion":[""],"speaker_name":"公馆手记","speaker":0,"text":"XX月XX日 第三十三条\n我的婚纱无法被人所承认，我认定的美也只有我一个人在欣赏而已。"}]
+[{"character":[""],"character_emotion":[""],"speaker_name":"필기","speaker":0,"text":"XX월 XX일, 33 페이지.\n내 드레스는 아무도 이해하지 못할 거다. 내가 추구하는 아름다움은 오직 나만이 이해할 수 있다."}]

@@ -1,0 +1,1 @@
+[{"character":["MG42"],"character_emotion":["0"],"speaker_name":"MG42","speaker":0,"bg":"96","text":"지휘관님, 3주년 축하드려여! 이번엔 똑바로 인사한 거져?\n똑바로 안 하면 34 언니한테 또 혼날 거예여."},{"character":["MG42"],"character_emotion":["0"],"speaker_name":"MG42","speaker":0,"text":"아무튼 인사 제대로 드렸으니까, 전 이제 34 언니랑 같이 파티장으로 갈게여! 나중에 봐여, 지휘관님!"}]

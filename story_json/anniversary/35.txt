@@ -1,0 +1,1 @@
+[{"character":["M1A1"],"character_emotion":["0"],"speaker_name":"M1A1","speaker":0,"bg":"96","text":"개런드 씨, 여기 계세요? 아, 지휘관님...\n3주년 축하드려요. 그런데 혹시 개런드 씨 못 보셨나요?"},{"character":["M1A1"],"character_emotion":["0"],"speaker_name":"M1A1","speaker":0,"text":"같이 3주년 파티에 가기로 했는데..."}]
