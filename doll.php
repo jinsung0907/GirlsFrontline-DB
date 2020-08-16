@@ -698,12 +698,14 @@ $starttime = microtime(true);
 					<hr class="mt-1 mb-1">
 				</div>
 			</div>
+      <!--
 			<hr class="mt-1 mb-1">
 			<div style="position:relative">
 				<a id="desc_gitlink" target="_blank" class="btn btn-link m-0 p-0" style="position:absolute; right:0; top:0" href="https://github.com/jinsung0907/GFDB-character-description/blob/master/dolls/<?=$doll->id?>.txt"><i class="fab fa-github fa-fw"></i> <?=L::database_modify?></a>
 				<b><?=L::database_dollinfo?></b><br>
 				 <span id="doll_desc"><?=L::database_loading?></span>
 			</div>
+      -->
 			<hr class="mt-1 mb-1">
 			<div class="card card-body bg-light mt-3 p-2">
 				<?=L::database_introduce?> : <br><?=str_replace("\\n", "<br>" ,$introduce)?>
