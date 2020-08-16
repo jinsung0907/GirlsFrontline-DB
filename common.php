@@ -564,8 +564,6 @@ function getSkinStoryInfo($skins, $id) {
 //스토리용 인형 이미지 불러오기
 function getcharimgdir($str, $emo) {
 	$dolls = getJson('avgpic');
-	if($str == "FAL") $str = "FNFAL";
-	if($str == "MK2") $str = "StenMK2";
 	if($str == "에이전트") $str = "BOSS-8";
 	if($str == "RO") { $str = "RO635"; $emo = "0"; }
 	
