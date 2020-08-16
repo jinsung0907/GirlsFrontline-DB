@@ -134,7 +134,7 @@
 							}
 							$imgdir = getcharimgdir($char, $line->character_emotion[$i]);
 							if($imgdir != "" && $imgdir != "invisible") {
-								echo "<img class=\"storydoll $strnum $strcount\" src='img/$imgdir.png'>";
+								echo "<img class=\"storydoll $strnum $strcount\" src='img/$imgdir'>";
 							} 
 							else {
 								$imgdir = getcharimgdir_fairy($char, $line->character_emotion[$i]);

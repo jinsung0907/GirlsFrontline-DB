@@ -1,0 +1,5535 @@
+{
+	"357": {
+		"0": {
+			"path": "assets/characters/357/pic/pic_357.png"
+		},
+		"1": {
+			"path": "assets/characters/357/pic/pic_357_d.png"
+		}
+	},
+	"06typesmg": {
+		"0": {
+			"path": "assets/characters/06typesmg/pic/pic_06typesmg.png"
+		},
+		"1": {
+			"path": "assets/characters/06typesmg/pic/pic_06typesmg_d.png"
+		}
+	},
+	"4type": {
+		"0": {
+			"path": "assets/characters/4type/pic/pic_4type.png"
+		},
+		"1": {
+			"path": "assets/characters/4type/pic/pic_4type_d.png"
+		},
+		"2": {
+			"path": "assets/characters/4type_3505/pic/pic_4type_3505.png"
+		},
+		"3": {
+			"path": "assets/characters/4type_3505/pic/pic_4type_3505_d.png"
+		}
+	},
+	"56-1type": {
+		"0": {
+			"path": "assets/characters/56-1type/pic/pic_56-1type.png"
+		},
+		"1": {
+			"path": "assets/characters/56-1type/pic/pic_56-1type_d.png"
+		},
+		"2": {
+			"path": "assets/characters/56-1type_1905/pic/pic_56-1type_1905.png"
+		},
+		"3": {
+			"path": "assets/characters/56-1type_1905/pic/pic_56-1type_1905_d.png"
+		},
+		"4": {
+			"path": "assets/characters/56-1type_401/pic/pic_56-1type_401.png"
+		},
+		"5": {
+			"path": "assets/characters/56-1type_401/pic/pic_56-1type_401_d.png"
+		}
+	},
+	"56-1type_he": {
+		"4": {
+			"path": "assets/characters/56-1type_401/pic/pic_56-1type_401.png"
+		},
+		"5": {
+			"path": "assets/characters/56-1type_401/pic/pic_56-1type_401_d.png"
+		}
+	},
+	"56typer": {
+		"0": {
+			"path": "assets/characters/56typer/pic/pic_56typer.png"
+		},
+		"1": {
+			"path": "assets/characters/56typer/pic/pic_56typer_d.png"
+		}
+	},
+	"59type": {
+		"0": {
+			"path": "assets/characters/59type/pic/pic_59type.png"
+		},
+		"1": {
+			"path": "assets/characters/59type/pic/pic_59type_d.png"
+		},
+		"2": {
+			"path": "assets/characters/59type_407/pic/pic_59type_407.png"
+		},
+		"3": {
+			"path": "assets/characters/59type_407/pic/pic_59type_407_d.png"
+		}
+	},
+	"63type": {
+		"0": {
+			"path": "assets/characters/63type/pic/pic_63type.png"
+		},
+		"1": {
+			"path": "assets/characters/63type/pic/pic_63type_d.png"
+		}
+	},
+	"64type": {
+		"0": {
+			"path": "assets/characters/64type/pic/pic_64type.png"
+		},
+		"1": {
+			"path": "assets/characters/64type/pic/pic_64type_d.png"
+		},
+		"2": {
+			"path": "assets/characters/64type_11/pic/pic_64type_11.png"
+		},
+		"3": {
+			"path": "assets/characters/64type_11/pic/pic_64type_11_d.png"
+		}
+	},
+	"64typemod": {
+		"0": {
+			"path": "assets/characters/64typemod/pic/pic_64typemod.png"
+		},
+		"1": {
+			"path": "assets/characters/64typemod/pic/pic_64typemod.png"
+		}
+	},
+	"64type_he": {
+		"2": {
+			"path": "assets/characters/64type_11/pic/pic_64type_11.png"
+		},
+		"3": {
+			"path": "assets/characters/64type_11/pic/pic_64type_11_d.png"
+		}
+	},
+	"6p62": {
+		"0": {
+			"path": "assets/characters/6p62/pic/pic_6p62.png"
+		},
+		"1": {
+			"path": "assets/characters/6p62/pic/pic_6p62_d.png"
+		}
+	},
+	"79type": {
+		"0": {
+			"path": "assets/characters/79type/pic/pic_79type.png"
+		},
+		"1": {
+			"path": "assets/characters/79type/pic/pic_79type_d.png"
+		},
+		"2": {
+			"path": "assets/characters/79type_1402/pic/pic_79type_1402.png"
+		},
+		"3": {
+			"path": "assets/characters/79type_1402/pic/pic_79type_1402_d.png"
+		},
+		"4": {
+			"path": "assets/characters/79type_3306/pic/pic_79type_3306.png"
+		},
+		"5": {
+			"path": "assets/characters/79type_3306/pic/pic_79type_3306_d.png"
+		}
+	},
+	"79type_he": {
+		"0": {
+			"path": "assets/characters/79type/pic/pic_79type.png"
+		},
+		"1": {
+			"path": "assets/characters/79type/pic/pic_79type_d.png"
+		},
+		"4": {
+			"path": "assets/characters/79type_3306/pic/pic_79type_3306.png"
+		},
+		"5": {
+			"path": "assets/characters/79type_3306/pic/pic_79type_3306_d.png"
+		}
+	},
+	"80type": {
+		"0": {
+			"path": "assets/characters/80type/pic/pic_80type.png"
+		},
+		"1": {
+			"path": "assets/characters/80type/pic/pic_80type_d.png"
+		}
+	},
+	"81typer": {
+		"0": {
+			"path": "assets/characters/81typer/pic/pic_81typer.png"
+		},
+		"1": {
+			"path": "assets/characters/81typer/pic/pic_81typer_d.png"
+		},
+		"2": {
+			"path": "assets/characters/81typer_1807/pic/pic_81typer_1807.png"
+		},
+		"3": {
+			"path": "assets/characters/81typer_1807/pic/pic_81typer_1807_d.png"
+		}
+	},
+	"88type": {
+		"0": {
+			"path": "assets/characters/88type/pic/pic_88type.png"
+		},
+		"1": {
+			"path": "assets/characters/88type/pic/pic_88type_d.png"
+		}
+	},
+	"88typemod": {
+		"0": {
+			"path": "assets/characters/88typemod/pic/pic_88typemod.png"
+		},
+		"1": {
+			"path": "assets/characters/88typemod/pic/pic_88typemod_d.png"
+		}
+	},
+	"88typepilot": {
+		"0": {
+			"path": "assets/characters/88typemod/pic/pic_88typepilot.png"
+		}
+	},
+	"92type": {
+		"0": {
+			"path": "assets/characters/92type/pic/pic_92type.png"
+		},
+		"1": {
+			"path": "assets/characters/92type/pic/pic_92type_d.png"
+		}
+	},
+	"95type": {
+		"0": {
+			"path": "assets/characters/95type/pic/pic_95type.png"
+		},
+		"1": {
+			"path": "assets/characters/95type/pic/pic_95type_d.png"
+		},
+		"2": {
+			"path": "assets/characters/95type_1102/pic/pic_95type_1102.png"
+		},
+		"3": {
+			"path": "assets/characters/95type_1102/pic/pic_95type_1102_d.png"
+		},
+		"4": {
+			"path": "assets/characters/95type_405/pic/pic_95type_405.png"
+		},
+		"5": {
+			"path": "assets/characters/95type_405/pic/pic_95type_405_d.png"
+		}
+	},
+	"95type_he": {
+		"4": {
+			"path": "assets/characters/95type_405/pic/pic_95type_405.png"
+		},
+		"5": {
+			"path": "assets/characters/95type_405/pic/pic_95type_405_d.png"
+		}
+	},
+	"97type": {
+		"0": {
+			"path": "assets/characters/97type/pic/pic_97type.png"
+		},
+		"1": {
+			"path": "assets/characters/97type/pic/pic_97type_d.png"
+		},
+		"2": {
+			"path": "assets/characters/97type_406/pic/pic_97type_406.png"
+		},
+		"3": {
+			"path": "assets/characters/97type_406/pic/pic_97type_406_d.png"
+		}
+	},
+	"97types": {
+		"0": {
+			"path": "assets/characters/97types/pic/pic_97types.png"
+		},
+		"1": {
+			"path": "assets/characters/97types/pic/pic_97types_d.png"
+		},
+		"2": {
+			"path": "assets/characters/97types_3807/pic/pic_97types_3807.png"
+		},
+		"3": {
+			"path": "assets/characters/97types_3807/pic/pic_97types_3807_d.png"
+		}
+	},
+	"98k": {
+		"0": {
+			"path": "assets/characters/98k/pic/pic_98k.png"
+		},
+		"1": {
+			"path": "assets/characters/98k/pic/pic_98k_d.png"
+		}
+	},
+	"9a91": {
+		"0": {
+			"path": "assets/characters/9a91/pic/pic_9a91.png"
+		},
+		"1": {
+			"path": "assets/characters/9a91/pic/pic_9a91_d.png"
+		},
+		"2": {
+			"path": "assets/characters/9a91_1302/pic/pic_9a91_1302.png"
+		},
+		"3": {
+			"path": "assets/characters/9a91_1302/pic/pic_9a91_1302_d.png"
+		}
+	},
+	"a91": {
+		"0": {
+			"path": "assets/characters/a91/pic/pic_a91.png"
+		},
+		"1": {
+			"path": "assets/characters/a91/pic/pic_a91_d.png"
+		}
+	},
+	"aa12": {
+		"0": {
+			"path": "assets/characters/aa12/pic/pic_aa12.png"
+		},
+		"1": {
+			"path": "assets/characters/aa12/pic/pic_aa12_d.png"
+		},
+		"2": {
+			"path": "assets/characters/aa12_2403/pic/pic_aa12_2403.png"
+		},
+		"3": {
+			"path": "assets/characters/aa12_2403/pic/pic_aa12_2403_d.png"
+		}
+	},
+	"aat52": {
+		"0": {
+			"path": "assets/characters/aat52/pic/pic_aat52.png"
+		},
+		"1": {
+			"path": "assets/characters/aat52/pic/pic_aat52_d.png"
+		}
+	},
+	"abandonedisomer": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/abandoned_isomer.png"
+		}
+	},
+	"acr": {
+		"0": {
+			"path": "assets/characters/acr/pic/pic_acr.png"
+		},
+		"1": {
+			"path": "assets/characters/acr/pic/pic_acr_d.png"
+		}
+	},
+	"ads": {
+		"0": {
+			"path": "assets/characters/ads/pic/pic_ads.png"
+		},
+		"1": {
+			"path": "assets/characters/ads/pic/pic_ads_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ads_3601/pic/pic_ads_3601.png"
+		},
+		"3": {
+			"path": "assets/characters/ads_3601/pic/pic_ads_3601_d.png"
+		}
+	},
+	"aek999": {
+		"0": {
+			"path": "assets/characters/aek999/pic/pic_aek999.png"
+		},
+		"1": {
+			"path": "assets/characters/aek999/pic/pic_aek999_d.png"
+		},
+		"2": {
+			"path": "assets/characters/aek999_1505/pic/pic_aek999_1505.png"
+		},
+		"3": {
+			"path": "assets/characters/aek999_1505/pic/pic_aek999_1505_d.png"
+		}
+	},
+	"ak12": {
+		"0": {
+			"path": "assets/characters/ak12/pic/pic_ak12.png"
+		},
+		"1": {
+			"path": "assets/characters/ak12/pic/pic_ak12_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ak12/pic/ak12_angry.png"
+		},
+		"3": {
+			"path": "assets/characters/ak12/pic/ak12_battle.png"
+		},
+		"4": {
+			"path": "assets/characters/ak12/pic/ak12_laugh.png"
+		},
+		"5": {
+			"path": "assets/characters/ak12_2402/pic/pic_ak12_2402.png"
+		},
+		"6": {
+			"path": "assets/characters/ak12_2402/pic/pic_ak12_2402_d.png"
+		},
+		"7": {
+			"path": "assets/characters/ak12/pic/pic_ak12_2402_story.png"
+		},
+		"8": {
+			"path": "assets/characters/ak12_3302/pic/pic_ak12_3302_original.png"
+		},
+		"9": {
+			"path": "assets/characters/ak12_3302/pic/pic_ak12_3302_d.png"
+		},
+		"10": {
+			"path": "assets/characters/ak12_3302/pic/pic_ak12_3302_story.png"
+		},
+		"11": {
+			"path": "assets/characters/ak12_3302/pic/pic_ak12_3302_original.png"
+		}
+	},
+	"ak15": {
+		"0": {
+			"path": "assets/characters/ak15/pic/pic_ak15.png"
+		},
+		"1": {
+			"path": "assets/characters/ak15/pic/pic_ak15_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ak15/pic/pic_ak15_eyes2.png"
+		},
+		"3": {
+			"path": "assets/characters/ak15/pic/pic_ak15_eyes3.png"
+		},
+		"4": {
+			"path": "assets/characters/ak15/pic/pic_ak15_eyes4.png"
+		},
+		"5": {
+			"path": "assets/characters/ak15/pic/pic_ak15_eyes5.png"
+		}
+	},
+	"ak47": {
+		"0": {
+			"path": "assets/characters/ak47/pic/pic_ak47.png"
+		},
+		"1": {
+			"path": "assets/characters/ak47/pic/pic_ak47_d.png"
+		}
+	},
+	"ak5": {
+		"0": {
+			"path": "assets/characters/ak5/pic/pic_ak5.png"
+		},
+		"1": {
+			"path": "assets/characters/ak5/pic/pic_ak5_d.png"
+		}
+	},
+	"ak74u": {
+		"0": {
+			"path": "assets/characters/ak74u/pic/pic_ak74u.png"
+		},
+		"1": {
+			"path": "assets/characters/ak74u/pic/pic_ak74u_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ak74u_3002/pic/pic_ak74u_3002.png"
+		},
+		"3": {
+			"path": "assets/characters/ak74u_3002/pic/pic_ak74u_3002_d.png"
+		}
+	},
+	"akalfa": {
+		"0": {
+			"path": "assets/characters/akalfa/pic/pic_akalfa.png"
+		},
+		"1": {
+			"path": "assets/characters/akalfa/pic/pic_akalfa_d.png"
+		}
+	},
+	"alma": {
+		"0": {
+			"path": "assets/characters/alma/pic/pic_alma.png"
+		},
+		"1": {
+			"path": "assets/characters/alma/pic/pic_alma_d.png"
+		},
+		"2": {
+			"path": "assets/characters/alma/pic/pic_alma_normal.png"
+		},
+		"3": {
+			"path": "assets/characters/alma/pic/pic_alma_amazed.png"
+		},
+		"4": {
+			"path": "assets/characters/alma/pic/pic_alma_sad.png"
+		}
+	},
+	"ameli": {
+		"0": {
+			"path": "assets/characters/ameli/pic/pic_ameli.png"
+		},
+		"1": {
+			"path": "assets/characters/ameli/pic/pic_ameli_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ameli_1605/pic/pic_ameli_1605.png"
+		},
+		"3": {
+			"path": "assets/characters/ameli_1605/pic/pic_ameli_1605_d.png"
+		},
+		"4": {
+			"path": "assets/characters/ameli_2409/pic/pic_ameli_2409.png"
+		},
+		"5": {
+			"path": "assets/characters/ameli_2409/pic/pic_ameli_2409_d.png"
+		}
+	},
+	"an94": {
+		"0": {
+			"path": "assets/characters/an94/pic/pic_an94.png"
+		},
+		"1": {
+			"path": "assets/characters/an94/pic/pic_an94_d.png"
+		},
+		"2": {
+			"path": "assets/characters/an94/pic/an94_angry.png"
+		},
+		"3": {
+			"path": "assets/characters/an94/pic/an94_laugh.png"
+		},
+		"4": {
+			"path": "assets/characters/an94/pic/an94_sad.png"
+		},
+		"5": {
+			"path": "assets/characters/an94/pic/an94_surprise.png"
+		},
+		"6": {
+			"path": "assets/characters/an94_2404/pic/pic_an94_2404.png"
+		},
+		"7": {
+			"path": "assets/characters/an94_2404/pic/pic_an94_2404_d.png"
+		},
+		"8": {
+			"path": "assets/characters/an94_3303/pic/pic_an94_3303.png"
+		},
+		"9": {
+			"path": "assets/characters/an94_3303/pic/pic_an94_3303_d.png"
+		},
+		"10": {
+			"path": "assets/characters/an94_3303/pic/pic_an94_3303_story.png"
+		}
+	},
+	"angelica": {
+		"0": {
+			"path": "assets/characters/angelica/pic/pic_angelica.png"
+		},
+		"1": {
+			"path": "assets/characters/angelica/pic/pic_angelica_d.png"
+		},
+		"2": {
+			"path": "assets/characters/angelica_543/pic/pic_angelica_543.png"
+		},
+		"3": {
+			"path": "assets/characters/angelica_543/pic/pic_angelica_543_d.png"
+		}
+	},
+	"aps": {
+		"0": {
+			"path": "assets/characters/aps/pic/pic_aps.png"
+		},
+		"1": {
+			"path": "assets/characters/aps/pic/pic_aps_d.png"
+		}
+	},
+	"apsmod": {
+		"0": {
+			"path": "assets/characters/apsmod/pic/pic_apsmod.png"
+		},
+		"1": {
+			"path": "assets/characters/apsmod/pic/pic_apsmod_d.png"
+		}
+	},
+	"ar": {
+		"0": {
+			"path": "assets/characters/ar/pic/pic_ar.png"
+		},
+		"1": {
+			"path": "assets/characters/ar/pic/pic_ar_d.png"
+		}
+	},
+	"ar15": {
+		"0": {
+			"path": "assets/characters/ar15/pic/pic_ar15.png"
+		},
+		"1": {
+			"path": "assets/characters/ar15/pic/pic_ar15_d.png"
+		},
+		"2": {
+			"path": "assets/characters/special/ar15_t.png"
+		},
+		"3": {
+			"path": "assets/characters/special/ar15_t.png"
+		}
+	},
+	"ar15mod": {
+		"0": {
+			"path": "assets/characters/ar15mod/pic/pic_ar15mod.png"
+		},
+		"1": {
+			"path": "assets/characters/ar15mod/pic/pic_ar15mod_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ar15mod/pic/ar15mod_伤心.png"
+		},
+		"3": {
+			"path": "assets/characters/ar15mod/pic/ar15mod_微笑.png"
+		},
+		"4": {
+			"path": "assets/characters/ar15mod/pic/ar15mod_无奈.png"
+		},
+		"5": {
+			"path": "assets/characters/ar15mod/pic/ar15mod_紧张.png"
+		}
+	},
+	"ar70": {
+		"0": {
+			"path": "assets/characters/ar70/pic/pic_ar70.png"
+		},
+		"1": {
+			"path": "assets/characters/ar70/pic/pic_ar70_d.png"
+		}
+	},
+	"art556": {
+		"0": {
+			"path": "assets/characters/art556/pic/pic_art556.png"
+		},
+		"1": {
+			"path": "assets/characters/art556/pic/pic_art556_d.png"
+		},
+		"2": {
+			"path": "assets/characters/art556_1803/pic/pic_art556_1803.png"
+		},
+		"3": {
+			"path": "assets/characters/art556_1803/pic/pic_art556_1803_d.png"
+		},
+		"4": {
+			"path": "assets/characters/art556_2803/pic/pic_art556_2803.png"
+		},
+		"5": {
+			"path": "assets/characters/art556_2803/pic/pic_art556_2803_d.png"
+		}
+	},
+	"art556_he": {
+		"0": {
+			"path": "assets/characters/art556/pic/pic_art556.png"
+		},
+		"1": {
+			"path": "assets/characters/art556/pic/pic_art556_d.png"
+		},
+		"4": {
+			"path": "assets/characters/art556_2803/pic/pic_art556_2803.png"
+		},
+		"5": {
+			"path": "assets/characters/art556_2803/pic/pic_art556_2803_d.png"
+		}
+	},
+	"arx160": {
+		"0": {
+			"path": "assets/characters/arx160/pic/pic_arx160.png"
+		},
+		"1": {
+			"path": "assets/characters/arx160/pic/pic_arx160_d.png"
+		}
+	},
+	"ash127": {
+		"0": {
+			"path": "assets/characters/ash127/pic/pic_ash127.png"
+		},
+		"1": {
+			"path": "assets/characters/ash127/pic/pic_ash127_d.png"
+		}
+	},
+	"asval": {
+		"0": {
+			"path": "assets/characters/asval/pic/pic_asval.png"
+		},
+		"1": {
+			"path": "assets/characters/asval/pic/pic_asval_d.png"
+		},
+		"2": {
+			"path": "assets/characters/asval_2907/pic/pic_asval_2907.png"
+		},
+		"3": {
+			"path": "assets/characters/asval_2907/pic/pic_asval_2907_d.png"
+		}
+	},
+	"asvalmod": {
+		"0": {
+			"path": "assets/characters/asvalmod/pic/pic_asvalmod.png"
+		},
+		"1": {
+			"path": "assets/characters/asvalmod/pic/pic_asvalmod_d.png"
+		}
+	},
+	"asval_he": {
+		"2": {
+			"path": "assets/characters/asval_2907/pic/pic_asval_2907.png"
+		},
+		"3": {
+			"path": "assets/characters/asval_2907/pic/pic_asval_2907_d.png"
+		}
+	},
+	"aug": {
+		"0": {
+			"path": "assets/characters/aug/pic/pic_aug.png"
+		},
+		"1": {
+			"path": "assets/characters/aug/pic/pic_aug_d.png"
+		}
+	},
+	"ballista": {
+		"0": {
+			"path": "assets/characters/ballista/pic/pic_ballista.png"
+		},
+		"1": {
+			"path": "assets/characters/ballista/pic/pic_ballista_d.png"
+		}
+	},
+	"bb_noel": {
+		"0": {
+			"path": "assets/characters/bb_noel/pic/pic_bb_noel.png"
+		},
+		"1": {
+			"path": "assets/characters/bb_noel/pic/pic_bb_noel_d.png"
+		},
+		"2": {
+			"path": "assets/characters/bb_noel/pic/pic_bb_noel_1.png"
+		}
+	},
+	"bb_noel_503": {
+		"0": {
+			"path": "assets/characters/bb_noel_503/pic/pic_bb_noel_503.png"
+		},
+		"1": {
+			"path": "assets/characters/bb_noel_503/pic/pic_bb_noel_503_d.png"
+		}
+	},
+	"beak_m16": {
+		"0": {
+			"path": "assets/characters/bossbeak/pic/beak_m16.png"
+		}
+	},
+	"bm59": {
+		"0": {
+			"path": "assets/characters/bm59/pic/pic_bm59.png"
+		},
+		"1": {
+			"path": "assets/characters/bm59/pic/pic_bm59_d.png"
+		}
+	},
+	"boss-1": {
+		"0": {
+			"path": "assets/characters/bossscarecrow/pic/scarecrow.png"
+		}
+	},
+	"boss-10": {
+		"0": {
+			"path": "assets/characters/boss/boss-10.png"
+		}
+	},
+	"boss-11": {
+		"0": {
+			"path": "assets/characters/boss/boss-11.png"
+		}
+	},
+	"boss-12": {
+		"0": {
+			"path": "assets/characters/boss/伊莱莎无武器.png"
+		}
+	},
+	"boss-2": {
+		"0": {
+			"path": "assets/characters/bossexcutioner/pic/excutioner.png"
+		},
+		"1": {
+			"path": "assets/characters/bossexcutioner/pic/excutioner.png"
+		},
+		"2": {
+			"path": "assets/characters/bossexcutioner/pic/excutionerelite.png"
+		}
+	},
+	"boss-3": {
+		"0": {
+			"path": "assets/characters/bosshunter/pic/hunter.png"
+		},
+		"1": {
+			"path": "assets/characters/bosshunter/pic/hunterelite.png"
+		}
+	},
+	"boss-4": {
+		"0": {
+			"path": "assets/characters/bossintruder/pic/intruder.png"
+		}
+	},
+	"boss-5": {
+		"0": {
+			"path": "assets/characters/boss/boss-6.png"
+		}
+	},
+	"boss-6": {
+		"0": {
+			"path": "assets/characters/bossdestroyer/pic/destroyer.png"
+		}
+	},
+	"boss-7": {
+		"0": {
+			"path": "assets/characters/boss/boss-7.png"
+		}
+	},
+	"boss-8": {
+		"0": {
+			"path": "assets/characters/boss/boss-8.png"
+		}
+	},
+	"boss-9": {
+		"0": {
+			"path": "assets/characters/boss/boss-9.png"
+		}
+	},
+	"bosscerberus": {
+		"0": {
+			"path": "assets/characters/bosscerberus/pic/cerberus.png"
+		}
+	},
+	"bossdestroyerplus": {
+		"0": {
+			"path": "assets/characters/bossdestroyerplus/pic/destroyerplus.png"
+		}
+	},
+	"bossjustice": {
+		"0": {
+			"path": "assets/characters/bossjustice/pic/bossjustice.png"
+		}
+	},
+	"brenmk": {
+		"0": {
+			"path": "assets/characters/brenmk/pic/pic_brenmk.png"
+		},
+		"1": {
+			"path": "assets/characters/brenmk/pic/pic_brenmk_d.png"
+		},
+		"2": {
+			"path": "assets/characters/brenmk_2605/pic/pic_brenmk_2605.png"
+		},
+		"3": {
+			"path": "assets/characters/brenmk_2605/pic/pic_brenmk_2605_d.png"
+		}
+	},
+	"brenmkmod": {
+		"0": {
+			"path": "assets/characters/brenmkmod/pic/pic_brenmkmod.png"
+		},
+		"1": {
+			"path": "assets/characters/brenmkmod/pic/pic_brenmkmod_d.png"
+		}
+	},
+	"brenten": {
+		"0": {
+			"path": "assets/characters/brenten/pic/pic_brenten.png"
+		},
+		"1": {
+			"path": "assets/characters/brenten/pic/pic_brenten_d.png"
+		}
+	},
+	"bronya": {
+		"0": {
+			"path": "assets/characters/bronya/pic/pic_bronya.png"
+		},
+		"1": {
+			"path": "assets/characters/bronya/pic/pic_bronya_d.png"
+		}
+	},
+	"browninghp": {
+		"0": {
+			"path": "assets/characters/browninghp/pic/pic_browninghp.png"
+		},
+		"1": {
+			"path": "assets/characters/browninghp/pic/pic_browninghp_d.png"
+		}
+	},
+	"c14": {
+		"0": {
+			"path": "assets/characters/c14/pic/pic_c14.png"
+		},
+		"1": {
+			"path": "assets/characters/c14/pic/pic_c14_d.png"
+		}
+	},
+	"c93": {
+		"0": {
+			"path": "assets/characters/c93/pic/pic_c93.png"
+		},
+		"1": {
+			"path": "assets/characters/c93/pic/pic_c93_d.png"
+		}
+	},
+	"c96": {
+		"0": {
+			"path": "assets/characters/c96/pic/pic_c96.png"
+		},
+		"1": {
+			"path": "assets/characters/c96/pic/pic_c96_d.png"
+		}
+	},
+	"c96mod": {
+		"0": {
+			"path": "assets/characters/c96mod/pic/pic_c96mod.png"
+		},
+		"1": {
+			"path": "assets/characters/c96mod/pic/pic_c96mod_d.png"
+		}
+	},
+	"car": {
+		"0": {
+			"path": "assets/characters/car/pic/pic_car.png"
+		},
+		"1": {
+			"path": "assets/characters/car/pic/pic_car_d.png"
+		}
+	},
+	"carcano1891": {
+		"0": {
+			"path": "assets/characters/carcano1891/pic/pic_carcano1891.png"
+		},
+		"1": {
+			"path": "assets/characters/carcano1891/pic/pic_carcano1891_d.png"
+		},
+		"2": {
+			"path": "assets/characters/carcano1891_2201/pic/pic_carcano1891_2201.png"
+		},
+		"3": {
+			"path": "assets/characters/carcano1891_2201/pic/pic_carcano1891_2201_d.png"
+		}
+	},
+	"carcano1938": {
+		"0": {
+			"path": "assets/characters/carcano1938/pic/pic_carcano1938.png"
+		},
+		"1": {
+			"path": "assets/characters/carcano1938/pic/pic_carcano1938_d.png"
+		},
+		"2": {
+			"path": "assets/characters/carcano1938_2202/pic/pic_carcano1938_2202.png"
+		},
+		"3": {
+			"path": "assets/characters/carcano1938_2202/pic/pic_carcano1938_2202_d.png"
+		}
+	},
+	"cbjms": {
+		"0": {
+			"path": "assets/characters/cbjms/pic/pic_cbjms.png"
+		},
+		"1": {
+			"path": "assets/characters/cbjms/pic/pic_cbjms_d.png"
+		},
+		"2": {
+			"path": "assets/characters/cbjms_2205/pic/pic_cbjms_2205.png"
+		},
+		"3": {
+			"path": "assets/characters/cbjms_2205/pic/pic_cbjms_2205_d.png"
+		},
+		"4": {
+			"path": "assets/characters/cbjms_3503/pic/pic_cbjms_3503.png"
+		},
+		"5": {
+			"path": "assets/characters/cbjms_3503/pic/pic_cbjms_3503_d.png"
+		}
+	},
+	"cetme556": {
+		"0": {
+			"path": "assets/characters/cetme556/pic/pic_cetme556.png"
+		},
+		"1": {
+			"path": "assets/characters/cetme556/pic/pic_cetme556_d.png"
+		},
+		"2": {
+			"path": "assets/characters/cetme556_3809/pic/pic_cetme556_3809.png"
+		},
+		"3": {
+			"path": "assets/characters/cetme556_3809/pic/pic_cetme556_3809_d.png"
+		}
+	},
+	"chauchatm1915": {
+		"0": {
+			"path": "assets/characters/chauchatm1915/pic/pic_chauchatm1915.png"
+		},
+		"1": {
+			"path": "assets/characters/chauchatm1915/pic/pic_chauchatm1915_d.png"
+		}
+	},
+	"claes": {
+		"0": {
+			"path": "assets/characters/claes/pic/pic_claes.png"
+		},
+		"1": {
+			"path": "assets/characters/claes/pic/pic_claes_d.png"
+		},
+		"2": {
+			"path": "assets/characters/claes_545/pic/pic_claes_545.png"
+		},
+		"3": {
+			"path": "assets/characters/claes_545/pic/pic_claes_545_d.png"
+		}
+	},
+	"clear": {
+		"0": {
+			"path": "assets/characters/clear/pic/pic_clear.png"
+		},
+		"1": {
+			"path": "assets/characters/clear/pic/pic_clear_d.png"
+		}
+	},
+	"coltdefender": {
+		"0": {
+			"path": "assets/characters/coltdefender/pic/pic_coltdefender.png"
+		},
+		"1": {
+			"path": "assets/characters/coltdefender/pic/pic_coltdefender_d.png"
+		}
+	},
+	"coltscw": {
+		"0": {
+			"path": "assets/characters/coltscw/pic/pic_coltscw.png"
+		},
+		"1": {
+			"path": "assets/characters/coltscw/pic/pic_coltscw_d.png"
+		}
+	},
+	"contender": {
+		"0": {
+			"path": "assets/characters/contender/pic/pic_contender.png"
+		},
+		"1": {
+			"path": "assets/characters/contender/pic/pic_contender_d.png"
+		},
+		"2": {
+			"path": "assets/characters/contender_1502/pic/pic_contender_1502.png"
+		},
+		"3": {
+			"path": "assets/characters/contender_1502/pic/pic_contender_1502_d.png"
+		},
+		"4": {
+			"path": "assets/characters/contender_2302/pic/pic_contender_2302.png"
+		},
+		"5": {
+			"path": "assets/characters/contender_2302/pic/pic_contender_2302_d.png"
+		}
+	},
+	"cr21": {
+		"0": {
+			"path": "assets/characters/cr21/pic/pic_cr21.png"
+		},
+		"1": {
+			"path": "assets/characters/cr21/pic/pic_cr21_d.png"
+		}
+	},
+	"cx4storm": {
+		"0": {
+			"path": "assets/characters/cx4storm/pic/pic_cx4storm.png"
+		},
+		"1": {
+			"path": "assets/characters/cx4storm/pic/pic_cx4storm_d.png"
+		}
+	},
+	"cz2000": {
+		"0": {
+			"path": "assets/characters/cz2000/pic/pic_cz2000.png"
+		},
+		"1": {
+			"path": "assets/characters/cz2000/pic/pic_cz2000_d.png"
+		}
+	},
+	"cz52": {
+		"0": {
+			"path": "assets/characters/cz52/pic/pic_cz52.png"
+		},
+		"1": {
+			"path": "assets/characters/cz52/pic/pic_cz52_d.png"
+		},
+		"2": {
+			"path": "assets/characters/cz52_3007/pic/pic_cz52_3007.png"
+		},
+		"3": {
+			"path": "assets/characters/cz52_3007/pic/pic_cz52_3007_d.png"
+		}
+	},
+	"cz75": {
+		"0": {
+			"path": "assets/characters/cz75/pic/pic_cz75.png"
+		},
+		"1": {
+			"path": "assets/characters/cz75/pic/pic_cz75_d.png"
+		},
+		"2": {
+			"path": "assets/characters/cz75_1604/pic/pic_cz75_1604.png"
+		},
+		"3": {
+			"path": "assets/characters/cz75_1604/pic/pic_cz75_1604_d.png"
+		},
+		"4": {
+			"path": "assets/characters/cz75_3005/pic/pic_cz75_3005.png"
+		},
+		"5": {
+			"path": "assets/characters/cz75_3005/pic/pic_cz75_3005_d.png"
+		}
+	},
+	"cz805": {
+		"0": {
+			"path": "assets/characters/cz805/pic/pic_cz805.png"
+		},
+		"1": {
+			"path": "assets/characters/cz805/pic/pic_cz805_d.png"
+		}
+	},
+	"dana": {
+		"0": {
+			"path": "assets/characters/dana/pic/pic_dana.png"
+		},
+		"1": {
+			"path": "assets/characters/dana/pic/pic_dana_d.png"
+		},
+		"2": {
+			"path": "assets/characters/dana/pic/pic_dana_serious.png"
+		},
+		"3": {
+			"path": "assets/characters/dana/pic/pic_dana_smile.png"
+		}
+	},
+	"danuvia43m": {
+		"0": {
+			"path": "assets/characters/danuvia43m/pic/pic_danuvia43m.png"
+		},
+		"1": {
+			"path": "assets/characters/danuvia43m/pic/pic_danuvia43m_d.png"
+		}
+	},
+	"deserteagle": {
+		"0": {
+			"path": "assets/characters/deserteagle/pic/pic_deserteagle.png"
+		},
+		"1": {
+			"path": "assets/characters/deserteagle/pic/pic_deserteagle_d.png"
+		}
+	},
+	"dorothy": {
+		"0": {
+			"path": "assets/characters/dorothy/pic/pic_dorothy.png"
+		},
+		"1": {
+			"path": "assets/characters/dorothy/pic/pic_dorothy_d.png"
+		},
+		"2": {
+			"path": "assets/characters/dorothy/pic/pic_dorothy_cry.png"
+		},
+		"3": {
+			"path": "assets/characters/dorothy/pic/pic_dorothy_fear.png"
+		},
+		"4": {
+			"path": "assets/characters/dorothy/pic/pic_dorothy_sad.png"
+		},
+		"5": {
+			"path": "assets/characters/dorothy/pic/pic_dorothy_shy.png"
+		},
+		"6": {
+			"path": "assets/characters/dorothy/pic/pic_dorothy_smile.png"
+		}
+	},
+	"dp12": {
+		"0": {
+			"path": "assets/characters/dp12/pic/pic_dp12.png"
+		},
+		"1": {
+			"path": "assets/characters/dp12/pic/pic_dp12_d.png"
+		},
+		"2": {
+			"path": "assets/characters/dp12_4201/pic/pic_dp12_4201.png"
+		},
+		"3": {
+			"path": "assets/characters/dp12_4201/pic/pic_dp12_4201_d.png"
+		}
+	},
+	"dp28": {
+		"0": {
+			"path": "assets/characters/dp28/pic/pic_dp28.png"
+		},
+		"1": {
+			"path": "assets/characters/dp28/pic/pic_dp28_d.png"
+		}
+	},
+	"dsr50": {
+		"0": {
+			"path": "assets/characters/dsr50/pic/pic_dsr50.png"
+		},
+		"1": {
+			"path": "assets/characters/dsr50/pic/pic_dsr50_d.png"
+		},
+		"2": {
+			"path": "assets/characters/dsr50_1801/pic/pic_dsr50_1801.png"
+		},
+		"3": {
+			"path": "assets/characters/dsr50_1801/pic/pic_dsr50_1801_d.png"
+		},
+		"4": {
+			"path": "assets/characters/dsr50_2101/pic/pic_dsr50_2101.png"
+		},
+		"5": {
+			"path": "assets/characters/dsr50_2101/pic/pic_dsr50_2101_d.png"
+		}
+	},
+	"dsr50_he": {
+		"0": {
+			"path": "assets/characters/dsr50/pic/pic_dsr50.png"
+		},
+		"1": {
+			"path": "assets/characters/dsr50/pic/pic_dsr50_d.png"
+		}
+	},
+	"dtasrs": {
+		"0": {
+			"path": "assets/characters/dtasrs/pic/pic_dtasrs.png"
+		},
+		"1": {
+			"path": "assets/characters/dtasrs/pic/pic_dtasrs_d.png"
+		}
+	},
+	"em2": {
+		"0": {
+			"path": "assets/characters/em2/pic/pic_em2.png"
+		},
+		"1": {
+			"path": "assets/characters/em2/pic/pic_em2_d.png"
+		},
+		"2": {
+			"path": "assets/characters/em2_4209/pic/pic_em2_4209.png"
+		},
+		"3": {
+			"path": "assets/characters/em2_4209/pic/pic_em2_4209_d.png"
+		}
+	},
+	"evo3": {
+		"0": {
+			"path": "assets/characters/evo3/pic/pic_evo3.png"
+		},
+		"1": {
+			"path": "assets/characters/evo3/pic/pic_evo3_d.png"
+		},
+		"2": {
+			"path": "assets/characters/evo3_2109/pic/pic_evo3_2109.png"
+		},
+		"3": {
+			"path": "assets/characters/evo3_2109/pic/pic_evo3_2109_d.png"
+		}
+	},
+	"evo3_he": {
+		"2": {
+			"path": "assets/characters/evo3_2109/pic/pic_evo3_2109.png"
+		},
+		"3": {
+			"path": "assets/characters/evo3_2109/pic/pic_evo3_2109_d.png"
+		}
+	},
+	"excutionerelite": {
+		"0": {
+			"path": "assets/characters/bossexcutioner/pic/excutionerelite.png"
+		},
+		"1": {
+			"path": "assets/characters/bossexcutioner/pic/excutionerelite_2.png"
+		}
+	},
+	"f1": {
+		"0": {
+			"path": "assets/characters/f1/pic/pic_f1.png"
+		},
+		"1": {
+			"path": "assets/characters/f1/pic/pic_f1_d.png"
+		},
+		"2": {
+			"path": "assets/characters/f1_2606/pic/pic_f1_2606.png"
+		},
+		"3": {
+			"path": "assets/characters/f1_2606/pic/pic_f1_2606_d.png"
+		}
+	},
+	"f2000": {
+		"0": {
+			"path": "assets/characters/f2000/pic/pic_f2000.png"
+		},
+		"1": {
+			"path": "assets/characters/f2000/pic/pic_f2000_d.png"
+		}
+	},
+	"fail": {
+		"0": {
+			"path": "assets/characters/fail/pic/pic_fail.png"
+		},
+		"1": {
+			"path": "assets/characters/fail/pic/pic_fail_d.png"
+		}
+	},
+	"fal": {
+		"0": {
+			"path": "assets/characters/fnfal/pic/pic_fnfal.png"
+		},
+		"1": {
+			"path": "assets/characters/fnfal/pic/pic_fnfal_d.png"
+		},
+		"2": {
+			"path": "assets/characters/fnfal_308/pic/pic_fnfal_308.png"
+		},
+		"3": {
+			"path": "assets/characters/fnfal_308/pic/pic_fnfal_308_d.png"
+		},
+		"4": {
+			"path": "assets/characters/fnfal_2406/pic/pic_fnfal_2406.png"
+		},
+		"5": {
+			"path": "assets/characters/fnfal_2406/pic/pic_fnfal_2406_d.png"
+		}
+	},
+	"falcon": {
+		"0": {
+			"path": "assets/characters/falcon/pic/pic_falcon.png"
+		},
+		"1": {
+			"path": "assets/characters/falcon/pic/pic_falcon_d.png"
+		}
+	},
+	"fal_he": {
+		"2": {
+			"path": "assets/characters/fnfal_308/pic/pic_fnfal_308.png"
+		},
+		"3": {
+			"path": "assets/characters/fnfal_308/pic/pic_fnfal_308_d.png"
+		},
+		"4": {
+			"path": "assets/characters/fnfal_2406/pic/pic_fnfal_2406.png"
+		},
+		"5": {
+			"path": "assets/characters/fnfal_2406/pic/pic_fnfal_2406_d.png"
+		}
+	},
+	"famas": {
+		"0": {
+			"path": "assets/characters/famas/pic/pic_famas.png"
+		},
+		"1": {
+			"path": "assets/characters/famas/pic/pic_famas_d.png"
+		},
+		"2": {
+			"path": "assets/characters/famas_2604/pic/pic_famas_2604.png"
+		},
+		"3": {
+			"path": "assets/characters/famas_2604/pic/pic_famas_2604_d.png"
+		}
+	},
+	"famashalloween": {
+		"0": {
+			"path": "assets/characters/famas_2604/pic/pic_famas_2604.png"
+		}
+	},
+	"fg42": {
+		"0": {
+			"path": "assets/characters/fg42/pic/pic_fg42.png"
+		},
+		"1": {
+			"path": "assets/characters/fg42/pic/pic_fg42_d.png"
+		}
+	},
+	"fmg9": {
+		"0": {
+			"path": "assets/characters/fmg9/pic/pic_fmg9.png"
+		},
+		"1": {
+			"path": "assets/characters/fmg9/pic/pic_fmg9_d.png"
+		}
+	},
+	"fn49": {
+		"0": {
+			"path": "assets/characters/fn49/pic/pic_fn49.png"
+		},
+		"1": {
+			"path": "assets/characters/fn49/pic/pic_fn49_d.png"
+		}
+	},
+	"fn49mod": {
+		"0": {
+			"path": "assets/characters/fn49mod/pic/pic_fn49mod.png"
+		},
+		"1": {
+			"path": "assets/characters/fn49mod/pic/pic_fn49mod.png"
+		}
+	},
+	"fn57": {
+		"0": {
+			"path": "assets/characters/fn57/pic/pic_fn57.png"
+		},
+		"1": {
+			"path": "assets/characters/fn57/pic/pic_fn57_d.png"
+		},
+		"2": {
+			"path": "assets/characters/fn57_1902/pic/pic_fn57_1902.png"
+		},
+		"3": {
+			"path": "assets/characters/fn57_1902/pic/pic_fn57_1902_d.png"
+		},
+		"4": {
+			"path": "assets/characters/fn57_2805/pic/pic_fn57_2805.png"
+		},
+		"5": {
+			"path": "assets/characters/fn57_2805/pic/pic_fn57_2805_d.png"
+		},
+		"6": {
+			"path": "assets/characters/fn57_1109/pic/pic_fn57_1109.png"
+		},
+		"7": {
+			"path": "assets/characters/fn57_1109/pic/pic_fn57_1109_d.png"
+		}
+	},
+	"fn57_he": {
+		"4": {
+			"path": "assets/characters/fn57_2805/pic/pic_fn57_2805.png"
+		},
+		"5": {
+			"path": "assets/characters/fn57_2805/pic/pic_fn57_2805_d.png"
+		}
+	},
+	"fnfnc": {
+		"0": {
+			"path": "assets/characters/fnfnc/pic/pic_fnfnc.png"
+		},
+		"1": {
+			"path": "assets/characters/fnfnc/pic/pic_fnfnc_d.png"
+		},
+		"2": {
+			"path": "assets/characters/fnfnc_1406/pic/pic_fnfnc_1406.png"
+		},
+		"3": {
+			"path": "assets/characters/fnfnc_1406/pic/pic_fnfnc_1406_d.png"
+		}
+	},
+	"fnp9": {
+		"0": {
+			"path": "assets/characters/fnp9/pic/pic_fnp9.png"
+		},
+		"1": {
+			"path": "assets/characters/fnp9/pic/pic_fnp9_d.png"
+		}
+	},
+	"fnspr": {
+		"0": {
+			"path": "assets/characters/fnspr/pic/pic_fnspr.png"
+		},
+		"1": {
+			"path": "assets/characters/fnspr/pic/pic_fnspr_d.png"
+		}
+	},
+	"fp6": {
+		"0": {
+			"path": "assets/characters/fp6/pic/pic_fp6.png"
+		},
+		"1": {
+			"path": "assets/characters/fp6/pic/pic_fp6_d.png"
+		},
+		"2": {
+			"path": "assets/characters/fp6_2804/pic/pic_fp6_2804.png"
+		},
+		"3": {
+			"path": "assets/characters/fp6_2804/pic/pic_fp6_2804_d.png"
+		}
+	},
+	"g11": {
+		"0": {
+			"path": "assets/characters/g11/pic/pic_g11.png"
+		},
+		"1": {
+			"path": "assets/characters/g11/pic/pic_g11_d.png"
+		},
+		"2": {
+			"path": "assets/characters/special/pic_g11_1.png"
+		},
+		"3": {
+			"path": "assets/characters/special/pic_g11_2.png"
+		},
+		"4": {
+			"path": "assets/characters/g11_9/pic/pic_g11_9.png"
+		},
+		"5": {
+			"path": "assets/characters/g11_9/pic/pic_g11_9_d.png"
+		},
+		"6": {
+			"path": "assets/characters/g11_1602/pic/pic_g11_1602.png"
+		},
+		"7": {
+			"path": "assets/characters/g11_1602/pic/pic_g11_1602_d.png"
+		}
+	},
+	"g11story": {
+		"0": {
+			"path": "assets/characters/g11/pic/pic_g11_rugged.png"
+		},
+		"1": {
+			"path": "assets/characters/g11/pic/pic_g11_maid.png"
+		}
+	},
+	"g28": {
+		"0": {
+			"path": "assets/characters/g28/pic/pic_g28.png"
+		},
+		"1": {
+			"path": "assets/characters/g28/pic/pic_g28_d.png"
+		},
+		"2": {
+			"path": "assets/characters/g28_2304/pic/pic_g28_2304.png"
+		},
+		"3": {
+			"path": "assets/characters/g28_2304/pic/pic_g28_2304_d.png"
+		},
+		"4": {
+			"path": "assets/characters/g28_1104/pic/pic_g28_1104.png"
+		},
+		"5": {
+			"path": "assets/characters/g28_1104/pic/pic_g28_1104_d.png"
+		},
+		"6": {
+			"path": "assets/characters/g28_3307/pic/pic_g28_3307.png"
+		},
+		"7": {
+			"path": "assets/characters/g28_3307/pic/pic_g28_3307_d.png"
+		}
+	},
+	"g28_he": {
+		"0": {
+			"path": "assets/characters/g28/pic/pic_g28.png"
+		},
+		"1": {
+			"path": "assets/characters/g28/pic/pic_g28_d.png"
+		},
+		"4": {
+			"path": "assets/characters/g28_1104/pic/pic_g28_1104.png"
+		},
+		"5": {
+			"path": "assets/characters/g28_1104/pic/pic_g28_1104_d.png"
+		},
+		"6": {
+			"path": "assets/characters/g28_3307/pic/pic_g28_3307.png"
+		},
+		"7": {
+			"path": "assets/characters/g28_3307/pic/pic_g28_3307_d.png"
+		}
+	},
+	"g3": {
+		"0": {
+			"path": "assets/characters/g3/pic/pic_g3.png"
+		},
+		"1": {
+			"path": "assets/characters/g3/pic/pic_g3_d.png"
+		},
+		"2": {
+			"path": "assets/characters/g3_1303/pic/pic_g3_1303.png"
+		},
+		"3": {
+			"path": "assets/characters/g3_1303/pic/pic_g3_1303_d.png"
+		}
+	},
+	"g36": {
+		"0": {
+			"path": "assets/characters/g36/pic/pic_g36.png"
+		},
+		"1": {
+			"path": "assets/characters/g36/pic/pic_g36_d.png"
+		},
+		"2": {
+			"path": "assets/characters/g36_1507/pic/pic_g36_1507.png"
+		},
+		"3": {
+			"path": "assets/characters/g36_1507/pic/pic_g36_1507_d.png"
+		},
+		"4": {
+			"path": "assets/characters/g36_905/pic/pic_g36_905.png"
+		},
+		"5": {
+			"path": "assets/characters/g36_905/pic/pic_g36_905_d.png"
+		},
+		"6": {
+			"path": "assets/characters/g36_1904/pic/pic_g36_1904.png"
+		},
+		"7": {
+			"path": "assets/characters/g36_1904/pic/pic_g36_1904_d.png"
+		},
+		"8": {
+			"path": "assets/characters/g36_2407/pic/pic_g36_2407.png"
+		},
+		"9": {
+			"path": "assets/characters/g36_2407/pic/pic_g36_2407_d.png"
+		},
+		"10": {
+			"path": "assets/characters/g36_2806/pic/pic_g36_2806.png"
+		},
+		"11": {
+			"path": "assets/characters/g36_2806/pic/pic_g36_2806_d.png"
+		},
+		"12": {
+			"path": "assets/characters/g36_905/pic/pic_g36_coffee.png"
+		}
+	},
+	"g36bar": {
+		"0": {
+			"path": "assets/characters/g36_1507/pic/pic_g36_1507.png"
+		},
+		"1": {
+			"path": "assets/characters/g36_1507/pic/pic_g36_1507_d.png"
+		}
+	},
+	"g36c": {
+		"0": {
+			"path": "assets/characters/g36c/pic/pic_g36c.png"
+		},
+		"1": {
+			"path": "assets/characters/g36c/pic/pic_g36c_d.png"
+		},
+		"2": {
+			"path": "assets/characters/g36c_3103/pic/pic_g36c_3103.png"
+		},
+		"3": {
+			"path": "assets/characters/g36c_3103/pic/pic_g36c_3103_d.png"
+		},
+		"4": {
+			"path": "assets/characters/g36c_3802/pic/pic_g36c_3802.png"
+		},
+		"5": {
+			"path": "assets/characters/g36c_3802/pic/pic_g36c_3802_d.png"
+		}
+	},
+	"g36c_he": {
+		"2": {
+			"path": "assets/characters/g36c_3103/pic/pic_g36c_3103.png"
+		},
+		"3": {
+			"path": "assets/characters/g36c_3103/pic/pic_g36c_3103_d.png"
+		},
+		"4": {
+			"path": "assets/characters/g36c_3802/pic/pic_g36c_3802.png"
+		},
+		"5": {
+			"path": "assets/characters/g36c_3802/pic/pic_g36c_3802_d.png"
+		}
+	},
+	"g36little": {
+		"0": {
+			"path": "assets/characters/g36_905/pic/pic_g36_905.png"
+		},
+		"1": {
+			"path": "assets/characters/g36_905/pic/pic_g36_905_d.png"
+		}
+	},
+	"g36mod": {
+		"0": {
+			"path": "assets/characters/g36mod/pic/pic_g36mod.png"
+		},
+		"1": {
+			"path": "assets/characters/g36mod/pic/pic_g36mod_d.png"
+		}
+	},
+	"g36_he": {
+		"2": {
+			"path": "assets/characters/g36_1507/pic/pic_g36_1507.png"
+		},
+		"3": {
+			"path": "assets/characters/g36_1507/pic/pic_g36_1507_d.png"
+		},
+		"4": {
+			"path": "assets/characters/g36_905/pic/pic_g36_905.png"
+		},
+		"5": {
+			"path": "assets/characters/g36_905/pic/pic_g36_905_d.png"
+		},
+		"6": {
+			"path": "assets/characters/g36_1904/pic/pic_g36_1904.png"
+		},
+		"7": {
+			"path": "assets/characters/g36_1904/pic/pic_g36_1904_d.png"
+		},
+		"8": {
+			"path": "assets/characters/g36_2407/pic/pic_g36_2407.png"
+		},
+		"9": {
+			"path": "assets/characters/g36_2407/pic/pic_g36_2407_d.png"
+		},
+		"10": {
+			"path": "assets/characters/g36_2806/pic/pic_g36_2806.png"
+		},
+		"11": {
+			"path": "assets/characters/g36_2806/pic/pic_g36_2806_d.png"
+		},
+		"12": {
+			"path": "assets/characters/g36_905/pic/pic_g36_coffee.png"
+		}
+	},
+	"g3mod": {
+		"0": {
+			"path": "assets/characters/g3mod/pic/pic_g3mod.png"
+		},
+		"1": {
+			"path": "assets/characters/g3mod/pic/pic_g3mod_d.png"
+		}
+	},
+	"g41": {
+		"0": {
+			"path": "assets/characters/g41/pic/pic_g41.png"
+		},
+		"1": {
+			"path": "assets/characters/g41/pic/pic_g41_d.png"
+		},
+		"2": {
+			"path": "assets/characters/g41_2401/pic/pic_g41_2401.png"
+		},
+		"3": {
+			"path": "assets/characters/g41_2401/pic/pic_g41_2401_d.png"
+		}
+	},
+	"g41_he": {
+		"2": {
+			"path": "assets/characters/g41_2401/pic/pic_g41_2401.png"
+		},
+		"3": {
+			"path": "assets/characters/g41_2401/pic/pic_g41_2401_d.png"
+		}
+	},
+	"g43": {
+		"0": {
+			"path": "assets/characters/g43/pic/pic_g43.png"
+		},
+		"1": {
+			"path": "assets/characters/g43/pic/pic_g43_d.png"
+		}
+	},
+	"gepardm1": {
+		"0": {
+			"path": "assets/characters/gepardm1/pic/pic_gepardm1.png"
+		},
+		"1": {
+			"path": "assets/characters/gepardm1/pic/pic_gepardm1_d.png"
+		},
+		"2": {
+			"path": "assets/characters/gepardm1_2305/pic/pic_gepardm1_2305.png"
+		},
+		"3": {
+			"path": "assets/characters/gepardm1_2305/pic/pic_gepardm1_2305_d.png"
+		},
+		"4": {
+			"path": "assets/characters/gepardm1_3107/pic/pic_gepardm1_3107.png"
+		},
+		"5": {
+			"path": "assets/characters/gepardm1_3107/pic/pic_gepardm1_3107_d.png"
+		},
+		"6": {
+			"path": "assets/characters/gepardm1_4006/pic/pic_gepardm1_4006.png"
+		},
+		"7": {
+			"path": "assets/characters/gepardm1_4006/pic/pic_gepardm1_4006_d.png"
+		}
+	},
+	"gg_elfeldt ": {
+		"0": {
+			"path": "assets/characters/gg_elfeldt/pic/pic_gg_elfeldt.png"
+		},
+		"1": {
+			"path": "assets/characters/gg_elfeldt/pic/pic_gg_elfeldt_d.png"
+		}
+	},
+	"gg_elfeldt_504": {
+		"0": {
+			"path": "assets/characters/gg_elfeldt_504/pic/pic_gg_elfeldt_504.png"
+		},
+		"1": {
+			"path": "assets/characters/gg_elfeldt_504/pic/pic_gg_elfeldt_504_d.png"
+		}
+	},
+	"gg_elfeldt_505": {
+		"0": {
+			"path": "assets/characters/gg_elfeldt_505/pic/pic_gg_elfeldt_505.png"
+		},
+		"1": {
+			"path": "assets/characters/gg_elfeldt_505/pic/pic_gg_elfeldt_505_d.png"
+		}
+	},
+	"glock17": {
+		"0": {
+			"path": "assets/characters/glock17/pic/pic_glock17.png"
+		},
+		"1": {
+			"path": "assets/characters/glock17/pic/pic_glock17_d.png"
+		}
+	},
+	"grizzly": {
+		"0": {
+			"path": "assets/characters/grizzly/pic/pic_grizzly.png"
+		},
+		"1": {
+			"path": "assets/characters/grizzly/pic/pic_grizzly_d.png"
+		},
+		"2": {
+			"path": "assets/characters/grizzly_2102/pic/pic_grizzly_2102.png"
+		},
+		"3": {
+			"path": "assets/characters/grizzly_2102/pic/pic_grizzly_2102_d.png"
+		}
+	},
+	"grizzly_he": {
+		"2": {
+			"path": "assets/characters/grizzly_2102/pic/pic_grizzly_2102.png"
+		},
+		"3": {
+			"path": "assets/characters/grizzly_2102/pic/pic_grizzly_2102_d.png"
+		}
+	},
+	"gsh18": {
+		"0": {
+			"path": "assets/characters/gsh18/pic/pic_gsh18.png"
+		},
+		"1": {
+			"path": "assets/characters/gsh18/pic/pic_gsh18_d.png"
+		},
+		"2": {
+			"path": "assets/characters/gsh18_523/pic/pic_gsh18_523.png"
+		},
+		"3": {
+			"path": "assets/characters/gsh18_523/pic/pic_gsh18_523_d.png"
+		},
+		"4": {
+			"path": "assets/characters/gsh18/pic/pic_gsh18_1.png"
+		},
+		"5": {
+			"path": "assets/characters/gsh18/pic/pic_gsh18_2.png"
+		}
+	},
+	"henrietta": {
+		"0": {
+			"path": "assets/characters/henrietta/pic/pic_henrietta.png"
+		},
+		"1": {
+			"path": "assets/characters/henrietta/pic/pic_henrietta_1.png"
+		},
+		"2": {
+			"path": "assets/characters/henrietta/pic/pic_henrietta_2.png"
+		},
+		"3": {
+			"path": "assets/characters/henrietta/pic/pic_henrietta_3.png"
+		},
+		"4": {
+			"path": "assets/characters/henrietta/pic/pic_henrietta_4.png"
+		},
+		"5": {
+			"path": "assets/characters/henrietta_544/pic/pic_henrietta_544.png"
+		},
+		"6": {
+			"path": "assets/characters/henrietta_544/pic/pic_henrietta_544_d.png"
+		}
+	},
+	"hezism1": {
+		"0": {
+			"path": "assets/characters/hezism1/pic/pic_hezism1.png"
+		},
+		"1": {
+			"path": "assets/characters/hezism1/pic/pic_hezism1_d.png"
+		}
+	},
+	"himeko": {
+		"0": {
+			"path": "assets/characters/himeko/pic/pic_himeko.png"
+		},
+		"1": {
+			"path": "assets/characters/himeko/pic/pic_himeko_d.png"
+		}
+	},
+	"hk21": {
+		"0": {
+			"path": "assets/characters/hk21/pic/pic_hk21.png"
+		},
+		"1": {
+			"path": "assets/characters/hk21/pic/pic_hk21_d.png"
+		},
+		"2": {
+			"path": "assets/characters/hk21_4002/pic/pic_hk21_4002.png"
+		},
+		"3": {
+			"path": "assets/characters/hk21_4002/pic/pic_hk21_4002_d.png"
+		}
+	},
+	"hk23": {
+		"0": {
+			"path": "assets/characters/hk23/pic/pic_hk23.png"
+		},
+		"1": {
+			"path": "assets/characters/hk23/pic/pic_hk23_d.png"
+		}
+	},
+	"hk33": {
+		"0": {
+			"path": "assets/characters/hk33/pic/pic_hk33.png"
+		},
+		"1": {
+			"path": "assets/characters/hk33/pic/pic_hk33_d.png"
+		}
+	},
+	"hk416": {
+		"0": {
+			"path": "assets/characters/hk416/pic/pic_hk416.png"
+		},
+		"1": {
+			"path": "assets/characters/hk416/pic/pic_hk416_d.png"
+		},
+		"2": {
+			"path": "assets/characters/special/pic_hk416_1.png"
+		},
+		"3": {
+			"path": "assets/characters/special/pic_hk416_2.png"
+		},
+		"4": {
+			"path": "assets/characters/hk416_805/pic/pic_hk416_805.png"
+		},
+		"5": {
+			"path": "assets/characters/hk416_805/pic/pic_hk416_805_d.png"
+		}
+	},
+	"hk416mod": {
+		"0": {
+			"path": "assets/characters/hk416mod/pic/pic_hk416mod.png"
+		},
+		"1": {
+			"path": "assets/characters/hk416mod/pic/pic_hk416mod_d.png"
+		}
+	},
+	"hk45": {
+		"0": {
+			"path": "assets/characters/hk45/pic/pic_hk45.png"
+		},
+		"1": {
+			"path": "assets/characters/hk45/pic/pic_hk45_d.png"
+		},
+		"2": {
+			"path": "assets/characters/hk45_2705/pic/pic_hk45_2705.png"
+		},
+		"3": {
+			"path": "assets/characters/hk45_2705/pic/pic_hk45_2705_d.png"
+		}
+	},
+	"hkcaws": {
+		"0": {
+			"path": "assets/characters/hkcaws/pic/pic_hkcaws.png"
+		},
+		"1": {
+			"path": "assets/characters/hkcaws/pic/pic_hkcaws_d.png"
+		},
+		"2": {
+			"path": "assets/characters/hkcaws_4003/pic/pic_hkcaws_4003.png"
+		},
+		"3": {
+			"path": "assets/characters/hkcaws_4003/pic/pic_hkcaws_4003_d.png"
+		}
+	},
+	"howatype89": {
+		"0": {
+			"path": "assets/characters/howatype89/pic/pic_howatype89.png"
+		},
+		"1": {
+			"path": "assets/characters/howatype89/pic/pic_howatype89_d.png"
+		}
+	},
+	"hs2000": {
+		"0": {
+			"path": "assets/characters/hs2000/pic/pic_hs2000.png"
+		},
+		"1": {
+			"path": "assets/characters/hs2000/pic/pic_hs2000_d.png"
+		}
+	},
+	"hsm10": {
+		"0": {
+			"path": "assets/characters/hsm10/pic/pic_hsm10.png"
+		},
+		"1": {
+			"path": "assets/characters/hsm10/pic/pic_hsm10_d.png"
+		}
+	},
+	"hunterelite": {
+		"0": {
+			"path": "assets/characters/bosshunter/pic/hunterelite.png"
+		},
+		"1": {
+			"path": "assets/characters/bosshunter/pic/hunterelite_1.png"
+		}
+	},
+	"idw": {
+		"0": {
+			"path": "assets/characters/idw/pic/pic_idw.png"
+		},
+		"1": {
+			"path": "assets/characters/idw/pic/pic_idw_d.png"
+		},
+		"2": {
+			"path": "assets/characters/idw_2108/pic/pic_idw_2108.png"
+		},
+		"3": {
+			"path": "assets/characters/idw_2108/pic/pic_idw_2108_d.png"
+		}
+	},
+	"idwmod": {
+		"0": {
+			"path": "assets/characters/idwmod/pic/pic_idwmod.png"
+		},
+		"1": {
+			"path": "assets/characters/idwmod/pic/pic_idwmod.png"
+		}
+	},
+	"insas": {
+		"0": {
+			"path": "assets/characters/insas/pic/pic_insas.png"
+		},
+		"1": {
+			"path": "assets/characters/insas/pic/pic_insas_d.png"
+		}
+	},
+	"ithaca37": {
+		"0": {
+			"path": "assets/characters/ithaca37/pic/pic_ithaca37.png"
+		},
+		"1": {
+			"path": "assets/characters/ithaca37/pic/pic_ithaca37_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ithaca37_1105/pic/pic_ithaca37_1105.png"
+		},
+		"3": {
+			"path": "assets/characters/ithaca37_1105/pic/pic_ithaca37_1105_d.png"
+		}
+	},
+	"ithaca37_he": {
+		"2": {
+			"path": "assets/characters/ithaca37_1105/pic/pic_ithaca37_1105.png"
+		},
+		"3": {
+			"path": "assets/characters/ithaca37_1105/pic/pic_ithaca37_1105_d.png"
+		}
+	},
+	"iws2000": {
+		"0": {
+			"path": "assets/characters/iws2000/pic/pic_iws2000.png"
+		},
+		"1": {
+			"path": "assets/characters/iws2000/pic/pic_iws2000_d.png"
+		},
+		"2": {
+			"path": "assets/characters/iws2000_1403/pic/pic_iws2000_1403.png"
+		},
+		"3": {
+			"path": "assets/characters/iws2000_1403/pic/pic_iws2000_1403_d.png"
+		},
+		"4": {
+			"path": "assets/characters/iws2000_3004/pic/pic_iws2000_3004.png"
+		},
+		"5": {
+			"path": "assets/characters/iws2000_3004/pic/pic_iws2000_3004_d.png"
+		}
+	},
+	"jericho": {
+		"0": {
+			"path": "assets/characters/jericho/pic/pic_jericho.png"
+		},
+		"1": {
+			"path": "assets/characters/jericho/pic/pic_jericho_d.png"
+		}
+	},
+	"jill": {
+		"0": {
+			"path": "assets/characters/jill/pic/pic_jill.png"
+		},
+		"1": {
+			"path": "assets/characters/jill/pic/pic_jill_d.png"
+		},
+		"2": {
+			"path": "assets/characters/jill/pic/pic_jill_talk.png"
+		},
+		"3": {
+			"path": "assets/characters/jill/pic/pic_jill_smile.png"
+		},
+		"4": {
+			"path": "assets/characters/jill/pic/pic_jill_shy.png"
+		},
+		"5": {
+			"path": "assets/characters/jill_529/pic/pic_jill_529.png"
+		},
+		"6": {
+			"path": "assets/characters/jill_529/pic/pic_jill_529_d.png"
+		}
+	},
+	"jillmagic": {
+		"0": {
+			"path": "assets/characters/jill_529/pic/pic_jill_529.png"
+		},
+		"1": {
+			"path": "assets/characters/jill_529/pic/pic_jill_529_d.png"
+		}
+	},
+	"js-127": {
+		"0": {
+			"path": "assets/characters/js-127/pic/pic_js-127.png"
+		},
+		"1": {
+			"path": "assets/characters/js-127/pic/pic_js-127_d.png"
+		},
+		"2": {
+			"path": "assets/characters/js-127_1804/pic/pic_js-127_1804.png"
+		},
+		"3": {
+			"path": "assets/characters/js-127_1804/pic/pic_js-127_1804_d.png"
+		}
+	},
+	"js9mm": {
+		"0": {
+			"path": "assets/characters/js9mm/pic/pic_js9mm.png"
+		},
+		"1": {
+			"path": "assets/characters/js9mm/pic/pic_js9mm_d.png"
+		},
+		"2": {
+			"path": "assets/characters/js9mm_4204/pic/pic_js9mm_4204.png"
+		},
+		"3": {
+			"path": "assets/characters/js9mm_4204/pic/pic_js9mm_4204_d.png"
+		}
+	},
+	"js9mm_he": {
+		"2": {
+			"path": "assets/characters/js9mm_4204/pic/pic_js9mm_4204.png"
+		},
+		"3": {
+			"path": "assets/characters/js9mm_4204/pic/pic_js9mm_4204_d.png"
+		}
+	},
+	"k11": {
+		"0": {
+			"path": "assets/characters/k11/pic/pic_k11.png"
+		},
+		"1": {
+			"path": "assets/characters/k11/pic/pic_k11_d.png"
+		},
+		"2": {
+			"path": "assets/characters/k11_3402/pic/pic_k11_3402.png"
+		},
+		"3": {
+			"path": "assets/characters/k11_3402/pic/pic_k11_3402_d.png"
+		}
+	},
+	"k11_he": {
+		"2": {
+			"path": "assets/characters/k11_3402/pic/pic_k11_3402.png"
+		},
+		"3": {
+			"path": "assets/characters/k11_3402/pic/pic_k11_3402_d.png"
+		}
+	},
+	"k2": {
+		"0": {
+			"path": "assets/characters/k2/pic/pic_k2.png"
+		},
+		"1": {
+			"path": "assets/characters/k2/pic/pic_k2_d.png"
+		},
+		"2": {
+			"path": "assets/characters/k2_2001/pic/pic_k2_2001.png"
+		},
+		"3": {
+			"path": "assets/characters/k2_2001/pic/pic_k2_2001_d.png"
+		},
+		"4": {
+			"path": "assets/characters/k2_3301/pic/pic_k2_3301.png"
+		},
+		"5": {
+			"path": "assets/characters/k2_3301/pic/pic_k2_3301_d.png"
+		}
+	},
+	"k3": {
+		"0": {
+			"path": "assets/characters/k3/pic/pic_k3.png"
+		},
+		"1": {
+			"path": "assets/characters/k3/pic/pic_k3_d.png"
+		}
+	},
+	"k31": {
+		"0": {
+			"path": "assets/characters/k31/pic/pic_k31.png"
+		},
+		"1": {
+			"path": "assets/characters/k31/pic/pic_k31_d.png"
+		}
+	},
+	"k5": {
+		"0": {
+			"path": "assets/characters/k5/pic/pic_k5.png"
+		},
+		"1": {
+			"path": "assets/characters/k5/pic/pic_k5_d.png"
+		},
+		"2": {
+			"path": "assets/characters/k5_2002/pic/pic_k5_2002.png"
+		},
+		"3": {
+			"path": "assets/characters/k5_2002/pic/pic_k5_2002_d.png"
+		},
+		"4": {
+			"path": "assets/characters/k5_3308/pic/pic_k5_3308.png"
+		},
+		"5": {
+			"path": "assets/characters/k5_3308/pic/pic_k5_3308_d.png"
+		}
+	},
+	"kac": {
+		"0": {
+			"path": "assets/characters/kac/pic/pic_kac.png"
+		},
+		"1": {
+			"path": "assets/characters/kac/pic/pic_kac_d.png"
+		}
+	},
+	"kiana": {
+		"0": {
+			"path": "assets/characters/kiana/pic/pic_kiana.png"
+		},
+		"1": {
+			"path": "assets/characters/kiana/pic/pic_kiana_d.png"
+		}
+	},
+	"klin": {
+		"0": {
+			"path": "assets/characters/klin/pic/pic_klin.png"
+		},
+		"1": {
+			"path": "assets/characters/klin/pic/pic_klin_d.png"
+		}
+	},
+	"kord": {
+		"0": {
+			"path": "assets/characters/kord/pic/pic_kord.png"
+		},
+		"1": {
+			"path": "assets/characters/kord/pic/pic_kord_d.png"
+		}
+	},
+	"kp31": {
+		"0": {
+			"path": "assets/characters/kp31/pic/pic_kp31.png"
+		},
+		"1": {
+			"path": "assets/characters/kp31/pic/pic_kp31_d.png"
+		},
+		"2": {
+			"path": "assets/characters/kp31_310/pic/pic_kp31_310.png"
+		},
+		"3": {
+			"path": "assets/characters/kp31_310/pic/pic_kp31_310_d.png"
+		},
+		"4": {
+			"path": "assets/characters/kp31_3101/pic/pic_kp31_3101.png"
+		},
+		"5": {
+			"path": "assets/characters/kp31_3101/pic/pic_kp31_3101_d.png"
+		},
+		"6": {
+			"path": "assets/characters/kp31_1103/pic/pic_kp31_1103.png"
+		},
+		"7": {
+			"path": "assets/characters/kp31_1103/pic/pic_kp31_1103_d.png"
+		}
+	},
+	"kp31_he": {
+		"4": {
+			"path": "assets/characters/kp31_3101/pic/pic_kp31_3101.png"
+		},
+		"5": {
+			"path": "assets/characters/kp31_3101/pic/pic_kp31_3101_d.png"
+		}
+	},
+	"ks23": {
+		"0": {
+			"path": "assets/characters/ks23/pic/pic_ks23.png"
+		},
+		"1": {
+			"path": "assets/characters/ks23/pic/pic_ks23_d.png"
+		}
+	},
+	"ksg": {
+		"0": {
+			"path": "assets/characters/ksg/pic/pic_ksg.png"
+		},
+		"1": {
+			"path": "assets/characters/ksg/pic/pic_ksg_d.png"
+		}
+	},
+	"ksvk": {
+		"0": {
+			"path": "assets/characters/ksvk/pic/pic_ksvk.png"
+		},
+		"1": {
+			"path": "assets/characters/ksvk/pic/pic_ksvk_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ksvk_3405/pic/pic_ksvk_3405.png"
+		},
+		"3": {
+			"path": "assets/characters/ksvk_3405/pic/pic_ksvk_3405_d.png"
+		},
+		"4": {
+			"path": "assets/characters/ksvk_3805/pic/pic_ksvk_3805.png"
+		},
+		"5": {
+			"path": "assets/characters/ksvk_3805/pic/pic_ksvk_3805_d.png"
+		},
+		"6": {
+			"path": "assets/characters/ksvk_3405/pic/pic_ksvk_3405_1.png"
+		},
+		"7": {
+			"path": "assets/characters/ksvk/pic/pic_ksvk_1.png"
+		},
+		"8": {
+			"path": "assets/characters/ksvk/pic/pic_ksvk_2.png"
+		}
+	},
+	"l85a1": {
+		"0": {
+			"path": "assets/characters/l85a1/pic/pic_l85a1.png"
+		},
+		"1": {
+			"path": "assets/characters/l85a1/pic/pic_l85a1_d.png"
+		}
+	},
+	"lewis": {
+		"0": {
+			"path": "assets/characters/lewis/pic/pic_lewis.png"
+		},
+		"1": {
+			"path": "assets/characters/lewis/pic/pic_lewis_d.png"
+		},
+		"2": {
+			"path": "assets/characters/lewis_3502/pic/pic_lewis_3502.png"
+		},
+		"3": {
+			"path": "assets/characters/lewis_3502/pic/pic_lewis_3502_d.png"
+		},
+		"4": {
+			"path": "assets/characters/lewis_4001/pic/pic_lewis_4001.png"
+		},
+		"5": {
+			"path": "assets/characters/lewis_4001/pic/pic_lewis_4001_d.png"
+		}
+	},
+	"liberator": {
+		"0": {
+			"path": "assets/characters/liberator/pic/pic_liberator.png"
+		},
+		"1": {
+			"path": "assets/characters/liberator/pic/pic_liberator_d.png"
+		}
+	},
+	"lwmmg": {
+		"0": {
+			"path": "assets/characters/lwmmg/pic/pic_lwmmg.png"
+		},
+		"1": {
+			"path": "assets/characters/lwmmg/pic/pic_lwmmg_d.png"
+		},
+		"2": {
+			"path": "assets/characters/lwmmg_1808/pic/pic_lwmmg_1808.png"
+		},
+		"3": {
+			"path": "assets/characters/lwmmg_1808/pic/pic_lwmmg_1808_d.png"
+		},
+		"4": {
+			"path": "assets/characters/lwmmg_4007/pic/pic_lwmmg_4007.png"
+		},
+		"5": {
+			"path": "assets/characters/lwmmg_4007/pic/pic_lwmmg_4007_d.png"
+		},
+		"6": {
+			"path": "assets/characters/lwmmg_4007/pic/pic_lwmmg_4007.png"
+		},
+		"7": {
+			"path": "assets/characters/lwmmg_4007/pic/pic_lwmmg_4007_d.png"
+		}
+	},
+	"lwmmgmod": {
+		"0": {
+			"path": "assets/characters/lwmmgmod/pic/pic_lwmmgmod.png"
+		},
+		"1": {
+			"path": "assets/characters/lwmmgmod/pic/pic_lwmmgmod_d.png"
+		}
+	},
+	"lwmmg_he": {
+		"4": {
+			"path": "assets/characters/lwmmg_4007/pic/pic_lwmmg_4007.png"
+		},
+		"5": {
+			"path": "assets/characters/lwmmg_4007/pic/pic_lwmmg_4007_d.png"
+		},
+		"6": {
+			"path": "assets/characters/lwmmg_4007/pic/pic_lwmmg_4007.png"
+		},
+		"7": {
+			"path": "assets/characters/lwmmg_4007/pic/pic_lwmmg_4007_d.png"
+		}
+	},
+	"m1": {
+		"0": {
+			"path": "assets/characters/m1/pic/pic_m1.png"
+		},
+		"1": {
+			"path": "assets/characters/m1/pic/pic_m1_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m1_1106/pic/pic_m1_1106.png"
+		},
+		"3": {
+			"path": "assets/characters/m1_1106/pic/pic_m1_1106_d.png"
+		}
+	},
+	"m1014": {
+		"0": {
+			"path": "assets/characters/m1014/pic/pic_m1014.png"
+		},
+		"1": {
+			"path": "assets/characters/m1014/pic/pic_m1014_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m1014_2906/pic/pic_m1014_2906.png"
+		},
+		"3": {
+			"path": "assets/characters/m1014_2906/pic/pic_m1014_2906_d.png"
+		},
+		"4": {
+			"path": "assets/characters/m1014_4305/pic/pic_m1014_4305.png"
+		},
+		"5": {
+			"path": "assets/characters/m1014_4305/pic/pic_m1014_4305_d.png"
+		}
+	},
+	"m12": {
+		"0": {
+			"path": "assets/characters/m12/pic/pic_m12.png"
+		},
+		"1": {
+			"path": "assets/characters/m12/pic/pic_m12_d.png"
+		}
+	},
+	"m14": {
+		"0": {
+			"path": "assets/characters/m14/pic/pic_m14.png"
+		},
+		"1": {
+			"path": "assets/characters/m14/pic/pic_m14_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m14_303/pic/pic_m14_303.png"
+		},
+		"3": {
+			"path": "assets/characters/m14_303/pic/pic_m14_303_d.png"
+		}
+	},
+	"m14mod": {
+		"0": {
+			"path": "assets/characters/m14mod/pic/pic_m14mod.png"
+		},
+		"1": {
+			"path": "assets/characters/m14mod/pic/pic_m14mod_d.png"
+		}
+	},
+	"m16": {
+		"0": {
+			"path": "assets/characters/m16a1/pic/pic_m16a1.png"
+		},
+		"1": {
+			"path": "assets/characters/m16a1/pic/pic_m16a1_d.png"
+		},
+		"2": {
+			"path": "assets/characters/special/m16a1_sad.png"
+		},
+		"3": {
+			"path": "assets/characters/special/m16a1_t.png"
+		},
+		"4": {
+			"path": "assets/characters/m16a1/pic/pic_m16a1_2.png"
+		},
+		"5": {
+			"path": "assets/characters/m16a1/pic/pic_m16a1_3.png"
+		},
+		"6": {
+			"path": "assets/characters/m16a1/pic/pic_m16a1_4.png"
+		},
+		"7": {
+			"path": "assets/characters/m16a1/pic/pic_m16a1_5.png"
+		}
+	},
+	"m16a1boss": {
+		"0": {
+			"path": "assets/characters/m16a1_boss/pic/pic_m16a1_boss.png"
+		},
+		"1": {
+			"path": "assets/characters/m16a1_boss/pic/pic_m16a1_1.png"
+		}
+	},
+	"m1873": {
+		"0": {
+			"path": "assets/characters/m1873/pic/pic_m1873.png"
+		},
+		"1": {
+			"path": "assets/characters/m1873/pic/pic_m1873_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m1873_301/pic/pic_m1873_301.png"
+		},
+		"3": {
+			"path": "assets/characters/m1873_301/pic/pic_m1873_301_d.png"
+		},
+		"4": {
+			"path": "assets/characters/m1873_2105/pic/pic_m1873_2105.png"
+		},
+		"5": {
+			"path": "assets/characters/m1873_2105/pic/pic_m1873_2105_d.png"
+		}
+	},
+	"m1873mod": {
+		"0": {
+			"path": "assets/characters/m1873mod/pic/pic_m1873mod.png"
+		},
+		"1": {
+			"path": "assets/characters/m1873mod/pic/pic_m1873mod_d.png"
+		}
+	},
+	"m1887": {
+		"0": {
+			"path": "assets/characters/m1887/pic/pic_m1887.png"
+		},
+		"1": {
+			"path": "assets/characters/m1887/pic/pic_m1887_d.png"
+		}
+	},
+	"m1891": {
+		"0": {
+			"path": "assets/characters/m1891/pic/pic_m1891.png"
+		},
+		"1": {
+			"path": "assets/characters/m1891/pic/pic_m1891_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m1891_803/pic/pic_m1891_803.png"
+		},
+		"3": {
+			"path": "assets/characters/m1891_803/pic/pic_m1891_803_d.png"
+		}
+	},
+	"m1891mod": {
+		"0": {
+			"path": "assets/characters/m1891mod/pic/pic_m1891mod.png"
+		},
+		"1": {
+			"path": "assets/characters/m1891mod/pic/pic_m1891mod_d.png"
+		}
+	},
+	"m1891_he": {
+		"2": {
+			"path": "assets/characters/m1891_803/pic/pic_m1891_803.png"
+		},
+		"3": {
+			"path": "assets/characters/m1891_803/pic/pic_m1891_803_d.png"
+		}
+	},
+	"m1895": {
+		"0": {
+			"path": "assets/characters/m1895/pic/pic_m1895.png"
+		},
+		"1": {
+			"path": "assets/characters/m1895/pic/pic_m1895_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m1895_2706/pic/pic_m1895_2706.png"
+		},
+		"3": {
+			"path": "assets/characters/m1895_2706/pic/pic_m1895_2706_d.png"
+		}
+	},
+	"m1895mg": {
+		"0": {
+			"path": "assets/characters/m1895mg/pic/pic_m1895mg.png"
+		},
+		"1": {
+			"path": "assets/characters/m1895mg/pic/pic_m1895mg_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m1895mg_4208/pic/pic_m1895mg_4208.png"
+		},
+		"3": {
+			"path": "assets/characters/m1895mg_4208/pic/pic_m1895mg_4208_d.png"
+		},
+		"4": {
+			"path": "assets/characters/m1895mg_4208/pic/pic_m1895mg_4208_1.png"
+		}
+	},
+	"m1895mod": {
+		"0": {
+			"path": "assets/characters/m1895mod/pic/pic_m1895mod.png"
+		},
+		"1": {
+			"path": "assets/characters/m1895mod/pic/pic_m1895mod_d.png"
+		}
+	},
+	"m1897": {
+		"0": {
+			"path": "assets/characters/m1897/pic/pic_m1897.png"
+		},
+		"1": {
+			"path": "assets/characters/m1897/pic/pic_m1897_d.png"
+		}
+	},
+	"m1903": {
+		"0": {
+			"path": "assets/characters/m1903/pic/pic_m1903.png"
+		},
+		"1": {
+			"path": "assets/characters/m1903/pic/pic_m1903_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m1903_302/pic/pic_m1903_302.png"
+		},
+		"3": {
+			"path": "assets/characters/m1903_302/pic/pic_m1903_302_d.png"
+		},
+		"4": {
+			"path": "assets/characters/m1903_5/pic/pic_m1903_5.png"
+		},
+		"5": {
+			"path": "assets/characters/m1903_5/pic/pic_m1903_5_d.png"
+		},
+		"6": {
+			"path": "assets/characters/m1903_802/pic/pic_m1903_802.png"
+		},
+		"7": {
+			"path": "assets/characters/m1903_802/pic/pic_m1903_802_d.png"
+		},
+		"8": {
+			"path": "assets/characters/m1903_1107/pic/pic_m1903_1107.png"
+		},
+		"9": {
+			"path": "assets/characters/m1903_1107/pic/pic_m1903_1107_d.png"
+		}
+	},
+	"m1903cafe": {
+		"0": {
+			"path": "assets/characters/boss/春田咖啡.png"
+		}
+	},
+	"m1911": {
+		"0": {
+			"path": "assets/characters/m1911/pic/pic_m1911.png"
+		},
+		"1": {
+			"path": "assets/characters/m1911/pic/pic_m1911_d.png"
+		}
+	},
+	"m1911mod": {
+		"0": {
+			"path": "assets/characters/m1911mod/pic/pic_m1911mod.png"
+		},
+		"1": {
+			"path": "assets/characters/m1911mod/pic/pic_m1911mod_d.png"
+		}
+	},
+	"m1918": {
+		"0": {
+			"path": "assets/characters/m1918/pic/pic_m1918.png"
+		},
+		"1": {
+			"path": "assets/characters/m1918/pic/pic_m1918_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m1918_806/pic/pic_m1918_806.png"
+		},
+		"3": {
+			"path": "assets/characters/m1918_806/pic/pic_m1918_806_d.png"
+		},
+		"4": {
+			"path": "assets/characters/m1918_102/pic/pic_m1918_102.png"
+		},
+		"5": {
+			"path": "assets/characters/m1918_102/pic/pic_m1918_102_d.png"
+		},
+		"6": {
+			"path": "assets/characters/m1918_1606/pic/pic_m1918_1606.png"
+		},
+		"7": {
+			"path": "assets/characters/m1918_1606/pic/pic_m1918_1606_d.png"
+		}
+	},
+	"m1918mod": {
+		"0": {
+			"path": "assets/characters/m1918mod/pic/pic_m1918mod.png"
+		}
+	},
+	"m1918_he": {
+		"2": {
+			"path": "assets/characters/m1918_806/pic/pic_m1918_806.png"
+		},
+		"3": {
+			"path": "assets/characters/m1918_806/pic/pic_m1918_806_d.png"
+		},
+		"6": {
+			"path": "assets/characters/m1918_1606/pic/pic_m1918_1606.png"
+		},
+		"7": {
+			"path": "assets/characters/m1918_1606/pic/pic_m1918_1606_d.png"
+		}
+	},
+	"m1919a4": {
+		"0": {
+			"path": "assets/characters/m1919a4/pic/pic_m1919a4.png"
+		},
+		"1": {
+			"path": "assets/characters/m1919a4/pic/pic_m1919a4_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m1919a4_7/pic/pic_m1919a4_7.png"
+		},
+		"3": {
+			"path": "assets/characters/m1919a4_7/pic/pic_m1919a4_7_d.png"
+		}
+	},
+	"m1928a1": {
+		"0": {
+			"path": "assets/characters/m1928a1/pic/pic_m1928a1.png"
+		},
+		"1": {
+			"path": "assets/characters/m1928a1/pic/pic_m1928a1_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m1928a1_1501/pic/pic_m1928a1_1501.png"
+		},
+		"3": {
+			"path": "assets/characters/m1928a1_1501/pic/pic_m1928a1_1501_d.png"
+		}
+	},
+	"m1928a1_he": {
+		"2": {
+			"path": "assets/characters/m1928a1_1501/pic/pic_m1928a1_1501.png"
+		},
+		"3": {
+			"path": "assets/characters/m1928a1_1501/pic/pic_m1928a1_1501_d.png"
+		}
+	},
+	"m1a1": {
+		"0": {
+			"path": "assets/characters/m1a1/pic/pic_m1a1.png"
+		},
+		"1": {
+			"path": "assets/characters/m1a1/pic/pic_m1a1_d.png"
+		}
+	},
+	"m1_he": {
+		"2": {
+			"path": "assets/characters/m1_1106/pic/pic_m1_1106.png"
+		},
+		"3": {
+			"path": "assets/characters/m1_1106/pic/pic_m1_1106_d.png"
+		}
+	},
+	"m200": {
+		"0": {
+			"path": "assets/characters/m200/pic/pic_m200.png"
+		},
+		"1": {
+			"path": "assets/characters/m200/pic/pic_m200_d.png"
+		}
+	},
+	"m21": {
+		"0": {
+			"path": "assets/characters/m21/pic/pic_m21.png"
+		},
+		"1": {
+			"path": "assets/characters/m21/pic/pic_m21_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m21_304/pic/pic_m21_304.png"
+		},
+		"3": {
+			"path": "assets/characters/m21_304/pic/pic_m21_304_d.png"
+		}
+	},
+	"m21_he": {
+		"0": {
+			"path": "assets/characters/m21/pic/pic_m21.png"
+		},
+		"1": {
+			"path": "assets/characters/m21/pic/pic_m21_d.png"
+		}
+	},
+	"m249saw": {
+		"0": {
+			"path": "assets/characters/m249saw/pic/pic_m249saw.png"
+		},
+		"1": {
+			"path": "assets/characters/m249saw/pic/pic_m249saw_d.png"
+		}
+	},
+	"m2hb": {
+		"0": {
+			"path": "assets/characters/m2hb/pic/pic_m2hb.png"
+		},
+		"1": {
+			"path": "assets/characters/m2hb/pic/pic_m2hb_d.png"
+		}
+	},
+	"m3": {
+		"0": {
+			"path": "assets/characters/m3/pic/pic_m3.png"
+		},
+		"1": {
+			"path": "assets/characters/m3/pic/pic_m3_d.png"
+		}
+	},
+	"m4 sopmod iimod-noarmor": {
+		"0": {
+			"path": "assets/characters/m4 sopmod iimod/pic/pic_m4 sopmod iimod_noarmor1.png"
+		}
+	},
+	"m4 sopmod iimod": {
+		"0": {
+			"path": "assets/characters/m4 sopmod iimod/pic/pic_m4 sopmod iimod.png"
+		},
+		"1": {
+			"path": "assets/characters/m4 sopmod iimod/pic/pic_m4 sopmod iimod_d.png"
+		}
+	},
+	"m45": {
+		"0": {
+			"path": "assets/characters/m45/pic/pic_m45.png"
+		},
+		"1": {
+			"path": "assets/characters/m45/pic/pic_m45_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m45_4/pic/pic_m45_4.png"
+		},
+		"3": {
+			"path": "assets/characters/m45_4/pic/pic_m45_4_d.png"
+		}
+	},
+	"m45_he": {
+		"0": {
+			"path": "assets/characters/m45/pic/pic_m45.png"
+		},
+		"1": {
+			"path": "assets/characters/m45/pic/pic_m45_d.png"
+		}
+	},
+	"m4a1": {
+		"0": {
+			"path": "assets/characters/m4a1/pic/pic_m4a1.png"
+		},
+		"1": {
+			"path": "assets/characters/m4a1/pic/pic_m4a1_d.png"
+		},
+		"2": {
+			"path": "assets/characters/special/m4a1_sad.png"
+		},
+		"3": {
+			"path": "assets/characters/special/m4a1_t.png"
+		}
+	},
+	"m4a1mod": {
+		"0": {
+			"path": "assets/characters/m4a1mod/pic/pic_m4a1mod.png"
+		},
+		"1": {
+			"path": "assets/characters/m4a1mod/pic/pic_m4a1mod_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m4a1mod/pic/m4a1mod_微笑.png"
+		},
+		"3": {
+			"path": "assets/characters/m4a1mod/pic/m4a1mod_悲伤.png"
+		},
+		"4": {
+			"path": "assets/characters/m4a1mod/pic/m4a1mod_紧张.png"
+		}
+	},
+	"m500": {
+		"0": {
+			"path": "assets/characters/m500/pic/pic_m500.png"
+		},
+		"1": {
+			"path": "assets/characters/m500/pic/pic_m500_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m500_3707/pic/pic_m500_3707.png"
+		},
+		"3": {
+			"path": "assets/characters/m500_3707/pic/pic_m500_3707_d.png"
+		}
+	},
+	"m500mod": {
+		"0": {
+			"path": "assets/characters/m500mod/pic/pic_m500mod.png"
+		},
+		"1": {
+			"path": "assets/characters/m500mod/pic/pic_m500mod_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m500mod/pic/pic_m500.png"
+		},
+		"3": {
+			"path": "assets/characters/m500mod/pic/pic_m500_dog.png"
+		}
+	},
+	"m590": {
+		"0": {
+			"path": "assets/characters/m590/pic/pic_m590.png"
+		},
+		"1": {
+			"path": "assets/characters/m590/pic/pic_m590_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m590_1806/pic/pic_m590_1806.png"
+		},
+		"3": {
+			"path": "assets/characters/m590_1806/pic/pic_m590_1806_d.png"
+		}
+	},
+	"m590_he": {
+		"0": {
+			"path": "assets/characters/m590/pic/pic_m590.png"
+		},
+		"1": {
+			"path": "assets/characters/m590/pic/pic_m590_d.png"
+		}
+	},
+	"m60": {
+		"0": {
+			"path": "assets/characters/m60/pic/pic_m60.png"
+		},
+		"1": {
+			"path": "assets/characters/m60/pic/pic_m60_d.png"
+		}
+	},
+	"m82": {
+		"0": {
+			"path": "assets/characters/m82/pic/pic_m82.png"
+		},
+		"1": {
+			"path": "assets/characters/m82/pic/pic_m82_d.png"
+		}
+	},
+	"m82a1": {
+		"0": {
+			"path": "assets/characters/m82a1/pic/pic_m82a1.png"
+		},
+		"1": {
+			"path": "assets/characters/m82a1/pic/pic_m82a1_d.png"
+		}
+	},
+	"m870p": {
+		"0": {
+			"path": "assets/characters/m870p/pic/pic_m870p.png"
+		},
+		"1": {
+			"path": "assets/characters/m870p/pic/pic_m870p_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m870p_3803/pic/pic_m870p_3803.png"
+		},
+		"3": {
+			"path": "assets/characters/m870p_3803/pic/pic_m870p_3803_d.png"
+		}
+	},
+	"m9": {
+		"0": {
+			"path": "assets/characters/m9/pic/pic_m9.png"
+		},
+		"1": {
+			"path": "assets/characters/m9/pic/pic_m9_d.png"
+		}
+	},
+	"m950a": {
+		"0": {
+			"path": "assets/characters/m950a/pic/pic_m950a.png"
+		},
+		"1": {
+			"path": "assets/characters/m950a/pic/pic_m950a_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m950a_808/pic/pic_m950a_808.png"
+		},
+		"3": {
+			"path": "assets/characters/m950a_808/pic/pic_m950a_808_d.png"
+		},
+		"4": {
+			"path": "assets/characters/m950a_702/pic/pic_m950a_702.png"
+		},
+		"5": {
+			"path": "assets/characters/m950a_702/pic/pic_m950a_702_d.png"
+		},
+		"6": {
+			"path": "assets/characters/m950a_2303/pic/pic_m950a_2303.png"
+		},
+		"7": {
+			"path": "assets/characters/m950a_2303/pic/pic_m950a_2303_d.png"
+		},
+		"8": {
+			"path": "assets/characters/m950a/pic/pic_m950a_1.png"
+		},
+		"9": {
+			"path": "assets/characters/m950a/pic/pic_m950a_2.png"
+		},
+		"10": {
+			"path": "assets/characters/m950a/pic/pic_m950a_3.png"
+		}
+	},
+	"m99": {
+		"0": {
+			"path": "assets/characters/m99/pic/pic_m99.png"
+		},
+		"1": {
+			"path": "assets/characters/m99/pic/pic_m99_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m99_1701/pic/pic_m99_1701.png"
+		},
+		"3": {
+			"path": "assets/characters/m99_1701/pic/pic_m99_1701_d.png"
+		},
+		"4": {
+			"path": "assets/characters/m99_404/pic/pic_m99_404.png"
+		},
+		"5": {
+			"path": "assets/characters/m99_404/pic/pic_m99_404_d.png"
+		},
+		"6": {
+			"path": "assets/characters/m99_3304/pic/pic_m99_3304.png"
+		},
+		"7": {
+			"path": "assets/characters/m99_3304/pic/pic_m99_3304_d.png"
+		}
+	},
+	"mab38": {
+		"0": {
+			"path": "assets/characters/mab38/pic/pic_mab38.png"
+		},
+		"1": {
+			"path": "assets/characters/mab38/pic/pic_mab38_d.png"
+		}
+	},
+	"mab38mod": {
+		"0": {
+			"path": "assets/characters/mab38mod/pic/pic_mab38mod.png"
+		},
+		"1": {
+			"path": "assets/characters/mab38mod/pic/pic_mab38mod_d.png"
+		}
+	},
+	"mac10": {
+		"0": {
+			"path": "assets/characters/mac10/pic/pic_mac10.png"
+		},
+		"1": {
+			"path": "assets/characters/mac10/pic/pic_mac10_d.png"
+		}
+	},
+	"magal": {
+		"0": {
+			"path": "assets/characters/magal/pic/pic_magal.png"
+		},
+		"1": {
+			"path": "assets/characters/magal/pic/pic_magal_d.png"
+		}
+	},
+	"mas38": {
+		"0": {
+			"path": "assets/characters/mas38/pic/pic_mas38.png"
+		},
+		"1": {
+			"path": "assets/characters/mas38/pic/pic_mas38_d.png"
+		}
+	},
+	"mat49": {
+		"0": {
+			"path": "assets/characters/mat49/pic/pic_mat49.png"
+		},
+		"1": {
+			"path": "assets/characters/mat49/pic/pic_mat49_d.png"
+		}
+	},
+	"mdr": {
+		"0": {
+			"path": "assets/characters/mdr/pic/pic_mdr.png"
+		},
+		"1": {
+			"path": "assets/characters/mdr/pic/pic_mdr_d.png"
+		},
+		"2": {
+			"path": "assets/characters/mdr_2603/pic/pic_mdr_2603.png"
+		},
+		"3": {
+			"path": "assets/characters/mdr_2603/pic/pic_mdr_2603_d.png"
+		},
+		"4": {
+			"path": "assets/characters/mdr_3305/pic/pic_mdr_3305.png"
+		},
+		"5": {
+			"path": "assets/characters/mdr_3305/pic/pic_mdr_3305_d.png"
+		}
+	},
+	"mg3": {
+		"0": {
+			"path": "assets/characters/mg3/pic/pic_mg3.png"
+		},
+		"1": {
+			"path": "assets/characters/mg3/pic/pic_mg3_d.png"
+		},
+		"2": {
+			"path": "assets/characters/mg3_1304/pic/pic_mg3_1304.png"
+		},
+		"3": {
+			"path": "assets/characters/mg3_1304/pic/pic_mg3_1304_d.png"
+		},
+		"4": {
+			"path": "assets/characters/mg3_3806/pic/pic_mg3_3806.png"
+		},
+		"5": {
+			"path": "assets/characters/mg3_3806/pic/pic_mg3_3806_d.png"
+		}
+	},
+	"mg34": {
+		"0": {
+			"path": "assets/characters/mg34/pic/pic_mg34.png"
+		},
+		"1": {
+			"path": "assets/characters/mg34/pic/pic_mg34_d.png"
+		},
+		"2": {
+			"path": "assets/characters/mg34_4210/pic/pic_mg34_4210.png"
+		},
+		"3": {
+			"path": "assets/characters/mg34_4210/pic/pic_mg34_4210_d.png"
+		}
+	},
+	"mg36": {
+		"0": {
+			"path": "assets/characters/mg36/pic/pic_mg36.png"
+		},
+		"1": {
+			"path": "assets/characters/mg36/pic/pic_mg36_d.png"
+		},
+		"2": {
+			"path": "assets/characters/mg36_4205/pic/pic_mg36_4205.png"
+		},
+		"3": {
+			"path": "assets/characters/mg36_4205/pic/pic_mg36_4205_d.png"
+		}
+	},
+	"mg3_he": {
+		"2": {
+			"path": "assets/characters/psg1_3808/pic/pic_psg1_3808.png"
+		},
+		"3": {
+			"path": "assets/characters/psg1_3808/pic/pic_psg1_3808_d.png"
+		},
+		"4": {
+			"path": "assets/characters/mg3_3806/pic/pic_mg3_3806.png"
+		},
+		"5": {
+			"path": "assets/characters/mg3_3806/pic/pic_mg3_3806_d.png"
+		}
+	},
+	"mg4": {
+		"0": {
+			"path": "assets/characters/mg4/pic/pic_mg4.png"
+		},
+		"1": {
+			"path": "assets/characters/mg4/pic/pic_mg4_d.png"
+		}
+	},
+	"mg42": {
+		"0": {
+			"path": "assets/characters/mg42/pic/pic_mg42.png"
+		},
+		"1": {
+			"path": "assets/characters/mg42/pic/pic_mg42_d.png"
+		}
+	},
+	"mg5": {
+		"0": {
+			"path": "assets/characters/mg5/pic/pic_mg5.png"
+		},
+		"1": {
+			"path": "assets/characters/mg5/pic/pic_mg5_d.png"
+		},
+		"2": {
+			"path": "assets/characters/mg5_309/pic/pic_mg5_309.png"
+		},
+		"3": {
+			"path": "assets/characters/mg5_309/pic/pic_mg5_309_d.png"
+		},
+		"4": {
+			"path": "assets/characters/mg5_1504/pic/pic_mg5_1504.png"
+		},
+		"5": {
+			"path": "assets/characters/mg5_1504/pic/pic_mg5_1504_d.png"
+		}
+	},
+	"mg5_he": {
+		"2": {
+			"path": "assets/characters/mg5_309/pic/pic_mg5_309.png"
+		},
+		"3": {
+			"path": "assets/characters/mg5_309/pic/pic_mg5_309_d.png"
+		},
+		"4": {
+			"path": "assets/characters/mg5_1504/pic/pic_mg5_1504.png"
+		},
+		"5": {
+			"path": "assets/characters/mg5_1504/pic/pic_mg5_1504_d.png"
+		}
+	},
+	"microuzi": {
+		"0": {
+			"path": "assets/characters/microuzi/pic/pic_microuzi.png"
+		},
+		"1": {
+			"path": "assets/characters/microuzi/pic/pic_microuzi_d.png"
+		},
+		"2": {
+			"path": "assets/characters/microuzi_101/pic/pic_microuzi_101.png"
+		}
+	},
+	"microuzimod": {
+		"0": {
+			"path": "assets/characters/microuzimod/pic/pic_microuzimod.png"
+		},
+		"1": {
+			"path": "assets/characters/microuzimod/pic/pic_microuzimod_d.png"
+		}
+	},
+	"microuzi_he": {
+		"2": {
+			"path": "assets/characters/microuzi_101/pic/pic_microuzi_101.png"
+		}
+	},
+	"mk12": {
+		"0": {
+			"path": "assets/characters/mk12/pic/pic_mk12.png"
+		},
+		"1": {
+			"path": "assets/characters/mk12/pic/pic_mk12_d.png"
+		}
+	},
+	"mk2": {
+		"0": {
+			"path": "assets/characters/stenmk2/pic/pic_stenmk2.png"
+		},
+		"1": {
+			"path": "assets/characters/stenmk2/pic/pic_stenmk2_d.png"
+		}
+	},
+	"mk23": {
+		"0": {
+			"path": "assets/characters/mk23/pic/pic_mk23.png"
+		},
+		"1": {
+			"path": "assets/characters/mk23/pic/pic_mk23_d.png"
+		},
+		"2": {
+			"path": "assets/characters/mk23_8/pic/pic_mk23_8.png"
+		},
+		"3": {
+			"path": "assets/characters/mk23_8/pic/pic_mk23_8_d.png"
+		},
+		"4": {
+			"path": "assets/characters/mk23_1805/pic/pic_mk23_1805.png"
+		},
+		"5": {
+			"path": "assets/characters/mk23_1805/pic/pic_mk23_1805_d.png"
+		},
+		"6": {
+			"path": "assets/characters/mk23_3105/pic/pic_mk23_3105.png"
+		},
+		"7": {
+			"path": "assets/characters/mk23_3105/pic/pic_mk23_3105_d.png"
+		}
+	},
+	"mk23_he": {
+		"6": {
+			"path": "assets/characters/mk23_3105/pic/pic_mk23_3105.png"
+		},
+		"7": {
+			"path": "assets/characters/mk23_3105/pic/pic_mk23_3105_d.png"
+		}
+	},
+	"mk46": {
+		"0": {
+			"path": "assets/characters/mk46/pic/pic_mk46.png"
+		},
+		"1": {
+			"path": "assets/characters/mk46/pic/pic_mk46_d.png"
+		}
+	},
+	"mk48": {
+		"0": {
+			"path": "assets/characters/mk48/pic/pic_mk48.png"
+		},
+		"1": {
+			"path": "assets/characters/mk48/pic/pic_mk48_d.png"
+		}
+	},
+	"mlemk1": {
+		"0": {
+			"path": "assets/characters/mlemk1/pic/pic_mlemk1.png"
+		},
+		"1": {
+			"path": "assets/characters/mlemk1/pic/pic_mlemk1_d.png"
+		},
+		"2": {
+			"path": "assets/characters/mlemk1_604/pic/pic_mlemk1_604.png"
+		},
+		"3": {
+			"path": "assets/characters/mlemk1_604/pic/pic_mlemk1_604_d.png"
+		},
+		"4": {
+			"path": "assets/characters/mlemk1_10/pic/pic_mlemk1_10.png"
+		},
+		"5": {
+			"path": "assets/characters/mlemk1_10/pic/pic_mlemk1_10_d.png"
+		},
+		"6": {
+			"path": "assets/characters/mlemk1_901/pic/pic_mlemk1_901.png"
+		},
+		"7": {
+			"path": "assets/characters/mlemk1_901/pic/pic_mlemk1_901_d.png"
+		}
+	},
+	"mlemk1_he": {
+		"2": {
+			"path": "assets/characters/mlemk1_604/pic/pic_mlemk1_604.png"
+		},
+		"3": {
+			"path": "assets/characters/mlemk1_604/pic/pic_mlemk1_604_d.png"
+		},
+		"4": {
+			"path": "assets/characters/mlemk1_10/pic/pic_mlemk1_10.png"
+		},
+		"5": {
+			"path": "assets/characters/mlemk1_10/pic/pic_mlemk1_10_d.png"
+		},
+		"6": {
+			"path": "assets/characters/mlemk1_901/pic/pic_mlemk1_901.png"
+		},
+		"7": {
+			"path": "assets/characters/mlemk1_901/pic/pic_mlemk1_901_d.png"
+		}
+	},
+	"mp40": {
+		"0": {
+			"path": "assets/characters/mp40/pic/pic_mp40.png"
+		},
+		"1": {
+			"path": "assets/characters/mp40/pic/pic_mp40_d.png"
+		}
+	},
+	"mp41": {
+		"0": {
+			"path": "assets/characters/mp41/pic/pic_mp41.png"
+		},
+		"1": {
+			"path": "assets/characters/mp41/pic/pic_mp41_d.png"
+		}
+	},
+	"mp443": {
+		"0": {
+			"path": "assets/characters/mp443/pic/pic_mp443.png"
+		},
+		"1": {
+			"path": "assets/characters/mp443/pic/pic_mp443_d.png"
+		}
+	},
+	"mp446": {
+		"0": {
+			"path": "assets/characters/mp446/pic/pic_mp446.png"
+		},
+		"1": {
+			"path": "assets/characters/mp446/pic/pic_mp446_d.png"
+		}
+	},
+	"mp446mod": {
+		"0": {
+			"path": "assets/characters/mp446mod/pic/pic_mp446mod.png"
+		},
+		"1": {
+			"path": "assets/characters/mp446mod/pic/pic_mp446mod_d.png"
+		}
+	},
+	"mp448": {
+		"0": {
+			"path": "assets/characters/mp448/pic/pic_mp448.png"
+		},
+		"1": {
+			"path": "assets/characters/mp448/pic/pic_mp448_d.png"
+		}
+	},
+	"mp5": {
+		"0": {
+			"path": "assets/characters/mp5/pic/pic_mp5.png"
+		},
+		"1": {
+			"path": "assets/characters/mp5/pic/pic_mp5_d.png"
+		},
+		"2": {
+			"path": "assets/characters/mp5_3/pic/pic_mp5_3.png"
+		},
+		"3": {
+			"path": "assets/characters/mp5_3/pic/pic_mp5_3_d.png"
+		},
+		"4": {
+			"path": "assets/characters/mp5_1903/pic/pic_mp5_1903.png"
+		},
+		"5": {
+			"path": "assets/characters/mp5_1903/pic/pic_mp5_1903_d.png"
+		},
+		"6": {
+			"path": "assets/characters/mp5_3006/pic/pic_mp5_3006.png"
+		},
+		"7": {
+			"path": "assets/characters/mp5_3006/pic/pic_mp5_3006_d.png"
+		}
+	},
+	"mp5mod": {
+		"0": {
+			"path": "assets/characters/mp5mod/pic/pic_mp5mod.png"
+		},
+		"1": {
+			"path": "assets/characters/mp5mod/pic/pic_mp5mod_d.png"
+		}
+	},
+	"mp7": {
+		"0": {
+			"path": "assets/characters/mp7/pic/pic_mp7.png"
+		},
+		"1": {
+			"path": "assets/characters/mp7/pic/pic_mp7_d.png"
+		},
+		"2": {
+			"path": "assets/characters/mp7_2405/pic/pic_mp7_2405.png"
+		},
+		"3": {
+			"path": "assets/characters/mp7_2405/pic/pic_mp7_2405_d.png"
+		}
+	},
+	"mt9": {
+		"0": {
+			"path": "assets/characters/mt9/pic/pic_mt9.png"
+		},
+		"1": {
+			"path": "assets/characters/mt9/pic/pic_mt9_d.png"
+		}
+	},
+	"negev": {
+		"0": {
+			"path": "assets/characters/negev/pic/pic_negev.png"
+		},
+		"1": {
+			"path": "assets/characters/negev/pic/pic_negev_d.png"
+		}
+	},
+	"npc-ambassador": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-ambassador.png"
+		}
+	},
+	"npc-ange": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-ange.png"
+		},
+		"1": {
+			"path": "assets/characters/npc_other/pic/npc-ange_1.png"
+		}
+	},
+	"npc-angedamage": {
+		"0": {
+			"path": "assets/characters/special/npc-angedamage.png"
+		},
+		"1": {
+			"path": "assets/characters/special/npc-angedamage.png"
+		},
+		"2": {
+			"path": "assets/characters/special/npc-angedamage2.png"
+		},
+		"3": {
+			"path": "assets/characters/special/npc-angedamage3.png"
+		},
+		"4": {
+			"path": "assets/characters/special/npc-angedamage4.png"
+		}
+	},
+	"npc-angestreet": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-angestreet.png"
+		}
+	},
+	"npc-bodyguard1": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-bodyguard1.png"
+		}
+	},
+	"npc-bodyguard2": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-bodyguard2.png"
+		}
+	},
+	"npc-carter": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/pic_npc-carter.png"
+		}
+	},
+	"npc-deele": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/pic_npc-deele.png"
+		}
+	},
+	"npc-havel": {
+		"0": {
+			"path": "assets/characters/npc-havel/pic/npc-havel.png"
+		},
+		"1": {
+			"path": "assets/characters/npc-havel/pic/npc-havel2.png"
+		}
+	},
+	"npc-helian": {
+		"0": {
+			"path": "assets/characters/npc-helian/pic/pic_npc-helian.png"
+		},
+		"1": {
+			"path": "assets/characters/npc-helian/pic/pic_npc-helian_a.png"
+		},
+		"2": {
+			"path": "assets/characters/npc-helian/pic/pic_npc-helian_f.png"
+		},
+		"3": {
+			"path": "assets/characters/npc-helian/pic/pic_npc-helian_t.png"
+		}
+	},
+	"npc-jason": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-jason.png"
+		},
+		"1": {
+			"path": "assets/characters/npc_other/pic/npc-jason_1.png"
+		}
+	},
+	"npc-kalin": {
+		"0": {
+			"path": "assets/characters/special/版娘.png"
+		},
+		"1": {
+			"path": "assets/characters/special/版娘-1.png"
+		},
+		"2": {
+			"path": "assets/characters/special/版娘-2.png"
+		},
+		"3": {
+			"path": "assets/characters/special/版娘-3.png"
+		},
+		"4": {
+			"path": "assets/characters/special/版娘-4.png"
+		},
+		"5": {
+			"path": "assets/characters/special/版娘-5.png"
+		},
+		"6": {
+			"path": "assets/characters/special/版娘-6.png"
+		},
+		"7": {
+			"path": "assets/characters/special/版娘-7.png"
+		},
+		"8": {
+			"path": "assets/characters/special/版娘-8.png"
+		},
+		"9": {
+			"path": "assets/characters/special/版娘armor.png"
+		},
+		"10": {
+			"path": "assets/characters/npc_kalina_203/pic/npc_kalina_203.png"
+		}
+	},
+	"npc-kalinreporter": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-kalinreporter.png"
+		}
+	},
+	"npc-kyruger": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/pic_npc-kyruger.png"
+		}
+	},
+	"npc-lyco": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/pic_npc-lyco.png"
+		}
+	},
+	"npc-maid": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-maid.png"
+		}
+	},
+	"npc-mercurows": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-mercurows.png"
+		}
+	},
+	"npc-nimogen": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-nimogen.png"
+		}
+	},
+	"npc-oldartist": {
+		"0": {
+			"path": "assets/characters/npc-oldartist/pic/pic_npc-oldartist.png"
+		},
+		"1": {
+			"path": "assets/characters/npc-oldartist/pic/pic_npc-oldartist-1.png"
+		}
+	},
+	"npc-passerbyf": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-passerbyf.png"
+		}
+	},
+	"npc-passerbym": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-passerbym.png"
+		}
+	},
+	"npc-persica": {
+		"0": {
+			"path": "assets/characters/npc-persica/pic/pic_npc-persica.png"
+		},
+		"1": {
+			"path": "assets/characters/npc-persica/pic/pic_npc-persica_c.png"
+		},
+		"2": {
+			"path": "assets/characters/npc-persica/pic/pic_npc-persica_j.png"
+		},
+		"3": {
+			"path": "assets/characters/npc-persica/pic/pic_npc-persica_t.png"
+		}
+	},
+	"npc-seele": {
+		"0": {
+			"path": "assets/characters/npc-seele/pic/pic_npc-seele.png"
+		}
+	},
+	"npc-soldier": {
+		"0": {
+			"path": "assets/characters/npc-yegor/pic/npc-yegorarm3.png"
+		}
+	},
+	"npc-yegor": {
+		"0": {
+			"path": "assets/characters/npc-yegor/pic/npc-yegor.png"
+		},
+		"1": {
+			"path": "assets/characters/npc-yegor/pic/npc-yegorarm.png"
+		},
+		"2": {
+			"path": "assets/characters/npc-yegor/pic/npc-yegorarm2.png"
+		},
+		"3": {
+			"path": "assets/characters/npc-yegor/pic/npc-yegorarm3.png"
+		},
+		"4": {
+			"path": "assets/characters/npc-yegor/pic/npc-yegorarm4.png"
+		}
+	},
+	"npc-yegordamage": {
+		"0": {
+			"path": "assets/characters/npc-yegor/pic/npc-yegordamage.png"
+		}
+	},
+	"npc-zielinski": {
+		"0": {
+			"path": "assets/characters/npc-zielinski/pic/npc-zielinski.png"
+		}
+	},
+	"ns2000": {
+		"0": {
+			"path": "assets/characters/ns2000/pic/pic_ns2000.png"
+		},
+		"1": {
+			"path": "assets/characters/ns2000/pic/pic_ns2000_d.png"
+		}
+	},
+	"ntw20": {
+		"0": {
+			"path": "assets/characters/ntw20/pic/pic_ntw20.png"
+		},
+		"1": {
+			"path": "assets/characters/ntw20/pic/pic_ntw20_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ntw20_307/pic/pic_ntw20_307.png"
+		},
+		"3": {
+			"path": "assets/characters/ntw20_307/pic/pic_ntw20_307_d.png"
+		},
+		"4": {
+			"path": "assets/characters/ntw20_2301/pic/pic_ntw20_2301.png"
+		},
+		"5": {
+			"path": "assets/characters/ntw20_2301/pic/pic_ntw20_2301_d.png"
+		},
+		"6": {
+			"path": "assets/characters/ntw20_1101/pic/pic_ntw20_1101.png"
+		},
+		"7": {
+			"path": "assets/characters/ntw20_1101/pic/pic_ntw20_1101_d.png"
+		}
+	},
+	"ntw20mod": {
+		"0": {
+			"path": "assets/characters/ntw20mod/pic/pic_ntw20mod.png"
+		},
+		"1": {
+			"path": "assets/characters/ntw20mod/pic/pic_ntw20mod_d.png"
+		}
+	},
+	"nyto": {
+		"0": {
+			"path": "assets/characters/nyto/pic/nyto.png"
+		},
+		"1": {
+			"path": "assets/characters/nyto/pic/nyto_black.png"
+		}
+	},
+	"nytochild01": {
+		"0": {
+			"path": "assets/characters/nyto_child/pic/nytochild01_1.png"
+		},
+		"1": {
+			"path": "assets/characters/nyto_child/pic/nytochild01_2.png"
+		},
+		"2": {
+			"path": "assets/characters/nyto_child/pic/nytochild01_3.png"
+		}
+	},
+	"nytochild02": {
+		"0": {
+			"path": "assets/characters/nyto_child/pic/nytochild02_1.png"
+		},
+		"1": {
+			"path": "assets/characters/nyto_child/pic/nytochild02_2.png"
+		}
+	},
+	"nytochild03": {
+		"0": {
+			"path": "assets/characters/nyto_child/pic/nytochild03_1.png"
+		},
+		"1": {
+			"path": "assets/characters/nyto_child/pic/nytochild03_2.png"
+		},
+		"2": {
+			"path": "assets/characters/nyto_child/pic/nytochild03_3.png"
+		}
+	},
+	"nytochild04": {
+		"0": {
+			"path": "assets/characters/nyto_child/pic/nytochild04.png"
+		}
+	},
+	"nytoisomer": {
+		"0": {
+			"path": "assets/characters/nyto/pic/nyto_isomer_white.png"
+		},
+		"1": {
+			"path": "assets/characters/nyto/pic/nyto_isomer_white_laugh.png"
+		},
+		"2": {
+			"path": "assets/characters/nyto/pic/nyto_isomer_white_nervous.png"
+		},
+		"3": {
+			"path": "assets/characters/nyto/pic/nyto_isomer_shadow.png"
+		},
+		"4": {
+			"path": "assets/characters/nyto/pic/nyto_isomer_shadow_laugh.png"
+		},
+		"5": {
+			"path": "assets/characters/nyto/pic/nyto_isomer_shadow_nervous.png"
+		},
+		"6": {
+			"path": "assets/characters/nyto/pic/nyto_isomer_shadow_unfixed.png"
+		}
+	},
+	"nytowhite": {
+		"0": {
+			"path": "assets/characters/nyto/pic/nyto_white.png"
+		}
+	},
+	"nz75": {
+		"0": {
+			"path": "assets/characters/nz75/pic/pic_nz75.png"
+		},
+		"1": {
+			"path": "assets/characters/nz75/pic/pic_nz75_d.png"
+		},
+		"2": {
+			"path": "assets/characters/nz75_1702/pic/pic_nz75_1702.png"
+		},
+		"3": {
+			"path": "assets/characters/nz75_1702/pic/pic_nz75_1702_d.png"
+		},
+		"4": {
+			"path": "assets/characters/nz75_403/pic/pic_nz75_403.png"
+		},
+		"5": {
+			"path": "assets/characters/nz75_403/pic/pic_nz75_403_d.png"
+		}
+	},
+	"obr": {
+		"0": {
+			"path": "assets/characters/obr/pic/pic_obr.png"
+		},
+		"1": {
+			"path": "assets/characters/obr/pic/pic_obr_d.png"
+		}
+	},
+	"oc44": {
+		"0": {
+			"path": "assets/characters/oc44/pic/pic_oc44.png"
+		},
+		"1": {
+			"path": "assets/characters/oc44/pic/pic_oc44_d.png"
+		},
+		"2": {
+			"path": "assets/characters/oc44_1608/pic/pic_oc44_1608.png"
+		},
+		"3": {
+			"path": "assets/characters/oc44_1608/pic/pic_oc44_1608_d.png"
+		},
+		"4": {
+			"path": "assets/characters/oc44_3406/pic/pic_oc44_3406.png"
+		},
+		"5": {
+			"path": "assets/characters/oc44_3406/pic/pic_oc44_3406_d.png"
+		}
+	},
+	"ots12": {
+		"0": {
+			"path": "assets/characters/ots12/pic/pic_ots12.png"
+		},
+		"1": {
+			"path": "assets/characters/ots12/pic/pic_ots12_d.png"
+		}
+	},
+	"ots14": {
+		"0": {
+			"path": "assets/characters/ots14/pic/pic_ots14.png"
+		},
+		"1": {
+			"path": "assets/characters/ots14/pic/pic_ots14_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ots14_1203/pic/pic_ots14_1203.png"
+		},
+		"3": {
+			"path": "assets/characters/ots14_1203/pic/pic_ots14_1203_d.png"
+		},
+		"4": {
+			"path": "assets/characters/ots14_3001/pic/pic_ots14_3001.png"
+		},
+		"5": {
+			"path": "assets/characters/ots14_3001/pic/pic_ots14_3001_d.png"
+		}
+	},
+	"ots39": {
+		"0": {
+			"path": "assets/characters/ots39/pic/pic_ots39.png"
+		},
+		"1": {
+			"path": "assets/characters/ots39/pic/pic_ots39_d.png"
+		}
+	},
+	"p08": {
+		"0": {
+			"path": "assets/characters/p08/pic/pic_p08.png"
+		},
+		"1": {
+			"path": "assets/characters/p08/pic/pic_p08_d.png"
+		}
+	},
+	"p22": {
+		"0": {
+			"path": "assets/characters/p22/pic/pic_p22.png"
+		},
+		"1": {
+			"path": "assets/characters/p22/pic/pic_p22_d.png"
+		}
+	},
+	"p226": {
+		"0": {
+			"path": "assets/characters/p226/pic/pic_p226.png"
+		},
+		"1": {
+			"path": "assets/characters/p226/pic/pic_p226_d.png"
+		}
+	},
+	"p30": {
+		"0": {
+			"path": "assets/characters/p30/pic/pic_p30.png"
+		},
+		"1": {
+			"path": "assets/characters/p30/pic/pic_p30_d.png"
+		},
+		"2": {
+			"path": "assets/characters/p30_4404/pic/pic_p30_4404.png"
+		},
+		"3": {
+			"path": "assets/characters/p30_4404/pic/pic_p30_4404_d.png"
+		}
+	},
+	"p38": {
+		"0": {
+			"path": "assets/characters/p38/pic/pic_p38.png"
+		},
+		"1": {
+			"path": "assets/characters/p38/pic/pic_p38_d.png"
+		},
+		"2": {
+			"path": "assets/characters/p38_2410/pic/pic_p38_2410.png"
+		},
+		"3": {
+			"path": "assets/characters/p38_2410/pic/pic_p38_2410_d.png"
+		}
+	},
+	"p38_he": {
+		"2": {
+			"path": "assets/characters/p38_2410/pic/pic_p38_2410.png"
+		},
+		"3": {
+			"path": "assets/characters/p38_2410/pic/pic_p38_2410_d.png"
+		}
+	},
+	"p7": {
+		"0": {
+			"path": "assets/characters/p7/pic/pic_p7.png"
+		},
+		"1": {
+			"path": "assets/characters/p7/pic/pic_p7_d.png"
+		},
+		"2": {
+			"path": "assets/characters/p7_1404/pic/pic_p7_1404.png"
+		},
+		"3": {
+			"path": "assets/characters/p7_1404/pic/pic_p7_1404_d.png"
+		},
+		"4": {
+			"path": "assets/characters/p7_606/pic/pic_p7_606.png"
+		},
+		"5": {
+			"path": "assets/characters/p7_606/pic/pic_p7_606_d.png"
+		}
+	},
+	"p90": {
+		"0": {
+			"path": "assets/characters/p90/pic/pic_p90.png"
+		},
+		"1": {
+			"path": "assets/characters/p90/pic/pic_p90_d.png"
+		},
+		"2": {
+			"path": "assets/characters/p90_2802/pic/pic_p90_2802.png"
+		},
+		"3": {
+			"path": "assets/characters/p90_2802/pic/pic_p90_2802_d.png"
+		}
+	},
+	"p99": {
+		"0": {
+			"path": "assets/characters/p99/pic/pic_p99.png"
+		},
+		"1": {
+			"path": "assets/characters/p99/pic/pic_p99_d.png"
+		}
+	},
+	"pa15": {
+		"0": {
+			"path": "assets/characters/pa15/pic/pic_pa15.png"
+		},
+		"1": {
+			"path": "assets/characters/pa15/pic/pic_pa15_d.png"
+		},
+		"2": {
+			"path": "assets/characters/pa15_4202/pic/pic_pa15_4202.png"
+		},
+		"3": {
+			"path": "assets/characters/pa15_4202/pic/pic_pa15_4202_d.png"
+		}
+	},
+	"pdw": {
+		"0": {
+			"path": "assets/characters/pdw/pic/pic_pdw.png"
+		},
+		"1": {
+			"path": "assets/characters/pdw/pic/pic_pdw_d.png"
+		},
+		"2": {
+			"path": "assets/characters/pdw_4005/pic/pic_pdw_4005.png"
+		},
+		"3": {
+			"path": "assets/characters/pdw_4005/pic/pic_pdw_4005_d.png"
+		}
+	},
+	"pdw_he": {
+		"2": {
+			"path": "assets/characters/pdw_4005/pic/pic_pdw_4005.png"
+		},
+		"3": {
+			"path": "assets/characters/pdw_4005/pic/pic_pdw_4005_d.png"
+		}
+	},
+	"pk": {
+		"0": {
+			"path": "assets/characters/pk/pic/pic_pk.png"
+		},
+		"1": {
+			"path": "assets/characters/pk/pic/pic_pk_d.png"
+		},
+		"2": {
+			"path": "assets/characters/pk_605/pic/pic_pk_605.png"
+		},
+		"3": {
+			"path": "assets/characters/pk_605/pic/pic_pk_605_d.png"
+		}
+	},
+	"pkp": {
+		"0": {
+			"path": "assets/characters/pkp/pic/pic_pkp.png"
+		},
+		"1": {
+			"path": "assets/characters/pkp/pic/pic_pkp_d.png"
+		},
+		"2": {
+			"path": "assets/characters/pkp_1201/pic/pic_pkp_1201.png"
+		},
+		"3": {
+			"path": "assets/characters/pkp_1201/pic/pic_pkp_1201_d.png"
+		},
+		"4": {
+			"path": "assets/characters/pkp_1503/pic/pic_pkp_1503.png"
+		},
+		"5": {
+			"path": "assets/characters/pkp_1503/pic/pic_pkp_1503_d.png"
+		},
+		"6": {
+			"path": "assets/characters/pkp_3102/pic/pic_pkp_3102.png"
+		},
+		"7": {
+			"path": "assets/characters/pkp_3102/pic/pic_pkp_3102_d.png"
+		},
+		"8": {
+			"path": "assets/characters/pkp_4203/pic/pic_pkp_4203.png"
+		},
+		"9": {
+			"path": "assets/characters/pkp_4203/pic/pic_pkp_4203_d.png"
+		}
+	},
+	"pk_he": {
+		"2": {
+			"path": "assets/characters/pk_605/pic/pic_pk_605.png"
+		},
+		"3": {
+			"path": "assets/characters/pk_605/pic/pic_pk_605_d.png"
+		}
+	},
+	"pm": {
+		"0": {
+			"path": "assets/characters/pm/pic/pic_pm.png"
+		},
+		"1": {
+			"path": "assets/characters/pm/pic/pic_pm_d.png"
+		},
+		"2": {
+			"path": "assets/characters/pm_1/pic/pic_pm_1.png"
+		},
+		"3": {
+			"path": "assets/characters/pm_1/pic/pic_pm_1_d.png"
+		}
+	},
+	"pm06": {
+		"0": {
+			"path": "assets/characters/pm06/pic/pic_pm06.png"
+		},
+		"1": {
+			"path": "assets/characters/pm06/pic/pic_pm06_d.png"
+		}
+	},
+	"pm9": {
+		"0": {
+			"path": "assets/characters/pm9/pic/pic_pm9.png"
+		},
+		"1": {
+			"path": "assets/characters/pm9/pic/pic_pm9_d.png"
+		}
+	},
+	"pm_he": {
+		"2": {
+			"path": "assets/characters/pm_1/pic/pic_pm_1.png"
+		},
+		"3": {
+			"path": "assets/characters/pm_1/pic/pic_pm_1_d.png"
+		}
+	},
+	"pp19": {
+		"0": {
+			"path": "assets/characters/pp19/pic/pic_pp19.png"
+		},
+		"1": {
+			"path": "assets/characters/pp19/pic/pic_pp19_d.png"
+		},
+		"2": {
+			"path": "assets/characters/pp19_2204/pic/pic_pp19_2204.png"
+		},
+		"3": {
+			"path": "assets/characters/pp19_2204/pic/pic_pp19_2204_d.png"
+		}
+	},
+	"pp1901": {
+		"0": {
+			"path": "assets/characters/pp1901/pic/pic_pp1901.png"
+		},
+		"1": {
+			"path": "assets/characters/pp1901/pic/pic_pp1901_d.png"
+		}
+	},
+	"pp2000": {
+		"0": {
+			"path": "assets/characters/pp2000/pic/pic_pp2000.png"
+		},
+		"1": {
+			"path": "assets/characters/pp2000/pic/pic_pp2000_d.png"
+		}
+	},
+	"pp90": {
+		"0": {
+			"path": "assets/characters/pp90/pic/pic_pp90.png"
+		},
+		"1": {
+			"path": "assets/characters/pp90/pic/pic_pp90_d.png"
+		}
+	},
+	"ppk": {
+		"0": {
+			"path": "assets/characters/ppk/pic/pic_ppk.png"
+		},
+		"1": {
+			"path": "assets/characters/ppk/pic/pic_ppk_d.png"
+		}
+	},
+	"pps43": {
+		"0": {
+			"path": "assets/characters/pps43/pic/pic_pps43.png"
+		},
+		"1": {
+			"path": "assets/characters/pps43/pic/pic_pps43_d.png"
+		}
+	},
+	"ppsh41": {
+		"0": {
+			"path": "assets/characters/ppsh41/pic/pic_ppsh41.png"
+		},
+		"1": {
+			"path": "assets/characters/ppsh41/pic/pic_ppsh41_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ppsh41_602/pic/pic_ppsh41_602.png"
+		},
+		"3": {
+			"path": "assets/characters/ppsh41_602/pic/pic_ppsh41_602_d.png"
+		}
+	},
+	"psg1": {
+		"0": {
+			"path": "assets/characters/psg1/pic/pic_psg1.png"
+		},
+		"1": {
+			"path": "assets/characters/psg1/pic/pic_psg1_d.png"
+		},
+		"2": {
+			"path": "assets/characters/psg1_3808/pic/pic_psg1_3808.png"
+		},
+		"3": {
+			"path": "assets/characters/psg1_3808/pic/pic_psg1_3808_d.png"
+		}
+	},
+	"psg1_he": {
+		"2": {
+			"path": "assets/characters/psg1_3808/pic/pic_psg1_3808.png"
+		},
+		"3": {
+			"path": "assets/characters/psg1_3808/pic/pic_psg1_3808_d.png"
+		}
+	},
+	"psm": {
+		"0": {
+			"path": "assets/characters/psm/pic/pic_psm.png"
+		},
+		"1": {
+			"path": "assets/characters/psm/pic/pic_psm_d.png"
+		}
+	},
+	"ptrd": {
+		"0": {
+			"path": "assets/characters/ptrd/pic/pic_ptrd.png"
+		},
+		"1": {
+			"path": "assets/characters/ptrd/pic/pic_ptrd_d.png"
+		}
+	},
+	"px4storm": {
+		"0": {
+			"path": "assets/characters/px4storm/pic/pic_px4storm.png"
+		},
+		"1": {
+			"path": "assets/characters/px4storm/pic/pic_px4storm_d.png"
+		},
+		"2": {
+			"path": "assets/characters/px4storm_2801/pic/pic_px4storm_2801.png"
+		},
+		"3": {
+			"path": "assets/characters/px4storm_2801/pic/pic_px4storm_2801_d.png"
+		}
+	},
+	"px4storm_he": {
+		"2": {
+			"path": "assets/characters/px4storm_2801/pic/pic_px4storm_2801.png"
+		},
+		"3": {
+			"path": "assets/characters/px4storm_2801/pic/pic_px4storm_2801_d.png"
+		}
+	},
+	"python": {
+		"0": {
+			"path": "assets/characters/python/pic/pic_python.png"
+		},
+		"1": {
+			"path": "assets/characters/python/pic/pic_python_d.png"
+		}
+	},
+	"pzb39": {
+		"0": {
+			"path": "assets/characters/pzb39/pic/pic_pzb39.png"
+		},
+		"1": {
+			"path": "assets/characters/pzb39/pic/pic_pzb39_d.png"
+		},
+		"2": {
+			"path": "assets/characters/pzb39_1506/pic/pic_pzb39_1506.png"
+		},
+		"3": {
+			"path": "assets/characters/pzb39_1506/pic/pic_pzb39_1506_d.png"
+		}
+	},
+	"qbu88": {
+		"0": {
+			"path": "assets/characters/qbu88/pic/pic_qbu88.png"
+		},
+		"1": {
+			"path": "assets/characters/qbu88/pic/pic_qbu88_d.png"
+		},
+		"2": {
+			"path": "assets/characters/qbu88_3801/pic/pic_qbu88_3801.png"
+		},
+		"3": {
+			"path": "assets/characters/qbu88_3801/pic/pic_qbu88_3801_d.png"
+		},
+		"4": {
+			"path": "assets/characters/qbu88_3801/pic/pic_qbu88_hallo.png"
+		},
+		"5": {
+			"path": "assets/characters/qbu88_3801/pic/pic_qbu88_hallo_d.png"
+		}
+	},
+	"r5rgp": {
+		"0": {
+			"path": "assets/characters/r5rgp/pic/pic_r5rgp.png"
+		},
+		"1": {
+			"path": "assets/characters/r5rgp/pic/pic_r5rgp_d.png"
+		}
+	},
+	"r93": {
+		"0": {
+			"path": "assets/characters/r93/pic/pic_r93.png"
+		},
+		"1": {
+			"path": "assets/characters/r93/pic/pic_r93_d.png"
+		},
+		"2": {
+			"path": "assets/characters/r93_3501/pic/pic_r93_3501.png"
+		},
+		"3": {
+			"path": "assets/characters/r93_3501/pic/pic_r93_3501_d.png"
+		}
+	},
+	"raidenmei": {
+		"0": {
+			"path": "assets/characters/raidenmei/pic/pic_raidenmei.png"
+		},
+		"1": {
+			"path": "assets/characters/raidenmei/pic/pic_raidenmei_d.png"
+		}
+	},
+	"rfb": {
+		"0": {
+			"path": "assets/characters/rfb/pic/pic_rfb.png"
+		},
+		"1": {
+			"path": "assets/characters/rfb/pic/pic_rfb_d.png"
+		},
+		"2": {
+			"path": "assets/characters/rfb_1601/pic/pic_rfb_1601.png"
+		},
+		"3": {
+			"path": "assets/characters/rfb_1601/pic/pic_rfb_1601_d.png"
+		},
+		"4": {
+			"path": "assets/characters/rfb_2902/pic/pic_rfb_2902.png"
+		},
+		"5": {
+			"path": "assets/characters/rfb_2902/pic/pic_rfb_2902_d.png"
+		}
+	},
+	"rfb_he": {
+		"0": {
+			"path": "assets/characters/rfb/pic/pic_rfb.png"
+		},
+		"1": {
+			"path": "assets/characters/rfb/pic/pic_rfb_d.png"
+		},
+		"4": {
+			"path": "assets/characters/rfb_2902/pic/pic_rfb_2902.png"
+		},
+		"5": {
+			"path": "assets/characters/rfb_2902/pic/pic_rfb_2902_d.png"
+		}
+	},
+	"ribeyrolles": {
+		"0": {
+			"path": "assets/characters/ribeyrolles/pic/pic_ribeyrolles.png"
+		},
+		"1": {
+			"path": "assets/characters/ribeyrolles/pic/pic_ribeyrolles_d.png"
+		}
+	},
+	"rico": {
+		"0": {
+			"path": "assets/characters/rico/pic/pic_rico.png"
+		},
+		"1": {
+			"path": "assets/characters/rico/pic/pic_rico_d.png"
+		},
+		"2": {
+			"path": "assets/characters/rico_542/pic/pic_rico_542.png"
+		},
+		"3": {
+			"path": "assets/characters/rico_542/pic/pic_rico_542_d.png"
+		},
+		"4": {
+			"path": "assets/characters/rico_542/pic/pic_rico_542_d1.png"
+		}
+	},
+	"rmb93": {
+		"0": {
+			"path": "assets/characters/rmb93/pic/pic_rmb93.png"
+		},
+		"1": {
+			"path": "assets/characters/rmb93/pic/pic_rmb93_d.png"
+		}
+	},
+	"ro635-noarmor": {
+		"0": {
+			"path": "assets/characters/ro635_noarmor/pic/pic_ro635_noarmor0.png"
+		},
+		"1": {
+			"path": "assets/characters/ro635/pic/pic_ro635_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ro635_noarmor/pic/pic_ro635_noarmor_1.png"
+		},
+		"3": {
+			"path": "assets/characters/ro635_noarmor/pic/pic_ro635_noarmor_2.png"
+		},
+		"4": {
+			"path": "assets/characters/ro635_noarmor/pic/pic_ro635_noarmor_3.png"
+		},
+		"5": {
+			"path": "assets/characters/ro635_noarmor/pic/pic_ro635_noarmor_4.png"
+		}
+	},
+	"ro635": {
+		"0": {
+			"path": "assets/characters/ro635/pic/pic_ro635.png"
+		},
+		"1": {
+			"path": "assets/characters/ro635/pic/pic_ro635_d.png"
+		},
+		"2": {
+			"path": "assets/characters/special/pic_ro635_1.png"
+		},
+		"3": {
+			"path": "assets/characters/special/pic_ro635_2.png"
+		},
+		"4": {
+			"path": "assets/characters/special/pic_ro635_3.png"
+		},
+		"5": {
+			"path": "assets/characters/special/pic_ro635_4.png"
+		},
+		"6": {
+			"path": "assets/characters/special/ro635dinergate.png"
+		}
+	},
+	"rpd": {
+		"0": {
+			"path": "assets/characters/rpd/pic/pic_rpd.png"
+		},
+		"1": {
+			"path": "assets/characters/rpd/pic/pic_rpd_d.png"
+		}
+	},
+	"rpk16": {
+		"0": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16.png"
+		},
+		"1": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16_d.png"
+		},
+		"2": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16_eyes2.png"
+		},
+		"3": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16_eyes3.png"
+		},
+		"4": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16_eyes4.png"
+		},
+		"5": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16_eyes5.png"
+		},
+		"6": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16_eyes6.png"
+		}
+	},
+	"rt20": {
+		"0": {
+			"path": "assets/characters/rt20/pic/pic_rt20.png"
+		},
+		"1": {
+			"path": "assets/characters/rt20/pic/pic_rt20_d.png"
+		}
+	},
+	"saf": {
+		"0": {
+			"path": "assets/characters/saf/pic/pic_saf.png"
+		},
+		"1": {
+			"path": "assets/characters/saf/pic/pic_saf_d.png"
+		}
+	},
+	"saiga12": {
+		"0": {
+			"path": "assets/characters/saiga12/pic/pic_saiga12.png"
+		},
+		"1": {
+			"path": "assets/characters/saiga12/pic/pic_saiga12_d.png"
+		}
+	},
+	"sar21": {
+		"0": {
+			"path": "assets/characters/sar21/pic/pic_sar21.png"
+		},
+		"1": {
+			"path": "assets/characters/sar21/pic/pic_sar21_d.png"
+		}
+	},
+	"sat8": {
+		"0": {
+			"path": "assets/characters/sat8/pic/pic_sat8.png"
+		},
+		"1": {
+			"path": "assets/characters/sat8/pic/pic_sat8_d.png"
+		},
+		"2": {
+			"path": "assets/characters/sat8_1802/pic/pic_sat8_1802.png"
+		},
+		"3": {
+			"path": "assets/characters/sat8_1802/pic/pic_sat8_1802_d.png"
+		},
+		"4": {
+			"path": "assets/characters/sat8_2601/pic/pic_sat8_2601.png"
+		},
+		"5": {
+			"path": "assets/characters/sat8_2601/pic/pic_sat8_2601_d.png"
+		}
+	},
+	"scout": {
+		"0": {
+			"path": "assets/characters/scout/pic/pic_scout.png"
+		},
+		"1": {
+			"path": "assets/characters/scout/pic/pic_scout_d.png"
+		}
+	},
+	"seele": {
+		"0": {
+			"path": "assets/characters/seele/pic/pic_seele.png"
+		},
+		"1": {
+			"path": "assets/characters/seele/pic/pic_seele_d.png"
+		},
+		"2": {
+			"path": "assets/characters/seelevollerei/pic/seelevollerei.png"
+		},
+		"3": {
+			"path": "assets/characters/seele_508/pic/pic_seele_508_d.png"
+		}
+	},
+	"sei": {
+		"0": {
+			"path": "assets/characters/sei/pic/pic_sei.png"
+		},
+		"1": {
+			"path": "assets/characters/sei/pic/pic_sei_d.png"
+		},
+		"2": {
+			"path": "assets/characters/sei/pic/pic_sei_1.png"
+		},
+		"3": {
+			"path": "assets/characters/sei/pic/pic_sei_2.png"
+		},
+		"4": {
+			"path": "assets/characters/sei/pic/pic_sei_3.png"
+		},
+		"5": {
+			"path": "assets/characters/sei/pic/pic_sei_4.png"
+		}
+	},
+	"shipka": {
+		"0": {
+			"path": "assets/characters/shipka/pic/pic_shipka.png"
+		},
+		"1": {
+			"path": "assets/characters/shipka/pic/pic_shipka_d.png"
+		}
+	},
+	"sig510": {
+		"0": {
+			"path": "assets/characters/sig510/pic/pic_sig510.png"
+		},
+		"1": {
+			"path": "assets/characters/sig510/pic/pic_sig510_d.png"
+		}
+	},
+	"sig556": {
+		"0": {
+			"path": "assets/characters/sig556/pic/pic_sig556.png"
+		},
+		"1": {
+			"path": "assets/characters/sig556/pic/pic_sig556_d.png"
+		}
+	},
+	"six12": {
+		"0": {
+			"path": "assets/characters/six12/pic/pic_six12.png"
+		},
+		"1": {
+			"path": "assets/characters/six12/pic/pic_six12_d.png"
+		}
+	},
+	"sks": {
+		"0": {
+			"path": "assets/characters/sks/pic/pic_sks.png"
+		},
+		"1": {
+			"path": "assets/characters/sks/pic/pic_sks_d.png"
+		}
+	},
+	"sl8": {
+		"0": {
+			"path": "assets/characters/sl8/pic/pic_sl8.png"
+		},
+		"1": {
+			"path": "assets/characters/sl8/pic/pic_sl8_d.png"
+		},
+		"2": {
+			"path": "assets/characters/sl8/pic/pic_sl8_1.png"
+		}
+	},
+	"sopii": {
+		"0": {
+			"path": "assets/characters/m4 sopmod ii/pic/pic_m4 sopmod ii.png"
+		},
+		"1": {
+			"path": "assets/characters/m4 sopmod ii/pic/pic_m4 sopmod ii_d.png"
+		},
+		"2": {
+			"path": "assets/characters/special/sopii_sad.png"
+		},
+		"3": {
+			"path": "assets/characters/special/sopii_t.png"
+		}
+	},
+	"sopiidamage": {
+		"0": {
+			"path": "assets/characters/special/m4 sopmod iidamage.png"
+		},
+		"1": {
+			"path": "assets/characters/special/m4 sopmod iidamage.png"
+		},
+		"2": {
+			"path": "assets/characters/special/m4 sopmod iidamage2.png"
+		},
+		"3": {
+			"path": "assets/characters/special/m4 sopmod iidamage3.png"
+		}
+	},
+	"spas12": {
+		"0": {
+			"path": "assets/characters/spas12/pic/pic_spas12.png"
+		},
+		"1": {
+			"path": "assets/characters/spas12/pic/pic_spas12_d.png"
+		},
+		"2": {
+			"path": "assets/characters/spas12_2408/pic/pic_spas12_2408.png"
+		},
+		"3": {
+			"path": "assets/characters/spas12_2408/pic/pic_spas12_2408_d.png"
+		},
+		"4": {
+			"path": "assets/characters/spas12_522/pic/pic_spas12_522.png"
+		},
+		"5": {
+			"path": "assets/characters/spas12_522/pic/pic_spas12_522_d.png"
+		}
+	},
+	"spectrem4": {
+		"0": {
+			"path": "assets/characters/spectrem4/pic/pic_spectrem4.png"
+		},
+		"1": {
+			"path": "assets/characters/spectrem4/pic/pic_spectrem4_d.png"
+		}
+	},
+	"spitfire": {
+		"0": {
+			"path": "assets/characters/spitfire/pic/pic_spitfire.png"
+		},
+		"1": {
+			"path": "assets/characters/spitfire/pic/pic_spitfire_d.png"
+		},
+		"2": {
+			"path": "assets/characters/spitfire_1405/pic/pic_spitfire_1405.png"
+		},
+		"3": {
+			"path": "assets/characters/spitfire_1405/pic/pic_spitfire_1405_d.png"
+		}
+	},
+	"spp1": {
+		"0": {
+			"path": "assets/characters/spp1/pic/pic_spp1.png"
+		},
+		"1": {
+			"path": "assets/characters/spp1/pic/pic_spp1_d.png"
+		},
+		"2": {
+			"path": "assets/characters/spp1_1703/pic/pic_spp1_1703.png"
+		},
+		"3": {
+			"path": "assets/characters/spp1_1703/pic/pic_spp1_1703_d.png"
+		},
+		"4": {
+			"path": "assets/characters/spp1_4207/pic/pic_spp1_4207.png"
+		},
+		"5": {
+			"path": "assets/characters/spp1_4207/pic/pic_spp1_4207_d.png"
+		}
+	},
+	"sps": {
+		"0": {
+			"path": "assets/characters/sps/pic/pic_sps.png"
+		},
+		"1": {
+			"path": "assets/characters/sps/pic/pic_sps_d.png"
+		},
+		"2": {
+			"path": "assets/characters/sps_3506/pic/pic_sps_3506.png"
+		},
+		"3": {
+			"path": "assets/characters/sps_3506/pic/pic_sps_3506_d.png"
+		}
+	},
+	"sr3mp": {
+		"0": {
+			"path": "assets/characters/sr3mp/pic/pic_sr3mp.png"
+		},
+		"1": {
+			"path": "assets/characters/sr3mp/pic/pic_sr3mp_d.png"
+		},
+		"2": {
+			"path": "assets/characters/sr3mp_807/pic/pic_sr3mp_807.png"
+		},
+		"3": {
+			"path": "assets/characters/sr3mp_807/pic/pic_sr3mp_807_d.png"
+		}
+	},
+	"ssg3000": {
+		"0": {
+			"path": "assets/characters/ssg3000/pic/pic_ssg3000.png"
+		},
+		"1": {
+			"path": "assets/characters/ssg3000/pic/pic_ssg3000_d.png"
+		}
+	},
+	"ssg69": {
+		"0": {
+			"path": "assets/characters/ssg69/pic/pic_ssg69.png"
+		},
+		"1": {
+			"path": "assets/characters/ssg69/pic/pic_ssg69_d.png"
+		}
+	},
+	"stella": {
+		"0": {
+			"path": "assets/characters/stella/pic/pic_stella.png"
+		},
+		"1": {
+			"path": "assets/characters/stella/pic/pic_stella_d.png"
+		},
+		"2": {
+			"path": "assets/characters/stella/pic/pic_stella_angry.png"
+		},
+		"3": {
+			"path": "assets/characters/stella/pic/pic_stella_smile.png"
+		}
+	},
+	"stenmk2": {
+		"0": {
+			"path": "assets/characters/stenmk2/pic/pic_stenmk2.png"
+		},
+		"1": {
+			"path": "assets/characters/stenmk2/pic/pic_stenmk2_d.png"
+		},
+		"2": {
+			"path": "assets/characters/stenmk2_603/pic/pic_stenmk2_603.png"
+		},
+		"3": {
+			"path": "assets/characters/stenmk2_603/pic/pic_stenmk2_603_d.png"
+		}
+	},
+	"stenmk2mod": {
+		"0": {
+			"path": "assets/characters/stenmk2mod/pic/pic_stenmk2mod.png"
+		},
+		"1": {
+			"path": "assets/characters/stenmk2mod/pic/pic_stenmk2mod_d.png"
+		}
+	},
+	"stenmk2_he": {
+		"2": {
+			"path": "assets/characters/stenmk2_603/pic/pic_stenmk2_603.png"
+		},
+		"3": {
+			"path": "assets/characters/stenmk2_603/pic/pic_stenmk2_603_d.png"
+		}
+	},
+	"stg44": {
+		"0": {
+			"path": "assets/characters/stg44/pic/pic_stg44.png"
+		},
+		"1": {
+			"path": "assets/characters/stg44/pic/pic_stg44_d.png"
+		}
+	},
+	"stg44mod": {
+		"0": {
+			"path": "assets/characters/stg44mod/pic/pic_stg44mod.png"
+		},
+		"1": {
+			"path": "assets/characters/stg44mod/pic/pic_stg44mod_d.png"
+		}
+	},
+	"supersass": {
+		"0": {
+			"path": "assets/characters/supersass/pic/pic_supersass.png"
+		},
+		"1": {
+			"path": "assets/characters/supersass/pic/pic_supersass_d.png"
+		}
+	},
+	"supershorty": {
+		"0": {
+			"path": "assets/characters/supershorty/pic/pic_supershorty.png"
+		},
+		"1": {
+			"path": "assets/characters/supershorty/pic/pic_supershorty_d.png"
+		},
+		"2": {
+			"path": "assets/characters/supershorty_1704/pic/pic_supershorty_1704.png"
+		},
+		"3": {
+			"path": "assets/characters/supershorty_1704/pic/pic_supershorty_1704_d.png"
+		}
+	},
+	"sv98": {
+		"0": {
+			"path": "assets/characters/sv98/pic/pic_sv98.png"
+		},
+		"1": {
+			"path": "assets/characters/sv98/pic/pic_sv98_d.png"
+		},
+		"2": {
+			"path": "assets/characters/sv98_1906/pic/pic_sv98_1906.png"
+		},
+		"3": {
+			"path": "assets/characters/sv98_1906/pic/pic_sv98_1906_d.png"
+		},
+		"4": {
+			"path": "assets/characters/sv98_502/pic/pic_sv98_502.png"
+		},
+		"5": {
+			"path": "assets/characters/sv98_502/pic/pic_sv98_502_d.png"
+		}
+	},
+	"sv98mod": {
+		"0": {
+			"path": "assets/characters/sv98mod/pic/pic_sv98mod.png"
+		},
+		"1": {
+			"path": "assets/characters/sv98mod/pic/pic_sv98mod_d.png"
+		}
+	},
+	"sv98_he": {
+		"2": {
+			"path": "assets/characters/sv98_1906/pic/pic_sv98_1906.png"
+		},
+		"3": {
+			"path": "assets/characters/sv98_1906/pic/pic_sv98_1906_d.png"
+		},
+		"4": {
+			"path": "assets/characters/sv98_502/pic/pic_sv98_502.png"
+		},
+		"5": {
+			"path": "assets/characters/sv98_502/pic/pic_sv98_502_d.png"
+		}
+	},
+	"svd": {
+		"0": {
+			"path": "assets/characters/svd/pic/pic_svd.png"
+		},
+		"1": {
+			"path": "assets/characters/svd/pic/pic_svd_d.png"
+		},
+		"2": {
+			"path": "assets/characters/svd_305/pic/pic_svd_305.png"
+		},
+		"3": {
+			"path": "assets/characters/svd_305/pic/pic_svd_305_d.png"
+		}
+	},
+	"svt38": {
+		"0": {
+			"path": "assets/characters/svt38/pic/pic_svt38.png"
+		},
+		"1": {
+			"path": "assets/characters/svt38/pic/pic_svt38_d.png"
+		}
+	},
+	"t5000": {
+		"0": {
+			"path": "assets/characters/t5000/pic/pic_t5000.png"
+		},
+		"1": {
+			"path": "assets/characters/t5000/pic/pic_t5000_d.png"
+		},
+		"2": {
+			"path": "assets/characters/t5000_3106/pic/pic_t5000_3106.png"
+		},
+		"3": {
+			"path": "assets/characters/t5000_3106/pic/pic_t5000_3106_d.png"
+		}
+	},
+	"t65": {
+		"0": {
+			"path": "assets/characters/t65/pic/pic_t65.png"
+		},
+		"1": {
+			"path": "assets/characters/t65/pic/pic_t65_d.png"
+		}
+	},
+	"t77": {
+		"0": {
+			"path": "assets/characters/t77/pic/pic_t77.png"
+		},
+		"1": {
+			"path": "assets/characters/t77/pic/pic_t77_d.png"
+		}
+	},
+	"t91": {
+		"0": {
+			"path": "assets/characters/t91/pic/pic_t91.png"
+		},
+		"1": {
+			"path": "assets/characters/t91/pic/pic_t91_d.png"
+		},
+		"2": {
+			"path": "assets/characters/t91_4206/pic/pic_t91_4206.png"
+		},
+		"3": {
+			"path": "assets/characters/t91_4206/pic/pic_t91_4206_d.png"
+		}
+	},
+	"tabuk": {
+		"0": {
+			"path": "assets/characters/tabuk/pic/pic_tabuk.png"
+		},
+		"1": {
+			"path": "assets/characters/tabuk/pic/pic_tabuk_d.png"
+		}
+	},
+	"tac50": {
+		"0": {
+			"path": "assets/characters/tac50/pic/pic_tac50.png"
+		},
+		"1": {
+			"path": "assets/characters/tac50/pic/pic_tac50_d.png"
+		},
+		"2": {
+			"path": "assets/characters/tac50_2602/pic/pic_tac50_2602.png"
+		},
+		"3": {
+			"path": "assets/characters/tac50_2602/pic/pic_tac50_2602_d.png"
+		}
+	},
+	"tar21": {
+		"0": {
+			"path": "assets/characters/tar21/pic/pic_tar21.png"
+		},
+		"1": {
+			"path": "assets/characters/tar21/pic/pic_tar21_d.png"
+		}
+	},
+	"tcms": {
+		"0": {
+			"path": "assets/characters/tcms/pic/pic_tcms.png"
+		},
+		"1": {
+			"path": "assets/characters/tcms/pic/pic_tcms_d.png"
+		}
+	},
+	"tec9": {
+		"0": {
+			"path": "assets/characters/tec9/pic/pic_tec9.png"
+		},
+		"1": {
+			"path": "assets/characters/tec9/pic/pic_tec9_d.png"
+		}
+	},
+	"testpilot": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/testpilot.png"
+		}
+	},
+	"theresa": {
+		"0": {
+			"path": "assets/characters/theresa/pic/pic_theresa.png"
+		},
+		"1": {
+			"path": "assets/characters/theresa/pic/pic_theresa_d.png"
+		}
+	},
+	"thunder50": {
+		"0": {
+			"path": "assets/characters/thunder50/pic/pic_thunder50.png"
+		},
+		"1": {
+			"path": "assets/characters/thunder50/pic/pic_thunder50_d.png"
+		},
+		"2": {
+			"path": "assets/characters/thunder50_3309/pic/pic_thunder50_3309.png"
+		},
+		"3": {
+			"path": "assets/characters/thunder50_3309/pic/pic_thunder50_3309_d.png"
+		}
+	},
+	"tmp": {
+		"0": {
+			"path": "assets/characters/tmp/pic/pic_tmp.png"
+		},
+		"1": {
+			"path": "assets/characters/tmp/pic/pic_tmp_d.png"
+		},
+		"2": {
+			"path": "assets/characters/tmp_2807/pic/pic_tmp_2807.png"
+		},
+		"3": {
+			"path": "assets/characters/tmp_2807/pic/pic_tmp_2807_d.png"
+		}
+	},
+	"triela": {
+		"0": {
+			"path": "assets/characters/triela/pic/pic_triela.png"
+		},
+		"1": {
+			"path": "assets/characters/triela/pic/pic_triela_d.png"
+		},
+		"2": {
+			"path": "assets/characters/triela_541/pic/pic_triela_541.png"
+		},
+		"3": {
+			"path": "assets/characters/triela_541/pic/pic_triela_541_d.png"
+		}
+	},
+	"tt33": {
+		"0": {
+			"path": "assets/characters/tt33/pic/pic_tt33.png"
+		},
+		"1": {
+			"path": "assets/characters/tt33/pic/pic_tt33_d.png"
+		},
+		"2": {
+			"path": "assets/characters/tt33_601/pic/pic_tt33_601.png"
+		},
+		"3": {
+			"path": "assets/characters/tt33_601/pic/pic_tt33_601_d.png"
+		}
+	},
+	"tt33_he": {
+		"2": {
+			"path": "assets/characters/tt33_601/pic/pic_tt33_601.png"
+		},
+		"3": {
+			"path": "assets/characters/tt33_601/pic/pic_tt33_601_d.png"
+		}
+	},
+	"type03": {
+		"0": {
+			"path": "assets/characters/type03/pic/pic_type03.png"
+		},
+		"1": {
+			"path": "assets/characters/type03/pic/pic_type03_d.png"
+		}
+	},
+	"type100": {
+		"0": {
+			"path": "assets/characters/type100/pic/pic_type100.png"
+		},
+		"1": {
+			"path": "assets/characters/type100/pic/pic_type100_d.png"
+		},
+		"2": {
+			"path": "assets/characters/type100_2903/pic/pic_type100_2903.png"
+		},
+		"3": {
+			"path": "assets/characters/type100_2903/pic/pic_type100_2903_d.png"
+		},
+		"4": {
+			"path": "assets/characters/type100_4004/pic/pic_type100_4004.png"
+		},
+		"5": {
+			"path": "assets/characters/type100_4004/pic/pic_type100_4004_d.png"
+		}
+	},
+	"type62": {
+		"0": {
+			"path": "assets/characters/type62/pic/pic_type62.png"
+		},
+		"1": {
+			"path": "assets/characters/type62/pic/pic_type62_d.png"
+		},
+		"2": {
+			"path": "assets/characters/type62_2908/pic/pic_type62_2908.png"
+		},
+		"3": {
+			"path": "assets/characters/type62_2908/pic/pic_type62_2908_d.png"
+		}
+	},
+	"type64-ar": {
+		"0": {
+			"path": "assets/characters/type64-ar/pic/pic_type64-ar.png"
+		},
+		"1": {
+			"path": "assets/characters/type64-ar/pic/pic_type64-ar_d.png"
+		},
+		"2": {
+			"path": "assets/characters/type64-ar_2901/pic/pic_type64-ar_2901.png"
+		},
+		"3": {
+			"path": "assets/characters/type64-ar_2901/pic/pic_type64-ar_2901_d.png"
+		}
+	},
+	"type88": {
+		"0": {
+			"path": "assets/characters/type88/pic/pic_type88.png"
+		},
+		"1": {
+			"path": "assets/characters/type88/pic/pic_type88_d.png"
+		},
+		"2": {
+			"path": "assets/characters/type88_3003/pic/pic_type88_3003.png"
+		},
+		"3": {
+			"path": "assets/characters/type88_3003/pic/pic_type88_3003_d.png"
+		},
+		"4": {
+			"path": "assets/characters/type88_3504/pic/pic_type88_3504.png"
+		},
+		"5": {
+			"path": "assets/characters/type88_3504/pic/pic_type88_3504_d.png"
+		}
+	},
+	"type88_he": {
+		"2": {
+			"path": "assets/characters/type88_3003/pic/pic_type88_3003.png"
+		},
+		"3": {
+			"path": "assets/characters/type88_3003/pic/pic_type88_3003_d.png"
+		},
+		"4": {
+			"path": "assets/characters/type88_3504/pic/pic_type88_3504.png"
+		},
+		"5": {
+			"path": "assets/characters/type88_3504/pic/pic_type88_3504_d.png"
+		}
+	},
+	"ukm2000": {
+		"0": {
+			"path": "assets/characters/ukm2000/pic/pic_ukm2000.png"
+		},
+		"1": {
+			"path": "assets/characters/ukm2000/pic/pic_ukm2000_d.png"
+		}
+	},
+	"ump40": {
+		"0": {
+			"path": "assets/characters/ump40/pic/pic_ump40.png"
+		},
+		"1": {
+			"path": "assets/characters/ump40/pic/pic_ump40_d.png"
+		},
+		"2": {
+			"path": "assets/characters/special/pic_ump40_sad.png"
+		},
+		"3": {
+			"path": "assets/characters/special/pic_ump40_smile.png"
+		},
+		"4": {
+			"path": "assets/characters/special/pic_ump40_lol.png"
+		},
+		"5": {
+			"path": "assets/characters/special/pic_ump40_angry.png"
+		}
+	},
+	"ump45": {
+		"0": {
+			"path": "assets/characters/ump45/pic/pic_ump45.png"
+		},
+		"1": {
+			"path": "assets/characters/ump45/pic/pic_ump45_d.png"
+		},
+		"2": {
+			"path": "assets/characters/special/pic_ump45_1.png"
+		},
+		"3": {
+			"path": "assets/characters/special/pic_ump45_2.png"
+		},
+		"4": {
+			"path": "assets/characters/ump45_2107/pic/pic_ump45_2107.png"
+		},
+		"5": {
+			"path": "assets/characters/special/ump45damage.png"
+		}
+	},
+	"ump45mod": {
+		"0": {
+			"path": "assets/characters/ump45mod/pic/pic_ump45mod.png"
+		},
+		"1": {
+			"path": "assets/characters/ump45mod/pic/pic_ump45mod_d.png"
+		}
+	},
+	"ump45_young": {
+		"0": {
+			"path": "assets/characters/special/ump45-young.png"
+		},
+		"1": {
+			"path": "assets/characters/special/ump45-young_sad.png"
+		},
+		"2": {
+			"path": "assets/characters/special/ump45-young_serious.png"
+		},
+		"3": {
+			"path": "assets/characters/special/ump45-young_angry.png"
+		}
+	},
+	"ump9": {
+		"0": {
+			"path": "assets/characters/special/pic_ump9.png"
+		},
+		"1": {
+			"path": "assets/characters/ump9/pic/pic_ump9_d.png"
+		},
+		"2": {
+			"path": "assets/characters/special/pic_ump9_1.png"
+		},
+		"3": {
+			"path": "assets/characters/special/pic_ump9_2.png"
+		},
+		"4": {
+			"path": "assets/characters/special/pic_ump9_3.png"
+		},
+		"5": {
+			"path": "assets/characters/ump9/pic/pic_ump9_scar.png"
+		},
+		"6": {
+			"path": "assets/characters/ump9_2106/pic/pic_ump9_2106.png"
+		}
+	},
+	"ump9mod": {
+		"0": {
+			"path": "assets/characters/ump9mod/pic/pic_ump9mod.png"
+		},
+		"1": {
+			"path": "assets/characters/ump9mod/pic/pic_ump9mod_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ump9mod/pic/pic_ump9mod_dislike.png"
+		},
+		"3": {
+			"path": "assets/characters/ump9mod/pic/pic_ump9mod_happy.png"
+		},
+		"4": {
+			"path": "assets/characters/ump9mod/pic/pic_ump9mod_angry.png"
+		},
+		"5": {
+			"path": "assets/characters/ump9mod/pic/pic_ump9mod_helpness.png"
+		},
+		"6": {
+			"path": "assets/characters/ump9mod/pic/pic_ump9mod_sad.png"
+		}
+	},
+	"ump9story": {
+		"0": {
+			"path": "assets/characters/ump9_other/pic/ump9.png"
+		},
+		"1": {
+			"path": "assets/characters/ump9_other/pic/ump9_laugh.png"
+		},
+		"2": {
+			"path": "assets/characters/ump9_other/pic/ump9_angry.png"
+		},
+		"3": {
+			"path": "assets/characters/ump9_other/pic/ump9_happy.png"
+		},
+		"4": {
+			"path": "assets/characters/ump9_other/pic/ump9_hesitate.png"
+		}
+	},
+	"usas12": {
+		"0": {
+			"path": "assets/characters/usas12/pic/pic_usas12.png"
+		},
+		"1": {
+			"path": "assets/characters/usas12/pic/pic_usas12_d.png"
+		}
+	},
+	"uspcompact": {
+		"0": {
+			"path": "assets/characters/uspcompact/pic/pic_uspcompact.png"
+		},
+		"1": {
+			"path": "assets/characters/uspcompact/pic/pic_uspcompact_d.png"
+		}
+	},
+	"vector": {
+		"0": {
+			"path": "assets/characters/vector/pic/pic_vector.png"
+		},
+		"1": {
+			"path": "assets/characters/vector/pic/pic_vector_d.png"
+		},
+		"2": {
+			"path": "assets/characters/vector_2/pic/pic_vector_2.png"
+		},
+		"3": {
+			"path": "assets/characters/vector_2/pic/pic_vector_2_d.png"
+		},
+		"4": {
+			"path": "assets/characters/vector_1901/pic/pic_vector_1901.png"
+		},
+		"5": {
+			"path": "assets/characters/vector_1901/pic/pic_vector_1901_d.png"
+		}
+	},
+	"vector_he": {
+		"2": {
+			"path": "assets/characters/vector_2/pic/pic_vector_2.png"
+		},
+		"3": {
+			"path": "assets/characters/vector_2/pic/pic_vector_2_d.png"
+		},
+		"4": {
+			"path": "assets/characters/vector_1901/pic/pic_vector_1901.png"
+		},
+		"5": {
+			"path": "assets/characters/vector_1901/pic/pic_vector_1901_d.png"
+		}
+	},
+	"vepr": {
+		"0": {
+			"path": "assets/characters/vepr/pic/pic_vepr.png"
+		},
+		"1": {
+			"path": "assets/characters/vepr/pic/pic_vepr_d.png"
+		}
+	},
+	"vp70": {
+		"0": {
+			"path": "assets/characters/vp70/pic/pic_vp70.png"
+		},
+		"1": {
+			"path": "assets/characters/vp70/pic/pic_vp70_d.png"
+		}
+	},
+	"vz61": {
+		"0": {
+			"path": "assets/characters/vz61/pic/pic_vz61.png"
+		},
+		"1": {
+			"path": "assets/characters/vz61/pic/pic_vz61_d.png"
+		},
+		"2": {
+			"path": "assets/characters/vz61_801/pic/pic_vz61_801.png"
+		},
+		"3": {
+			"path": "assets/characters/vz61_801/pic/pic_vz61_801_d.png"
+		}
+	},
+	"wa2000": {
+		"0": {
+			"path": "assets/characters/wa2000/pic/pic_wa2000.png"
+		},
+		"1": {
+			"path": "assets/characters/wa2000/pic/pic_wa2000_d.png"
+		},
+		"2": {
+			"path": "assets/characters/wa2000_306/pic/pic_wa2000_306.png"
+		},
+		"3": {
+			"path": "assets/characters/wa2000_306/pic/pic_wa2000_306_d.png"
+		},
+		"4": {
+			"path": "assets/characters/wa2000_6/pic/pic_wa2000_6.png"
+		},
+		"5": {
+			"path": "assets/characters/wa2000_6/pic/pic_wa2000_6_d.png"
+		},
+		"6": {
+			"path": "assets/characters/wa2000_1108/pic/pic_wa2000_1108.png"
+		},
+		"7": {
+			"path": "assets/characters/wa2000_1108/pic/pic_wa2000_1108_d.png"
+		},
+		"8": {
+			"path": "assets/characters/wa2000_804/pic/pic_wa2000_804.png"
+		},
+		"9": {
+			"path": "assets/characters/wa2000_804/pic/pic_wa2000_804_d.png"
+		}
+	},
+	"weaver": {
+		"0": {
+			"path": "assets/characters/bossweaver/pic/weaver.png"
+		},
+		"1": {
+			"path": "assets/characters/bossweaver/pic/weaver_2.png"
+		},
+		"2": {
+			"path": "assets/characters/bossweaver/pic/weaver_3.png"
+		}
+	},
+	"weaverelite": {
+		"0": {
+			"path": "assets/characters/bossweaver/pic/weaverelite_1.png"
+		},
+		"1": {
+			"path": "assets/characters/bossweaver/pic/weaverelite_2.png"
+		},
+		"2": {
+			"path": "assets/characters/bossweaver/pic/weaverelite_3.png"
+		},
+		"3": {
+			"path": "assets/characters/bossweaver/pic/weaverelite_4.png"
+		},
+		"4": {
+			"path": "assets/characters/bossweaver/pic/weaverelite.png"
+		}
+	},
+	"webley": {
+		"0": {
+			"path": "assets/characters/webley/pic/pic_webley.png"
+		},
+		"1": {
+			"path": "assets/characters/webley/pic/pic_webley_d.png"
+		}
+	},
+	"welrod": {
+		"0": {
+			"path": "assets/characters/welrod/pic/pic_welrod.png"
+		},
+		"1": {
+			"path": "assets/characters/welrod/pic/pic_welrod_d.png"
+		},
+		"2": {
+			"path": "assets/characters/welrod_2103/pic/pic_welrod_2103.png"
+		},
+		"3": {
+			"path": "assets/characters/welrod_2103/pic/pic_welrod_2103_d.png"
+		},
+		"4": {
+			"path": "assets/characters/welrod_1401/pic/pic_welrod_1401_1.png"
+		},
+		"5": {
+			"path": "assets/characters/welrod_1401/pic/pic_welrod_1401_d.png"
+		}
+	},
+	"welrod_he": {
+		"4": {
+			"path": "assets/characters/welrod_1401/pic/pic_welrod_1401_1.png"
+		},
+		"5": {
+			"path": "assets/characters/welrod_1401/pic/pic_welrod_1401_d.png"
+		}
+	},
+	"wz29": {
+		"0": {
+			"path": "assets/characters/wz29/pic/pic_wz29.png"
+		},
+		"1": {
+			"path": "assets/characters/wz29/pic/pic_wz29_d.png"
+		}
+	},
+	"x95": {
+		"0": {
+			"path": "assets/characters/x95/pic/pic_x95.png"
+		},
+		"1": {
+			"path": "assets/characters/x95/pic/pic_x95_d.png"
+		}
+	},
+	"xm3": {
+		"0": {
+			"path": "assets/characters/xm3/pic/pic_xm3.png"
+		},
+		"1": {
+			"path": "assets/characters/xm3/pic/pic_xm3_d.png"
+		}
+	},
+	"xm8": {
+		"0": {
+			"path": "assets/characters/xm8/pic/pic_xm8.png"
+		},
+		"1": {
+			"path": "assets/characters/xm8/pic/pic_xm8_d.png"
+		}
+	},
+	"z62": {
+		"0": {
+			"path": "assets/characters/z62/pic/pic_z62.png"
+		},
+		"1": {
+			"path": "assets/characters/z62/pic/pic_z62_d.png"
+		},
+		"2": {
+			"path": "assets/characters/z62_3507/pic/pic_z62_3507.png"
+		},
+		"3": {
+			"path": "assets/characters/z62_3507/pic/pic_z62_3507_d.png"
+		}
+	},
+	"z62_he": {
+		"2": {
+			"path": "assets/characters/z62_3507/pic/pic_z62_3507.png"
+		},
+		"3": {
+			"path": "assets/characters/z62_3507/pic/pic_z62_3507_d.png"
+		}
+	},
+	"zasm76": {
+		"0": {
+			"path": "assets/characters/zasm76/pic/pic_zasm76.png"
+		},
+		"1": {
+			"path": "assets/characters/zasm76/pic/pic_zasm76_d.png"
+		}
+	},
+	"zastavam21": {
+		"0": {
+			"path": "assets/characters/zastavam21/pic/pic_zastavam21.png"
+		},
+		"1": {
+			"path": "assets/characters/zastavam21/pic/pic_zastavam21_d.png"
+		},
+		"2": {
+			"path": "assets/characters/zastavam21_1603/pic/pic_zastavam21_1603.png"
+		},
+		"3": {
+			"path": "assets/characters/zastavam21_1603/pic/pic_zastavam21_1603_d.png"
+		},
+		"4": {
+			"path": "assets/characters/zastavam21_2104/pic/pic_zastavam21_2104.png"
+		},
+		"5": {
+			"path": "assets/characters/zastavam21_2104/pic/pic_zastavam21_2104_d.png"
+		}
+	},
+	"zb26": {
+		"0": {
+			"path": "assets/characters/zb26/pic/pic_zb26.png"
+		},
+		"1": {
+			"path": "assets/characters/zb26/pic/pic_zb26_d.png"
+		}
+	}
+}
