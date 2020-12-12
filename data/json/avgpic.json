@@ -187,6 +187,12 @@
 		},
 		"1": {
 			"path": "assets/characters/88type/pic/pic_88type_d.png"
+		},
+		"2": {
+			"path": "assets/characters/88type_1809/pic/pic_88type_1809.png"
+		},
+		"3": {
+			"path": "assets/characters/88type_1809/pic/pic_88type_1809_d.png"
 		}
 	},
 	"88typemod": {
@@ -250,6 +256,12 @@
 		},
 		"3": {
 			"path": "assets/characters/97type_406/pic/pic_97type_406_d.png"
+		},
+		"4": {
+			"path": "assets/characters/97type/pic/pic_97type_4.png"
+		},
+		"5": {
+			"path": "assets/characters/97type/pic/pic_97type_5.png"
 		}
 	},
 	"97types": {
@@ -266,12 +278,28 @@
 			"path": "assets/characters/97types_3807/pic/pic_97types_3807_d.png"
 		}
 	},
+	"97typesmod": {
+		"0": {
+			"path": "assets/characters/97typesmod/pic/pic_97typesmod.png"
+		},
+		"1": {
+			"path": "assets/characters/97typesmod/pic/pic_97typesmod_d.png"
+		}
+	},
 	"98k": {
 		"0": {
 			"path": "assets/characters/98k/pic/pic_98k.png"
 		},
 		"1": {
 			"path": "assets/characters/98k/pic/pic_98k_d.png"
+		},
+		"2": {
+			"path": "assets/characters/98k_4301/pic/pic_98k_4301.png"
+		}
+	},
+	"98k_he": {
+		"2": {
+			"path": "assets/characters/98k_4301/pic/pic_98k_4301.png"
 		}
 	},
 	"9a91": {
@@ -395,6 +423,12 @@
 		},
 		"11": {
 			"path": "assets/characters/ak12_3302/pic/pic_ak12_3302_original.png"
+		},
+		"12": {
+			"path": "assets/characters/ak12/pic/pic_ak12_1.png"
+		},
+		"13": {
+			"path": "assets/characters/ak12/pic/pic_ak12_2.png"
 		}
 	},
 	"ak15": {
@@ -415,6 +449,9 @@
 		},
 		"5": {
 			"path": "assets/characters/ak15/pic/pic_ak15_eyes5.png"
+		},
+		"6": {
+			"path": "assets/characters/ak15/pic/pic_ak15_1.png"
 		}
 	},
 	"ak47": {
@@ -423,6 +460,14 @@
 		},
 		"1": {
 			"path": "assets/characters/ak47/pic/pic_ak47_d.png"
+		},
+		"2": {
+			"path": "assets/characters/ak47_501/pic/pic_ak47_2.png"
+		}
+	},
+	"ak47_he": {
+		"2": {
+			"path": "assets/characters/ak47_501/pic/pic_ak47_2.png"
 		}
 	},
 	"ak5": {
@@ -525,6 +570,12 @@
 		},
 		"10": {
 			"path": "assets/characters/an94_3303/pic/pic_an94_3303_story.png"
+		},
+		"11": {
+			"path": "assets/characters/an94/pic/pic_an94_1.png"
+		},
+		"12": {
+			"path": "assets/characters/an94/pic/pic_an94_2.png"
 		}
 	},
 	"angelica": {
@@ -547,6 +598,9 @@
 		},
 		"1": {
 			"path": "assets/characters/aps/pic/pic_aps_d.png"
+		},
+		"2": {
+			"path": "assets/characters/aps_4306/pic/pic_aps_4306.png"
 		}
 	},
 	"apsmod": {
@@ -607,6 +661,14 @@
 			"path": "assets/characters/ar70/pic/pic_ar70_d.png"
 		}
 	},
+	"armod": {
+		"0": {
+			"path": "assets/characters/armod/pic/pic_armod.png"
+		},
+		"1": {
+			"path": "assets/characters/armod/pic/pic_armod_d.png"
+		}
+	},
 	"art556": {
 		"0": {
 			"path": "assets/characters/art556/pic/pic_art556.png"
@@ -625,6 +687,9 @@
 		},
 		"5": {
 			"path": "assets/characters/art556_2803/pic/pic_art556_2803_d.png"
+		},
+		"6": {
+			"path": "assets/characters/art556/pic/pic_art556_6.png"
 		}
 	},
 	"art556_he": {
@@ -639,6 +704,9 @@
 		},
 		"5": {
 			"path": "assets/characters/art556_2803/pic/pic_art556_2803_d.png"
+		},
+		"6": {
+			"path": "assets/characters/art556/pic/pic_art556_6.png"
 		}
 	},
 	"arx160": {
@@ -693,6 +761,14 @@
 		},
 		"1": {
 			"path": "assets/characters/aug/pic/pic_aug_d.png"
+		}
+	},
+	"augpara": {
+		"0": {
+			"path": "assets/characters/augpara/pic/pic_augpara.png"
+		},
+		"1": {
+			"path": "assets/characters/augpara/pic/pic_augpara_d.png"
 		}
 	},
 	"ballista": {
@@ -1423,6 +1499,12 @@
 		},
 		"3": {
 			"path": "assets/characters/fnfnc_1406/pic/pic_fnfnc_1406_d.png"
+		},
+		"4": {
+			"path": "assets/characters/fnfnc_4308/pic/pic_fnfnc_4308.png"
+		},
+		"5": {
+			"path": "assets/characters/fnfnc_4308/pic/pic_fnfnc_4308_d.png"
 		}
 	},
 	"fnp9": {
@@ -1479,6 +1561,20 @@
 		},
 		"7": {
 			"path": "assets/characters/g11_1602/pic/pic_g11_1602_d.png"
+		},
+		"8": {
+			"path": "assets/characters/g11mod/pic/pic_g11mod.png"
+		},
+		"9": {
+			"path": "assets/characters/g11/pic/pic_g11_9.png"
+		}
+	},
+	"g11mod": {
+		"0": {
+			"path": "assets/characters/g11mod/pic/pic_g11mod.png"
+		},
+		"1": {
+			"path": "assets/characters/g11mod/pic/pic_g11mod_d.png"
 		}
 	},
 	"g11story": {
@@ -1588,6 +1684,18 @@
 		},
 		"12": {
 			"path": "assets/characters/g36_905/pic/pic_g36_coffee.png"
+		},
+		"13": {
+			"path": "assets/characters/g36_905/pic/pic_g36_13.png"
+		},
+		"14": {
+			"path": "assets/characters/g36_905/pic/pic_g36_14.png"
+		},
+		"15": {
+			"path": "assets/characters/g36_905/pic/pic_g36_15.png"
+		},
+		"16": {
+			"path": "assets/characters/g36_905/pic/pic_g36_16.png"
 		}
 	},
 	"g36bar": {
@@ -1681,6 +1789,18 @@
 		},
 		"12": {
 			"path": "assets/characters/g36_905/pic/pic_g36_coffee.png"
+		},
+		"13": {
+			"path": "assets/characters/g36_905/pic/pic_g36_13.png"
+		},
+		"14": {
+			"path": "assets/characters/g36_905/pic/pic_g36_14.png"
+		},
+		"15": {
+			"path": "assets/characters/g36_905/pic/pic_g36_15.png"
+		},
+		"16": {
+			"path": "assets/characters/g36_905/pic/pic_g36_16.png"
 		}
 	},
 	"g3mod": {
@@ -1719,6 +1839,14 @@
 		},
 		"1": {
 			"path": "assets/characters/g43/pic/pic_g43_d.png"
+		}
+	},
+	"generalliu": {
+		"0": {
+			"path": "assets/characters/generalliu/pic/pic_generalliu.png"
+		},
+		"1": {
+			"path": "assets/characters/generalliu/pic/pic_generalliu_d.png"
 		}
 	},
 	"gepardm1": {
@@ -1791,6 +1919,9 @@
 		},
 		"3": {
 			"path": "assets/characters/grizzly_2102/pic/pic_grizzly_2102_d.png"
+		},
+		"4": {
+			"path": "assets/characters/grizzly_4303/pic/pic_grizzly_4303.png"
 		}
 	},
 	"grizzly_he": {
@@ -1799,6 +1930,9 @@
 		},
 		"3": {
 			"path": "assets/characters/grizzly_2102/pic/pic_grizzly_2102_d.png"
+		},
+		"4": {
+			"path": "assets/characters/grizzly_4303/pic/pic_grizzly_4303.png"
 		}
 	},
 	"gsh18": {
@@ -1908,6 +2042,26 @@
 		},
 		"5": {
 			"path": "assets/characters/hk416_805/pic/pic_hk416_805_d.png"
+		},
+		"6": {
+			"path": "assets/characters/hk416/pic/pic_hk416_6.png"
+		},
+		"7": {
+			"path": "assets/characters/hk416/pic/pic_hk416_7.png"
+		}
+	},
+	"hk416agent": {
+		"0": {
+			"path": "assets/characters/hk416agent/pic/pic_hk416agent.png"
+		},
+		"1": {
+			"path": "assets/characters/hk416agent/pic/pic_hk416agent_1.png"
+		},
+		"2": {
+			"path": "assets/characters/hk416agent/pic/pic_hk416agent_2.png"
+		},
+		"3": {
+			"path": "assets/characters/hk416agent/pic/pic_hk416agent_3.png"
 		}
 	},
 	"hk416mod": {
@@ -1916,6 +2070,9 @@
 		},
 		"1": {
 			"path": "assets/characters/hk416mod/pic/pic_hk416mod_d.png"
+		},
+		"2": {
+			"path": "assets/characters/hk416mod/pic/pic_hk416mod_1.png"
 		}
 	},
 	"hk45": {
@@ -2609,6 +2766,14 @@
 			"path": "assets/characters/m1897/pic/pic_m1897_d.png"
 		}
 	},
+	"m1897mod": {
+		"0": {
+			"path": "assets/characters/m1897mod/pic/pic_m1897mod.png"
+		},
+		"1": {
+			"path": "assets/characters/m1897mod/pic/pic_m1897mod_d.png"
+		}
+	},
 	"m1903": {
 		"0": {
 			"path": "assets/characters/m1903/pic/pic_m1903.png"
@@ -2639,6 +2804,18 @@
 		},
 		"9": {
 			"path": "assets/characters/m1903_1107/pic/pic_m1903_1107_d.png"
+		},
+		"10": {
+			"path": "assets/characters/m1903/pic/pic_m1903_10.png"
+		},
+		"11": {
+			"path": "assets/characters/m1903/pic/pic_m1903_11.png"
+		},
+		"12": {
+			"path": "assets/characters/m1903/pic/pic_m1903_12.png"
+		},
+		"13": {
+			"path": "assets/characters/m1903/pic/pic_m1903_13.png"
 		}
 	},
 	"m1903cafe": {
@@ -2824,6 +3001,12 @@
 		},
 		"1": {
 			"path": "assets/characters/m4 sopmod iimod/pic/pic_m4 sopmod iimod_d.png"
+		},
+		"2": {
+			"path": "assets/characters/m4 sopmod iimod/pic/pic_m4 sopmod iimod_1.png"
+		},
+		"3": {
+			"path": "assets/characters/m4 sopmod iimod/pic/pic_m4 sopmod iimod_2.png"
 		}
 	},
 	"m45": {
@@ -2965,6 +3148,9 @@
 		},
 		"3": {
 			"path": "assets/characters/m870p_3803/pic/pic_m870p_3803_d.png"
+		},
+		"4": {
+			"path": "assets/characters/m870p/pic/pic_m870p_4.png"
 		}
 	},
 	"m9": {
@@ -3008,6 +3194,12 @@
 		},
 		"10": {
 			"path": "assets/characters/m950a/pic/pic_m950a_3.png"
+		},
+		"11": {
+			"path": "assets/characters/m950a_4302/pic/pic_m950a_4302.png"
+		},
+		"12": {
+			"path": "assets/characters/m950a_4302/pic/pic_m950a_4302_d.png"
 		}
 	},
 	"m99": {
@@ -3352,6 +3544,14 @@
 			"path": "assets/characters/mlemk1_901/pic/pic_mlemk1_901_d.png"
 		}
 	},
+	"mondragonm1908": {
+		"0": {
+			"path": "assets/characters/mondragonm1908/pic/pic_mondragonm1908.png"
+		},
+		"1": {
+			"path": "assets/characters/mondragonm1908/pic/pic_mondragonm1908_d.png"
+		}
+	},
 	"mp40": {
 		"0": {
 			"path": "assets/characters/mp40/pic/pic_mp40.png"
@@ -3446,6 +3646,9 @@
 		},
 		"3": {
 			"path": "assets/characters/mp7_2405/pic/pic_mp7_2405_d.png"
+		},
+		"4": {
+			"path": "assets/characters/mp7/pic/pic_mp7_4.png"
 		}
 	},
 	"mt9": {
@@ -3464,6 +3667,14 @@
 			"path": "assets/characters/negev/pic/pic_negev_d.png"
 		}
 	},
+	"npc-ah400": {
+		"0": {
+			"path": "assets/characters/npc-ah400/pic/ah400(0).png"
+		},
+		"1": {
+			"path": "assets/characters/npc-ah400/pic/ah400_mask.png"
+		}
+	},
 	"npc-ambassador": {
 		"0": {
 			"path": "assets/characters/npc_other/pic/npc-ambassador.png"
@@ -3475,6 +3686,9 @@
 		},
 		"1": {
 			"path": "assets/characters/npc_other/pic/npc-ange_1.png"
+		},
+		"2": {
+			"path": "assets/characters/npc-ange/pic/pic_npc-ange_2.png"
 		}
 	},
 	"npc-angedamage": {
@@ -3499,6 +3713,11 @@
 			"path": "assets/characters/npc_other/pic/npc-angestreet.png"
 		}
 	},
+	"npc-arla": {
+		"0": {
+			"path": "assets/characters/npc-arla/pic/npc-arla.png"
+		}
+	},
 	"npc-bodyguard1": {
 		"0": {
 			"path": "assets/characters/npc_other/pic/npc-bodyguard1.png"
@@ -3517,6 +3736,36 @@
 	"npc-deele": {
 		"0": {
 			"path": "assets/characters/npc_other/pic/pic_npc-deele.png"
+		}
+	},
+	"npc-dima": {
+		"0": {
+			"path": "assets/characters/npc-dima/pic/npc-dima(0).png"
+		},
+		"1": {
+			"path": "assets/characters/npc-dima/pic/npc-dima(1).png"
+		},
+		"2": {
+			"path": "assets/characters/npc-dima/pic/npc-dima(2).png"
+		},
+		"3": {
+			"path": "assets/characters/npc-dima/pic/npc-dima(3).png"
+		}
+	},
+	"npc-fuduto": {
+		"0": {
+			"path": "assets/characters/npc-fuduto/pic/fuduto(0).png"
+		},
+		"1": {
+			"path": "assets/characters/npc-fuduto/pic/fuduto(1).png"
+		},
+		"2": {
+			"path": "assets/characters/npc-fuduto/pic/fuduto(2).png"
+		}
+	},
+	"npc-handyman": {
+		"0": {
+			"path": "assets/characters/npc-handyman/pic/pic_npc-handyman.png"
 		}
 	},
 	"npc-havel": {
@@ -3541,12 +3790,20 @@
 			"path": "assets/characters/npc-helian/pic/pic_npc-helian_t.png"
 		}
 	},
+	"npc-hopps": {
+		"0": {
+			"path": "assets/characters/npc-hopps/pic/pic_npc-hopps_0.png"
+		}
+	},
 	"npc-jason": {
 		"0": {
 			"path": "assets/characters/npc_other/pic/npc-jason.png"
 		},
 		"1": {
 			"path": "assets/characters/npc_other/pic/npc-jason_1.png"
+		},
+		"2": {
+			"path": "assets/characters/npc-jason/pic/pic_npc-jason_2.png"
 		}
 	},
 	"npc-kalin": {
@@ -3582,6 +3839,15 @@
 		},
 		"10": {
 			"path": "assets/characters/npc_kalina_203/pic/npc_kalina_203.png"
+		},
+		"11": {
+			"path": "assets/characters/npc_kalina_other/pic/npc-kalin_11.png"
+		},
+		"12": {
+			"path": "assets/characters/npc_kalina_other/pic/npc-kalin_12.png"
+		},
+		"13": {
+			"path": "assets/characters/npc_kalina_other/pic/npc-kalin_13.png"
 		}
 	},
 	"npc-kalinreporter": {
@@ -3589,9 +3855,27 @@
 			"path": "assets/characters/npc_other/pic/npc-kalinreporter.png"
 		}
 	},
+	"npc-keven": {
+		"0": {
+			"path": "assets/characters/npc-keven/pic/pic_npc-keven_0.png"
+		},
+		"1": {
+			"path": "assets/characters/npc-keven/pic/pic_npc-keven_1.png"
+		}
+	},
 	"npc-kyruger": {
 		"0": {
 			"path": "assets/characters/npc_other/pic/pic_npc-kyruger.png"
+		}
+	},
+	"npc-leone": {
+		"0": {
+			"path": "assets/characters/npc-leone/pic/pic_npc-leone_0.png"
+		}
+	},
+	"npc-lilyan": {
+		"0": {
+			"path": "assets/characters/npc-lilyan/pic/pic_npc-lilyan_0.png"
 		}
 	},
 	"npc-lyco": {
@@ -3609,6 +3893,14 @@
 			"path": "assets/characters/npc_other/pic/npc-mercurows.png"
 		}
 	},
+	"npc-morridow": {
+		"0": {
+			"path": "assets/characters/npc-morridow/pic/pic_npc-morridow_0.png"
+		},
+		"1": {
+			"path": "assets/characters/npc-morridow/pic/pic_npc-morridow_1.png"
+		}
+	},
 	"npc-nimogen": {
 		"0": {
 			"path": "assets/characters/npc_other/pic/npc-nimogen.png"
@@ -3620,6 +3912,14 @@
 		},
 		"1": {
 			"path": "assets/characters/npc-oldartist/pic/pic_npc-oldartist-1.png"
+		}
+	},
+	"npc-passadou": {
+		"0": {
+			"path": "assets/characters/npc-passadou/pic/passadou(0).png"
+		},
+		"1": {
+			"path": "assets/characters/npc-passadou/pic/passadou(1).png"
 		}
 	},
 	"npc-passerbyf": {
@@ -3646,9 +3946,27 @@
 			"path": "assets/characters/npc-persica/pic/pic_npc-persica_t.png"
 		}
 	},
+	"npc-powell": {
+		"0": {
+			"path": "assets/characters/npc-powell/pic/pic_npc-powell.png"
+		}
+	},
+	"npc-refugee": {
+		"0": {
+			"path": "assets/characters/npc-refugee/pic/pic_npc-refugee_0.png"
+		}
+	},
 	"npc-seele": {
 		"0": {
 			"path": "assets/characters/npc-seele/pic/pic_npc-seele.png"
+		},
+		"1": {
+			"path": "assets/characters/npc-seele/pic/pic_npc-seele_1.png"
+		}
+	},
+	"npc-shelley": {
+		"0": {
+			"path": "assets/characters/npc_other/pic/npc-shelley.png"
 		}
 	},
 	"npc-soldier": {
@@ -3789,6 +4107,9 @@
 		},
 		"6": {
 			"path": "assets/characters/nyto/pic/nyto_isomer_shadow_unfixed.png"
+		},
+		"7": {
+			"path": "assets/characters/nyto/pic/nyto_7.png"
 		}
 	},
 	"nytowhite": {
@@ -3958,6 +4279,9 @@
 		},
 		"5": {
 			"path": "assets/characters/p7_606/pic/pic_p7_606_d.png"
+		},
+		"6": {
+			"path": "assets/characters/p7/pic/pic_p7_6.png"
 		}
 	},
 	"p90": {
@@ -4084,6 +4408,9 @@
 		},
 		"3": {
 			"path": "assets/characters/pm_1/pic/pic_pm_1_d.png"
+		},
+		"4": {
+			"path": "assets/characters/pm_4310/pic/pic_pm_4310.png"
 		}
 	},
 	"pm06": {
@@ -4092,6 +4419,14 @@
 		},
 		"1": {
 			"path": "assets/characters/pm06/pic/pic_pm06_d.png"
+		}
+	},
+	"pm1910": {
+		"0": {
+			"path": "assets/characters/pm1910/pic/pic_pm1910.png"
+		},
+		"1": {
+			"path": "assets/characters/pm1910/pic/pic_pm1910_d.png"
 		}
 	},
 	"pm9": {
@@ -4108,6 +4443,9 @@
 		},
 		"3": {
 			"path": "assets/characters/pm_1/pic/pic_pm_1_d.png"
+		},
+		"4": {
+			"path": "assets/characters/pm_4310/pic/pic_pm_4310.png"
 		}
 	},
 	"pp19": {
@@ -4132,6 +4470,14 @@
 			"path": "assets/characters/pp1901/pic/pic_pp1901_d.png"
 		}
 	},
+	"pp19mod": {
+		"0": {
+			"path": "assets/characters/pp19mod/pic/pic_pp19mod.png"
+		},
+		"1": {
+			"path": "assets/characters/pp19mod/pic/pic_pp19mod_d.png"
+		}
+	},
 	"pp2000": {
 		"0": {
 			"path": "assets/characters/pp2000/pic/pic_pp2000.png"
@@ -4146,6 +4492,9 @@
 		},
 		"1": {
 			"path": "assets/characters/pp90/pic/pic_pp90_d.png"
+		},
+		"2": {
+			"path": "assets/characters/pp90/pic/pic_pp90_2.png"
 		}
 	},
 	"ppk": {
@@ -4375,6 +4724,18 @@
 		},
 		"1": {
 			"path": "assets/characters/rmb93/pic/pic_rmb93_d.png"
+		},
+		"2": {
+			"path": "assets/characters/rmb93_1705/pic/pic_rmb93_1705.png"
+		},
+		"3": {
+			"path": "assets/characters/rmb93_1705/pic/pic_rmb93_1705_d.png"
+		},
+		"4": {
+			"path": "assets/characters/rmb93_4309/pic/pic_rmb93_4309.png"
+		},
+		"5": {
+			"path": "assets/characters/rmb93_4309/pic/pic_rmb93_4309_d.png"
 		}
 	},
 	"ro635-noarmor": {
@@ -4420,6 +4781,14 @@
 			"path": "assets/characters/special/ro635dinergate.png"
 		}
 	},
+	"ro635mod": {
+		"0": {
+			"path": "assets/characters/ro635mod/pic/pic_ro635mod.png"
+		},
+		"1": {
+			"path": "assets/characters/ro635mod/pic/pic_ro635mod_d.png"
+		}
+	},
 	"rpd": {
 		"0": {
 			"path": "assets/characters/rpd/pic/pic_rpd.png"
@@ -4449,6 +4818,18 @@
 		},
 		"6": {
 			"path": "assets/characters/rpk16/pic/pic_rpk16_eyes6.png"
+		},
+		"7": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16_1.png"
+		},
+		"8": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16_2.png"
+		},
+		"9": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16_3.png"
+		},
+		"10": {
+			"path": "assets/characters/rpk16/pic/pic_rpk16_4.png"
 		}
 	},
 	"rt20": {
@@ -4583,6 +4964,20 @@
 		},
 		"1": {
 			"path": "assets/characters/sks/pic/pic_sks_d.png"
+		},
+		"2": {
+			"path": "assets/characters/sks/pic/pic_sks_2.png"
+		},
+		"3": {
+			"path": "assets/characters/sks/pic/pic_sks_3.png"
+		}
+	},
+	"sks_he": {
+		"2": {
+			"path": "assets/characters/sks/pic/pic_sks_2.png"
+		},
+		"3": {
+			"path": "assets/characters/sks/pic/pic_sks_3.png"
 		}
 	},
 	"sl8": {
@@ -4796,6 +5191,20 @@
 		},
 		"1": {
 			"path": "assets/characters/supersass/pic/pic_supersass_d.png"
+		},
+		"2": {
+			"path": "assets/characters/supersass_1407/pic/pic_supersass_1407.png"
+		},
+		"3": {
+			"path": "assets/characters/supersass_1407/pic/pic_supersass_1407_d.png"
+		}
+	},
+	"supersassmod": {
+		"0": {
+			"path": "assets/characters/supersassmod/pic/pic_supersassmod.png"
+		},
+		"1": {
+			"path": "assets/characters/supersassmod/pic/pic_supersassmod_d.png"
 		}
 	},
 	"supershorty": {
@@ -4948,6 +5357,20 @@
 		},
 		"1": {
 			"path": "assets/characters/tar21/pic/pic_tar21_d.png"
+		},
+		"2": {
+			"path": "assets/characters/tar21_1305/pic/pic_tar21_1305.png"
+		},
+		"3": {
+			"path": "assets/characters/tar21_1305/pic/pic_tar21_1305_d.png"
+		}
+	},
+	"tar21_he": {
+		"2": {
+			"path": "assets/characters/tar21_1305/pic/pic_tar21_1305.png"
+		},
+		"3": {
+			"path": "assets/characters/tar21_1305/pic/pic_tar21_1305_d.png"
 		}
 	},
 	"tcms": {
@@ -5300,6 +5723,26 @@
 		},
 		"5": {
 			"path": "assets/characters/vector_1901/pic/pic_vector_1901_d.png"
+		},
+		"6": {
+			"path": "assets/characters/vector_2/pic/pic_vector_6.png"
+		},
+		"7": {
+			"path": "assets/characters/vector_2/pic/pic_vector_7.png"
+		}
+	},
+	"vectoragent": {
+		"0": {
+			"path": "assets/characters/vectoragent/pic/pic_vectoragent.png"
+		},
+		"1": {
+			"path": "assets/characters/vectoragent/pic/pic_vectoragent_1.png"
+		},
+		"2": {
+			"path": "assets/characters/vectoragent/pic/pic_vectoragent_2.png"
+		},
+		"3": {
+			"path": "assets/characters/vectoragent/pic/pic_vectoragent_3.png"
 		}
 	},
 	"vector_he": {
@@ -5314,6 +5757,12 @@
 		},
 		"5": {
 			"path": "assets/characters/vector_1901/pic/pic_vector_1901_d.png"
+		},
+		"6": {
+			"path": "assets/characters/vector_2/pic/pic_vector_6.png"
+		},
+		"7": {
+			"path": "assets/characters/vector_2/pic/pic_vector_7.png"
 		}
 	},
 	"vepr": {
@@ -5324,12 +5773,28 @@
 			"path": "assets/characters/vepr/pic/pic_vepr_d.png"
 		}
 	},
+	"vhs": {
+		"0": {
+			"path": "assets/characters/vhs/pic/pic_vhs.png"
+		},
+		"1": {
+			"path": "assets/characters/vhs/pic/pic_vhs_d.png"
+		}
+	},
 	"vp70": {
 		"0": {
 			"path": "assets/characters/vp70/pic/pic_vp70.png"
 		},
 		"1": {
 			"path": "assets/characters/vp70/pic/pic_vp70_d.png"
+		}
+	},
+	"vsk": {
+		"0": {
+			"path": "assets/characters/vsk/pic/pic_vsk.png"
+		},
+		"1": {
+			"path": "assets/characters/vsk/pic/pic_vsk_d.png"
 		}
 	},
 	"vz61": {
@@ -5522,6 +5987,9 @@
 		},
 		"5": {
 			"path": "assets/characters/zastavam21_2104/pic/pic_zastavam21_2104_d.png"
+		},
+		"6": {
+			"path": "assets/characters/zastavam21_4304/pic/pic_zastavam21_4304.png"
 		}
 	},
 	"zb26": {

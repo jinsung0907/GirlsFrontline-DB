@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"아직 이쪽으로 갈 때가 아닙니다, 먼저 마을을 더 둘러보죠."}]

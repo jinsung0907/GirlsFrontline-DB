@@ -569,6 +569,6 @@ function getcharimgdir($str, $emo) {
 	
   $str = strtolower($str);
   $path = $dolls->{$str}->{$emo}->path;
-  return str_replace('characters/', 'characters_original/', str_replace('assets/', '', $path));
+  return str_replace('characters/', 'characters/', str_replace('assets/', '', $path));
 }
 ?>

@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"왼쪽 돌무더기 너머에 아키텍트의 식별 신호가 감지된다, 지름길은 없을까...\n앞의 구멍으로 뛰어내릴 수 있을 것 같다."}]

@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"아직 이쪽으로 올 때가 아니야, 먼저 오른쪽을 탐색하자."}]

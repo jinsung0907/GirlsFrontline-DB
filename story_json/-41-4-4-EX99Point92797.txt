@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"모의전 기록 재생, 식별 번호 237614..."}]

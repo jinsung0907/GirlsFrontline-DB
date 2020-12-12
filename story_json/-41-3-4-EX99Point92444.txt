@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"text":"엘리베이터는 전기가 끊겨 안 움직인다."}]
