@@ -37,38 +37,42 @@
 		if($story->num == -36) continue;
 		?>
 		<div class="my-3 p-3 bg-white rounded box-shadow">
-			<h3 id="<?=$story->name?>" style="display: inline;margin-right:10px"><?=$story->name?> : <?=$story->keyword?></h3><b><i><?=$story->desc?></i></b>
-			<h6 class="border-bottom border-gray pb-2 mb-0"></h6>
-			<div class="media text-muted pt-3">
-				<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
-			<?php foreach($story->list as $list) { 
-					if($list->type == "일반") {
-						$typename = L::story_normal;
-						$href = $list->num;
-					} else if($list->type == "긴급") {
-						$typename = L::story_emergency;
-						$href = $list->num . "E";
-					} else if($list->type == "야간") {
-						$typename = L::story_night;
-						$href = $list->num . "N";
-					}
-					
-					if($list->num < 0) {
-						$typename = L::story_event;
-						$list->num = "";
-					}
-					
-					if($list-> num > 1000) {
-						$typename = L::story_prologue;
-						$list->num = "";
-					}
-					
-			?>
-					<a target="_blank" href="story.php?q=<?=$href?>"><strong class="d-block text-dark">(<?=$typename?>) <?=$list->num?> - <?=$list->name?></strong></a>
-					<i><?=$list->desc?></i><br><br>
-			<?php } ?>
-				</p>
-			</div>
+			<div style="cursor:pointer" data-toggle="collapse" data-target="#story_<?=$story->num?>">
+        <h3 id="<?=$story->name?>" style="display: inline;margin-right:10px;"><?=$story->name?> : <?=$story->keyword?></h3><b><i><?=$story->desc?></i></b>
+      </div>
+      <div id="story_<?=$story->num?>" class='collapse'>
+        <h6 class="border-bottom border-gray pb-2 mb-0"></h6>
+        <div class="media text-muted pt-3">
+          <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+        <?php foreach($story->list as $list) { 
+            if($list->type == "일반") {
+              $typename = L::story_normal;
+              $href = $list->num;
+            } else if($list->type == "긴급") {
+              $typename = L::story_emergency;
+              $href = $list->num . "E";
+            } else if($list->type == "야간") {
+              $typename = L::story_night;
+              $href = $list->num . "N";
+            }
+            
+            if($list->num < 0) {
+              $typename = L::story_event;
+              $list->num = "";
+            }
+            
+            if($list-> num > 1000) {
+              $typename = L::story_prologue;
+              $list->num = "";
+            }
+            
+        ?>
+            <a target="_blank" href="story.php?q=<?=$href?>"><strong class="d-block text-dark">(<?=$typename?>) <?=$list->num?> - <?=$list->name?></strong></a>
+            <i><?=$list->desc?></i><br><br>
+        <?php } ?>
+          </p>
+        </div>
+      </div>
 		</div>
 	<?php } ?>
     </main>

@@ -69,9 +69,11 @@ if(!isset($header_keyword)) $header_keyword = '';
 			   <a class="dropdown-item" href="/missing.php">missing_data</a>
 			  </div>
 			</li>
+      <!--
 			<li class="nav-item">
-              <a class="nav-link" href="<?=L::navigation_titile_kakaobot_link?>"><?=L::navigation_titile_kakaobot?></a>
-            </li>
+        <a class="nav-link" href="<?=L::navigation_titile_kakaobot_link?>"><?=L::navigation_titile_kakaobot?></a>
+      </li>
+      -->
 			<li class="nav-item dropdown">
 			 <a class="nav-link dropdown-toggle" href="#" id="storyDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 			  <?=L::navigation_title_story?>
