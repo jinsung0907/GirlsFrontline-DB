@@ -394,6 +394,7 @@ $starttime = microtime(true);
 			if($match[2] == "게파드M1") $match[2] = "게파드 M1";
 			if($match[2] == "그리즐리 MkV") $match[2] = "Grizzly";
 			if($match[2] == "그리즐리 MkⅤ") $match[2] = "Grizzly";
+			if($match[2] == "56-1") $match[2] = "56-1식";
 
 			if(strtolower($match[2]) == strtolower($doll->name) || strtolower($match[2]) == strtolower($doll->krName)) {
 				$tmpobj = new stdClass;
