@@ -67,7 +67,7 @@
             }
             
         ?>
-            <a target="_blank" href="story.php?q=<?=$href?>"><strong class="d-block text-dark">(<?=$typename?>) <?=$list->num?> - <?=$list->name?></strong></a>
+            <a target="_blank" href="story.php?q=<?=$href?>"><strong class="d-block">(<?=$typename?>) <?=$list->num?> - <?=$list->name?></strong></a>
             <i><?=$list->desc?></i><br><br>
         <?php } ?>
           </p>
@@ -80,4 +80,7 @@
 	require_once("footer.php");
 ?>
 	</body>
+  <style>
+    a:visited { color:#37404e !important; }
+  </style>
 </html>
