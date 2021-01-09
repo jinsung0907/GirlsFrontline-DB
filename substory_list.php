@@ -56,19 +56,23 @@
 			$comment = $story->comment . "<br><br>";
 		?>
 		<div class="my-3 p-3 bg-white rounded box-shadow"> 
-			<h2 style="display: inline;margin-right:10px"><?=$story->name?></h2><i><?=$story->desc?></i>
-			<h6 class="border-bottom border-gray pb-2 mb-0"></h6>
-			<div class="media text-muted pt-3">
-				<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
-					<?=$comment?>
-					
-			<?php foreach($story->list as $list) {
-                  $storyinfo = getSkinStoryInfo($skins, $list->num);
-      ?>
-					<a target="_blank" href="substory.php?t=2&q=<?=$list->num?>"><strong class="d-block text-dark"><?=$storyinfo->name?></strong></a>
-					<i><?=$storyinfo->desc?></i>
-					<br><br>
-			<?php } ?>
+			<div style="cursor:pointer" data-toggle="collapse" data-target="#story_<?=$story->num?>">
+				<h2 style="display: inline;margin-right:10px"><?=$story->name?></h2><i><?=$story->desc?></i>
+			</div>
+			<div id="story_<?=$story->num?>" class='collapse'>
+				<h6 class="border-bottom border-gray pb-2 mb-0"></h6>
+				<div class="media text-muted pt-3">
+					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+						<?=$comment?>
+						
+						<?php foreach($story->list as $list) {
+							$storyinfo = getSkinStoryInfo($skins, $list->num); ?>
+
+							<a target="_blank" href="substory.php?t=2&q=<?=$list->num?>"><strong class="d-block text-dark"><?=$storyinfo->name?></strong></a>
+							<i><?=$storyinfo->desc?></i>
+							<br><br>
+				<?php } ?>
+				</div>
 			</div>
 		</div>
 	<?php } ?>
