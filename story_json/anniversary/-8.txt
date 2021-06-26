@@ -1,0 +1,1 @@
+[{"character":["NPC-Seele"],"character_emotion":["0"],"speaker_name":"希尔","speaker":0,"bg":"96","text":"指挥官，恭喜你就职五周年。\n我们也算是老朋友了吧？刚认识你的时候，我们都还年轻，时间给我们都带来了改变……\n今年也要请你多照顾德尔了。"},{"character":["NPC-Seele"],"character_emotion":["0"],"speaker_name":"希尔","speaker":0,"text":"我？谢谢你的心意，但我能照顾好自己。"}]

@@ -1,0 +1,1 @@
+[{"character":["Lusa"],"character_emotion":["0"],"speaker_name":"Lusa","speaker":0,"bg":"97","text":"五周年快乐，指挥官，接我一球——\n诶……诶？！指挥官，你没事吧？！救命啊，有没有谁听得到啊！\nRex Zero1在吗——请帮帮我——"}]

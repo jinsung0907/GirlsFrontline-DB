@@ -1,0 +1,1 @@
+[{"character":["NPC-Maid"],"character_emotion":["0"],"speaker_name":"玛荷洛","speaker":0,"bg":"80","text":"指挥官，五周年快乐。\n我很高兴能在这个日子向您致以祝福。\n五年对于一个家政人形来说已经是足以被更换的年限了，但人类完全不是这样。\n您已经活过多少个五年了？\n是的，对人类来说，是时光让人变得更加宝贵。"},{"character":["NPC-Maid"],"character_emotion":["0"],"speaker_name":"玛荷洛","speaker":0,"text":"我能做的只有不断维护更新，以跟上您的步伐……希望下一个五年，我也还继续被使用着。"}]

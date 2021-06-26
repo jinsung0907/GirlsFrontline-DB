@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"댄들라이","speaker":0,"text":"지휘관님... 이 억제기가... 제 신호를 모두 끊어버렸습니다. 죄송하지만, 이젠 여러분 스스로 해결해야 합니다."}]

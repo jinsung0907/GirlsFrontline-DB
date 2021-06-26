@@ -1,1 +1,1 @@
-[{"character":["AR15Mod"],"character_emotion":["0"],"speaker_name":"AR15","speaker":0,"bg":"10","text":"전방에 미사일!\nM4! 내가 격추시킬 테니, M16을 따라잡아! 놓쳤다간 가만 안 둘 줄 알아!\n【<color=#FE0000FF>AR15의 스킬을 터치해, QTE 성공 시 미사일을 격추합니다.</color>】"}]
+[{"character":["AR15Mod"],"character_emotion":["0"],"speaker_name":"AR15","speaker":0,"commbox":true,"bg":"10","text":"전방에 미사일!\nM4! 내가 격추시킬 테니, M16을 따라잡아! 놓쳤다간 가만 안 둘 줄 알아!\n【<color=#FE0000FF>AR15의 스킬을 터치해, QTE 성공 시 미사일을 격추합니다.</color>】"}]

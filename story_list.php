@@ -48,6 +48,7 @@
       case -41: $bgimg = "/img/title/missionselect_Dual Randomness_base.png"; break;
       case -42: $bgimg = "/img/title/missionselect_Halloween2020_base.png"; break;
       case -43: $bgimg = "/img/title/missionselect_TheDivision_base.png"; break;
+      case -44: $bgimg = "/img/title/missionselect_MirrorStage_base.png"; break;
       default: $bgimg = "/img/title/chapter{$story->num}_base.png"; break;
     }
 
@@ -103,7 +104,7 @@
       </div>
     </div>';
     if($story->num == -31) continue;
-    if($story->num == -31) echo '<div class="card mb-3">
+    if($story->num == -36) echo '<div class="card mb-3">
       <div class="card-header p-0 story-header" style="background-image: url(\'/img/title/missionselect_PolarizedLight_base.png\');" data-toggle="collapse" data-target="#story_polarizedlight">
         <div class="p-3">
           <h3 id="singularity">(대형이벤트) 편극광</h3>
@@ -120,6 +121,23 @@
       </div>
     </div>';		
 		if($story->num == -36) continue;
+    if($story->num == -44) echo '<div class="card mb-3">
+      <div class="card-header p-0 story-header" style="background-image: url(\'/img/title/missionselect_MirrorStage_base.png\');" data-toggle="collapse" data-target="#story_mirrorstage">
+        <div class="p-3">
+          <h3 id="singularity">(대형이벤트) 거울단계</h3>
+        </div>
+      </div>
+      <div id="story_mirrorstage" class="collapse">
+        <div class="card-body">
+          <div class="text-muted">
+            <p class="small">
+              <a target="_blank" href="mirrorstage.php"><strong class="d-block text-dark">거울단계</strong></a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>';		
+    if($story->num == -44) continue;
 		?>
 
    <div class="card mb-3">
