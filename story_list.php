@@ -104,7 +104,7 @@
       </div>
     </div>';
     if($story->num == -31) continue;
-    if($story->num == -31) echo '<div class="card mb-3">
+    if($story->num == -36) echo '<div class="card mb-3">
       <div class="card-header p-0 story-header" style="background-image: url(\'/img/title/missionselect_PolarizedLight_base.png\');" data-toggle="collapse" data-target="#story_polarizedlight">
         <div class="p-3">
           <h3 id="singularity">(대형이벤트) 편극광</h3>
@@ -121,7 +121,6 @@
       </div>
     </div>';		
 		if($story->num == -36) continue;
-    if($story->num == -44) continue;
     if($story->num == -44) echo '<div class="card mb-3">
       <div class="card-header p-0 story-header" style="background-image: url(\'/img/title/missionselect_MirrorStage_base.png\');" data-toggle="collapse" data-target="#story_mirrorstage">
         <div class="p-3">
@@ -138,6 +137,7 @@
         </div>
       </div>
     </div>';		
+    if($story->num == -44) continue;
 		?>
 
    <div class="card mb-3">
