@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":""},{"character":[""],"character_emotion":[""],"speaker_name":"응원요정","speaker":0,"text":"싸워라, 이겨라, 천하무적 그리폰!"}]

@@ -1,0 +1,1 @@
+[{"character":["NPC-Helian"],"character_emotion":["0"],"speaker_name":"赫丽安","speaker":0,"bg":"96","text":"你已经来这里第五年了，真是不可思议。\n或许你不清楚，指挥官，能在安全承包商这行持续做下来的人是很少的。许多人难以应对这样的工作压力，也有人因为接触到了不该接触的东西而被迫改行。\n能留下的人，运气、才能和坚韧缺一不可。\n今天说这个是不是太严肃了？"},{"character":["NPC-Helian"],"character_emotion":["0"],"speaker_name":"赫丽安","speaker":0,"text":"祝贺你，我们的指挥官，五周年快乐。"}]

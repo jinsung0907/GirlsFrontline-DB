@@ -1,0 +1,1 @@
+[{"character":["VSK"],"character_emotion":["0"],"speaker_name":"VSK-94","speaker":0,"bg":"83","text":"有什么事吗？抱歉，今天我需要全神贯注在安保的事情上。\n……但为你腾出几秒应该可以。\n……\n好了，五周年快乐，Boss。去忙你的事吧，还有很多人等着你。"}]

@@ -1,0 +1,1 @@
+[{"character":["NPC-Jason"],"character_emotion":["0"],"speaker_name":"K","speaker":0,"bg":"83","text":"五周年？我对这方面不太敏感，而且看样子你也没有因此得到更多休假。\n比起这些形式上的庆祝，难道不是实打实的假期和奖金更好吗？"},{"character":["NPC-Jason"],"character_emotion":["0"],"speaker_name":"K","speaker":0,"text":"去争取一下吧，我就不指望了。"}]

@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"짜자잔! 지도 위에 무언가가 나타났습니다!"}]

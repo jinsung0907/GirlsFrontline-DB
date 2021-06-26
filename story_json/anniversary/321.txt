@@ -1,0 +1,1 @@
+[{"character":["TavorTS12"],"character_emotion":["0"],"speaker_name":"TS12","speaker":0,"bg":"97","text":"哦啊！打这么狠，牙都松了……呸！\n啊，啥，今天有庆典？\n哦……没事，我忘了，收拾一下就过去。\n都这时候还窝在实验室，K11，你这难搞的女人……"}]

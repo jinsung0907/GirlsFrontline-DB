@@ -1,0 +1,1 @@
+[{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"심문실 근처에서 찾은 도구로 필요시에 성가신 적을 해치울 수 있을 겁니다."},{"character":[""],"character_emotion":[""],"speaker_name":"","speaker":0,"bg":"10","text":"보유량이 충분한 상황에서 신중하게 사용하세요."}]

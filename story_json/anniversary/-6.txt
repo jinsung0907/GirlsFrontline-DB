@@ -1,0 +1,1 @@
+[{"character":["NPC-Kyruger"],"character_emotion":["0"],"speaker_name":"克鲁格","speaker":0,"bg":"85","text":"恭喜你入职五周年，我们的指挥官。\n按说我应该和你碰个杯，但是你今天要做的事还有很多吧？\n去吧，指挥官，做你现在更想做的事。"},{"character":["NPC-Kyruger"],"character_emotion":["0"],"speaker_name":"克鲁格","speaker":0,"text":"酒就留到晚上再喝，时间会让它更有韵味。"}]

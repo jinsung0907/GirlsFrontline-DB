@@ -1,0 +1,1 @@
+[{"character":["NPC-Deele"],"character_emotion":["0"],"speaker_name":"德尔","speaker":0,"bg":"96","text":"你居然在这里待了五年还没死，是不是该有点庆祝的活动？\n比如说和我一起打游戏，或者我给你一张只能在我这里用的一折券，让我们下次的交易更愉快？"},{"character":["NPC-Deele"],"character_emotion":["0"],"speaker_name":"德尔","speaker":0,"text":"先说好，更特别的东西是没有的。"}]

@@ -1,0 +1,1 @@
+[{"character":["PPD40"],"character_emotion":["0"],"speaker_name":"PPD-40","speaker":0,"bg":"97","text":"五周年，更少的工作和更高的薪水……当然一个都没有实现。\n不过算了，在这里既有很有品位的老板，也有不错的同事……等等，刚才窜过去的那个是？！"},{"character":["PPD40"],"character_emotion":["0"],"speaker_name":"PPD40","speaker":0,"text":"哪来的猞猁，把我的配饰放下！喂！"}]
