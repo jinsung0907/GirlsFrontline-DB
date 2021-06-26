@@ -70,7 +70,7 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
                외전
 						</div>
 						<div class="col-3 item">
-              뉴스
+              DRF 24
 						</div>
 					</div>
           
@@ -195,7 +195,7 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
                외전
 						</div>
 						<div class="col-3 item">
-              뉴스
+              DRF 24
 						</div>
 					</div>
           
@@ -347,7 +347,7 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
                외전
 						</div>
 						<div class="col-3 item">
-              뉴스
+              DRF 24
 						</div>
 					</div>
           
@@ -454,7 +454,7 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
                외전
 						</div>
 						<div class="col-3 item">
-              뉴스
+              DRF 24
 						</div>
 					</div>
           
