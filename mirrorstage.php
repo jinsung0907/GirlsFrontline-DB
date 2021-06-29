@@ -310,14 +310,8 @@ if(!preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|
           
           <div class="row">
 						<div class="col-3 item">
-              <a target="_blank" href="story.php?q=-44-A2-1">
-								<span>ㅁㅁㅁㅁㅁㅁㅁㅁ</span>
-							</a>
 						</div>
 						<div class="col-3 item">
-							<a target="_blank" href="story.php?q=-44-B2-1">
-								<span>ㅁㅁㅁㅁㅁㅁㅁㅁㅁ</span>
-							</a>
 						</div>
 						<div class="col-3 item">
 							<a target="_blank" href="story.php?q=-44-A2-5a">
